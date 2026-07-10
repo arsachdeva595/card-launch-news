@@ -32,9 +32,19 @@ is then enriched with a public announcement link and community discussion
 1. **Google Programmable Search Engine** (free, no billing/card required for
    the 100 queries/day tier):
    - Create a search engine at
-     [programmablesearchengine.google.com](https://programmablesearchengine.google.com/controlpanel/create),
-     set it to "Search the entire web", and copy its **Search engine ID**
-     (this is `cx`).
+     [programmablesearchengine.google.com](https://programmablesearchengine.google.com/controlpanel/create).
+     As of a Google policy change (2026-01-20), new engines can no longer
+     search the entire web — they must specify "Sites to search" (max 50
+     domains). Enter any single placeholder site to get past creation (e.g.
+     `www.sbicard.com/*`).
+   - After creating it, go to that engine's **Setup → Basics** page and
+     replace the site list with the domains in
+     [`config/search-domains.json`](config/search-domains.json) (24 issuer
+     domains + reddit/x/twitter/youtube + 8 Indian financial news/card-review
+     sites — 36 total, using the "Entire domain" pattern, e.g.
+     `*.sbicard.com`). This is a curated stand-in for whole-web search; add
+     more domains later if a source you care about is missing (cap is 50).
+   - Copy the **Search engine ID** from that page (this is `cx`).
    - Create an API key at
      [console.cloud.google.com](https://console.cloud.google.com/apis/credentials)
      (enable the "Custom Search API" for the project first), and copy the
@@ -61,7 +71,11 @@ itself decides whether enough time has passed.
 ## Adding/removing issuers
 
 Edit `config/issuers.json`. Each entry needs `slug`, `name`, `officialUrl`,
-and `sitemapUrl`. Sitemap index files (`<sitemapindex>`) are followed
+and `sitemapUrl`. If you add an issuer, also add its domain to the "Sites to
+search" list in the Google PSE control panel (and to
+`config/search-domains.json` for reference) — otherwise its announcement
+pages won't be found by enrichment, since the search engine is restricted to
+the configured domain list. Sitemap index files (`<sitemapindex>`) are followed
 automatically, so you can point `sitemapUrl` at either a sitemap index or a
 plain urlset.
 

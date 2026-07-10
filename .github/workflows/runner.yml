@@ -12,6 +12,10 @@ on:
         description: "Run even if not due yet per frequencyDays"
         type: boolean
         default: false
+      frequencyDays:
+        description: "Optionally change the check frequency (in days) permanently, e.g. 1 for daily. Leave blank to keep the current value."
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -42,6 +46,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           FORCE_RUN: ${{ inputs.force && 'true' || 'false' }}
+          FREQUENCY_DAYS_OVERRIDE: ${{ inputs.frequencyDays }}
         run: npm run run
 
       - name: Commit and push data updates

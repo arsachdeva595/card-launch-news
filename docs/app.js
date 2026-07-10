@@ -261,6 +261,29 @@ function renderAll(query) {
 
 searchInput.addEventListener("input", () => renderAll(searchInput.value));
 
+const REPO_URL = "https://github.com/arsachdeva595/card-launch-news";
+
+function renderSettings(meta) {
+  const settingsContent = document.getElementById("settings-content");
+  settingsContent.innerHTML = `
+    <dl class="settings-list">
+      <div><dt>Check frequency</dt><dd>Every ${escapeHtml(meta.frequencyDays ?? "?")} day(s)</dd></div>
+      <div><dt>Last checked</dt><dd>${meta.lastRunAt ? formatDate(meta.lastRunAt) : "Never yet"}</dd></div>
+      <div><dt>Issuers tracked</dt><dd>${escapeHtml(meta.issuerCount ?? "?")}</dd></div>
+      <div><dt>Launches tracked</dt><dd>${escapeHtml(meta.totalLaunchesTracked ?? 0)}</dd></div>
+      <div><dt>Changes tracked</dt><dd>${escapeHtml(meta.totalChangesTracked ?? 0)}</dd></div>
+      <div><dt>Change detection</dt><dd>${meta.changeDetectionEnabled === false ? "Disabled" : "Enabled"}</dd></div>
+    </dl>
+    <p class="settings-note">
+      This is a static site — settings changes happen on GitHub, not here.
+    </p>
+    <div class="settings-links">
+      <a href="${REPO_URL}/actions/workflows/runner.yml" target="_blank" rel="noopener noreferrer">Run a check now →</a>
+      <a href="${REPO_URL}/edit/main/config/settings.json" target="_blank" rel="noopener noreferrer">Edit settings (frequency, patterns, etc.) →</a>
+    </div>
+  `;
+}
+
 async function init() {
   try {
     const [launchesRes, changesRes, metaRes] = await Promise.all([
@@ -277,6 +300,7 @@ async function init() {
       ? `Last checked ${formatDate(meta.lastRunAt)} · tracking ${meta.issuerCount} issuers · checking every ${meta.frequencyDays} day(s)`
       : "Runner has not completed a pass yet.";
 
+    renderSettings(meta);
     renderAll("");
   } catch (err) {
     metaLine.textContent = "Could not load feed data.";

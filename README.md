@@ -102,9 +102,22 @@ existing card's page changes (fee/benefit/terms updates, discontinuations).
 
 ## Changing the check frequency
 
-Edit `frequencyDays` in `config/settings.json` (default: `7`) and commit. No
-workflow YAML changes needed — the cron always fires daily, the script
-itself decides whether enough time has passed.
+Two ways, both end up editing the same `frequencyDays` field in
+`config/settings.json` (default: `7`):
+
+- **From GitHub's UI** (no file editing): Actions tab → "Card launch runner"
+  → Run workflow → fill in the `frequencyDays` input (e.g. `1` for daily) →
+  Run workflow. The script persists it, so it becomes the new steady-state
+  frequency, not just a one-off override. Leave it blank to keep the current
+  value.
+- **Directly**: edit `frequencyDays` in `config/settings.json` and commit
+  (either locally, or via GitHub's inline file editor at
+  `github.com/<you>/<repo>/edit/main/config/settings.json`).
+
+Either way, no workflow YAML changes are needed — the cron always fires
+daily, the script itself decides whether enough time has actually passed.
+The site's "Settings" panel (collapsed under the search bar) shows the
+current frequency and links to both of the above.
 
 ## Adding/removing issuers
 

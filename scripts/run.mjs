@@ -32,6 +32,12 @@ async function main() {
     readJson(PATHS.settings, { frequencyDays: 7, lastRunAt: null })
   ]);
 
+  const frequencyOverride = Number(process.env.FREQUENCY_DAYS_OVERRIDE);
+  if (process.env.FREQUENCY_DAYS_OVERRIDE && Number.isFinite(frequencyOverride) && frequencyOverride > 0) {
+    console.log(`Overriding frequencyDays: ${settings.frequencyDays} -> ${frequencyOverride}`);
+    settings.frequencyDays = frequencyOverride;
+  }
+
   if (!force && !isDue(settings)) {
     console.log(
       `Not due yet (frequencyDays=${settings.frequencyDays}, lastRunAt=${settings.lastRunAt}). Skipping. Use --force to override.`
@@ -84,6 +90,7 @@ async function main() {
   await writeJson(PATHS.meta, {
     lastRunAt: nowIso,
     frequencyDays: settings.frequencyDays ?? 7,
+    changeDetectionEnabled: settings.changeDetection?.enabled !== false,
     issuerCount: issuers.length,
     totalLaunchesTracked: mergedLaunches.length,
     totalChangesTracked: mergedChanges.length

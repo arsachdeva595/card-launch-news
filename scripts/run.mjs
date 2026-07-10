@@ -3,6 +3,7 @@ import { enrichCandidate } from "./enrich.mjs";
 import { detectChanges } from "./detect-changes.mjs";
 import { enrichChangeCandidate } from "./enrich-change.mjs";
 import { notifyTelegram } from "./lib/notify.mjs";
+import { formatLaunchMessage, formatChangeMessage } from "./lib/telegram-format.mjs";
 import { readJson, writeJson, PATHS } from "./lib/state.mjs";
 
 const MAX_LAUNCHES_KEPT = 200;
@@ -90,17 +91,17 @@ async function main() {
 
   await writeJson(PATHS.settings, { ...settings, lastRunAt: nowIso });
 
-  if (newLaunches.length > 0 || newChanges.length > 0) {
-    const lines = ["<b>Card Launch News update</b>"];
-    if (newLaunches.length > 0) {
-      lines.push("", `<b>${newLaunches.length} new card(s) launched:</b>`);
-      for (const l of newLaunches) lines.push(`• ${l.cardName} (${l.issuerName}) — ${l.productPageUrl}`);
-    }
-    if (newChanges.length > 0) {
-      lines.push("", `<b>${newChanges.length} card page(s) changed:</b>`);
-      for (const c of newChanges) lines.push(`• ${c.cardName} (${c.issuerName}) — ${c.productPageUrl}`);
-    }
-    await notifyTelegram(lines.join("\n"));
+  // One message per item (not a bundled summary) so each notification is a
+  // complete, self-contained record of what was found — title, links, and
+  // everything else stored for that card. A small delay between sends keeps
+  // us under Telegram's ~1 msg/sec-per-chat guidance.
+  for (const launch of newLaunches) {
+    await notifyTelegram(formatLaunchMessage(launch, settings.siteUrl));
+    await new Promise((resolve) => setTimeout(resolve, 1100));
+  }
+  for (const change of newChanges) {
+    await notifyTelegram(formatChangeMessage(change, settings.siteUrl));
+    await new Promise((resolve) => setTimeout(resolve, 1100));
   }
 
   console.log(

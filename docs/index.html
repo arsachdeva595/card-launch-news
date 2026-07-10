@@ -13,15 +13,21 @@
       <h1>Card Launch News</h1>
       <p class="tagline">Newly launched Indian credit cards, detected automatically from issuer sitemaps.</p>
       <p class="meta-line" id="meta-line">Loading status…</p>
+      <div class="search-bar">
+        <input
+          type="search"
+          id="search-input"
+          placeholder="Search by card or bank name…"
+          aria-label="Search tracked cards"
+        />
+      </div>
     </div>
   </header>
 
   <main class="feed">
     <section class="feed-section">
       <h2>New launches</h2>
-      <p class="empty-state" id="launches-empty-state" hidden>
-        No launches tracked yet. The runner populates this feed on its next scheduled pass.
-      </p>
+      <p class="empty-state" id="launches-empty-state" hidden></p>
       <div class="tile-grid" id="launches-grid"></div>
     </section>
 
@@ -30,9 +36,7 @@
       <p class="section-subtitle">
         Existing cards whose page content changed since last check — fees, benefits, or terms updates.
       </p>
-      <p class="empty-state" id="changes-empty-state" hidden>
-        No changes detected yet.
-      </p>
+      <p class="empty-state" id="changes-empty-state" hidden></p>
       <div class="tile-grid" id="changes-grid"></div>
     </section>
   </main>

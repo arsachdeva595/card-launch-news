@@ -2,6 +2,11 @@ const metaLine = document.getElementById("meta-line");
 const overlay = document.getElementById("overlay");
 const detailContent = document.getElementById("detail-content");
 const closeBtn = document.getElementById("close-btn");
+const searchInput = document.getElementById("search-input");
+
+let allLaunches = [];
+let allChanges = [];
+let currentFrequencyDays = 7;
 
 // All card names, search-result titles/snippets, and diff text originate
 // from external sources (issuer pages, search API results) - escape before
@@ -137,12 +142,67 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") closeDetail();
 });
 
-function renderTiles({ items, gridEl, emptyStateEl, kind, dateField, frequencyDays }) {
+// --- Fuzzy search --------------------------------------------------------
+// Three-tier, dependency-free scoring: exact substring beats word-overlap
+// beats typo-tolerant character-subsequence matching. Returns -Infinity for
+// "not a match at all" so callers can filter with `score > -Infinity`.
+function normalizeForSearch(s) {
+  return s
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[^a-z0-9 ]/g, "");
+}
+
+function fuzzyScore(query, target) {
+  const q = normalizeForSearch(query).trim();
+  const t = normalizeForSearch(target);
+  if (!q) return 0;
+
+  const substringIdx = t.indexOf(q);
+  if (substringIdx !== -1) return 1000 - substringIdx;
+
+  const qWords = q.split(/\s+/).filter(Boolean);
+  const tWords = t.split(/\s+/).filter(Boolean);
+  const tokenMatches = qWords.filter((qw) => tWords.some((tw) => tw.includes(qw))).length;
+  if (tokenMatches > 0) return 500 * (tokenMatches / qWords.length);
+
+  let ti = 0;
+  let matchedChars = 0;
+  for (const ch of q) {
+    if (ch === " ") continue;
+    const foundAt = t.indexOf(ch, ti);
+    if (foundAt === -1) continue;
+    matchedChars++;
+    ti = foundAt + 1;
+  }
+  const significantChars = q.replace(/\s+/g, "").length;
+  const ratio = significantChars > 0 ? matchedChars / significantChars : 0;
+  return ratio >= 0.7 ? 100 * ratio : -Infinity;
+}
+
+function bestScore(query, item) {
+  return Math.max(fuzzyScore(query, item.cardName), fuzzyScore(query, item.issuerName));
+}
+
+function filterAndSort(items, query) {
+  if (!query.trim()) return items;
+  return items
+    .map((item) => ({ item, score: bestScore(query, item) }))
+    .filter(({ score }) => score > -Infinity)
+    .sort((a, b) => b.score - a.score)
+    .map(({ item }) => item);
+}
+// --------------------------------------------------------------------------
+
+function renderTiles({ items, gridEl, emptyStateEl, kind, dateField, frequencyDays, emptyMessage }) {
   if (items.length === 0) {
+    emptyStateEl.textContent = emptyMessage;
     emptyStateEl.hidden = false;
+    gridEl.innerHTML = "";
     return;
   }
 
+  emptyStateEl.hidden = true;
   gridEl.innerHTML = "";
   for (const item of items) {
     const tile = document.createElement("button");
@@ -164,6 +224,43 @@ function renderTiles({ items, gridEl, emptyStateEl, kind, dateField, frequencyDa
   }
 }
 
+function renderAll(query) {
+  const filteredLaunches = filterAndSort(allLaunches, query);
+  const filteredChanges = filterAndSort(allChanges, query);
+  const isSearching = query.trim().length > 0;
+
+  renderTiles({
+    items: filteredLaunches,
+    gridEl: document.getElementById("launches-grid"),
+    emptyStateEl: document.getElementById("launches-empty-state"),
+    kind: "launch",
+    dateField: "discoveredAt",
+    frequencyDays: currentFrequencyDays,
+    emptyMessage: isSearching
+      ? `No launches match "${query}".`
+      : "No launches tracked yet. The runner populates this feed on its next scheduled pass."
+  });
+
+  renderTiles({
+    items: filteredChanges,
+    gridEl: document.getElementById("changes-grid"),
+    emptyStateEl: document.getElementById("changes-empty-state"),
+    kind: "change",
+    dateField: "detectedAt",
+    frequencyDays: currentFrequencyDays,
+    emptyMessage: isSearching ? `No changes match "${query}".` : "No changes detected yet."
+  });
+
+  // If the search narrows things down to exactly one card total, jump
+  // straight to its detail view instead of making the user click it.
+  if (isSearching && filteredLaunches.length + filteredChanges.length === 1) {
+    if (filteredLaunches.length === 1) openDetail(filteredLaunches[0], "launch");
+    else openDetail(filteredChanges[0], "change");
+  }
+}
+
+searchInput.addEventListener("input", () => renderAll(searchInput.value));
+
 async function init() {
   try {
     const [launchesRes, changesRes, metaRes] = await Promise.all([
@@ -171,31 +268,16 @@ async function init() {
       fetch("data/changes.json", { cache: "no-store" }),
       fetch("data/meta.json", { cache: "no-store" })
     ]);
-    const launches = await launchesRes.json();
-    const changes = changesRes.ok ? await changesRes.json() : [];
+    allLaunches = await launchesRes.json();
+    allChanges = changesRes.ok ? await changesRes.json() : [];
     const meta = await metaRes.json();
+    currentFrequencyDays = meta.frequencyDays || 7;
 
     metaLine.textContent = meta.lastRunAt
       ? `Last checked ${formatDate(meta.lastRunAt)} · tracking ${meta.issuerCount} issuers · checking every ${meta.frequencyDays} day(s)`
       : "Runner has not completed a pass yet.";
 
-    renderTiles({
-      items: launches,
-      gridEl: document.getElementById("launches-grid"),
-      emptyStateEl: document.getElementById("launches-empty-state"),
-      kind: "launch",
-      dateField: "discoveredAt",
-      frequencyDays: meta.frequencyDays
-    });
-
-    renderTiles({
-      items: changes,
-      gridEl: document.getElementById("changes-grid"),
-      emptyStateEl: document.getElementById("changes-empty-state"),
-      kind: "change",
-      dateField: "detectedAt",
-      frequencyDays: meta.frequencyDays
-    });
+    renderAll("");
   } catch (err) {
     metaLine.textContent = "Could not load feed data.";
     console.error(err);

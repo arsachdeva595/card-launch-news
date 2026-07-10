@@ -57,8 +57,30 @@ body {
 }
 
 .meta-line {
-  margin: 0;
+  margin: 0 0 1rem;
   font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.search-bar input {
+  width: 100%;
+  max-width: 420px;
+  padding: 0.6rem 0.9rem;
+  font-size: 0.9rem;
+  font-family: inherit;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  outline: none;
+  transition: border-color 0.12s ease;
+}
+
+.search-bar input:focus {
+  border-color: var(--accent);
+}
+
+.search-bar input::placeholder {
   color: var(--text-muted);
 }
 

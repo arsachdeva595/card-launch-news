@@ -8,12 +8,38 @@ existing card's page changes (fee/benefit/terms updates, discontinuations).
   as a launch signal. The card's own official page *is* the announcement
   (no search needed for that part); each candidate is also enriched with
   Reddit/YouTube community discussion where findable.
-- **Card changes**: every card-shaped page already known from the sitemap
-  crawl gets fetched and content-hashed each run; a hash that differs from
-  last run's stored hash means the page's content changed, and a line-level
-  diff of what changed gets computed and shown. Enriched with Reddit/YouTube
-  discussion of the change.
-- Optional Telegram notification when either happens.
+- **Card changes, two tiers**:
+  - **Tier 1 — full diff**: `config/tracked-cards.json` is a curated,
+    hand-maintained list of ~590 known real card product pages (name +
+    official URL + issuer + active/discontinued status). Every card in this
+    list gets fetched, content-hashed, and diffed on every run — a hash that
+    differs from last run means the page's content changed, and a
+    line-level diff of what actually changed gets shown.
+  - **Tier 2 — lightweight ping**: every *other* card-shaped URL turned up
+    by the sitemap crawl (blog posts, FAQ sub-pages, co-brand variants not
+    yet in the curated list, etc. — this can run into the thousands) only
+    gets its sitemap `<lastmod>` compared across runs, no page fetch at all.
+    A moved `lastmod` sends a terse "something changed here" ping to
+    Telegram, with no diff/enrichment behind it. This is what keeps daily
+    runtime in the minutes rather than hours — see "Why two tiers" below.
+- Optional Telegram notification for all three (launches, tier-1 changes,
+  tier-2 pings).
+
+### Why two tiers for change detection
+
+Early testing fetched *every* card-shaped sitemap URL across all 24
+issuers — 5,756 pages after some pattern bugs were fixed, still ~2,680 after
+fixing a locale bug on Amex's global sitemap and excluding common card
+sub-pages (fees/features/rewards/FAQ pages that inflate the count without
+adding much signal). At roughly a second per page (delay + fetch time),
+that's over an hour daily just for change detection. A curated list of
+actual card pages (contributed as `inputs/All Banks-Creditcard official
+links + Status - *.csv`, converted into `config/tracked-cards.json`) is both
+faster (~590 pages, ~10-15 minutes) *and* more complete for issuers whose
+URL structure doesn't match the generic patterns at all (e.g. DBS's card
+pages don't contain "credit-card" or "card/" anywhere in the URL, so the
+generic crawler finds zero of them — only the curated list does). Tier 2
+keeps a low-fidelity signal for everything else without the fetch cost.
 
 **Why Reddit + YouTube specifically, not general web search**: every general
 web-search option hit a wall — Brave requires a billing card even for the
@@ -33,37 +59,47 @@ an honest label rather than something that looks broken.
 1. **`scripts/crawl.mjs`** fetches every issuer's sitemap (see
    `config/issuers.json`), compares it against the last-seen snapshot in
    `data/sitemap-snapshots/`, and emits new URLs that match card-like path
-   patterns (`config/settings.json` → `candidatePatterns`). It also returns
-   every currently-live card-matching URL per issuer (new or not), for the
-   change-detection step to reuse without a second sitemap fetch.
+   patterns (`config/settings.json` → `candidatePatterns`) as new-launch
+   candidates. It also returns every currently-live card-matching URL per
+   issuer (new or not) — this is the raw material for Tier 2 pings, not
+   fetched further at this stage.
 2. **`scripts/enrich.mjs`** takes each new-launch candidate, fetches its page
    `<title>` to derive a card name, uses the card's own page as the
    announcement, and searches Reddit (`scripts/lib/reddit.mjs`) and YouTube
    (`scripts/lib/youtube.mjs`) for community discussion.
-3. **`scripts/detect-changes.mjs`** fetches every card-matching page via
-   `scripts/lib/content-hash.mjs`, which extracts the page's visible text
-   (stripping scripts/styles/comments/tags so markup churn doesn't cause
-   false positives) and hashes it, comparing against the hash stored in
-   `data/page-hashes/`. A changed hash (on a page seen before — first
-   sightings just establish a baseline) becomes a change candidate. The full
-   extracted text is stored alongside the hash (not just the hash) so the
+3. **`scripts/detect-changes.mjs`** (Tier 1) fetches every card in
+   `config/tracked-cards.json` via `scripts/lib/content-hash.mjs`, which
+   extracts the page's visible text (stripping scripts/styles/comments/tags
+   so markup churn doesn't cause false positives) and hashes it, comparing
+   against the hash stored in `data/page-hashes/`. A changed hash (on a card
+   seen before — first sightings just establish a baseline) becomes a change
+   candidate. The full extracted text is stored alongside the hash so the
    *next* change has something to diff against.
 4. When a change is found, `scripts/lib/text-diff.mjs` computes a line-level
    diff between the old and new text (plain LCS-backtrack, no dependency) and
    trims it down to a unified-diff-style set of hunks — just the changed
    lines plus a little context, capped in size — which is what actually
    renders in the "What changed" section of the detail view.
-6. **`scripts/enrich-change.mjs`** takes each change candidate and searches
-   Reddit/YouTube for discussion confirming what changed.
-7. **`scripts/run.mjs`** orchestrates all of the above, merges results into
-   `docs/data/launches.json` and `docs/data/changes.json`, writes
-   `docs/data/meta.json`, and sends a Telegram notification
-   (`scripts/lib/notify.mjs`) summarizing anything new/changed, if
+5. **`scripts/enrich-change.mjs`** takes each Tier 1 change candidate (the
+   card name is already known from `tracked-cards.json`, no title fetch
+   needed) and searches Reddit/YouTube for discussion confirming what
+   changed.
+6. **`scripts/detect-pings.mjs`** (Tier 2) takes every card-matching sitemap
+   URL from step 1 that *isn't* in `tracked-cards.json`, and compares each
+   one's `<lastmod>` (already known from the sitemap, no fetch needed) to
+   what was stored in `data/lastmod-snapshots/` last run. A moved `lastmod`
+   becomes a lightweight ping — Telegram-only, no diff, no enrichment.
+7. **`scripts/run.mjs`** orchestrates all of the above, merges Tier 1 results
+   into `docs/data/launches.json` and `docs/data/changes.json`, writes
+   `docs/data/meta.json`, and sends Telegram notifications
+   (`scripts/lib/notify.mjs`/`scripts/lib/telegram-format.mjs`) for
+   launches, Tier 1 changes, and Tier 2 pings, if
    `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID` are configured.
 8. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
-   reads those JSON files and renders two tile feeds (launches, changes) with
-   a shared detail view, including a rendered diff for changes. It's served
-   directly by GitHub Pages — no build step.
+   reads the launches/changes JSON files and renders two tile feeds with a
+   shared detail view, including a rendered diff for changes. Tier 2 pings
+   don't appear on the site, only in Telegram. Served directly by GitHub
+   Pages — no build step.
 9. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
    `scripts/run.mjs` only actually does work once `frequencyDays` (in
    `config/settings.json`) has elapsed since the last run. Trigger a run
@@ -136,6 +172,35 @@ automatically, so you can point `sitemapUrl` at either a sitemap index or a
 plain urlset. No search-engine domain list to maintain anymore — Reddit and
 YouTube search aren't domain-restricted the way the old Google PSE setup was.
 
+An issuer can optionally set `pathMustInclude` (e.g. Amex's `"/en-in/"`) if
+its sitemap covers multiple countries/locales — without this, every card
+pattern match sweeps in every locale's pages too.
+
+## Maintaining the curated tracked-cards list (Tier 1)
+
+Edit `config/tracked-cards.json` directly — each entry needs `cardName`,
+`issuerSlug` (must match a slug in `config/issuers.json`), `url`, and
+`status` (`Active`/`Discontinued`/anything else you want to track by).
+This is the list that gets full fetch+hash+diff treatment every run, so:
+
+- **Add a card** when you notice one missing (e.g. from a Tier 2 ping, or
+  just browsing an issuer's site) to start getting full diffs for it instead
+  of just a lightweight ping.
+- **New launches get added here automatically** in spirit but not in
+  practice yet — `scripts/enrich.mjs` derives a `cardName` for every new
+  launch, but nothing currently appends it to `tracked-cards.json`. Add
+  newly-launched cards here manually if you want them to get full diff
+  treatment going forward (they'll otherwise fall through to Tier 2's
+  lightweight lastmod ping, which still works, just without a diff).
+- Removing an entry just stops full-diff tracking for it; its
+  `data/page-hashes/<issuer>.json` entry is harmlessly orphaned (not
+  cleaned up automatically).
+
+The original source list (contributed as a spreadsheet export) lives at
+`inputs/All Banks-Creditcard official links + Status - *.csv` for
+reference/reprocessing, but isn't read by any script — only
+`config/tracked-cards.json` is live.
+
 ## Local testing
 
 ```bash
@@ -159,13 +224,20 @@ them, searches are skipped and card entries are still created with
   API path for it (X's API requires a paid tier; Nitter, the old free
   workaround, is mostly dead). The UI is explicit about this rather than
   showing a misleading "not found yet."
-- Change detection fetches every card-matching page on every run (not just
-  one sitemap.xml per issuer), which is a lot more requests to each issuer's
-  servers than launch detection alone. Some issuers already show WAF
+- Tier 1 fetches every card in `tracked-cards.json` (~590 pages) on every
+  run — a lot more requests to each issuer's servers than launch detection
+  alone, though far less than fetching every card-matching sitemap URL
+  (2,680+ before scoping to the curated list). Some issuers already show WAF
   sensitivity (see the 403s noted below) — if an issuer starts blocking more
-  aggressively after this rolls out, lower it via
-  `config/settings.json` → `changeDetection.requestDelayMs`, or set
-  `changeDetection.enabled` to `false` to fall back to launch-only tracking.
+  aggressively, lower it via `config/settings.json` →
+  `changeDetection.requestDelayMs`, or set `changeDetection.enabled` to
+  `false` to disable both tiers and fall back to launch-only tracking.
+- Tier 2 pings are only as good as each issuer's sitemap `<lastmod>` data —
+  some issuers don't publish it at all (no signal, silently nothing to
+  compare), and some regenerate it inaccurately (e.g. stamping "today" on
+  every URL regardless of real changes), which would make Tier 2 noisy for
+  that issuer specifically. Tier 1 (content-hash based) isn't affected by
+  this since it never looks at `lastmod` at all.
 - Change detection shows a line-level text diff of what changed (see "What
   changed" in the detail view), but it's not semantic — it won't say "the
   joining fee went from ₹500 to ₹1000," just show you the raw lines that

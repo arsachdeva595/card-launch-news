@@ -7,8 +7,10 @@ export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "
 export const PATHS = {
   issuers: path.join(ROOT, "config", "issuers.json"),
   settings: path.join(ROOT, "config", "settings.json"),
+  trackedCards: path.join(ROOT, "config", "tracked-cards.json"),
   snapshotsDir: path.join(ROOT, "data", "sitemap-snapshots"),
   pageHashesDir: path.join(ROOT, "data", "page-hashes"),
+  lastmodSnapshotsDir: path.join(ROOT, "data", "lastmod-snapshots"),
   launches: path.join(ROOT, "docs", "data", "launches.json"),
   changes: path.join(ROOT, "docs", "data", "changes.json"),
   meta: path.join(ROOT, "docs", "data", "meta.json")
@@ -35,4 +37,8 @@ export function snapshotPathFor(issuerSlug) {
 
 export function pageHashPathFor(issuerSlug) {
   return path.join(PATHS.pageHashesDir, `${issuerSlug}.json`);
+}
+
+export function lastmodSnapshotPathFor(issuerSlug) {
+  return path.join(PATHS.lastmodSnapshotsDir, `${issuerSlug}.json`);
 }

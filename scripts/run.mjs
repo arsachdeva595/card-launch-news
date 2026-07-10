@@ -1,13 +1,15 @@
 import { crawlAll } from "./crawl.mjs";
 import { enrichCandidate } from "./enrich.mjs";
 import { detectChanges } from "./detect-changes.mjs";
+import { detectPings } from "./detect-pings.mjs";
 import { enrichChangeCandidate } from "./enrich-change.mjs";
 import { notifyTelegram } from "./lib/notify.mjs";
-import { formatLaunchMessage, formatChangeMessage } from "./lib/telegram-format.mjs";
+import { formatLaunchMessage, formatChangeMessage, formatPingMessage } from "./lib/telegram-format.mjs";
 import { readJson, writeJson, PATHS } from "./lib/state.mjs";
 
 const MAX_LAUNCHES_KEPT = 200;
 const MAX_CHANGES_KEPT = 200;
+const TELEGRAM_SEND_DELAY_MS = 1100; // stay under Telegram's ~1 msg/sec-per-chat guidance
 
 function isDue(settings) {
   if (!settings.lastRunAt) return true;
@@ -27,9 +29,10 @@ function mergeById(existing, incoming, sortKey, maxKept) {
 async function main() {
   const force = process.argv.includes("--force") || process.env.FORCE_RUN === "true";
 
-  const [issuers, settings] = await Promise.all([
+  const [issuers, settings, trackedCards] = await Promise.all([
     readJson(PATHS.issuers, []),
-    readJson(PATHS.settings, { frequencyDays: 7, lastRunAt: null })
+    readJson(PATHS.settings, { frequencyDays: 7, lastRunAt: null }),
+    readJson(PATHS.trackedCards, [])
   ]);
 
   const frequencyOverride = Number(process.env.FREQUENCY_DAYS_OVERRIDE);
@@ -45,7 +48,7 @@ async function main() {
     return;
   }
 
-  console.log(`Starting run. issuers=${issuers.length} force=${force}`);
+  console.log(`Starting run. issuers=${issuers.length} trackedCards=${trackedCards.length} force=${force}`);
   const { candidates, cardPagesByIssuer } = await crawlAll({ issuers, settings });
   console.log(`Found ${candidates.length} new candidate card page(s) across all issuers.`);
 
@@ -61,10 +64,13 @@ async function main() {
     }
   }
 
+  // Tier 1: full fetch+hash+diff, but only for the curated tracked-cards
+  // list - not every card-shaped sitemap URL, which can run into the
+  // thousands and take hours (see detect-changes.mjs).
   const changeCandidates = settings.changeDetection?.enabled === false
     ? []
-    : await detectChanges({ cardPagesByIssuer, issuers, settings });
-  console.log(`Found ${changeCandidates.length} changed card page(s) across all issuers.`);
+    : await detectChanges({ trackedCards, issuers, settings });
+  console.log(`Found ${changeCandidates.length} changed tracked card(s).`);
 
   const newChanges = [];
   for (const change of changeCandidates) {
@@ -77,6 +83,15 @@ async function main() {
       console.warn(`  ! enrichment failed for ${change.url}: ${err.message}`);
     }
   }
+
+  // Tier 2: lightweight lastmod-only ping for everything card-shaped that
+  // ISN'T in the curated list - no fetch, no diff, no enrichment. Telegram
+  // only, not persisted to the site's data files.
+  const trackedCardUrls = new Set(trackedCards.map((c) => c.url));
+  const pings = settings.changeDetection?.enabled === false
+    ? []
+    : await detectPings({ cardPagesByIssuer, issuers, trackedCardUrls });
+  console.log(`Found ${pings.length} lightweight lastmod ping(s) outside the tracked-cards list.`);
 
   const existingLaunches = await readJson(PATHS.launches, []);
   const mergedLaunches = mergeById(existingLaunches, newLaunches, "discoveredAt", MAX_LAUNCHES_KEPT);
@@ -92,6 +107,7 @@ async function main() {
     frequencyDays: settings.frequencyDays ?? 7,
     changeDetectionEnabled: settings.changeDetection?.enabled !== false,
     issuerCount: issuers.length,
+    trackedCardCount: trackedCards.length,
     totalLaunchesTracked: mergedLaunches.length,
     totalChangesTracked: mergedChanges.length
   });
@@ -100,19 +116,22 @@ async function main() {
 
   // One message per item (not a bundled summary) so each notification is a
   // complete, self-contained record of what was found — title, links, and
-  // everything else stored for that card. A small delay between sends keeps
-  // us under Telegram's ~1 msg/sec-per-chat guidance.
+  // everything else stored for that card.
   for (const launch of newLaunches) {
     await notifyTelegram(formatLaunchMessage(launch, settings.siteUrl));
-    await new Promise((resolve) => setTimeout(resolve, 1100));
+    await new Promise((resolve) => setTimeout(resolve, TELEGRAM_SEND_DELAY_MS));
   }
   for (const change of newChanges) {
     await notifyTelegram(formatChangeMessage(change, settings.siteUrl));
-    await new Promise((resolve) => setTimeout(resolve, 1100));
+    await new Promise((resolve) => setTimeout(resolve, TELEGRAM_SEND_DELAY_MS));
+  }
+  for (const ping of pings) {
+    await notifyTelegram(formatPingMessage(ping));
+    await new Promise((resolve) => setTimeout(resolve, TELEGRAM_SEND_DELAY_MS));
   }
 
   console.log(
-    `Run complete. ${newLaunches.length} new launch(es), ${newChanges.length} change(s). ` +
+    `Run complete. ${newLaunches.length} new launch(es), ${newChanges.length} tracked change(s), ${pings.length} ping(s). ` +
       `Tracking ${mergedLaunches.length} launches, ${mergedChanges.length} changes total.`
   );
 }

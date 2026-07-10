@@ -52,3 +52,16 @@ export function formatChangeMessage(change, siteUrl) {
   if (siteUrl) lines.push("", `Full details: ${esc(siteUrl)}`);
   return lines.join("\n");
 }
+
+// Tier 2: a lightweight "something changed" signal with no fetched content
+// behind it (see scripts/detect-pings.mjs) - deliberately terser than the
+// full launch/change messages since there's no diff, no community search,
+// nothing but "this URL's sitemap lastmod moved."
+export function formatPingMessage(ping) {
+  return [
+    `🔔 Page updated (unverified — lastmod signal only)`,
+    `Issuer: ${esc(ping.issuerName)}`,
+    `URL: <a href="${esc(ping.url)}">${esc(ping.url)}</a>`,
+    `Last modified: ${esc(ping.previousLastmod)} → ${esc(ping.lastmod)}`
+  ].join("\n");
+}

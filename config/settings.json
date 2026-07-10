@@ -19,8 +19,19 @@
       "eligibility",
       "compare",
       "apply-now",
+      "how-to-apply",
       "login",
-      "press-release/archive"
+      "press-release/archive",
+      "features.html",
+      "fees-and-charges",
+      "rewards.html",
+      "reward-points",
+      "mitc",
+      "lounge-program",
+      "insurance-benefits",
+      "custom-tab",
+      "/credit-cards.html",
+      "/credit-card.html"
     ]
   },
   "changeDetection": {

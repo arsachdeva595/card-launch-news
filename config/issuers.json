@@ -1,6 +1,6 @@
 [
   { "slug": "yes-bank", "name": "YES Bank", "officialUrl": "https://www.yes.bank.in/", "sitemapUrl": "https://www.yes.bank.in/sitemap-index.xml" },
-  { "slug": "amex", "name": "American Express (India)", "officialUrl": "https://www.americanexpress.com/en-in/", "sitemapUrl": "https://www.americanexpress.com/index-sitemap.xml" },
+  { "slug": "amex", "name": "American Express (India)", "officialUrl": "https://www.americanexpress.com/en-in/", "sitemapUrl": "https://www.americanexpress.com/index-sitemap.xml", "pathMustInclude": "/en-in/" },
   { "slug": "au-sfb", "name": "AU Small Finance Bank", "officialUrl": "https://www.au.bank.in/", "sitemapUrl": "https://www.au.bank.in/sitemap.xml" },
   { "slug": "axis-bank", "name": "Axis Bank", "officialUrl": "https://www.axis.bank.in/", "sitemapUrl": "https://www.axis.bank.in/sitemap.xml" },
   { "slug": "bank-of-baroda", "name": "Bank of Baroda", "officialUrl": "https://bankofbaroda.bank.in/", "sitemapUrl": "https://bankofbaroda.bank.in/sitemap.xml" },

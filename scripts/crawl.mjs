@@ -1,10 +1,17 @@
 import { fetchSitemapUrls } from "./lib/sitemap.mjs";
 import { readJson, writeJson, snapshotPathFor, PATHS } from "./lib/state.mjs";
 
-function matchesPatterns(url, settings) {
+function matchesPatterns(url, settings, issuer) {
   const lowerPath = url.toLowerCase();
-  const { include = [], exclude = [] } = settings.candidatePatterns || {};
 
+  // Some issuers (e.g. Amex) publish one global sitemap covering every
+  // country they operate in - pathMustInclude scopes matches down to the
+  // India-specific section instead of sweeping in every other locale.
+  if (issuer?.pathMustInclude && !lowerPath.includes(issuer.pathMustInclude.toLowerCase())) {
+    return false;
+  }
+
+  const { include = [], exclude = [] } = settings.candidatePatterns || {};
   if (exclude.some((needle) => lowerPath.includes(needle.toLowerCase()))) return false;
   if (include.length === 0) return true;
   return include.some((needle) => lowerPath.includes(needle.toLowerCase()));
@@ -43,11 +50,11 @@ export async function crawlAll({ issuers, settings }) {
     const newLocs = entries.filter((e) => !previousLocs.has(e.loc));
     console.log(`  ${entries.length} URLs total, ${newLocs.length} new since last snapshot`);
 
-    cardPagesByIssuer[issuer.slug] = entries.filter((e) => matchesPatterns(e.loc, settings));
+    cardPagesByIssuer[issuer.slug] = entries.filter((e) => matchesPatterns(e.loc, settings, issuer));
 
     if (!isFirstRun) {
       for (const entry of newLocs) {
-        if (matchesPatterns(entry.loc, settings)) {
+        if (matchesPatterns(entry.loc, settings, issuer)) {
           candidates.push({
             issuerSlug: issuer.slug,
             issuerName: issuer.name,

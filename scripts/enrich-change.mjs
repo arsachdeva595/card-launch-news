@@ -40,6 +40,7 @@ export async function enrichChangeCandidate(change) {
     productPageUrl: change.url,
     detectedAt: change.detectedAt,
     lastmod: change.lastmod,
+    diffHunks: change.diffHunks || [],
     community: {
       reddit: pickFirst(redditResults),
       general: pickFirst(generalResults)

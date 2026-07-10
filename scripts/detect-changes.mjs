@@ -1,4 +1,5 @@
-import { fetchContentHash } from "./lib/content-hash.mjs";
+import { fetchPageSnapshot } from "./lib/content-hash.mjs";
+import { computeUnifiedDiff } from "./lib/text-diff.mjs";
 import { readJson, writeJson, pageHashPathFor } from "./lib/state.mjs";
 
 function sleep(ms) {
@@ -7,13 +8,15 @@ function sleep(ms) {
 
 /**
  * For every card-matching page already known from this run's sitemap crawl
- * (new or previously-seen), fetches the page and hashes its content, comparing
- * against the hash stored from the last run. A page whose hash changed since
- * last time is returned as a "change candidate" — most likely a fee, benefit,
- * or terms update on an existing card, or a discontinued card page.
+ * (new or previously-seen), fetches the page and hashes its visible text,
+ * comparing against the hash stored from the last run. A page whose hash
+ * changed since last time is returned as a "change candidate" — most likely a
+ * fee, benefit, or terms update on an existing card, or a discontinued card
+ * page — along with a trimmed unified diff of what actually changed.
  *
- * A page seen for the first time only establishes a baseline hash; it's never
- * flagged as changed on its first appearance (nothing to diff against yet).
+ * A page seen for the first time only establishes a baseline (hash + full
+ * text, so the *next* change has something to diff against); it's never
+ * flagged as changed on its first appearance.
  */
 export async function detectChanges({ cardPagesByIssuer, issuers, settings }) {
   const requestDelayMs = settings.changeDetection?.requestDelayMs ?? 400;
@@ -30,28 +33,41 @@ export async function detectChanges({ cardPagesByIssuer, issuers, settings }) {
 
     for (const entry of pages) {
       await sleep(requestDelayMs);
-      const hash = await fetchContentHash(entry.loc);
-      if (!hash) continue; // fetch failed — leave stored state untouched, retry next run
+      const snapshot = await fetchPageSnapshot(entry.loc);
+      if (!snapshot) continue; // fetch failed — leave stored state untouched, retry next run
 
       const previous = stored.pages[entry.loc];
       const nowIso = new Date().toISOString();
 
       if (!previous) {
-        updatedPages[entry.loc] = { hash, lastmod: entry.lastmod, firstSeenAt: nowIso, lastCheckedAt: nowIso };
+        updatedPages[entry.loc] = {
+          hash: snapshot.hash,
+          text: snapshot.text,
+          lastmod: entry.lastmod,
+          firstSeenAt: nowIso,
+          lastCheckedAt: nowIso
+        };
         continue;
       }
 
-      updatedPages[entry.loc] = { ...previous, hash, lastmod: entry.lastmod, lastCheckedAt: nowIso };
+      updatedPages[entry.loc] = {
+        hash: snapshot.hash,
+        text: snapshot.text,
+        lastmod: entry.lastmod,
+        firstSeenAt: previous.firstSeenAt,
+        lastCheckedAt: nowIso
+      };
 
-      if (previous.hash !== hash) {
+      if (previous.hash !== snapshot.hash) {
+        const diffHunks = computeUnifiedDiff(previous.text || "", snapshot.text);
         changes.push({
           issuerSlug: issuer.slug,
           issuerName: issuer.name,
           officialUrl: issuer.officialUrl,
           url: entry.loc,
           lastmod: entry.lastmod,
-          previousHash: previous.hash,
-          detectedAt: nowIso
+          detectedAt: nowIso,
+          diffHunks: diffHunks || [] // null means the diff was too large to compute cheaply
         });
       }
     }

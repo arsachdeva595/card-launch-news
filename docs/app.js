@@ -3,6 +3,32 @@ const overlay = document.getElementById("overlay");
 const detailContent = document.getElementById("detail-content");
 const closeBtn = document.getElementById("close-btn");
 
+// All card names, search-result titles/snippets, and diff text originate
+// from external sources (issuer pages, search API results) - escape before
+// interpolating into innerHTML so a hostile page/snippet can't inject markup.
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>"']/g, (ch) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  }[ch]));
+}
+
+// href values also come from external sources (search results); escaping
+// handles quote-breakout, and restricting to http(s) blocks javascript:/data:
+// scheme injection.
+function safeHref(url) {
+  try {
+    const parsed = new URL(url);
+    if (parsed.protocol !== "http:" && parsed.protocol !== "https:") return "#";
+    return escapeHtml(url);
+  } catch {
+    return "#";
+  }
+}
+
 function formatDate(iso) {
   if (!iso) return "Unknown date";
   return new Date(iso).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" });
@@ -15,21 +41,37 @@ function isRecent(iso, days) {
 }
 
 function linkOrFallback(entry, label) {
-  if (!entry) return `<p class="not-found">No ${label} found yet.</p>`;
+  if (!entry) return `<p class="not-found">No ${escapeHtml(label)} found yet.</p>`;
   return `
-    <a href="${entry.url}" target="_blank" rel="noopener noreferrer">${entry.title || entry.url}</a>
-    ${entry.description ? `<p class="snippet">${entry.description}</p>` : ""}
+    <a href="${safeHref(entry.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(entry.title || entry.url)}</a>
+    ${entry.description ? `<p class="snippet">${escapeHtml(entry.description)}</p>` : ""}
   `;
+}
+
+function renderDiff(diffHunks) {
+  if (!diffHunks || diffHunks.length === 0) {
+    return `<p class="not-found">No line-level diff available for this change (page content shifted too much to diff cheaply, or the change was whitespace-only) — visit the page directly to see the current version.</p>`;
+  }
+
+  const lines = diffHunks
+    .map((hunk) => {
+      const cls = hunk.type === "added" ? "diff-added" : hunk.type === "removed" ? "diff-removed" : hunk.type === "ellipsis" ? "diff-ellipsis" : "diff-context";
+      const prefix = hunk.type === "added" ? "+" : hunk.type === "removed" ? "−" : hunk.type === "ellipsis" ? "" : " ";
+      return `<div class="diff-line ${cls}">${escapeHtml(prefix)}${escapeHtml(hunk.text)}</div>`;
+    })
+    .join("");
+
+  return `<div class="diff-block">${lines}</div>`;
 }
 
 function renderLaunchDetail(launch) {
   return `
-    <h2 id="detail-title">${launch.cardName}</h2>
-    <p class="issuer-name">${launch.issuerName} &middot; detected ${formatDate(launch.discoveredAt)}</p>
+    <h2 id="detail-title">${escapeHtml(launch.cardName)}</h2>
+    <p class="issuer-name">${escapeHtml(launch.issuerName)} &middot; detected ${formatDate(launch.discoveredAt)}</p>
 
     <div class="detail-section">
       <h3>Official issuer link</h3>
-      <a href="${launch.officialUrl}" target="_blank" rel="noopener noreferrer">${launch.officialUrl}</a>
+      <a href="${safeHref(launch.officialUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(launch.officialUrl)}</a>
     </div>
 
     <div class="detail-section">
@@ -50,17 +92,22 @@ function renderLaunchDetail(launch) {
 
 function renderChangeDetail(change) {
   return `
-    <h2 id="detail-title">${change.cardName}</h2>
-    <p class="issuer-name">${change.issuerName} &middot; changed ${formatDate(change.detectedAt)}</p>
+    <h2 id="detail-title">${escapeHtml(change.cardName)}</h2>
+    <p class="issuer-name">${escapeHtml(change.issuerName)} &middot; changed ${formatDate(change.detectedAt)}</p>
 
     <div class="detail-section">
       <h3>Card page</h3>
-      <a href="${change.productPageUrl}" target="_blank" rel="noopener noreferrer">${change.productPageUrl}</a>
+      <a href="${safeHref(change.productPageUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(change.productPageUrl)}</a>
+    </div>
+
+    <div class="detail-section">
+      <h3>What changed</h3>
+      ${renderDiff(change.diffHunks)}
     </div>
 
     <div class="detail-section">
       <h3>Official issuer link</h3>
-      <a href="${change.officialUrl}" target="_blank" rel="noopener noreferrer">${change.officialUrl}</a>
+      <a href="${safeHref(change.officialUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(change.officialUrl)}</a>
     </div>
 
     <div class="detail-section">
@@ -102,14 +149,14 @@ function renderTiles({ items, gridEl, emptyStateEl, kind, dateField, frequencyDa
     tile.className = "tile";
     tile.type = "button";
 
-    const badges = [`<span class="badge">${item.issuerName}</span>`];
+    const badges = [`<span class="badge">${escapeHtml(item.issuerName)}</span>`];
     if (isRecent(item[dateField], frequencyDays || 7)) {
       badges.push(`<span class="badge badge--new">${kind === "change" ? "Updated" : "New"}</span>`);
     }
 
     tile.innerHTML = `
       <div class="tile__badges">${badges.join("")}</div>
-      <p class="tile__name">${item.cardName}</p>
+      <p class="tile__name">${escapeHtml(item.cardName)}</p>
       <p class="tile__date">${kind === "change" ? "Changed" : "Detected"} ${formatDate(item[dateField])}</p>
     `;
     tile.addEventListener("click", () => openDetail(item, kind));

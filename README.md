@@ -26,24 +26,31 @@ existing card's page changes (fee/benefit/terms updates, discontinuations).
    `<title>` to derive a card name, then queries a [Google Programmable
    Search Engine](https://programmablesearchengine.google.com/) for an
    announcement post plus Reddit/X/YouTube mentions.
-3. **`scripts/detect-changes.mjs`** fetches every card-matching page and
-   hashes its content (via `scripts/lib/content-hash.mjs`, which strips
-   scripts/styles/comments before hashing so volatile boilerplate doesn't
-   cause false positives), comparing against the hash stored in
+3. **`scripts/detect-changes.mjs`** fetches every card-matching page via
+   `scripts/lib/content-hash.mjs`, which extracts the page's visible text
+   (stripping scripts/styles/comments/tags so markup churn doesn't cause
+   false positives) and hashes it, comparing against the hash stored in
    `data/page-hashes/`. A changed hash (on a page seen before — first
-   sightings just establish a baseline) becomes a change candidate.
-4. **`scripts/enrich-change.mjs`** takes each change candidate and searches
+   sightings just establish a baseline) becomes a change candidate. The full
+   extracted text is stored alongside the hash (not just the hash) so the
+   *next* change has something to diff against.
+4. When a change is found, `scripts/lib/text-diff.mjs` computes a line-level
+   diff between the old and new text (plain LCS-backtrack, no dependency) and
+   trims it down to a unified-diff-style set of hunks — just the changed
+   lines plus a little context, capped in size — which is what actually
+   renders in the "What changed" section of the detail view.
+6. **`scripts/enrich-change.mjs`** takes each change candidate and searches
    for Reddit/news discussion confirming what changed.
-5. **`scripts/run.mjs`** orchestrates all of the above, merges results into
+7. **`scripts/run.mjs`** orchestrates all of the above, merges results into
    `docs/data/launches.json` and `docs/data/changes.json`, writes
    `docs/data/meta.json`, and sends a Telegram notification
    (`scripts/lib/notify.mjs`) summarizing anything new/changed, if
    `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID` are configured.
-6. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
+8. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
    reads those JSON files and renders two tile feeds (launches, changes) with
-   a shared detail view. It's served directly by GitHub Pages — no build
-   step.
-7. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
+   a shared detail view, including a rendered diff for changes. It's served
+   directly by GitHub Pages — no build step.
+9. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
    `scripts/run.mjs` only actually does work once `frequencyDays` (in
    `config/settings.json`) has elapsed since the last run. Trigger a run
    immediately (bypassing the frequency gate) from the Actions tab via
@@ -136,10 +143,20 @@ left `null`.
   aggressively after this rolls out, lower it via
   `config/settings.json` → `changeDetection.requestDelayMs`, or set
   `changeDetection.enabled` to `false` to fall back to launch-only tracking.
-- Change detection has no idea *what* changed, only *that* the page's content
-  differs — it can't tell you "the joining fee went from ₹500 to ₹1000," just
-  that the page is worth a second look, plus whatever Reddit/news discussion
-  turns up.
+- Change detection shows a line-level text diff of what changed (see "What
+  changed" in the detail view), but it's not semantic — it won't say "the
+  joining fee went from ₹500 to ₹1000," just show you the raw lines that
+  differ, which is usually enough context to tell at a glance.
+- `data/page-hashes/` now stores each tracked page's full extracted text
+  (not just a hash), so the next detected change has something to diff
+  against. This grows the repo more than launch-only tracking did — a few KB
+  per page across potentially several hundred pages per issuer — but stays
+  well within what a git repo comfortably handles at this scale.
+- The diff engine (`scripts/lib/text-diff.mjs`) is a plain LCS-backtrack line
+  diff with no external dependency; it skips diffing (falls back to "visit
+  the page directly") if both versions of a page are too large to diff
+  cheaply (500K old-lines × new-lines cells), which in practice should only
+  happen on unusually huge pages.
 - Enrichment picks the *first* search result per query — it's a best-effort
   signal, not a verified/deduplicated source. Treat "announcement" and
   "community sentiment" as leads to click through, not ground truth.

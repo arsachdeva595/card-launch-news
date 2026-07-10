@@ -11,7 +11,7 @@ on:
       force:
         description: "Run even if not due yet per frequencyDays"
         type: boolean
-        default: false
+        default: true
       frequencyDays:
         description: "Optionally change the check frequency (in days) permanently, e.g. 1 for daily. Leave blank to keep the current value."
         type: string

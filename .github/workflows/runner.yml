@@ -64,7 +64,26 @@ jobs:
           git add docs/data config/settings.json config/tracked-cards.json data/sitemap-snapshots data/page-hashes data/lastmod-snapshots
           if git diff --cached --quiet; then
             echo "No data changes to commit."
-          else
-            git commit -m "chore: update tracked launches and changes [automated]"
-            git push
+            exit 0
           fi
+
+          git commit -m "chore: update tracked launches and changes [automated]"
+
+          # This run can take 10+ minutes (Tier 1 fetches ~590 pages), so
+          # anything else pushed to main during that window (a code change,
+          # a manual edit via GitHub's file editor, etc.) makes a plain
+          # `git push` fail with a non-fast-forward rejection. Retry with a
+          # rebase on top of whatever's now on main - our commit only
+          # touches generated data files, so this should apply cleanly
+          # against unrelated code/config changes made elsewhere.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed successfully."
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt/5) - pulling and rebasing before retrying."
+            git pull --rebase origin main
+          done
+
+          echo "::error::Failed to push after 5 attempts."
+          exit 1

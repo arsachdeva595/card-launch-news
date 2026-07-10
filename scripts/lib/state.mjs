@@ -8,7 +8,9 @@ export const PATHS = {
   issuers: path.join(ROOT, "config", "issuers.json"),
   settings: path.join(ROOT, "config", "settings.json"),
   snapshotsDir: path.join(ROOT, "data", "sitemap-snapshots"),
+  pageHashesDir: path.join(ROOT, "data", "page-hashes"),
   launches: path.join(ROOT, "docs", "data", "launches.json"),
+  changes: path.join(ROOT, "docs", "data", "changes.json"),
   meta: path.join(ROOT, "docs", "data", "meta.json")
 };
 
@@ -29,4 +31,8 @@ export async function writeJson(filePath, data) {
 
 export function snapshotPathFor(issuerSlug) {
   return path.join(PATHS.snapshotsDir, `${issuerSlug}.json`);
+}
+
+export function pageHashPathFor(issuerSlug) {
+  return path.join(PATHS.pageHashesDir, `${issuerSlug}.json`);
 }

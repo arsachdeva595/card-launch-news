@@ -68,6 +68,22 @@ body {
   padding: 2rem 1.5rem 3rem;
 }
 
+.feed-section {
+  margin-bottom: 2.5rem;
+}
+
+.feed-section h2 {
+  font-size: 1.15rem;
+  margin: 0 0 0.3rem;
+}
+
+.section-subtitle {
+  margin: 0 0 1rem;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  max-width: 640px;
+}
+
 .tile-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));

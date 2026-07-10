@@ -1,27 +1,49 @@
 # Card Launch News
 
-Tracks newly launched credit cards from Indian banks. Detection works by
-diffing each issuer's XML sitemap week over week — a new sitemap entry that
-looks like a card product page is treated as a launch signal. Each candidate
-is then enriched with a public announcement link and community discussion
-(Reddit / X / YouTube) found via web search.
+Tracks newly launched credit cards from Indian banks, and flags when an
+existing card's page changes (fee/benefit/terms updates, discontinuations).
+
+- **New launches**: detected by diffing each issuer's XML sitemap week over
+  week — a new sitemap entry that looks like a card product page is treated
+  as a launch signal. Each candidate is enriched with a public announcement
+  link and community discussion (Reddit / X / YouTube) found via web search.
+- **Card changes**: every card-shaped page already known from the sitemap
+  crawl gets fetched and content-hashed each run; a hash that differs from
+  last run's stored hash means the page's content changed. Enriched with
+  Reddit/news discussion of the change (no single "announcement" exists for
+  a change the way it does for a launch).
+- Optional Telegram notification when either happens.
 
 ## How it works
 
 1. **`scripts/crawl.mjs`** fetches every issuer's sitemap (see
    `config/issuers.json`), compares it against the last-seen snapshot in
    `data/sitemap-snapshots/`, and emits new URLs that match card-like path
-   patterns (`config/settings.json` → `candidatePatterns`).
-2. **`scripts/enrich.mjs`** takes each candidate, fetches its page `<title>`
-   to derive a card name, then queries a [Google Programmable Search
-   Engine](https://programmablesearchengine.google.com/) for an
+   patterns (`config/settings.json` → `candidatePatterns`). It also returns
+   every currently-live card-matching URL per issuer (new or not), for the
+   change-detection step to reuse without a second sitemap fetch.
+2. **`scripts/enrich.mjs`** takes each new-launch candidate, fetches its page
+   `<title>` to derive a card name, then queries a [Google Programmable
+   Search Engine](https://programmablesearchengine.google.com/) for an
    announcement post plus Reddit/X/YouTube mentions.
-3. **`scripts/run.mjs`** orchestrates both steps, merges results into
-   `docs/data/launches.json`, and writes `docs/data/meta.json`.
-4. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
-   reads those two JSON files and renders the tile feed + detail view. It's
-   served directly by GitHub Pages — no build step.
-5. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
+3. **`scripts/detect-changes.mjs`** fetches every card-matching page and
+   hashes its content (via `scripts/lib/content-hash.mjs`, which strips
+   scripts/styles/comments before hashing so volatile boilerplate doesn't
+   cause false positives), comparing against the hash stored in
+   `data/page-hashes/`. A changed hash (on a page seen before — first
+   sightings just establish a baseline) becomes a change candidate.
+4. **`scripts/enrich-change.mjs`** takes each change candidate and searches
+   for Reddit/news discussion confirming what changed.
+5. **`scripts/run.mjs`** orchestrates all of the above, merges results into
+   `docs/data/launches.json` and `docs/data/changes.json`, writes
+   `docs/data/meta.json`, and sends a Telegram notification
+   (`scripts/lib/notify.mjs`) summarizing anything new/changed, if
+   `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID` are configured.
+6. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
+   reads those JSON files and renders two tile feeds (launches, changes) with
+   a shared detail view. It's served directly by GitHub Pages — no build
+   step.
+7. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
    `scripts/run.mjs` only actually does work once `frequencyDays` (in
    `config/settings.json`) has elapsed since the last run. Trigger a run
    immediately (bypassing the frequency gate) from the Actions tab via
@@ -54,7 +76,16 @@ is then enriched with a public announcement link and community discussion
      `GOOGLE_SEARCH_CX`.
 2. **Enable GitHub Pages** — `Settings → Pages → Source: Deploy from a
    branch → Branch: main, folder: /docs`.
-3. First run will be a baseline pass per issuer (no candidates are emitted
+3. **Telegram notifications (optional)**:
+   - Message [@BotFather](https://t.me/BotFather) on Telegram, `/newbot`, and
+     copy the token it gives you.
+   - Message your new bot anything, then visit
+     `https://api.telegram.org/bot<TOKEN>/getUpdates` in a browser to find
+     your `chat.id` in the JSON response (this is `TELEGRAM_CHAT_ID`).
+   - Add both as repo secrets: `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`.
+   - If these aren't set, the run just skips notification silently — nothing
+     else is affected.
+4. First run will be a baseline pass per issuer (no candidates are emitted
    the very first time an issuer's sitemap is seen, since there's nothing to
    diff against yet) — expect the feed to start filling in from the *second*
    run onward, once a snapshot exists to compare against. (This repo's
@@ -93,11 +124,22 @@ left `null`.
 
 ## Known limitations (v1)
 
-- Google's free tier caps at 100 queries/day, and each candidate uses 4
-  queries (announcement, Reddit, X/Twitter combined, YouTube — see
-  `scripts/enrich.mjs`). That's ~25 candidates/day of enrichment headroom,
-  which is generous for a weekly run but would need a paid Google Cloud
-  billing tier if launch volume ever spikes heavily in one run.
+- Google's free tier caps at 100 queries/day, and each *new-launch* candidate
+  uses 4 queries while each *change* candidate uses 2 (see `scripts/enrich.mjs`
+  and `scripts/enrich-change.mjs`) — both draw from the same daily quota.
+  That's generous for a typical weekly run but would need a paid Google Cloud
+  billing tier if launch/change volume ever spikes heavily in one run.
+- Change detection fetches every card-matching page on every run (not just
+  one sitemap.xml per issuer), which is a lot more requests to each issuer's
+  servers than launch detection alone. Some issuers already show WAF
+  sensitivity (see the 403s noted below) — if an issuer starts blocking more
+  aggressively after this rolls out, lower it via
+  `config/settings.json` → `changeDetection.requestDelayMs`, or set
+  `changeDetection.enabled` to `false` to fall back to launch-only tracking.
+- Change detection has no idea *what* changed, only *that* the page's content
+  differs — it can't tell you "the joining fee went from ₹500 to ₹1000," just
+  that the page is worth a second look, plus whatever Reddit/news discussion
+  turns up.
 - Enrichment picks the *first* search result per query — it's a best-effort
   signal, not a verified/deduplicated source. Treat "announcement" and
   "community sentiment" as leads to click through, not ground truth.

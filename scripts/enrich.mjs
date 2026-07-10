@@ -1,41 +1,10 @@
 import { webSearch } from "./lib/search.mjs";
+import { fetchCardName, fallbackNameFromUrl, slugify } from "./lib/page-meta.mjs";
 
-const PAGE_FETCH_TIMEOUT_MS = 15000;
 const BETWEEN_QUERY_DELAY_MS = 200; // light courtesy delay between queries
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-function slugify(text) {
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "");
-}
-
-async function fetchCardName(url, fallback) {
-  try {
-    const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), PAGE_FETCH_TIMEOUT_MS);
-    const res = await fetch(url, {
-      headers: { "User-Agent": "CardLaunchNewsBot/1.0" },
-      signal: controller.signal
-    });
-    clearTimeout(timer);
-    if (!res.ok) return fallback;
-
-    const html = await res.text();
-    const match = /<title[^>]*>([\s\S]*?)<\/title>/i.exec(html);
-    if (!match) return fallback;
-
-    let title = match[1].replace(/\s+/g, " ").trim();
-    // Titles are usually "Card Name | Bank Name" or "Card Name - Apply Now" — keep the first segment.
-    title = title.split(/[|–-]/)[0].trim();
-    return title || fallback;
-  } catch {
-    return fallback;
-  }
 }
 
 function pickFirst(results, { preferHost } = {}) {
@@ -61,12 +30,7 @@ function pickFirst(results, { preferHost } = {}) {
  * disappearing.
  */
 export async function enrichCandidate(candidate) {
-  const fallbackName = candidate.url
-    .split("/")
-    .filter(Boolean)
-    .pop()
-    ?.replace(/[-_]/g, " ") || candidate.issuerName;
-
+  const fallbackName = fallbackNameFromUrl(candidate.url, candidate.issuerName);
   const cardName = await fetchCardName(candidate.url, fallbackName);
   const query = `${cardName} credit card`;
 

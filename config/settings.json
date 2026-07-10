@@ -21,5 +21,10 @@
       "login",
       "press-release/archive"
     ]
+  },
+  "changeDetection": {
+    "enabled": true,
+    "requestDelayMs": 400,
+    "note": "requestDelayMs is a polite delay between consecutive page fetches to the same issuer during content-hash change detection, to avoid tripping issuer WAFs. Set enabled to false to skip change detection entirely and only track new launches."
   }
 }

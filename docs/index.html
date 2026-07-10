@@ -16,11 +16,25 @@
     </div>
   </header>
 
-  <main class="feed" id="feed">
-    <p class="empty-state" id="empty-state" hidden>
-      No launches tracked yet. The runner populates this feed on its next scheduled pass.
-    </p>
-    <div class="tile-grid" id="tile-grid"></div>
+  <main class="feed">
+    <section class="feed-section">
+      <h2>New launches</h2>
+      <p class="empty-state" id="launches-empty-state" hidden>
+        No launches tracked yet. The runner populates this feed on its next scheduled pass.
+      </p>
+      <div class="tile-grid" id="launches-grid"></div>
+    </section>
+
+    <section class="feed-section">
+      <h2>Recent card changes</h2>
+      <p class="section-subtitle">
+        Existing cards whose page content changed since last check — fees, benefits, or terms updates.
+      </p>
+      <p class="empty-state" id="changes-empty-state" hidden>
+        No changes detected yet.
+      </p>
+      <div class="tile-grid" id="changes-grid"></div>
+    </section>
   </main>
 
   <div class="overlay" id="overlay" hidden>

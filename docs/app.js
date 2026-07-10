@@ -1,5 +1,3 @@
-const tileGrid = document.getElementById("tile-grid");
-const emptyState = document.getElementById("empty-state");
 const metaLine = document.getElementById("meta-line");
 const overlay = document.getElementById("overlay");
 const detailContent = document.getElementById("detail-content");
@@ -24,36 +22,59 @@ function linkOrFallback(entry, label) {
   `;
 }
 
-function renderDetail(launch) {
-  detailContent.innerHTML = `
-    <div class="detail-content">
-      <h2 id="detail-title">${launch.cardName}</h2>
-      <p class="issuer-name">${launch.issuerName} &middot; detected ${formatDate(launch.discoveredAt)}</p>
+function renderLaunchDetail(launch) {
+  return `
+    <h2 id="detail-title">${launch.cardName}</h2>
+    <p class="issuer-name">${launch.issuerName} &middot; detected ${formatDate(launch.discoveredAt)}</p>
 
-      <div class="detail-section">
-        <h3>Official issuer link</h3>
-        <a href="${launch.officialUrl}" target="_blank" rel="noopener noreferrer">${launch.officialUrl}</a>
-      </div>
+    <div class="detail-section">
+      <h3>Official issuer link</h3>
+      <a href="${launch.officialUrl}" target="_blank" rel="noopener noreferrer">${launch.officialUrl}</a>
+    </div>
 
-      <div class="detail-section">
-        <h3>Announcement</h3>
-        ${linkOrFallback(launch.announcement, "announcement")}
-      </div>
+    <div class="detail-section">
+      <h3>Announcement</h3>
+      ${linkOrFallback(launch.announcement, "announcement")}
+    </div>
 
-      <div class="detail-section">
-        <h3>Community sentiment</h3>
-        <ul class="community-list">
-          <li><strong>Reddit:</strong> ${linkOrFallback(launch.community?.reddit, "Reddit discussion")}</li>
-          <li><strong>X / Twitter:</strong> ${linkOrFallback(launch.community?.twitter, "X/Twitter post")}</li>
-          <li><strong>YouTube:</strong> ${linkOrFallback(launch.community?.youtube, "YouTube video")}</li>
-        </ul>
-      </div>
+    <div class="detail-section">
+      <h3>Community sentiment</h3>
+      <ul class="community-list">
+        <li><strong>Reddit:</strong> ${linkOrFallback(launch.community?.reddit, "Reddit discussion")}</li>
+        <li><strong>X / Twitter:</strong> ${linkOrFallback(launch.community?.twitter, "X/Twitter post")}</li>
+        <li><strong>YouTube:</strong> ${linkOrFallback(launch.community?.youtube, "YouTube video")}</li>
+      </ul>
     </div>
   `;
 }
 
-function openDetail(launch) {
-  renderDetail(launch);
+function renderChangeDetail(change) {
+  return `
+    <h2 id="detail-title">${change.cardName}</h2>
+    <p class="issuer-name">${change.issuerName} &middot; changed ${formatDate(change.detectedAt)}</p>
+
+    <div class="detail-section">
+      <h3>Card page</h3>
+      <a href="${change.productPageUrl}" target="_blank" rel="noopener noreferrer">${change.productPageUrl}</a>
+    </div>
+
+    <div class="detail-section">
+      <h3>Official issuer link</h3>
+      <a href="${change.officialUrl}" target="_blank" rel="noopener noreferrer">${change.officialUrl}</a>
+    </div>
+
+    <div class="detail-section">
+      <h3>Community verification</h3>
+      <ul class="community-list">
+        <li><strong>Reddit:</strong> ${linkOrFallback(change.community?.reddit, "Reddit discussion")}</li>
+        <li><strong>News/other:</strong> ${linkOrFallback(change.community?.general, "coverage")}</li>
+      </ul>
+    </div>
+  `;
+}
+
+function openDetail(item, kind) {
+  detailContent.innerHTML = kind === "change" ? renderChangeDetail(item) : renderLaunchDetail(item);
   overlay.hidden = false;
 }
 
@@ -69,47 +90,65 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") closeDetail();
 });
 
-function renderTiles(launches, frequencyDays) {
-  if (launches.length === 0) {
-    emptyState.hidden = false;
+function renderTiles({ items, gridEl, emptyStateEl, kind, dateField, frequencyDays }) {
+  if (items.length === 0) {
+    emptyStateEl.hidden = false;
     return;
   }
 
-  tileGrid.innerHTML = "";
-  for (const launch of launches) {
+  gridEl.innerHTML = "";
+  for (const item of items) {
     const tile = document.createElement("button");
     tile.className = "tile";
     tile.type = "button";
 
-    const badges = [`<span class="badge">${launch.issuerName}</span>`];
-    if (isRecent(launch.discoveredAt, frequencyDays || 7)) {
-      badges.push(`<span class="badge badge--new">New</span>`);
+    const badges = [`<span class="badge">${item.issuerName}</span>`];
+    if (isRecent(item[dateField], frequencyDays || 7)) {
+      badges.push(`<span class="badge badge--new">${kind === "change" ? "Updated" : "New"}</span>`);
     }
 
     tile.innerHTML = `
       <div class="tile__badges">${badges.join("")}</div>
-      <p class="tile__name">${launch.cardName}</p>
-      <p class="tile__date">Detected ${formatDate(launch.discoveredAt)}</p>
+      <p class="tile__name">${item.cardName}</p>
+      <p class="tile__date">${kind === "change" ? "Changed" : "Detected"} ${formatDate(item[dateField])}</p>
     `;
-    tile.addEventListener("click", () => openDetail(launch));
-    tileGrid.appendChild(tile);
+    tile.addEventListener("click", () => openDetail(item, kind));
+    gridEl.appendChild(tile);
   }
 }
 
 async function init() {
   try {
-    const [launchesRes, metaRes] = await Promise.all([
+    const [launchesRes, changesRes, metaRes] = await Promise.all([
       fetch("data/launches.json", { cache: "no-store" }),
+      fetch("data/changes.json", { cache: "no-store" }),
       fetch("data/meta.json", { cache: "no-store" })
     ]);
     const launches = await launchesRes.json();
+    const changes = changesRes.ok ? await changesRes.json() : [];
     const meta = await metaRes.json();
 
     metaLine.textContent = meta.lastRunAt
       ? `Last checked ${formatDate(meta.lastRunAt)} · tracking ${meta.issuerCount} issuers · checking every ${meta.frequencyDays} day(s)`
       : "Runner has not completed a pass yet.";
 
-    renderTiles(launches, meta.frequencyDays);
+    renderTiles({
+      items: launches,
+      gridEl: document.getElementById("launches-grid"),
+      emptyStateEl: document.getElementById("launches-empty-state"),
+      kind: "launch",
+      dateField: "discoveredAt",
+      frequencyDays: meta.frequencyDays
+    });
+
+    renderTiles({
+      items: changes,
+      gridEl: document.getElementById("changes-grid"),
+      emptyStateEl: document.getElementById("changes-empty-state"),
+      kind: "change",
+      dateField: "detectedAt",
+      frequencyDays: meta.frequencyDays
+    });
   } catch (err) {
     metaLine.textContent = "Could not load feed data.";
     console.error(err);

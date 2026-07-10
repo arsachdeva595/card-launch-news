@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Card Launch News — India</title>
+  <meta name="description" content="Tracks newly launched credit cards from Indian banks, detected from issuer sitemaps." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <h1>Card Launch News</h1>
+      <p class="tagline">Newly launched Indian credit cards, detected automatically from issuer sitemaps.</p>
+      <p class="meta-line" id="meta-line">Loading status…</p>
+    </div>
+  </header>
+
+  <main class="feed" id="feed">
+    <p class="empty-state" id="empty-state" hidden>
+      No launches tracked yet. The runner populates this feed on its next scheduled pass.
+    </p>
+    <div class="tile-grid" id="tile-grid"></div>
+  </main>
+
+  <div class="overlay" id="overlay" hidden>
+    <div class="detail-card" id="detail-card" role="dialog" aria-modal="true" aria-labelledby="detail-title">
+      <button class="close-btn" id="close-btn" aria-label="Close">&times;</button>
+      <div id="detail-content"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p>Signal source: issuer sitemap diffs. Enrichment: public web search. Not affiliated with any bank.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

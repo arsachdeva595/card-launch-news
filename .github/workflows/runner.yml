@@ -1,0 +1,51 @@
+name: Card launch runner
+
+on:
+  schedule:
+    # Runs daily; scripts/run.mjs itself decides whether it's actually "due"
+    # based on config/settings.json frequencyDays, so change frequency there
+    # (or via the force input below) rather than editing this cron line.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if not due yet per frequencyDays"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: card-launch-runner
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run tracker
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          FORCE_RUN: ${{ inputs.force && 'true' || 'false' }}
+        run: npm run run
+
+      - name: Commit and push data updates
+        run: |
+          git config user.name "card-launch-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data config/settings.json data/sitemap-snapshots
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: update tracked launches [automated]"
+            git push
+          fi

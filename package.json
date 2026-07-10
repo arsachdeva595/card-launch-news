@@ -1,0 +1,14 @@
+{
+  "name": "card-launch-news",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tracks newly launched Indian credit cards by diffing issuer sitemaps and enriching candidates with public announcement/community data.",
+  "scripts": {
+    "run": "node scripts/run.mjs",
+    "run:force": "node scripts/run.mjs --force"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

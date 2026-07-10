@@ -34,7 +34,8 @@ jobs:
 
       - name: Run tracker
         env:
-          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          GOOGLE_SEARCH_API_KEY: ${{ secrets.GOOGLE_SEARCH_API_KEY }}
+          GOOGLE_SEARCH_CX: ${{ secrets.GOOGLE_SEARCH_CX }}
           FORCE_RUN: ${{ inputs.force && 'true' || 'false' }}
         run: npm run run
 

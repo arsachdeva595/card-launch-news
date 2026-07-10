@@ -13,9 +13,9 @@ is then enriched with a public announcement link and community discussion
    `data/sitemap-snapshots/`, and emits new URLs that match card-like path
    patterns (`config/settings.json` → `candidatePatterns`).
 2. **`scripts/enrich.mjs`** takes each candidate, fetches its page `<title>`
-   to derive a card name, then queries the [Brave Search
-   API](https://brave.com/search/api/) for an announcement post plus
-   Reddit/X/YouTube mentions.
+   to derive a card name, then queries a [Google Programmable Search
+   Engine](https://programmablesearchengine.google.com/) for an
+   announcement post plus Reddit/X/YouTube mentions.
 3. **`scripts/run.mjs`** orchestrates both steps, merges results into
    `docs/data/launches.json`, and writes `docs/data/meta.json`.
 4. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
@@ -29,17 +29,28 @@ is then enriched with a public announcement link and community discussion
 
 ## One-time setup
 
-1. **Brave Search API key** — sign up at
-   [brave.com/search/api](https://brave.com/search/api/) (free tier: 2,000
-   queries/month), then add it as a repo secret:
-   `Settings → Secrets and variables → Actions → New repository secret` named
-   `BRAVE_API_KEY`.
+1. **Google Programmable Search Engine** (free, no billing/card required for
+   the 100 queries/day tier):
+   - Create a search engine at
+     [programmablesearchengine.google.com](https://programmablesearchengine.google.com/controlpanel/create),
+     set it to "Search the entire web", and copy its **Search engine ID**
+     (this is `cx`).
+   - Create an API key at
+     [console.cloud.google.com](https://console.cloud.google.com/apis/credentials)
+     (enable the "Custom Search API" for the project first), and copy the
+     key.
+   - Add both as repo secrets: `Settings → Secrets and variables → Actions →
+     New repository secret`, named `GOOGLE_SEARCH_API_KEY` and
+     `GOOGLE_SEARCH_CX`.
 2. **Enable GitHub Pages** — `Settings → Pages → Source: Deploy from a
    branch → Branch: main, folder: /docs`.
 3. First run will be a baseline pass per issuer (no candidates are emitted
    the very first time an issuer's sitemap is seen, since there's nothing to
    diff against yet) — expect the feed to start filling in from the *second*
-   run onward, once a snapshot exists to compare against.
+   run onward, once a snapshot exists to compare against. (This repo's
+   initial commit already includes baseline snapshots for most issuers from
+   local testing, so most of them will start diffing for real on the first
+   scheduled run.)
 
 ## Changing the check frequency
 
@@ -61,12 +72,18 @@ npm run run          # runs only if due per frequencyDays
 npm run run:force     # runs regardless (useful for local testing)
 ```
 
-Requires `BRAVE_API_KEY` to be set in your shell environment to get real
-enrichment results; without it, searches are skipped and card entries are
-still created with `announcement`/`community` left `null`.
+Requires `GOOGLE_SEARCH_API_KEY` and `GOOGLE_SEARCH_CX` to be set in your
+shell environment to get real enrichment results; without them, searches are
+skipped and card entries are still created with `announcement`/`community`
+left `null`.
 
 ## Known limitations (v1)
 
+- Google's free tier caps at 100 queries/day, and each candidate uses 4
+  queries (announcement, Reddit, X/Twitter combined, YouTube — see
+  `scripts/enrich.mjs`). That's ~25 candidates/day of enrichment headroom,
+  which is generous for a weekly run but would need a paid Google Cloud
+  billing tier if launch volume ever spikes heavily in one run.
 - Enrichment picks the *first* search result per query — it's a best-effort
   signal, not a verified/deduplicated source. Treat "announcement" and
   "community sentiment" as leads to click through, not ground truth.

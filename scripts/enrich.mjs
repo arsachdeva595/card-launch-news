@@ -1,7 +1,7 @@
-import { braveSearch } from "./lib/brave.mjs";
+import { webSearch } from "./lib/search.mjs";
 
 const PAGE_FETCH_TIMEOUT_MS = 15000;
-const BETWEEN_QUERY_DELAY_MS = 1100; // stay under Brave free-tier rate limit (~1 req/sec)
+const BETWEEN_QUERY_DELAY_MS = 200; // light courtesy delay between queries
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -70,21 +70,20 @@ export async function enrichCandidate(candidate) {
   const cardName = await fetchCardName(candidate.url, fallbackName);
   const query = `${cardName} credit card`;
 
+  // Quota is precious on Google's free tier (100 queries/day total), so we
+  // keep this to 3 queries per candidate: one OR-combined query covers both
+  // X and Twitter's legacy domain in a single call.
   await sleep(BETWEEN_QUERY_DELAY_MS);
-  const announcementResults = await braveSearch(`${query} launch announcement India`, { count: 5 });
+  const announcementResults = await webSearch(`${query} launch announcement India`, { count: 5 });
 
   await sleep(BETWEEN_QUERY_DELAY_MS);
-  const redditResults = await braveSearch(`${query} site:reddit.com`, { count: 3 });
+  const redditResults = await webSearch(`${query} site:reddit.com`, { count: 3 });
 
   await sleep(BETWEEN_QUERY_DELAY_MS);
-  let xResults = await braveSearch(`${query} site:x.com`, { count: 3 });
-  if (xResults.length === 0) {
-    await sleep(BETWEEN_QUERY_DELAY_MS);
-    xResults = await braveSearch(`${query} site:twitter.com`, { count: 3 });
-  }
+  const xResults = await webSearch(`${query} (site:x.com OR site:twitter.com)`, { count: 3 });
 
   await sleep(BETWEEN_QUERY_DELAY_MS);
-  const youtubeResults = await braveSearch(`${query} site:youtube.com`, { count: 3 });
+  const youtubeResults = await webSearch(`${query} site:youtube.com`, { count: 3 });
 
   return {
     id: `${candidate.issuerSlug}-${slugify(cardName)}`,

@@ -30,7 +30,10 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          # "lts/*" tracks whatever LTS is current on the runner image,
+          # rather than pinning a specific major that eventually gets
+          # deprecated out from under this workflow (as Node 20 just did).
+          node-version: "lts/*"
 
       - name: Run tracker
         env:
@@ -45,6 +48,13 @@ jobs:
         run: |
           git config user.name "card-launch-news-bot"
           git config user.email "actions@users.noreply.github.com"
+          # mkdir -p first: `git add` hard-fails (exit 128) on a path that
+          # doesn't exist on disk at all, which under bash -e would abort
+          # this whole step (and silently discard everything the run just
+          # did, since it never gets committed/pushed). An existing-but-empty
+          # directory is a safe no-op for git add, so this makes the add
+          # robust regardless of which paths this particular run touched.
+          mkdir -p docs/data data/sitemap-snapshots data/page-hashes
           git add docs/data config/settings.json data/sitemap-snapshots data/page-hashes
           if git diff --cached --quiet; then
             echo "No data changes to commit."

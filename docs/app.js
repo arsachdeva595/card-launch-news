@@ -88,7 +88,7 @@ function renderLaunchDetail(launch) {
       <h3>Community sentiment</h3>
       <ul class="community-list">
         <li><strong>Reddit:</strong> ${linkOrFallback(launch.community?.reddit, "Reddit discussion")}</li>
-        <li><strong>X / Twitter:</strong> ${linkOrFallback(launch.community?.twitter, "X/Twitter post")}</li>
+        <li><strong>X / Twitter:</strong> <p class="not-found">Not checked (no free API available for X/Twitter search).</p></li>
         <li><strong>YouTube:</strong> ${linkOrFallback(launch.community?.youtube, "YouTube video")}</li>
       </ul>
     </div>
@@ -119,7 +119,7 @@ function renderChangeDetail(change) {
       <h3>Community verification</h3>
       <ul class="community-list">
         <li><strong>Reddit:</strong> ${linkOrFallback(change.community?.reddit, "Reddit discussion")}</li>
-        <li><strong>News/other:</strong> ${linkOrFallback(change.community?.general, "coverage")}</li>
+        <li><strong>YouTube:</strong> ${linkOrFallback(change.community?.youtube, "YouTube video")}</li>
       </ul>
     </div>
   `;

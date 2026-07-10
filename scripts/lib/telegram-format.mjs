@@ -30,7 +30,7 @@ export function formatLaunchMessage(launch, siteUrl) {
     `Card page: <a href="${esc(launch.productPageUrl)}">${esc(launch.productPageUrl)}</a>`,
     linkLine("Announcement", launch.announcement),
     linkLine("Reddit", launch.community?.reddit),
-    linkLine("X/Twitter", launch.community?.twitter),
+    "X/Twitter: Not checked (no free API available)",
     linkLine("YouTube", launch.community?.youtube)
   ];
   if (siteUrl) lines.push("", `Full details: ${esc(siteUrl)}`);
@@ -48,7 +48,7 @@ export function formatChangeMessage(change, siteUrl) {
   const excerpt = diffExcerpt(change.diffHunks);
   lines.push("", excerpt ? `What changed (excerpt):\n${excerpt}` : "What changed: see full diff on the site");
 
-  lines.push("", linkLine("Reddit", change.community?.reddit), linkLine("News/other", change.community?.general));
+  lines.push("", linkLine("Reddit", change.community?.reddit), linkLine("YouTube", change.community?.youtube));
   if (siteUrl) lines.push("", `Full details: ${esc(siteUrl)}`);
   return lines.join("\n");
 }

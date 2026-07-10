@@ -1,4 +1,5 @@
-import { webSearch } from "./lib/search.mjs";
+import { searchReddit } from "./lib/reddit.mjs";
+import { searchYouTube } from "./lib/youtube.mjs";
 import { fetchCardName, fallbackNameFromUrl, slugify } from "./lib/page-meta.mjs";
 
 const BETWEEN_QUERY_DELAY_MS = 200;
@@ -13,10 +14,10 @@ function pickFirst(results) {
 
 /**
  * Given a page whose content-hash changed since last check, derives the card
- * name and searches for community discussion/verification of the change
- * (Reddit specifically, plus a general query for news coverage). There's no
- * single "announcement" for a change the way there is for a launch, so this
- * only returns a community section.
+ * name and searches for community discussion/verification of the change on
+ * Reddit and YouTube. There's no single "announcement" for a change the way
+ * there is for a launch, so this only returns a community section - the diff
+ * itself (computed in detect-changes.mjs) is the primary signal.
  */
 export async function enrichChangeCandidate(change) {
   const fallbackName = fallbackNameFromUrl(change.url, change.issuerName);
@@ -24,12 +25,10 @@ export async function enrichChangeCandidate(change) {
   const query = `${cardName} credit card`;
 
   await sleep(BETWEEN_QUERY_DELAY_MS);
-  const redditResults = await webSearch(`${query} (changed OR revised OR discontinued OR devalued) site:reddit.com`, {
-    count: 3
-  });
+  const redditResults = await searchReddit(`${query} changed OR revised OR discontinued OR devalued`, { limit: 3 });
 
   await sleep(BETWEEN_QUERY_DELAY_MS);
-  const generalResults = await webSearch(`${query} changed OR revised OR discontinued OR devalued`, { count: 5 });
+  const youtubeResults = await searchYouTube(`${query} update`, { maxResults: 3 });
 
   return {
     id: `${change.issuerSlug}-${slugify(cardName)}`,
@@ -43,7 +42,7 @@ export async function enrichChangeCandidate(change) {
     diffHunks: change.diffHunks || [],
     community: {
       reddit: pickFirst(redditResults),
-      general: pickFirst(generalResults)
+      youtube: pickFirst(youtubeResults)
     }
   };
 }

@@ -1,9 +1,25 @@
 {
   "frequencyDays": 7,
-  "lastRunAt": null,
+  "lastRunAt": "2026-07-10T11:47:12.440Z",
   "candidatePatterns": {
     "note": "URL path substrings that suggest a new sitemap entry is a credit card product page rather than an unrelated page (blog, offers, T&Cs, etc). Matching is case-insensitive substring match against the URL path.",
-    "include": ["credit-card", "creditcard", "credit_card", "card/"],
-    "exclude": ["blog", "offer", "terms", "faq", "calculator", "eligibility", "compare", "apply-now", "login", "press-release/archive"]
+    "include": [
+      "credit-card",
+      "creditcard",
+      "credit_card",
+      "card/"
+    ],
+    "exclude": [
+      "blog",
+      "offer",
+      "terms",
+      "faq",
+      "calculator",
+      "eligibility",
+      "compare",
+      "apply-now",
+      "login",
+      "press-release/archive"
+    ]
   }
 }

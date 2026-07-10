@@ -63,6 +63,11 @@ export async function crawlAll({ issuers, settings }) {
             lastmod: entry.lastmod,
             discoveredAt: new Date().toISOString()
           });
+        } else {
+          // Logged so "N new since last snapshot" vs "found 0 candidates" is
+          // never a mystery - every new URL either becomes a candidate or
+          // shows up here explaining why it didn't.
+          console.log(`  (new but not card-shaped, filtered out): ${entry.loc}`);
         }
       }
     } else {

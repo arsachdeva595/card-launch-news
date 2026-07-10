@@ -53,15 +53,37 @@ async function main() {
   console.log(`Found ${candidates.length} new candidate card page(s) across all issuers.`);
 
   const newLaunches = [];
+  const trackedCardUrlSet = new Set(trackedCards.map((c) => c.url));
+  let trackedCardsChanged = false;
+
   for (const candidate of candidates) {
     console.log(`Enriching new-launch candidate: ${candidate.url}`);
     try {
       const launch = await enrichCandidate(candidate);
       newLaunches.push(launch);
       console.log(`  -> "${launch.cardName}"`);
+
+      // Promote every newly-detected launch straight into the Tier 1
+      // curated list, so it gets full fetch+hash+diff treatment from now
+      // on instead of falling through to Tier 2's lightweight lastmod ping.
+      if (!trackedCardUrlSet.has(launch.productPageUrl)) {
+        trackedCards.push({
+          cardName: launch.cardName,
+          issuerSlug: launch.issuerSlug,
+          url: launch.productPageUrl,
+          status: "Active"
+        });
+        trackedCardUrlSet.add(launch.productPageUrl);
+        trackedCardsChanged = true;
+      }
     } catch (err) {
       console.warn(`  ! enrichment failed for ${candidate.url}: ${err.message}`);
     }
+  }
+
+  if (trackedCardsChanged) {
+    await writeJson(PATHS.trackedCards, trackedCards);
+    console.log(`Added ${newLaunches.length} new launch(es) to config/tracked-cards.json.`);
   }
 
   // Tier 1: full fetch+hash+diff, but only for the curated tracked-cards

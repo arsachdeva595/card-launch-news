@@ -186,12 +186,12 @@ This is the list that gets full fetch+hash+diff treatment every run, so:
 - **Add a card** when you notice one missing (e.g. from a Tier 2 ping, or
   just browsing an issuer's site) to start getting full diffs for it instead
   of just a lightweight ping.
-- **New launches get added here automatically** in spirit but not in
-  practice yet — `scripts/enrich.mjs` derives a `cardName` for every new
-  launch, but nothing currently appends it to `tracked-cards.json`. Add
-  newly-launched cards here manually if you want them to get full diff
-  treatment going forward (they'll otherwise fall through to Tier 2's
-  lightweight lastmod ping, which still works, just without a diff).
+- **New launches get added here automatically** — `scripts/run.mjs` appends
+  every newly-detected launch straight into `tracked-cards.json` (status
+  `Active`) as soon as it's found, in the same run. Its first content-hash
+  fetch happens immediately too (as part of that run's Tier 1 pass), so it
+  starts getting full diff treatment from day one instead of waiting for the
+  next run or falling through to Tier 2's lightweight ping.
 - Removing an entry just stops full-diff tracking for it; its
   `data/page-hashes/<issuer>.json` entry is harmlessly orphaned (not
   cleaned up automatically).

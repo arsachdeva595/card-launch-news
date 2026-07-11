@@ -55,7 +55,16 @@ export async function fetchPageSnapshot(url) {
 
     const html = await res.text();
     const text = extractVisibleText(html);
-    const hash = createHash("sha256").update(text).digest("hex");
+    // Hash a *sorted* copy of the lines, not the original order. Several
+    // issuer pages embed a "related products" carousel/widget that renders
+    // in a different order on every request with otherwise identical
+    // content (observed on HDFC's card pages) - hashing original order
+    // flags that as a change every time. Sorting first makes the hash
+    // insensitive to pure reordering while still changing normally when
+    // content is genuinely added, removed, or edited. `text` itself (used
+    // for display/diffing) keeps its real original order.
+    const sortedLines = text.split("\n").sort();
+    const hash = createHash("sha256").update(sortedLines.join("\n")).digest("hex");
     return { hash, text };
   } catch {
     return null;

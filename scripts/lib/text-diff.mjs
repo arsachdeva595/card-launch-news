@@ -80,9 +80,48 @@ export function toUnifiedHunks(ops, { contextLines = 2, maxLines = 200 } = {}) {
   return hunks;
 }
 
-/** Convenience wrapper: diff two texts and return trimmed unified hunks directly. */
+/**
+ * Fallback for pages too large for the positional LCS diff: a multiset
+ * (line-frequency) comparison instead. O(n), so it never hits a size cap -
+ * "removed" is lines whose count dropped, "added" is lines whose count rose.
+ * No context lines (there's no meaningful position to anchor them to), but
+ * this guarantees *something* concrete is always shown instead of "diff not
+ * available", even on huge pages.
+ */
+export function computeMultisetDiff(oldText, newText, { maxLines = 200 } = {}) {
+  const countLines = (text) => {
+    const counts = new Map();
+    for (const line of text.split("\n")) counts.set(line, (counts.get(line) || 0) + 1);
+    return counts;
+  };
+
+  const oldCounts = countLines(oldText);
+  const newCounts = countLines(newText);
+  const hunks = [];
+
+  for (const [line, oldCount] of oldCounts) {
+    const newCount = newCounts.get(line) || 0;
+    for (let i = 0; i < oldCount - newCount; i++) hunks.push({ type: "removed", text: line });
+  }
+  for (const [line, newCount] of newCounts) {
+    const oldCount = oldCounts.get(line) || 0;
+    for (let i = 0; i < newCount - oldCount; i++) hunks.push({ type: "added", text: line });
+  }
+
+  if (hunks.length > maxLines) {
+    return [...hunks.slice(0, maxLines), { type: "ellipsis", text: `… diff truncated (${hunks.length - maxLines} more lines) …` }];
+  }
+  return hunks;
+}
+
+/**
+ * Diff two texts and return trimmed unified hunks. Prefers the positional
+ * LCS diff (has surrounding context); falls back to the multiset diff if the
+ * inputs are too large for that (see MAX_DP_CELLS) - so this never returns
+ * null/nothing the way the underlying pieces individually can.
+ */
 export function computeUnifiedDiff(oldText, newText, options) {
   const ops = diffLines(oldText, newText);
-  if (!ops) return null;
-  return toUnifiedHunks(ops, options);
+  if (ops) return toUnifiedHunks(ops, options);
+  return computeMultisetDiff(oldText, newText, options);
 }

@@ -77,7 +77,7 @@ export async function detectChanges({ trackedCards, issuers, settings }) {
           status: card.status,
           url: card.url,
           detectedAt: nowIso,
-          diffHunks: diffHunks || [] // null means the diff was too large to compute cheaply
+          diffHunks
         });
       }
     }

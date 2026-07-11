@@ -247,11 +247,19 @@ them, searches are skipped and card entries are still created with
   against. This grows the repo more than launch-only tracking did — a few KB
   per page across potentially several hundred pages per issuer — but stays
   well within what a git repo comfortably handles at this scale.
-- The diff engine (`scripts/lib/text-diff.mjs`) is a plain LCS-backtrack line
-  diff with no external dependency; it skips diffing (falls back to "visit
-  the page directly") if both versions of a page are too large to diff
-  cheaply (500K old-lines × new-lines cells), which in practice should only
-  happen on unusually huge pages.
+- The comparison hash is computed over *sorted* lines, not original page
+  order — several issuer pages embed a "related products" carousel/widget
+  that renders in a different order every request with otherwise identical
+  content (observed on HDFC's card pages), which a naive order-sensitive
+  hash flags as changed on every single run. Sorting first makes the hash
+  insensitive to pure reordering while still changing normally when content
+  is genuinely added, removed, or edited.
+- The diff itself (`scripts/lib/text-diff.mjs`) prefers a plain LCS-backtrack
+  line diff (has surrounding context, no external dependency), but falls
+  back to a multiset (line-frequency) diff — no context lines, but never
+  skipped — if both versions of a page are too large for the LCS diff's
+  O(n×m) comparison (500K old-lines × new-lines cells). Either way, "What
+  changed" always shows something concrete rather than "not available."
 - Enrichment picks the *first* Reddit/YouTube result per query — it's a
   best-effort signal, not a verified/deduplicated source. Treat "community
   sentiment"/"community verification" as leads to click through, not ground

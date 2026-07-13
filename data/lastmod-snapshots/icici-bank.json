@@ -21,7 +21,7 @@
     "https://www.icici.bank.in/personal-banking/iplay/international-usage-credit-card": "2026-05-27",
     "https://www.icici.bank.in/personal-banking/iplay/how-to-convert-credit-card-transactions": "2025-11-03",
     "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment": "2026-07-09",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card": "2026-07-04",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card": "2026-07-10",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-products": "2026-03-20",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-products/balance-transfer": "2026-04-01",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-products/instant-emi": "2026-04-08",
@@ -70,7 +70,7 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/insurance-tnc": "2026-03-05",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/concierge-travel-tnc": "2026-04-08",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/concierge-medical-tnc": "2026-04-08",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/priority-pass-tnc": "2026-06-17",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/priority-pass-tnc": "2026-07-13",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/block-credit-card": "2026-04-08",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-card-end-user-documents": "2026-04-08",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/tnc-for-governing-credit-card": "2026-02-18",
@@ -245,5 +245,5 @@
     "https://www.icici.bank.in/business-banking/cards/corporate-card/documents": "2026-06-01",
     "https://www.icici.bank.in/campus-power/alumni-credit-card": "2026-06-01"
   },
-  "updatedAt": "2026-07-11T06:35:13.278Z"
+  "updatedAt": "2026-07-13T06:42:42.778Z"
 }

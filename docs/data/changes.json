@@ -1,1 +1,6858 @@
-[]
+[
+  {
+    "id": "rbl-bank-nova-credit-card",
+    "cardName": "Nova Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/nova-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:50.238Z",
+    "diffHunks": [
+      {
+        "type": "added",
+        "text": "Cookie settings"
+      },
+      {
+        "type": "added",
+        "text": "By continuing to use this site, you are accepting the bank's cookie"
+      },
+      {
+        "type": "added",
+        "text": "policy. The information collected would be used to improve your journey & to"
+      },
+      {
+        "type": "added",
+        "text": "personalize your website experience."
+      },
+      {
+        "type": "added",
+        "text": "OK"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-apex-credit-card",
+    "cardName": "Apex Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/apex-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:48.774Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-aspire-banking-credit-card",
+    "cardName": "Aspire Banking Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/aspire-banking-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:45.074Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-signature-banking-credit-card",
+    "cardName": "Signature Banking Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/signature-banking-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:43.994Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-quick-pay-credit-card",
+    "cardName": "RBL Bank Quick Pay Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-quick-pay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:42.597Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-salaryse-up-credit-card",
+    "cardName": "Salaryse Up Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/salaryse-up-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:41.522Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-tvs-credit-rbl-bank-credit-card",
+    "cardName": "TVS Credit RBL Bank Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/tvs-credit-rbl-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:40.785Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-tvs-credit-rbl-bank-gold-credit-card",
+    "cardName": "TVS Credit RBL Bank Gold Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/tvs-credit-rbl-bank-gold-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:40.039Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-patanjali-vishisht-credit-card",
+    "cardName": "RBL Bank Patanjali Vishisht Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-patanjali-vishisht-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:38.681Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-patanjali-swarn-credit-card",
+    "cardName": "RBL Bank Patanjali Swarn Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-patanjali-swarn-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:37.932Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-indianoil-rbl-bank-xtra-credit-card",
+    "cardName": "IndianOil RBL Bank XTRA Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/indianoil-rbl-bank-xtra-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:36.522Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-indianoil-rbl-bank-credit-card",
+    "cardName": "IndianOil RBL Bank Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/indianoil-rbl-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:35.781Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-irctc-rbl-bank-rupay-credit-card",
+    "cardName": "IRCTC RBL Bank RuPay Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/irctc-rbl-bank-rupay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:34.653Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-dmi-finance-credit-card",
+    "cardName": "DMI Finance Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/dmi-finance-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:33.087Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-iglobe-credit-card",
+    "cardName": "iGlobe Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/iglobe-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:31.357Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-edge-credit-card",
+    "cardName": "Platinum Edge Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-edge-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:29.853Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-moneytap-credit-card",
+    "cardName": "MoneyTap Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/moneytap-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:29.112Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-moneytap-black-credit-card",
+    "cardName": "MoneyTap Black Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/moneytap-black-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:41:28.072Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-shopdaily-credit-card",
+    "cardName": "Platinum ShopDaily Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-shopdaily-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:26.729Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-plus-credit-card",
+    "cardName": "Platinum Plus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:25.590Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-world-prime-credit-card",
+    "cardName": "World Prime Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-prime-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:24.844Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-traveleasy-credit-card",
+    "cardName": "Platinum TravelEasy Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-traveleasy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:23.340Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-shopsmart-credit-card",
+    "cardName": "Platinum ShopSmart Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-shopsmart-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:21.946Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-valueplus-credit-card",
+    "cardName": "Platinum ValuePlus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-valueplus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:19.685Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-popcorn-credit-card",
+    "cardName": "RBL Bank Popcorn Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-popcorn-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:18.177Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-world-max-credit-card",
+    "cardName": "World Max Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-max-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:17.069Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-classic-credit-card",
+    "cardName": "Platinum Classic Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-classic-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:41:15.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-max-credit-card",
+    "cardName": "Platinum Max Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-max-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:14.745Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-prime-credit-card",
+    "cardName": "Platinum Prime Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-prime-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:41:13.992Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-bonus-credit-card",
+    "cardName": "Platinum Bonus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-bonus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:12.447Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-shopgain-credit-card",
+    "cardName": "Platinum ShopGain Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-shopgain-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:10.404Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-binge-credit-card",
+    "cardName": "Binge Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/binge-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:09.080Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-myfirst-credit-card",
+    "cardName": "MyFirst Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/myfirst-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:07.874Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-easysaver-credit-card",
+    "cardName": "EasySaver Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/easysaver-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:06.188Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-mocash-credit-card",
+    "cardName": "MoCash Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/mocash-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:05.426Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-fun-plus-credit-card",
+    "cardName": "Fun Plus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-fun-plus-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:41:04.681Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-paisabazaar-duet-plus-credit-card",
+    "cardName": "RBL Bank PaisaBazaar Duet Plus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-paisabazaar-duet-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:03.188Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-paisabazaar-duet-credit-card",
+    "cardName": "RBL Bank PaisaBazaar Duet Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-paisabazaar-duet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:02.440Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-bankbazaar-savemax-pro-credit-card",
+    "cardName": "RBL Bank BankBazaar SaveMax Pro Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-bankbazaar-savemax-pro-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:01.445Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-bankbazaar-savemax-credit-card",
+    "cardName": "RBL Bank BankBazaar SaveMax Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-bankbazaar-savemax-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:41:00.336Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-titanium-delight-credit-card",
+    "cardName": "Titanium Delight Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/titanium-delight-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:40:59.588Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-insignia-preferred-banking-credit-card",
+    "cardName": "Insignia Preferred Banking Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/insignia-preferred-banking-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:58.453Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-blockbuster-credit-card",
+    "cardName": "RBL Bank Blockbuster Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-blockbuster-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:40:57.044Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-movies-and-more-credit-card",
+    "cardName": "RBL Bank Movies and More Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-movies-and-more-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:55.666Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-play-credit-card",
+    "cardName": "RBL Bank Play Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-play-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:54.158Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-lifeeasy-credit-card",
+    "cardName": "Platinum LifeEasy Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-lifeeasy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:52.760Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-advantage-credit-card",
+    "cardName": "Platinum Advantage Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-advantage-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:51.699Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-world-plus-credit-card",
+    "cardName": "World Plus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:50.928Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-choice-credit-card",
+    "cardName": "Platinum Choice Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-choice-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:49.441Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-maxima-credit-card",
+    "cardName": "Platinum Maxima Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-maxima-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:48.287Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-delight-credit-card",
+    "cardName": "Platinum Delight Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-delight-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:47.541Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      },
+      {
+        "type": "added",
+        "text": "Cookie settings"
+      },
+      {
+        "type": "added",
+        "text": "By continuing to use this site, you are accepting the bank's cookie"
+      },
+      {
+        "type": "added",
+        "text": "policy. The information collected would be used to improve your journey & to"
+      },
+      {
+        "type": "added",
+        "text": "personalize your website experience."
+      },
+      {
+        "type": "added",
+        "text": "OK"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-world-safari-credit-card",
+    "cardName": "World Safari Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-safari-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:45.397Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-monthly-treats-credit-card",
+    "cardName": "Monthly Treats Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/monthly-treats-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:44.630Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-shoprite-credit-card",
+    "cardName": "ShopRite Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/shoprite-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:43.884Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-icon-credit-card",
+    "cardName": "Icon Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/icon-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:43.113Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "removed",
+        "text": "Cookie settings"
+      },
+      {
+        "type": "removed",
+        "text": "By continuing to use this site, you are accepting the bank's cookie"
+      },
+      {
+        "type": "removed",
+        "text": "policy. The information collected would be used to improve your journey & to"
+      },
+      {
+        "type": "removed",
+        "text": "personalize your website experience."
+      },
+      {
+        "type": "removed",
+        "text": "OK"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-maxima-plus-credit-card",
+    "cardName": "Platinum Maxima Plus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-maxima-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:42.354Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-cookies-credit-card",
+    "cardName": "Cookies Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/cookies-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:41.603Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 03, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "The Risks of Juice Jacking: Tips to Keep Your Data Safe"
+      },
+      {
+        "type": "added",
+        "text": "July 13, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How to Maximise Credit Card Reward Points in India - A Complete Guide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "sbi-card-sbi-signature-corporate-card",
+    "cardName": "SBI Signature Corporate Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/travel-entertainment-cards/sbi-signature-corporate-card.page",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:40:06.372Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "context",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "removed",
+        "text": "Customized Solutions"
+      },
+      {
+        "type": "removed",
+        "text": "Customized solutions. Enhanced value."
+      },
+      {
+        "type": "removed",
+        "text": "Enquire Now"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Web Servicing"
+      },
+      {
+        "type": "added",
+        "text": "Digital On-Boarding"
+      },
+      {
+        "type": "added",
+        "text": "Business Expertise"
+      },
+      {
+        "type": "added",
+        "text": "Global Acceptance"
+      },
+      {
+        "type": "added",
+        "text": "Technology Innovation"
+      },
+      {
+        "type": "added",
+        "text": "Security & Control"
+      },
+      {
+        "type": "added",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "added",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "context",
+        "text": "Cards"
+      },
+      {
+        "type": "context",
+        "text": "Cards Home Cards"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Business"
+      },
+      {
+        "type": "context",
+        "text": "Digitized Membership Kit"
+      },
+      {
+        "type": "removed",
+        "text": "Compare Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Help me find a card"
+      },
+      {
+        "type": "removed",
+        "text": "Card Security Tips"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Product Videos"
+      },
+      {
+        "type": "removed",
+        "text": "Digital Platform Updates"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "context",
+        "text": "Connect with us"
+      },
+      {
+        "type": "context",
+        "text": "Benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Contactless Payments"
+      },
+      {
+        "type": "context",
+        "text": "Airport Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "Download SBI Card Mobile App"
+      },
+      {
+        "type": "removed",
+        "text": "Add-on Card"
+      },
+      {
+        "type": "removed",
+        "text": "Top Up & Recharge"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Digital Platform Updates"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Video for New Users"
+      },
+      {
+        "type": "context",
+        "text": "Connect with us"
+      },
+      {
+        "type": "context",
+        "text": "Pay"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Pay Online"
+      },
+      {
+        "type": "context",
+        "text": "Pay Offline"
+      },
+      {
+        "type": "removed",
+        "text": "Download Form"
+      },
+      {
+        "type": "removed",
+        "text": "PAYNET-Pay Online"
+      },
+      {
+        "type": "removed",
+        "text": "NEFT"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Digital Platform Updates"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Payment Posting TAT"
+      },
+      {
+        "type": "context",
+        "text": "Connect with us"
+      },
+      {
+        "type": "context",
+        "text": "Offers"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Track my Application"
+      },
+      {
+        "type": "context",
+        "text": "Retrieve my Application"
+      },
+      {
+        "type": "removed",
+        "text": "Apply now"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Digital Platform Updates"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Help me find a card"
+      },
+      {
+        "type": "added",
+        "text": "Track my Application"
+      },
+      {
+        "type": "added",
+        "text": "Retrieve my Application"
+      },
+      {
+        "type": "context",
+        "text": "Connect with us"
+      },
+      {
+        "type": "context",
+        "text": "Corporate Corporate Home"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "context",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Web Servicing"
+      },
+      {
+        "type": "added",
+        "text": "Digital On-Boarding"
+      },
+      {
+        "type": "added",
+        "text": "Business Expertise"
+      },
+      {
+        "type": "added",
+        "text": "Global Acceptance"
+      },
+      {
+        "type": "added",
+        "text": "Technology Innovation"
+      },
+      {
+        "type": "added",
+        "text": "Security & Control"
+      },
+      {
+        "type": "added",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "added",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "context",
+        "text": "Connect with us"
+      },
+      {
+        "type": "context",
+        "text": "Cards"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "sbi-card-sbi-corporate-virtual-card",
+    "cardName": "SBI Corporate Virtual Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/corporate-virtual-card/virtual-card.page",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:39:39.124Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Blog"
+      },
+      {
+        "type": "context",
+        "text": "Help"
+      },
+      {
+        "type": "removed",
+        "text": "Customized Solution"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Web Servicing"
+      },
+      {
+        "type": "removed",
+        "text": "Digital On-Boarding"
+      },
+      {
+        "type": "removed",
+        "text": "Business Expertise"
+      },
+      {
+        "type": "removed",
+        "text": "Global Acceptance"
+      },
+      {
+        "type": "removed",
+        "text": "Technology Innovation"
+      },
+      {
+        "type": "removed",
+        "text": "Security & Control"
+      },
+      {
+        "type": "removed",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "removed",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "removed",
+        "text": "Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Central Travel Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Utility Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Purchase Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Virtual Cards"
+      },
+      {
+        "type": "added",
+        "text": "Credit Cards"
+      },
+      {
+        "type": "added",
+        "text": "Lifestyle"
+      },
+      {
+        "type": "added",
+        "text": "Reward"
+      },
+      {
+        "type": "added",
+        "text": "Shopping"
+      },
+      {
+        "type": "added",
+        "text": "Travel & Fuel"
+      },
+      {
+        "type": "added",
+        "text": "Banking Partnership"
+      },
+      {
+        "type": "added",
+        "text": "Business"
+      },
+      {
+        "type": "added",
+        "text": "Digitized Membership Kit"
+      },
+      {
+        "type": "added",
+        "text": "Benefits"
+      },
+      {
+        "type": "added",
+        "text": "Lower Interest Option"
+      },
+      {
+        "type": "added",
+        "text": "Encash"
+      },
+      {
+        "type": "added",
+        "text": "Money Simplified"
+      },
+      {
+        "type": "added",
+        "text": "Utility Bill Payment"
+      },
+      {
+        "type": "added",
+        "text": "Easy Access Channels"
+      },
+      {
+        "type": "added",
+        "text": "Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Other benefits"
+      },
+      {
+        "type": "added",
+        "text": "Contactless Payments"
+      },
+      {
+        "type": "added",
+        "text": "Airport Lounge Access"
+      },
+      {
+        "type": "added",
+        "text": "Pay"
+      },
+      {
+        "type": "added",
+        "text": "Pay Online"
+      },
+      {
+        "type": "added",
+        "text": "Pay Offline"
+      },
+      {
+        "type": "context",
+        "text": "Offers"
+      },
+      {
+        "type": "removed",
+        "text": "Enquire"
+      },
+      {
+        "type": "removed",
+        "text": "Track Application"
+      },
+      {
+        "type": "added",
+        "text": "All offers"
+      },
+      {
+        "type": "added",
+        "text": "Offers this week"
+      },
+      {
+        "type": "added",
+        "text": "Convert to EMI"
+      },
+      {
+        "type": "added",
+        "text": "Visa Offers on SBI Card"
+      },
+      {
+        "type": "added",
+        "text": "Rewards"
+      },
+      {
+        "type": "added",
+        "text": "Know your Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Redeeming Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Apply"
+      },
+      {
+        "type": "added",
+        "text": "Help me find a card"
+      },
+      {
+        "type": "added",
+        "text": "Track my Application"
+      },
+      {
+        "type": "added",
+        "text": "Retrieve my Application"
+      },
+      {
+        "type": "context",
+        "text": "©2026"
+      },
+      {
+        "type": "context",
+        "text": "Do Not Disturb"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-karur-vysya-sbi-signature-card",
+    "cardName": "Karur Vysya SBI Signature Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/co-branded-kvb-sbi-credit/kvb-sbi-signature-card/",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:37:22.659Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "On clicking the below accept button, you will be directed to the webpage with which you will be able to repay for a loan account. Please note that while you are entering the payment page, you will be leaving the KARUR VYSYA BANK LTD website and enter IndiaIdeas [BillDesk] Website. Please note that our policies, terms and conditions, disclaimers will cease once you leave our website. Since the BillDesk Ltd webpage is governed by its respective policies, you will be agreeing to the terms & conditions as also any disclaimers/Terms of use Privacy Policy prescribed by IndiaIdeas [BillDesk]Ltd from time to time for availing its services. KARUR VYSYA BANK LTD will not be responsible in any manner whatsoever for confidentiality of the data shared by you and for any loss, damage, costs & charges direct or indirect incurred by you, arising out of or in connection with your access to the IndiaIdeas [BillDesk] website or for any deficiency in the services of IndiaIdeas [BillDesk] or for the failure or disruption of the services."
+      },
+      {
+        "type": "context",
+        "text": "Do not Agree Agree"
+      },
+      {
+        "type": "removed",
+        "text": "About Us Investor Corner CSR Sustainability Careers Locate Us (Branch / ATM) Interest Rates Demo Videos"
+      },
+      {
+        "type": "added",
+        "text": "About Us"
+      },
+      {
+        "type": "added",
+        "text": "Investor Corner"
+      },
+      {
+        "type": "added",
+        "text": "CSR"
+      },
+      {
+        "type": "added",
+        "text": "Sustainability"
+      },
+      {
+        "type": "added",
+        "text": "Careers"
+      },
+      {
+        "type": "added",
+        "text": "Locate Us (Branch / ATM)"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates"
+      },
+      {
+        "type": "added",
+        "text": "Demo Videos"
+      },
+      {
+        "type": "context",
+        "text": "Helpline (Domestic)"
+      },
+      {
+        "type": "context",
+        "text": "1860 258 1916 (Local charges Applicable)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1800 572 1916 (Toll Free)"
+      },
+      {
+        "type": "context",
+        "text": "Utility Links"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Repayment KVB Gift Card Portal TNEB Payment Gateway Online Money Transfer from US Online Money Transfer from Non - US Countries Temple Donation"
+      },
+      {
+        "type": "added",
+        "text": "Loan Repayment"
+      },
+      {
+        "type": "added",
+        "text": "KVB Gift Card Portal"
+      },
+      {
+        "type": "added",
+        "text": "TNEB Payment Gateway"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from US"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from Non - US Countries"
+      },
+      {
+        "type": "added",
+        "text": "Temple Donation"
+      },
+      {
+        "type": "context",
+        "text": "Regulatory"
+      },
+      {
+        "type": "removed",
+        "text": "Policy on Co-Lending to Priority Sector UDGAM Portal Information on secured assets possessed under SARFAESI Act, 2002 Fair Practices, Policies and Banking Codes Credit Card - Grievance Redressal procedure & Board approved Policy To Register Complaint with SEBI Regulatory Disclosures for MSME Green Deposit Policy and Financing Framework Third-Party Verification / Assurance and Impact Assessment Report Financial Performance Corporate Presentation Basel III Disclosures Customer Education Literature on NPA and SMA Classification RBI Sachet Portal MSME Settlement Scheme Handbook on Sanction of Export Credit Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025 Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "added",
+        "text": "Policy on Co-Lending to Priority Sector"
+      },
+      {
+        "type": "added",
+        "text": "UDGAM Portal"
+      },
+      {
+        "type": "added",
+        "text": "Information on secured assets possessed under SARFAESI Act, 2002"
+      },
+      {
+        "type": "added",
+        "text": "Fair Practices, Policies and Banking Codes"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card - Grievance Redressal procedure & Board approved Policy"
+      },
+      {
+        "type": "added",
+        "text": "To Register Complaint with SEBI"
+      },
+      {
+        "type": "added",
+        "text": "Regulatory Disclosures for MSME"
+      },
+      {
+        "type": "added",
+        "text": "Green Deposit Policy and Financing Framework"
+      },
+      {
+        "type": "added",
+        "text": "Third-Party Verification / Assurance and Impact Assessment Report"
+      },
+      {
+        "type": "added",
+        "text": "Financial Performance"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Presentation"
+      },
+      {
+        "type": "added",
+        "text": "Basel III Disclosures"
+      },
+      {
+        "type": "added",
+        "text": "Customer Education Literature on NPA and SMA Classification"
+      },
+      {
+        "type": "added",
+        "text": "RBI Sachet Portal"
+      },
+      {
+        "type": "added",
+        "text": "MSME Settlement Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Handbook on Sanction of Export Credit"
+      },
+      {
+        "type": "added",
+        "text": "Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025"
+      },
+      {
+        "type": "added",
+        "text": "Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "context",
+        "text": "Customer Service / Support"
+      },
+      {
+        "type": "removed",
+        "text": "Feedback / Lodge a Complaint Unclaimed Deposit Portal Digital Channels Claim Registration Aadhaar Enrolment Centres Door Step Banking Services Lock / Unlock of Internet Banking Debit Card Hotlisting KVB Credit Card Hotlisting (Retail/Corporate) KVB SBI Co branded Credit Card Hotlisting Download Forms Download Apps Inoperative and Unclaimed Deposits Holiday List Update / Verify Aadhaar Customer Support Forex Services"
+      },
+      {
+        "type": "added",
+        "text": "Feedback / Lodge a Complaint"
+      },
+      {
+        "type": "added",
+        "text": "Unclaimed Deposit Portal"
+      },
+      {
+        "type": "added",
+        "text": "Digital Channels Claim Registration"
+      },
+      {
+        "type": "added",
+        "text": "Aadhaar Enrolment Centres"
+      },
+      {
+        "type": "added",
+        "text": "Door Step Banking Services"
+      },
+      {
+        "type": "added",
+        "text": "Lock / Unlock of Internet Banking"
+      },
+      {
+        "type": "added",
+        "text": "Debit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "KVB Credit Card Hotlisting (Retail/Corporate)"
+      },
+      {
+        "type": "added",
+        "text": "KVB SBI Co branded Credit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "Download Forms"
+      },
+      {
+        "type": "added",
+        "text": "Download Apps"
+      },
+      {
+        "type": "added",
+        "text": "Inoperative and Unclaimed Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Holiday List"
+      },
+      {
+        "type": "added",
+        "text": "Update / Verify Aadhaar"
+      },
+      {
+        "type": "added",
+        "text": "Customer Support"
+      },
+      {
+        "type": "added",
+        "text": "Forex Services"
+      },
+      {
+        "type": "context",
+        "text": "Others"
+      },
+      {
+        "type": "removed",
+        "text": "Blogs Auditor Appointment Policy Properties Under Auction KVB GSTIN Details Service Charges & Fees Interest Rates & Charges Quick Glance Disclaimer FAQs Terms and Conditions Ways to Bank Recovery Service Providers Resolution Service Providers Customer Advisory Contact Us Calculators New Privacy Policy"
+      },
+      {
+        "type": "added",
+        "text": "Blogs"
+      },
+      {
+        "type": "added",
+        "text": "Auditor Appointment Policy"
+      },
+      {
+        "type": "added",
+        "text": "Properties Under Auction"
+      },
+      {
+        "type": "added",
+        "text": "KVB GSTIN Details"
+      },
+      {
+        "type": "added",
+        "text": "Service Charges & Fees"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates & Charges Quick Glance"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer"
+      },
+      {
+        "type": "added",
+        "text": "FAQs"
+      },
+      {
+        "type": "added",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Ways to Bank"
+      },
+      {
+        "type": "added",
+        "text": "Recovery Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Resolution Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Customer Advisory"
+      },
+      {
+        "type": "added",
+        "text": "Contact Us"
+      },
+      {
+        "type": "added",
+        "text": "Calculators New"
+      },
+      {
+        "type": "added",
+        "text": "Privacy Policy"
+      },
+      {
+        "type": "context",
+        "text": "Secure Banking"
+      },
+      {
+        "type": "removed",
+        "text": "RBI Kehta Hai Secure Banking Tips Cyber Security Awareness"
+      },
+      {
+        "type": "added",
+        "text": "RBI Kehta Hai"
+      },
+      {
+        "type": "added",
+        "text": "Secure Banking Tips"
+      },
+      {
+        "type": "added",
+        "text": "Cyber Security Awareness"
+      },
+      {
+        "type": "context",
+        "text": "THE KARUR VYSYA BANK LIMITED, Registered & Central Office, No. 20, Erode Road, Vadivel Nagar, L.N.S., Karur - 639002."
+      },
+      {
+        "type": "context",
+        "text": "Phone : 04324 - 269000 CIN : L65110TN1916PLC001295"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-karur-vysya-sbi-platinum-card",
+    "cardName": "Karur Vysya SBI Platinum Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/co-branded-kvb-sbi-credit/kvb-sbi-platinum-card/",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:37:21.833Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "On clicking the below accept button, you will be directed to the webpage with which you will be able to repay for a loan account. Please note that while you are entering the payment page, you will be leaving the KARUR VYSYA BANK LTD website and enter IndiaIdeas [BillDesk] Website. Please note that our policies, terms and conditions, disclaimers will cease once you leave our website. Since the BillDesk Ltd webpage is governed by its respective policies, you will be agreeing to the terms & conditions as also any disclaimers/Terms of use Privacy Policy prescribed by IndiaIdeas [BillDesk]Ltd from time to time for availing its services. KARUR VYSYA BANK LTD will not be responsible in any manner whatsoever for confidentiality of the data shared by you and for any loss, damage, costs & charges direct or indirect incurred by you, arising out of or in connection with your access to the IndiaIdeas [BillDesk] website or for any deficiency in the services of IndiaIdeas [BillDesk] or for the failure or disruption of the services."
+      },
+      {
+        "type": "context",
+        "text": "Do not Agree Agree"
+      },
+      {
+        "type": "removed",
+        "text": "About Us Investor Corner CSR Sustainability Careers Locate Us (Branch / ATM) Interest Rates Demo Videos"
+      },
+      {
+        "type": "added",
+        "text": "About Us"
+      },
+      {
+        "type": "added",
+        "text": "Investor Corner"
+      },
+      {
+        "type": "added",
+        "text": "CSR"
+      },
+      {
+        "type": "added",
+        "text": "Sustainability"
+      },
+      {
+        "type": "added",
+        "text": "Careers"
+      },
+      {
+        "type": "added",
+        "text": "Locate Us (Branch / ATM)"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates"
+      },
+      {
+        "type": "added",
+        "text": "Demo Videos"
+      },
+      {
+        "type": "context",
+        "text": "Helpline (Domestic)"
+      },
+      {
+        "type": "context",
+        "text": "1860 258 1916 (Local charges Applicable)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1800 572 1916 (Toll Free)"
+      },
+      {
+        "type": "context",
+        "text": "Utility Links"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Repayment KVB Gift Card Portal TNEB Payment Gateway Online Money Transfer from US Online Money Transfer from Non - US Countries Temple Donation"
+      },
+      {
+        "type": "added",
+        "text": "Loan Repayment"
+      },
+      {
+        "type": "added",
+        "text": "KVB Gift Card Portal"
+      },
+      {
+        "type": "added",
+        "text": "TNEB Payment Gateway"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from US"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from Non - US Countries"
+      },
+      {
+        "type": "added",
+        "text": "Temple Donation"
+      },
+      {
+        "type": "context",
+        "text": "Regulatory"
+      },
+      {
+        "type": "removed",
+        "text": "Policy on Co-Lending to Priority Sector UDGAM Portal Information on secured assets possessed under SARFAESI Act, 2002 Fair Practices, Policies and Banking Codes Credit Card - Grievance Redressal procedure & Board approved Policy To Register Complaint with SEBI Regulatory Disclosures for MSME Green Deposit Policy and Financing Framework Third-Party Verification / Assurance and Impact Assessment Report Financial Performance Corporate Presentation Basel III Disclosures Customer Education Literature on NPA and SMA Classification RBI Sachet Portal MSME Settlement Scheme Handbook on Sanction of Export Credit Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025 Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "added",
+        "text": "Policy on Co-Lending to Priority Sector"
+      },
+      {
+        "type": "added",
+        "text": "UDGAM Portal"
+      },
+      {
+        "type": "added",
+        "text": "Information on secured assets possessed under SARFAESI Act, 2002"
+      },
+      {
+        "type": "added",
+        "text": "Fair Practices, Policies and Banking Codes"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card - Grievance Redressal procedure & Board approved Policy"
+      },
+      {
+        "type": "added",
+        "text": "To Register Complaint with SEBI"
+      },
+      {
+        "type": "added",
+        "text": "Regulatory Disclosures for MSME"
+      },
+      {
+        "type": "added",
+        "text": "Green Deposit Policy and Financing Framework"
+      },
+      {
+        "type": "added",
+        "text": "Third-Party Verification / Assurance and Impact Assessment Report"
+      },
+      {
+        "type": "added",
+        "text": "Financial Performance"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Presentation"
+      },
+      {
+        "type": "added",
+        "text": "Basel III Disclosures"
+      },
+      {
+        "type": "added",
+        "text": "Customer Education Literature on NPA and SMA Classification"
+      },
+      {
+        "type": "added",
+        "text": "RBI Sachet Portal"
+      },
+      {
+        "type": "added",
+        "text": "MSME Settlement Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Handbook on Sanction of Export Credit"
+      },
+      {
+        "type": "added",
+        "text": "Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025"
+      },
+      {
+        "type": "added",
+        "text": "Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "context",
+        "text": "Customer Service / Support"
+      },
+      {
+        "type": "removed",
+        "text": "Feedback / Lodge a Complaint Unclaimed Deposit Portal Digital Channels Claim Registration Aadhaar Enrolment Centres Door Step Banking Services Lock / Unlock of Internet Banking Debit Card Hotlisting KVB Credit Card Hotlisting (Retail/Corporate) KVB SBI Co branded Credit Card Hotlisting Download Forms Download Apps Inoperative and Unclaimed Deposits Holiday List Update / Verify Aadhaar Customer Support Forex Services"
+      },
+      {
+        "type": "added",
+        "text": "Feedback / Lodge a Complaint"
+      },
+      {
+        "type": "added",
+        "text": "Unclaimed Deposit Portal"
+      },
+      {
+        "type": "added",
+        "text": "Digital Channels Claim Registration"
+      },
+      {
+        "type": "added",
+        "text": "Aadhaar Enrolment Centres"
+      },
+      {
+        "type": "added",
+        "text": "Door Step Banking Services"
+      },
+      {
+        "type": "added",
+        "text": "Lock / Unlock of Internet Banking"
+      },
+      {
+        "type": "added",
+        "text": "Debit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "KVB Credit Card Hotlisting (Retail/Corporate)"
+      },
+      {
+        "type": "added",
+        "text": "KVB SBI Co branded Credit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "Download Forms"
+      },
+      {
+        "type": "added",
+        "text": "Download Apps"
+      },
+      {
+        "type": "added",
+        "text": "Inoperative and Unclaimed Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Holiday List"
+      },
+      {
+        "type": "added",
+        "text": "Update / Verify Aadhaar"
+      },
+      {
+        "type": "added",
+        "text": "Customer Support"
+      },
+      {
+        "type": "added",
+        "text": "Forex Services"
+      },
+      {
+        "type": "context",
+        "text": "Others"
+      },
+      {
+        "type": "removed",
+        "text": "Blogs Auditor Appointment Policy Properties Under Auction KVB GSTIN Details Service Charges & Fees Interest Rates & Charges Quick Glance Disclaimer FAQs Terms and Conditions Ways to Bank Recovery Service Providers Resolution Service Providers Customer Advisory Contact Us Calculators New Privacy Policy"
+      },
+      {
+        "type": "added",
+        "text": "Blogs"
+      },
+      {
+        "type": "added",
+        "text": "Auditor Appointment Policy"
+      },
+      {
+        "type": "added",
+        "text": "Properties Under Auction"
+      },
+      {
+        "type": "added",
+        "text": "KVB GSTIN Details"
+      },
+      {
+        "type": "added",
+        "text": "Service Charges & Fees"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates & Charges Quick Glance"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer"
+      },
+      {
+        "type": "added",
+        "text": "FAQs"
+      },
+      {
+        "type": "added",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Ways to Bank"
+      },
+      {
+        "type": "added",
+        "text": "Recovery Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Resolution Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Customer Advisory"
+      },
+      {
+        "type": "added",
+        "text": "Contact Us"
+      },
+      {
+        "type": "added",
+        "text": "Calculators New"
+      },
+      {
+        "type": "added",
+        "text": "Privacy Policy"
+      },
+      {
+        "type": "context",
+        "text": "Secure Banking"
+      },
+      {
+        "type": "removed",
+        "text": "RBI Kehta Hai Secure Banking Tips Cyber Security Awareness"
+      },
+      {
+        "type": "added",
+        "text": "RBI Kehta Hai"
+      },
+      {
+        "type": "added",
+        "text": "Secure Banking Tips"
+      },
+      {
+        "type": "added",
+        "text": "Cyber Security Awareness"
+      },
+      {
+        "type": "context",
+        "text": "THE KARUR VYSYA BANK LIMITED, Registered & Central Office, No. 20, Erode Road, Vadivel Nagar, L.N.S., Karur - 639002."
+      },
+      {
+        "type": "context",
+        "text": "Phone : 04324 - 269000 CIN : L65110TN1916PLC001295"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-karur-vysya-sbi-gold-card",
+    "cardName": "Karur Vysya SBI Gold Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/co-branded-kvb-sbi-credit/kvb-gold-card/",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:37:21.013Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "On clicking the below accept button, you will be directed to the webpage with which you will be able to repay for a loan account. Please note that while you are entering the payment page, you will be leaving the KARUR VYSYA BANK LTD website and enter IndiaIdeas [BillDesk] Website. Please note that our policies, terms and conditions, disclaimers will cease once you leave our website. Since the BillDesk Ltd webpage is governed by its respective policies, you will be agreeing to the terms & conditions as also any disclaimers/Terms of use Privacy Policy prescribed by IndiaIdeas [BillDesk]Ltd from time to time for availing its services. KARUR VYSYA BANK LTD will not be responsible in any manner whatsoever for confidentiality of the data shared by you and for any loss, damage, costs & charges direct or indirect incurred by you, arising out of or in connection with your access to the IndiaIdeas [BillDesk] website or for any deficiency in the services of IndiaIdeas [BillDesk] or for the failure or disruption of the services."
+      },
+      {
+        "type": "context",
+        "text": "Do not Agree Agree"
+      },
+      {
+        "type": "removed",
+        "text": "About Us Investor Corner CSR Sustainability Careers Locate Us (Branch / ATM) Interest Rates Demo Videos"
+      },
+      {
+        "type": "added",
+        "text": "About Us"
+      },
+      {
+        "type": "added",
+        "text": "Investor Corner"
+      },
+      {
+        "type": "added",
+        "text": "CSR"
+      },
+      {
+        "type": "added",
+        "text": "Sustainability"
+      },
+      {
+        "type": "added",
+        "text": "Careers"
+      },
+      {
+        "type": "added",
+        "text": "Locate Us (Branch / ATM)"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates"
+      },
+      {
+        "type": "added",
+        "text": "Demo Videos"
+      },
+      {
+        "type": "context",
+        "text": "Helpline (Domestic)"
+      },
+      {
+        "type": "context",
+        "text": "1860 258 1916 (Local charges Applicable)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1800 572 1916 (Toll Free)"
+      },
+      {
+        "type": "context",
+        "text": "Utility Links"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Repayment KVB Gift Card Portal TNEB Payment Gateway Online Money Transfer from US Online Money Transfer from Non - US Countries Temple Donation"
+      },
+      {
+        "type": "added",
+        "text": "Loan Repayment"
+      },
+      {
+        "type": "added",
+        "text": "KVB Gift Card Portal"
+      },
+      {
+        "type": "added",
+        "text": "TNEB Payment Gateway"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from US"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from Non - US Countries"
+      },
+      {
+        "type": "added",
+        "text": "Temple Donation"
+      },
+      {
+        "type": "context",
+        "text": "Regulatory"
+      },
+      {
+        "type": "removed",
+        "text": "Policy on Co-Lending to Priority Sector UDGAM Portal Information on secured assets possessed under SARFAESI Act, 2002 Fair Practices, Policies and Banking Codes Credit Card - Grievance Redressal procedure & Board approved Policy To Register Complaint with SEBI Regulatory Disclosures for MSME Green Deposit Policy and Financing Framework Third-Party Verification / Assurance and Impact Assessment Report Financial Performance Corporate Presentation Basel III Disclosures Customer Education Literature on NPA and SMA Classification RBI Sachet Portal MSME Settlement Scheme Handbook on Sanction of Export Credit Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025 Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "added",
+        "text": "Policy on Co-Lending to Priority Sector"
+      },
+      {
+        "type": "added",
+        "text": "UDGAM Portal"
+      },
+      {
+        "type": "added",
+        "text": "Information on secured assets possessed under SARFAESI Act, 2002"
+      },
+      {
+        "type": "added",
+        "text": "Fair Practices, Policies and Banking Codes"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card - Grievance Redressal procedure & Board approved Policy"
+      },
+      {
+        "type": "added",
+        "text": "To Register Complaint with SEBI"
+      },
+      {
+        "type": "added",
+        "text": "Regulatory Disclosures for MSME"
+      },
+      {
+        "type": "added",
+        "text": "Green Deposit Policy and Financing Framework"
+      },
+      {
+        "type": "added",
+        "text": "Third-Party Verification / Assurance and Impact Assessment Report"
+      },
+      {
+        "type": "added",
+        "text": "Financial Performance"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Presentation"
+      },
+      {
+        "type": "added",
+        "text": "Basel III Disclosures"
+      },
+      {
+        "type": "added",
+        "text": "Customer Education Literature on NPA and SMA Classification"
+      },
+      {
+        "type": "added",
+        "text": "RBI Sachet Portal"
+      },
+      {
+        "type": "added",
+        "text": "MSME Settlement Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Handbook on Sanction of Export Credit"
+      },
+      {
+        "type": "added",
+        "text": "Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025"
+      },
+      {
+        "type": "added",
+        "text": "Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "context",
+        "text": "Customer Service / Support"
+      },
+      {
+        "type": "removed",
+        "text": "Feedback / Lodge a Complaint Unclaimed Deposit Portal Digital Channels Claim Registration Aadhaar Enrolment Centres Door Step Banking Services Lock / Unlock of Internet Banking Debit Card Hotlisting KVB Credit Card Hotlisting (Retail/Corporate) KVB SBI Co branded Credit Card Hotlisting Download Forms Download Apps Inoperative and Unclaimed Deposits Holiday List Update / Verify Aadhaar Customer Support Forex Services"
+      },
+      {
+        "type": "added",
+        "text": "Feedback / Lodge a Complaint"
+      },
+      {
+        "type": "added",
+        "text": "Unclaimed Deposit Portal"
+      },
+      {
+        "type": "added",
+        "text": "Digital Channels Claim Registration"
+      },
+      {
+        "type": "added",
+        "text": "Aadhaar Enrolment Centres"
+      },
+      {
+        "type": "added",
+        "text": "Door Step Banking Services"
+      },
+      {
+        "type": "added",
+        "text": "Lock / Unlock of Internet Banking"
+      },
+      {
+        "type": "added",
+        "text": "Debit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "KVB Credit Card Hotlisting (Retail/Corporate)"
+      },
+      {
+        "type": "added",
+        "text": "KVB SBI Co branded Credit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "Download Forms"
+      },
+      {
+        "type": "added",
+        "text": "Download Apps"
+      },
+      {
+        "type": "added",
+        "text": "Inoperative and Unclaimed Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Holiday List"
+      },
+      {
+        "type": "added",
+        "text": "Update / Verify Aadhaar"
+      },
+      {
+        "type": "added",
+        "text": "Customer Support"
+      },
+      {
+        "type": "added",
+        "text": "Forex Services"
+      },
+      {
+        "type": "context",
+        "text": "Others"
+      },
+      {
+        "type": "removed",
+        "text": "Blogs Auditor Appointment Policy Properties Under Auction KVB GSTIN Details Service Charges & Fees Interest Rates & Charges Quick Glance Disclaimer FAQs Terms and Conditions Ways to Bank Recovery Service Providers Resolution Service Providers Customer Advisory Contact Us Calculators New Privacy Policy"
+      },
+      {
+        "type": "added",
+        "text": "Blogs"
+      },
+      {
+        "type": "added",
+        "text": "Auditor Appointment Policy"
+      },
+      {
+        "type": "added",
+        "text": "Properties Under Auction"
+      },
+      {
+        "type": "added",
+        "text": "KVB GSTIN Details"
+      },
+      {
+        "type": "added",
+        "text": "Service Charges & Fees"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates & Charges Quick Glance"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer"
+      },
+      {
+        "type": "added",
+        "text": "FAQs"
+      },
+      {
+        "type": "added",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Ways to Bank"
+      },
+      {
+        "type": "added",
+        "text": "Recovery Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Resolution Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Customer Advisory"
+      },
+      {
+        "type": "added",
+        "text": "Contact Us"
+      },
+      {
+        "type": "added",
+        "text": "Calculators New"
+      },
+      {
+        "type": "added",
+        "text": "Privacy Policy"
+      },
+      {
+        "type": "context",
+        "text": "Secure Banking"
+      },
+      {
+        "type": "removed",
+        "text": "RBI Kehta Hai Secure Banking Tips Cyber Security Awareness"
+      },
+      {
+        "type": "added",
+        "text": "RBI Kehta Hai"
+      },
+      {
+        "type": "added",
+        "text": "Secure Banking Tips"
+      },
+      {
+        "type": "added",
+        "text": "Cyber Security Awareness"
+      },
+      {
+        "type": "context",
+        "text": "THE KARUR VYSYA BANK LIMITED, Registered & Central Office, No. 20, Erode Road, Vadivel Nagar, L.N.S., Karur - 639002."
+      },
+      {
+        "type": "context",
+        "text": "Phone : 04324 - 269000 CIN : L65110TN1916PLC001295"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-corporate-credit-card",
+    "cardName": "KVB Corporate Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-corporate-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:37:20.345Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "On clicking the below accept button, you will be directed to the webpage with which you will be able to repay for a loan account. Please note that while you are entering the payment page, you will be leaving the KARUR VYSYA BANK LTD website and enter IndiaIdeas [BillDesk] Website. Please note that our policies, terms and conditions, disclaimers will cease once you leave our website. Since the BillDesk Ltd webpage is governed by its respective policies, you will be agreeing to the terms & conditions as also any disclaimers/Terms of use Privacy Policy prescribed by IndiaIdeas [BillDesk]Ltd from time to time for availing its services. KARUR VYSYA BANK LTD will not be responsible in any manner whatsoever for confidentiality of the data shared by you and for any loss, damage, costs & charges direct or indirect incurred by you, arising out of or in connection with your access to the IndiaIdeas [BillDesk] website or for any deficiency in the services of IndiaIdeas [BillDesk] or for the failure or disruption of the services."
+      },
+      {
+        "type": "context",
+        "text": "Do not Agree Agree"
+      },
+      {
+        "type": "removed",
+        "text": "About Us Investor Corner CSR Sustainability Careers Locate Us (Branch / ATM) Interest Rates Demo Videos"
+      },
+      {
+        "type": "added",
+        "text": "About Us"
+      },
+      {
+        "type": "added",
+        "text": "Investor Corner"
+      },
+      {
+        "type": "added",
+        "text": "CSR"
+      },
+      {
+        "type": "added",
+        "text": "Sustainability"
+      },
+      {
+        "type": "added",
+        "text": "Careers"
+      },
+      {
+        "type": "added",
+        "text": "Locate Us (Branch / ATM)"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates"
+      },
+      {
+        "type": "added",
+        "text": "Demo Videos"
+      },
+      {
+        "type": "context",
+        "text": "Helpline (Domestic)"
+      },
+      {
+        "type": "context",
+        "text": "1860 258 1916 (Local charges Applicable)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1800 572 1916 (Toll Free)"
+      },
+      {
+        "type": "context",
+        "text": "Utility Links"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Repayment KVB Gift Card Portal TNEB Payment Gateway Online Money Transfer from US Online Money Transfer from Non - US Countries Temple Donation"
+      },
+      {
+        "type": "added",
+        "text": "Loan Repayment"
+      },
+      {
+        "type": "added",
+        "text": "KVB Gift Card Portal"
+      },
+      {
+        "type": "added",
+        "text": "TNEB Payment Gateway"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from US"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from Non - US Countries"
+      },
+      {
+        "type": "added",
+        "text": "Temple Donation"
+      },
+      {
+        "type": "context",
+        "text": "Regulatory"
+      },
+      {
+        "type": "removed",
+        "text": "Policy on Co-Lending to Priority Sector UDGAM Portal Information on secured assets possessed under SARFAESI Act, 2002 Fair Practices, Policies and Banking Codes Credit Card - Grievance Redressal procedure & Board approved Policy To Register Complaint with SEBI Regulatory Disclosures for MSME Green Deposit Policy and Financing Framework Third-Party Verification / Assurance and Impact Assessment Report Financial Performance Corporate Presentation Basel III Disclosures Customer Education Literature on NPA and SMA Classification RBI Sachet Portal MSME Settlement Scheme Handbook on Sanction of Export Credit Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025 Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "added",
+        "text": "Policy on Co-Lending to Priority Sector"
+      },
+      {
+        "type": "added",
+        "text": "UDGAM Portal"
+      },
+      {
+        "type": "added",
+        "text": "Information on secured assets possessed under SARFAESI Act, 2002"
+      },
+      {
+        "type": "added",
+        "text": "Fair Practices, Policies and Banking Codes"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card - Grievance Redressal procedure & Board approved Policy"
+      },
+      {
+        "type": "added",
+        "text": "To Register Complaint with SEBI"
+      },
+      {
+        "type": "added",
+        "text": "Regulatory Disclosures for MSME"
+      },
+      {
+        "type": "added",
+        "text": "Green Deposit Policy and Financing Framework"
+      },
+      {
+        "type": "added",
+        "text": "Third-Party Verification / Assurance and Impact Assessment Report"
+      },
+      {
+        "type": "added",
+        "text": "Financial Performance"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Presentation"
+      },
+      {
+        "type": "added",
+        "text": "Basel III Disclosures"
+      },
+      {
+        "type": "added",
+        "text": "Customer Education Literature on NPA and SMA Classification"
+      },
+      {
+        "type": "added",
+        "text": "RBI Sachet Portal"
+      },
+      {
+        "type": "added",
+        "text": "MSME Settlement Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Handbook on Sanction of Export Credit"
+      },
+      {
+        "type": "added",
+        "text": "Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025"
+      },
+      {
+        "type": "added",
+        "text": "Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "context",
+        "text": "Customer Service / Support"
+      },
+      {
+        "type": "removed",
+        "text": "Feedback / Lodge a Complaint Unclaimed Deposit Portal Digital Channels Claim Registration Aadhaar Enrolment Centres Door Step Banking Services Lock / Unlock of Internet Banking Debit Card Hotlisting KVB Credit Card Hotlisting (Retail/Corporate) KVB SBI Co branded Credit Card Hotlisting Download Forms Download Apps Inoperative and Unclaimed Deposits Holiday List Update / Verify Aadhaar Customer Support Forex Services"
+      },
+      {
+        "type": "added",
+        "text": "Feedback / Lodge a Complaint"
+      },
+      {
+        "type": "added",
+        "text": "Unclaimed Deposit Portal"
+      },
+      {
+        "type": "added",
+        "text": "Digital Channels Claim Registration"
+      },
+      {
+        "type": "added",
+        "text": "Aadhaar Enrolment Centres"
+      },
+      {
+        "type": "added",
+        "text": "Door Step Banking Services"
+      },
+      {
+        "type": "added",
+        "text": "Lock / Unlock of Internet Banking"
+      },
+      {
+        "type": "added",
+        "text": "Debit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "KVB Credit Card Hotlisting (Retail/Corporate)"
+      },
+      {
+        "type": "added",
+        "text": "KVB SBI Co branded Credit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "Download Forms"
+      },
+      {
+        "type": "added",
+        "text": "Download Apps"
+      },
+      {
+        "type": "added",
+        "text": "Inoperative and Unclaimed Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Holiday List"
+      },
+      {
+        "type": "added",
+        "text": "Update / Verify Aadhaar"
+      },
+      {
+        "type": "added",
+        "text": "Customer Support"
+      },
+      {
+        "type": "added",
+        "text": "Forex Services"
+      },
+      {
+        "type": "context",
+        "text": "Others"
+      },
+      {
+        "type": "removed",
+        "text": "Blogs Auditor Appointment Policy Properties Under Auction KVB GSTIN Details Service Charges & Fees Interest Rates & Charges Quick Glance Disclaimer FAQs Terms and Conditions Ways to Bank Recovery Service Providers Resolution Service Providers Customer Advisory Contact Us Calculators New Privacy Policy"
+      },
+      {
+        "type": "added",
+        "text": "Blogs"
+      },
+      {
+        "type": "added",
+        "text": "Auditor Appointment Policy"
+      },
+      {
+        "type": "added",
+        "text": "Properties Under Auction"
+      },
+      {
+        "type": "added",
+        "text": "KVB GSTIN Details"
+      },
+      {
+        "type": "added",
+        "text": "Service Charges & Fees"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates & Charges Quick Glance"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer"
+      },
+      {
+        "type": "added",
+        "text": "FAQs"
+      },
+      {
+        "type": "added",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Ways to Bank"
+      },
+      {
+        "type": "added",
+        "text": "Recovery Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Resolution Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Customer Advisory"
+      },
+      {
+        "type": "added",
+        "text": "Contact Us"
+      },
+      {
+        "type": "added",
+        "text": "Calculators New"
+      },
+      {
+        "type": "added",
+        "text": "Privacy Policy"
+      },
+      {
+        "type": "context",
+        "text": "Secure Banking"
+      },
+      {
+        "type": "removed",
+        "text": "RBI Kehta Hai Secure Banking Tips Cyber Security Awareness"
+      },
+      {
+        "type": "added",
+        "text": "RBI Kehta Hai"
+      },
+      {
+        "type": "added",
+        "text": "Secure Banking Tips"
+      },
+      {
+        "type": "added",
+        "text": "Cyber Security Awareness"
+      },
+      {
+        "type": "context",
+        "text": "THE KARUR VYSYA BANK LIMITED, Registered & Central Office, No. 20, Erode Road, Vadivel Nagar, L.N.S., Karur - 639002."
+      },
+      {
+        "type": "context",
+        "text": "Phone : 04324 - 269000 CIN : L65110TN1916PLC001295"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-honour-credit-card",
+    "cardName": "KVB Honour Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-honour-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:37:19.678Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "On clicking the below accept button, you will be directed to the webpage with which you will be able to repay for a loan account. Please note that while you are entering the payment page, you will be leaving the KARUR VYSYA BANK LTD website and enter IndiaIdeas [BillDesk] Website. Please note that our policies, terms and conditions, disclaimers will cease once you leave our website. Since the BillDesk Ltd webpage is governed by its respective policies, you will be agreeing to the terms & conditions as also any disclaimers/Terms of use Privacy Policy prescribed by IndiaIdeas [BillDesk]Ltd from time to time for availing its services. KARUR VYSYA BANK LTD will not be responsible in any manner whatsoever for confidentiality of the data shared by you and for any loss, damage, costs & charges direct or indirect incurred by you, arising out of or in connection with your access to the IndiaIdeas [BillDesk] website or for any deficiency in the services of IndiaIdeas [BillDesk] or for the failure or disruption of the services."
+      },
+      {
+        "type": "context",
+        "text": "Do not Agree Agree"
+      },
+      {
+        "type": "removed",
+        "text": "About Us Investor Corner CSR Sustainability Careers Locate Us (Branch / ATM) Interest Rates Demo Videos"
+      },
+      {
+        "type": "added",
+        "text": "About Us"
+      },
+      {
+        "type": "added",
+        "text": "Investor Corner"
+      },
+      {
+        "type": "added",
+        "text": "CSR"
+      },
+      {
+        "type": "added",
+        "text": "Sustainability"
+      },
+      {
+        "type": "added",
+        "text": "Careers"
+      },
+      {
+        "type": "added",
+        "text": "Locate Us (Branch / ATM)"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates"
+      },
+      {
+        "type": "added",
+        "text": "Demo Videos"
+      },
+      {
+        "type": "context",
+        "text": "Helpline (Domestic)"
+      },
+      {
+        "type": "context",
+        "text": "1860 258 1916 (Local charges Applicable)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1800 572 1916 (Toll Free)"
+      },
+      {
+        "type": "context",
+        "text": "Utility Links"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Repayment KVB Gift Card Portal TNEB Payment Gateway Online Money Transfer from US Online Money Transfer from Non - US Countries Temple Donation"
+      },
+      {
+        "type": "added",
+        "text": "Loan Repayment"
+      },
+      {
+        "type": "added",
+        "text": "KVB Gift Card Portal"
+      },
+      {
+        "type": "added",
+        "text": "TNEB Payment Gateway"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from US"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from Non - US Countries"
+      },
+      {
+        "type": "added",
+        "text": "Temple Donation"
+      },
+      {
+        "type": "context",
+        "text": "Regulatory"
+      },
+      {
+        "type": "removed",
+        "text": "Policy on Co-Lending to Priority Sector UDGAM Portal Information on secured assets possessed under SARFAESI Act, 2002 Fair Practices, Policies and Banking Codes Credit Card - Grievance Redressal procedure & Board approved Policy To Register Complaint with SEBI Regulatory Disclosures for MSME Green Deposit Policy and Financing Framework Third-Party Verification / Assurance and Impact Assessment Report Financial Performance Corporate Presentation Basel III Disclosures Customer Education Literature on NPA and SMA Classification RBI Sachet Portal MSME Settlement Scheme Handbook on Sanction of Export Credit Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025 Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "added",
+        "text": "Policy on Co-Lending to Priority Sector"
+      },
+      {
+        "type": "added",
+        "text": "UDGAM Portal"
+      },
+      {
+        "type": "added",
+        "text": "Information on secured assets possessed under SARFAESI Act, 2002"
+      },
+      {
+        "type": "added",
+        "text": "Fair Practices, Policies and Banking Codes"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card - Grievance Redressal procedure & Board approved Policy"
+      },
+      {
+        "type": "added",
+        "text": "To Register Complaint with SEBI"
+      },
+      {
+        "type": "added",
+        "text": "Regulatory Disclosures for MSME"
+      },
+      {
+        "type": "added",
+        "text": "Green Deposit Policy and Financing Framework"
+      },
+      {
+        "type": "added",
+        "text": "Third-Party Verification / Assurance and Impact Assessment Report"
+      },
+      {
+        "type": "added",
+        "text": "Financial Performance"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Presentation"
+      },
+      {
+        "type": "added",
+        "text": "Basel III Disclosures"
+      },
+      {
+        "type": "added",
+        "text": "Customer Education Literature on NPA and SMA Classification"
+      },
+      {
+        "type": "added",
+        "text": "RBI Sachet Portal"
+      },
+      {
+        "type": "added",
+        "text": "MSME Settlement Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Handbook on Sanction of Export Credit"
+      },
+      {
+        "type": "added",
+        "text": "Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025"
+      },
+      {
+        "type": "added",
+        "text": "Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "context",
+        "text": "Customer Service / Support"
+      },
+      {
+        "type": "removed",
+        "text": "Feedback / Lodge a Complaint Unclaimed Deposit Portal Digital Channels Claim Registration Aadhaar Enrolment Centres Door Step Banking Services Lock / Unlock of Internet Banking Debit Card Hotlisting KVB Credit Card Hotlisting (Retail/Corporate) KVB SBI Co branded Credit Card Hotlisting Download Forms Download Apps Inoperative and Unclaimed Deposits Holiday List Update / Verify Aadhaar Customer Support Forex Services"
+      },
+      {
+        "type": "added",
+        "text": "Feedback / Lodge a Complaint"
+      },
+      {
+        "type": "added",
+        "text": "Unclaimed Deposit Portal"
+      },
+      {
+        "type": "added",
+        "text": "Digital Channels Claim Registration"
+      },
+      {
+        "type": "added",
+        "text": "Aadhaar Enrolment Centres"
+      },
+      {
+        "type": "added",
+        "text": "Door Step Banking Services"
+      },
+      {
+        "type": "added",
+        "text": "Lock / Unlock of Internet Banking"
+      },
+      {
+        "type": "added",
+        "text": "Debit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "KVB Credit Card Hotlisting (Retail/Corporate)"
+      },
+      {
+        "type": "added",
+        "text": "KVB SBI Co branded Credit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "Download Forms"
+      },
+      {
+        "type": "added",
+        "text": "Download Apps"
+      },
+      {
+        "type": "added",
+        "text": "Inoperative and Unclaimed Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Holiday List"
+      },
+      {
+        "type": "added",
+        "text": "Update / Verify Aadhaar"
+      },
+      {
+        "type": "added",
+        "text": "Customer Support"
+      },
+      {
+        "type": "added",
+        "text": "Forex Services"
+      },
+      {
+        "type": "context",
+        "text": "Others"
+      },
+      {
+        "type": "removed",
+        "text": "Blogs Auditor Appointment Policy Properties Under Auction KVB GSTIN Details Service Charges & Fees Interest Rates & Charges Quick Glance Disclaimer FAQs Terms and Conditions Ways to Bank Recovery Service Providers Resolution Service Providers Customer Advisory Contact Us Calculators New Privacy Policy"
+      },
+      {
+        "type": "added",
+        "text": "Blogs"
+      },
+      {
+        "type": "added",
+        "text": "Auditor Appointment Policy"
+      },
+      {
+        "type": "added",
+        "text": "Properties Under Auction"
+      },
+      {
+        "type": "added",
+        "text": "KVB GSTIN Details"
+      },
+      {
+        "type": "added",
+        "text": "Service Charges & Fees"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates & Charges Quick Glance"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer"
+      },
+      {
+        "type": "added",
+        "text": "FAQs"
+      },
+      {
+        "type": "added",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Ways to Bank"
+      },
+      {
+        "type": "added",
+        "text": "Recovery Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Resolution Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Customer Advisory"
+      },
+      {
+        "type": "added",
+        "text": "Contact Us"
+      },
+      {
+        "type": "added",
+        "text": "Calculators New"
+      },
+      {
+        "type": "added",
+        "text": "Privacy Policy"
+      },
+      {
+        "type": "context",
+        "text": "Secure Banking"
+      },
+      {
+        "type": "removed",
+        "text": "RBI Kehta Hai Secure Banking Tips Cyber Security Awareness"
+      },
+      {
+        "type": "added",
+        "text": "RBI Kehta Hai"
+      },
+      {
+        "type": "added",
+        "text": "Secure Banking Tips"
+      },
+      {
+        "type": "added",
+        "text": "Cyber Security Awareness"
+      },
+      {
+        "type": "context",
+        "text": "THE KARUR VYSYA BANK LIMITED, Registered & Central Office, No. 20, Erode Road, Vadivel Nagar, L.N.S., Karur - 639002."
+      },
+      {
+        "type": "context",
+        "text": "Phone : 04324 - 269000 CIN : L65110TN1916PLC001295"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-platinum-credit-card",
+    "cardName": "KVB Platinum Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-platinum-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:37:18.874Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "On clicking the below accept button, you will be directed to the webpage with which you will be able to repay for a loan account. Please note that while you are entering the payment page, you will be leaving the KARUR VYSYA BANK LTD website and enter IndiaIdeas [BillDesk] Website. Please note that our policies, terms and conditions, disclaimers will cease once you leave our website. Since the BillDesk Ltd webpage is governed by its respective policies, you will be agreeing to the terms & conditions as also any disclaimers/Terms of use Privacy Policy prescribed by IndiaIdeas [BillDesk]Ltd from time to time for availing its services. KARUR VYSYA BANK LTD will not be responsible in any manner whatsoever for confidentiality of the data shared by you and for any loss, damage, costs & charges direct or indirect incurred by you, arising out of or in connection with your access to the IndiaIdeas [BillDesk] website or for any deficiency in the services of IndiaIdeas [BillDesk] or for the failure or disruption of the services."
+      },
+      {
+        "type": "context",
+        "text": "Do not Agree Agree"
+      },
+      {
+        "type": "removed",
+        "text": "About Us Investor Corner CSR Sustainability Careers Locate Us (Branch / ATM) Interest Rates Demo Videos"
+      },
+      {
+        "type": "added",
+        "text": "About Us"
+      },
+      {
+        "type": "added",
+        "text": "Investor Corner"
+      },
+      {
+        "type": "added",
+        "text": "CSR"
+      },
+      {
+        "type": "added",
+        "text": "Sustainability"
+      },
+      {
+        "type": "added",
+        "text": "Careers"
+      },
+      {
+        "type": "added",
+        "text": "Locate Us (Branch / ATM)"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates"
+      },
+      {
+        "type": "added",
+        "text": "Demo Videos"
+      },
+      {
+        "type": "context",
+        "text": "Helpline (Domestic)"
+      },
+      {
+        "type": "context",
+        "text": "1860 258 1916 (Local charges Applicable)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1800 572 1916 (Toll Free)"
+      },
+      {
+        "type": "context",
+        "text": "Utility Links"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Repayment KVB Gift Card Portal TNEB Payment Gateway Online Money Transfer from US Online Money Transfer from Non - US Countries Temple Donation"
+      },
+      {
+        "type": "added",
+        "text": "Loan Repayment"
+      },
+      {
+        "type": "added",
+        "text": "KVB Gift Card Portal"
+      },
+      {
+        "type": "added",
+        "text": "TNEB Payment Gateway"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from US"
+      },
+      {
+        "type": "added",
+        "text": "Online Money Transfer from Non - US Countries"
+      },
+      {
+        "type": "added",
+        "text": "Temple Donation"
+      },
+      {
+        "type": "context",
+        "text": "Regulatory"
+      },
+      {
+        "type": "removed",
+        "text": "Policy on Co-Lending to Priority Sector UDGAM Portal Information on secured assets possessed under SARFAESI Act, 2002 Fair Practices, Policies and Banking Codes Credit Card - Grievance Redressal procedure & Board approved Policy To Register Complaint with SEBI Regulatory Disclosures for MSME Green Deposit Policy and Financing Framework Third-Party Verification / Assurance and Impact Assessment Report Financial Performance Corporate Presentation Basel III Disclosures Customer Education Literature on NPA and SMA Classification RBI Sachet Portal MSME Settlement Scheme Handbook on Sanction of Export Credit Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025 Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "added",
+        "text": "Policy on Co-Lending to Priority Sector"
+      },
+      {
+        "type": "added",
+        "text": "UDGAM Portal"
+      },
+      {
+        "type": "added",
+        "text": "Information on secured assets possessed under SARFAESI Act, 2002"
+      },
+      {
+        "type": "added",
+        "text": "Fair Practices, Policies and Banking Codes"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card - Grievance Redressal procedure & Board approved Policy"
+      },
+      {
+        "type": "added",
+        "text": "To Register Complaint with SEBI"
+      },
+      {
+        "type": "added",
+        "text": "Regulatory Disclosures for MSME"
+      },
+      {
+        "type": "added",
+        "text": "Green Deposit Policy and Financing Framework"
+      },
+      {
+        "type": "added",
+        "text": "Third-Party Verification / Assurance and Impact Assessment Report"
+      },
+      {
+        "type": "added",
+        "text": "Financial Performance"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Presentation"
+      },
+      {
+        "type": "added",
+        "text": "Basel III Disclosures"
+      },
+      {
+        "type": "added",
+        "text": "Customer Education Literature on NPA and SMA Classification"
+      },
+      {
+        "type": "added",
+        "text": "RBI Sachet Portal"
+      },
+      {
+        "type": "added",
+        "text": "MSME Settlement Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Handbook on Sanction of Export Credit"
+      },
+      {
+        "type": "added",
+        "text": "Relief to borrowers engaged in exports under RBI Trade Relief Measures Directions 2025"
+      },
+      {
+        "type": "added",
+        "text": "Penal Charges in Loans and Advances"
+      },
+      {
+        "type": "context",
+        "text": "Customer Service / Support"
+      },
+      {
+        "type": "removed",
+        "text": "Feedback / Lodge a Complaint Unclaimed Deposit Portal Digital Channels Claim Registration Aadhaar Enrolment Centres Door Step Banking Services Lock / Unlock of Internet Banking Debit Card Hotlisting KVB Credit Card Hotlisting (Retail/Corporate) KVB SBI Co branded Credit Card Hotlisting Download Forms Download Apps Inoperative and Unclaimed Deposits Holiday List Update / Verify Aadhaar Customer Support Forex Services"
+      },
+      {
+        "type": "added",
+        "text": "Feedback / Lodge a Complaint"
+      },
+      {
+        "type": "added",
+        "text": "Unclaimed Deposit Portal"
+      },
+      {
+        "type": "added",
+        "text": "Digital Channels Claim Registration"
+      },
+      {
+        "type": "added",
+        "text": "Aadhaar Enrolment Centres"
+      },
+      {
+        "type": "added",
+        "text": "Door Step Banking Services"
+      },
+      {
+        "type": "added",
+        "text": "Lock / Unlock of Internet Banking"
+      },
+      {
+        "type": "added",
+        "text": "Debit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "KVB Credit Card Hotlisting (Retail/Corporate)"
+      },
+      {
+        "type": "added",
+        "text": "KVB SBI Co branded Credit Card Hotlisting"
+      },
+      {
+        "type": "added",
+        "text": "Download Forms"
+      },
+      {
+        "type": "added",
+        "text": "Download Apps"
+      },
+      {
+        "type": "added",
+        "text": "Inoperative and Unclaimed Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Holiday List"
+      },
+      {
+        "type": "added",
+        "text": "Update / Verify Aadhaar"
+      },
+      {
+        "type": "added",
+        "text": "Customer Support"
+      },
+      {
+        "type": "added",
+        "text": "Forex Services"
+      },
+      {
+        "type": "context",
+        "text": "Others"
+      },
+      {
+        "type": "removed",
+        "text": "Blogs Auditor Appointment Policy Properties Under Auction KVB GSTIN Details Service Charges & Fees Interest Rates & Charges Quick Glance Disclaimer FAQs Terms and Conditions Ways to Bank Recovery Service Providers Resolution Service Providers Customer Advisory Contact Us Calculators New Privacy Policy"
+      },
+      {
+        "type": "added",
+        "text": "Blogs"
+      },
+      {
+        "type": "added",
+        "text": "Auditor Appointment Policy"
+      },
+      {
+        "type": "added",
+        "text": "Properties Under Auction"
+      },
+      {
+        "type": "added",
+        "text": "KVB GSTIN Details"
+      },
+      {
+        "type": "added",
+        "text": "Service Charges & Fees"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rates & Charges Quick Glance"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer"
+      },
+      {
+        "type": "added",
+        "text": "FAQs"
+      },
+      {
+        "type": "added",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Ways to Bank"
+      },
+      {
+        "type": "added",
+        "text": "Recovery Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Resolution Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Customer Advisory"
+      },
+      {
+        "type": "added",
+        "text": "Contact Us"
+      },
+      {
+        "type": "added",
+        "text": "Calculators New"
+      },
+      {
+        "type": "added",
+        "text": "Privacy Policy"
+      },
+      {
+        "type": "context",
+        "text": "Secure Banking"
+      },
+      {
+        "type": "removed",
+        "text": "RBI Kehta Hai Secure Banking Tips Cyber Security Awareness"
+      },
+      {
+        "type": "added",
+        "text": "RBI Kehta Hai"
+      },
+      {
+        "type": "added",
+        "text": "Secure Banking Tips"
+      },
+      {
+        "type": "added",
+        "text": "Cyber Security Awareness"
+      },
+      {
+        "type": "context",
+        "text": "THE KARUR VYSYA BANK LIMITED, Registered & Central Office, No. 20, Erode Road, Vadivel Nagar, L.N.S., Karur - 639002."
+      },
+      {
+        "type": "context",
+        "text": "Phone : 04324 - 269000 CIN : L65110TN1916PLC001295"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-platinum-credit-card",
+    "cardName": "MakeMyTrip Platinum Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:36:10.967Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Know more"
+      },
+      {
+        "type": "context",
+        "text": "SAVE"
+      },
+      {
+        "type": "removed",
+        "text": "5,010 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "4,981 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Attractive MakeMyTrip Benefits"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-signature-credit-card",
+    "cardName": "MakeMyTrip Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:36:10.438Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "4,140 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "4,239 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-amazon-pay-credit-card",
+    "cardName": "Amazon Pay Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:36:07.197Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "71,010 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "72,931 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-signature-credit-card",
+    "cardName": "Adani One Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:36:02.980Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "11,516 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "11,168 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-coral-credit-card",
+    "cardName": "Coral Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/coral-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:36:01.967Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "58,347 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "removed",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Coral Credit Card in a calendar quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "removed",
+        "text": "Please note that the airport lounge access on Credit Card benefit is available only for primary Cardholders. For more details on the criteria, click here. To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "added",
+        "text": "58,279 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Coral Credit Card in a Spends quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "added",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-private-metal-credit-card",
+    "cardName": "Emeralde Private Metal Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:35:59.530Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "31,652 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "31,969 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-tmc-card",
+    "cardName": "TMC Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/tmc-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:35:39.190Z",
+    "diffHunks": [
+      {
+        "type": "added",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "added",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-premium-credit-card",
+    "cardName": "Purchase Premium Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:35:37.128Z",
+    "diffHunks": [
+      {
+        "type": "added",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "added",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-corporate-premium-credit-card",
+    "cardName": "Corporate Premium Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/corporate-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:35:28.311Z",
+    "diffHunks": [
+      {
+        "type": "added",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "added",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-sap-concur-prime-corporate-credit-card",
+    "cardName": "SAP Concur Prime Corporate Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/hdfc-bank-sap-concur-prime-corporate-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:35:25.182Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      },
+      {
+        "type": "removed",
+        "text": "MyEMIShop"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-rupay-credit-card",
+    "cardName": "Fed StarBiz RuPay Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:18.007Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "© 2026 The Federal Bank Limited"
+      },
+      {
+        "type": "context",
+        "text": "Site best viewed in Microsoft Edge 109+, Firefox 115+, Chrome 109+, Safari 13.0+ at 1024 x 768 pixels resolution."
+      },
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      },
+      {
+        "type": "context",
+        "text": "Disclaimer: We use cookies to provide a user-friendly experience. By continuing to browse this site, it shall be deemed that you have accorded your consent to us for the use of cookies and accepted the terms of our cookie policy. To view our cookie policy, click here."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-wave-credit-card",
+    "cardName": "Rupay Wave Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:16.886Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "© 2026 The Federal Bank Limited"
+      },
+      {
+        "type": "context",
+        "text": "Site best viewed in Microsoft Edge 109+, Firefox 115+, Chrome 109+, Safari 13.0+ at 1024 x 768 pixels resolution."
+      },
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      },
+      {
+        "type": "context",
+        "text": "Disclaimer: We use cookies to provide a user-friendly experience. By continuing to browse this site, it shall be deemed that you have accorded your consent to us for the use of cookies and accepted the terms of our cookie policy. To view our cookie policy, click here."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-signet-credit-card",
+    "cardName": "Rupay Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:14.850Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-signet-credit-card",
+    "cardName": "Mastercard Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:13.788Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "© 2026 The Federal Bank Limited"
+      },
+      {
+        "type": "context",
+        "text": "Site best viewed in Microsoft Edge 109+, Firefox 115+, Chrome 109+, Safari 13.0+ at 1024 x 768 pixels resolution."
+      },
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      },
+      {
+        "type": "context",
+        "text": "Disclaimer: We use cookies to provide a user-friendly experience. By continuing to browse this site, it shall be deemed that you have accorded your consent to us for the use of cookies and accepted the terms of our cookie policy. To view our cookie policy, click here."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-imperio-credit-card",
+    "cardName": "Mastercard Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:12.614Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "© 2026 The Federal Bank Limited"
+      },
+      {
+        "type": "context",
+        "text": "Site best viewed in Microsoft Edge 109+, Firefox 115+, Chrome 109+, Safari 13.0+ at 1024 x 768 pixels resolution."
+      },
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      },
+      {
+        "type": "context",
+        "text": "Disclaimer: We use cookies to provide a user-friendly experience. By continuing to browse this site, it shall be deemed that you have accorded your consent to us for the use of cookies and accepted the terms of our cookie policy. To view our cookie policy, click here."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-celesta-credit-card",
+    "cardName": "Mastercard Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:11.429Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "© 2026 The Federal Bank Limited"
+      },
+      {
+        "type": "context",
+        "text": "Site best viewed in Microsoft Edge 109+, Firefox 115+, Chrome 109+, Safari 13.0+ at 1024 x 768 pixels resolution."
+      },
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      },
+      {
+        "type": "context",
+        "text": "Disclaimer: We use cookies to provide a user-friendly experience. By continuing to browse this site, it shall be deemed that you have accorded your consent to us for the use of cookies and accepted the terms of our cookie policy. To view our cookie policy, click here."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-visa-credit-card",
+    "cardName": "Fed StarBiz Visa Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:09.395Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "© 2026 The Federal Bank Limited"
+      },
+      {
+        "type": "context",
+        "text": "Site best viewed in Microsoft Edge 109+, Firefox 115+, Chrome 109+, Safari 13.0+ at 1024 x 768 pixels resolution."
+      },
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      },
+      {
+        "type": "context",
+        "text": "Disclaimer: We use cookies to provide a user-friendly experience. By continuing to browse this site, it shall be deemed that you have accorded your consent to us for the use of cookies and accepted the terms of our cookie policy. To view our cookie policy, click here."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-signet-credit-card",
+    "cardName": "Visa Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:07.128Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-imperio-credit-card",
+    "cardName": "Visa Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:05.984Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-celesta-credit-card",
+    "cardName": "Visa Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:34:03.948Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Last Updated On : 11 Jul 2026"
+      },
+      {
+        "type": "added",
+        "text": "Last Updated On : 13 Jul 2026"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-purchase-reward-card",
+    "cardName": "Purchase Reward Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/purchase-reward-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:41.009Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-executive-corporate-credit-card",
+    "cardName": "Axis Bank Executive Corporate Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/axis-bank-executive-corporate-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:40.196Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-central-travel-account-card",
+    "cardName": "Central Travel Account Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/central-travel-account-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:32:39.458Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-business-supreme-master-card",
+    "cardName": "Axis Bank Business Supreme Master card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-master-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:38.706Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-business-supreme-visa",
+    "cardName": "Axis Bank Business Supreme Visa",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-visa-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:37.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-corporate-credit-card-with-corporate-liability",
+    "cardName": "Corporate Credit Card with Corporate Liability",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/corporate-credit-card-with-corporate-liability",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:37.103Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-purchase-card",
+    "cardName": "Purchase Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/purchase-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:36.403Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-purchase-control-virtual-card",
+    "cardName": "Purchase Control (Virtual Card)",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/purchase-control-virtual-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:35.685Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-vistara-infinite-credit-card",
+    "cardName": "Axis Bank Vistara Infinite Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-infinite-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:35.020Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-kwik-axis-bank-credit-card",
+    "cardName": "Kwik Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-kwik-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:34.329Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-vistara-credit-card",
+    "cardName": "AXIS BANK VISTARA Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:32:33.568Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "166 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-vistara-signature-credit-card",
+    "cardName": "AXIS BANK VISTARA SIGNATURE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:32:32.843Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-lic-axis-bank-platinum-credit-card",
+    "cardName": "LIC Axis Bank Platinum Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:32.136Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-lic-axis-bank-signature-credit-card",
+    "cardName": "LIC Axis Bank Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:31.442Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-freecharge-plus-credit-card",
+    "cardName": "Axis Bank Freecharge Plus Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:30.656Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-freecharge-credit-card",
+    "cardName": "Axis Bank Freecharge Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:29.967Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-miles-and-more-axis-bank-credit-card",
+    "cardName": "Miles and More Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:29.242Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-samsung-axis-bank-signature-credit-card",
+    "cardName": "Samsung Axis Bank Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:28.571Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "1.8k Views"
+      },
+      {
+        "type": "removed",
+        "text": "1.1k Views"
+      },
+      {
+        "type": "removed",
+        "text": "641 Views"
+      },
+      {
+        "type": "removed",
+        "text": "603 Views"
+      },
+      {
+        "type": "added",
+        "text": "2k Views"
+      },
+      {
+        "type": "added",
+        "text": "1.7k Views"
+      },
+      {
+        "type": "added",
+        "text": "545 Views"
+      },
+      {
+        "type": "added",
+        "text": "627 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-spicejet-axis-bank-voyage-credit-card",
+    "cardName": "SpiceJet Axis Bank Voyage Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:27.840Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "1.7k Views"
+      },
+      {
+        "type": "removed",
+        "text": "530 Views"
+      },
+      {
+        "type": "removed",
+        "text": "622 Views"
+      },
+      {
+        "type": "added",
+        "text": "1.9k Views"
+      },
+      {
+        "type": "added",
+        "text": "1.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "661 Views"
+      },
+      {
+        "type": "added",
+        "text": "606 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-shoppers-stop-credit-card",
+    "cardName": "Axis Bank Shoppers Stop Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-shoppers-stop-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:26.914Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-fibe-axis-bank-credit-card",
+    "cardName": "Fibe Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/fibe-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:26.170Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-samsung-axis-bank-infinite-credit-card",
+    "cardName": "Samsung Axis Bank Infinite Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-infinite-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:25.357Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "1.8k Views"
+      },
+      {
+        "type": "removed",
+        "text": "1.1k Views"
+      },
+      {
+        "type": "removed",
+        "text": "641 Views"
+      },
+      {
+        "type": "removed",
+        "text": "603 Views"
+      },
+      {
+        "type": "added",
+        "text": "2k Views"
+      },
+      {
+        "type": "added",
+        "text": "1.7k Views"
+      },
+      {
+        "type": "added",
+        "text": "544 Views"
+      },
+      {
+        "type": "added",
+        "text": "627 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-spicejet-axis-bank-voyage-black-credit-card",
+    "cardName": "SpiceJet Axis Bank Voyage Black Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-black-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:24.484Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "529 Views"
+      },
+      {
+        "type": "removed",
+        "text": "622 Views"
+      },
+      {
+        "type": "added",
+        "text": "545 Views"
+      },
+      {
+        "type": "added",
+        "text": "627 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-flipkart-axis-bank-super-elite-credit-card",
+    "cardName": "Flipkart Axis Bank Super Elite Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axis-bank-super-elite-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:23.752Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "166 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-titanium-smart-traveler-credit-card",
+    "cardName": "Titanium Smart Traveler Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:23.052Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "531 Views"
+      },
+      {
+        "type": "removed",
+        "text": "622 Views"
+      },
+      {
+        "type": "added",
+        "text": "546 Views"
+      },
+      {
+        "type": "added",
+        "text": "627 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-platinum-credit-card",
+    "cardName": "Platinum Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:22.368Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-signature-credit-card-with-lifestyle-benefits",
+    "cardName": "Axis Bank Signature Credit Card with Lifestyle Benefits",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/signature-credit-card-with-lifestyle-benefits",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:32:21.682Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-pride-signature-credit-card",
+    "cardName": "Axis Bank Pride Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/pride-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:20.913Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-pride-platinum-credit-card",
+    "cardName": "Axis Bank Pride Platinum Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/pride-platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:20.137Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-indianoil-axis-bank-premium-credit-card",
+    "cardName": "IndianOil Axis Bank Premium Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/indianoil-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:19.310Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-aura-credit-card",
+    "cardName": "Axis Bank AURA Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-aura-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:32:18.546Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-privilege-easy-credit-card",
+    "cardName": "Privilege Easy Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-easy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:16.891Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "166 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-my-zone-easy-credit-card",
+    "cardName": "Axis Bank MY Zone Easy Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/my-zone-easy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:13.409Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "166 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-cashback-credit-card",
+    "cardName": "Cashback Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/cashback-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:11.208Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "167 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-select-credit-card",
+    "cardName": "Axis Bank Select Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:10.428Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "166 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-horizon-credit-card",
+    "cardName": "HORIZON Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-horizon-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:09.620Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-airtel-axis-bank-credit-card",
+    "cardName": "Airtel Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/airtel-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:08.800Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-google-pay-flex-axis-bank-credit-card",
+    "cardName": "Google Pay Flex Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/google-pay-flex-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:07.869Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-rewards-credit-card",
+    "cardName": "Axis Bank REWARDS Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:07.038Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "1.8k Views"
+      },
+      {
+        "type": "removed",
+        "text": "1.1k Views"
+      },
+      {
+        "type": "removed",
+        "text": "639 Views"
+      },
+      {
+        "type": "removed",
+        "text": "603 Views"
+      },
+      {
+        "type": "added",
+        "text": "2k Views"
+      },
+      {
+        "type": "added",
+        "text": "1.7k Views"
+      },
+      {
+        "type": "added",
+        "text": "544 Views"
+      },
+      {
+        "type": "added",
+        "text": "627 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-ace-credit-card",
+    "cardName": "Axis Bank ACE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:06.326Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "390 Views"
+      },
+      {
+        "type": "added",
+        "text": "172 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-my-zone-credit-card",
+    "cardName": "Axis Bank My Zone Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:05.605Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "168 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-indianoil-axis-bank-credit-card",
+    "cardName": "INDIANOIL AXIS BANK Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:04.863Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "9.2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "384 Views"
+      },
+      {
+        "type": "removed",
+        "text": "166 Views"
+      },
+      {
+        "type": "added",
+        "text": "9.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-neo-credit-card",
+    "cardName": "Neo Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:04.113Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-flipkart-axis-bank-credit-card",
+    "cardName": "FLIPKART AXIS BANK Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-13T06:32:03.387Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "359 Views"
+      },
+      {
+        "type": "removed",
+        "text": "162 Views"
+      },
+      {
+        "type": "added",
+        "text": "369 Views"
+      },
+      {
+        "type": "added",
+        "text": "165 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-privilege-credit-card",
+    "cardName": "AXIS BANK PRIVILEGE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-13T06:32:02.570Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "2k Views"
+      },
+      {
+        "type": "removed",
+        "text": "1.7k Views"
+      },
+      {
+        "type": "removed",
+        "text": "529 Views"
+      },
+      {
+        "type": "removed",
+        "text": "622 Views"
+      },
+      {
+        "type": "added",
+        "text": "1.9k Views"
+      },
+      {
+        "type": "added",
+        "text": "1.1k Views"
+      },
+      {
+        "type": "added",
+        "text": "659 Views"
+      },
+      {
+        "type": "added",
+        "text": "606 Views"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  }
+]

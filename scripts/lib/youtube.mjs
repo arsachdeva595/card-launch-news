@@ -1,43 +1,31 @@
-const ENDPOINT = "https://www.googleapis.com/youtube/v3/search";
+import { runActorSync, warnIfMappingFailed } from "./apify.mjs";
+
+// streamers/youtube-scraper: keyword-search based. Override via
+// APIFY_YOUTUBE_ACTOR_ID if you're using a different actor.
+const YOUTUBE_ACTOR_ID = process.env.APIFY_YOUTUBE_ACTOR_ID || "streamers~youtube-scraper";
 
 /**
- * Searches YouTube via the Data API v3 (a separate product from Custom
- * Search JSON API, unaffected by its new-org restriction) and returns a flat
- * list of { title, url, description }. Returns [] (never throws) if the key
- * is missing or the request fails.
+ * Searches YouTube via an Apify actor and returns a flat list of
+ * { title, url, description }. Returns [] (never throws) if the token is
+ * missing, the actor fails, or its output doesn't map to anything usable.
  */
 export async function searchYouTube(query, { maxResults = 3 } = {}) {
-  const apiKey = process.env.YOUTUBE_API_KEY;
-  if (!apiKey) {
-    console.warn("  ! YOUTUBE_API_KEY not set, skipping search:", query);
-    return [];
-  }
+  const items = await runActorSync(YOUTUBE_ACTOR_ID, {
+    searchQueries: [query],
+    maxResults,
+    maxResultsShorts: 0,
+    maxResultStreams: 0
+  });
 
-  const url = new URL(ENDPOINT);
-  url.searchParams.set("key", apiKey);
-  url.searchParams.set("q", query);
-  url.searchParams.set("part", "snippet");
-  url.searchParams.set("type", "video");
-  url.searchParams.set("maxResults", String(maxResults));
-  url.searchParams.set("regionCode", "IN");
+  const results = items
+    .map((item) => ({
+      title: item.title,
+      url: item.url || (item.id ? `https://www.youtube.com/watch?v=${item.id}` : undefined),
+      description: item.description || item.text || ""
+    }))
+    .filter((r) => r.url)
+    .slice(0, maxResults);
 
-  try {
-    const res = await fetch(url);
-    if (!res.ok) {
-      console.warn(`  ! YouTube search failed (${res.status}) for "${query}"`);
-      return [];
-    }
-
-    const data = await res.json();
-    return (data.items || [])
-      .filter((item) => item.id?.videoId)
-      .map((item) => ({
-        title: item.snippet?.title,
-        url: `https://www.youtube.com/watch?v=${item.id.videoId}`,
-        description: item.snippet?.description
-      }));
-  } catch (err) {
-    console.warn(`  ! YouTube search error for "${query}": ${err.message}`);
-    return [];
-  }
+  warnIfMappingFailed("YouTube", items, results);
+  return results;
 }

@@ -41,18 +41,18 @@ pages don't contain "credit-card" or "card/" anywhere in the URL, so the
 generic crawler finds zero of them — only the curated list does). Tier 2
 keeps a low-fidelity signal for everything else without the fetch cost.
 
-**Why Reddit + YouTube specifically, not general web search**: every general
-web-search option hit a wall — Brave requires a billing card even for the
-free tier; Google's Programmable Search Engine stopped supporting
-whole-web search for newly-created engines; and Google's Custom Search JSON
-API is being locked down for new Cloud orgs/accounts entirely (see
+**Why Apify for Reddit/YouTube search**: general web-search APIs hit wall
+after wall — Brave requires a billing card even for the free tier; Google's
+Programmable Search Engine stopped supporting whole-web search for
+newly-created engines; Google's Custom Search JSON API is being locked down
+for new Cloud orgs/accounts entirely (see
 [this thread](https://discuss.google.dev/t/custom-search-json-api-returns-403-permission-denied-on-new-org-new-account-restriction/347093)).
-Reddit (via a registered OAuth app, its current supported free path for
-low-volume read access) and YouTube Data API v3 (a separate product,
-unaffected by the Custom Search restriction) both have genuinely free tiers
-with simple setup, so enrichment is built on those instead. X/Twitter has no
-viable free search API right now, so that field is always left empty with
-an honest label rather than something that looks broken.
+Reddit/YouTube's own official APIs worked initially but were replaced with
+[Apify](https://apify.com/) actors for a single unified integration across
+both. X/Twitter is deliberately *not* covered — there's no free official API
+for it, and scraping it (which is what an Apify actor would do) sits in a
+ToS gray area we chose not to build on. That field is always left empty
+with an honest label rather than something that looks broken.
 
 ## How it works
 
@@ -65,8 +65,9 @@ an honest label rather than something that looks broken.
    fetched further at this stage.
 2. **`scripts/enrich.mjs`** takes each new-launch candidate, fetches its page
    `<title>` to derive a card name, uses the card's own page as the
-   announcement, and searches Reddit (`scripts/lib/reddit.mjs`) and YouTube
-   (`scripts/lib/youtube.mjs`) for community discussion.
+   announcement, and searches Reddit/YouTube via Apify actors
+   (`scripts/lib/reddit.mjs`, `scripts/lib/youtube.mjs`, both built on the
+   generic runner in `scripts/lib/apify.mjs`) for community discussion.
 3. **`scripts/detect-changes.mjs`** (Tier 1) fetches every card in
    `config/tracked-cards.json` via `scripts/lib/content-hash.mjs`, which
    extracts the page's visible text (stripping scripts/styles/comments/tags
@@ -108,27 +109,24 @@ an honest label rather than something that looks broken.
 
 ## One-time setup
 
-1. **Reddit** (free, no billing/card required):
-   - Go to [reddit.com/prefs/apps](https://www.reddit.com/prefs/apps) →
-     "create app" → type **script** → name it anything (e.g.
-     "card-launch-news") → redirect URI can be anything valid, e.g.
-     `https://example.com` (unused for this grant type).
-   - After creating it, the client ID is the string under the app name
-     (looks like a short random string), and the client secret is labeled
-     "secret".
-   - Add both as repo secrets: `Settings → Secrets and variables → Actions →
-     New repository secret`, named `REDDIT_CLIENT_ID` and
-     `REDDIT_CLIENT_SECRET`.
-2. **YouTube Data API v3** (free tier: 100 searches/day, no billing/card
-   required just to create the key):
-   - At [console.cloud.google.com](https://console.cloud.google.com/apis/library/youtube.googleapis.com),
-     enable "YouTube Data API v3" for your project.
-   - Create an API key at
-     [console.cloud.google.com/apis/credentials](https://console.cloud.google.com/apis/credentials).
-   - Add it as a repo secret named `YOUTUBE_API_KEY`.
-3. **Enable GitHub Pages** — `Settings → Pages → Source: Deploy from a
+1. **Apify** (free tier: small monthly compute credit, no card required to
+   start; real usage beyond that credit does cost money):
+   - Sign up at [apify.com](https://apify.com/) and grab your API token from
+     [console.apify.com/settings/integrations](https://console.apify.com/settings/integrations).
+   - Add it as a repo secret named `APIFY_TOKEN`.
+   - Default actors used: `trudax/reddit-scraper-lite` for Reddit,
+     `streamers/youtube-scraper` for YouTube (both set in
+     `scripts/lib/reddit.mjs`/`scripts/lib/youtube.mjs`). If either actor is
+     unavailable, deprecated, or you'd rather use a different one, override
+     via the `APIFY_REDDIT_ACTOR_ID`/`APIFY_YOUTUBE_ACTOR_ID` repo secrets —
+     but note the input/output field names are actor-specific, so switching
+     actors likely means adjusting the mapping code in those two files too.
+     If an actor's output doesn't map to any usable result, a warning gets
+     logged with a raw sample of what it actually returned, to make that
+     fixable rather than silently empty.
+2. **Enable GitHub Pages** — `Settings → Pages → Source: Deploy from a
    branch → Branch: main, folder: /docs`.
-4. **Telegram notifications (optional)**:
+3. **Telegram notifications (optional)**:
    - Message [@BotFather](https://t.me/BotFather) on Telegram, `/newbot`, and
      copy the token it gives you.
    - Message your new bot anything, then visit
@@ -137,7 +135,7 @@ an honest label rather than something that looks broken.
    - Add both as repo secrets: `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`.
    - If these aren't set, the run just skips notification silently — nothing
      else is affected.
-5. First run will be a baseline pass per issuer (no candidates are emitted
+4. First run will be a baseline pass per issuer (no candidates are emitted
    the very first time an issuer's sitemap is seen, since there's nothing to
    diff against yet) — expect the feed to start filling in from the *second*
    run onward, once a snapshot exists to compare against. (This repo's
@@ -208,18 +206,22 @@ npm run run          # runs only if due per frequencyDays
 npm run run:force     # runs regardless (useful for local testing)
 ```
 
-Requires `REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET`, and `YOUTUBE_API_KEY` to
-be set in your shell environment to get real enrichment results; without
-them, searches are skipped and card entries are still created with
-`community` fields left `null`.
+Requires `APIFY_TOKEN` to be set in your shell environment to get real
+enrichment results; without it, searches are skipped and card entries are
+still created with `community` fields left `null`.
 
 ## Known limitations (v1)
 
-- YouTube's free tier caps at 100 searches/day (search.list costs 100 quota
-  units, daily quota is 10,000); each candidate uses 1 YouTube query, so
-  that's ~100 candidates/day of headroom — generous for a normal run.
-  Reddit's OAuth app has its own (much higher, effectively non-limiting at
-  this volume) free tier for read-only access.
+- Apify's free tier is a small monthly compute credit, not unlimited —
+  unlike the official Reddit/YouTube APIs this replaced, real usage beyond
+  that credit costs money. Watch usage at
+  [console.apify.com/billing](https://console.apify.com/billing) if
+  launch/change volume grows.
+- The Reddit/YouTube Apify actors' input/output schemas were mapped without
+  live verification against real output (see `scripts/lib/reddit.mjs`,
+  `scripts/lib/youtube.mjs`) — if community results are always empty despite
+  a valid `APIFY_TOKEN`, check the logged warning for a raw output sample
+  and adjust the field mapping.
 - X/Twitter community sentiment is always empty — there's currently no free
   API path for it (X's API requires a paid tier; Nitter, the old free
   workaround, is mostly dead). The UI is explicit about this rather than

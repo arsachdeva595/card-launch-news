@@ -13,6 +13,20 @@ const HTML_ENTITIES = {
   "&#39;": "'"
 };
 
+// Lines matching these are inherently volatile - different on every single
+// fetch regardless of any real content change (a live view-counter widget, an
+// auto-ticking "last updated" stamp) - so they're dropped entirely rather
+// than hashed/diffed. Unlike the reordering fix (order-insensitive hashing),
+// no amount of sorting fixes this: the *value* itself differs each time.
+const VOLATILE_LINE_PATTERNS = [
+  /^[\d,.]+k?\+?\s+views?$/i,
+  /^last\s+updated\s+on\s*:?\s*\d{1,2}[\s\-\/]\w+[\s\-\/]\d{2,4}$/i
+];
+
+function isVolatileLine(line) {
+  return VOLATILE_LINE_PATTERNS.some((pattern) => pattern.test(line));
+}
+
 // Reduces a page down to its visible text, one line per block-level element,
 // so that (a) hashing ignores markup/class-name churn that doesn't affect
 // what a visitor actually sees, and (b) the result is meaningful to diff and
@@ -34,6 +48,7 @@ function extractVisibleText(html) {
     .split("\n")
     .map((line) => line.replace(/[ \t]+/g, " ").trim())
     .filter(Boolean)
+    .filter((line) => !isVolatileLine(line))
     .join("\n");
 }
 

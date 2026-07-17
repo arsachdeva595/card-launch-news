@@ -212,6 +212,20 @@ still created with `community` fields left `null`.
 
 ## Known limitations (v1)
 
+- Two noise sources beyond the reordering fix, found from real production
+  data (150 "changes" in one run, almost all noise): (1) inherently volatile
+  content like live view-counters ("165 Views") and auto-ticking "Last
+  Updated On" stamps — stripped entirely from extracted text
+  (`scripts/lib/content-hash.mjs` → `VOLATILE_LINE_PATTERNS`) before
+  hashing/diffing, since no amount of reorder-tolerance fixes a value that's
+  just genuinely different every fetch; (2) shared site-wide footer/banner
+  changes (a bank added one new promo link and it rippled across every
+  tracked card's page at once) — `scripts/detect-changes.mjs` →
+  `suppressSiteWideNoise()` drops any group of ≥3 cards for the same issuer
+  sharing an identical added/removed fingerprint in the same run, since
+  that's a template change, not per-card content. Both are heuristic and
+  tuned to what was actually observed, not exhaustive — new noise patterns
+  may still surface as tracking continues.
 - Apify's free tier is a small monthly compute credit, not unlimited —
   unlike the official Reddit/YouTube APIs this replaced, real usage beyond
   that credit costs money. Watch usage at

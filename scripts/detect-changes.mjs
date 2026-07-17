@@ -2,8 +2,48 @@ import { fetchPageSnapshot } from "./lib/content-hash.mjs";
 import { computeUnifiedDiff } from "./lib/text-diff.mjs";
 import { readJson, writeJson, pageHashPathFor } from "./lib/state.mjs";
 
+const SITE_WIDE_SUPPRESS_THRESHOLD = 3;
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// Fingerprints a change by *only* its added/removed lines (ignoring
+// context/ellipsis, and ignoring which card it belongs to) - two changes on
+// different cards with the same fingerprint means they share identical
+// added/removed content, which is exactly what a shared site-wide
+// footer/template update looks like.
+function diffFingerprint(diffHunks) {
+  return JSON.stringify(
+    diffHunks
+      .filter((h) => h.type === "added" || h.type === "removed")
+      .map((h) => `${h.type}:${h.text}`)
+      .sort()
+  );
+}
+
+/**
+ * Given all changes detected for one issuer in one run, drops any group of
+ * changes that share an identical added/removed fingerprint across at least
+ * `threshold` different cards - a shared footer/template/banner change, not
+ * per-card content. Exported standalone (no I/O) so it's unit-testable
+ * without needing real page fetches.
+ */
+export function suppressSiteWideNoise(issuerChanges, threshold = SITE_WIDE_SUPPRESS_THRESHOLD) {
+  const groups = new Map();
+  for (const change of issuerChanges) {
+    const fp = diffFingerprint(change.diffHunks);
+    if (!groups.has(fp)) groups.set(fp, []);
+    groups.get(fp).push(change);
+  }
+
+  const kept = [];
+  const suppressed = [];
+  for (const group of groups.values()) {
+    if (group.length >= threshold) suppressed.push(group);
+    else kept.push(...group);
+  }
+  return { kept, suppressed };
 }
 
 /**
@@ -41,6 +81,7 @@ export async function detectChanges({ trackedCards, issuers, settings }) {
     const hashPath = pageHashPathFor(issuerSlug);
     const stored = await readJson(hashPath, { pages: {} });
     const updatedPages = { ...stored.pages };
+    const issuerChanges = [];
 
     for (const card of cards) {
       await sleep(requestDelayMs);
@@ -69,7 +110,7 @@ export async function detectChanges({ trackedCards, issuers, settings }) {
 
       if (previous.hash !== snapshot.hash) {
         const diffHunks = computeUnifiedDiff(previous.text || "", snapshot.text);
-        changes.push({
+        issuerChanges.push({
           issuerSlug,
           issuerName: issuer?.name || issuerSlug,
           officialUrl: issuer?.officialUrl,
@@ -83,6 +124,22 @@ export async function detectChanges({ trackedCards, issuers, settings }) {
     }
 
     await writeJson(hashPath, { pages: updatedPages, updatedAt: new Date().toISOString() });
+
+    // Suppress site-wide noise: if the exact same added/removed content
+    // shows up across several cards for this issuer in the same run, it's a
+    // shared footer/template/banner change, not a per-card content change -
+    // drop all of them rather than reporting the same thing N times (their
+    // hash/text state above is still updated regardless, so this doesn't
+    // cause them to be re-flagged next run either).
+    const { kept, suppressed } = suppressSiteWideNoise(issuerChanges);
+    for (const group of suppressed) {
+      console.log(
+        `  suppressing ${group.length} card(s) sharing an identical site-wide diff (likely a shared footer/template/banner, not card-specific): ${group
+          .map((c) => c.cardName)
+          .join(", ")}`
+      );
+    }
+    changes.push(...kept);
   }
 
   return changes;

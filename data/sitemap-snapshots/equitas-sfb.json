@@ -77,6 +77,7 @@
     "https://equitas.bank.in/national-common-mobility-card/",
     "https://equitas.bank.in/nr-form/",
     "https://equitas.bank.in/nri-banking/",
+    "https://equitas.bank.in/nri-referal/",
     "https://equitas.bank.in/pavement-dwellers-rehabilitation/",
     "https://equitas.bank.in/personal-banking/",
     "https://equitas.bank.in/pm-cares-fund/",
@@ -104,6 +105,7 @@
     "https://equitas.bank.in/asset-branch-banking/mandatory-notice-for-customers/",
     "https://equitas.bank.in/beyond-banking-referral/thank-you/",
     "https://equitas.bank.in/camp-personal-loan/thank-you/",
+    "https://equitas.bank.in/elite-lite/thank-you/",
     "https://equitas.bank.in/equitas-explore-savings-nre/thank-you/",
     "https://equitas.bank.in/fcnr-landing/thank-you/",
     "https://equitas.bank.in/important-information-for-customers/NSFI/",
@@ -116,9 +118,11 @@
     "https://equitas.bank.in/lap-kan/thank-you/",
     "https://equitas.bank.in/lap-tam/thank-you/",
     "https://equitas.bank.in/lap-tel/thank-you/",
+    "https://equitas.bank.in/loan-against-property/thank-you/",
     "https://equitas.bank.in/mandatory-notice-for-customers/customer-awareness/",
     "https://equitas.bank.in/maxima-fixed-deposit/thank-you/",
-    "https://equitas.bank.in/nri-referral/thank-you/",
+    "https://equitas.bank.in/mobile-banking/thank-you/",
+    "https://equitas.bank.in/nri-referal/thank-you/",
     "https://equitas.bank.in/policies/banker-on-wheels-mobile-application-privacy-policy/",
     "https://equitas.bank.in/policies/equitas-mpower-privacy-policy/",
     "https://equitas.bank.in/policies/fair-practice-code-lenders/",
@@ -237,6 +241,7 @@
     "https://equitas.bank.in/nri-banking/save/nri-savings/eva-nro-savings-account/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/nre-rupee-savings-account/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/nro-rupee-savings-account/",
+    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/equi-remit-1/",
     "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/equi-remit/",
     "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/money-to-overseas/",
     "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/money-transfer/",
@@ -289,5 +294,5 @@
     "https://equitas.bank.in/personal-banking/insure/insurance/government-schemes/pradhan-mantri-suraksha-bima-yojana/",
     "https://equitas.bank.in/personal-banking/invest/all-investments/government-schemes/atal-pension-yojna/"
   ],
-  "updatedAt": "2026-07-15T05:41:23.860Z"
+  "updatedAt": "2026-07-17T05:49:57.756Z"
 }

@@ -33,7 +33,7 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/benefits-and-features": "2026-06-27",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/list-of-branches": "2025-04-28",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/international-airport-lounge-access": "2026-06-27",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-private-metal-credit-card": "2026-07-08",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-private-metal-credit-card": "2026-07-16",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card": "2026-07-06",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card/designmy-card": "2025-05-30",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card/image-guidelines": "2026-03-16",
@@ -53,7 +53,7 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/pre-approved-credit-card": "2026-06-27",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-card-against-fixed-deposit": "2026-06-29",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards": "2026-06-19",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/upcoming-changes-features-and-charges": "2026-07-04",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/upcoming-changes-features-and-charges": "2026-07-16",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip": "2026-03-05",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/platinum-credit-card/tnc-for-governing-mmt-platinum-credit-card": "2026-01-31",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-bank-credit-card": "2026-07-08",
@@ -62,7 +62,7 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/application-status": "2026-06-30",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/cancellation": "2026-03-24",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/fair-practice-code": "2026-07-01",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/plus-cards": "2026-07-14",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/plus-cards": "2026-07-15",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/experience": "2026-06-27",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/bookmyshow-tnc": "2026-06-30",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/inox-tnc": "2025-05-19",
@@ -128,7 +128,7 @@
     "https://www.icici.bank.in/personal-banking/cards/debit-card/debit-card-assist": "2026-03-30",
     "https://www.icici.bank.in/personal-banking/cards/debit-card/debit-card-blocking-tnc": "2026-04-09",
     "https://www.icici.bank.in/personal-banking/cards/debit-card/schedule-charges": "2026-06-17",
-    "https://www.icici.bank.in/personal-banking/cards/debit-card/emi-on-debit-card": "2026-07-13",
+    "https://www.icici.bank.in/personal-banking/cards/debit-card/emi-on-debit-card": "2026-07-15",
     "https://www.icici.bank.in/personal-banking/cards/debit-card/emi-on-debit-card/schedule-of-charges": "2026-06-04",
     "https://www.icici.bank.in/personal-banking/cards/debit-card/debit-card-first-time-usage": "2026-03-05",
     "https://www.icici.bank.in/personal-banking/cards/debit-card/debit-card-atm-security": "2026-02-04",
@@ -245,5 +245,5 @@
     "https://www.icici.bank.in/business-banking/cards/corporate-card/documents": "2026-06-01",
     "https://www.icici.bank.in/campus-power/alumni-credit-card": "2026-06-01"
   },
-  "updatedAt": "2026-07-15T05:56:58.604Z"
+  "updatedAt": "2026-07-17T06:03:28.887Z"
 }

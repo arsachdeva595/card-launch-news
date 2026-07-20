@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-07-18T08:51:18.974Z",
+  "lastRunAt": "2026-07-20T06:36:57.483Z",
   "frequencyDays": 1,
   "changeDetectionEnabled": true,
   "issuerCount": 24,
   "trackedCardCount": 593,
   "totalLaunchesTracked": 0,
-  "totalChangesTracked": 0
+  "totalChangesTracked": 23
 }

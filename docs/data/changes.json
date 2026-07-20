@@ -1,1 +1,1126 @@
-[]
+[
+  {
+    "id": "rbl-bank-indianoil-rbl-bank-xtra-credit-card",
+    "cardName": "IndianOil RBL Bank XTRA Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/indianoil-rbl-bank-xtra-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:36:33.420Z",
+    "diffHunks": [
+      {
+        "type": "added",
+        "text": "Cookie settings"
+      },
+      {
+        "type": "added",
+        "text": "By continuing to use this site, you are accepting the bank's cookie"
+      },
+      {
+        "type": "added",
+        "text": "policy. The information collected would be used to improve your journey & to"
+      },
+      {
+        "type": "added",
+        "text": "personalize your website experience."
+      },
+      {
+        "type": "added",
+        "text": "OK"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-irctc-rbl-bank-rupay-credit-card",
+    "cardName": "IRCTC RBL Bank RuPay Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/irctc-rbl-bank-rupay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:36:31.211Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Cookie settings"
+      },
+      {
+        "type": "removed",
+        "text": "By continuing to use this site, you are accepting the bank's cookie"
+      },
+      {
+        "type": "removed",
+        "text": "policy. The information collected would be used to improve your journey & to"
+      },
+      {
+        "type": "removed",
+        "text": "personalize your website experience."
+      },
+      {
+        "type": "removed",
+        "text": "OK"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-bankbazaar-savemax-credit-card",
+    "cardName": "RBL Bank BankBazaar SaveMax Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-bankbazaar-savemax-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:35:58.318Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Cookie settings"
+      },
+      {
+        "type": "removed",
+        "text": "By continuing to use this site, you are accepting the bank's cookie"
+      },
+      {
+        "type": "removed",
+        "text": "policy. The information collected would be used to improve your journey & to"
+      },
+      {
+        "type": "removed",
+        "text": "personalize your website experience."
+      },
+      {
+        "type": "removed",
+        "text": "OK"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "sbi-card-sbi-signature-corporate-card",
+    "cardName": "SBI Signature Corporate Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/travel-entertainment-cards/sbi-signature-corporate-card.page",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:35:01.963Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Blog"
+      },
+      {
+        "type": "context",
+        "text": "Help"
+      },
+      {
+        "type": "removed",
+        "text": "Customized Solution"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Web Servicing"
+      },
+      {
+        "type": "removed",
+        "text": "Digital On-Boarding"
+      },
+      {
+        "type": "removed",
+        "text": "Business Expertise"
+      },
+      {
+        "type": "removed",
+        "text": "Global Acceptance"
+      },
+      {
+        "type": "removed",
+        "text": "Technology Innovation"
+      },
+      {
+        "type": "removed",
+        "text": "Security & Control"
+      },
+      {
+        "type": "removed",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "removed",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "removed",
+        "text": "Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Central Travel Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Utility Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Purchase Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Virtual Cards"
+      },
+      {
+        "type": "added",
+        "text": "Credit Cards"
+      },
+      {
+        "type": "added",
+        "text": "Lifestyle"
+      },
+      {
+        "type": "added",
+        "text": "Reward"
+      },
+      {
+        "type": "added",
+        "text": "Shopping"
+      },
+      {
+        "type": "added",
+        "text": "Travel & Fuel"
+      },
+      {
+        "type": "added",
+        "text": "Banking Partnership"
+      },
+      {
+        "type": "added",
+        "text": "Business"
+      },
+      {
+        "type": "added",
+        "text": "Digitized Membership Kit"
+      },
+      {
+        "type": "added",
+        "text": "Benefits"
+      },
+      {
+        "type": "added",
+        "text": "Lower Interest Option"
+      },
+      {
+        "type": "added",
+        "text": "Encash"
+      },
+      {
+        "type": "added",
+        "text": "Money Simplified"
+      },
+      {
+        "type": "added",
+        "text": "Utility Bill Payment"
+      },
+      {
+        "type": "added",
+        "text": "Easy Access Channels"
+      },
+      {
+        "type": "added",
+        "text": "Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Other benefits"
+      },
+      {
+        "type": "added",
+        "text": "Contactless Payments"
+      },
+      {
+        "type": "added",
+        "text": "Airport Lounge Access"
+      },
+      {
+        "type": "added",
+        "text": "Pay"
+      },
+      {
+        "type": "added",
+        "text": "Pay Online"
+      },
+      {
+        "type": "added",
+        "text": "Pay Offline"
+      },
+      {
+        "type": "context",
+        "text": "Offers"
+      },
+      {
+        "type": "removed",
+        "text": "Enquire"
+      },
+      {
+        "type": "removed",
+        "text": "Track Application"
+      },
+      {
+        "type": "added",
+        "text": "All offers"
+      },
+      {
+        "type": "added",
+        "text": "Offers this week"
+      },
+      {
+        "type": "added",
+        "text": "Convert to EMI"
+      },
+      {
+        "type": "added",
+        "text": "Visa Offers on SBI Card"
+      },
+      {
+        "type": "added",
+        "text": "Rewards"
+      },
+      {
+        "type": "added",
+        "text": "Know your Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Redeeming Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Apply"
+      },
+      {
+        "type": "added",
+        "text": "Help me find a card"
+      },
+      {
+        "type": "added",
+        "text": "Track my Application"
+      },
+      {
+        "type": "added",
+        "text": "Retrieve my Application"
+      },
+      {
+        "type": "context",
+        "text": "©2026"
+      },
+      {
+        "type": "context",
+        "text": "Do Not Disturb"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "sbi-card-sbi-corporate-purchase-card",
+    "cardName": "SBI Corporate Purchase Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/corporate-purchase-cards/sbi-corporate-purchase-card.page",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:34:35.777Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Blog"
+      },
+      {
+        "type": "context",
+        "text": "Help"
+      },
+      {
+        "type": "removed",
+        "text": "Customized Solution"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Web Servicing"
+      },
+      {
+        "type": "removed",
+        "text": "Digital On-Boarding"
+      },
+      {
+        "type": "removed",
+        "text": "Business Expertise"
+      },
+      {
+        "type": "removed",
+        "text": "Global Acceptance"
+      },
+      {
+        "type": "removed",
+        "text": "Technology Innovation"
+      },
+      {
+        "type": "removed",
+        "text": "Security & Control"
+      },
+      {
+        "type": "removed",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "removed",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "removed",
+        "text": "Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Central Travel Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Utility Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Purchase Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Virtual Cards"
+      },
+      {
+        "type": "added",
+        "text": "Credit Cards"
+      },
+      {
+        "type": "added",
+        "text": "Lifestyle"
+      },
+      {
+        "type": "added",
+        "text": "Reward"
+      },
+      {
+        "type": "added",
+        "text": "Shopping"
+      },
+      {
+        "type": "added",
+        "text": "Travel & Fuel"
+      },
+      {
+        "type": "added",
+        "text": "Banking Partnership"
+      },
+      {
+        "type": "added",
+        "text": "Business"
+      },
+      {
+        "type": "added",
+        "text": "Digitized Membership Kit"
+      },
+      {
+        "type": "added",
+        "text": "Benefits"
+      },
+      {
+        "type": "added",
+        "text": "Lower Interest Option"
+      },
+      {
+        "type": "added",
+        "text": "Encash"
+      },
+      {
+        "type": "added",
+        "text": "Money Simplified"
+      },
+      {
+        "type": "added",
+        "text": "Utility Bill Payment"
+      },
+      {
+        "type": "added",
+        "text": "Easy Access Channels"
+      },
+      {
+        "type": "added",
+        "text": "Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Other benefits"
+      },
+      {
+        "type": "added",
+        "text": "Contactless Payments"
+      },
+      {
+        "type": "added",
+        "text": "Airport Lounge Access"
+      },
+      {
+        "type": "added",
+        "text": "Pay"
+      },
+      {
+        "type": "added",
+        "text": "Pay Online"
+      },
+      {
+        "type": "added",
+        "text": "Pay Offline"
+      },
+      {
+        "type": "context",
+        "text": "Offers"
+      },
+      {
+        "type": "removed",
+        "text": "Enquire"
+      },
+      {
+        "type": "removed",
+        "text": "Track Application"
+      },
+      {
+        "type": "added",
+        "text": "All offers"
+      },
+      {
+        "type": "added",
+        "text": "Offers this week"
+      },
+      {
+        "type": "added",
+        "text": "Convert to EMI"
+      },
+      {
+        "type": "added",
+        "text": "Visa Offers on SBI Card"
+      },
+      {
+        "type": "added",
+        "text": "Rewards"
+      },
+      {
+        "type": "added",
+        "text": "Know your Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Redeeming Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Apply"
+      },
+      {
+        "type": "added",
+        "text": "Help me find a card"
+      },
+      {
+        "type": "added",
+        "text": "Track my Application"
+      },
+      {
+        "type": "added",
+        "text": "Retrieve my Application"
+      },
+      {
+        "type": "context",
+        "text": "©2026"
+      },
+      {
+        "type": "context",
+        "text": "Do Not Disturb"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-parakram-select-credit-card",
+    "cardName": "Parakram Select Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards/parakram-select",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:20.013Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "4,306 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "4,463 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-chennai-super-kings-credit-card",
+    "cardName": "Chennai Super Kings Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/csk-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-20T06:31:19.434Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "1,934 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "1,986 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-platinum-credit-card",
+    "cardName": "MakeMyTrip Platinum Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:18.970Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Know more"
+      },
+      {
+        "type": "context",
+        "text": "SAVE"
+      },
+      {
+        "type": "removed",
+        "text": "5,422 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "5,808 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Attractive MakeMyTrip Benefits"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-signature-credit-card",
+    "cardName": "MakeMyTrip Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-20T06:31:18.549Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "4,889 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "removed",
+        "text": "3 Years 2 Months Ago"
+      },
+      {
+        "type": "removed",
+        "text": "7 Years Ago"
+      },
+      {
+        "type": "added",
+        "text": "5,075 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "3 Years 3 Months Ago"
+      },
+      {
+        "type": "added",
+        "text": "7 Years 1 Month Ago"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-amazon-pay-credit-card",
+    "cardName": "Amazon Pay Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:17.132Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "74,958 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "75,837 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-expression-credit-card",
+    "cardName": "Expression Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:16.690Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "context",
+        "text": "SAVE"
+      },
+      {
+        "type": "removed",
+        "text": "2,701 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "2,771 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Custom Design Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-hpcl-coral-credit-card",
+    "cardName": "HPCL Coral Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-coral-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:16.255Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "13,489 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "13,518 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-hpcl-super-saver-credit-card",
+    "cardName": "HPCL Super Saver Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-super-saver",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:15.821Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "16,911 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "17,204 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-skywards-rubyx-credit-card",
+    "cardName": "Emirates Skywards Rubyx Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-rubyx-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-20T06:31:15.389Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Know more"
+      },
+      {
+        "type": "context",
+        "text": "SAVE"
+      },
+      {
+        "type": "removed",
+        "text": "6,239 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "6,299 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Best For"
+      },
+      {
+        "type": "context",
+        "text": "Frequent Flyers"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-sapphiro-credit-card",
+    "cardName": "Emirates Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:14.870Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "6,958 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "7,057 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-emeralde-credit-card",
+    "cardName": "Emirates Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:14.392Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Best For"
+      },
+      {
+        "type": "removed",
+        "text": "Maximum Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Fees and Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Blogs and Videos"
+      },
+      {
+        "type": "added",
+        "text": "FAQs"
+      },
+      {
+        "type": "added",
+        "text": "Best for"
+      },
+      {
+        "type": "added",
+        "text": "Maximum benefits"
+      },
+      {
+        "type": "added",
+        "text": "Fees and charges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-credit-card",
+    "cardName": "MakeMyTrip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:13.919Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "context",
+        "text": "SAVE"
+      },
+      {
+        "type": "removed",
+        "text": "13,923 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "14,034 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Travel Enthusiasts Seeking Value and Flexibility"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-platinum-credit-card",
+    "cardName": "Adani One Platinum Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:13.372Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "12,393 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "13,020 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-signature-credit-card",
+    "cardName": "Adani One Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:12.906Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "11,337 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "11,624 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-platinum-chip-credit-card",
+    "cardName": "Platinum Chip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:12.463Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply"
+      },
+      {
+        "type": "context",
+        "text": "Save"
+      },
+      {
+        "type": "removed",
+        "text": "25,659 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "25,210 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Rewards on Everyday Spends"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-sapphiro-credit-card",
+    "cardName": "Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:11.168Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "156,311 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "158,523 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-credit-card",
+    "cardName": "Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:10.741Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "33,275 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "33,326 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-private-metal-credit-card",
+    "cardName": "Emeralde Private Metal Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-20T06:31:09.818Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "33,578 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "33,544 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  }
+]

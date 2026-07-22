@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "karur-vysya-bank-kvb-eternis-credit-card",
+    "cardName": "KVB Eternis Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-eternis-credit-card/",
+    "discoveredAt": "2026-07-22T06:06:05.945Z",
+    "lastmod": "2026-07-21T11:42:46+00:00",
+    "announcement": {
+      "title": "KVB Eternis Credit Card",
+      "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-eternis-credit-card/",
+      "description": "Official product page on Karur Vysya Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-how-to-view-credit-card-unbilled-statement",
+    "cardName": "How to view Credit Card Unbilled Statement",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/campaign/how-to-view-credit-card-unbilled-statement",
+    "discoveredAt": "2026-07-22T06:04:43.253Z",
+    "lastmod": "2026-07-20T15:51:27+05:30",
+    "announcement": {
+      "title": "How to view Credit Card Unbilled Statement",
+      "url": "https://www.hdfc.bank.in/campaign/how-to-view-credit-card-unbilled-statement",
+      "description": "Official product page on HDFC Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-diners-club-black-metal-edition-credit-card",
+    "cardName": "Diners Club Black Metal Edition Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-club-black-metal-edition-credit-card-test",
+    "discoveredAt": "2026-07-22T06:04:43.252Z",
+    "lastmod": "2026-06-30T16:48:07+05:30",
+    "announcement": {
+      "title": "Diners Club Black Metal Edition Credit Card",
+      "url": "https://www.hdfc.bank.in/credit-cards/diners-club-black-metal-edition-credit-card-test",
+      "description": "Official product page on HDFC Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-how-to-check-credit-card-summary",
+    "cardName": "How to Check Credit Card Summary",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/campaign/how-to-check-credit-card-summary",
+    "discoveredAt": "2026-07-22T06:04:43.252Z",
+    "lastmod": "2026-07-06T18:06:34+05:30",
+    "announcement": {
+      "title": "How to Check Credit Card Summary",
+      "url": "https://www.hdfc.bank.in/campaign/how-to-check-credit-card-summary",
+      "description": "Official product page on HDFC Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  }
+]

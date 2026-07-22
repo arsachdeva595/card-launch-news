@@ -1,5 +1,3905 @@
 [
   {
+    "id": "rbl-bank-irctc-rbl-bank-rupay-credit-card",
+    "cardName": "IRCTC RBL Bank RuPay Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/irctc-rbl-bank-rupay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:18:57.473Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 08, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "How to Get a Home Loan in India: A Step-by-Step Guide"
+      },
+      {
+        "type": "added",
+        "text": "July 21, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How Can You Avoid Falling into the Fraudster’s Trap"
+      },
+      {
+        "type": "added",
+        "text": "Cookie settings"
+      },
+      {
+        "type": "added",
+        "text": "By continuing to use this site, you are accepting the bank's cookie"
+      },
+      {
+        "type": "added",
+        "text": "policy. The information collected would be used to improve your journey & to"
+      },
+      {
+        "type": "added",
+        "text": "personalize your website experience."
+      },
+      {
+        "type": "added",
+        "text": "OK"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-moneytap-black-credit-card",
+    "cardName": "MoneyTap Black Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/moneytap-black-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-22T06:18:50.605Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 08, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "How to Get a Home Loan in India: A Step-by-Step Guide"
+      },
+      {
+        "type": "removed",
+        "text": "Cookie settings"
+      },
+      {
+        "type": "removed",
+        "text": "By continuing to use this site, you are accepting the bank's cookie"
+      },
+      {
+        "type": "removed",
+        "text": "policy. The information collected would be used to improve your journey & to"
+      },
+      {
+        "type": "removed",
+        "text": "personalize your website experience."
+      },
+      {
+        "type": "removed",
+        "text": "OK"
+      },
+      {
+        "type": "added",
+        "text": "July 21, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How Can You Avoid Falling into the Fraudster’s Trap"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-bankbazaar-savemax-credit-card",
+    "cardName": "RBL Bank BankBazaar SaveMax Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-bankbazaar-savemax-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:18:23.877Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "June 08, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "How to Get a Home Loan in India: A Step-by-Step Guide"
+      },
+      {
+        "type": "added",
+        "text": "July 21, 2026"
+      },
+      {
+        "type": "added",
+        "text": "How Can You Avoid Falling into the Fraudster’s Trap"
+      },
+      {
+        "type": "added",
+        "text": "Cookie settings"
+      },
+      {
+        "type": "added",
+        "text": "By continuing to use this site, you are accepting the bank's cookie"
+      },
+      {
+        "type": "added",
+        "text": "policy. The information collected would be used to improve your journey & to"
+      },
+      {
+        "type": "added",
+        "text": "personalize your website experience."
+      },
+      {
+        "type": "added",
+        "text": "OK"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "sbi-card-sbi-corporate-virtual-card",
+    "cardName": "SBI Corporate Virtual Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/corporate-virtual-card/virtual-card.page",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:17:31.695Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "context",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "removed",
+        "text": "Customized Solutions"
+      },
+      {
+        "type": "removed",
+        "text": "Customized solutions. Enhanced value."
+      },
+      {
+        "type": "removed",
+        "text": "Enquire Now"
+      },
+      {
+        "type": "added",
+        "text": "Quick Actions"
+      },
+      {
+        "type": "added",
+        "text": "Download Mobile App"
+      },
+      {
+        "type": "added",
+        "text": "Useful Links"
+      },
+      {
+        "type": "added",
+        "text": "FAQ"
+      },
+      {
+        "type": "added",
+        "text": "Digital Platform Updates"
+      },
+      {
+        "type": "added",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Cards"
+      },
+      {
+        "type": "context",
+        "text": "Cards Home Cards"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Pay Online"
+      },
+      {
+        "type": "context",
+        "text": "Pay Offline"
+      },
+      {
+        "type": "removed",
+        "text": "Download Form"
+      },
+      {
+        "type": "removed",
+        "text": "PAYNET-Pay Online"
+      },
+      {
+        "type": "removed",
+        "text": "NEFT"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Digital Platform Updates"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Payment Posting TAT"
+      },
+      {
+        "type": "context",
+        "text": "Connect with us"
+      },
+      {
+        "type": "context",
+        "text": "Offers"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Convert to EMI"
+      },
+      {
+        "type": "context",
+        "text": "Visa Offers on SBI Card"
+      },
+      {
+        "type": "removed",
+        "text": "Download Mobile App"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Digital Platform Updates"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "context",
+        "text": "Connect with us"
+      },
+      {
+        "type": "context",
+        "text": "Rewards"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Points"
+      },
+      {
+        "type": "context",
+        "text": "Redeeming Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Digital Platform Updates"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "context",
+        "text": "Connect with us"
+      },
+      {
+        "type": "context",
+        "text": "Apply"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "context",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "added",
+        "text": "Download Mobile App"
+      },
+      {
+        "type": "added",
+        "text": "FAQ"
+      },
+      {
+        "type": "added",
+        "text": "Digital Platform Updates"
+      },
+      {
+        "type": "added",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "context",
+        "text": "Connect with us"
+      },
+      {
+        "type": "context",
+        "text": "Cards"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "sbi-card-sbi-signature-corporate-card",
+    "cardName": "SBI Signature Corporate Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/travel-entertainment-cards/sbi-signature-corporate-card.page",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:17:26.084Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Blog"
+      },
+      {
+        "type": "context",
+        "text": "Help"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Lifestyle"
+      },
+      {
+        "type": "removed",
+        "text": "Reward"
+      },
+      {
+        "type": "removed",
+        "text": "Shopping"
+      },
+      {
+        "type": "removed",
+        "text": "Travel & Fuel"
+      },
+      {
+        "type": "removed",
+        "text": "Banking Partnership"
+      },
+      {
+        "type": "removed",
+        "text": "Business"
+      },
+      {
+        "type": "removed",
+        "text": "Digitized Membership Kit"
+      },
+      {
+        "type": "removed",
+        "text": "Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Lower Interest Option"
+      },
+      {
+        "type": "removed",
+        "text": "Encash"
+      },
+      {
+        "type": "removed",
+        "text": "Money Simplified"
+      },
+      {
+        "type": "removed",
+        "text": "Utility Bill Payment"
+      },
+      {
+        "type": "removed",
+        "text": "Easy Access Channels"
+      },
+      {
+        "type": "removed",
+        "text": "Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Other benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Contactless Payments"
+      },
+      {
+        "type": "removed",
+        "text": "Airport Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "Pay"
+      },
+      {
+        "type": "removed",
+        "text": "Pay Online"
+      },
+      {
+        "type": "removed",
+        "text": "Pay Offline"
+      },
+      {
+        "type": "added",
+        "text": "Customized Solution"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Web Servicing"
+      },
+      {
+        "type": "added",
+        "text": "Digital On-Boarding"
+      },
+      {
+        "type": "added",
+        "text": "Business Expertise"
+      },
+      {
+        "type": "added",
+        "text": "Global Acceptance"
+      },
+      {
+        "type": "added",
+        "text": "Technology Innovation"
+      },
+      {
+        "type": "added",
+        "text": "Security & Control"
+      },
+      {
+        "type": "added",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "added",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "added",
+        "text": "Cards"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Cards"
+      },
+      {
+        "type": "added",
+        "text": "Central Travel Cards"
+      },
+      {
+        "type": "added",
+        "text": "Utility Cards"
+      },
+      {
+        "type": "added",
+        "text": "Purchase Cards"
+      },
+      {
+        "type": "added",
+        "text": "Virtual Cards"
+      },
+      {
+        "type": "context",
+        "text": "Offers"
+      },
+      {
+        "type": "removed",
+        "text": "All offers"
+      },
+      {
+        "type": "removed",
+        "text": "Offers this week"
+      },
+      {
+        "type": "removed",
+        "text": "Convert to EMI"
+      },
+      {
+        "type": "removed",
+        "text": "Visa Offers on SBI Card"
+      },
+      {
+        "type": "removed",
+        "text": "Rewards"
+      },
+      {
+        "type": "removed",
+        "text": "Know your Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "Redeeming Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "Apply"
+      },
+      {
+        "type": "removed",
+        "text": "Help me find a card"
+      },
+      {
+        "type": "removed",
+        "text": "Track my Application"
+      },
+      {
+        "type": "removed",
+        "text": "Retrieve my Application"
+      },
+      {
+        "type": "added",
+        "text": "Enquire"
+      },
+      {
+        "type": "added",
+        "text": "Track Application"
+      },
+      {
+        "type": "context",
+        "text": "©2026"
+      },
+      {
+        "type": "context",
+        "text": "Do Not Disturb"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "indusind-bank-esvarna-corporate-card",
+    "cardName": "eSvarna Corporate Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/commercial-cards/corporate-card.html",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:14:20.884Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Super Premium"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Premium"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-parakram-credit-card",
+    "cardName": "Parakram Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards/parakram",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:22.865Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Best For"
+      },
+      {
+        "type": "added",
+        "text": "Best for"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-parakram-select-credit-card",
+    "cardName": "Parakram Select Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards/parakram-select",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:22.371Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "4,463 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "4,674 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-chennai-super-kings-credit-card",
+    "cardName": "Chennai Super Kings Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/csk-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-22T06:13:19.570Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "1,986 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "2,019 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-platinum-credit-card",
+    "cardName": "MakeMyTrip Platinum Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:16.770Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Know more"
+      },
+      {
+        "type": "context",
+        "text": "SAVE"
+      },
+      {
+        "type": "removed",
+        "text": "5,808 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "5,814 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Attractive MakeMyTrip Benefits"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-signature-credit-card",
+    "cardName": "MakeMyTrip Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-22T06:13:16.352Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "5,075 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "5,210 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-amazon-pay-credit-card",
+    "cardName": "Amazon Pay Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:14.880Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "75,837 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "removed",
+        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/content/icicibank/in/en/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
+      },
+      {
+        "type": "removed",
+        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/content/icicibank/in/en/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
+      },
+      {
+        "type": "added",
+        "text": "76,400 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/personal-banking/blogs/card/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
+      },
+      {
+        "type": "added",
+        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/personal-banking/iplay\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-expression-credit-card",
+    "cardName": "Expression Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:14.429Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "context",
+        "text": "SAVE"
+      },
+      {
+        "type": "removed",
+        "text": "2,771 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "2,822 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Custom Design Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-hpcl-coral-credit-card",
+    "cardName": "HPCL Coral Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-coral-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:14.016Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "13,518 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "13,549 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-skywards-rubyx-credit-card",
+    "cardName": "Emirates Skywards Rubyx Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-rubyx-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-22T06:13:13.160Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Know more"
+      },
+      {
+        "type": "context",
+        "text": "SAVE"
+      },
+      {
+        "type": "removed",
+        "text": "6,299 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "6,288 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Best For"
+      },
+      {
+        "type": "context",
+        "text": "Frequent Flyers"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-sapphiro-credit-card",
+    "cardName": "Emirates Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:12.704Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "7,057 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "7,095 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-credit-card",
+    "cardName": "MakeMyTrip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:11.804Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "context",
+        "text": "SAVE"
+      },
+      {
+        "type": "removed",
+        "text": "14,034 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "14,176 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Travel Enthusiasts Seeking Value and Flexibility"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited myCash Rewards that never expire"
+      },
+      {
+        "type": "context",
+        "text": "1-year MMTBLACK Gold membership"
+      },
+      {
+        "type": "removed",
+        "text": "MakeMyTrip ICICI Bank Credit Card Rewards & Offers"
+      },
+      {
+        "type": "added",
+        "text": "MakeMyTrip ICICI Bank Credit Card: Maximum benefits"
+      },
+      {
+        "type": "context",
+        "text": "Save Money"
+      },
+      {
+        "type": "context",
+        "text": "One year"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
+      },
+      {
+        "type": "context",
+        "text": "Blogs"
+      },
+      {
+        "type": "removed",
+        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
+      },
+      {
+        "type": "added",
+        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/personal-banking/iplay\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
+      },
+      {
+        "type": "context",
+        "text": "Videos"
+      },
+      {
+        "type": "context",
+        "text": "goto previous card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-platinum-credit-card",
+    "cardName": "Adani One Platinum Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:11.374Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "13,020 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "13,061 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-signature-credit-card",
+    "cardName": "Adani One Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:10.958Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "11,624 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "11,459 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-platinum-chip-credit-card",
+    "cardName": "Platinum Chip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:10.528Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply"
+      },
+      {
+        "type": "context",
+        "text": "Save"
+      },
+      {
+        "type": "removed",
+        "text": "25,210 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "25,293 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Rewards on Everyday Spends"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-coral-credit-card",
+    "cardName": "Coral Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/coral-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:10.115Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "59,278 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "59,451 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-rubyx-credit-card",
+    "cardName": "Rubyx Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/rubyx-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:09.701Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Play golf every month basis eligible spends,  Click here for list of Golf Courses"
+      },
+      {
+        "type": "removed",
+        "text": "Click here  to update your Nominee details. Click here for T&Cs"
+      },
+      {
+        "type": "removed",
+        "text": "Is the ICICI Bank Rubyx Credit Card free?"
+      },
+      {
+        "type": "removed",
+        "text": "No, the card has a joining fee of ₹3,000 and an annual fee of ₹2,000."
+      },
+      {
+        "type": "removed",
+        "text": "When will I get my Joining Benefits for the Rubyx Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Upon payment of the joining fee, Credit Cardholders will receive welcome vouchers worth over ₹15,000 on their registered e-mail ID within 45 days. There are vouchers worth ₹2,000 from Tata CLiQ, ₹2,000 from EaseMyTrip (2 vouchers of ₹1,000 each for domestic flight bookings), ₹1,000 from Croma (2 vouchers of ₹500 each), ₹3,000 from EaseMyTrip for holiday packages and ₹10,000 from Elivaas. You also get a 3-month EazyDiner Prime Membership worth ₹1,095 and up to 35% discount at Avis for car rentals.To know more about redemption of vouchers, click here"
+      },
+      {
+        "type": "removed",
+        "text": "•  iMobile App:"
+      },
+      {
+        "type": "removed",
+        "text": "•  Net Banking:"
+      },
+      {
+        "type": "removed",
+        "text": "• Tap ADD on any voucher"
+      },
+      {
+        "type": "removed",
+        "text": "• Choose the quantity"
+      },
+      {
+        "type": "removed",
+        "text": "• Tap CLAIM NOW"
+      },
+      {
+        "type": "removed",
+        "text": "• Verify with OTP (Choose SMS or E-Mail)"
+      },
+      {
+        "type": "removed",
+        "text": "• Tick consent and tap Generate OTP"
+      },
+      {
+        "type": "removed",
+        "text": "• Enter the OTP received and tap SUBMIT and full voucher code and PIN will be shared on your register mail ID."
+      },
+      {
+        "type": "removed",
+        "text": "• View claimed vouchers in Order History → Tap voucher → Show Code (OTP required again) → View your voucher code & PIN"
+      },
+      {
+        "type": "removed",
+        "text": "To enjoy domestic lounge access, you must spend ₹75,000 or more on your Rubyx Credit Card in a calendar quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "removed",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your ICICI Bank Rubyx Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "removed",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "removed",
+        "text": "What are the movie ticket benefits available?"
+      },
+      {
+        "type": "removed",
+        "text": "Cardholders are eligible for a 25% off on movie ticket offer worth up to ₹150 on the purchase of a minimum of two tickets. Customers with dual Credit Card variants can avail one offer per month per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed Terms & Conditions, please click here"
+      },
+      {
+        "type": "removed",
+        "text": "As a Rubyx Credit Cardholder, you are eligible for a round or lesson of golf for every ₹50,000 spent on retail purchases in the previous calendar month. You can avail of a maximum of 2 rounds per month. The benefit can be booked through the Golftripz website. Simply visit https://teetimes.truztee.com/ and create a Golftripz account using the same e-mail ID as registered against your ICICI Bank Credit Card. Benefits will be credited to your account by the 10th day of the following month, available for use in the next two months."
+      },
+      {
+        "type": "removed",
+        "text": "Log in to the ICICI Bank Golf platform https://teetimes.truztee.com/ with your registered mobile number."
+      },
+      {
+        "type": "removed",
+        "text": "Upgrade your travel experience with complimentary access to railway with your ICICI Bank Rubyx Credit Card. Get 2 complementary access to select railway lounges in India every quarter. Simply present your ICICI Bank Rubyx Credit Card to enjoy the privileges"
+      },
+      {
+        "type": "removed",
+        "text": "Over and above the permitted number of complimentary access, each subsequent access will be charged as per rates laid out by each lounge service provider."
+      },
+      {
+        "type": "removed",
+        "text": "The access to railway lounges will be applicable only for primary cardholders."
+      },
+      {
+        "type": "added",
+        "text": "Play golf every month basis eligible spends,  Click here  for list of Golf Courses"
+      },
+      {
+        "type": "added",
+        "text": "Click here  to update your Nominee details. Click here  for T&Cs"
+      },
+      {
+        "type": "added",
+        "text": "Is there a joining fee and Annual fee for the Rubyx Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Yes. The Rubyx Credit Card has a joining fee of ₹3,000 + GST and annual fee of ₹2,000 + GST."
+      },
+      {
+        "type": "added",
+        "text": "When will I get my Joining Benefits for the Rubyx Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Upon payment of the joining fee, Credit Cardholders will receive welcome vouchers worth over ₹5,000 on their registered e-mail ID within 45 days. There are vouchers worth ₹2,000 from Tata CLiQ, ₹2,000 from EaseMyTrip (2 vouchers of ₹1,000 each for domestic flight bookings), ₹1,000 from Croma (2 vouchers of ₹500 each), ₹3,000 from EaseMyTrip for holiday packages and ₹10,000 from Elivaas. You also get a 3-month EazyDiner Prime Membership worth ₹1,095 and up to 35% discount at Avis for car rentals."
+      },
+      {
+        "type": "added",
+        "text": "To know more about redemption of vouchers, click here"
+      },
+      {
+        "type": "added",
+        "text": "iMobile App:"
+      },
+      {
+        "type": "added",
+        "text": "Internet Banking:"
+      },
+      {
+        "type": "added",
+        "text": "Tap ADD on any voucher"
+      },
+      {
+        "type": "added",
+        "text": "Choose the quantity"
+      },
+      {
+        "type": "added",
+        "text": "Tap CLAIM NOW"
+      },
+      {
+        "type": "added",
+        "text": "Verify with OTP (Choose SMS or E-Mail)"
+      },
+      {
+        "type": "added",
+        "text": "Tick consent and tap Generate OTP"
+      },
+      {
+        "type": "added",
+        "text": "Enter the OTP received and tap SUBMIT and full voucher code and PIN will be shared on your register mail ID."
+      },
+      {
+        "type": "added",
+        "text": "View claimed vouchers in Order History → Tap voucher → Show Code (OTP required again) → View your voucher code & PIN"
+      },
+      {
+        "type": "added",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Rubyx Credit Card in a preceding spend quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "added",
+        "text": "For the customers with dual Credit Card variants(Mastercard & Amex | Visa & RuPay) , the entitlement includes 2 domestic lounge visits per quarter for each variant."
+      },
+      {
+        "type": "added",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "added",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie tickets with BookMyShow, you must spend ₹25,000 or more on your ICICI Bank Rubyx Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "added",
+        "text": "Plus (Add-on) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "added",
+        "text": "As a Rubyx Credit Cardholder, you are eligible for a round or lesson of golf for every ₹50,000 spent on retail purchases in the previous calendar month. You can avail of a maximum of 2 rounds per month. The benefit can be booked through the Golftripz website. Simply visit https://teetimes.truztee. com / and create a Golftripz account using the same e-mail ID as registered against your ICICI Bank Credit Card. Benefits will be credited to your account by the 10th day of the following month, available for use in the next two months."
+      },
+      {
+        "type": "added",
+        "text": "Log in to the ICICI Bank Golf platform https://teetimes. truztee .com/ with your registered mobile number."
+      },
+      {
+        "type": "added",
+        "text": "Enjoy complimentary access to railway lounge with your ICICI Bank Rubyx Credit Card. Get 2 complimentary access to the selected railway lounges in India every quarter. Simply present your ICICI Bank Rubyx Credit Card to enjoy the lounge benefits"
+      },
+      {
+        "type": "added",
+        "text": "Any additional access beyond the complimentary benefit will be charged as per the rates decided by the service provider The access to railway lounges will be applicable only for primary cardholders."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-sapphiro-credit-card",
+    "cardName": "Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:09.287Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Best For"
+      },
+      {
+        "type": "removed",
+        "text": "Maximum Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Blogs & Videos"
+      },
+      {
+        "type": "removed",
+        "text": "158,523 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "removed",
+        "text": "What is included in the joining benefit vouchers?"
+      },
+      {
+        "type": "removed",
+        "text": "To know more about redemption of vouchers, click here"
+      },
+      {
+        "type": "removed",
+        "text": "For other terms and conditions,  click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Is an ICICI Bank Sapphiro Credit Card free?"
+      },
+      {
+        "type": "removed",
+        "text": "No, the Card has a joining fee of ₹6,500 and an annual fee of ₹3,500."
+      },
+      {
+        "type": "removed",
+        "text": "Upon payment of the joining fee, Cardholders will receive welcome vouchers worth over ₹13,000 within 45 days. There are vouchers worth ₹3,000 from Tata CliQ, ₹4,000 from EaseMyTrip (4 vouchers of ₹1,000 each),₹1,095 EazyDiner Prime Membership(3 months subscription), ₹5,000 Da Milano and ₹1,500 from Croma(3 vouchers of ₹500 each). Detailed redemption steps and terms can be accessed through the official Credit Card website."
+      },
+      {
+        "type": "removed",
+        "text": "How can Cardholders claim their joining vouchers?"
+      },
+      {
+        "type": "removed",
+        "text": "To claim the joining vouchers, cardholders can follow the steps outlined in the card’s terms and conditions."
+      },
+      {
+        "type": "removed",
+        "text": "Click here  to know more about the steps to claim vouchers."
+      },
+      {
+        "type": "removed",
+        "text": "For an ICICI Bank Sapphiro Credit Card customer who has applied for the card before 15 November 2024."
+      },
+      {
+        "type": "removed",
+        "text": "DreamFolks Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Access 650+ lounges in 100+ countries"
+      },
+      {
+        "type": "removed",
+        "text": "Present your DreamFolks Membership Card at the participating international lounges"
+      },
+      {
+        "type": "removed",
+        "text": "Click here for the complete list of international airport lounges"
+      },
+      {
+        "type": "removed",
+        "text": "You can find your ICICI Bank Sapphiro Credit Card’s Due Date on your monthly statement, on the ICICI Bank's iMobile app, through Net Banking or by calling our Customer Care on"
+      },
+      {
+        "type": "removed",
+        "text": "1800 1080."
+      },
+      {
+        "type": "removed",
+        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
+      },
+      {
+        "type": "removed",
+        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
+      },
+      {
+        "type": "removed",
+        "text": "Spends period offer - eligibility period"
+      },
+      {
+        "type": "removed",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "removed",
+        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
+      },
+      {
+        "type": "removed",
+        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "removed",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "removed",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "removed",
+        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
+      },
+      {
+        "type": "removed",
+        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
+      },
+      {
+        "type": "removed",
+        "text": "Navigate to ‘Apply Offers’ section"
+      },
+      {
+        "type": "removed",
+        "text": "Click on the tab - Credit/ Debit/ Net Banking"
+      },
+      {
+        "type": "removed",
+        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Enter the Card Number and click ‘Apply Offer’"
+      },
+      {
+        "type": "removed",
+        "text": "Once the success message shows up, the offer will be applied on the billing page."
+      },
+      {
+        "type": "removed",
+        "text": "Cardholders can avail of a 1% fuel surcharge waiver on all fuel transactions of up to ₹4,000 at any fuel outlet in India. This benefit applies to both the primary Cardholder and the Plus (supplementary) cardholder, helping them save on regular fuel expenses. The waiver is automatically applied when the eligible transaction is completed using the Credit Card."
+      },
+      {
+        "type": "removed",
+        "text": "Why is my new ICICI Bank Sapphiro Credit Card not working for lounge access yet?"
+      },
+      {
+        "type": "removed",
+        "text": "Why is my new ICICI Bank Sapphiro Credit Card not working for lounge access yet?"
+      },
+      {
+        "type": "removed",
+        "text": "For domestic airport lounge access, you must spend ₹75,000 or more on your ICICI Bank Sapphiro Credit Card in a calendar quarter to become eligible. The card also offers 2 complimentary international airport lounge accesses, subject to applicable terms and conditions."
+      },
+      {
+        "type": "removed",
+        "text": "For domestic airport lounge access, you must spend ₹75,000 or more on your ICICI Bank Sapphiro Credit Card in a calendar quarter to become eligible. The card also offers 2 complimentary international airport lounge accesses, subject to applicable terms and conditions."
+      },
+      {
+        "type": "removed",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "added",
+        "text": "FAQs"
+      },
+      {
+        "type": "added",
+        "text": "Best for"
+      },
+      {
+        "type": "added",
+        "text": "Maximum benefits"
+      },
+      {
+        "type": "added",
+        "text": "Fees and charges"
+      },
+      {
+        "type": "added",
+        "text": "162,273 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "Is there a joining fee and Annual fee for the Sapphiro Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Yes. The Sapphiro Credit Card has a joining fee of ₹6,500 + GST and annual fee of ₹3,500 + GST."
+      },
+      {
+        "type": "added",
+        "text": "Plus (Add-On) Card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "added",
+        "text": "Cardholders can avail of a 1% fuel surcharge waiver on all fuel transactions of up to ₹4,000 at any fuel outlet in India. This benefit applies to both the primary Cardholder and the Plus (Add-On) cardholder, helping them save on regular fuel expenses. The waiver is automatically applied when the eligible transaction is completed using the Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "You can find your ICICI Bank Sapphiro Credit Card’s Due Date on your monthly statement, on the ICICI Bank's iMobile app, through Net Banking or by calling our Customer Care on 1800 1080."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-credit-card",
+    "cardName": "Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:08.812Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "33,326 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "removed",
+        "text": "Cardholders are protected against fraudulent transactions with Counterfeit Card Liability, ensuring coverage against unauthorised usage. Additionally, the Card provides an Account Takeover Cover, which safeguards you in case your personal information is accessed or misused by a third party without your consent."
+      },
+      {
+        "type": "added",
+        "text": "33,726 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "What birthday benefits are offered with the Emeralde Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Eligible Emeralde Credit Card customers can receive a ₹5000 birthday benefits voucher on eligible American Express variant cards, subject to the applicable terms and conditions."
+      },
+      {
+        "type": "added",
+        "text": "To know more about redemption of vouchers, click here"
+      },
+      {
+        "type": "added",
+        "text": "For other terms and conditions,  click here ."
+      },
+      {
+        "type": "added",
+        "text": "Cardholders are protected against fraudulent transactions with Counterfeit Card Liability, ensuring coverage against unauthorised usage. Additionally, the Card provides an"
+      },
+      {
+        "type": "added",
+        "text": "Account Takeover Cover, which safeguards you in case your personal information is accessed or misused by a third party without your consent."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-private-metal-credit-card",
+    "cardName": "Emeralde Private Metal Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:13:07.955Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "33,544 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "33,890 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-auto-insurance-card",
+    "cardName": "Auto Insurance Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/auto-insurance-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-22T06:12:50.993Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "DigiPassBook"
+      },
+      {
+        "type": "removed",
+        "text": "FASTag"
+      },
+      {
+        "type": "removed",
+        "text": "FASTag"
+      },
+      {
+        "type": "added",
+        "text": "Fastag"
+      },
+      {
+        "type": "added",
+        "text": "Fastag"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-business-platinum-credit-card-emv",
+    "cardName": "Business Platinum Credit Card (EMV)",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/business-platinum-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-22T06:12:38.156Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp"
+      },
+      {
+        "type": "added",
+        "text": "MyCards"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Management & Controls"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Management & Controls"
+      },
+      {
+        "type": "added",
+        "text": "Netbanking"
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card through NetBanking, follow these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Log in to HDFC Bank NetBanking using your Customer ID."
+      },
+      {
+        "type": "added",
+        "text": "2. Go to the Cards Tab >Select the card > Click Manage card>Manage Domestic and International Limits."
+      },
+      {
+        "type": "added",
+        "text": "3. You will be able to view your existing daily domestic and international usage limits."
+      },
+      {
+        "type": "added",
+        "text": "4. Enable or disable Online, Contactless, and International usage based on your preference."
+      },
+      {
+        "type": "added",
+        "text": "5. Click ‘Update’, enter the OTP received on your registered mobile number, and then click ‘Continue’."
+      },
+      {
+        "type": "added",
+        "text": "6. Your selected card controls will be updated instantly."
+      },
+      {
+        "type": "added",
+        "text": "Mobile Banking"
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card conveniently through our HDFC Bank MobileBanking App, follow these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Open the HDFC Bank MobileBanking App and log in using your credentials."
+      },
+      {
+        "type": "added",
+        "text": "2. Go to the ‘Cards’ section from the menu."
+      },
+      {
+        "type": "added",
+        "text": "3. Select the HDFC Bank Credit Card for which you want to enable card controls."
+      },
+      {
+        "type": "added",
+        "text": "4. Click ‘Manage Limits’, then enable/disable transaction types such as Online Transactions, Contactless Payments, and International Usage, or set transaction limits according to your preference."
+      },
+      {
+        "type": "added",
+        "text": "5. Click ‘Update’ to confirm your changes and enter your MPIN. The updated card control settings will be applied instantly."
+      },
+      {
+        "type": "added",
+        "text": "For more detailed management, you can also use our MyCards platform at https://mycards.hdfc.bank.in/ which offers a seamless experience without the need for passwords or downloads."
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card via MyCards, follow these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Visit the MyCards portal- https://mycards.hdfc.bank.in/ on your desktop or mobile."
+      },
+      {
+        "type": "added",
+        "text": "2. Log in using your registered mobile number and the OTP received."
+      },
+      {
+        "type": "added",
+        "text": "3. For first-time users, enter the last four digits of your card."
+      },
+      {
+        "type": "added",
+        "text": "4. On the card homepage, click the ‘Card Control’ tab."
+      },
+      {
+        "type": "added",
+        "text": "5. Enable/disable features such as Online Transactions, Contactless Transactions, International Usage, and set usage limits as per your preference."
+      },
+      {
+        "type": "added",
+        "text": "6. Confirm your settings, and the changes will be applied instantly."
+      },
+      {
+        "type": "added",
+        "text": "You can conveniently enable card controls for your HDFC Bank Credit Card through PayZapp by following these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Open the PayZapp app and log in using your credentials."
+      },
+      {
+        "type": "added",
+        "text": "2. On the homepage, tap the ‘MyCards’ tab> Select ‘Go to MyCards’."
+      },
+      {
+        "type": "added",
+        "text": "3. Log in using your registered mobile number and the OTP sent to your mobile."
+      },
+      {
+        "type": "added",
+        "text": "4. If you are a first-time user, enter the last four digits of your HDFC Bank Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "5. On the card homepage, tap the ‘Card Control’ tab."
+      },
+      {
+        "type": "added",
+        "text": "6. Enable or disable features such as Online Transactions, Contactless Transactions, and International Usage, or set usage limits according to your preference."
+      },
+      {
+        "type": "added",
+        "text": "7. Confirm your settings. The updated card control settings will be applied instantly."
+      },
+      {
+        "type": "added",
+        "text": "WhatsApp Banking"
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card using WhatsApp Banking, follow the steps given below:"
+      },
+      {
+        "type": "added",
+        "text": "1. Add HDFC Bank’s official WhatsApp number – 7070022222 – to your contacts."
+      },
+      {
+        "type": "added",
+        "text": "2. Send the text \"Credit Card\" to this number."
+      },
+      {
+        "type": "added",
+        "text": "3. You will receive a reply with options. Choose the option “Manage My Card”"
+      },
+      {
+        "type": "added",
+        "text": "4. You will receive a reply with options to select “Domestic / International/ Enhance limits”"
+      },
+      {
+        "type": "added",
+        "text": "5. Choose the option you want to enable, such as Domestic Online Transactions, Contactless Transactions, or International Transactions."
+      },
+      {
+        "type": "added",
+        "text": "6. Enter the transaction limit you want to set. An OTP will be sent to your registered mobile number. Enter the OTP to confirm the change."
+      },
+      {
+        "type": "added",
+        "text": "7. Enter the last 4 digits of your Credit Card number."
+      },
+      {
+        "type": "added",
+        "text": "8. The current status of the selected transaction type will be shown as Enabled."
+      },
+      {
+        "type": "added",
+        "text": "IVR"
+      },
+      {
+        "type": "added",
+        "text": "To enable or modify your HDFC Bank Credit Card controls and transaction limits, you can contact HDFC Bank's toll-free numbers:"
+      },
+      {
+        "type": "added",
+        "text": "Toll-free numbers : 1800 1600 or 1800 2600 (available from 8 am to 8 pm)"
+      },
+      {
+        "type": "added",
+        "text": "For overseas travel assistance : 022-61606160"
+      },
+      {
+        "type": "added",
+        "text": "By contacting our toll-free numbers, you can enable/modify limits for Domestic, International, Online, Contactless, ATM, and POS transactions on your Debit or Credit Card."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-sap-concur-black-corporate-credit-card",
+    "cardName": "SAP Concur Black Corporate Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/hdfc-bank-sap-concur-black-corporate-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:12:33.143Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Equal Opportunity Policy"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-pixel-play-credit-card",
+    "cardName": "Pixel Play Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-play-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:12:14.668Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "added",
+        "text": "PIXEL Play Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-superia-credit-card",
+    "cardName": "Superia Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/superia-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-22T06:12:03.087Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Popular 5"
+      },
+      {
+        "type": "removed",
+        "text": "Premium 5"
+      },
+      {
+        "type": "removed",
+        "text": "Senior Citizen 2"
+      },
+      {
+        "type": "removed",
+        "text": "Women 2"
+      },
+      {
+        "type": "removed",
+        "text": "Kids 3"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "RFC Saving Account"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - GBP"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - USD"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - EURO"
+      },
+      {
+        "type": "removed",
+        "text": "Wealth"
+      },
+      {
+        "type": "removed",
+        "text": "Vishesh Premier Banking"
+      },
+      {
+        "type": "removed",
+        "text": "Prime Premier Banking"
+      },
+      {
+        "type": "removed",
+        "text": "FCNR - MAX"
+      },
+      {
+        "type": "removed",
+        "text": "NRI -Mutual Funds"
+      },
+      {
+        "type": "removed",
+        "text": "NRI -Mutual Funds"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Against Fixed Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      },
+      {
+        "type": "removed",
+        "text": "Card Management and Controls"
+      },
+      {
+        "type": "removed",
+        "text": "Card Management and Controls"
+      },
+      {
+        "type": "removed",
+        "text": "Single Interface"
+      },
+      {
+        "type": "removed",
+        "text": "One unified platform for Credit Cards, Debit Cards, Fastag and Consumer Durable Loans"
+      },
+      {
+        "type": "removed",
+        "text": "Spends tracking"
+      },
+      {
+        "type": "removed",
+        "text": "Simple interface to track all your spends"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "View and redeem points at the push of a button"
+      },
+      {
+        "type": "added",
+        "text": "Popular 7"
+      },
+      {
+        "type": "added",
+        "text": "Premium 7"
+      },
+      {
+        "type": "added",
+        "text": "Senior Citizen 3"
+      },
+      {
+        "type": "added",
+        "text": "Women 3"
+      },
+      {
+        "type": "added",
+        "text": "Kids 5"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Senior Citizen Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Senior Citizen Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Senior Citizen Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Senior Citizen Account"
+      },
+      {
+        "type": "added",
+        "text": "Banking comfort for every golden moment"
+      },
+      {
+        "type": "added",
+        "text": "Banking comfort for every golden moment"
+      },
+      {
+        "type": "added",
+        "text": "Banking comfort for every golden moment"
+      },
+      {
+        "type": "added",
+        "text": "Banking comfort for every golden moment"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Women's Savings Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Women's Savings Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Women's Savings Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Women's Savings Account"
+      },
+      {
+        "type": "added",
+        "text": "Premium banking benefits designed for women"
+      },
+      {
+        "type": "added",
+        "text": "Premium banking benefits designed for women"
+      },
+      {
+        "type": "added",
+        "text": "Premium banking benefits designed for women"
+      },
+      {
+        "type": "added",
+        "text": "Premium banking benefits designed for women"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "My Passion Fund"
+      },
+      {
+        "type": "added",
+        "text": "Travel Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Travel Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bonds & Securities"
+      },
+      {
+        "type": "added",
+        "text": "Bonds & Securities"
+      },
+      {
+        "type": "added",
+        "text": "IPO Application Through ASBA"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Funds"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Funds"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Fund Terms and Conditions"
+      },
+      {
+        "type": "added",
+        "text": "ISA Mutual Funds Online"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Fund Knowledge Center"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Funds offered through HDFC BANK"
+      },
+      {
+        "type": "added",
+        "text": "NPS Vatsalya Calculator"
+      },
+      {
+        "type": "added",
+        "text": "NPS Vatsalya Calculator"
+      },
+      {
+        "type": "added",
+        "text": "NPS Calculator"
+      },
+      {
+        "type": "added",
+        "text": "NPS Calculator"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp"
+      },
+      {
+        "type": "added",
+        "text": "RFC - USD Savings account"
+      },
+      {
+        "type": "added",
+        "text": "RFC - EURO Savings account"
+      },
+      {
+        "type": "added",
+        "text": "RFC - GBP Savings account"
+      },
+      {
+        "type": "added",
+        "text": "Imperia Global"
+      },
+      {
+        "type": "added",
+        "text": "FCY - MAX"
+      },
+      {
+        "type": "added",
+        "text": "Rupee Recurring Deposit"
+      },
+      {
+        "type": "added",
+        "text": "Rupee Recurring Deposit"
+      },
+      {
+        "type": "added",
+        "text": "NRE Recurring Deposit"
+      },
+      {
+        "type": "added",
+        "text": "NRO Recurring Deposit"
+      },
+      {
+        "type": "added",
+        "text": "Portfolio Investment Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Portfolio Investment Scheme"
+      },
+      {
+        "type": "added",
+        "text": "NRI SmartInvest - HDFC Securities"
+      },
+      {
+        "type": "added",
+        "text": "NRI SmartInvest - Other Brokers"
+      },
+      {
+        "type": "added",
+        "text": "Frequently Asked Questions (FAQ)"
+      },
+      {
+        "type": "added",
+        "text": "NRI Demat account"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Fund Commission"
+      },
+      {
+        "type": "added",
+        "text": "NRI Mutual Funds"
+      },
+      {
+        "type": "added",
+        "text": "View Recommended Mutual Funds"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Fund KYC"
+      },
+      {
+        "type": "added",
+        "text": "Systematic Investment Plan (SIP)"
+      },
+      {
+        "type": "added",
+        "text": "Initial Public Offering (IPO)"
+      },
+      {
+        "type": "added",
+        "text": "Initial Public Offering (IPO)"
+      },
+      {
+        "type": "added",
+        "text": "Sec-54 EC Capital Bonds"
+      },
+      {
+        "type": "added",
+        "text": "Overdraft against NR fixed deposits"
+      },
+      {
+        "type": "added",
+        "text": "Student Travel Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Export & Import Products"
+      },
+      {
+        "type": "added",
+        "text": "Export & Import Products"
+      },
+      {
+        "type": "added",
+        "text": "MyCards"
+      },
+      {
+        "type": "added",
+        "text": "RBI's New FCNR(B) Deposit Rules 2026: What NRIs Need to Know"
+      },
+      {
+        "type": "added",
+        "text": "RBI's New FCNR(B) Deposit Rules 2026: What NRIs Need to Know"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Management & Controls"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Management & Controls"
+      },
+      {
+        "type": "added",
+        "text": "Netbanking"
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card through NetBanking, follow these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Log in to HDFC Bank NetBanking using your Customer ID."
+      },
+      {
+        "type": "added",
+        "text": "2. Go to the Cards Tab >Select the card > Click Manage card>Manage Domestic and International Limits."
+      },
+      {
+        "type": "added",
+        "text": "3. You will be able to view your existing daily domestic and international usage limits."
+      },
+      {
+        "type": "added",
+        "text": "4. Enable or disable Online, Contactless, and International usage based on your preference."
+      },
+      {
+        "type": "added",
+        "text": "5. Click ‘Update’, enter the OTP received on your registered mobile number, and then click ‘Continue’."
+      },
+      {
+        "type": "added",
+        "text": "6. Your selected card controls will be updated instantly."
+      },
+      {
+        "type": "added",
+        "text": "Mobile Banking"
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card conveniently through our HDFC Bank MobileBanking App, follow these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Open the HDFC Bank MobileBanking App and log in using your credentials."
+      },
+      {
+        "type": "added",
+        "text": "2. Go to the ‘Cards’ section from the menu."
+      },
+      {
+        "type": "added",
+        "text": "3. Select the HDFC Bank Credit Card for which you want to enable card controls."
+      },
+      {
+        "type": "added",
+        "text": "4. Click ‘Manage Limits’, then enable/disable transaction types such as Online Transactions, Contactless Payments, and International Usage, or set transaction limits according to your preference."
+      },
+      {
+        "type": "added",
+        "text": "5. Click ‘Update’ to confirm your changes and enter your MPIN. The updated card control settings will be applied instantly."
+      },
+      {
+        "type": "added",
+        "text": "For more detailed management, you can also use our MyCards platform at https://mycards.hdfc.bank.in/ which offers a seamless experience without the need for passwords or downloads."
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card via MyCards, follow these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Visit the MyCards portal- https://mycards.hdfc.bank.in/ on your desktop or mobile."
+      },
+      {
+        "type": "added",
+        "text": "2. Log in using your registered mobile number and the OTP received."
+      },
+      {
+        "type": "added",
+        "text": "3. For first-time users, enter the last four digits of your card."
+      },
+      {
+        "type": "added",
+        "text": "4. On the card homepage, click the ‘Card Control’ tab."
+      },
+      {
+        "type": "added",
+        "text": "5. Enable/disable features such as Online Transactions, Contactless Transactions, International Usage, and set usage limits as per your preference."
+      },
+      {
+        "type": "added",
+        "text": "6. Confirm your settings, and the changes will be applied instantly."
+      },
+      {
+        "type": "added",
+        "text": "You can conveniently enable card controls for your HDFC Bank Credit Card through PayZapp by following these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Open the PayZapp app and log in using your credentials."
+      },
+      {
+        "type": "added",
+        "text": "2. On the homepage, tap the ‘MyCards’ tab> Select ‘Go to MyCards’."
+      },
+      {
+        "type": "added",
+        "text": "3. Log in using your registered mobile number and the OTP sent to your mobile."
+      },
+      {
+        "type": "added",
+        "text": "4. If you are a first-time user, enter the last four digits of your HDFC Bank Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "5. On the card homepage, tap the ‘Card Control’ tab."
+      },
+      {
+        "type": "added",
+        "text": "6. Enable or disable features such as Online Transactions, Contactless Transactions, and International Usage, or set usage limits according to your preference."
+      },
+      {
+        "type": "added",
+        "text": "7. Confirm your settings. The updated card control settings will be applied instantly."
+      },
+      {
+        "type": "added",
+        "text": "WhatsApp Banking"
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card using WhatsApp Banking, follow the steps given below:"
+      },
+      {
+        "type": "added",
+        "text": "1. Add HDFC Bank’s official WhatsApp number – 7070022222 – to your contacts."
+      },
+      {
+        "type": "added",
+        "text": "2. Send the text \"Credit Card\" to this number."
+      },
+      {
+        "type": "added",
+        "text": "3. You will receive a reply with options. Choose the option “Manage My Card”"
+      },
+      {
+        "type": "added",
+        "text": "4. You will receive a reply with options to select “Domestic / International/ Enhance limits”"
+      },
+      {
+        "type": "added",
+        "text": "5. Choose the option you want to enable, such as Domestic Online Transactions, Contactless Transactions, or International Transactions."
+      },
+      {
+        "type": "added",
+        "text": "6. Enter the transaction limit you want to set. An OTP will be sent to your registered mobile number. Enter the OTP to confirm the change."
+      },
+      {
+        "type": "added",
+        "text": "7. Enter the last 4 digits of your Credit Card number."
+      },
+      {
+        "type": "added",
+        "text": "8. The current status of the selected transaction type will be shown as Enabled."
+      },
+      {
+        "type": "added",
+        "text": "IVR"
+      },
+      {
+        "type": "added",
+        "text": "To enable or modify your HDFC Bank Credit Card controls and transaction limits, you can contact HDFC Bank's toll-free numbers:"
+      },
+      {
+        "type": "added",
+        "text": "Toll-free numbers : 1800 1600 or 1800 2600 (available from 8 am to 8 pm)"
+      },
+      {
+        "type": "added",
+        "text": "For overseas travel assistance : 022-61606160"
+      },
+      {
+        "type": "added",
+        "text": "By contacting our toll-free numbers, you can enable/modify limits for Domestic, International, Online, Contactless, ATM, and POS transactions on your Debit or Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Referral Program"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-paytm-hdfc-bank-digital-credit-card",
+    "cardName": "Paytm HDFC Bank Digital Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/paytm-digital-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:11:40.424Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Popular 5"
+      },
+      {
+        "type": "removed",
+        "text": "Premium 5"
+      },
+      {
+        "type": "removed",
+        "text": "Senior Citizen 2"
+      },
+      {
+        "type": "removed",
+        "text": "Women 2"
+      },
+      {
+        "type": "removed",
+        "text": "Kids 3"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "RFC Saving Account"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - GBP"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - USD"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - EURO"
+      },
+      {
+        "type": "removed",
+        "text": "Wealth"
+      },
+      {
+        "type": "removed",
+        "text": "Vishesh Premier Banking"
+      },
+      {
+        "type": "removed",
+        "text": "Prime Premier Banking"
+      },
+      {
+        "type": "removed",
+        "text": "FCNR - MAX"
+      },
+      {
+        "type": "removed",
+        "text": "NRI -Mutual Funds"
+      },
+      {
+        "type": "removed",
+        "text": "NRI -Mutual Funds"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Against Fixed Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      },
+      {
+        "type": "removed",
+        "text": "Card Management & Controls"
+      },
+      {
+        "type": "removed",
+        "text": "Card Management & Controls"
+      },
+      {
+        "type": "removed",
+        "text": "Single Interface"
+      },
+      {
+        "type": "removed",
+        "text": "One unified platform for Credit Cards, Debit Cards, FASTag and Consumer Durable Loans"
+      },
+      {
+        "type": "removed",
+        "text": "Spends tracking"
+      },
+      {
+        "type": "removed",
+        "text": "Simple interface to track all your spends"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "View and redeem points at the push of a button"
+      },
+      {
+        "type": "added",
+        "text": "Popular 7"
+      },
+      {
+        "type": "added",
+        "text": "Premium 7"
+      },
+      {
+        "type": "added",
+        "text": "Senior Citizen 3"
+      },
+      {
+        "type": "added",
+        "text": "Women 3"
+      },
+      {
+        "type": "added",
+        "text": "Kids 5"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Senior Citizen Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Senior Citizen Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Senior Citizen Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Senior Citizen Account"
+      },
+      {
+        "type": "added",
+        "text": "Banking comfort for every golden moment"
+      },
+      {
+        "type": "added",
+        "text": "Banking comfort for every golden moment"
+      },
+      {
+        "type": "added",
+        "text": "Banking comfort for every golden moment"
+      },
+      {
+        "type": "added",
+        "text": "Banking comfort for every golden moment"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Women's Savings Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Women's Savings Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Women's Savings Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings Max Women's Savings Account"
+      },
+      {
+        "type": "added",
+        "text": "Premium banking benefits designed for women"
+      },
+      {
+        "type": "added",
+        "text": "Premium banking benefits designed for women"
+      },
+      {
+        "type": "added",
+        "text": "Premium banking benefits designed for women"
+      },
+      {
+        "type": "added",
+        "text": "Premium banking benefits designed for women"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "View All"
+      },
+      {
+        "type": "added",
+        "text": "My Passion Fund"
+      },
+      {
+        "type": "added",
+        "text": "Travel Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Travel Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bonds & Securities"
+      },
+      {
+        "type": "added",
+        "text": "Bonds & Securities"
+      },
+      {
+        "type": "added",
+        "text": "IPO Application Through ASBA"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Funds"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Funds"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Fund Terms and Conditions"
+      },
+      {
+        "type": "added",
+        "text": "ISA Mutual Funds Online"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Fund Knowledge Center"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Funds offered through HDFC BANK"
+      },
+      {
+        "type": "added",
+        "text": "NPS Vatsalya Calculator"
+      },
+      {
+        "type": "added",
+        "text": "NPS Vatsalya Calculator"
+      },
+      {
+        "type": "added",
+        "text": "NPS Calculator"
+      },
+      {
+        "type": "added",
+        "text": "NPS Calculator"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp"
+      },
+      {
+        "type": "added",
+        "text": "RFC - USD Savings account"
+      },
+      {
+        "type": "added",
+        "text": "RFC - EURO Savings account"
+      },
+      {
+        "type": "added",
+        "text": "RFC - GBP Savings account"
+      },
+      {
+        "type": "added",
+        "text": "Imperia Global"
+      },
+      {
+        "type": "added",
+        "text": "FCY - MAX"
+      },
+      {
+        "type": "added",
+        "text": "Rupee Recurring Deposit"
+      },
+      {
+        "type": "added",
+        "text": "Rupee Recurring Deposit"
+      },
+      {
+        "type": "added",
+        "text": "NRE Recurring Deposit"
+      },
+      {
+        "type": "added",
+        "text": "NRO Recurring Deposit"
+      },
+      {
+        "type": "added",
+        "text": "Portfolio Investment Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Portfolio Investment Scheme"
+      },
+      {
+        "type": "added",
+        "text": "NRI SmartInvest - HDFC Securities"
+      },
+      {
+        "type": "added",
+        "text": "NRI SmartInvest - Other Brokers"
+      },
+      {
+        "type": "added",
+        "text": "Frequently Asked Questions (FAQ)"
+      },
+      {
+        "type": "added",
+        "text": "NRI Demat account"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Fund Commission"
+      },
+      {
+        "type": "added",
+        "text": "NRI Mutual Funds"
+      },
+      {
+        "type": "added",
+        "text": "View Recommended Mutual Funds"
+      },
+      {
+        "type": "added",
+        "text": "Mutual Fund KYC"
+      },
+      {
+        "type": "added",
+        "text": "Systematic Investment Plan (SIP)"
+      },
+      {
+        "type": "added",
+        "text": "Initial Public Offering (IPO)"
+      },
+      {
+        "type": "added",
+        "text": "Initial Public Offering (IPO)"
+      },
+      {
+        "type": "added",
+        "text": "Sec-54 EC Capital Bonds"
+      },
+      {
+        "type": "added",
+        "text": "Overdraft against NR fixed deposits"
+      },
+      {
+        "type": "added",
+        "text": "Student Travel Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Export & Import Products"
+      },
+      {
+        "type": "added",
+        "text": "Export & Import Products"
+      },
+      {
+        "type": "added",
+        "text": "MyCards"
+      },
+      {
+        "type": "added",
+        "text": "RBI's New FCNR(B) Deposit Rules 2026: What NRIs Need to Know"
+      },
+      {
+        "type": "added",
+        "text": "RBI's New FCNR(B) Deposit Rules 2026: What NRIs Need to Know"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      },
+      {
+        "type": "added",
+        "text": "Read Now"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Management & Controls"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Management & Controls"
+      },
+      {
+        "type": "added",
+        "text": "Netbanking"
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card through NetBanking, follow these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Log in to HDFC Bank NetBanking using your Customer ID."
+      },
+      {
+        "type": "added",
+        "text": "2. Go to the Cards Tab >Select the card > Click Manage card>Manage Domestic and International Limits."
+      },
+      {
+        "type": "added",
+        "text": "3. You will be able to view your existing daily domestic and international usage limits."
+      },
+      {
+        "type": "added",
+        "text": "4. Enable or disable Online, Contactless, and International usage based on your preference."
+      },
+      {
+        "type": "added",
+        "text": "5. Click ‘Update’, enter the OTP received on your registered mobile number, and then click ‘Continue’."
+      },
+      {
+        "type": "added",
+        "text": "6. Your selected card controls will be updated instantly."
+      },
+      {
+        "type": "added",
+        "text": "Mobile Banking"
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card conveniently through our HDFC Bank MobileBanking App, follow these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Open the HDFC Bank MobileBanking App and log in using your credentials."
+      },
+      {
+        "type": "added",
+        "text": "2. Go to the ‘Cards’ section from the menu."
+      },
+      {
+        "type": "added",
+        "text": "3. Select the HDFC Bank Credit Card for which you want to enable card controls."
+      },
+      {
+        "type": "added",
+        "text": "4. Click ‘Manage Limits’, then enable/disable transaction types such as Online Transactions, Contactless Payments, and International Usage, or set transaction limits according to your preference."
+      },
+      {
+        "type": "added",
+        "text": "5. Click ‘Update’ to confirm your changes and enter your MPIN. The updated card control settings will be applied instantly."
+      },
+      {
+        "type": "added",
+        "text": "For more detailed management, you can also use our MyCards platform at https://mycards.hdfc.bank.in/ which offers a seamless experience without the need for passwords or downloads."
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card via MyCards, follow these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Visit the MyCards portal- https://mycards.hdfc.bank.in/ on your desktop or mobile."
+      },
+      {
+        "type": "added",
+        "text": "2. Log in using your registered mobile number and the OTP received."
+      },
+      {
+        "type": "added",
+        "text": "3. For first-time users, enter the last four digits of your card."
+      },
+      {
+        "type": "added",
+        "text": "4. On the card homepage, click the ‘Card Control’ tab."
+      },
+      {
+        "type": "added",
+        "text": "5. Enable/disable features such as Online Transactions, Contactless Transactions, International Usage, and set usage limits as per your preference."
+      },
+      {
+        "type": "added",
+        "text": "6. Confirm your settings, and the changes will be applied instantly."
+      },
+      {
+        "type": "added",
+        "text": "You can conveniently enable card controls for your HDFC Bank Credit Card through PayZapp by following these steps:"
+      },
+      {
+        "type": "added",
+        "text": "1. Open the PayZapp app and log in using your credentials."
+      },
+      {
+        "type": "added",
+        "text": "2. On the homepage, tap the ‘MyCards’ tab> Select ‘Go to MyCards’."
+      },
+      {
+        "type": "added",
+        "text": "3. Log in using your registered mobile number and the OTP sent to your mobile."
+      },
+      {
+        "type": "added",
+        "text": "4. If you are a first-time user, enter the last four digits of your HDFC Bank Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "5. On the card homepage, tap the ‘Card Control’ tab."
+      },
+      {
+        "type": "added",
+        "text": "6. Enable or disable features such as Online Transactions, Contactless Transactions, and International Usage, or set usage limits according to your preference."
+      },
+      {
+        "type": "added",
+        "text": "7. Confirm your settings. The updated card control settings will be applied instantly."
+      },
+      {
+        "type": "added",
+        "text": "WhatsApp Banking"
+      },
+      {
+        "type": "added",
+        "text": "To enable card controls for your HDFC Bank Credit Card using WhatsApp Banking, follow the steps given below:"
+      },
+      {
+        "type": "added",
+        "text": "1. Add HDFC Bank’s official WhatsApp number – 7070022222 – to your contacts."
+      },
+      {
+        "type": "added",
+        "text": "2. Send the text \"Credit Card\" to this number."
+      },
+      {
+        "type": "added",
+        "text": "3. You will receive a reply with options. Choose the option “Manage My Card”"
+      },
+      {
+        "type": "added",
+        "text": "4. You will receive a reply with options to select “Domestic / International/ Enhance limits”"
+      },
+      {
+        "type": "added",
+        "text": "5. Choose the option you want to enable, such as Domestic Online Transactions, Contactless Transactions, or International Transactions."
+      },
+      {
+        "type": "added",
+        "text": "6. Enter the transaction limit you want to set. An OTP will be sent to your registered mobile number. Enter the OTP to confirm the change."
+      },
+      {
+        "type": "added",
+        "text": "7. Enter the last 4 digits of your Credit Card number."
+      },
+      {
+        "type": "added",
+        "text": "8. The current status of the selected transaction type will be shown as Enabled."
+      },
+      {
+        "type": "added",
+        "text": "IVR"
+      },
+      {
+        "type": "added",
+        "text": "To enable or modify your HDFC Bank Credit Card controls and transaction limits, you can contact HDFC Bank's toll-free numbers:"
+      },
+      {
+        "type": "added",
+        "text": "Toll-free numbers : 1800 1600 or 1800 2600 (available from 8 am to 8 pm)"
+      },
+      {
+        "type": "added",
+        "text": "For overseas travel assistance : 022-61606160"
+      },
+      {
+        "type": "added",
+        "text": "By contacting our toll-free numbers, you can enable/modify limits for Domestic, International, Online, Contactless, ATM, and POS transactions on your Debit or Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Referral Program"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-freedom-credit-card",
+    "cardName": "Freedom Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/freedom-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:11:09.457Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      },
+      {
+        "type": "removed",
+        "text": "2 Reward Points for every ₹200 spent on other spends"
+      },
+      {
+        "type": "added",
+        "text": "1 Reward Points for every ₹200 spent on other spends"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-millennia-credit-card",
+    "cardName": "Millennia Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/millennia-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:10:42.520Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "VISA Forex Top Spenders Programme"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Now"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-wave-credit-card",
+    "cardName": "Rupay Wave Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:10:39.133Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "&#10074;&#10074;"
+      },
+      {
+        "type": "context",
+        "text": "&#9654;"
+      },
+      {
+        "type": "removed",
+        "text": "Federal Rupay Wave Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Know your Rupay Wave Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "How to Apply"
+      },
+      {
+        "type": "removed",
+        "text": "Federal Rupay Wave Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "How to Link your Wave Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Know your Rupay Wave Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Federal RuPay Wave Credit Card is a Perfect Addition to Your Wallet - Why settle for one when you can have two?"
+      },
+      {
+        "type": "context",
+        "text": "Federal RuPay Wave Credit Card is a floater card linked to your primary Credit Card, sharing the same credit limit."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "The card variant and network options displayed on the website are provided solely for illustrative purposes. Actual selection option will be available during the application process."
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Most Important Terms & Conditions - English"
+      },
+      {
+        "type": "removed",
+        "text": "Most Important Terms & Conditions - Malayalam"
+      },
+      {
+        "type": "removed",
+        "text": "Most Important Terms & Conditions - Hindi"
+      },
+      {
+        "type": "removed",
+        "text": "KFS"
+      },
+      {
+        "type": "context",
+        "text": "How to Apply"
+      },
+      {
+        "type": "context",
+        "text": "Get your Federal Rupay Wave Credit Card in 4 simple steps:"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Accept T&C & verify with MPIN."
+      },
+      {
+        "type": "context",
+        "text": "Your Wave Credit Card is ready to use!"
+      },
+      {
+        "type": "added",
+        "text": "How to Link your Wave Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "You can link your RuPay Credit Card with your UPI ID in 3 easy steps by scanning QR code"
+      },
+      {
+        "type": "added",
+        "text": "You can link your RuPay Credit Card with your UPI ID in 4 easy steps"
+      },
+      {
+        "type": "added",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Terms & Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Most Important Terms & Conditions - English"
+      },
+      {
+        "type": "added",
+        "text": "Most Important Terms & Conditions - Malayalam"
+      },
+      {
+        "type": "added",
+        "text": "Most Important Terms & Conditions - Hindi"
+      },
+      {
+        "type": "added",
+        "text": "KFS"
+      },
+      {
+        "type": "context",
+        "text": "Tap. Pay. Go! Experience contactless convenience with Federal Bank RuPay Wave Credit Card – secure, fast, and rewarding every time you shop."
+      },
+      {
+        "type": "context",
+        "text": "Federal Rupay Wave Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-signet-credit-card",
+    "cardName": "Visa Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-22T06:10:30.624Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Annual Percentage Rate (APR) starting from"
+      },
+      {
+        "type": "removed",
+        "text": "1.99% p.m. (23.88% p.a.) *"
+      },
+      {
+        "type": "removed",
+        "text": "Refer to note: T&C apply."
+      },
+      {
+        "type": "removed",
+        "text": "Refer to note: T&C apply."
+      },
+      {
+        "type": "removed",
+        "text": "Refer to note: T&C apply."
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary lounge access – Spend INR 20,000 or more in a quarter to enjoy 1 Domestic Lounge access in the next quarter."
+      },
+      {
+        "type": "removed",
+        "text": "*"
+      },
+      {
+        "type": "removed",
+        "text": "*"
+      },
+      {
+        "type": "removed",
+        "text": "BOGO Offers"
+      },
+      {
+        "type": "removed",
+        "text": "(Buy One Get One) on INOX movie tickets, once a quarter."
+      },
+      {
+        "type": "added",
+        "text": "Annual Percentage Rate (APR) starting from 1.99% p.m. (23.88% p.a.) * Refer to note: T&C apply."
+      },
+      {
+        "type": "added",
+        "text": "Complimentary lounge access – Spend INR 20,000 or more in a quarter to enjoy 1 Domestic Lounge access in the next quarter. * Refer to note: T&C apply."
+      },
+      {
+        "type": "added",
+        "text": "BOGO Offers * (Buy One Get One) on INOX movie tickets, once a quarter. Refer to note: T&C apply."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "rbl-bank-indianoil-rbl-bank-xtra-credit-card",
     "cardName": "IndianOil RBL Bank XTRA Credit Card",
     "issuerName": "RBL Bank",
@@ -28,310 +3928,6 @@
       {
         "type": "added",
         "text": "OK"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "rbl-bank-irctc-rbl-bank-rupay-credit-card",
-    "cardName": "IRCTC RBL Bank RuPay Credit Card",
-    "issuerName": "RBL Bank",
-    "issuerSlug": "rbl-bank",
-    "officialUrl": "https://www.rbl.bank.in/",
-    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/irctc-rbl-bank-rupay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:36:31.211Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Cookie settings"
-      },
-      {
-        "type": "removed",
-        "text": "By continuing to use this site, you are accepting the bank's cookie"
-      },
-      {
-        "type": "removed",
-        "text": "policy. The information collected would be used to improve your journey & to"
-      },
-      {
-        "type": "removed",
-        "text": "personalize your website experience."
-      },
-      {
-        "type": "removed",
-        "text": "OK"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "rbl-bank-rbl-bank-bankbazaar-savemax-credit-card",
-    "cardName": "RBL Bank BankBazaar SaveMax Credit Card",
-    "issuerName": "RBL Bank",
-    "issuerSlug": "rbl-bank",
-    "officialUrl": "https://www.rbl.bank.in/",
-    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-bankbazaar-savemax-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:35:58.318Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Cookie settings"
-      },
-      {
-        "type": "removed",
-        "text": "By continuing to use this site, you are accepting the bank's cookie"
-      },
-      {
-        "type": "removed",
-        "text": "policy. The information collected would be used to improve your journey & to"
-      },
-      {
-        "type": "removed",
-        "text": "personalize your website experience."
-      },
-      {
-        "type": "removed",
-        "text": "OK"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "sbi-card-sbi-signature-corporate-card",
-    "cardName": "SBI Signature Corporate Card",
-    "issuerName": "SBI Card",
-    "issuerSlug": "sbi-card",
-    "officialUrl": "https://www.sbicard.com/",
-    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/travel-entertainment-cards/sbi-signature-corporate-card.page",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:35:01.963Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Blog"
-      },
-      {
-        "type": "context",
-        "text": "Help"
-      },
-      {
-        "type": "removed",
-        "text": "Customized Solution"
-      },
-      {
-        "type": "removed",
-        "text": "Corporate Web Servicing"
-      },
-      {
-        "type": "removed",
-        "text": "Digital On-Boarding"
-      },
-      {
-        "type": "removed",
-        "text": "Business Expertise"
-      },
-      {
-        "type": "removed",
-        "text": "Global Acceptance"
-      },
-      {
-        "type": "removed",
-        "text": "Technology Innovation"
-      },
-      {
-        "type": "removed",
-        "text": "Security & Control"
-      },
-      {
-        "type": "removed",
-        "text": "Best in Class Servicing"
-      },
-      {
-        "type": "removed",
-        "text": "Solutions for You"
-      },
-      {
-        "type": "removed",
-        "text": "Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Corporate Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Central Travel Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Utility Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Purchase Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Virtual Cards"
-      },
-      {
-        "type": "added",
-        "text": "Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Lifestyle"
-      },
-      {
-        "type": "added",
-        "text": "Reward"
-      },
-      {
-        "type": "added",
-        "text": "Shopping"
-      },
-      {
-        "type": "added",
-        "text": "Travel & Fuel"
-      },
-      {
-        "type": "added",
-        "text": "Banking Partnership"
-      },
-      {
-        "type": "added",
-        "text": "Business"
-      },
-      {
-        "type": "added",
-        "text": "Digitized Membership Kit"
-      },
-      {
-        "type": "added",
-        "text": "Benefits"
-      },
-      {
-        "type": "added",
-        "text": "Lower Interest Option"
-      },
-      {
-        "type": "added",
-        "text": "Encash"
-      },
-      {
-        "type": "added",
-        "text": "Money Simplified"
-      },
-      {
-        "type": "added",
-        "text": "Utility Bill Payment"
-      },
-      {
-        "type": "added",
-        "text": "Easy Access Channels"
-      },
-      {
-        "type": "added",
-        "text": "Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Other benefits"
-      },
-      {
-        "type": "added",
-        "text": "Contactless Payments"
-      },
-      {
-        "type": "added",
-        "text": "Airport Lounge Access"
-      },
-      {
-        "type": "added",
-        "text": "Pay"
-      },
-      {
-        "type": "added",
-        "text": "Pay Online"
-      },
-      {
-        "type": "added",
-        "text": "Pay Offline"
-      },
-      {
-        "type": "context",
-        "text": "Offers"
-      },
-      {
-        "type": "removed",
-        "text": "Enquire"
-      },
-      {
-        "type": "removed",
-        "text": "Track Application"
-      },
-      {
-        "type": "added",
-        "text": "All offers"
-      },
-      {
-        "type": "added",
-        "text": "Offers this week"
-      },
-      {
-        "type": "added",
-        "text": "Convert to EMI"
-      },
-      {
-        "type": "added",
-        "text": "Visa Offers on SBI Card"
-      },
-      {
-        "type": "added",
-        "text": "Rewards"
-      },
-      {
-        "type": "added",
-        "text": "Know your Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Redeeming Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Apply"
-      },
-      {
-        "type": "added",
-        "text": "Help me find a card"
-      },
-      {
-        "type": "added",
-        "text": "Track my Application"
-      },
-      {
-        "type": "added",
-        "text": "Retrieve my Application"
-      },
-      {
-        "type": "context",
-        "text": "©2026"
-      },
-      {
-        "type": "context",
-        "text": "Do Not Disturb"
       }
     ],
     "community": {
@@ -572,222 +4168,6 @@
     }
   },
   {
-    "id": "icici-bank-parakram-select-credit-card",
-    "cardName": "Parakram Select Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards/parakram-select",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:20.013Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "4,306 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "4,463 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-chennai-super-kings-credit-card",
-    "cardName": "Chennai Super Kings Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/csk-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-07-20T06:31:19.434Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "1,934 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "1,986 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-makemytrip-platinum-credit-card",
-    "cardName": "MakeMyTrip Platinum Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/platinum-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:18.970Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Know more"
-      },
-      {
-        "type": "context",
-        "text": "SAVE"
-      },
-      {
-        "type": "removed",
-        "text": "5,422 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "5,808 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "BEST FOR"
-      },
-      {
-        "type": "context",
-        "text": "Attractive MakeMyTrip Benefits"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-makemytrip-signature-credit-card",
-    "cardName": "MakeMyTrip Signature Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-07-20T06:31:18.549Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "4,889 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "removed",
-        "text": "3 Years 2 Months Ago"
-      },
-      {
-        "type": "removed",
-        "text": "7 Years Ago"
-      },
-      {
-        "type": "added",
-        "text": "5,075 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "3 Years 3 Months Ago"
-      },
-      {
-        "type": "added",
-        "text": "7 Years 1 Month Ago"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-amazon-pay-credit-card",
-    "cardName": "Amazon Pay Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:17.132Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "74,958 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "75,837 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-expression-credit-card",
-    "cardName": "Expression Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:16.690Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "APPLY"
-      },
-      {
-        "type": "context",
-        "text": "SAVE"
-      },
-      {
-        "type": "removed",
-        "text": "2,701 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "2,771 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "BEST FOR"
-      },
-      {
-        "type": "context",
-        "text": "Custom Design Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-hpcl-coral-credit-card",
-    "cardName": "HPCL Coral Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-coral-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:16.255Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "13,489 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "13,518 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "icici-bank-hpcl-super-saver-credit-card",
     "cardName": "HPCL Super Saver Credit Card",
     "issuerName": "ICICI Bank",
@@ -804,70 +4184,6 @@
       {
         "type": "added",
         "text": "17,204 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emirates-skywards-rubyx-credit-card",
-    "cardName": "Emirates Skywards Rubyx Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-rubyx-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-07-20T06:31:15.389Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Know more"
-      },
-      {
-        "type": "context",
-        "text": "SAVE"
-      },
-      {
-        "type": "removed",
-        "text": "6,239 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "6,299 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Best For"
-      },
-      {
-        "type": "context",
-        "text": "Frequent Flyers"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emirates-sapphiro-credit-card",
-    "cardName": "Emirates Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:14.870Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "6,958 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "7,057 PEOPLE ARE INTERESTED"
       }
     ],
     "community": {
@@ -916,206 +4232,6 @@
       {
         "type": "added",
         "text": "Fees and charges"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-makemytrip-credit-card",
-    "cardName": "MakeMyTrip Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:13.919Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "APPLY"
-      },
-      {
-        "type": "context",
-        "text": "SAVE"
-      },
-      {
-        "type": "removed",
-        "text": "13,923 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "14,034 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "BEST FOR"
-      },
-      {
-        "type": "context",
-        "text": "Travel Enthusiasts Seeking Value and Flexibility"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-adani-one-platinum-credit-card",
-    "cardName": "Adani One Platinum Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:13.372Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "12,393 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "13,020 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-adani-one-signature-credit-card",
-    "cardName": "Adani One Signature Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:12.906Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "11,337 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "11,624 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-platinum-chip-credit-card",
-    "cardName": "Platinum Chip Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:12.463Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply"
-      },
-      {
-        "type": "context",
-        "text": "Save"
-      },
-      {
-        "type": "removed",
-        "text": "25,659 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "25,210 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "BEST FOR"
-      },
-      {
-        "type": "context",
-        "text": "Rewards on Everyday Spends"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-sapphiro-credit-card",
-    "cardName": "Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:11.168Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "156,311 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "158,523 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-credit-card",
-    "cardName": "Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:10.741Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "33,275 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "33,326 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-private-metal-credit-card",
-    "cardName": "Emeralde Private Metal Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-20T06:31:09.818Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "33,578 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "33,544 PEOPLE ARE INTERESTED"
       }
     ],
     "community": {

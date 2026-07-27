@@ -1,5 +1,461 @@
 [
   {
+    "id": "icici-bank-parakram-select-credit-card",
+    "cardName": "Parakram Select Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards/parakram-select",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:48:46.749Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "4,776 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "4,749 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-signature-credit-card",
+    "cardName": "MakeMyTrip Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-27T06:48:45.367Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "5,354 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "5,385 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-credit-card",
+    "cardName": "MakeMyTrip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:48:37.507Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "14,059 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "13,997 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-platinum-credit-card",
+    "cardName": "Adani One Platinum Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:48:37.016Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "13,150 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "13,143 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-platinum-chip-credit-card",
+    "cardName": "Platinum Chip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:48:36.154Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply"
+      },
+      {
+        "type": "context",
+        "text": "Save"
+      },
+      {
+        "type": "removed",
+        "text": "24,942 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "24,742 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "BEST FOR"
+      },
+      {
+        "type": "context",
+        "text": "Rewards on Everyday Spends"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-credit-card",
+    "cardName": "Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:48:34.255Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "34,247 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "33,584 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-private-metal-credit-card",
+    "cardName": "Emeralde Private Metal Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:48:33.304Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "33,150 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "34,329 PEOPLE ARE INTERESTED"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-how-to-view-credit-card-unbilled-statement",
+    "cardName": "How to view Credit Card Unbilled Statement",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/campaign/how-to-view-credit-card-unbilled-statement",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:48:18.661Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "HDFC Bank Hajj Umrah ForexPlus Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-auto-insurance-card",
+    "cardName": "Auto Insurance Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/auto-insurance-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-27T06:48:13.749Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Fastag"
+      },
+      {
+        "type": "removed",
+        "text": "Fastag"
+      },
+      {
+        "type": "added",
+        "text": "DigiPassBook"
+      },
+      {
+        "type": "added",
+        "text": "FASTag"
+      },
+      {
+        "type": "added",
+        "text": "FASTag"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-reward-credit-card",
+    "cardName": "Purchase Reward Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-reward-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:48:09.564Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "removed",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "removed",
+        "text": "Read Now"
+      },
+      {
+        "type": "removed",
+        "text": "Read Now"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-premium-credit-card",
+    "cardName": "Purchase Premium Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:48:09.130Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "removed",
+        "text": "Stay Safe with HDFC Bank’s Official 1600 & 140 Numbers"
+      },
+      {
+        "type": "removed",
+        "text": "Read Now"
+      },
+      {
+        "type": "removed",
+        "text": "Read Now"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-harley-davidson-diners-club-credit-card",
+    "cardName": "Harley-Davidson Diners Club Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/harley-davidson-diners-club-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:47:53.556Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "My Money"
+      },
+      {
+        "type": "removed",
+        "text": "My Money"
+      },
+      {
+        "type": "removed",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "DigiPassBook"
+      },
+      {
+        "type": "added",
+        "text": "DigiPassBook"
+      },
+      {
+        "type": "added",
+        "text": "DigiPassBook"
+      },
+      {
+        "type": "added",
+        "text": "HDFC Bank Hajj Umrah ForexPlus Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-h-o-g-diners-club-credit-card",
+    "cardName": "H.O.G Diners Club Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/hog-diners-club-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-27T06:47:51.900Z",
+    "diffHunks": [
+      {
+        "type": "added",
+        "text": "HDFC Bank Hajj Umrah ForexPlus Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-sap-concur-black-corporate-credit-card",
+    "cardName": "SAP Concur Black Corporate Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/sap-concur-black-corporate-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-07-27T06:47:34.192Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "DigiPassBook"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "canara-bank-mastercard-gold-secured-credit-card",
+    "cardName": "Mastercard Gold Secured Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/mastercard-gold-secured-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:46:28.887Z",
+    "diffHunks": [
+      {
+        "type": "added",
+        "text": "FCNR(B) Interest calculator"
+      },
+      {
+        "type": "added",
+        "text": "FCNR(B) Interest calculator"
+      },
+      {
+        "type": "added",
+        "text": "FCNR(B) Interest calculator"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "canara-bank-rupay-select-credit-card",
+    "cardName": "Rupay Select Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
+    "status": "Active",
+    "detectedAt": "2026-07-27T06:46:15.756Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Gold Loan EMI Calculator"
+      },
+      {
+        "type": "removed",
+        "text": "Gold"
+      },
+      {
+        "type": "added",
+        "text": "FCNR(B) Interest calculator"
+      },
+      {
+        "type": "added",
+        "text": "FCNR(B) Interest calculator"
+      },
+      {
+        "type": "added",
+        "text": "FCNR(B) Interest calculator"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "rbl-bank-nova-credit-card",
     "cardName": "Nova Credit Card",
     "issuerName": "RBL Bank",
@@ -54872,30 +55328,6 @@
     }
   },
   {
-    "id": "icici-bank-parakram-select-credit-card",
-    "cardName": "Parakram Select Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards/parakram-select",
-    "status": "Active",
-    "detectedAt": "2026-07-26T06:20:25.760Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "4,716 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "4,776 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "icici-bank-chennai-super-kings-credit-card",
     "cardName": "Chennai Super Kings Credit Card",
     "issuerName": "ICICI Bank",
@@ -54980,30 +55412,6 @@
       {
         "type": "context",
         "text": "Attractive MakeMyTrip Benefits"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-makemytrip-signature-credit-card",
-    "cardName": "MakeMyTrip Signature Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-07-26T06:20:24.005Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "5,289 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "5,354 PEOPLE ARE INTERESTED"
       }
     ],
     "community": {
@@ -55224,46 +55632,6 @@
     }
   },
   {
-    "id": "icici-bank-platinum-chip-credit-card",
-    "cardName": "Platinum Chip Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-26T06:20:15.510Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply"
-      },
-      {
-        "type": "context",
-        "text": "Save"
-      },
-      {
-        "type": "removed",
-        "text": "24,997 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "24,942 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "BEST FOR"
-      },
-      {
-        "type": "context",
-        "text": "Rewards on Everyday Spends"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "icici-bank-coral-credit-card",
     "cardName": "Coral Credit Card",
     "issuerName": "ICICI Bank",
@@ -55304,106 +55672,6 @@
       {
         "type": "added",
         "text": "159,260 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-credit-card",
-    "cardName": "Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-26T06:20:13.469Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "34,249 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "34,247 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-private-metal-credit-card",
-    "cardName": "Emeralde Private Metal Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-26T06:20:12.561Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "34,220 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "33,150 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-auto-insurance-card",
-    "cardName": "Auto Insurance Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/auto-insurance-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-07-26T06:19:54.183Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "DigiPassBook"
-      },
-      {
-        "type": "removed",
-        "text": "FASTag"
-      },
-      {
-        "type": "removed",
-        "text": "FASTag"
-      },
-      {
-        "type": "added",
-        "text": "Need Help?"
-      },
-      {
-        "type": "added",
-        "text": "View More"
-      },
-      {
-        "type": "added",
-        "text": "Download Interest Certificate"
-      },
-      {
-        "type": "added",
-        "text": "Insure Loan"
-      },
-      {
-        "type": "added",
-        "text": "Fastag"
-      },
-      {
-        "type": "added",
-        "text": "Fastag"
       }
     ],
     "community": {
@@ -55456,46 +55724,6 @@
       {
         "type": "added",
         "text": "HDFC Bank Hajj Umrah ForexPlus Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-harley-davidson-diners-club-credit-card",
-    "cardName": "Harley-Davidson Diners Club Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/harley-davidson-diners-club-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-26T06:19:41.262Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "DigiPassBook"
-      },
-      {
-        "type": "removed",
-        "text": "DigiPassBook"
-      },
-      {
-        "type": "removed",
-        "text": "DigiPassBook"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
       }
     ],
     "community": {
@@ -56348,70 +56576,6 @@
     }
   },
   {
-    "id": "canara-bank-mastercard-gold-secured-credit-card",
-    "cardName": "Mastercard Gold Secured Credit Card",
-    "issuerName": "Canara Bank",
-    "issuerSlug": "canara-bank",
-    "officialUrl": "https://canarabank.com/",
-    "productPageUrl": "https://canarabank.bank.in/pages/mastercard-gold-secured-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-26T06:18:39.774Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "FCNR(B) Interest calculator"
-      },
-      {
-        "type": "removed",
-        "text": "FCNR(B) Interest calculator"
-      },
-      {
-        "type": "removed",
-        "text": "FCNR(B) Interest calculator"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "canara-bank-rupay-select-credit-card",
-    "cardName": "Rupay Select Credit Card",
-    "issuerName": "Canara Bank",
-    "issuerSlug": "canara-bank",
-    "officialUrl": "https://canarabank.com/",
-    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
-    "status": "Active",
-    "detectedAt": "2026-07-26T06:18:28.550Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "FCNR(B) Interest calculator"
-      },
-      {
-        "type": "removed",
-        "text": "FCNR(B) Interest calculator"
-      },
-      {
-        "type": "removed",
-        "text": "FCNR(B) Interest calculator"
-      },
-      {
-        "type": "added",
-        "text": "Gold Loan EMI Calculator"
-      },
-      {
-        "type": "added",
-        "text": "Gold"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "rbl-bank-indianoil-rbl-bank-credit-card",
     "cardName": "IndianOil RBL Bank Credit Card",
     "issuerName": "RBL Bank",
@@ -57088,210 +57252,6 @@
       {
         "type": "added",
         "text": "7,059 PEOPLE ARE INTERESTED"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-makemytrip-credit-card",
-    "cardName": "MakeMyTrip Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-24T06:10:07.627Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "FCNR FD Rates"
-      },
-      {
-        "type": "removed",
-        "text": "Best For"
-      },
-      {
-        "type": "removed",
-        "text": "Rewards & Offers"
-      },
-      {
-        "type": "removed",
-        "text": "Fees & Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Blogs and Videos"
-      },
-      {
-        "type": "removed",
-        "text": "14,176 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 complimentary Domestic Airport Lounge Access.  Click here for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "Please refer to the  Most Important Terms & Conditions (MITC)  for other charges."
-      },
-      {
-        "type": "removed",
-        "text": "Click here for applicable Terms & Conditions (T&Cs)"
-      },
-      {
-        "type": "removed",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your MakeMyTrip ICICI Bank Credit Card in a calendar quarter. This entitles you to avail the 2 lounge access benefit in the following spend quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "added",
-        "text": "FCNR (B) FD Rates"
-      },
-      {
-        "type": "added",
-        "text": "FAQs"
-      },
-      {
-        "type": "added",
-        "text": "Best for"
-      },
-      {
-        "type": "added",
-        "text": "Rewards and offers"
-      },
-      {
-        "type": "added",
-        "text": "Fees and charges"
-      },
-      {
-        "type": "added",
-        "text": "14,059 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 complimentary Domestic Airport Lounge Access.  Click here  for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Please refer to the  Most Important Terms & Conditions (MITC)   for other charges."
-      },
-      {
-        "type": "added",
-        "text": "Click here  for applicable Terms & Conditions (T&Cs)"
-      },
-      {
-        "type": "added",
-        "text": "Is there a joining fee and Annual fee for the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes. The MakeMyTrip ICICI Bank Credit Card has a joining fee and annual fee of ₹999 + GST."
-      },
-      {
-        "type": "added",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your MakeMyTrip ICICI Bank Credit Card in a calendar quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "added",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "added",
-        "text": "Spends period offer -  eligibility period"
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
-      },
-      {
-        "type": "added",
-        "text": "Plus (Add-On) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "added",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "added",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "added",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "added",
-        "text": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "added",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "added",
-        "text": "View all FAQs"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-adani-one-platinum-credit-card",
-    "cardName": "Adani One Platinum Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card",
-    "status": "Active",
-    "detectedAt": "2026-07-24T06:10:06.860Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "FCNR FD Rates"
-      },
-      {
-        "type": "removed",
-        "text": "13,061 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "FCNR (B) FD Rates"
-      },
-      {
-        "type": "added",
-        "text": "13,150 PEOPLE ARE INTERESTED"
       }
     ],
     "community": {
@@ -59592,30 +59552,6 @@
     }
   },
   {
-    "id": "hdfc-bank-sap-concur-black-corporate-credit-card",
-    "cardName": "SAP Concur Black Corporate Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/hdfc-bank-sap-concur-black-corporate-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-24T06:09:31.748Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "View All"
-      },
-      {
-        "type": "added",
-        "text": "Equal Opportunity Policy"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "hdfc-bank-sap-concur-prime-corporate-credit-card",
     "cardName": "SAP Concur Prime Corporate Credit Card",
     "issuerName": "HDFC Bank",
@@ -60428,94 +60364,6 @@
       {
         "type": "ellipsis",
         "text": "… diff truncated (343 more lines) …"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-h-o-g-diners-club-credit-card",
-    "cardName": "H.O.G Diners Club Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/hog-diners-club-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-07-24T06:09:20.385Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "HDFC Bank Hajj Umrah ForexPlus Card"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "VISA Forex Top Spenders Programme"
-      },
-      {
-        "type": "removed",
-        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
-      },
-      {
-        "type": "removed",
-        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
-      },
-      {
-        "type": "removed",
-        "text": "Explore Now"
-      },
-      {
-        "type": "removed",
-        "text": "Explore Now"
-      },
-      {
-        "type": "added",
-        "text": "Card Management & Controls"
       }
     ],
     "community": {

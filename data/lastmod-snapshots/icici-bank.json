@@ -41,7 +41,7 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/fuel": "2026-07-14",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-credit-card/emi-on-call": "2026-04-01",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-credit-card/emi-on-call/queries": "2026-04-18",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/generate-pin-online": "2026-06-27",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/generate-pin-online": "2026-07-20",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-card-services/autodebit": "2026-03-17",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-card-services/rewards": "2026-06-27",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-card-services/rewards/rewards-points": "2026-06-27",
@@ -63,7 +63,7 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/cancellation": "2026-03-24",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/fair-practice-code": "2026-07-01",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/plus-cards": "2026-07-20",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/experience": "2026-06-27",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/experience": "2026-07-27",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/bookmyshow-tnc": "2026-06-30",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/inox-tnc": "2025-05-19",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/experience/dreamfolks-tnc": "2026-06-01",
@@ -245,5 +245,5 @@
     "https://www.icici.bank.in/business-banking/cards/corporate-card/documents": "2026-06-01",
     "https://www.icici.bank.in/campus-power/alumni-credit-card": "2026-07-21"
   },
-  "updatedAt": "2026-07-26T06:26:49.656Z"
+  "updatedAt": "2026-07-27T06:54:48.276Z"
 }

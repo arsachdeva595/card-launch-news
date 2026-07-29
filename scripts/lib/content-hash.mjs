@@ -53,11 +53,14 @@ function extractVisibleText(html) {
 }
 
 /**
- * Fetches a page and returns { hash, text }: the extracted visible text and
- * its sha256 hash. Returns null (never throws) on failure so a single
- * unreachable page doesn't abort a whole change-detection pass.
+ * Fetches a page and returns its extracted visible text (still in original
+ * order). Returns null (never throws) on failure so a single unreachable
+ * page doesn't abort a whole change-detection pass. Hashing is a separate
+ * step (see hashText) - deferred so callers can strip cross-page boilerplate
+ * (shared header/footer/nav/cookie-banner content) first, computed by
+ * comparing several pages from the same issuer.
  */
-export async function fetchPageSnapshot(url) {
+export async function fetchPageText(url) {
   try {
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
@@ -69,19 +72,22 @@ export async function fetchPageSnapshot(url) {
     if (!res.ok) return null;
 
     const html = await res.text();
-    const text = extractVisibleText(html);
-    // Hash a *sorted* copy of the lines, not the original order. Several
-    // issuer pages embed a "related products" carousel/widget that renders
-    // in a different order on every request with otherwise identical
-    // content (observed on HDFC's card pages) - hashing original order
-    // flags that as a change every time. Sorting first makes the hash
-    // insensitive to pure reordering while still changing normally when
-    // content is genuinely added, removed, or edited. `text` itself (used
-    // for display/diffing) keeps its real original order.
-    const sortedLines = text.split("\n").sort();
-    const hash = createHash("sha256").update(sortedLines.join("\n")).digest("hex");
-    return { hash, text };
+    return extractVisibleText(html);
   } catch {
     return null;
   }
+}
+
+/**
+ * Hashes a *sorted* copy of the text's lines, not their original order.
+ * Several issuer pages embed a "related products" carousel/widget that
+ * renders in a different order on every request with otherwise identical
+ * content (observed on HDFC's card pages) - hashing original order flags
+ * that as a change every time. Sorting first makes the hash insensitive to
+ * pure reordering while still changing normally when content is genuinely
+ * added, removed, or edited.
+ */
+export function hashText(text) {
+  const sortedLines = text.split("\n").sort();
+  return createHash("sha256").update(sortedLines.join("\n")).digest("hex");
 }

@@ -19,7 +19,7 @@
       "eligibility",
       "compare",
       "apply-now",
-      "how-to-apply",
+      "how-to-",
       "login",
       "press-release/archive",
       "features.html",
@@ -31,7 +31,8 @@
       "insurance-benefits",
       "custom-tab",
       "/credit-cards.html",
-      "/credit-card.html"
+      "/credit-card.html",
+      "/campaign/"
     ]
   },
   "changeDetection": {

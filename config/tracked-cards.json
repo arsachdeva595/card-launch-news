@@ -3564,18 +3564,6 @@
     "status": "Active"
   },
   {
-    "cardName": "How to Check Credit Card Summary",
-    "issuerSlug": "hdfc-bank",
-    "url": "https://www.hdfc.bank.in/campaign/how-to-check-credit-card-summary",
-    "status": "Active"
-  },
-  {
-    "cardName": "How to view Credit Card Unbilled Statement",
-    "issuerSlug": "hdfc-bank",
-    "url": "https://www.hdfc.bank.in/campaign/how-to-view-credit-card-unbilled-statement",
-    "status": "Active"
-  },
-  {
     "cardName": "KVB Eternis Credit Card",
     "issuerSlug": "karur-vysya-bank",
     "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-eternis-credit-card/",

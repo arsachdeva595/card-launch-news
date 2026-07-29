@@ -20,26 +20,6 @@
     }
   },
   {
-    "id": "hdfc-bank-how-to-view-credit-card-unbilled-statement",
-    "cardName": "How to view Credit Card Unbilled Statement",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/campaign/how-to-view-credit-card-unbilled-statement",
-    "discoveredAt": "2026-07-22T06:04:43.253Z",
-    "lastmod": "2026-07-20T15:51:27+05:30",
-    "announcement": {
-      "title": "How to view Credit Card Unbilled Statement",
-      "url": "https://www.hdfc.bank.in/campaign/how-to-view-credit-card-unbilled-statement",
-      "description": "Official product page on HDFC Bank's site."
-    },
-    "community": {
-      "reddit": null,
-      "twitter": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "hdfc-bank-diners-club-black-metal-edition-credit-card",
     "cardName": "Diners Club Black Metal Edition Credit Card",
     "issuerName": "HDFC Bank",
@@ -51,26 +31,6 @@
     "announcement": {
       "title": "Diners Club Black Metal Edition Credit Card",
       "url": "https://www.hdfc.bank.in/credit-cards/diners-club-black-metal-edition-credit-card-test",
-      "description": "Official product page on HDFC Bank's site."
-    },
-    "community": {
-      "reddit": null,
-      "twitter": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-how-to-check-credit-card-summary",
-    "cardName": "How to Check Credit Card Summary",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/campaign/how-to-check-credit-card-summary",
-    "discoveredAt": "2026-07-22T06:04:43.252Z",
-    "lastmod": "2026-07-06T18:06:34+05:30",
-    "announcement": {
-      "title": "How to Check Credit Card Summary",
-      "url": "https://www.hdfc.bank.in/campaign/how-to-check-credit-card-summary",
       "description": "Official product page on HDFC Bank's site."
     },
     "community": {

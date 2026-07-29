@@ -69,13 +69,24 @@ with an honest label rather than something that looks broken.
    (`scripts/lib/reddit.mjs`, `scripts/lib/youtube.mjs`, both built on the
    generic runner in `scripts/lib/apify.mjs`) for community discussion.
 3. **`scripts/detect-changes.mjs`** (Tier 1) fetches every card in
-   `config/tracked-cards.json` via `scripts/lib/content-hash.mjs`, which
-   extracts the page's visible text (stripping scripts/styles/comments/tags
-   so markup churn doesn't cause false positives) and hashes it, comparing
-   against the hash stored in `data/page-hashes/`. A changed hash (on a card
-   seen before — first sightings just establish a baseline) becomes a change
-   candidate. The full extracted text is stored alongside the hash so the
-   *next* change has something to diff against.
+   `config/tracked-cards.json` for one issuer, extracts each page's visible
+   text (`scripts/lib/content-hash.mjs` — strips scripts/styles/comments/tags,
+   plus inherently volatile lines like live view-counters and auto-ticking
+   "Last Updated On" stamps), then compares all of that issuer's pages
+   against each other: any line appearing on at least half of them is
+   necessarily shared header/footer/nav/cookie-banner/widget chrome (real
+   card content differs card to card; template chrome doesn't), and gets
+   stripped before hashing — so a bank updating its site-wide footer never
+   registers as a per-card "change" in the first place. What's left gets
+   hashed (order-insensitive - see `hashText`) and compared against the hash
+   stored in `data/page-hashes/`. A changed hash (on a card seen before —
+   first sightings just establish a baseline) becomes a change candidate,
+   with the full post-stripping text stored alongside the hash so the *next*
+   change has something to diff against. As a second layer of defense, if
+   the exact same added/removed diff still shows up across ≥3 cards for the
+   same issuer in one run (`suppressSiteWideNoise`), all of them are dropped
+   too, in case something shared changes mid-run before it's "common"
+   enough to have been caught by the cross-card comparison above.
 4. When a change is found, `scripts/lib/text-diff.mjs` computes a line-level
    diff between the old and new text (plain LCS-backtrack, no dependency) and
    trims it down to a unified-diff-style set of hunks — just the changed
@@ -212,20 +223,35 @@ still created with `community` fields left `null`.
 
 ## Known limitations (v1)
 
-- Two noise sources beyond the reordering fix, found from real production
-  data (150 "changes" in one run, almost all noise): (1) inherently volatile
-  content like live view-counters ("165 Views") and auto-ticking "Last
-  Updated On" stamps — stripped entirely from extracted text
-  (`scripts/lib/content-hash.mjs` → `VOLATILE_LINE_PATTERNS`) before
-  hashing/diffing, since no amount of reorder-tolerance fixes a value that's
-  just genuinely different every fetch; (2) shared site-wide footer/banner
-  changes (a bank added one new promo link and it rippled across every
-  tracked card's page at once) — `scripts/detect-changes.mjs` →
-  `suppressSiteWideNoise()` drops any group of ≥3 cards for the same issuer
-  sharing an identical added/removed fingerprint in the same run, since
-  that's a template change, not per-card content. Both are heuristic and
-  tuned to what was actually observed, not exhaustive — new noise patterns
-  may still surface as tracking continues.
+- Change detection went through three rounds of noise-fixing against real
+  production data before landing on a general approach, worth knowing the
+  history of in case new noise ever surfaces again:
+  1. A reordering-only "related products" carousel (same content, different
+     order every fetch) → fixed by hashing sorted lines instead of original
+     order (`hashText` in `content-hash.mjs`).
+  2. Inherently volatile content - live view-counters ("165 Views"),
+     auto-ticking "Last Updated On" stamps → fixed by stripping lines
+     matching known patterns entirely (`VOLATILE_LINE_PATTERNS`).
+  3. Whole-category shared chrome - cookie-consent banners, accessibility
+     toolbar controls, rotating "latest articles" widgets, nav/footer
+     fragments (150+ "changes" in one run, almost all this) → fixed
+     generally rather than pattern-by-pattern: `computeBoilerplateLines`
+     compares all of one issuer's cards against each other in the same run
+     and strips any line common to at least half of them, since real card
+     content necessarily differs card-to-card while template chrome
+     necessarily doesn't. `suppressSiteWideNoise` (≥3 cards sharing an
+     identical diff) remains as a second layer of defense for anything that
+     changes mid-run before it's "common" enough to be caught by #3.
+     Approach #3 is general (adapts per-issuer automatically) rather than
+     needing a new regex every time a bank adds a new widget, but it's still
+     a heuristic (half-of-cards threshold) — if a genuine change happens to
+     also appear on ≥50% of an issuer's cards simultaneously (rare, but
+     possible for something like a company-wide rebrand), it would be
+     stripped as if it were boilerplate too.
+- Launch-candidate filtering had a similar issue: HDFC's `/campaign/how-to-*`
+  FAQ pages (e.g. "How to Check Credit Card Summary") were flagged as new
+  card launches since their URLs contain "credit-card". Added `how-to-` and
+  `/campaign/` to `config/settings.json` → `candidatePatterns.exclude`.
 - Apify's free tier is a small monthly compute credit, not unlimited —
   unlike the official Reddit/YouTube APIs this replaced, real usage beyond
   that credit costs money. Watch usage at

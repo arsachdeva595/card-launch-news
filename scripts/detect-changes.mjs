@@ -1,18 +1,60 @@
-import { fetchPageSnapshot } from "./lib/content-hash.mjs";
+import { fetchPageText, hashText } from "./lib/content-hash.mjs";
 import { computeUnifiedDiff } from "./lib/text-diff.mjs";
 import { readJson, writeJson, pageHashPathFor } from "./lib/state.mjs";
 
 const SITE_WIDE_SUPPRESS_THRESHOLD = 3;
+const BOILERPLATE_MIN_CARDS = 3;
+const BOILERPLATE_MIN_FRACTION = 0.5;
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+/**
+ * Finds lines shared across many of one issuer's cards in the same run -
+ * header/footer/nav/cookie-banner/"trending articles" widget chrome is
+ * necessarily identical (or near-identical) across every page on a site,
+ * whereas real card content (fees, benefits, terms) necessarily differs
+ * card to card. A line appearing on at least half of this issuer's fetched
+ * cards (and at least BOILERPLATE_MIN_CARDS, so small issuers with 2-3
+ * cards aren't over-triggered by coincidental overlap) is stripped before
+ * hashing/diffing, so a shared-template change never even registers as a
+ * per-card "change" in the first place - this is the general fix for the
+ * whole class of shared-chrome noise (cookie banners, accessibility
+ * toolbars, rotating article widgets, footer banners), not any one
+ * instance of it.
+ */
+export function computeBoilerplateLines(allCardTexts) {
+  const cardCountForLine = new Map();
+  for (const text of allCardTexts) {
+    for (const line of new Set(text.split("\n"))) {
+      cardCountForLine.set(line, (cardCountForLine.get(line) || 0) + 1);
+    }
+  }
+
+  const threshold = Math.max(BOILERPLATE_MIN_CARDS, Math.ceil(allCardTexts.length * BOILERPLATE_MIN_FRACTION));
+  const boilerplate = new Set();
+  for (const [line, count] of cardCountForLine) {
+    if (count >= threshold) boilerplate.add(line);
+  }
+  return boilerplate;
+}
+
+function stripLines(text, linesToRemove) {
+  return text
+    .split("\n")
+    .filter((line) => !linesToRemove.has(line))
+    .join("\n");
 }
 
 // Fingerprints a change by *only* its added/removed lines (ignoring
 // context/ellipsis, and ignoring which card it belongs to) - two changes on
 // different cards with the same fingerprint means they share identical
 // added/removed content, which is exactly what a shared site-wide
-// footer/template update looks like.
+// footer/template update looks like. Kept as a second layer of defense
+// alongside boilerplate stripping above (e.g. for a shared element that
+// changes mid-run, so it wasn't yet common to every card when boilerplate
+// lines were computed).
 function diffFingerprint(diffHunks) {
   return JSON.stringify(
     diffHunks
@@ -49,11 +91,12 @@ export function suppressSiteWideNoise(issuerChanges, threshold = SITE_WIDE_SUPPR
 /**
  * Full-treatment ("Tier 1") change detection: fetches every card in
  * config/tracked-cards.json (a curated, hand-maintained list of known real
- * card product pages — see README) and hashes its visible text, comparing
- * against the hash stored from the last run. A page whose hash changed since
- * last time is returned as a "change candidate" — most likely a fee,
- * benefit, or terms update on an existing card, or a discontinued card page
- * — along with a trimmed unified diff of what actually changed.
+ * card product pages — see README), strips cross-page boilerplate (see
+ * computeBoilerplateLines), and hashes what's left, comparing against the
+ * hash stored from the last run. A page whose hash changed since last time
+ * is returned as a "change candidate" — most likely a fee, benefit, or terms
+ * update on an existing card, or a discontinued card page — along with a
+ * trimmed unified diff of what actually changed.
  *
  * Deliberately scoped to the curated list rather than every card-shaped URL
  * on every issuer's sitemap (which can run into the thousands and take
@@ -80,36 +123,40 @@ export async function detectChanges({ trackedCards, issuers, settings }) {
     console.log(`Checking ${cards.length} tracked card(s) for content changes: ${issuer?.name || issuerSlug}`);
     const hashPath = pageHashPathFor(issuerSlug);
     const stored = await readJson(hashPath, { pages: {} });
+
+    // Phase 1: fetch every card's raw text first - boilerplate can only be
+    // computed by comparing pages to each other, so nothing gets hashed yet.
+    const fetched = [];
+    for (const card of cards) {
+      await sleep(requestDelayMs);
+      const text = await fetchPageText(card.url);
+      if (text !== null) fetched.push({ card, text });
+      // fetch failures just don't appear here - leave stored state untouched, retry next run
+    }
+    if (fetched.length === 0) continue;
+
+    // Phase 2: strip whatever's common across most of this issuer's cards.
+    const boilerplateLines = computeBoilerplateLines(fetched.map((f) => f.text));
+    console.log(`  excluding ${boilerplateLines.size} shared boilerplate line(s) for ${issuer?.name || issuerSlug}`);
+
     const updatedPages = { ...stored.pages };
     const issuerChanges = [];
 
-    for (const card of cards) {
-      await sleep(requestDelayMs);
-      const snapshot = await fetchPageSnapshot(card.url);
-      if (!snapshot) continue; // fetch failed — leave stored state untouched, retry next run
-
+    for (const { card, text: rawText } of fetched) {
+      const text = stripLines(rawText, boilerplateLines);
+      const hash = hashText(text);
       const previous = stored.pages[card.url];
       const nowIso = new Date().toISOString();
 
       if (!previous) {
-        updatedPages[card.url] = {
-          hash: snapshot.hash,
-          text: snapshot.text,
-          firstSeenAt: nowIso,
-          lastCheckedAt: nowIso
-        };
+        updatedPages[card.url] = { hash, text, firstSeenAt: nowIso, lastCheckedAt: nowIso };
         continue;
       }
 
-      updatedPages[card.url] = {
-        hash: snapshot.hash,
-        text: snapshot.text,
-        firstSeenAt: previous.firstSeenAt,
-        lastCheckedAt: nowIso
-      };
+      updatedPages[card.url] = { hash, text, firstSeenAt: previous.firstSeenAt, lastCheckedAt: nowIso };
 
-      if (previous.hash !== snapshot.hash) {
-        const diffHunks = computeUnifiedDiff(previous.text || "", snapshot.text);
+      if (previous.hash !== hash) {
+        const diffHunks = computeUnifiedDiff(previous.text || "", text);
         issuerChanges.push({
           issuerSlug,
           issuerName: issuer?.name || issuerSlug,

@@ -30536,7 +30536,6 @@
     "https://www.icicibank.com/cars/honda/honda-elevate/honda-elevate-adv-edition-cvt-dual-tone",
     "https://www.icicibank.com/cars/honda/honda-zr-v",
     "https://www.icicibank.com/cars/honda/honda-zr-v/vehicle-price",
-    "https://www.icicibank.com/cars/honda/honda-zr-v/honda-zr-v-hybrid",
     "https://www.icicibank.com/cars/tata",
     "https://www.icicibank.com/cars/tata/tata-xpres",
     "https://www.icicibank.com/cars/tata/tata-xpres/vehicle-price",
@@ -30777,11 +30776,6 @@
     "https://www.icicibank.com/cars/tata/tata-altroz/tata-altroz-accomplished-s-diesel",
     "https://www.icicibank.com/cars/tata/tata-altroz/tata-altroz-accomplished-s-dca",
     "https://www.icicibank.com/cars/tata/tata-altroz/tata-altroz-accomplished-plus-s-dca",
-    "https://www.icicibank.com/cars/tata/tata-altroz/tata-altroz-pure-amt-cng",
-    "https://www.icicibank.com/cars/tata/tata-altroz/tata-altroz-pure-s-amt-cng",
-    "https://www.icicibank.com/cars/tata/tata-altroz/tata-altroz-creative-amt-cng",
-    "https://www.icicibank.com/cars/tata/tata-altroz/tata-altroz-creative-s-amt-cng",
-    "https://www.icicibank.com/cars/tata/tata-altroz/tata-altroz-accomplished-s-amt-cng",
     "https://www.icicibank.com/cars/tata/tata-nexon",
     "https://www.icicibank.com/cars/tata/tata-nexon/vehicle-price",
     "https://www.icicibank.com/cars/tata/tata-nexon/tata-nexon-smart-opt",
@@ -31030,10 +31024,6 @@
     "https://www.icicibank.com/cars/tata/tata-harrier/tata-harrier-fearless-ultra-red-dark-tgdi-at",
     "https://www.icicibank.com/cars/tata/tata-harrier/tata-harrier-fearless-plus-x-dark-at",
     "https://www.icicibank.com/cars/tata/tata-harrier/tata-harrier-fearless-plus-x-stealth-at",
-    "https://www.icicibank.com/cars/tata/tata-harrier/tata-harrier-fearless-ultra-red-dark",
-    "https://www.icicibank.com/cars/tata/tata-harrier/tata-harrier-fearless-ultra",
-    "https://www.icicibank.com/cars/tata/tata-harrier/tata-harrier-fearless-ultra-at",
-    "https://www.icicibank.com/cars/tata/tata-harrier/tata-harrier-fearless-ultra-red-dark-at",
     "https://www.icicibank.com/cars/tata/tata-safari",
     "https://www.icicibank.com/cars/tata/tata-safari/vehicle-price",
     "https://www.icicibank.com/cars/tata/tata-safari/tata-safari-smart",
@@ -32549,5 +32539,5 @@
     "https://www.icici.bank.in/regulatory-disclosure/2009",
     "https://www.icici.bank.in/regulatory-disclosure/2008"
   ],
-  "updatedAt": "2026-07-29T06:08:15.588Z"
+  "updatedAt": "2026-07-29T11:25:32.451Z"
 }

@@ -3,12 +3,14 @@ import { enrichCandidate } from "./enrich.mjs";
 import { detectChanges } from "./detect-changes.mjs";
 import { detectPings } from "./detect-pings.mjs";
 import { enrichChangeCandidate } from "./enrich-change.mjs";
+import { collectRedditBuzz } from "./lib/reddit-buzz.mjs";
 import { notifyTelegram } from "./lib/notify.mjs";
-import { formatLaunchMessage, formatChangeMessage, formatPingMessage } from "./lib/telegram-format.mjs";
+import { formatLaunchMessage, formatChangeMessage, formatPingMessage, formatRedditBuzzMessage } from "./lib/telegram-format.mjs";
 import { readJson, writeJson, PATHS } from "./lib/state.mjs";
 
 const MAX_LAUNCHES_KEPT = 200;
 const MAX_CHANGES_KEPT = 200;
+const MAX_BUZZ_KEPT = 200;
 const TELEGRAM_SEND_DELAY_MS = 1100; // stay under Telegram's ~1 msg/sec-per-chat guidance
 
 function isDue(settings) {
@@ -115,6 +117,12 @@ async function main() {
     : await detectPings({ cardPagesByIssuer, issuers, trackedCardUrls });
   console.log(`Found ${pings.length} lightweight lastmod ping(s) outside the tracked-cards list.`);
 
+  // Reddit Buzz: r/CreditCardsIndia posts tied specifically to this run's
+  // launches/changes - never general subreddit browsing. Reuses whatever
+  // newLaunches/newChanges were already found above, no extra detection step.
+  const newBuzz = await collectRedditBuzz({ newLaunches, newChanges });
+  console.log(`Found ${newBuzz.length} Reddit Buzz post(s) for this run's launches/changes.`);
+
   const existingLaunches = await readJson(PATHS.launches, []);
   const mergedLaunches = mergeById(existingLaunches, newLaunches, "discoveredAt", MAX_LAUNCHES_KEPT);
   await writeJson(PATHS.launches, mergedLaunches);
@@ -122,6 +130,10 @@ async function main() {
   const existingChanges = await readJson(PATHS.changes, []);
   const mergedChanges = mergeById(existingChanges, newChanges, "detectedAt", MAX_CHANGES_KEPT);
   await writeJson(PATHS.changes, mergedChanges);
+
+  const existingBuzz = await readJson(PATHS.redditBuzz, []);
+  const mergedBuzz = mergeById(existingBuzz, newBuzz, "detectedAt", MAX_BUZZ_KEPT);
+  await writeJson(PATHS.redditBuzz, mergedBuzz);
 
   const nowIso = new Date().toISOString();
   await writeJson(PATHS.meta, {
@@ -131,7 +143,8 @@ async function main() {
     issuerCount: issuers.length,
     trackedCardCount: trackedCards.length,
     totalLaunchesTracked: mergedLaunches.length,
-    totalChangesTracked: mergedChanges.length
+    totalChangesTracked: mergedChanges.length,
+    totalRedditBuzzTracked: mergedBuzz.length
   });
 
   await writeJson(PATHS.settings, { ...settings, lastRunAt: nowIso });
@@ -151,10 +164,15 @@ async function main() {
     await notifyTelegram(formatPingMessage(ping));
     await new Promise((resolve) => setTimeout(resolve, TELEGRAM_SEND_DELAY_MS));
   }
+  for (const buzz of newBuzz) {
+    await notifyTelegram(formatRedditBuzzMessage(buzz, settings.siteUrl));
+    await new Promise((resolve) => setTimeout(resolve, TELEGRAM_SEND_DELAY_MS));
+  }
 
   console.log(
-    `Run complete. ${newLaunches.length} new launch(es), ${newChanges.length} tracked change(s), ${pings.length} ping(s). ` +
-      `Tracking ${mergedLaunches.length} launches, ${mergedChanges.length} changes total.`
+    `Run complete. ${newLaunches.length} new launch(es), ${newChanges.length} tracked change(s), ${pings.length} ping(s), ` +
+      `${newBuzz.length} Reddit Buzz post(s). Tracking ${mergedLaunches.length} launches, ${mergedChanges.length} changes, ` +
+      `${mergedBuzz.length} buzz posts total.`
   );
 }
 

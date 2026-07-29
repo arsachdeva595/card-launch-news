@@ -204,6 +204,33 @@ body {
   outline: none;
 }
 
+.buzz-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.buzz-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1rem 1.2rem;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.buzz-card a {
+  color: var(--accent);
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.buzz-card a:hover {
+  text-decoration: underline;
+}
+
 .tile__badges {
   display: flex;
   gap: 0.4rem;
@@ -319,7 +346,8 @@ body {
 
 .detail-section a:hover { text-decoration: underline; }
 
-.detail-section p.snippet {
+.detail-section p.snippet,
+p.snippet {
   margin: 0.3rem 0 0;
   font-size: 0.85rem;
   color: var(--text-muted);

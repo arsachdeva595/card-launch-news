@@ -13,6 +13,7 @@ export const PATHS = {
   lastmodSnapshotsDir: path.join(ROOT, "data", "lastmod-snapshots"),
   launches: path.join(ROOT, "docs", "data", "launches.json"),
   changes: path.join(ROOT, "docs", "data", "changes.json"),
+  redditBuzz: path.join(ROOT, "docs", "data", "reddit-buzz.json"),
   meta: path.join(ROOT, "docs", "data", "meta.json")
 };
 

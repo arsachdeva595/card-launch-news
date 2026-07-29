@@ -101,22 +101,32 @@ with an honest label rather than something that looks broken.
    one's `<lastmod>` (already known from the sitemap, no fetch needed) to
    what was stored in `data/lastmod-snapshots/` last run. A moved `lastmod`
    becomes a lightweight ping — Telegram-only, no diff, no enrichment.
-7. **`scripts/run.mjs`** orchestrates all of the above, merges Tier 1 results
-   into `docs/data/launches.json` and `docs/data/changes.json`, writes
-   `docs/data/meta.json`, and sends Telegram notifications
-   (`scripts/lib/notify.mjs`/`scripts/lib/telegram-format.mjs`) for
-   launches, Tier 1 changes, and Tier 2 pings, if
-   `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID` are configured.
-8. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
-   reads the launches/changes JSON files and renders two tile feeds with a
-   shared detail view, including a rendered diff for changes. Tier 2 pings
-   don't appear on the site, only in Telegram. Served directly by GitHub
-   Pages — no build step.
-9. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
-   `scripts/run.mjs` only actually does work once `frequencyDays` (in
-   `config/settings.json`) has elapsed since the last run. Trigger a run
-   immediately (bypassing the frequency gate) from the Actions tab via
-   "Run workflow" with the `force` input checked.
+7. **`scripts/lib/reddit-buzz.mjs`** ("Reddit Buzz") takes this run's newly
+   detected launches and Tier 1 changes and searches r/CreditCardsIndia
+   specifically (via Reddit's own `subreddit:name` search qualifier) for
+   each one - deliberately separate from the general (unscoped) Reddit
+   search already shown on each card's own detail page. Cards with no
+   matching post contribute nothing, so this is only ever "real discussion
+   found tied to an actual launch/change," never general subreddit
+   browsing.
+8. **`scripts/run.mjs`** orchestrates all of the above, merges Tier 1
+   results into `docs/data/launches.json`, `docs/data/changes.json`, and
+   `docs/data/reddit-buzz.json`, writes `docs/data/meta.json`, and sends
+   Telegram notifications (`scripts/lib/notify.mjs`/
+   `scripts/lib/telegram-format.mjs`) for launches, Tier 1 changes, Tier 2
+   pings, and Reddit Buzz posts, if `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID`
+   are configured.
+9. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
+   reads those JSON files and renders three sections: launches and changes
+   as tile grids with a shared detail view (including a rendered diff for
+   changes), and Reddit Buzz as a simpler list (title/snippet/link, no
+   detail view needed). Tier 2 pings don't appear on the site, only in
+   Telegram. Served directly by GitHub Pages — no build step.
+10. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
+    `scripts/run.mjs` only actually does work once `frequencyDays` (in
+    `config/settings.json`) has elapsed since the last run. Trigger a run
+    immediately (bypassing the frequency gate) from the Actions tab via
+    "Run workflow" with the `force` input checked.
 
 ## One-time setup
 
@@ -223,6 +233,12 @@ still created with `community` fields left `null`.
 
 ## Known limitations (v1)
 
+- Reddit Buzz only searches for posts tied to launches/changes detected in
+  *that same run* - it doesn't retroactively search for older discussion
+  about a card that launched/changed days ago, and it relies on Reddit's
+  `subreddit:name` search qualifier working the way the underlying Apify
+  actor passes queries through (unverified live, same caveat as the rest of
+  the Apify integration - see the enrichment section above).
 - Change detection went through three rounds of noise-fixing against real
   production data before landing on a general approach, worth knowing the
   history of in case new noise ever surfaces again:

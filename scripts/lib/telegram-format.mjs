@@ -65,3 +65,15 @@ export function formatPingMessage(ping) {
     `Last modified: ${esc(ping.previousLastmod)} → ${esc(ping.lastmod)}`
   ].join("\n");
 }
+
+export function formatRedditBuzzMessage(buzz, siteUrl) {
+  const lines = [
+    `💬 <b>${esc(buzz.cardName)}</b> — r/CreditCardsIndia buzz (${esc(buzz.kind)})`,
+    `Issuer: ${esc(buzz.issuerName)}`,
+    "",
+    `<a href="${esc(buzz.postUrl)}">${esc(buzz.postTitle)}</a>`
+  ];
+  if (buzz.snippet) lines.push(esc(buzz.snippet).slice(0, 300));
+  if (siteUrl) lines.push("", `Full details: ${esc(siteUrl)}`);
+  return lines.join("\n");
+}

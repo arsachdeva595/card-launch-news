@@ -6,6 +6,7 @@ const searchInput = document.getElementById("search-input");
 
 let allLaunches = [];
 let allChanges = [];
+let allBuzz = [];
 let currentFrequencyDays = 7;
 
 // All card names, search-result titles/snippets, and diff text originate
@@ -224,9 +225,43 @@ function renderTiles({ items, gridEl, emptyStateEl, kind, dateField, frequencyDa
   }
 }
 
+function renderBuzzList(items, query) {
+  const listEl = document.getElementById("buzz-list");
+  const emptyStateEl = document.getElementById("buzz-empty-state");
+  const isSearching = query.trim().length > 0;
+
+  if (items.length === 0) {
+    emptyStateEl.textContent = isSearching
+      ? `No Reddit Buzz matches "${query}".`
+      : "No Reddit Buzz yet — shown here once a launch/change gets a matching r/CreditCardsIndia post.";
+    emptyStateEl.hidden = false;
+    listEl.innerHTML = "";
+    return;
+  }
+
+  emptyStateEl.hidden = true;
+  listEl.innerHTML = "";
+  for (const item of items) {
+    const card = document.createElement("div");
+    card.className = "buzz-card";
+    card.innerHTML = `
+      <div class="tile__badges">
+        <span class="badge">${escapeHtml(item.issuerName)}</span>
+        <span class="badge">${item.kind === "launch" ? "New launch" : "Card changed"}</span>
+      </div>
+      <p class="tile__name">${escapeHtml(item.cardName)}</p>
+      <a href="${safeHref(item.postUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.postTitle)}</a>
+      ${item.snippet ? `<p class="snippet">${escapeHtml(item.snippet)}</p>` : ""}
+      <p class="tile__date">${formatDate(item.detectedAt)}</p>
+    `;
+    listEl.appendChild(card);
+  }
+}
+
 function renderAll(query) {
   const filteredLaunches = filterAndSort(allLaunches, query);
   const filteredChanges = filterAndSort(allChanges, query);
+  const filteredBuzz = filterAndSort(allBuzz, query);
   const isSearching = query.trim().length > 0;
 
   renderTiles({
@@ -251,6 +286,8 @@ function renderAll(query) {
     emptyMessage: isSearching ? `No changes match "${query}".` : "No changes detected yet."
   });
 
+  renderBuzzList(filteredBuzz, query);
+
   // If the search narrows things down to exactly one card total, jump
   // straight to its detail view instead of making the user click it.
   if (isSearching && filteredLaunches.length + filteredChanges.length === 1) {
@@ -272,6 +309,7 @@ function renderSettings(meta) {
       <div><dt>Issuers tracked</dt><dd>${escapeHtml(meta.issuerCount ?? "?")}</dd></div>
       <div><dt>Launches tracked</dt><dd>${escapeHtml(meta.totalLaunchesTracked ?? 0)}</dd></div>
       <div><dt>Changes tracked</dt><dd>${escapeHtml(meta.totalChangesTracked ?? 0)}</dd></div>
+      <div><dt>Reddit Buzz posts</dt><dd>${escapeHtml(meta.totalRedditBuzzTracked ?? 0)}</dd></div>
       <div><dt>Change detection</dt><dd>${meta.changeDetectionEnabled === false ? "Disabled" : "Enabled"}</dd></div>
     </dl>
     <p class="settings-note">
@@ -286,13 +324,15 @@ function renderSettings(meta) {
 
 async function init() {
   try {
-    const [launchesRes, changesRes, metaRes] = await Promise.all([
+    const [launchesRes, changesRes, buzzRes, metaRes] = await Promise.all([
       fetch("data/launches.json", { cache: "no-store" }),
       fetch("data/changes.json", { cache: "no-store" }),
+      fetch("data/reddit-buzz.json", { cache: "no-store" }),
       fetch("data/meta.json", { cache: "no-store" })
     ]);
     allLaunches = await launchesRes.json();
     allChanges = changesRes.ok ? await changesRes.json() : [];
+    allBuzz = buzzRes.ok ? await buzzRes.json() : [];
     const meta = await metaRes.json();
     currentFrequencyDays = meta.frequencyDays || 7;
 

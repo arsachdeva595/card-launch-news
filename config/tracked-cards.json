@@ -3568,5 +3568,47 @@
     "issuerSlug": "karur-vysya-bank",
     "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-eternis-credit-card/",
     "status": "Active"
+  },
+  {
+    "cardName": "Credit Card: All You Need To Know",
+    "issuerSlug": "bank-of-baroda",
+    "url": "https://bankofbaroda.bank.in/banking-mantra/digital/articles/complete-guide-on-credit-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Features, Benefits &amp; Rewards of Credit Cards",
+    "issuerSlug": "bank-of-baroda",
+    "url": "https://bankofbaroda.bank.in/banking-mantra/digital/articles/credit-card-features-benefits-and-tips",
+    "status": "Active"
+  },
+  {
+    "cardName": "Different Types of Credit Cards in India",
+    "issuerSlug": "bank-of-baroda",
+    "url": "https://bankofbaroda.bank.in/banking-mantra/digital/articles/types-of-credit-cards",
+    "status": "Active"
+  },
+  {
+    "cardName": "What is Minimum Due in Credit Cards",
+    "issuerSlug": "bank-of-baroda",
+    "url": "https://bankofbaroda.bank.in/banking-mantra/others/articles/minimum-due-on-credit-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Apply For a Credit Card Online in India",
+    "issuerSlug": "bank-of-baroda",
+    "url": "https://bankofbaroda.bank.in/digital-products/cards/credit-cards",
+    "status": "Active"
+  },
+  {
+    "cardName": "Credit Card: All You Need To Know",
+    "issuerSlug": "bank-of-baroda",
+    "url": "https://bankofbaroda.bank.in/banking-mantra/digital/articles/complete-guide-on credit-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Credit Card: All You Need To Know",
+    "issuerSlug": "bank-of-baroda",
+    "url": "https://bankofbaroda.bank.in/banking-mantra/digital/articles/complete-guide-on%20credit-card",
+    "status": "Active"
   }
 ]

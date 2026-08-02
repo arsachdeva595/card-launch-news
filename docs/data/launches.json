@@ -1,5 +1,485 @@
 [
   {
+    "id": "icici-bank-icici-bank-cesc-launch-co",
+    "cardName": "ICICI Bank, CESC launch co",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-CESC-launch-co-branded-credit-card",
+    "discoveredAt": "2026-08-02T06:12:42.510Z",
+    "lastmod": "2026-06-11",
+    "announcement": {
+      "title": "ICICI Bank, CESC launch co",
+      "url": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-CESC-launch-co-branded-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank",
+    "cardName": "ICICI Bank",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-HPCL-co-branded-credit-card-crosses-1-million-card-base",
+    "discoveredAt": "2026-08-02T06:12:42.510Z",
+    "lastmod": "2026-06-11",
+    "announcement": {
+      "title": "ICICI Bank",
+      "url": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-HPCL-co-branded-credit-card-crosses-1-million-card-base",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-launches-affinity-credit-card-with-helpage-india",
+    "cardName": "ICICI Bank launches affinity credit card with HelpAge India",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-launches-affinity-credit-card-with-HelpAge-India",
+    "discoveredAt": "2026-08-02T06:12:42.510Z",
+    "lastmod": "2026-06-11",
+    "announcement": {
+      "title": "ICICI Bank launches affinity credit card with HelpAge India",
+      "url": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-launches-affinity-credit-card-with-HelpAge-India",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-everybody-wins",
+    "cardName": "\"Everybody Wins\"",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2004/Everybody-Wins-ICICI-Banks-special-scheme-for-debit-credit-cardholders",
+    "discoveredAt": "2026-08-02T06:12:42.510Z",
+    "lastmod": "2026-06-11",
+    "announcement": {
+      "title": "\"Everybody Wins\"",
+      "url": "https://www.icici.bank.in/about-us/news-room/2004/Everybody-Wins-ICICI-Banks-special-scheme-for-debit-credit-cardholders",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-wins-asian-banker-s-best-retail-bank-in-india-award",
+    "cardName": "ICICI Bank wins Asian Banker's \"Best Retail Bank in India\" award",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-Bharti-HPCL-Launch-AirTel-Rewards-ICICI-Bank-Credit-Card",
+    "discoveredAt": "2026-08-02T06:12:42.510Z",
+    "lastmod": "2026-06-11",
+    "announcement": {
+      "title": "ICICI Bank wins Asian Banker's \"Best Retail Bank in India\" award",
+      "url": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-Bharti-HPCL-Launch-AirTel-Rewards-ICICI-Bank-Credit-Card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-and-punjab-sind-bank-launch-co",
+    "cardName": "ICICI Bank and Punjab & Sind Bank Launch Co",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-and-Punjab-Sind-Bank-Launch-Co-Branded-Credit-Card",
+    "discoveredAt": "2026-08-02T06:12:42.510Z",
+    "lastmod": "2026-06-11",
+    "announcement": {
+      "title": "ICICI Bank and Punjab & Sind Bank Launch Co",
+      "url": "https://www.icici.bank.in/about-us/news-room/2004/ICICI-Bank-and-Punjab-Sind-Bank-Launch-Co-Branded-Credit-Card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-and-sarovar-hotels-co-branded-credit-card",
+    "cardName": "ICICI Bank and Sarovar Hotels Co branded Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2007/icici-bank-and-sarovar-hotels-co-branded-credit-card",
+    "discoveredAt": "2026-08-02T06:12:42.509Z",
+    "lastmod": "2026-06-12",
+    "announcement": {
+      "title": "ICICI Bank and Sarovar Hotels Co branded Credit Card",
+      "url": "https://www.icici.bank.in/about-us/news-room/2007/icici-bank-and-sarovar-hotels-co-branded-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-launches-india-s-first-visa-mini-credit-card",
+    "cardName": "ICICI Bank launches India's first 'Visa Mini Credit Card'",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2003/ICICI-Bank-launches-Indias-first-Visa-Mini-Credit-Card",
+    "discoveredAt": "2026-08-02T06:12:42.509Z",
+    "lastmod": "2026-06-11",
+    "announcement": {
+      "title": "ICICI Bank launches India's first 'Visa Mini Credit Card'",
+      "url": "https://www.icici.bank.in/about-us/news-room/2003/ICICI-Bank-launches-Indias-first-Visa-Mini-Credit-Card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-announces-free-for-life-credit-cards",
+    "cardName": "ICICI Bank announces \"Free for Life\" Credit Cards",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2005/creditcard",
+    "discoveredAt": "2026-08-02T06:12:42.509Z",
+    "lastmod": "2026-06-11",
+    "announcement": {
+      "title": "ICICI Bank announces \"Free for Life\" Credit Cards",
+      "url": "https://www.icici.bank.in/about-us/news-room/2005/creditcard",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-and-singapore-airlines-launch-icici-bank-singapore-airlines-visa-platinum-credit-card",
+    "cardName": "ICICI Bank and Singapore Airlines launch \"ICICI Bank Singapore Airlines Visa Platinum Credit Card\"",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2009/ICICI-Bank-and-Singapore-Airlines-launch-ICICI-Bank-Singapore-Airlines-Visa-Platinum-Credit-Card",
+    "discoveredAt": "2026-08-02T06:12:42.508Z",
+    "lastmod": "2026-05-05",
+    "announcement": {
+      "title": "ICICI Bank and Singapore Airlines launch \"ICICI Bank Singapore Airlines Visa Platinum Credit Card\"",
+      "url": "https://www.icici.bank.in/about-us/news-room/2009/ICICI-Bank-and-Singapore-Airlines-launch-ICICI-Bank-Singapore-Airlines-Visa-Platinum-Credit-Card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-launches-chip-based-fleet-credit-card",
+    "cardName": "ICICI Bank launches chip based Fleet Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2002/ICICI-Bank-launches-chip-based-Fleet-Credit-Card",
+    "discoveredAt": "2026-08-02T06:12:42.508Z",
+    "lastmod": "2026-06-10",
+    "announcement": {
+      "title": "ICICI Bank launches chip based Fleet Credit Card",
+      "url": "https://www.icici.bank.in/about-us/news-room/2002/ICICI-Bank-launches-chip-based-Fleet-Credit-Card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-and-british-airways-launch-co",
+    "cardName": "ICICI Bank and British Airways launch co",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2008/icici-bank-and-british-airways-launch-co-branded-credit-card",
+    "discoveredAt": "2026-08-02T06:12:42.508Z",
+    "lastmod": "2026-06-12",
+    "announcement": {
+      "title": "ICICI Bank and British Airways launch co",
+      "url": "https://www.icici.bank.in/about-us/news-room/2008/icici-bank-and-british-airways-launch-co-branded-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-launches-visa-signature-credit-card-in-india",
+    "cardName": "ICICI Bank Launches Visa Signature Credit Card in India",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2007/icici-bank-launches-visa-signature-credit-card-in-india",
+    "discoveredAt": "2026-08-02T06:12:42.508Z",
+    "lastmod": "2026-06-12",
+    "announcement": {
+      "title": "ICICI Bank Launches Visa Signature Credit Card in India",
+      "url": "https://www.icici.bank.in/about-us/news-room/2007/icici-bank-launches-visa-signature-credit-card-in-india",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-and-kingfisher-airlines-launch-the-icici-bank-kingfisher-airlines-mastercard-credit-card",
+    "cardName": "ICICI Bank and Kingfisher Airlines launch the ICICI Bank Kingfisher Airlines MasterCard Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2010/icici-bank-and-kingfisher-airlines-launch-the-icici-bank-kingfisher-airlines-master-card-credit-card",
+    "discoveredAt": "2026-08-02T06:12:42.507Z",
+    "lastmod": "2026-06-15",
+    "announcement": {
+      "title": "ICICI Bank and Kingfisher Airlines launch the ICICI Bank Kingfisher Airlines MasterCard Credit Card",
+      "url": "https://www.icici.bank.in/about-us/news-room/2010/icici-bank-and-kingfisher-airlines-launch-the-icici-bank-kingfisher-airlines-master-card-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-launches-icici-bank-coral-american-express-credit-card",
+    "cardName": "ICICI Bank launches ICICI Bank Coral American Express® Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2014/news-icici-bank-launches-icici-bank-coral-american-express-credit-card",
+    "discoveredAt": "2026-08-02T06:12:42.506Z",
+    "lastmod": "2026-02-17",
+    "announcement": {
+      "title": "ICICI Bank launches ICICI Bank Coral American Express® Credit Card",
+      "url": "https://www.icici.bank.in/about-us/news-room/2014/news-icici-bank-launches-icici-bank-coral-american-express-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-launches-the-super-premium-sapphiro-credit-cards",
+    "cardName": "ICICI Bank launches the super premium Sapphiro Credit Cards",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2012/super-premium-Sapphiro-Credit-Cards",
+    "discoveredAt": "2026-08-02T06:12:42.506Z",
+    "lastmod": "2026-05-06",
+    "announcement": {
+      "title": "ICICI Bank launches the super premium Sapphiro Credit Cards",
+      "url": "https://www.icici.bank.in/about-us/news-room/2012/super-premium-Sapphiro-Credit-Cards",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-launches-ferrari-range-of-credit-cards",
+    "cardName": "ICICI Bank launches Ferrari range of credit cards",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2016/news-icici-bank-launches-ferrari-range-of-credit-cards",
+    "discoveredAt": "2026-08-02T06:12:42.505Z",
+    "lastmod": "2025-09-17",
+    "announcement": {
+      "title": "ICICI Bank launches Ferrari range of credit cards",
+      "url": "https://www.icici.bank.in/about-us/news-room/2016/news-icici-bank-launches-ferrari-range-of-credit-cards",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-launches-contactless-credit-card-with-jet-airways-for-smes",
+    "cardName": "ICICI Bank launches contactless credit card with Jet Airways for SMEs",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2016/news-icici-bank-launches-contactless-credit-card-with-jet-airways-for-smes",
+    "discoveredAt": "2026-08-02T06:12:42.505Z",
+    "lastmod": "2025-09-17",
+    "announcement": {
+      "title": "ICICI Bank launches contactless credit card with Jet Airways for SMEs",
+      "url": "https://www.icici.bank.in/about-us/news-room/2016/news-icici-bank-launches-contactless-credit-card-with-jet-airways-for-smes",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-introduces-instant-credit-card",
+    "cardName": "ICICI Bank introduces instant credit card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2017/news-icici-bank-introduces-instant-credit-card",
+    "discoveredAt": "2026-08-02T06:12:42.504Z",
+    "lastmod": "2026-05-07",
+    "announcement": {
+      "title": "ICICI Bank introduces instant credit card",
+      "url": "https://www.icici.bank.in/about-us/news-room/2017/news-icici-bank-introduces-instant-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-nri-world-debit-card",
+    "cardName": "NRI World Debit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/nri-banking/cards/debit-card/world-debit-card",
+    "discoveredAt": "2026-08-02T06:12:42.499Z",
+    "lastmod": "2026-04-28",
+    "announcement": {
+      "title": "NRI World Debit Card",
+      "url": "https://www.icici.bank.in/nri-banking/cards/debit-card/world-debit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-apply-for-nri-platinum-debit-card",
+    "cardName": "Apply for NRI Platinum Debit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/nri-banking/cards/debit-card/platinum-debit-card",
+    "discoveredAt": "2026-08-02T06:12:42.499Z",
+    "lastmod": "2026-03-20",
+    "announcement": {
+      "title": "Apply for NRI Platinum Debit Card",
+      "url": "https://www.icici.bank.in/nri-banking/cards/debit-card/platinum-debit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-nri-debit-card",
+    "cardName": "NRI Debit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/nri-banking/cards/debit-card/nri-debit-card",
+    "discoveredAt": "2026-08-02T06:12:42.499Z",
+    "lastmod": "2026-02-02",
+    "announcement": {
+      "title": "NRI Debit Card",
+      "url": "https://www.icici.bank.in/nri-banking/cards/debit-card/nri-debit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-apply-for-nri-credit-card",
+    "cardName": "Apply for NRI Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/nri-banking/cards/credit-card",
+    "discoveredAt": "2026-08-02T06:12:42.499Z",
+    "lastmod": "2026-07-21",
+    "announcement": {
+      "title": "Apply for NRI Credit Card",
+      "url": "https://www.icici.bank.in/nri-banking/cards/credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-credit-card-for-nris-all-you-need-to-know",
+    "cardName": "Credit card for NRIs: All you need to know",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/nri-banking/nriedge/nri-articles/credit-card-for-nris-all-you-need-to-know",
+    "discoveredAt": "2026-08-02T06:12:42.497Z",
+    "lastmod": "2026-03-24",
+    "announcement": {
+      "title": "Credit card for NRIs: All you need to know",
+      "url": "https://www.icici.bank.in/nri-banking/nriedge/nri-articles/credit-card-for-nris-all-you-need-to-know",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "bank-of-baroda-credit-card-all-you-need-to-know",
     "cardName": "Credit Card: All You Need To Know",
     "issuerName": "Bank of Baroda",

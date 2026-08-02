@@ -48,8 +48,8 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-card-services/rewards/queries": "2026-04-23",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-limit-increase": "2026-06-27",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/travel-easy/international-transactions": "2026-04-08",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/personal-loan-on-credit-card": "2026-07-06",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/personal-loan-on-credit-card/service-charges": "2026-07-23",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/personal-loan-on-credit-card": "2026-08-01",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/personal-loan-on-credit-card/service-charges": "2026-08-01",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/pre-approved-credit-card": "2026-06-27",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-card-against-fixed-deposit": "2026-06-29",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards": "2026-07-20",
@@ -229,7 +229,7 @@
     "https://www.icici.bank.in/business-banking/cards/business-debit-card/world-debit-card": "2026-06-23",
     "https://www.icici.bank.in/business-banking/cards/business-credit-card": "2026-07-20",
     "https://www.icici.bank.in/business-banking/cards/business-credit-card/insta-business-card": "2026-01-30",
-    "https://www.icici.bank.in/business-banking/cards/business-credit-card/business-advantage-black-card": "2026-06-24",
+    "https://www.icici.bank.in/business-banking/cards/business-credit-card/business-advantage-black-card": "2026-07-31",
     "https://www.icici.bank.in/business-banking/cards/business-credit-card/business-advantage-blue-card": "2026-07-16",
     "https://www.icici.bank.in/business-banking/cards/business-credit-card/essential-business-advantage-card": "2026-06-24",
     "https://www.icici.bank.in/business-banking/cards/business-credit-card/gold-business-card": "2026-06-24",
@@ -245,5 +245,5 @@
     "https://www.icici.bank.in/business-banking/cards/corporate-card/documents": "2026-06-01",
     "https://www.icici.bank.in/campus-power/alumni-credit-card": "2026-07-21"
   },
-  "updatedAt": "2026-07-31T06:34:13.708Z"
+  "updatedAt": "2026-08-02T06:25:58.046Z"
 }

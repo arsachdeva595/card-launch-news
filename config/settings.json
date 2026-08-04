@@ -32,7 +32,13 @@
       "custom-tab",
       "/credit-cards.html",
       "/credit-card.html",
-      "/campaign/"
+      "/campaign/",
+      "/news-room/",
+      "articles/",
+      "debit-card",
+      "debit_card",
+      "/nri-banking/cards/credit-card",
+      "/digital-products/cards/credit-cards"
     ]
   },
   "changeDetection": {

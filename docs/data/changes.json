@@ -64,70 +64,6 @@
     }
   },
   {
-    "id": "icici-bank-icici-bank-and-kingfisher-airlines-launch-the-icici-bank-kingfisher-airlines-mastercard-credit-card",
-    "cardName": "ICICI Bank and Kingfisher Airlines launch the ICICI Bank Kingfisher Airlines MasterCard Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2010/icici-bank-and-kingfisher-airlines-launch-the-icici-bank-kingfisher-airlines-master-card-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-03T06:40:43.884Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank and Kingfisher Airlines launch the ICICI Bank Kingfisher Airlines MasterCard Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "FCNR FD Rates"
-      },
-      {
-        "type": "context",
-        "text": "News Room"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank and Kingfisher Airlines launch the ICICI Bank Kingfisher Airlines MasterCard Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-icici-bank-and-british-airways-launch-co",
-    "cardName": "ICICI Bank and British Airways launch co",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/about-us/news-room/2008/icici-bank-and-british-airways-launch-co-branded-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-03T06:40:43.884Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank and British Airways launch co-branded credit card"
-      },
-      {
-        "type": "added",
-        "text": "FCNR FD Rates"
-      },
-      {
-        "type": "context",
-        "text": "News Room"
-      },
-      {
-        "type": "context",
-        "text": "2008"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "icici-bank-parakram-select-credit-card",
     "cardName": "Parakram Select Credit Card",
     "issuerName": "ICICI Bank",
@@ -5008,42 +4944,6 @@
       {
         "type": "context",
         "text": "Manage Your Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "bank-of-baroda-what-is-minimum-due-in-credit-cards",
-    "cardName": "What is Minimum Due in Credit Cards",
-    "issuerName": "Bank of Baroda",
-    "issuerSlug": "bank-of-baroda",
-    "officialUrl": "https://bankofbaroda.bank.in/",
-    "productPageUrl": "https://bankofbaroda.bank.in/banking-mantra/others/articles/minimum-due-on-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-02T06:16:53.400Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "By educating yourself about how minimum dues work and employing smart financial habits, you can manage your credit card effectively and avoid falling into a cycle of debt. Always remember that the goal is not just to keep your account in good standing but to maintain a healthy financial future."
-      },
-      {
-        "type": "context",
-        "text": "For more insights and tips on managing your credit card and finances, visit Bank of Baroda."
-      },
-      {
-        "type": "removed",
-        "text": "Ways to Check FASTag Balance"
-      },
-      {
-        "type": "context",
-        "text": "FASTag is an electronic toll collection system in India, implemented by the National Highway Authority of India (NHAI). It is designed to eliminate the need for stopping at toll plazas to pay toll fees, thereby reducing traffic congestion and enhancing the convenience of road users. FASTag uses Radio Frequency Identification (RFID) technology for making toll payments directly from the prepaid account linked to it."
-      },
-      {
-        "type": "context",
-        "text": "IMPS in Banking – Full Form, Features, Transaction Limit, Charges & how it works"
       }
     ],
     "community": {

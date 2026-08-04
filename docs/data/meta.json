@@ -3,8 +3,8 @@
   "frequencyDays": 1,
   "changeDetectionEnabled": true,
   "issuerCount": 24,
-  "trackedCardCount": 626,
-  "totalLaunchesTracked": 31,
-  "totalChangesTracked": 63,
+  "trackedCardCount": 594,
+  "totalLaunchesTracked": 2,
+  "totalChangesTracked": 60,
   "totalRedditBuzzTracked": 0
 }

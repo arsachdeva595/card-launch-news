@@ -1,5 +1,25 @@
 [
   {
+    "id": "icici-bank-alumni-credit-card",
+    "cardName": "Alumni Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/alumni-credit-card",
+    "discoveredAt": "2026-08-07T05:02:02.815Z",
+    "lastmod": "2026-07-31",
+    "announcement": {
+      "title": "Alumni Credit Card",
+      "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/alumni-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "axis-bank-how-5-000-at-22-beats-10-000-at-30",
     "cardName": "How 5,000 at 22 beats 10,000 at 30",
     "issuerName": "Axis Bank",

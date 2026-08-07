@@ -3616,5 +3616,11 @@
     "issuerSlug": "axis-bank",
     "url": "https://www.axis.bank.in/important-links/credit-card",
     "status": "Active"
+  },
+  {
+    "cardName": "Alumni Credit Card",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/alumni-credit-card",
+    "status": "Active"
   }
 ]

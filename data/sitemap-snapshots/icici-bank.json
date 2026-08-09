@@ -30395,13 +30395,6 @@
     "https://www.icicibank.com/cars/kia/kia-carens-clavis-ev/kia-carens-clavis-ev-gtx-plus-er",
     "https://www.icicibank.com/cars/kia/kia-syros-ev",
     "https://www.icicibank.com/cars/kia/kia-syros-ev/vehicle-price",
-    "https://www.icicibank.com/cars/kia/kia-syros-ev/kia-syros-ev-htk",
-    "https://www.icicibank.com/cars/kia/kia-syros-ev/kia-syros-ev-htk-plus",
-    "https://www.icicibank.com/cars/kia/kia-syros-ev/kia-syros-ev-htx",
-    "https://www.icicibank.com/cars/kia/kia-syros-ev/kia-syros-ev-htk-plus-er",
-    "https://www.icicibank.com/cars/kia/kia-syros-ev/kia-syros-ev-htx-er",
-    "https://www.icicibank.com/cars/kia/kia-syros-ev/kia-syros-ev-htx-plus-er",
-    "https://www.icicibank.com/cars/kia/kia-syros-ev/kia-syros-ev-x-line-er",
     "https://www.icicibank.com/cars/hyundai",
     "https://www.icicibank.com/cars/hyundai/hyundai-alcazar",
     "https://www.icicibank.com/cars/hyundai/hyundai-alcazar/vehicle-price",
@@ -31840,9 +31833,11 @@
     "https://www.icicibank.com/cars/mg/mg-m9",
     "https://www.icicibank.com/cars/mg/mg-m9/vehicle-price",
     "https://www.icicibank.com/cars/mg/mg-m9/mg-m9-presidential-limo",
+    "https://www.icicibank.com/cars/mg/mg-m9/mg-m9-couture-edition",
     "https://www.icicibank.com/cars/mg/mg-cyberster",
     "https://www.icicibank.com/cars/mg/mg-cyberster/vehicle-price",
     "https://www.icicibank.com/cars/mg/mg-cyberster/mg-cyberster-gt",
+    "https://www.icicibank.com/cars/mg/mg-cyberster/mg-cyberster-couture-edition",
     "https://www.icicibank.com/cars/mg/mg-majestor",
     "https://www.icicibank.com/cars/mg/mg-majestor/vehicle-price",
     "https://www.icicibank.com/cars/mg/mg-majestor/mg-majestor-savvy-4x2-6str",
@@ -33724,5 +33719,5 @@
     "https://www.icici.bank.in/regulatory-disclosure/2009",
     "https://www.icici.bank.in/regulatory-disclosure/2008"
   ],
-  "updatedAt": "2026-08-07T05:02:02.815Z"
+  "updatedAt": "2026-08-09T04:36:07.353Z"
 }

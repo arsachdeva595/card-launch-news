@@ -1,5 +1,2525 @@
 [
   {
+    "id": "indusind-bank-epay-amex-credit-card",
+    "cardName": "ePay Amex Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/epay-amex-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:55.973Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Reward for early payment"
+      },
+      {
+        "type": "context",
+        "text": "Get 5% cashback annually every time on payment of total due amount within 7 days of statement generation."
+      },
+      {
+        "type": "added",
+        "text": "Terms and Conditions for Early Payment Cashback:"
+      },
+      {
+        "type": "added",
+        "text": "Customer will get 5% cashback annually if statement total outstanding has been paid within 7 days of statement generation. Partial payment or minimum amount paid will not be considered for cashback eligibility."
+      },
+      {
+        "type": "added",
+        "text": "The cashback would reflect in the next statement cycle. In case of reversals of payments before that, cashback won’t be credited."
+      },
+      {
+        "type": "added",
+        "text": "To be eligible for cashback, card account needs to be in active state without any block on the date of posting cashback. Delinquency or revolving accounts will not be eligible for cashback."
+      },
+      {
+        "type": "added",
+        "text": "In case of upgrade, new logo of digital card will be considered for cashback. In case of moving to any other product, this feature won’t be available."
+      },
+      {
+        "type": "added",
+        "text": "Illustration of 5% cashback calculations:"
+      },
+      {
+        "type": "added",
+        "text": "If statement generated on 20th of the month for Rs. 50,000 – 5% cashback would be calculated as below:"
+      },
+      {
+        "type": "added",
+        "text": "5% / 365 (daily cashback calculation) × 15 days (no. of interest-free period days not used) = 0.21%"
+      },
+      {
+        "type": "added",
+        "text": "Statement Date"
+      },
+      {
+        "type": "added",
+        "text": "Payment Date"
+      },
+      {
+        "type": "added",
+        "text": "Payment Amount"
+      },
+      {
+        "type": "added",
+        "text": "5% cashback/ day"
+      },
+      {
+        "type": "added",
+        "text": "Total cashback"
+      },
+      {
+        "type": "added",
+        "text": "20-Jun-23"
+      },
+      {
+        "type": "added",
+        "text": "27-Jun-23"
+      },
+      {
+        "type": "added",
+        "text": "50,000"
+      },
+      {
+        "type": "added",
+        "text": "0.21%"
+      },
+      {
+        "type": "added",
+        "text": "103"
+      },
+      {
+        "type": "context",
+        "text": "Our main aim is to make cashless transactions safe and secure for all our customers. Hence, we have introduced ‘Total Protect' - a first-of-its-kind programme that covers you for an amount equal to the credit limit on your card."
+      },
+      {
+        "type": "context",
+        "text": "Counterfeit fraud: There is a possibility of your card or card details to be stolen and misused to produce counterfeit cards. We offer you insurance to protect you against such incidents."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-amazon-pay-credit-card",
+    "cardName": "Amazon Pay Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:03.570Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Low Forex Markup - 1.99%"
+      },
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "removed",
+        "text": "72,900 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "73,128 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Rewards on Amazon Purchases"
+      },
+      {
+        "type": "context",
+        "text": "Non-expiring, Unlimited rewards"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-hpcl-coral-credit-card",
+    "cardName": "HPCL Coral Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-coral-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:03.570Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank HPCL Coral Credit Card – 25% Fuel Cashback"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "HPCL Coral Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Low Joining Fee"
+      },
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "removed",
+        "text": "12,821 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "12,260 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Automobile Associated Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Cashbacks on Fuel Payments"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-skywards-rubyx-credit-card",
+    "cardName": "Emirates Skywards Rubyx Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-rubyx-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-09T04:41:03.569Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Emirates Skywards Rubyx Credit Card | ICICI Bank"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Fees & Chargss"
+      },
+      {
+        "type": "context",
+        "text": "Emirates Skywards Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Skywards Miles"
+      },
+      {
+        "type": "context",
+        "text": "Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "6,217 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "6,187 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Frequent Flyers"
+      },
+      {
+        "type": "context",
+        "text": "Airport Lounge Access"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-sapphiro-credit-card",
+    "cardName": "Emirates Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:03.569Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Lounge Access"
+      },
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "removed",
+        "text": "6,728 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "6,606 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Luxury travel and lifestyle"
+      },
+      {
+        "type": "context",
+        "text": "International Airport Lounge Access"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-credit-card",
+    "cardName": "MakeMyTrip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:03.568Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Credit Card: Travel Rewards & Benefits"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Best for"
+      },
+      {
+        "type": "context",
+        "text": "Rewards and offers"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "MMTBLACK membership"
+      },
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "removed",
+        "text": "13,997 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "14,051 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Travel Enthusiasts Seeking Value and Flexibility"
+      },
+      {
+        "type": "context",
+        "text": "Up to 6% myCash on MakeMyTrip Bookings"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-signature-credit-card",
+    "cardName": "Adani One Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:03.567Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply"
+      },
+      {
+        "type": "context",
+        "text": "Save"
+      },
+      {
+        "type": "removed",
+        "text": "10,846 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "10,798 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Top-notch airport experience"
+      },
+      {
+        "type": "context",
+        "text": "Exclusive Airport benefits"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-platinum-chip-credit-card",
+    "cardName": "Platinum Chip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:03.567Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply"
+      },
+      {
+        "type": "context",
+        "text": "Save"
+      },
+      {
+        "type": "removed",
+        "text": "23,698 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "23,278 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Rewards on Everyday Spends"
+      },
+      {
+        "type": "context",
+        "text": "Reward points on transactions"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-coral-credit-card",
+    "cardName": "Coral Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/coral-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:03.567Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank Coral Credit Card – Your First Step to Financial Freedom"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Fees and Charges"
+      },
+      {
+        "type": "context",
+        "text": "Coral Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "INOX Offers"
+      },
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "removed",
+        "text": "81,337 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "80,904 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Everyday or on-the-go spends"
+      },
+      {
+        "type": "context",
+        "text": "BookMyShow Offers"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-sapphiro-credit-card",
+    "cardName": "Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:03.565Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank Sapphiro Credit Card: Travel and Lifestyle Rewards"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Best for"
+      },
+      {
+        "type": "context",
+        "text": "Maximum benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "BookMyShow Offers"
+      },
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "removed",
+        "text": "159,710 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "158,639 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Premium Lifestyle Offers"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Vouchers"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-credit-card",
+    "cardName": "Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:41:03.564Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank Emeralde Credit Card - Experience Premium Privileges"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "For a limited period"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Fees and Chargs"
+      },
+      {
+        "type": "context",
+        "text": "Enter Your Details"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Know More"
+      },
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "removed",
+        "text": "32,979 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "33,104 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Luxurious lifestyle"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited access to airport lounges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-fleet-credit-card",
+    "cardName": "Fleet Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/fleet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:40:20.144Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Salary Plus Overdraft"
+      },
+      {
+        "type": "context",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "MyLoans"
+      },
+      {
+        "type": "added",
+        "text": "MyLoans"
+      },
+      {
+        "type": "context",
+        "text": "My Money"
+      },
+      {
+        "type": "context",
+        "text": "Fleet Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-dealer-credit-card",
+    "cardName": "Dealer Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/dealer-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:40:20.144Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Salary Plus Overdraft"
+      },
+      {
+        "type": "context",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "MyLoans"
+      },
+      {
+        "type": "added",
+        "text": "MyLoans"
+      },
+      {
+        "type": "context",
+        "text": "My Money"
+      },
+      {
+        "type": "context",
+        "text": "HDFC Bank Dealer Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-sap-concur-black-corporate-credit-card",
+    "cardName": "SAP Concur Black Corporate Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/hdfc-bank-sap-concur-black-corporate-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:40:20.139Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "SAP Concur Solutions Black Corporate Credit Card | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 5"
+      },
+      {
+        "type": "removed",
+        "text": "Premium 5"
+      },
+      {
+        "type": "removed",
+        "text": "Senior Citizen 2"
+      },
+      {
+        "type": "removed",
+        "text": "Women 2"
+      },
+      {
+        "type": "removed",
+        "text": "Kids 3"
+      },
+      {
+        "type": "removed",
+        "text": "RFC Saving Account"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - GBP"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - USD"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - EURO"
+      },
+      {
+        "type": "removed",
+        "text": "Vishesh Premier Banking"
+      },
+      {
+        "type": "removed",
+        "text": "Prime Premier Banking"
+      },
+      {
+        "type": "removed",
+        "text": "FCNR - MAX"
+      },
+      {
+        "type": "removed",
+        "text": "NRI -Mutual Funds"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Against Fixed Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "Other Loan Types"
+      },
+      {
+        "type": "removed",
+        "text": "Smart Hub Vyapar"
+      },
+      {
+        "type": "removed",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Consumer Durable Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI -Mutual Funds"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Other Loan Types"
+      },
+      {
+        "type": "added",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "Salary Plus Overdraft"
+      },
+      {
+        "type": "added",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "MyLoans"
+      },
+      {
+        "type": "added",
+        "text": "MyLoans"
+      },
+      {
+        "type": "added",
+        "text": "My Money"
+      },
+      {
+        "type": "context",
+        "text": "HDFC Bank SAP Concur Black Corporate Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "SAP Concur Solutions Black Corporate Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "You can track your application status online through the HDFC Bank website or by contacting our customer service helpline."
+      },
+      {
+        "type": "context",
+        "text": "Click here to read more FAQs."
+      },
+      {
+        "type": "removed",
+        "text": "Locate Us"
+      },
+      {
+        "type": "removed",
+        "text": "HDFC Bank Now"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-flipkart-wholesale-credit-card",
+    "cardName": "Flipkart Wholesale Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/flipkart-wholesale-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:40:20.136Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Flipkart Wholesale Credit Card - Apply for Flipkart Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "Salary Plus Overdraft"
+      },
+      {
+        "type": "added",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "MyLoans"
+      },
+      {
+        "type": "added",
+        "text": "MyLoans"
+      },
+      {
+        "type": "added",
+        "text": "My Money"
+      },
+      {
+        "type": "context",
+        "text": "Flipkart Wholesale Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Exclusive rewards on 'Flipkart Wholesale'"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "5% CashBack on Telecom, Utility, Govt & Tax Payments up to Rs. 250 per month"
+      },
+      {
+        "type": "context",
+        "text": "1% CashBack on all other spends will be capped at 25,000 per month"
+      },
+      {
+        "type": "removed",
+        "text": "Enquire Now"
+      },
+      {
+        "type": "context",
+        "text": "Card Benefits and Features"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility Criteria"
+      },
+      {
+        "type": "context",
+        "text": "Documents Required To Apply"
+      },
+      {
+        "type": "context",
+        "text": "How to apply?"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Redemption Program"
+      },
+      {
+        "type": "context",
+        "text": "More benefits than ever before"
+      },
+      {
+        "type": "context",
+        "text": "CashBack Benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Activation Benefits"
+      },
+      {
+        "type": "context",
+        "text": "₹500 CashBack per transaction on first 3 purchases within 90 days of on-boarding, (Min.txn of ₹2,000 each and spends limited to Flipkart Wholesale online platforms only)"
+      },
+      {
+        "type": "removed",
+        "text": "SmartBuy Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Exclusive SmartBuy Business portal for all Business cardholders. Click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Additional Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Lifestyle Benefits"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-harley-davidson-diners-club-credit-card",
+    "cardName": "Harley-Davidson Diners Club Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/harley-davidson-diners-club-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:40:20.133Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Harley Davidson Diners Club Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "My Money"
+      },
+      {
+        "type": "added",
+        "text": "My Money"
+      },
+      {
+        "type": "context",
+        "text": "Harley-Davidson Diners Club Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Harley-Davidson Diners Club Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-celesta-credit-card",
+    "cardName": "Mastercard Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.216Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 869bfbe8-e42i-41f0-b651-fa506066e1c7"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 66849d04-e42i-44f3-a62d-92b8e4cff7bd"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:48 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:20 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-imperio-credit-card",
+    "cardName": "Mastercard Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.216Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 0fcb0c6d-e42i-4abf-a851-bc2e0d88fd91"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 756a71b7-e42i-4522-bc38-7a116faa8e2a"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:49 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:21 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-signet-credit-card",
+    "cardName": "Mastercard Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.216Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 46aba7c8-e42i-4091-b3ae-5d9ba68b23bc"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: e010b955-e42i-4a1e-b2b9-b39ae64a065b"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:50 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:21 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-signet-credit-card",
+    "cardName": "Rupay Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.216Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: ad2a1001-e42i-4672-b6d4-3c39d82fc651"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 010046b7-e42i-4915-b7f4-4b9ce63cea3f"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:50 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:22 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-wave-credit-card",
+    "cardName": "Rupay Wave Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.216Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: f94f8d97-e42i-41f5-996a-7b0c8ea8dbaa"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 80887ca2-e42i-4e9f-8954-e1b0c24aec39"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:51 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:23 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-rupay-credit-card",
+    "cardName": "Fed StarBiz RuPay Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.216Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: f25c3db2-e42i-48fd-896d-1dc7559f741b"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: b8f12205-e42i-4e34-a155-86466a9ec418"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:52 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:24 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-visa-credit-card",
+    "cardName": "Fed StarBiz Visa Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.215Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 1f35ffbb-e42i-4b4a-8917-a1b79277a29e"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: a55292e3-e42i-43c0-8017-8230b6caaf2c"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:47 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:19 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-signet-credit-card",
+    "cardName": "Visa Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.215Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: e06b9962-e42i-4f95-9fc5-cfe4a9e84ea0"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: bd1b9f8a-e42i-46ac-bc58-17981ec8a3a5"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:46 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:18 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-imperio-credit-card",
+    "cardName": "Visa Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.215Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: e15370c7-e42i-447a-9820-a333a829ea01"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 7681cd72-e42i-493a-b917-fd8f933f794c"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:46 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:18 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-celesta-credit-card",
+    "cardName": "Visa Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:24.215Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 4de674a7-e42i-41f6-a66c-effd06ca9128"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 5a54039e-e42i-4383-9d5f-d2ce7f5d57f2"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "August 07 2026, 05:06:45 UTC"
+      },
+      {
+        "type": "added",
+        "text": "August 09 2026, 04:39:17 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "canara-bank-mastercard-gold-secured-credit-card",
+    "cardName": "Mastercard Gold Secured Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/mastercard-gold-secured-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:07.835Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "|"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "canara-bank-rupay-select-credit-card",
+    "cardName": "Rupay Select Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:39:07.833Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "|"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-travel-credit-card",
+    "cardName": "American Express® Platinum Travel Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-travel-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:37:09.283Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "9. Eligible spends do not include cash advances, express cash transaction, draft made from the account, balance transfer, fees and is net of any returns."
+      },
+      {
+        "type": "context",
+        "text": "* Membership Rewards points received on spend milestones are a combination of threshold Membership Rewards points and Bonus Membership Rewards points. You will get your threshold Membership Rewards points once you achieve the spend milestones. Bonus Membership Rewards points will be issued automatically after 9 March 2026; however, for annual milestones achieved prior to 9 March 2026, you can claim your Bonus Membership Rewards points by calling or chatting with us using the number on the back of your Card."
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift 1  of 4,000 Bonus Membership Rewards ®  Points"
+      },
+      {
+        "type": "added",
+        "text": "Earn 1,000 bonus points on 6 transactions of ₹1,000 or more every calendar month"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy greater flexibility with ‘no pre-set spending’ limit. Terms and condition apply."
+      },
+      {
+        "type": "added",
+        "text": "Earn 1 Membership Rewards ® point on all spend including utility. Terms and Conditions apply"
+      },
+      {
+        "type": "added",
+        "text": "American Express Membership Rewards® Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift of 4,000 Bonus Membership Rewards® Points"
+      },
+      {
+        "type": "added",
+        "text": "First Year Fee: Rs. 1,000 plus applicable taxes (Second Year onwards: Rs. 4,500 plus applicable taxes)"
+      },
+      {
+        "type": "added",
+        "text": "Earn 1,000 Bonus Membership Rewards®Points for simply using your Card 4 times on transactions of Rs. 1,500 and above every month"
+      },
+      {
+        "type": "added",
+        "text": "Earn an additional 1,000 Membership Rewards points simply by spending INR 20,000 or more in a calendar month. This is an enrollment based benefit."
+      },
+      {
+        "type": "added",
+        "text": "Redeem your Points from the fabulous 18 and 24 Karat Gold Collection"
+      },
+      {
+        "type": "added",
+        "text": "American Express® Platinum Reserve SM Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy privileges at Taj, SeleQtions and Vivanta Hotels and Preferred Hotels & Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary access to leading Golf courses in India"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary access to international and domestic airport lounges across India."
+      },
+      {
+        "type": "added",
+        "text": "Complimentary ALL Accor+ Explorer membership"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-reservesm-credit-card",
+    "cardName": "American Express® Platinum ReserveSM Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-reserve-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:37:09.282Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "American Express Platinum Reserve Card | Amex Platinum"
+      },
+      {
+        "type": "context",
+        "text": "View all Cards American Express® Platinum Reserve SM Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Get a Welcome Gift of 11,000 Bonus Membership Rewards Points."
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "First Year Fee: Rs. 10,000 plus applicable taxes (Second Year onwards: Rs. 10,000 plus applicable taxes)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "First year Fee: Rs. 10,000 plus applicable taxes"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "7. Effective September 1, 2023, access to domestic “The Centurion ® American Express Lounges” in Delhi and Mumbai on your American Express Platinum Reserve Credit Card is being discontinued."
+      },
+      {
+        "type": "context",
+        "text": "8. Eligible spends do not include cash advances, express cash transaction, draft made from the account, balance transfer, fees and is net of any returns."
+      },
+      {
+        "type": "added",
+        "text": "American Express® Platinum Travel Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift of 10,000 * Membership Rewards points"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: Rs. 5,000 plus applicable taxes"
+      },
+      {
+        "type": "added",
+        "text": "Earn up-to 40,000 * Bonus Membership Reward points"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 2 complimentary visit per quarter in a year at select airport lounges"
+      },
+      {
+        "type": "added",
+        "text": "Taj, SeleQtions and Vivanta Hotels Experiences Gift Card worth Rs. 10,000"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift 1  of 4,000 Bonus Membership Rewards ®  Points"
+      },
+      {
+        "type": "added",
+        "text": "Earn 1,000 bonus points on 6 transactions of ₹1,000 or more every calendar month"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy greater flexibility with ‘no pre-set spending’ limit. Terms and condition apply."
+      },
+      {
+        "type": "added",
+        "text": "Earn 1 Membership Rewards ® point on all spend including utility. Terms and Conditions apply"
+      },
+      {
+        "type": "added",
+        "text": "American Express® Platinum Card"
+      },
+      {
+        "type": "added",
+        "text": "Welcome gift worth up to INR 60,000 * with option to choose from Taj Hotels, Luxe Gift Card, The Postcard Hotels & Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: Rs. 66,000 plus applicable taxes"
+      },
+      {
+        "type": "added",
+        "text": "Travel and Lifestyle concierge"
+      },
+      {
+        "type": "added",
+        "text": "Earn 3X Membership Rewards® Points on all Overseas spending"
+      },
+      {
+        "type": "added",
+        "text": "Access to 1400+ lounges across the globe with the Global Lounge Collection®"
+      },
+      {
+        "type": "added",
+        "text": "Benefits across 1000+ FINE HOTELS & RESORTS properties worldwide"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-american-express-gold-card",
+    "cardName": "American Express® Gold Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/gold-card/?linknav=in-amex-cardshop-allcards-learn-AmericanExpressGold-carousel",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:37:09.282Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "American Express® Gold Card"
+      },
+      {
+        "type": "context",
+        "text": "View all Cards American Express® Gold Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Gift 6  of 4,000 Bonus Membership Rewards ®  Points"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Charge Card"
+      },
+      {
+        "type": "context",
+        "text": "Card fee"
+      },
+      {
+        "type": "removed",
+        "text": "First Year fee : Rs. 1,000 plus applicable taxes"
+      },
+      {
+        "type": "removed",
+        "text": "Second Year onwards : Rs. 4,500 plus applicable taxes"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1 Membership Rewards Point for every 1 Rs. 50 spent including utilities spend"
+      },
+      {
+        "type": "context",
+        "text": "MEMBERSHIP REWARD® POINTS"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "5. No pre-set limit’ does not mean your spending is unlimited. It is based on your financials, spend pattern, credit record and Account history."
+      },
+      {
+        "type": "context",
+        "text": "6. Welcome Gift is available only in the 1st year on payment of the annual fee and on spending INR 10,000 within 90 days of Cardmembership."
+      },
+      {
+        "type": "added",
+        "text": "American Express Membership Rewards® Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift of 4,000 Bonus Membership Rewards® Points"
+      },
+      {
+        "type": "added",
+        "text": "First Year Fee: Rs. 1,000 plus applicable taxes (Second Year onwards: Rs. 4,500 plus applicable taxes)"
+      },
+      {
+        "type": "added",
+        "text": "Earn 1,000 Bonus Membership Rewards®Points for simply using your Card 4 times on transactions of Rs. 1,500 and above every month"
+      },
+      {
+        "type": "added",
+        "text": "Earn an additional 1,000 Membership Rewards points simply by spending INR 20,000 or more in a calendar month. This is an enrollment based benefit."
+      },
+      {
+        "type": "added",
+        "text": "Redeem your Points from the fabulous 18 and 24 Karat Gold Collection"
+      },
+      {
+        "type": "added",
+        "text": "American Express® Platinum Card"
+      },
+      {
+        "type": "added",
+        "text": "Welcome gift worth up to INR 60,000 * with option to choose from Taj Hotels, Luxe Gift Card, The Postcard Hotels & Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: Rs. 66,000 plus applicable taxes"
+      },
+      {
+        "type": "added",
+        "text": "Travel and Lifestyle concierge"
+      },
+      {
+        "type": "added",
+        "text": "Earn 3X Membership Rewards® Points on all Overseas spending"
+      },
+      {
+        "type": "added",
+        "text": "Access to 1400+ lounges across the globe with the Global Lounge Collection®"
+      },
+      {
+        "type": "added",
+        "text": "Benefits across 1000+ FINE HOTELS & RESORTS properties worldwide"
+      },
+      {
+        "type": "added",
+        "text": "American Express® Platinum Reserve SM Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy privileges at Taj, SeleQtions and Vivanta Hotels and Preferred Hotels & Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary access to leading Golf courses in India"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary access to international and domestic airport lounges across India."
+      },
+      {
+        "type": "added",
+        "text": "Complimentary ALL Accor+ Explorer membership"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-american-express-smartearn-credit-card",
+    "cardName": "American Express SmartEarn™ Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/smart-earn-credit-card/",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-09T04:37:09.281Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "5. Cardmember liability is nil if American Express receives the report within 3 working days of the fraud. If the fraud is reported beyond 3 working days then the maximum liability of the customer will be limited to Rs. 1,000. For further details, please refer MITC."
+      },
+      {
+        "type": "context",
+        "text": "6. For Gift voucher benefit Terms and Conditions,  Click here."
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift 1  of 4,000 Bonus Membership Rewards ®  Points"
+      },
+      {
+        "type": "added",
+        "text": "Earn 1,000 bonus points on 6 transactions of ₹1,000 or more every calendar month"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy greater flexibility with ‘no pre-set spending’ limit. Terms and condition apply."
+      },
+      {
+        "type": "added",
+        "text": "Earn 1 Membership Rewards ® point on all spend including utility. Terms and Conditions apply"
+      },
+      {
+        "type": "added",
+        "text": "American Express® Platinum Travel Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift of 10,000 * Membership Rewards points"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: Rs. 5,000 plus applicable taxes"
+      },
+      {
+        "type": "added",
+        "text": "Earn up-to 40,000 * Bonus Membership Reward points"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 2 complimentary visit per quarter in a year at select airport lounges"
+      },
+      {
+        "type": "added",
+        "text": "Taj, SeleQtions and Vivanta Hotels Experiences Gift Card worth Rs. 10,000"
+      },
+      {
+        "type": "added",
+        "text": "American Express® Platinum Reserve SM Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy privileges at Taj, SeleQtions and Vivanta Hotels and Preferred Hotels & Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary access to leading Golf courses in India"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary access to international and domestic airport lounges across India."
+      },
+      {
+        "type": "added",
+        "text": "Complimentary ALL Accor+ Explorer membership"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-american-express-membership-rewards-credit-card",
+    "cardName": "American Express Membership Rewards® Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/membership-rewards-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressMembershipRewards",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:37:09.281Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "First Year Fee: Rs. 1,000 plus applicable taxes (Second Year onwards: Rs. 4,500 plus applicable taxes)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "First Year fee : Rs. 1,000 plus applicable taxes"
+      },
+      {
+        "type": "removed",
+        "text": "Second Year onwards : Rs. 4,500 plus applicable taxes"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1 Membership Rewards® Point for every 2 Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale 2 ."
+      },
+      {
+        "type": "context",
+        "text": "Fee Waiver"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "3. 0% Convenience fee on fuel purchase at HPCL for transactions less than Rs. 5,000 and 1% Convenience fee on fuel purchases per transaction is applicable for all transactions of Rs. 5,000 and above"
+      },
+      {
+        "type": "context",
+        "text": "4. For latest options available under Gold collection please check here ."
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift 1  of 4,000 Bonus Membership Rewards ®  Points"
+      },
+      {
+        "type": "added",
+        "text": "Earn 1,000 bonus points on 6 transactions of ₹1,000 or more every calendar month"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy greater flexibility with ‘no pre-set spending’ limit. Terms and condition apply."
+      },
+      {
+        "type": "added",
+        "text": "Earn 1 Membership Rewards ® point on all spend including utility. Terms and Conditions apply"
+      },
+      {
+        "type": "added",
+        "text": "American Express® Platinum Travel Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift of 10,000 * Membership Rewards points"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: Rs. 5,000 plus applicable taxes"
+      },
+      {
+        "type": "added",
+        "text": "Earn up-to 40,000 * Bonus Membership Reward points"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 2 complimentary visit per quarter in a year at select airport lounges"
+      },
+      {
+        "type": "added",
+        "text": "Taj, SeleQtions and Vivanta Hotels Experiences Gift Card worth Rs. 10,000"
+      },
+      {
+        "type": "added",
+        "text": "American Express® Platinum Reserve SM Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy privileges at Taj, SeleQtions and Vivanta Hotels and Preferred Hotels & Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary access to leading Golf courses in India"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary access to international and domestic airport lounges across India."
+      },
+      {
+        "type": "added",
+        "text": "Complimentary ALL Accor+ Explorer membership"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-card",
+    "cardName": "American Express® Platinum Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
+    "status": "Active",
+    "detectedAt": "2026-08-09T04:37:09.279Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "American Express ® Platinum Card"
+      },
+      {
+        "type": "context",
+        "text": "American Express ® Platinum Card"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Charge Card"
+      },
+      {
+        "type": "context",
+        "text": "INR 66,000 plus applicable taxes"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "I understand American Express Cards are currently issued to residents of Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Kolkata, Indore, Coimbatore, Chandigarh/Tricity, Ahmedabad, Surat, Vadodra, Bhopal, Bhubaneshwar, Ernakulam, Vijaywada, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum , Mysuru , Cuttack & Vizag  subject to conditions"
+      },
+      {
+        "type": "context",
+        "text": "The American Express ® Platinum Card"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "1 You will receive the welcome gift within 6-8 weeks of payment of annual fee and upon net spends of INR 50,000 in first 2 months of Cardmembership. You will receive the welcome gift on completion of INR 50,000 spends on basic card and payment of annual fee. The cardmember will have option to choose from vouchers of their choice from catalogue"
+      },
+      {
+        "type": "context",
+        "text": "* Please refer to Terms and Condition. Please click here"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "karur-vysya-bank-kvb-corporate-credit-card",
     "cardName": "KVB Corporate Credit Card",
     "issuerName": "Karur Vysya Bank",
@@ -632,102 +3152,6 @@
     }
   },
   {
-    "id": "icici-bank-amazon-pay-credit-card",
-    "cardName": "Amazon Pay Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:08:32.065Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "No Annual Fee"
-      },
-      {
-        "type": "context",
-        "text": "Low Forex Markup - 1.99%"
-      },
-      {
-        "type": "removed",
-        "text": "72,982 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "APPLY"
-      },
-      {
-        "type": "added",
-        "text": "72,900 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Rewards on Amazon Purchases"
-      },
-      {
-        "type": "context",
-        "text": "Non-expiring, Unlimited rewards"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Fuel surcharge waiver"
-      },
-      {
-        "type": "context",
-        "text": "1% Surcharge waiver for all fuel purchase"
-      },
-      {
-        "type": "added",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "Prime Member"
-      },
-      {
-        "type": "context",
-        "text": "3"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/personal-banking/iplay\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "context",
-        "text": "The Amazon Pay ICICI Bank card has been a game-changer for my Amazon shopping—no fees (LTF), instant ₹200 cashback upon joining, and up to 5% unlimited cashback on purchases as a Prime member. These benefits along with the benefits of credit cards have helped me to save even more on my purchase."
-      },
-      {
-        "type": "added",
-        "text": "R"
-      },
-      {
-        "type": "added",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchases are great."
-      },
-      {
-        "type": "context",
-        "text": "Soumy Dhawan"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "icici-bank-expression-credit-card",
     "cardName": "Expression Credit Card",
     "issuerName": "ICICI Bank",
@@ -1088,694 +3512,6 @@
       {
         "type": "context",
         "text": "I highly recommend the ICICI Bank HPCL Super Saver Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-hpcl-coral-credit-card",
-    "cardName": "HPCL Coral Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-coral-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:08:32.064Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "Low Joining Fee"
-      },
-      {
-        "type": "removed",
-        "text": "12,936 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "APPLY"
-      },
-      {
-        "type": "added",
-        "text": "12,821 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Automobile Associated Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Cashbacks on Fuel Payments"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Fuel surcharge waiver"
-      },
-      {
-        "type": "context",
-        "text": "Get 1% waiver on fuel transactions worth ₹400 - ₹4,000 at HPCL pumps"
-      },
-      {
-        "type": "added",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "2"
-      },
-      {
-        "type": "context",
-        "text": "On Retail"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Which bank provides a Credit Card at low rates?"
-      },
-      {
-        "type": "context",
-        "text": "You can opt for an ICICI Bank Credit Card with a seamless application process. The HPCL Coral Credit Card has low joining and annual fees. For more information, please call our Customer Care on 1800 1080."
-      },
-      {
-        "type": "added",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your ICICI Bank HPCL Coral Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer -  eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "added",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "added",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "What are the movie ticket benefits available?"
-      },
-      {
-        "type": "context",
-        "text": "Cardholders are eligible for a 25% off on movie ticket offer worth up to ₹100 on the purchase of a minimum of two tickets through BookMyShow Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "What is the difference between the HPCL Coral Credit Card and ICICI Coral Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The HPCL Coral Credit Card offers exclusive benefits for fuel purchases at HPCL stations, providing rewards and discounts specifically for fuel transactions. The ICICI Coral Credit Card, on the other hand, offers general rewards on a wide range of categories such as dining, shopping, and travel, but does not provide the same focus on fuel benefits."
-      },
-      {
-        "type": "added",
-        "text": "View all FAQs"
-      },
-      {
-        "type": "context",
-        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "context",
-        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emirates-skywards-rubyx-credit-card",
-    "cardName": "Emirates Skywards Rubyx Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-rubyx-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-07T05:08:32.064Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Skywards Miles"
-      },
-      {
-        "type": "context",
-        "text": "Lounge Access"
-      },
-      {
-        "type": "removed",
-        "text": "6,199 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "6,217 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Frequent Flyers"
-      },
-      {
-        "type": "context",
-        "text": "Airport Lounge Access"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Does Emirates Rubyx Credit Card offer an annual fee waiver?"
-      },
-      {
-        "type": "context",
-        "text": "No, the annual card charges cannot be waived. However, the complimentary Emirates Skywards Blue Tier Membership gets automatically renewed after the annual fee payment."
-      },
-      {
-        "type": "added",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Rubyx Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer -  eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "added",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "added",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "What are the entertainment and lifestyle benefits of this card?"
-      },
-      {
-        "type": "context",
-        "text": "You can avail of discounts while dining out in select restaurants and movie ticket bookings."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/content/icicibank/in/en/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "context",
-        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/content/icicibank/in/en/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "added",
-        "text": "R"
-      },
-      {
-        "type": "added",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emirates-sapphiro-credit-card",
-    "cardName": "Emirates Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:08:32.063Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Skywards Miles"
-      },
-      {
-        "type": "context",
-        "text": "Lounge Access"
-      },
-      {
-        "type": "removed",
-        "text": "6,782 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "APPLY"
-      },
-      {
-        "type": "added",
-        "text": "6,728 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Luxury travel and lifestyle"
-      },
-      {
-        "type": "context",
-        "text": "International Airport Lounge Access"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "What type of lounge access is provided?"
-      },
-      {
-        "type": "context",
-        "text": "The primary cardholder receives complimentary access to domestic lounges twice a quarter and international lounges twice a year."
-      },
-      {
-        "type": "added",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "added",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "added",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "How can I avail discount on Emirates flight bookings using my ICICI Bank Emirates Sapphiro Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To avail upto 10% discount on Emirates flight bookings, please follow the below steps"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Who is this card best suited for?"
-      },
-      {
-        "type": "context",
-        "text": "You are a frequent Emirates flyer, want to earn Skywards Miles on your spending, and are comfortable with reward redemption being limited to Emirates."
-      },
-      {
-        "type": "added",
-        "text": "View all FAQs"
-      },
-      {
-        "type": "context",
-        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/content/icicibank/in/en/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "context",
-        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/content/icicibank/in/en/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "added",
-        "text": "R"
-      },
-      {
-        "type": "added",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle-free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-makemytrip-credit-card",
-    "cardName": "MakeMyTrip Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:08:32.063Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "0.99% Forex markup"
-      },
-      {
-        "type": "context",
-        "text": "MMTBLACK membership"
-      },
-      {
-        "type": "removed",
-        "text": "13,810 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "APPLY"
-      },
-      {
-        "type": "added",
-        "text": "13,997 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Travel Enthusiasts Seeking Value and Flexibility"
-      },
-      {
-        "type": "context",
-        "text": "Up to 6% myCash on MakeMyTrip Bookings"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get dining discounts with Culinary Treats Programme. For more details,  Click Here"
-      },
-      {
-        "type": "context",
-        "text": "Collect reward points, enjoy benefits."
-      },
-      {
-        "type": "added",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "6"
-      },
-      {
-        "type": "context",
-        "text": "On Hotel Booking"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your MakeMyTrip ICICI Bank Credit Card in a calendar quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "context",
-        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
-      },
-      {
-        "type": "added",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer -  eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
-      },
-      {
-        "type": "context",
-        "text": "Plus (Add-On) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "added",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "added",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "What are some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card are unlimited myCash Rewards that never expire, exclusive MakeMyTrip vouchers and complimentary lounge access for the primary Cardholder. You’ll also enjoy the flexibility of two payment networks - MasterCard and RuPay, making this Card a versatile and rewarding choice for frequent travellers."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Which transactions do not qualify for earning myCash on the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Rent payments, cash advances, late payment costs, joining / annual fees, EMI transactions, Balance Transfers and Personal Loan transactions on the Card are not eligible for myCash Rewards."
-      },
-      {
-        "type": "added",
-        "text": "View all FAQs"
-      },
-      {
-        "type": "context",
-        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "context",
-        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/personal-banking/iplay\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "added",
-        "text": "R"
-      },
-      {
-        "type": "added",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
       },
       {
         "type": "context",
@@ -2236,482 +3972,6 @@
     }
   },
   {
-    "id": "icici-bank-adani-one-signature-credit-card",
-    "cardName": "Adani One Signature Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:08:32.062Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Adani One ICICI Bank Signature Credit Card – Apply Online"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 6% p.a.* on"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 6% p.a.* on"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 6% p.a.* on"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 6% p.a.* on"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 6% p.a.* on"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 6% p.a.* on"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 6% p.a.* on"
-      },
-      {
-        "type": "context",
-        "text": "Fees & Charges"
-      },
-      {
-        "type": "context",
-        "text": "Review"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Apply"
-      },
-      {
-        "type": "context",
-        "text": "Save"
-      },
-      {
-        "type": "removed",
-        "text": "10,830 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "10,846 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Top-notch airport experience"
-      },
-      {
-        "type": "context",
-        "text": "Exclusive Airport benefits"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Up to ₹4000"
-      },
-      {
-        "type": "context",
-        "text": "Avail 1% fuel surcharge waiver on all fuel transactions at any fuel outlet"
-      },
-      {
-        "type": "added",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "7"
-      },
-      {
-        "type": "context",
-        "text": "On Adani One Ecosystem Spend"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Adani One Signature Credit Card in a calendar quarter. This entitles you to avail the 4 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "context",
-        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
-      },
-      {
-        "type": "added",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Adani One Signature Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "added",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "added",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "How can I apply for an Adani One ICICI Bank Signature Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To apply for an Adani One ICICI Bank Signature Credit Card, visit the Bank’s website or a branch. You can complete the application process online by entering your details and following the prompts."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "context",
-        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "added",
-        "text": "R"
-      },
-      {
-        "type": "added",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
-      },
-      {
-        "type": "context",
-        "text": "Apoorv Gupta"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-platinum-chip-credit-card",
-    "cardName": "Platinum Chip Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:08:32.062Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply"
-      },
-      {
-        "type": "context",
-        "text": "Save"
-      },
-      {
-        "type": "removed",
-        "text": "23,992 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "23,698 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Rewards on Everyday Spends"
-      },
-      {
-        "type": "context",
-        "text": "Reward points on transactions"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Redeem reward points"
-      },
-      {
-        "type": "context",
-        "text": "Redeem reward points across multiple categories"
-      },
-      {
-        "type": "added",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "2"
-      },
-      {
-        "type": "context",
-        "text": "On Retail"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-coral-credit-card",
-    "cardName": "Coral Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/coral-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:08:32.061Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "BookMyShow Offers"
-      },
-      {
-        "type": "context",
-        "text": "INOX Offers"
-      },
-      {
-        "type": "removed",
-        "text": "81,115 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "APPLY"
-      },
-      {
-        "type": "added",
-        "text": "81,337 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Everyday or on-the-go spends"
-      },
-      {
-        "type": "context",
-        "text": "BookMyShow Offers"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "24/7 Concierge services"
-      },
-      {
-        "type": "context",
-        "text": "Get round-the-clock assistance. To contact, please call the toll-free number 18002670731 (Rupay Variant)"
-      },
-      {
-        "type": "added",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "2"
-      },
-      {
-        "type": "context",
-        "text": "On Retail"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Coral Credit Card in a calendar quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "context",
-        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
-      },
-      {
-        "type": "added",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Coral Credit Card within the preceding spends quarter. This entitles you to avail the 2 offers in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer -  eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
-      },
-      {
-        "type": "context",
-        "text": "Plus (Add-On) members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "added",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "added",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "What are the criteria for availing domestic railway lounge access?"
-      },
-      {
-        "type": "context",
-        "text": "Upgrade your travel experience with complimentary access to select railway lounges with your ICICI Bank Coral Credit Card. Get 1 complimentary access to select railway lounges in India every quarter. Simply present your ICICI Bank Coral Credit Card to enjoy the privileges"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Where can I find the list of lounges available for ICICI Bank Coral Credit Card Holders?"
-      },
-      {
-        "type": "context",
-        "text": "you can check participating lounge websites to clarify if the ICICI Bank Coral Credit Card is accepted."
-      },
-      {
-        "type": "added",
-        "text": "View all FAQs"
-      },
-      {
-        "type": "context",
-        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "context",
-        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "added",
-        "text": "R"
-      },
-      {
-        "type": "added",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Coral Credit Card is a true gem. The lifestyle benefits, including complimentary airport lounge access and travel vouchers are truly amazing Fees and Charges."
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "icici-bank-rubyx-credit-card",
     "cardName": "Rubyx Credit Card",
     "issuerName": "ICICI Bank",
@@ -2872,374 +4132,6 @@
       {
         "type": "context",
         "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/content/icicibank/in/en/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-sapphiro-credit-card",
-    "cardName": "Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:08:32.060Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Golf Rounds"
-      },
-      {
-        "type": "context",
-        "text": "BookMyShow Offers"
-      },
-      {
-        "type": "removed",
-        "text": "159,706 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "APPLY"
-      },
-      {
-        "type": "added",
-        "text": "159,710 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Premium Lifestyle Offers"
-      },
-      {
-        "type": "context",
-        "text": "Welcome Vouchers"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Fuel surcharge waiver"
-      },
-      {
-        "type": "context",
-        "text": "Get 1% waiver on fuel transactions of up to ₹4,000 at all fuel pumps"
-      },
-      {
-        "type": "added",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "4"
-      },
-      {
-        "type": "context",
-        "text": "On International   Spend"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Check your Booking History to view all bookings and details."
-      },
-      {
-        "type": "context",
-        "text": "You may also call i-Assist, our 24X7 concierge service on 1800 26 70731 (toll free for MTNL/BSNL lines) or 022 6787 2016 (standard call charges applicable), for assistance with online booking. An authorisation amount of ₹2 shall be taken for each eligible Card."
-      },
-      {
-        "type": "added",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "context",
-        "text": "Plus (Add-On) Card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "added",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "added",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "What are the key features of the concierge services offered?"
-      },
-      {
-        "type": "context",
-        "text": "The concierge services provide 24/7 support for varied needs such as restaurant reservations, flower and gift deliveries, hotel and flight bookings, car rentals and even movie ticket delivery. Additionally, the service offers emergency auto assistance and medical concierge support, ensuring comprehensive assistance during emergencies. Contact i-Assist for access to these services. To contact the i-Assist team, please call 1800 26 70731 (toll free for MTNL/BSNL) or 022 6787 2016 (standard call charges applicable)."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "What is the minimum credit limit for the ICICI Bank Sapphiro Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The credit limit is assigned based on income, credit profile, and internal assessment criteria defined by ICICI Bank."
-      },
-      {
-        "type": "added",
-        "text": "View all FAQs"
-      },
-      {
-        "type": "context",
-        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/content/icicibank/in/en/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "context",
-        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/content/icicibank/in/en/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-credit-card",
-    "cardName": "Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:08:32.060Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "BookMyShow Offer"
-      },
-      {
-        "type": "context",
-        "text": "Know More"
-      },
-      {
-        "type": "removed",
-        "text": "32,910 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "added",
-        "text": "APPLY"
-      },
-      {
-        "type": "added",
-        "text": "32,979 PEOPLE ARE INTERESTED"
-      },
-      {
-        "type": "context",
-        "text": "Luxurious lifestyle"
-      },
-      {
-        "type": "context",
-        "text": "Unlimited access to airport lounges"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Click here  to update your Nominee details. Click here for T&Cs"
-      },
-      {
-        "type": "context",
-        "text": "Earn and use points"
-      },
-      {
-        "type": "added",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "4"
-      },
-      {
-        "type": "context",
-        "text": "On Domestic"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "What are the criteria for availing domestic lounge access?"
-      },
-      {
-        "type": "context",
-        "text": "For lounge visits within India, the primary Cardholder can avail unlimited complimentary lounge access using their ICICI Bank Emeralde Credit Card. Please swipe the ICICI Bank Emeralde Credit Card to avail the complimentary lounge access. To view the complete list of lounges, click here ."
-      },
-      {
-        "type": "added",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emeralde Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "added",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "added",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "What are the golf privileges and the eligibility criteria to avail them?"
-      },
-      {
-        "type": "context",
-        "text": "As an Emeralde Credit Cardholder, you are eligible for a round or lesson of golf for every ₹ 50,000 spent on retail purchases in the previous calendar month. You can avail a maximum of 4 rounds per month. The benefit can be booked through the Golftripz website. Simply visit  https://teetimes.truztee.com/  and create a Golftripz account using the same e-mail ID as registered for your ICICI Bank Credit Card. Benefits will be credited to your account by the 10th day of the following month, available for use in the next two months."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "What is the fuel surcharge waiver offered to Cardholders?"
-      },
-      {
-        "type": "context",
-        "text": "Cardholders can avail of a 1% fuel surcharge waiver on all fuel transactions of up to ₹ 4,000 at any fuel outlet in India. This benefit applies to both the primary Cardholder and the Plus (supplemental) Cardholder, helping them to save on regular fuel expenses. The waiver is automatically applied when the eligible transaction is completed using the Credit Card."
-      },
-      {
-        "type": "added",
-        "text": "View all FAQs"
-      },
-      {
-        "type": "context",
-        "text": "Explore more blogs</p>\",\"cardText\":\"\", \"cardLinkUrl\":\"/content/icicibank/in/en/blogs/credit-card\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Blogs\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "context",
-        "text": "Explore more videos</p>\",\"cardText\":\"<p>Intrested to learn more?</p>\", \"cardLinkUrl\":\"/content/icicibank/in/en/online-demo\", \"cardLinkTarget\":\"_self\"}' data-cta-region=\"Blogs-and-Videos-Widget:Videos\" data-cta-type=\"tab link\" data-cta-landing-page-type=\"Non Application\" data-cta-component-info=\"CMS\">"
-      },
-      {
-        "type": "added",
-        "text": "R"
-      },
-      {
-        "type": "added",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
-      },
-      {
-        "type": "context",
-        "text": "Apoorv Gupta"
       }
     ],
     "community": {
@@ -5340,366 +6232,6 @@
     }
   },
   {
-    "id": "federal-bank-fed-starbiz-visa-credit-card",
-    "cardName": "Fed StarBiz Visa Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.628Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 25ffe823-e42i-4a0b-922f-20882039175b"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 1f35ffbb-e42i-4b4a-8917-a1b79277a29e"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:41 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:47 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-celesta-credit-card",
-    "cardName": "Mastercard Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.628Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 4dba5f56-e42i-4591-af9b-c607ce34f42c"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 869bfbe8-e42i-41f0-b651-fa506066e1c7"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:42 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:48 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-imperio-credit-card",
-    "cardName": "Mastercard Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.628Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 0efcf8c0-e42i-46ff-93ee-ec03b1196628"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 0fcb0c6d-e42i-4abf-a851-bc2e0d88fd91"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:43 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:49 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-signet-credit-card",
-    "cardName": "Mastercard Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.628Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 837aba8a-e42i-4d19-8ff9-1e3e624f8364"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 46aba7c8-e42i-4091-b3ae-5d9ba68b23bc"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:44 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:50 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-signet-credit-card",
-    "cardName": "Rupay Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.628Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 40c2fa55-e42i-45d0-92df-b1cfbd90c1fe"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: ad2a1001-e42i-4672-b6d4-3c39d82fc651"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:45 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:50 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-wave-credit-card",
-    "cardName": "Rupay Wave Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.628Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 2ccbaa68-e42i-4962-8d52-f0d644fe2a30"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: f94f8d97-e42i-41f5-996a-7b0c8ea8dbaa"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:45 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:51 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-rupay-credit-card",
-    "cardName": "Fed StarBiz RuPay Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.628Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: f35b78d0-e42i-4133-a8f3-4c8a3a0e22e4"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: f25c3db2-e42i-48fd-896d-1dc7559f741b"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:46 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:52 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-signet-credit-card",
-    "cardName": "Visa Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.628Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 17935043-e42i-452f-ad3a-0e8d45a8c3fb"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: e06b9962-e42i-4f95-9fc5-cfe4a9e84ea0"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:41 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:46 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-imperio-credit-card",
-    "cardName": "Visa Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.628Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: e19d4ee3-e42i-4325-9169-5d430abbf792"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: e15370c7-e42i-447a-9820-a333a829ea01"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:40 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:46 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-celesta-credit-card",
-    "cardName": "Visa Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:52.627Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: fd9ee648-e42i-4786-9430-e5fdf7b43c71"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 4de674a7-e42i-41f6-a66c-effd06ca9128"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "August 05 2026, 06:04:39 UTC"
-      },
-      {
-        "type": "added",
-        "text": "August 07 2026, 05:06:45 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "dbs-bank-dbs-vantage-card",
     "cardName": "DBS Vantage Card",
     "issuerName": "DBS Bank India",
@@ -5728,86 +6260,6 @@
       {
         "type": "context",
         "text": "Forms & Legal References"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "canara-bank-mastercard-gold-secured-credit-card",
-    "cardName": "Mastercard Gold Secured Credit Card",
-    "issuerName": "Canara Bank",
-    "issuerSlug": "canara-bank",
-    "officialUrl": "https://canarabank.com/",
-    "productPageUrl": "https://canarabank.bank.in/pages/mastercard-gold-secured-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:35.587Z",
-    "diffHunks": [
-      {
-        "type": "added",
-        "text": "List of Digital Lending Apps"
-      },
-      {
-        "type": "added",
-        "text": "List of Digital Lending Apps"
-      },
-      {
-        "type": "added",
-        "text": "FCNR(B) Interest calculator"
-      },
-      {
-        "type": "added",
-        "text": "FCNR(B) Interest calculator"
-      },
-      {
-        "type": "added",
-        "text": "FCNR(B) Interest calculator"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "canara-bank-rupay-select-credit-card",
-    "cardName": "Rupay Select Credit Card",
-    "issuerName": "Canara Bank",
-    "issuerSlug": "canara-bank",
-    "officialUrl": "https://canarabank.com/",
-    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:06:35.585Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Gold Loan EMI Calculator"
-      },
-      {
-        "type": "removed",
-        "text": "Gold"
-      },
-      {
-        "type": "added",
-        "text": "List of Digital Lending Apps"
-      },
-      {
-        "type": "added",
-        "text": "List of Digital Lending Apps"
-      },
-      {
-        "type": "added",
-        "text": "FCNR(B) Interest calculator"
-      },
-      {
-        "type": "added",
-        "text": "FCNR(B) Interest calculator"
-      },
-      {
-        "type": "added",
-        "text": "FCNR(B) Interest calculator"
       }
     ],
     "community": {
@@ -5952,42 +6404,6 @@
       {
         "type": "context",
         "text": "Check Eligibility"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "indusind-bank-epay-amex-credit-card",
-    "cardName": "ePay Amex Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/epay-amex-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-05T06:06:44.582Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "• The membership will not be extended /renewed under any circumstances"
-      },
-      {
-        "type": "context",
-        "text": "Where can I write for my queries?"
-      },
-      {
-        "type": "removed",
-        "text": "Please feel free to reach out to us as priority.care @indusind.com"
-      },
-      {
-        "type": "added",
-        "text": "Please feel free to reach out to us as premium.care@indusind.com"
-      },
-      {
-        "type": "context",
-        "text": "ePay AMEX Credit Card - Rewards & Global Acceptance"
       }
     ],
     "community": {
@@ -11988,422 +12404,6 @@
     }
   },
   {
-    "id": "hdfc-bank-sap-concur-black-corporate-credit-card",
-    "cardName": "SAP Concur Black Corporate Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/sap-concur-black-corporate-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-03T06:39:18.886Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "SAP Concur Black Corporate Credit Card for Frequent Travellers | HDFC Bank"
-      },
-      {
-        "type": "context",
-        "text": "My Money"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "context",
-        "text": "SAP Concur Black Corporate Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "SAP Concur Black Corporate Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-fleet-credit-card",
-    "cardName": "Fleet Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/fleet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-02T06:18:48.872Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fleet Card: Enroll in Fleet Program & Get credit period Options | HDFC Bank"
-      },
-      {
-        "type": "removed",
-        "text": "Popular 5"
-      },
-      {
-        "type": "removed",
-        "text": "Premium 5"
-      },
-      {
-        "type": "removed",
-        "text": "Senior Citizen 2"
-      },
-      {
-        "type": "removed",
-        "text": "Women 2"
-      },
-      {
-        "type": "removed",
-        "text": "Kids 3"
-      },
-      {
-        "type": "removed",
-        "text": "RFC Saving Account"
-      },
-      {
-        "type": "removed",
-        "text": "RFC - GBP"
-      },
-      {
-        "type": "removed",
-        "text": "RFC - USD"
-      },
-      {
-        "type": "removed",
-        "text": "RFC - EURO"
-      },
-      {
-        "type": "removed",
-        "text": "Vishesh Premier Banking"
-      },
-      {
-        "type": "removed",
-        "text": "Prime Premier Banking"
-      },
-      {
-        "type": "removed",
-        "text": "FCNR - MAX"
-      },
-      {
-        "type": "removed",
-        "text": "NRI -Mutual Funds"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Portfolio Investment Scheme"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Portfolio Investment Scheme Fees & Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Loan Against Fixed Deposit"
-      },
-      {
-        "type": "removed",
-        "text": "NRI -Mutual Funds"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Portfolio Investment Scheme"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Portfolio Investment Scheme Fees & Charges"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "added",
-        "text": "Salary Plus Overdraft"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "context",
-        "text": "Fleet Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Fleet Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card statements tailored to align with your chosen credit cycle."
-      },
-      {
-        "type": "context",
-        "text": "Easy Expense management with detailed reports."
-      },
-      {
-        "type": "removed",
-        "text": "Fuel surcharge waiver on fuel expenses."
-      },
-      {
-        "type": "context",
-        "text": "Flexible credit periods from 15 to 37 days to suit your corporate needs."
-      },
-      {
-        "type": "context",
-        "text": "Incremental credit line bringing in cost efficiency."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-dealer-credit-card",
-    "cardName": "Dealer Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/dealer-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-02T06:18:48.872Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Dealer Credit Card - Exclusive Credit Card for Distributors | HDFC Bank"
-      },
-      {
-        "type": "removed",
-        "text": "Popular 5"
-      },
-      {
-        "type": "removed",
-        "text": "Premium 5"
-      },
-      {
-        "type": "removed",
-        "text": "Senior Citizen 2"
-      },
-      {
-        "type": "removed",
-        "text": "Women 2"
-      },
-      {
-        "type": "removed",
-        "text": "Kids 3"
-      },
-      {
-        "type": "removed",
-        "text": "RFC Saving Account"
-      },
-      {
-        "type": "removed",
-        "text": "RFC - GBP"
-      },
-      {
-        "type": "removed",
-        "text": "RFC - USD"
-      },
-      {
-        "type": "removed",
-        "text": "RFC - EURO"
-      },
-      {
-        "type": "removed",
-        "text": "Vishesh Premier Banking"
-      },
-      {
-        "type": "removed",
-        "text": "Prime Premier Banking"
-      },
-      {
-        "type": "removed",
-        "text": "FCNR - MAX"
-      },
-      {
-        "type": "removed",
-        "text": "NRI -Mutual Funds"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Portfolio Investment Scheme"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Portfolio Investment Scheme Fees & Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Loan Against Fixed Deposit"
-      },
-      {
-        "type": "removed",
-        "text": "NRI -Mutual Funds"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Portfolio Investment Scheme"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Portfolio Investment Scheme Fees & Charges"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "added",
-        "text": "Salary Plus Overdraft"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "added",
-        "text": "My Money"
-      },
-      {
-        "type": "context",
-        "text": "HDFC Bank Dealer Card"
-      },
-      {
-        "type": "context",
-        "text": "Convenient Payment Solution for your Network"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Flexibility of paying only the minimum payment due (30%) by payment due date"
-      },
-      {
-        "type": "context",
-        "text": "Secured closed-loop card for convenience of online payment mode with no collateral"
-      },
-      {
-        "type": "removed",
-        "text": "Smart EMI"
-      },
-      {
-        "type": "removed",
-        "text": "Additional Features"
-      },
-      {
-        "type": "removed",
-        "text": "Revolving Credit"
-      },
-      {
-        "type": "context",
-        "text": "Joining/Renewal Membership Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "The applicable GST would be dependent on place of provision (POP) and place of supply (POS). If POP and POS are in the same state, then applicable GST would be CGST and SGST/UTGST else, IGST."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "GST levied will not be reversed on Any dispute on Fee & Charges / interest."
-      },
-      {
-        "type": "context",
-        "text": "Click here to view details of Dealer Credit Card Fees and Charges."
-      },
-      {
-        "type": "removed",
-        "text": "Smart EMI"
-      },
-      {
-        "type": "removed",
-        "text": "You have the option to convert big spends into SmartEMI , after purchases on your HDFC Bank Dealer Credit Card."
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy attractive interest rates and conveniently repay over 9 to 36 months."
-      },
-      {
-        "type": "removed",
-        "text": "Get credit into your HDFC Bank Account in seconds."
-      },
-      {
-        "type": "removed",
-        "text": "The loan is pre-approved so no documentation is required."
-      },
-      {
-        "type": "removed",
-        "text": "Additional Features"
-      },
-      {
-        "type": "removed",
-        "text": "Interest-free Credit Period"
-      },
-      {
-        "type": "removed",
-        "text": "Annualized interest rates ensure customers pay only for the tenure they use the funds"
-      },
-      {
-        "type": "removed",
-        "text": "Zero Lost Card Liability"
-      },
-      {
-        "type": "removed",
-        "text": "Available on any fraudulent transactions made on your Credit Card if reported immediately to HDFC Bank’s 24-hour Call Centre."
-      },
-      {
-        "type": "removed",
-        "text": "Revolving Credit"
-      },
-      {
-        "type": "removed",
-        "text": "The HDFC Bank Dealer Credit Card offers revolving credit at a nominal interest rate."
-      },
-      {
-        "type": "removed",
-        "text": "Revolving credit allows you to use a line of credit up to a specified limit without a fixed number of payments."
-      },
-      {
-        "type": "removed",
-        "text": "You have the flexibility to use the funds as needed and only pay interest on the amount used."
-      },
-      {
-        "type": "removed",
-        "text": "This facility ensures continuous access to funds, making it a valuable emergency cash reserve for unexpected financial challenges."
-      },
-      {
-        "type": "context",
-        "text": "*The Most Important Terms and Conditions  for each of our banking offerings features all the specific terms and conditions that govern their use. You must go through it thoroughly to fully understand the terms and conditions applicable to any banking product you choose."
-      },
-      {
-        "type": "context",
-        "text": "What is the HDFC Bank Dealer Card program?"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "hdfc-bank-business-platinum-credit-card-emv",
     "cardName": "Business Platinum Credit Card (EMV)",
     "issuerName": "HDFC Bank",
@@ -13528,46 +13528,6 @@
       {
         "type": "context",
         "text": "Your HSBC Platinum Credit Card also comes with"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-harley-davidson-diners-club-credit-card",
-    "cardName": "Harley-Davidson Diners Club Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/harley-davidson-diners-club-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-31T06:28:02.011Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Harley Davidson Diners Club Credit Card | HDFC Bank"
-      },
-      {
-        "type": "removed",
-        "text": "My Money"
-      },
-      {
-        "type": "removed",
-        "text": "My Money"
-      },
-      {
-        "type": "removed",
-        "text": "My Money"
-      },
-      {
-        "type": "context",
-        "text": "Harley-Davidson Diners Club Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Harley-Davidson Diners Club Credit Card"
       }
     ],
     "community": {

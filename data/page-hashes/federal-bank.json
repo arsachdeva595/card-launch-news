@@ -1,0 +1,65 @@
+{
+  "pages": {
+    "https://www.federal.bank.in/visa-celesta-credit-card": {
+      "hash": "41d7430f1bff13673fedee4bf5c55f8106872bd95acce6f324a0e201a3364b1c",
+      "text": "Incident ID: 943856d5-e42i-4a9f-8a70-1911ee98f3ec\nhttps://www.federal.bank.in/visa-celesta-credit-card from\nAugust 10 2026, 09:22:41 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    },
+    "https://www.federal.bank.in/visa-imperio-credit-card": {
+      "hash": "35771294d4218f1134ddea1a8503f58001c8a0f1970c57bd6bcb3965ae40bb3f",
+      "text": "Incident ID: ba30b16f-e42i-46de-91da-220a9ec2c34f\nhttps://www.federal.bank.in/visa-imperio-credit-card from\nAugust 10 2026, 09:22:42 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    },
+    "https://www.federal.bank.in/visa-signet-credit-card": {
+      "hash": "5f4ede8ed9e2b257ec1b662785e7a50bfa7fe12360358ef6149575feb24743a2",
+      "text": "Incident ID: 2f8d3fd3-e42i-497a-a5d9-2f266110d0bc\nhttps://www.federal.bank.in/visa-signet-credit-card from\nAugust 10 2026, 09:22:42 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    },
+    "https://www.federal.bank.in/fed-starbiz-credit-card-visa": {
+      "hash": "72ff9dc67c220e1abb085c29e12c1966f8fe12fd5f3fe5cc0b3bb13aedc303f4",
+      "text": "Incident ID: f7b3e074-e42i-4469-92af-f076bf769b66\nhttps://www.federal.bank.in/fed-starbiz-credit-card-visa from\nAugust 10 2026, 09:22:43 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    },
+    "https://www.federal.bank.in/celesta-credit-card": {
+      "hash": "c176b2f8d3067bb65437cd0e59730bdb0da1a2e88dba003283e689e46b1daad5",
+      "text": "Incident ID: 154efd54-e42i-4df9-9a1f-3d22a14e1dba\nhttps://www.federal.bank.in/celesta-credit-card from\nAugust 10 2026, 09:22:44 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    },
+    "https://www.federal.bank.in/imperio-credit-card": {
+      "hash": "2316f35c3dfa630c8bc499808b15416eadc738f025a4e4956758283594bc44ef",
+      "text": "Incident ID: 6fd03f25-e42i-4ba1-9278-4e4da58f7905\nhttps://www.federal.bank.in/imperio-credit-card from\nAugust 10 2026, 09:22:45 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    },
+    "https://www.federal.bank.in/signet-credit-card": {
+      "hash": "20026523e1f539a09aeb70e2efe9bd714d4df1b4b3528273631ba6778ab5b091",
+      "text": "Incident ID: d1ae55e9-e42i-48f4-9663-dbd1aa2ebab4\nhttps://www.federal.bank.in/signet-credit-card from\nAugust 10 2026, 09:22:46 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    },
+    "https://www.federal.bank.in/rupay-signet-credit-card": {
+      "hash": "6f1d525c5aa888c4317e038d20db5e80f7e6817c4e991ecdd1a9abff8a422240",
+      "text": "Incident ID: 3049457b-e42i-477b-8dde-121d491e6af8\nhttps://www.federal.bank.in/rupay-signet-credit-card from\nAugust 10 2026, 09:22:46 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    },
+    "https://www.federal.bank.in/rupay-wave-credit-card": {
+      "hash": "ed683998f0ce13cb9f0719bbdb88ea42293e16ecd1f49eea3312d549e1c2b85a",
+      "text": "Incident ID: b656f853-e42i-4a62-8bfe-5da5ec32ba23\nhttps://www.federal.bank.in/rupay-wave-credit-card from\nAugust 10 2026, 09:22:47 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    },
+    "https://www.federal.bank.in/fed-starbiz-credit-card-rupay": {
+      "hash": "8797c66eaa1deeef6ff3a4a572ed6f9700d638a0968a959ca85a2e95f64968f0",
+      "text": "Incident ID: d5d7bf9c-e42i-43b2-8053-037075ea0b65\nhttps://www.federal.bank.in/fed-starbiz-credit-card-rupay from\nAugust 10 2026, 09:22:48 UTC",
+      "firstSeenAt": "2026-08-10T09:22:48.479Z",
+      "lastCheckedAt": "2026-08-10T09:22:48.479Z"
+    }
+  },
+  "updatedAt": "2026-08-10T09:22:48.479Z"
+}

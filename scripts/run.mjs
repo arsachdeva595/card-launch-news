@@ -4,6 +4,7 @@ import { detectChanges } from "./detect-changes.mjs";
 import { detectPings } from "./detect-pings.mjs";
 import { enrichChangeCandidate } from "./enrich-change.mjs";
 import { summarizeChange } from "./lib/llm-summary.mjs";
+import { detectsDiscontinuation } from "./lib/discontinuation.mjs";
 import { collectRedditBuzz } from "./lib/reddit-buzz.mjs";
 import { notifyTelegram } from "./lib/notify.mjs";
 import { formatLaunchMessage, formatChangeMessage, formatPingMessage, formatRedditBuzzMessage } from "./lib/telegram-format.mjs";
@@ -84,11 +85,6 @@ async function main() {
     }
   }
 
-  if (trackedCardsChanged) {
-    await writeJson(PATHS.trackedCards, trackedCards);
-    console.log(`Added ${newLaunches.length} new launch(es) to config/tracked-cards.json.`);
-  }
-
   // Tier 1: full fetch+hash+diff, but only for the curated tracked-cards
   // list - not every card-shaped sitemap URL, which can run into the
   // thousands and take hours (see detect-changes.mjs).
@@ -97,9 +93,27 @@ async function main() {
     : await detectChanges({ trackedCards, issuers, settings });
   console.log(`Found ${changeCandidates.length} changed tracked card(s).`);
 
+  const trackedCardByUrl = new Map(trackedCards.map((c) => [c.url, c]));
+
   const newChanges = [];
   for (const change of changeCandidates) {
     console.log(`Checking change candidate with LLM: ${change.url}`);
+
+    // Deterministic discontinuation check - runs regardless of whether the
+    // LLM step below is configured/available, so config/tracked-cards.json's
+    // `status` field (and the public All Tracked Cards mirror) never drifts
+    // out of sync with what a card's own page now says just because
+    // NVIDIA_API_KEY isn't set. Reactivation (Discontinued -> Active) isn't
+    // auto-detected - rare enough to handle manually if it ever comes up.
+    if (detectsDiscontinuation(change.diffHunks)) {
+      const trackedCard = trackedCardByUrl.get(change.url);
+      if (trackedCard && trackedCard.status !== "Discontinued") {
+        trackedCard.status = "Discontinued";
+        trackedCardsChanged = true;
+        console.log(`  status updated to Discontinued in tracked-cards.json: "${change.cardName}"`);
+      }
+    }
+
     try {
       // LLM judges real-vs-noise before we bother with enrichment. Missing
       // key / call failure returns null ("unknown"), not noise - the change
@@ -150,6 +164,14 @@ async function main() {
   const existingBuzz = await readJson(PATHS.redditBuzz, []);
   const mergedBuzz = mergeById(existingBuzz, newBuzz, "detectedAt", MAX_BUZZ_KEPT);
   await writeJson(PATHS.redditBuzz, mergedBuzz);
+
+  // Single write for every trackedCards mutation this run (new launches
+  // promoted to Tier 1, and any status flipped to Discontinued above) -
+  // consolidated here rather than writing after each mutation site.
+  if (trackedCardsChanged) {
+    await writeJson(PATHS.trackedCards, trackedCards);
+    console.log("config/tracked-cards.json updated.");
+  }
 
   // Public mirror of the full curated card list (name/issuer/link/status),
   // independent of launches/changes - this is static metadata, not

@@ -248,6 +248,15 @@ This is the list that gets full fetch+hash+diff treatment every run, so:
   fetch happens immediately too (as part of that run's Tier 1 pass), so it
   starts getting full diff treatment from day one instead of waiting for the
   next run or falling through to Tier 2's lightweight ping.
+- **Discontinuations flip `status` here automatically too** —
+  `scripts/lib/discontinuation.mjs` scans each detected change's *added*
+  diff lines for phrases like "has been discontinued" / "no longer
+  available" / "withdrawn from sale"; a match flips that card's `status` to
+  `Discontinued` in the same run, so the Changes feed and the All Tracked
+  Cards list never disagree about a card that was just discontinued. This
+  runs regardless of whether `NVIDIA_API_KEY` is configured (deterministic,
+  not LLM-based). Reactivation (`Discontinued` → `Active`) isn't
+  auto-detected — edit the file directly if that ever comes up.
 - Removing an entry just stops full-diff tracking for it; its
   `data/page-hashes/<issuer>.json` entry is harmlessly orphaned (not
   cleaned up automatically).

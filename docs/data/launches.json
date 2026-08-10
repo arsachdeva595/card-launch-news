@@ -1,5 +1,45 @@
 [
   {
+    "id": "hdfc-bank-track-your-credit-card-status",
+    "cardName": "Track Your Credit Card Status",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/xpressway/insta-services/track-your-credit-card-status",
+    "discoveredAt": "2026-08-10T04:53:22.611Z",
+    "lastmod": "2026-07-31T17:20:40+05:30",
+    "announcement": {
+      "title": "Track Your Credit Card Status",
+      "url": "https://www.hdfc.bank.in/xpressway/insta-services/track-your-credit-card-status",
+      "description": "Official product page on HDFC Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-credit-card-activation-guidelines",
+    "cardName": "Credit Card Activation Guidelines",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/xpressway/insta-services/credit-card-activation-guidelines",
+    "discoveredAt": "2026-08-10T04:53:22.611Z",
+    "lastmod": "2026-08-05T17:42:33+05:30",
+    "announcement": {
+      "title": "Credit Card Activation Guidelines",
+      "url": "https://www.hdfc.bank.in/xpressway/insta-services/credit-card-activation-guidelines",
+      "description": "Official product page on HDFC Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-alumni-credit-card",
     "cardName": "Alumni Credit Card",
     "issuerName": "ICICI Bank",

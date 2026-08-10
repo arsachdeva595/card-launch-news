@@ -1,10 +1,10 @@
 {
-  "lastRunAt": "2026-08-09T04:47:17.669Z",
+  "lastRunAt": "2026-08-10T05:06:49.747Z",
   "frequencyDays": 1,
   "changeDetectionEnabled": true,
   "issuerCount": 24,
-  "trackedCardCount": 604,
-  "totalLaunchesTracked": 11,
-  "totalChangesTracked": 126,
+  "trackedCardCount": 606,
+  "totalLaunchesTracked": 13,
+  "totalChangesTracked": 167,
   "totalRedditBuzzTracked": 0
 }

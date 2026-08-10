@@ -3622,5 +3622,17 @@
     "issuerSlug": "icici-bank",
     "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/alumni-credit-card",
     "status": "Active"
+  },
+  {
+    "cardName": "Track Your Credit Card Status",
+    "issuerSlug": "hdfc-bank",
+    "url": "https://www.hdfc.bank.in/xpressway/insta-services/track-your-credit-card-status",
+    "status": "Active"
+  },
+  {
+    "cardName": "Credit Card Activation Guidelines",
+    "issuerSlug": "hdfc-bank",
+    "url": "https://www.hdfc.bank.in/xpressway/insta-services/credit-card-activation-guidelines",
+    "status": "Active"
   }
 ]

@@ -28,6 +28,39 @@ function isVolatileLine(line) {
   return VOLATILE_LINE_PATTERNS.some((pattern) => pattern.test(line));
 }
 
+// Strips remaining HTML tags via a small linear-time state machine rather
+// than a regex. Some pages (observed on an HDFC card page) embed a data
+// attribute with asymmetrically-escaped HTML-as-string content - `&lt;`
+// for `<`, but a literal, unescaped `>` - which broke a naive `<[^>]+>`
+// regex: it stopped at that stray `>`, thinking the tag had closed
+// mid-attribute, and leaked the rest of the attribute's raw markup through
+// as if it were visible page text. Tracking quote state char-by-char
+// handles this correctly (a `>` inside a quoted attribute value never ends
+// the tag) and has no regex-backtracking risk on malformed input.
+function stripAllTags(html) {
+  let result = "";
+  let inTag = false;
+  let quoteChar = null;
+  for (let i = 0; i < html.length; i++) {
+    const ch = html[i];
+    if (inTag) {
+      if (quoteChar) {
+        if (ch === quoteChar) quoteChar = null;
+      } else if (ch === '"' || ch === "'") {
+        quoteChar = ch;
+      } else if (ch === ">") {
+        inTag = false;
+        result += " ";
+      }
+    } else if (ch === "<") {
+      inTag = true;
+    } else {
+      result += ch;
+    }
+  }
+  return result;
+}
+
 // Reduces a page down to its visible text, one line per block-level element,
 // so that (a) hashing ignores markup/class-name churn that doesn't affect
 // what a visitor actually sees, and (b) the result is meaningful to diff and
@@ -38,8 +71,9 @@ function extractVisibleText(html) {
     .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, "")
     .replace(/<noscript\b[^>]*>[\s\S]*?<\/noscript>/gi, "")
     .replace(/<!--[\s\S]*?-->/g, "")
-    .replace(/<(br|\/p|\/div|\/li|\/h[1-6]|\/tr|\/section|\/article|\/header|\/footer)\b[^>]*>/gi, "\n")
-    .replace(/<[^>]+>/g, " ");
+    .replace(/<(br|\/p|\/div|\/li|\/h[1-6]|\/tr|\/section|\/article|\/header|\/footer)\b[^>]*>/gi, "\n");
+
+  text = stripAllTags(text);
 
   for (const [entity, replacement] of Object.entries(HTML_ENTITIES)) {
     text = text.split(entity).join(replacement);

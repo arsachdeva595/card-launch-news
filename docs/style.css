@@ -475,6 +475,12 @@ p.snippet {
   font-weight: 550;
 }
 
+.tracked-row__meta {
+  margin: 0.15rem 0 0;
+  font-size: 0.76rem;
+  color: var(--text-muted);
+}
+
 .tracked-row a {
   color: var(--accent);
   text-decoration: none;

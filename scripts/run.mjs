@@ -109,6 +109,7 @@ async function main() {
       const trackedCard = trackedCardByUrl.get(change.url);
       if (trackedCard && trackedCard.status !== "Discontinued") {
         trackedCard.status = "Discontinued";
+        trackedCard.discontinuedAt = change.detectedAt;
         trackedCardsChanged = true;
         console.log(`  status updated to Discontinued in tracked-cards.json: "${change.cardName}"`);
       }
@@ -183,7 +184,12 @@ async function main() {
     issuerName: issuerNameBySlug.get(c.issuerSlug) || c.issuerSlug,
     issuerSlug: c.issuerSlug,
     url: c.url,
-    status: c.status
+    status: c.status,
+    // Only populated for discontinuations this pipeline itself detected (see
+    // discontinuation.mjs above) - the ~80 cards seeded as Discontinued from
+    // the original spreadsheet import have no known date, so this is left
+    // undefined for those rather than guessed.
+    discontinuedAt: c.discontinuedAt ?? null
   }));
   await writeJson(PATHS.publicTrackedCards, publicTrackedCards);
 

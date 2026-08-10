@@ -286,11 +286,18 @@ function renderTrackedList(items, query) {
   for (const item of items) {
     const row = document.createElement("div");
     row.className = "tracked-row";
+    const discontinuedLine = item.status === "Discontinued"
+      ? `<p class="tracked-row__meta">${item.discontinuedAt ? `Discontinued on ${formatDate(item.discontinuedAt)}` : "Discontinued (date unknown)"}</p>`
+      : "";
+
     row.innerHTML = `
       <div class="tracked-row__main">
         <span class="badge">${escapeHtml(item.issuerName)}</span>
         <span class="badge ${item.status === "Discontinued" ? "badge--discontinued" : "badge--active"}">${escapeHtml(item.status)}</span>
-        <p class="tracked-row__name">${escapeHtml(item.cardName)}</p>
+        <div>
+          <p class="tracked-row__name">${escapeHtml(item.cardName)}</p>
+          ${discontinuedLine}
+        </div>
       </div>
       <a href="${safeHref(item.url)}" target="_blank" rel="noopener noreferrer">Official page →</a>
     `;

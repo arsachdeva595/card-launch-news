@@ -24,6 +24,16 @@ existing card's page changes (fee/benefit/terms updates, discontinuations).
     runtime in the minutes rather than hours — see "Why two tiers" below.
 - Optional Telegram notification for all three (launches, tier-1 changes,
   tier-2 pings).
+- **All Tracked Cards**: a always-visible, searchable/filterable reference
+  list of every card in `config/tracked-cards.json` (name, issuer, official
+  link, `Active`/`Discontinued` status), mirrored to
+  `docs/data/tracked-cards.json` on every run. This is static metadata, not a
+  detection feed — a card's `Discontinued` status shows up here regardless of
+  whether anything on its page happened to change in a given run.
+- Optional LLM-generated one-line summary per detected change (e.g. "Airport
+  lounge access vouchers increased from 2 to 3 per quarter"), shown on the
+  site and in Telegram, and used to gate out noise before it's ever reported
+  — see "Optional: LLM change summaries" below.
 
 ### Why two tiers for change detection
 
@@ -92,16 +102,27 @@ with an honest label rather than something that looks broken.
    trims it down to a unified-diff-style set of hunks — just the changed
    lines plus a little context, capped in size — which is what actually
    renders in the "What changed" section of the detail view.
-5. **`scripts/enrich-change.mjs`** takes each Tier 1 change candidate (the
-   card name is already known from `tracked-cards.json`, no title fetch
-   needed) and searches Reddit/YouTube for discussion confirming what
-   changed.
-6. **`scripts/detect-pings.mjs`** (Tier 2) takes every card-matching sitemap
+5. **`scripts/lib/llm-summary.mjs`** (optional — only runs if `NVIDIA_API_KEY`
+   is set) reviews each Tier 1 change candidate's diff hunks and either
+   returns a one-line summary of what genuinely changed about the card
+   (fees, benefits, eligibility, discontinuation, etc.) or judges it noise
+   and suppresses it from being reported at all — a second line of defense
+   on top of the deterministic stripping in step 3, for noise that's
+   contextual rather than structural (e.g. a cross-sell widget advertising a
+   *different* card, which no fixed pattern can catch generically). If the
+   key isn't set or the call fails, the change is still reported as normal,
+   just without a summary — this step never silently disables change
+   detection.
+6. **`scripts/enrich-change.mjs`** takes each Tier 1 change candidate that
+   survived the LLM noise check (the card name is already known from
+   `tracked-cards.json`, no title fetch needed) and searches Reddit/YouTube
+   for discussion confirming what changed.
+7. **`scripts/detect-pings.mjs`** (Tier 2) takes every card-matching sitemap
    URL from step 1 that *isn't* in `tracked-cards.json`, and compares each
    one's `<lastmod>` (already known from the sitemap, no fetch needed) to
    what was stored in `data/lastmod-snapshots/` last run. A moved `lastmod`
    becomes a lightweight ping — Telegram-only, no diff, no enrichment.
-7. **`scripts/lib/reddit-buzz.mjs`** ("Reddit Buzz") takes this run's newly
+8. **`scripts/lib/reddit-buzz.mjs`** ("Reddit Buzz") takes this run's newly
    detected launches and Tier 1 changes and searches r/CreditCardsIndia
    specifically (via Reddit's own `subreddit:name` search qualifier) for
    each one - deliberately separate from the general (unscoped) Reddit
@@ -109,20 +130,26 @@ with an honest label rather than something that looks broken.
    matching post contribute nothing, so this is only ever "real discussion
    found tied to an actual launch/change," never general subreddit
    browsing.
-8. **`scripts/run.mjs`** orchestrates all of the above, merges Tier 1
+9. **`scripts/run.mjs`** orchestrates all of the above, merges Tier 1
    results into `docs/data/launches.json`, `docs/data/changes.json`, and
-   `docs/data/reddit-buzz.json`, writes `docs/data/meta.json`, and sends
-   Telegram notifications (`scripts/lib/notify.mjs`/
+   `docs/data/reddit-buzz.json`, writes a full mirror of
+   `config/tracked-cards.json` to `docs/data/tracked-cards.json` every run
+   (regardless of whether anything changed), writes `docs/data/meta.json`,
+   and sends Telegram notifications (`scripts/lib/notify.mjs`/
    `scripts/lib/telegram-format.mjs`) for launches, Tier 1 changes, Tier 2
    pings, and Reddit Buzz posts, if `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID`
    are configured.
-9. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
-   reads those JSON files and renders three sections: launches and changes
-   as tile grids with a shared detail view (including a rendered diff for
-   changes), and Reddit Buzz as a simpler list (title/snippet/link, no
-   detail view needed). Tier 2 pings don't appear on the site, only in
-   Telegram. Served directly by GitHub Pages — no build step.
-10. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
+10. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
+   reads those JSON files and renders four sections: launches and changes
+   as tile grids with a shared detail view (including a rendered diff, and
+   an LLM summary when available, for changes), Reddit Buzz as a simpler
+   list (title/snippet/link, no detail view needed), and All Tracked Cards
+   — every card in `docs/data/tracked-cards.json` (a run-time mirror of
+   `config/tracked-cards.json`) as a filterable/searchable list, independent
+   of whether anything was detected this run. Tier 2 pings don't appear on
+   the site, only in Telegram. Served directly by GitHub Pages — no build
+   step.
+11. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
     `scripts/run.mjs` only actually does work once `frequencyDays` (in
     `config/settings.json`) has elapsed since the last run. Trigger a run
     immediately (bypassing the frequency gate) from the Actions tab via
@@ -156,7 +183,17 @@ with an honest label rather than something that looks broken.
    - Add both as repo secrets: `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`.
    - If these aren't set, the run just skips notification silently — nothing
      else is affected.
-4. First run will be a baseline pass per issuer (no candidates are emitted
+4. **LLM change summaries (optional)**:
+   - Sign up at [build.nvidia.com](https://build.nvidia.com/) (free tier
+     available) and generate an API key from your account/API keys page.
+   - Add it as a repo secret named `NVIDIA_API_KEY`.
+   - Default model is `openai/gpt-oss-20b`; override via the
+     `NVIDIA_LLM_MODEL` repo secret if you want a different hosted model from
+     the same catalog.
+   - If `NVIDIA_API_KEY` isn't set, every detected change is still reported
+     as normal — just without a one-line summary and without the extra
+     LLM-based noise check (see `scripts/lib/llm-summary.mjs`).
+5. First run will be a baseline pass per issuer (no candidates are emitted
    the very first time an issuer's sitemap is seen, since there's nothing to
    diff against yet) — expect the feed to start filling in from the *second*
    run onward, once a snapshot exists to compare against. (This repo's
@@ -219,6 +256,12 @@ The original source list (contributed as a spreadsheet export) lives at
 `inputs/All Banks-Creditcard official links + Status - *.csv` for
 reference/reprocessing, but isn't read by any script — only
 `config/tracked-cards.json` is live.
+
+`config/tracked-cards.json` itself isn't published (it's an internal
+config file, not under `docs/`) — every run mirrors it to
+`docs/data/tracked-cards.json` (name/issuer/link/status only, no internal
+detection state), which is what powers the "All Tracked Cards" section on
+the site. Edits here show up there on the next run.
 
 ## Local testing
 

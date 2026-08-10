@@ -14,6 +14,7 @@ export const PATHS = {
   launches: path.join(ROOT, "docs", "data", "launches.json"),
   changes: path.join(ROOT, "docs", "data", "changes.json"),
   redditBuzz: path.join(ROOT, "docs", "data", "reddit-buzz.json"),
+  publicTrackedCards: path.join(ROOT, "docs", "data", "tracked-cards.json"),
   meta: path.join(ROOT, "docs", "data", "meta.json")
 };
 

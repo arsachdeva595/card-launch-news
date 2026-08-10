@@ -44,6 +44,7 @@ jobs:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
           FORCE_RUN: ${{ inputs.force && 'true' || 'false' }}
           FREQUENCY_DAYS_OVERRIDE: ${{ inputs.frequencyDays }}
         run: npm run run

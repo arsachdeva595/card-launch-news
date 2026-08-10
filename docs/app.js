@@ -7,7 +7,9 @@ const searchInput = document.getElementById("search-input");
 let allLaunches = [];
 let allChanges = [];
 let allBuzz = [];
+let allTrackedCards = [];
 let currentFrequencyDays = 7;
+let currentStatusFilter = "all";
 
 // All card names, search-result titles/snippets, and diff text originate
 // from external sources (issuer pages, search API results) - escape before
@@ -105,6 +107,13 @@ function renderChangeDetail(change) {
       <h3>Card page</h3>
       <a href="${safeHref(change.productPageUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(change.productPageUrl)}</a>
     </div>
+
+    ${change.summary ? `
+    <div class="detail-section">
+      <h3>Summary</h3>
+      <p class="change-summary">${escapeHtml(change.summary)}</p>
+    </div>
+    ` : ""}
 
     <div class="detail-section">
       <h3>What changed</h3>
@@ -258,10 +267,45 @@ function renderBuzzList(items, query) {
   }
 }
 
+function renderTrackedList(items, query) {
+  const listEl = document.getElementById("tracked-list");
+  const emptyStateEl = document.getElementById("tracked-empty-state");
+  const isSearching = query.trim().length > 0;
+
+  if (items.length === 0) {
+    emptyStateEl.textContent = isSearching
+      ? `No tracked cards match "${query}".`
+      : "No tracked cards yet.";
+    emptyStateEl.hidden = false;
+    listEl.innerHTML = "";
+    return;
+  }
+
+  emptyStateEl.hidden = true;
+  listEl.innerHTML = "";
+  for (const item of items) {
+    const row = document.createElement("div");
+    row.className = "tracked-row";
+    row.innerHTML = `
+      <div class="tracked-row__main">
+        <span class="badge">${escapeHtml(item.issuerName)}</span>
+        <span class="badge ${item.status === "Discontinued" ? "badge--discontinued" : "badge--active"}">${escapeHtml(item.status)}</span>
+        <p class="tracked-row__name">${escapeHtml(item.cardName)}</p>
+      </div>
+      <a href="${safeHref(item.url)}" target="_blank" rel="noopener noreferrer">Official page →</a>
+    `;
+    listEl.appendChild(row);
+  }
+}
+
 function renderAll(query) {
   const filteredLaunches = filterAndSort(allLaunches, query);
   const filteredChanges = filterAndSort(allChanges, query);
   const filteredBuzz = filterAndSort(allBuzz, query);
+  const statusFiltered = currentStatusFilter === "all"
+    ? allTrackedCards
+    : allTrackedCards.filter((c) => c.status === currentStatusFilter);
+  const filteredTracked = filterAndSort(statusFiltered, query);
   const isSearching = query.trim().length > 0;
 
   renderTiles({
@@ -287,6 +331,7 @@ function renderAll(query) {
   });
 
   renderBuzzList(filteredBuzz, query);
+  renderTrackedList(filteredTracked, query);
 
   // If the search narrows things down to exactly one card total, jump
   // straight to its detail view instead of making the user click it.
@@ -297,6 +342,16 @@ function renderAll(query) {
 }
 
 searchInput.addEventListener("input", () => renderAll(searchInput.value));
+
+document.getElementById("status-filter").addEventListener("click", (e) => {
+  const btn = e.target.closest(".status-filter__btn");
+  if (!btn) return;
+  currentStatusFilter = btn.dataset.status;
+  for (const el of document.querySelectorAll(".status-filter__btn")) {
+    el.classList.toggle("is-active", el === btn);
+  }
+  renderAll(searchInput.value);
+});
 
 const REPO_URL = "https://github.com/arsachdeva595/card-launch-news";
 
@@ -324,15 +379,17 @@ function renderSettings(meta) {
 
 async function init() {
   try {
-    const [launchesRes, changesRes, buzzRes, metaRes] = await Promise.all([
+    const [launchesRes, changesRes, buzzRes, trackedRes, metaRes] = await Promise.all([
       fetch("data/launches.json", { cache: "no-store" }),
       fetch("data/changes.json", { cache: "no-store" }),
       fetch("data/reddit-buzz.json", { cache: "no-store" }),
+      fetch("data/tracked-cards.json", { cache: "no-store" }),
       fetch("data/meta.json", { cache: "no-store" })
     ]);
     allLaunches = await launchesRes.json();
     allChanges = changesRes.ok ? await changesRes.json() : [];
     allBuzz = buzzRes.ok ? await buzzRes.json() : [];
+    allTrackedCards = trackedRes.ok ? await trackedRes.json() : [];
     const meta = await metaRes.json();
     currentFrequencyDays = meta.frequencyDays || 7;
 

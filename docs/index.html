@@ -53,6 +53,20 @@
       <p class="empty-state" id="buzz-empty-state" hidden></p>
       <div class="buzz-list" id="buzz-list"></div>
     </section>
+
+    <section class="feed-section">
+      <h2>All Tracked Cards</h2>
+      <p class="section-subtitle">
+        Every card being monitored, with current status — static reference data, independent of the feeds above.
+      </p>
+      <div class="status-filter" id="status-filter">
+        <button type="button" class="status-filter__btn is-active" data-status="all">All</button>
+        <button type="button" class="status-filter__btn" data-status="Active">Active</button>
+        <button type="button" class="status-filter__btn" data-status="Discontinued">Discontinued</button>
+      </div>
+      <p class="empty-state" id="tracked-empty-state" hidden></p>
+      <div class="tracked-list" id="tracked-list"></div>
+    </section>
   </main>
 
   <div class="overlay" id="overlay" hidden>

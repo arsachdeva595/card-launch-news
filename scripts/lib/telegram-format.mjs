@@ -45,6 +45,8 @@ export function formatChangeMessage(change, siteUrl) {
     `Card page: <a href="${esc(change.productPageUrl)}">${esc(change.productPageUrl)}</a>`
   ];
 
+  if (change.summary) lines.push("", `<b>Summary:</b> ${esc(change.summary)}`);
+
   const excerpt = diffExcerpt(change.diffHunks);
   lines.push("", excerpt ? `What changed (excerpt):\n${excerpt}` : "What changed: see full diff on the site");
 

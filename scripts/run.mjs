@@ -3,6 +3,7 @@ import { enrichCandidate } from "./enrich.mjs";
 import { detectChanges } from "./detect-changes.mjs";
 import { detectPings } from "./detect-pings.mjs";
 import { enrichChangeCandidate } from "./enrich-change.mjs";
+import { summarizeChange } from "./lib/llm-summary.mjs";
 import { collectRedditBuzz } from "./lib/reddit-buzz.mjs";
 import { notifyTelegram } from "./lib/notify.mjs";
 import { formatLaunchMessage, formatChangeMessage, formatPingMessage, formatRedditBuzzMessage } from "./lib/telegram-format.mjs";
@@ -98,11 +99,26 @@ async function main() {
 
   const newChanges = [];
   for (const change of changeCandidates) {
-    console.log(`Enriching change candidate: ${change.url}`);
+    console.log(`Checking change candidate with LLM: ${change.url}`);
     try {
+      // LLM judges real-vs-noise before we bother with enrichment. Missing
+      // key / call failure returns null ("unknown"), not noise - the change
+      // still gets reported without a summary, so this optional step never
+      // silently disables change detection when unconfigured.
+      const llmResult = await summarizeChange({
+        cardName: change.cardName,
+        issuerName: change.issuerName,
+        diffHunks: change.diffHunks
+      });
+      if (llmResult?.noise) {
+        console.log(`  LLM judged noise, suppressing: "${change.cardName}"`);
+        continue;
+      }
+
       const enriched = await enrichChangeCandidate(change);
+      if (llmResult?.summary) enriched.summary = llmResult.summary;
       newChanges.push(enriched);
-      console.log(`  -> "${enriched.cardName}"`);
+      console.log(`  -> "${enriched.cardName}"${llmResult?.summary ? ` (${llmResult.summary})` : ""}`);
     } catch (err) {
       console.warn(`  ! enrichment failed for ${change.url}: ${err.message}`);
     }
@@ -134,6 +150,20 @@ async function main() {
   const existingBuzz = await readJson(PATHS.redditBuzz, []);
   const mergedBuzz = mergeById(existingBuzz, newBuzz, "detectedAt", MAX_BUZZ_KEPT);
   await writeJson(PATHS.redditBuzz, mergedBuzz);
+
+  // Public mirror of the full curated card list (name/issuer/link/status),
+  // independent of launches/changes - this is static metadata, not
+  // something detected, so it shouldn't only be visible when it happens to
+  // coincide with a page diff. Written every run so it never goes stale.
+  const issuerNameBySlug = new Map(issuers.map((i) => [i.slug, i.name]));
+  const publicTrackedCards = trackedCards.map((c) => ({
+    cardName: c.cardName,
+    issuerName: issuerNameBySlug.get(c.issuerSlug) || c.issuerSlug,
+    issuerSlug: c.issuerSlug,
+    url: c.url,
+    status: c.status
+  }));
+  await writeJson(PATHS.publicTrackedCards, publicTrackedCards);
 
   const nowIso = new Date().toISOString();
   await writeJson(PATHS.meta, {

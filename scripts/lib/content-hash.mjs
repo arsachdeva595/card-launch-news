@@ -20,7 +20,8 @@ const HTML_ENTITIES = {
 // no amount of sorting fixes this: the *value* itself differs each time.
 const VOLATILE_LINE_PATTERNS = [
   /^[\d,.]+k?\+?\s+views?$/i,
-  /^last\s+updated\s+on\s*:?\s*\d{1,2}[\s\-\/]\w+[\s\-\/]\d{2,4}$/i
+  /^last\s+updated\s+on\s*:?\s*\d{1,2}[\s\-\/]\w+[\s\-\/]\d{2,4}$/i,
+  /^[\d,]+\s+people\s+are\s+interested$/i
 ];
 
 function isVolatileLine(line) {

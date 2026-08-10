@@ -38,7 +38,17 @@
       "debit-card",
       "debit_card",
       "/nri-banking/cards/credit-card",
-      "/digital-products/cards/credit-cards"
+      "/digital-products/cards/credit-cards",
+      "/xpressway/",
+      "/insta-services/",
+      "/important-links/",
+      "/financial-firsts/",
+      "health-wellness",
+      "lifestyle-entertainment",
+      "travel-stay",
+      "/more-benefits",
+      "vkyc",
+      "kisan-credit-card"
     ]
   },
   "changeDetection": {

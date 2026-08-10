@@ -233,6 +233,17 @@ still created with `community` fields left `null`.
 
 ## Known limitations (v1)
 
+- **If you ever change how pages get hashed/extracted again** (a new
+  `VOLATILE_LINE_PATTERNS` entry, a new stripping rule, etc.), wipe
+  `data/page-hashes/*.json` (the internal comparison baseline - genuinely
+  stale under a new algorithm) but do **not** wipe `docs/data/changes.json`
+  wholesale. That file is the published history of already-detected,
+  already-surfaced changes; the algorithm change doesn't retroactively
+  invalidate real findings that happened to also get published alongside
+  noise. This bit once - a full reset discarded 6 genuine "card
+  discontinued" notices along with 17 real noise entries, recovered
+  afterward from git history. If cleanup of published noise is needed,
+  remove those specific entries (by URL/cardName), not the whole file.
 - Reddit Buzz only searches for posts tied to launches/changes detected in
   *that same run* - it doesn't retroactively search for older discussion
   about a card that launched/changed days ago, and it relies on Reddit's

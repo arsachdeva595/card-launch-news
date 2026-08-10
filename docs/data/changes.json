@@ -1,1 +1,826 @@
-[]
+[
+  {
+    "id": "icici-bank-chennai-super-kings-credit-card",
+    "cardName": "Chennai Super Kings Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/csk-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-10T05:00:26.848Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Chennai Super Kings ICICI Bank Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "iShop"
+      },
+      {
+        "type": "removed",
+        "text": "iShop"
+      },
+      {
+        "type": "context",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Chennai Super Kings ICICI Bank Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "2,112 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "2,105 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Cricket Enthusiasts"
+      },
+      {
+        "type": "context",
+        "text": "Autographed merchandise"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-signature-credit-card",
+    "cardName": "MakeMyTrip Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-10T05:00:26.848Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Signature Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "iShop"
+      },
+      {
+        "type": "removed",
+        "text": "iShop"
+      },
+      {
+        "type": "context",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "myCash points"
+      },
+      {
+        "type": "context",
+        "text": "Milestone Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "5,716 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "5,817 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Frequent Holiday Goers"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip Holiday Voucher"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-skywards-rubyx-credit-card",
+    "cardName": "Emirates Skywards Rubyx Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-rubyx-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-10T05:00:26.845Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Emirates Skywards Rubyx Credit Card | ICICI Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "removed",
+        "text": "For a limited period"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "removed",
+        "text": "For a limited period"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "removed",
+        "text": "For a limited period"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "removed",
+        "text": "For a limited period"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "removed",
+        "text": "For a limited period"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "removed",
+        "text": "For a limited period"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Higher Returns on FCNR (B) Deposits"
+      },
+      {
+        "type": "removed",
+        "text": "For a limited period"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "iShop"
+      },
+      {
+        "type": "added",
+        "text": "Earn 6.25% p.a.* on"
+      },
+      {
+        "type": "added",
+        "text": "FCNR (B) Deposits in USD"
+      },
+      {
+        "type": "added",
+        "text": "Open FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Earn 6.25% p.a.* on"
+      },
+      {
+        "type": "added",
+        "text": "FCNR (B) Deposits in USD"
+      },
+      {
+        "type": "added",
+        "text": "Open FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Earn 6.25% p.a.* on"
+      },
+      {
+        "type": "added",
+        "text": "FCNR (B) Deposits in USD"
+      },
+      {
+        "type": "added",
+        "text": "Open FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Earn 6.25% p.a.* on"
+      },
+      {
+        "type": "added",
+        "text": "FCNR (B) Deposits in USD"
+      },
+      {
+        "type": "added",
+        "text": "Open FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Earn 6.25% p.a.* on"
+      },
+      {
+        "type": "added",
+        "text": "FCNR (B) Deposits in USD"
+      },
+      {
+        "type": "added",
+        "text": "Open FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "iShop"
+      },
+      {
+        "type": "added",
+        "text": "Earn 6.25% p.a.* on"
+      },
+      {
+        "type": "added",
+        "text": "FCNR (B) Deposits in USD"
+      },
+      {
+        "type": "added",
+        "text": "Open FCNR (B) Deposits"
+      },
+      {
+        "type": "added",
+        "text": "Earn 6.25% p.a.* on"
+      },
+      {
+        "type": "added",
+        "text": "FCNR (B) Deposits in USD"
+      },
+      {
+        "type": "added",
+        "text": "Open FCNR (B) Deposits"
+      },
+      {
+        "type": "context",
+        "text": "Fees & Chargss"
+      },
+      {
+        "type": "context",
+        "text": "Emirates Skywards Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Skywards Miles"
+      },
+      {
+        "type": "context",
+        "text": "Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "6,187 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "added",
+        "text": "6,217 PEOPLE ARE INTERESTED"
+      },
+      {
+        "type": "context",
+        "text": "Frequent Flyers"
+      },
+      {
+        "type": "context",
+        "text": "Airport Lounge Access"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-auto-insurance-card",
+    "cardName": "Auto Insurance Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/auto-insurance-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-10T04:59:44.994Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Women 2"
+      },
+      {
+        "type": "context",
+        "text": "Kids 3"
+      },
+      {
+        "type": "added",
+        "text": "HDFC Bank Hajj Umrah ForexPlus Card"
+      },
+      {
+        "type": "added",
+        "text": "DigiPassBook"
+      },
+      {
+        "type": "added",
+        "text": "Religious Offering's & Donation"
+      },
+      {
+        "type": "added",
+        "text": "Better Money Choices®"
+      },
+      {
+        "type": "context",
+        "text": "RFC Saving Account"
+      },
+      {
+        "type": "context",
+        "text": "RFC - GBP"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "NRI Portfolio Investment Scheme Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Loan Against Fixed Deposit"
+      },
+      {
+        "type": "added",
+        "text": "Better Money Choices®"
+      },
+      {
+        "type": "added",
+        "text": "Better Money Choices®"
+      },
+      {
+        "type": "added",
+        "text": "Better Money Choices®"
+      },
+      {
+        "type": "context",
+        "text": "Other Loan Types"
+      },
+      {
+        "type": "context",
+        "text": "Smart Hub Vyapar"
+      },
+      {
+        "type": "context",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "context",
+        "text": "Consumer Durable Loan"
+      },
+      {
+        "type": "added",
+        "text": "Better Money Choices®"
+      },
+      {
+        "type": "added",
+        "text": "Better Money Choices®"
+      },
+      {
+        "type": "added",
+        "text": "NetBanking for Business"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Portal"
+      },
+      {
+        "type": "added",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "added",
+        "text": "Explore Now"
+      },
+      {
+        "type": "added",
+        "text": "NetBanking for Business"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Portal"
+      },
+      {
+        "type": "added",
+        "text": "Pre-approved offers on Loans, Credit Cards, Home Loans & more!"
+      },
+      {
+        "type": "added",
+        "text": "Explore Now"
+      },
+      {
+        "type": "added",
+        "text": "DigiPassBook"
+      },
+      {
+        "type": "context",
+        "text": "NRI -Mutual Funds"
+      },
+      {
+        "type": "context",
+        "text": "NRI Portfolio Investment Scheme"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-business-platinum-credit-card-emv",
+    "cardName": "Business Platinum Credit Card (EMV)",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/business-platinum-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-10T04:59:44.990Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Business Platinum Credit Card for Business Rewards | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "My Money"
+      },
+      {
+        "type": "removed",
+        "text": "Salary Plus Overdraft"
+      },
+      {
+        "type": "removed",
+        "text": "My Money"
+      },
+      {
+        "type": "removed",
+        "text": "My Money"
+      },
+      {
+        "type": "context",
+        "text": "Business Platinum Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Business Platinum Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Sourcing of this Credit Card has been stopped. Existing customers of this card will continue to enjoy the benefits."
+      },
+      {
+        "type": "added",
+        "text": "<a href=&#34;https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/personal-banking/discover-products/cards/credit-cards/generic-mailer-tnc.pdf&#34; target=&#34;_blank&#34;>Click here</a>&nbsp;to view the changes in HDFC Bank Business Platinum Credit Card<i>&nbsp;</i>effective 15th May 2026.</p>"
+      },
+      {
+        "type": "context",
+        "text": "Click here  to view the changes in HDFC Bank Business Platinum Credit Card   effective 15th May 2026."
+      },
+      {
+        "type": "added",
+        "text": "<span class=&#34;quicktitle&#34;>What’s In Store For You</span></p>"
+      },
+      {
+        "type": "added",
+        "text": "<li><a href=&#34;#a&#34; target=&#34;_self&#34; title=&#34;Card Benefits &amp; Features&#34;>Card Benefits &amp; Features<span class=&#34;viewarrow-icon icon-arrow-right-bold&#34;></span></a></li>"
+      },
+      {
+        "type": "added",
+        "text": "<li><a title=&#34;Card Management &amp; Controls&#34; href=&#34;#card&#34; target=&#34;_self&#34;>Card Management &amp; Controls<span class=&#34;viewarrow-icon icon-arrow-right-bold&#34;></span></a></li>"
+      },
+      {
+        "type": "added",
+        "text": "<li><a href=&#34;#d&#34; target=&#34;_self&#34; title=&#34;Frequently Asked Questions&#34;>Frequently Asked Questions<span class=&#34;viewarrow-icon icon-arrow-right-bold&#34;></span></a></li>"
+      },
+      {
+        "type": "context",
+        "text": "What’s In Store For You"
+      },
+      {
+        "type": "added",
+        "text": "<span class=&#34;section-title&#34;><span class=&#34;breakline&#34;>Card Benefits &amp; Features</span></span></h2>"
+      },
+      {
+        "type": "context",
+        "text": "CashBack Benefits"
+      },
+      {
+        "type": "context",
+        "text": "​​​​​​​You get 1% CashBack for all retail spends on minimum statement balance of ₹50,000."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Fuel surcharge waived off on fuel transactions of ₹400 to ₹5000, maximum waiver of ₹500 per statement cycle."
+      },
+      {
+        "type": "context",
+        "text": "If you happen to lose your Card, report it immediately to our  24-hour call centre . After reporting the loss, you carry zero liability on any fraudulent transactions on your card."
+      },
+      {
+        "type": "added",
+        "text": "<span class=&#34;card-subtitle&#34;><span class=&#34;section-title&#34;><span class=&#34;pd-millennia_title&#34;>Card Management &amp; Controls </span></span></span></h3>"
+      },
+      {
+        "type": "context",
+        "text": "Single Interface"
+      },
+      {
+        "type": "context",
+        "text": "One unified platform for Credit Cards, Debit Cards, FASTag and Consumer Durable Loans"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "View and redeem points at the push of a button"
+      },
+      {
+        "type": "added",
+        "text": "<span class=&#34;section-title&#34;>Know more about the card </span></h2>"
+      },
+      {
+        "type": "context",
+        "text": "Additional Features"
+      },
+      {
+        "type": "context",
+        "text": "EMV Chip"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-moneyback-credit-card",
+    "cardName": "Purchase MoneyBack Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-moneyback-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-10T04:59:44.990Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Purchase MoneyBack Credit Card | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 5"
+      },
+      {
+        "type": "removed",
+        "text": "Premium 5"
+      },
+      {
+        "type": "removed",
+        "text": "Senior Citizen 2"
+      },
+      {
+        "type": "removed",
+        "text": "Women 2"
+      },
+      {
+        "type": "removed",
+        "text": "Kids 3"
+      },
+      {
+        "type": "removed",
+        "text": "RFC Saving Account"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - GBP"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - USD"
+      },
+      {
+        "type": "removed",
+        "text": "RFC - EURO"
+      },
+      {
+        "type": "removed",
+        "text": "Vishesh Premier Banking"
+      },
+      {
+        "type": "removed",
+        "text": "Prime Premier Banking"
+      },
+      {
+        "type": "removed",
+        "text": "FCNR - MAX"
+      },
+      {
+        "type": "removed",
+        "text": "NRI -Mutual Funds"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Loan Against Fixed Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "NRI -Mutual Funds"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Portfolio Investment Scheme Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Purchase MoneyBack Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Purchase MoneyBack Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Wide Acceptance and Global Utility"
+      },
+      {
+        "type": "context",
+        "text": "Enquire Now"
+      },
+      {
+        "type": "added",
+        "text": "<span class=&#34;quicktitle&#34;>What's in store for you</span></p>"
+      },
+      {
+        "type": "added",
+        "text": "<li><a title=&#34;Card Benefits &amp; Features&#34; href=&#34;#a&#34;>Card Benefits &amp; Features<span class=&#34;viewarrow-icon icon-arrow-right-bold&#34;></span></a></li>"
+      },
+      {
+        "type": "added",
+        "text": "<li><a href=&#34;#d&#34; target=&#34;_self&#34; title=&#34;Frequently Asked Questions&#34;>Frequently Asked Questions<span class=&#34;viewarrow-icon icon-arrow-right-bold&#34;></span></a></li>"
+      },
+      {
+        "type": "added",
+        "text": "<span class=&#34;card-subtitle&#34;><span class=&#34;section-title&#34;><span class=&#34;pd-millennia_title&#34;>More benefits than ever before</span></span></span></p>"
+      },
+      {
+        "type": "context",
+        "text": "More benefits than ever before"
+      },
+      {
+        "type": "context",
+        "text": "Only 2.5% foreign currency mark-up on international transactions"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Save up to 40% on business travel and software purchases*"
+      },
+      {
+        "type": "context",
+        "text": "View more"
+      },
+      {
+        "type": "added",
+        "text": "<span class=&#34;section-title&#34;><span class=&#34;breakline&#34;>Additional Benefits </span></span></h2>"
+      },
+      {
+        "type": "context",
+        "text": "Additional Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Travel Benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Commercial Cards"
+      },
+      {
+        "type": "context",
+        "text": "Enquire now"
+      },
+      {
+        "type": "added",
+        "text": "<span class=&#34;text-center&#34;><span class=&#34;section-title&#34;>Know more about the card</span></span></h2>"
+      },
+      {
+        "type": "context",
+        "text": "Added Delights"
+      },
+      {
+        "type": "context",
+        "text": "Contactless Payment"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  }
+]

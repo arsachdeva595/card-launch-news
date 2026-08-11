@@ -6,7 +6,8 @@
   "description": "Tracks newly launched Indian credit cards by diffing issuer sitemaps and enriching candidates with public announcement/community data.",
   "scripts": {
     "run": "node scripts/run.mjs",
-    "run:force": "node scripts/run.mjs --force"
+    "run:force": "node scripts/run.mjs --force",
+    "backfill-summaries": "node scripts/backfill-summaries.mjs"
   },
   "engines": {
     "node": ">=20"

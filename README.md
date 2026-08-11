@@ -291,11 +291,20 @@ the site. Edits here show up there on the next run.
 ```bash
 npm run run          # runs only if due per frequencyDays
 npm run run:force     # runs regardless (useful for local testing)
+npm run backfill-summaries   # fills in `summary` for changes that don't have one yet
 ```
 
 Requires `APIFY_TOKEN` to be set in your shell environment to get real
 enrichment results; without it, searches are skipped and card entries are
 still created with `community` fields left `null`.
+
+`backfill-summaries` (`scripts/backfill-summaries.mjs`) re-runs the LLM step
+against every change in `docs/data/changes.json` that's missing a `summary`,
+reusing its already-stored `diffHunks` (no page refetch) - useful after
+adding/fixing `NVIDIA_API_KEY`, or after restoring older changes from
+history that predate the LLM feature. Safe to rerun; skips entries that
+already have a summary. Requires `NVIDIA_API_KEY` in your shell environment;
+commit and push `docs/data/changes.json` afterward to publish the results.
 
 ## Known limitations (v1)
 

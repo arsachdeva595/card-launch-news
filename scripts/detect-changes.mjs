@@ -1,6 +1,6 @@
 import { fetchPageText, hashText } from "./lib/content-hash.mjs";
 import { computeUnifiedDiff } from "./lib/text-diff.mjs";
-import { readJson, writeJson, pageHashPathFor } from "./lib/state.mjs";
+import { readJson, writeJson, pageHashPathFor, boilerplateLinesPathFor } from "./lib/state.mjs";
 
 const SITE_WIDE_SUPPRESS_THRESHOLD = 3;
 const BOILERPLATE_MIN_CARDS = 3;
@@ -123,6 +123,8 @@ export async function detectChanges({ trackedCards, issuers, settings }) {
     console.log(`Checking ${cards.length} tracked card(s) for content changes: ${issuer?.name || issuerSlug}`);
     const hashPath = pageHashPathFor(issuerSlug);
     const stored = await readJson(hashPath, { pages: {} });
+    const boilerplatePath = boilerplateLinesPathFor(issuerSlug);
+    const knownBoilerplateLines = new Set(await readJson(boilerplatePath, []));
 
     // Phase 1: fetch every card's raw text first - boilerplate can only be
     // computed by comparing pages to each other, so nothing gets hashed yet.
@@ -136,8 +138,22 @@ export async function detectChanges({ trackedCards, issuers, settings }) {
     if (fetched.length === 0) continue;
 
     // Phase 2: strip whatever's common across most of this issuer's cards.
-    const boilerplateLines = computeBoilerplateLines(fetched.map((f) => f.text));
-    console.log(`  excluding ${boilerplateLines.size} shared boilerplate line(s) for ${issuer?.name || issuerSlug}`);
+    // Some cross-sell/nav widgets show a *randomized* subset of promo links
+    // per fetch rather than a fixed set, so a line can cross the >=50%
+    // threshold one run and fall just under it the next, purely by chance -
+    // stripping it inconsistently between runs then shows up as a fake
+    // added/removed diff even though nothing on the page really changed.
+    // Fix: once a line is ever identified as shared boilerplate for this
+    // issuer, keep excluding it in every future run too (monotonic, never
+    // shrinks) - accumulated in boilerplateLinesPathFor and unioned with
+    // whatever this run's fresh comparison additionally finds.
+    const thisRunBoilerplateLines = computeBoilerplateLines(fetched.map((f) => f.text));
+    const boilerplateLines = new Set([...knownBoilerplateLines, ...thisRunBoilerplateLines]);
+    console.log(
+      `  excluding ${boilerplateLines.size} shared boilerplate line(s) for ${issuer?.name || issuerSlug} ` +
+        `(${thisRunBoilerplateLines.size} new this run, ${knownBoilerplateLines.size} previously known)`
+    );
+    await writeJson(boilerplatePath, [...boilerplateLines]);
 
     const updatedPages = { ...stored.pages };
     const issuerChanges = [];

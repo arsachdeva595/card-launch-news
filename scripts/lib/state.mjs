@@ -11,6 +11,7 @@ export const PATHS = {
   snapshotsDir: path.join(ROOT, "data", "sitemap-snapshots"),
   pageHashesDir: path.join(ROOT, "data", "page-hashes"),
   lastmodSnapshotsDir: path.join(ROOT, "data", "lastmod-snapshots"),
+  boilerplateLinesDir: path.join(ROOT, "data", "boilerplate-lines"),
   launches: path.join(ROOT, "docs", "data", "launches.json"),
   changes: path.join(ROOT, "docs", "data", "changes.json"),
   redditBuzz: path.join(ROOT, "docs", "data", "reddit-buzz.json"),
@@ -43,4 +44,8 @@ export function pageHashPathFor(issuerSlug) {
 
 export function lastmodSnapshotPathFor(issuerSlug) {
   return path.join(PATHS.lastmodSnapshotsDir, `${issuerSlug}.json`);
+}
+
+export function boilerplateLinesPathFor(issuerSlug) {
+  return path.join(PATHS.boilerplateLinesDir, `${issuerSlug}.json`);
 }

@@ -59,8 +59,8 @@ jobs:
           # did, since it never gets committed/pushed). An existing-but-empty
           # directory is a safe no-op for git add, so this makes the add
           # robust regardless of which paths this particular run touched.
-          mkdir -p docs/data data/sitemap-snapshots data/page-hashes data/lastmod-snapshots
-          git add docs/data config/settings.json config/tracked-cards.json data/sitemap-snapshots data/page-hashes data/lastmod-snapshots
+          mkdir -p docs/data data/sitemap-snapshots data/page-hashes data/lastmod-snapshots data/boilerplate-lines
+          git add docs/data config/settings.json config/tracked-cards.json data/sitemap-snapshots data/page-hashes data/lastmod-snapshots data/boilerplate-lines
           if git diff --cached --quiet; then
             echo "No data changes to commit."
             exit 0

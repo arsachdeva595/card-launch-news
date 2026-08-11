@@ -87,7 +87,14 @@ with an honest label rather than something that looks broken.
    necessarily shared header/footer/nav/cookie-banner/widget chrome (real
    card content differs card to card; template chrome doesn't), and gets
    stripped before hashing — so a bank updating its site-wide footer never
-   registers as a per-card "change" in the first place. What's left gets
+   registers as a per-card "change" in the first place. This boilerplate set
+   is also persisted per issuer (`data/boilerplate-lines/`) and accumulated
+   across runs rather than recomputed fresh each time, so a widget that
+   shows a randomized subset of promo links per fetch (crossing the
+   ≥50%-of-cards threshold on some runs, falling under it on others) can't
+   flip in and out of being stripped and cause a fake diff purely from that
+   inconsistency — see "Known limitations" below for the incident that
+   prompted this. What's left gets
    hashed (order-insensitive - see `hashText`) and compared against the hash
    stored in `data/page-hashes/`. A changed hash (on a card seen before —
    first sightings just establish a baseline) becomes a change candidate,
@@ -334,6 +341,19 @@ still created with `community` fields left `null`.
      also appear on ≥50% of an issuer's cards simultaneously (rare, but
      possible for something like a company-wide rebrand), it would be
      stripped as if it were boilerplate too.
+  4. A variant of #3 that slipped through initially: HDFC's cross-sell
+     widget shows a *randomized* subset of promo links per fetch rather
+     than a fixed set, so a given line (e.g. "DigiPassBook", "Better Money
+     Choices®") would cross the ≥50%-of-cards threshold on some runs and
+     fall just under it on others, purely by chance. Since each run's
+     boilerplate set was recomputed fresh and baked directly into that
+     run's stored baseline text, this inconsistency between runs showed up
+     as fake added/removed diff lines on cards that hadn't actually
+     changed. Fixed by making the boilerplate-line set persistent and
+     monotonic per issuer (`data/boilerplate-lines/<issuer>.json`) - once a
+     line is ever identified as shared/widget content, it's excluded in
+     every future run too, unioned with whatever that run's fresh
+     comparison additionally finds, so it never flips back and forth.
 - Launch-candidate filtering had a similar issue: HDFC's `/campaign/how-to-*`
   FAQ pages (e.g. "How to Check Credit Card Summary") were flagged as new
   card launches since their URLs contain "credit-card". Added `how-to-` and

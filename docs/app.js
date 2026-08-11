@@ -305,6 +305,60 @@ function renderTrackedList(items, query) {
   }
 }
 
+// Groups by calendar day using the same en-IN formatting as formatDate, so
+// the group heading and each item's implicit date always agree - grouping
+// on a separately-formatted key would risk them drifting out of sync.
+function groupByDay(items, dateField) {
+  const groups = new Map();
+  for (const item of items) {
+    const key = formatDate(item[dateField]);
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(item);
+  }
+  return Array.from(groups.entries()).sort(
+    (a, b) => new Date(b[1][0][dateField]) - new Date(a[1][0][dateField])
+  );
+}
+
+function renderHistory(changes, query) {
+  const timelineEl = document.getElementById("history-timeline");
+  const emptyStateEl = document.getElementById("history-empty-state");
+  const isSearching = query.trim().length > 0;
+
+  if (changes.length === 0) {
+    emptyStateEl.textContent = isSearching ? `No history matches "${query}".` : "No change history yet.";
+    emptyStateEl.hidden = false;
+    timelineEl.innerHTML = "";
+    return;
+  }
+
+  emptyStateEl.hidden = true;
+  timelineEl.innerHTML = "";
+  for (const [dateLabel, items] of groupByDay(changes, "detectedAt")) {
+    const group = document.createElement("div");
+    group.className = "history-group";
+
+    const heading = document.createElement("h3");
+    heading.className = "history-group__date";
+    heading.textContent = dateLabel;
+    group.appendChild(heading);
+
+    for (const item of items) {
+      const row = document.createElement("button");
+      row.type = "button";
+      row.className = "history-row";
+      row.innerHTML = `
+        <span class="badge">${escapeHtml(item.issuerName)}</span>
+        <span class="history-row__name">${escapeHtml(item.cardName)}</span>
+      `;
+      row.addEventListener("click", () => openDetail(item, "change"));
+      group.appendChild(row);
+    }
+
+    timelineEl.appendChild(group);
+  }
+}
+
 function renderAll(query) {
   const filteredLaunches = filterAndSort(allLaunches, query);
   const filteredChanges = filterAndSort(allChanges, query);
@@ -339,6 +393,7 @@ function renderAll(query) {
 
   renderBuzzList(filteredBuzz, query);
   renderTrackedList(filteredTracked, query);
+  renderHistory(filteredChanges, query);
 
   // If the search narrows things down to exactly one card total, jump
   // straight to its detail view instead of making the user click it.

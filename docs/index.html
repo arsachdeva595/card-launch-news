@@ -29,14 +29,22 @@
     </div>
   </header>
 
+  <nav class="site-nav" id="site-nav" aria-label="Section navigation">
+    <a href="#launches-section">New launches</a>
+    <a href="#changes-section">Changes</a>
+    <a href="#history-section">History</a>
+    <a href="#buzz-section">Reddit Buzz</a>
+    <a href="#tracked-section">All Tracked Cards</a>
+  </nav>
+
   <main class="feed">
-    <section class="feed-section">
+    <section class="feed-section" id="launches-section">
       <h2>New launches</h2>
       <p class="empty-state" id="launches-empty-state" hidden></p>
       <div class="tile-grid" id="launches-grid"></div>
     </section>
 
-    <section class="feed-section">
+    <section class="feed-section" id="changes-section">
       <h2>Recent card changes</h2>
       <p class="section-subtitle">
         Existing cards whose page content changed since last check — fees, benefits, or terms updates.
@@ -45,7 +53,16 @@
       <div class="tile-grid" id="changes-grid"></div>
     </section>
 
-    <section class="feed-section">
+    <section class="feed-section" id="history-section">
+      <h2>Change History</h2>
+      <p class="section-subtitle">
+        Every detected change, grouped by the date it was found — click any card to open its full record.
+      </p>
+      <p class="empty-state" id="history-empty-state" hidden></p>
+      <div class="history-timeline" id="history-timeline"></div>
+    </section>
+
+    <section class="feed-section" id="buzz-section">
       <h2>Reddit Buzz</h2>
       <p class="section-subtitle">
         r/CreditCardsIndia posts tied to a launch or change above — not general subreddit browsing.
@@ -54,7 +71,7 @@
       <div class="buzz-list" id="buzz-list"></div>
     </section>
 
-    <section class="feed-section">
+    <section class="feed-section" id="tracked-section">
       <h2>All Tracked Cards</h2>
       <p class="section-subtitle">
         Every card being monitored, with current status — static reference data, independent of the feeds above.

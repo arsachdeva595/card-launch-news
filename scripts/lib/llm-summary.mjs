@@ -66,7 +66,13 @@ export async function summarizeChange({ cardName, issuerName, diffHunks }) {
         model: MODEL,
         messages: [{ role: "user", content: buildPrompt(cardName, issuerName, diffText) }],
         temperature: 0.1,
-        max_tokens: 120
+        max_tokens: 350,
+        // gpt-oss-20b is a reasoning model that spends tokens on an internal
+        // "reasoning" field before the final answer - without this, a low
+        // max_tokens budget gets consumed entirely by reasoning (finish_reason
+        // "length", empty content) for anything but the simplest diffs. This
+        // task doesn't need deep reasoning, just classification.
+        reasoning_effort: "low"
       })
     });
 
@@ -77,7 +83,12 @@ export async function summarizeChange({ cardName, issuerName, diffHunks }) {
 
     const data = await res.json();
     const reply = data.choices?.[0]?.message?.content?.trim();
-    if (!reply) return null;
+    if (!reply) {
+      console.warn(
+        `  ! NVIDIA LLM returned empty content for ${cardName} (finish_reason: ${data.choices?.[0]?.finish_reason}) - skipping summary`
+      );
+      return null;
+    }
 
     if (reply.toUpperCase().includes(NOISE_SENTINEL) && reply.length < NOISE_SENTINEL.length + 10) {
       return { noise: true };

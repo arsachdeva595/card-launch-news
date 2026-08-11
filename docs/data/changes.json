@@ -157,7 +157,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Adds 3 airport lounge access vouchers per quarter for Rs. 60,000 eligible spend."
   },
   {
     "id": "indusind-bank-epay-amex-credit-card",
@@ -261,7 +262,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Added early payment cashback terms: 5% annual cashback for full payment within 7 days, with eligibility and calculation details."
   },
   {
     "id": "axis-bank-axis-bank-rewards-credit-card",
@@ -333,7 +335,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "₹1200 fee now applies for outstanding balances over ₹10,001."
   },
   {
     "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
@@ -465,7 +468,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Offer period extended from 31 July to 31 August 2026."
   },
   {
     "id": "hsbc-india-live-credit-card",
@@ -605,7 +609,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Updated Live+ Reserve, DineWithTimesPrime partnership, lifestyle privileges, and fuel cashback wording for Live+ Credit Card."
   },
   {
     "id": "kotak-mahindra-bank-kotak-solitaire-credit-card",
@@ -677,7 +682,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Offer dates changed to 1‑30 July‑Sep 2026, bonus increased to 30%, partners list updated, and terms link updated."
   },
   {
     "id": "indusind-bank-cred-indusind-bank-rupay-credit-card",
@@ -945,7 +951,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Added new reward point terminology, Forex Card benefits, and updated point validity and redemption details."
   },
   {
     "id": "indusind-bank-eazydiner-indusind-bank-platinum-credit-card",
@@ -1105,7 +1112,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Reward points changed from 36%/16% to 20%/8% for hotel and flight bookings."
   },
   {
     "id": "idfc-first-bank-lic-classic",
@@ -1141,7 +1149,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Bonus reward points on hotel bookings changed from 36% to 20% and on flights from 16% to 8%."
   },
   {
     "id": "idfc-first-bank-first-power",
@@ -1197,7 +1206,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Reward rates for hotel and flight bookings increased to 26.67% and 13.33% respectively."
   },
   {
     "id": "idfc-first-bank-first-private-invite-only",
@@ -1593,7 +1603,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Fees, rewards, and interest terms were updated, including lower annual fee, new reward point structure, and revised onboarding interest rate."
   },
   {
     "id": "equitas-sfb-powermiles-credit-card",
@@ -2413,7 +2424,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Added detailed redemption, fee, and benefit information for PowerMiles Credit Card."
   },
   {
     "id": "equitas-sfb-selfe-credit-card",
@@ -3233,7 +3245,8 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Updated Selfe Card description, added redemption, application, benefits, charges, and membership details."
   },
   {
     "id": "equitas-sfb-tiga-credit-card",
@@ -4053,6 +4066,7 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
+    },
+    "summary": "Added detailed information on reward redemption, application process, fee structure, and Pay‑by‑3 EMI program for the Tiga Credit Card."
   }
 ]

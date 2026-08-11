@@ -3,3 +3,4 @@ node_modules/
 *.log
 inputs/logs_*/
 inputs/logs_*.zip
+.env

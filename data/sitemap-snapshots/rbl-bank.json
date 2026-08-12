@@ -460,7 +460,6 @@
     "https://www.rbl.bank.in/personal-banking/demat",
     "https://www.rbl.bank.in/personal-banking/forex-services/borderless-prepaid-forex-card",
     "https://www.rbl.bank.in/personal-banking/forex-services/outward-remittance",
-    "https://www.rbl.bank.in/corporate-banking/bizbank",
     "https://www.rbl.bank.in/corporate-banking/corporate-internet-banking",
     "https://www.rbl.bank.in/personal-banking/cards/commercial-cards/corporate-t-and-e-cards/t-and-e-gold-card",
     "https://www.rbl.bank.in/personal-banking/cards/commercial-cards/corporate-t-and-e-cards/t-and-e-platinum-card",
@@ -530,6 +529,7 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/transaction-banking/trade-and-remittance-services",
     "https://www.rbl.bank.in/business-banking/government-sponsored-scheme/pm-vishwakarma-scheme",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/transaction-banking/escrow-and-capital-markets",
+    "https://www.rbl.bank.in/corporate-banking/rbl-mybizbank-app",
     "https://www.rbl.bank.in/personal-banking/term-deposits",
     "https://www.rbl.bank.in/personal-banking/term-deposits/flexi-sure-fixed-deposits",
     "https://www.rbl.bank.in/personal-banking/term-deposits/regular-fixed-deposits",
@@ -1915,6 +1915,7 @@
     "https://www.rbl.bank.in/karad-branch-relocation",
     "https://www.rbl.bank.in/social-responsibility/impact-assessment-reports-fy-25-26",
     "https://www.rbl.bank.in/gift-city/terms-and-conditions",
+    "https://www.rbl.bank.in/rbl-mybizbank-demo",
     "https://www.rbl.bank.in/homepage",
     "https://www.rbl.bank.in/chatbot",
     "https://www.rbl.bank.in/personal-banking/ways-to-bank",
@@ -1956,5 +1957,5 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/financial-markets-and-treasury/forex-and-bullion",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/wholesale-client-services"
   ],
-  "updatedAt": "2026-08-11T11:05:57.674Z"
+  "updatedAt": "2026-08-12T07:54:33.732Z"
 }

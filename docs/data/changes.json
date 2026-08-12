@@ -1,5 +1,302 @@
 [
   {
+    "id": "kotak-mahindra-bank-indigo-kotak-credit-card",
+    "cardName": "IndiGo Kotak Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/indigo-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-12T07:59:07.818Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Indigo Credit Card – Simple Rewards & Zero Joining Fee | Kotak Bank"
+      },
+      {
+        "type": "added",
+        "text": "Apply for Kotak Bank Indigo Credit Card Online | Kotak Bank"
+      },
+      {
+        "type": "added",
+        "text": "Dear Customer, you may experience intermittent downtime on the website on 26th July 2026, 12:00 AM to 06:00 AM due to a scheduled maintenance."
+      },
+      {
+        "type": "context",
+        "text": "Indigo Kotak Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "IndiGo Kotak Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Get 4 Free Flights"
+      },
+      {
+        "type": "added",
+        "text": "Turn your spending and unlock flights, rewards, and Sunforgettable travel journeys."
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "context",
+        "text": "Rewards Redemption"
+      },
+      {
+        "type": "removed",
+        "text": "Fly smarter with IndiGo BluChips on every spend. Enjoy accelerated IndiGo BluChips earning on IndiGo flights, dining, entertainment and more. Your wanderlust is limitless—so are your earnings!"
+      },
+      {
+        "type": "added",
+        "text": "About the Kotak IndiGo Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "The Kotak Mahindra Bank IndiGo Credit Card is for someone who frequently flies with IndiGo and wants to earn travel-linked rewards on their spending. You can earn IndiGo BluChips on eligible spends such as flight bookings, online shopping, dining, and bill payments. Accumulated BluChips can be redeemed for IndiGo flight bookings."
+      },
+      {
+        "type": "added",
+        "text": "Key Benefits of the Kotak IndiGo Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Fly smarter with the best airline credit card and earn with IndiGo BluChips on every ₹100 spendspent. Enjoy accelerated IndiGo BluChips earning on IndiGo flights, dining, entertainment, and more. Your wanderlust is limitless, —so are your earnings."
+      },
+      {
+        "type": "context",
+        "text": "Earn up to 19 IndiGo BluChips per ₹100 spent on IndiGo flight bookings"
+      },
+      {
+        "type": "context",
+        "text": "Welcome benefit of 2,500 IndiGo BluChips voucher"
+      },
+      {
+        "type": "context",
+        "text": "Spend-based milestone vouchers worth up to 7,500 IndiGo BluChips"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2 IndiGo BluChips per ₹100 spent on Dining and Entertainment"
+      },
+      {
+        "type": "added",
+        "text": "Earn 1 IndiGo BluChip per ₹100 spent on other every spends* and redeem them while booking IndiGo flights."
+      },
+      {
+        "type": "context",
+        "text": "Welcome Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Kick start your IndiGo Kotak Credit Card journey with a welcome benefit voucher of 2,500 IndiGo BluChips"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn unlimited 1 IndiGo BluChip per ₹100 spent on all other categories*"
+      },
+      {
+        "type": "context",
+        "text": "Milestone Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Earn vouchers of up to 7,500 IndiGo BluChips each year"
+      },
+      {
+        "type": "removed",
+        "text": "Earn a voucher worth 2,500 IndiGo BluChips on spending ₹1.25L within the anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "Earn the 2 rd voucher worth 2,500 IndiGo BluChips on spending ₹2.5L within the anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "Earn the 3 rd voucher worth 2,500 IndiGo BluChips on spending ₹6L within the anniversary year"
+      },
+      {
+        "type": "added",
+        "text": "Earn vouchers of up to 7,500 IndiGo BluChips each year."
+      },
+      {
+        "type": "added",
+        "text": "Earn a voucher worth 2,500 IndiGo BluChips on spending ₹1.25 lakh in the anniversary year."
+      },
+      {
+        "type": "added",
+        "text": "Earn the 2nd voucher worth 2,500 IndiGo BluChips by spending ₹2.5 lakh in the anniversary year."
+      },
+      {
+        "type": "added",
+        "text": "Earn the 3rd voucher worth 2,500 IndiGo BluChips by spending ₹6 lakh in the anniversary year."
+      },
+      {
+        "type": "context",
+        "text": "Renewal Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Get a Renewal benefit voucher of 2,500 IndiGo BluChips on payment of annual fee each year"
+      },
+      {
+        "type": "added",
+        "text": "Get a renewal benefit voucher of 2,500 IndiGo BluChips on payment of the annual fee each year."
+      },
+      {
+        "type": "added",
+        "text": "What Are IndiGo BluChips And IndiGo Vouchers?"
+      },
+      {
+        "type": "added",
+        "text": "IndiGo BluChips are reward points earned through eligible spends and milestone programmes. These BluChips can be redeemed for eligible IndiGo bookings. IndiGo BluChip Vouchers are benefit vouchers provided under welcome, milestone, and renewal benefit programmes, subject to applicable terms and conditions."
+      },
+      {
+        "type": "added",
+        "text": "How to Earn IndiGo BluChips with the Kotak IndiGo Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Earn up to 19 IndiGo BluChips per ₹100 spent on IndiGo flight bookings. Here is the complete breakdown:"
+      },
+      {
+        "type": "added",
+        "text": "8 IndiGo BluChips per ₹100 spent for all IndiGo BluChip members."
+      },
+      {
+        "type": "added",
+        "text": "3 IndiGo BluChips per ₹100 spent on using the IndiGo Kotak Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "4 IndiGo BluChips per ₹100 spent on booking through the IndiGo website and mobile app."
+      },
+      {
+        "type": "added",
+        "text": "Up to 4 Bonus IndiGo BluChips per ₹100 spent based on your IndiGo BluChip Tier status. For details, click here ."
+      },
+      {
+        "type": "added",
+        "text": "How to Apply for the Kotak IndiGo Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "To apply for Kotak Bank airline credit cards, here is the complete process:"
+      },
+      {
+        "type": "added",
+        "text": "Visit the official Kotak Bank credit card page."
+      },
+      {
+        "type": "added",
+        "text": "Click on the “Apply Now” button."
+      },
+      {
+        "type": "added",
+        "text": "Enter your mobile number & other personal details."
+      },
+      {
+        "type": "added",
+        "text": "Submit the required documents."
+      },
+      {
+        "type": "added",
+        "text": "The bank will verify your details."
+      },
+      {
+        "type": "added",
+        "text": "Once you receive your card, activate it.."
+      },
+      {
+        "type": "added",
+        "text": "Things to Know Before You Apply"
+      },
+      {
+        "type": "added",
+        "text": "Flight credit cards like the Kotak IndiGo Credit Card are suitable if:"
+      },
+      {
+        "type": "added",
+        "text": "You are a frequent traveller and prefer flying with IndiGo."
+      },
+      {
+        "type": "added",
+        "text": "You understand the card’s joining and annual fees and reward structure."
+      },
+      {
+        "type": "added",
+        "text": "You can spend ₹6 lakh annually to maximise milestone benefits."
+      },
+      {
+        "type": "added",
+        "text": "You are comfortable redeeming IndiGo BluChips through the IndiGo website and app."
+      },
+      {
+        "type": "added",
+        "text": "Note: IndiGo BluChips have lifetime validity. IndiGo BluChips vouchers credited as welcome, milestone, and renewal benefits have a validity of 6 months from the date of issuance."
+      },
+      {
+        "type": "added",
+        "text": "*For detailed terms and conditions of the credit card features please click here"
+      },
+      {
+        "type": "added",
+        "text": "Note for RuPay cardholders : All UPI on Credit Card spends will accrue 1 IndiGo BluChip per ₹100 spent, except for spends done in exclusion MCC codes, where no rewards will be awarded."
+      },
+      {
+        "type": "context",
+        "text": "Note: IndiGo BluChips have lifetime validity. IndiGo BluChips vouchers credited as welcome, milestone, renewal benefit, have a validity of 6 months from date of issuance."
+      },
+      {
+        "type": "context",
+        "text": "*For detailed terms and conditions of the credit card features please click here"
+      },
+      {
+        "type": "context",
+        "text": "Note for RuPay cardholders : All UPI on Credit Card spends will accrue 1 IndiGo BluChip per ₹100 spent except for spends done in exclusion MCC codes where no rewards will be awarded"
+      },
+      {
+        "type": "added",
+        "text": "Note: IndiGo BluChips have lifetime validity. IndiGo BluChips vouchers credited as welcome, milestone, renewal benefit, have a validity of 6 months from date of issuance."
+      },
+      {
+        "type": "added",
+        "text": "*For detailed terms and conditions of the credit card features please click here"
+      },
+      {
+        "type": "added",
+        "text": "Note for RuPay cardholders : All UPI on Credit Card spends will accrue 1 IndiGo BluChip per ₹100 spent except for spends done in exclusion MCC codes where no rewards will be awarded"
+      },
+      {
+        "type": "context",
+        "text": "Ready to take the next step?"
+      },
+      {
+        "type": "context",
+        "text": "IndiGo Kotak Credit Card FAQs"
+      }
+    ],
+    "community": {
+      "reddit": {
+        "title": "Got useless Kotak cards LTF",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vkhgd4/got_useless_kotak_cards_ltf/",
+        "description": "Someone posted this - https://www.reddit.com/r/CreditCardsIndia/s/sCuSP6fDVy Post says it is patched, but for some users it is still working. After amending some links got the below cards LTF 😬😬 Used these visa cards to get amazon vouchers under visa poshvine scheme. My friend tried the same was able to only get Kotak Indian oil card LTF PS - 2nd Indigo card is of family member for whom I applied.  &#32; submitted by &#32;  /u/benjamin_tennyson10   [link] &#32; [comments]"
+      },
+      "youtube": {
+        "title": "Kotak bank indigo Credit Card Launched full details|Kotak bank life time free credit cards| #kotak",
+        "url": "https://www.youtube.com/watch?v=PStbNMbqJ4k",
+        "description": "Kotak bank indigo new credit card full details.Watch full video and subscribe my channel for more intresting videos..\n___________________ _________________________________\n\nMy tools.👇\n\nMic.https://amzn.to/3jpL2n5\n\nCam.https://amzn.to/38l8Yl1\n\nTripod.https://amzn.to/38nU7Xa\n\nLight.https://amzn.to/38oFMtA\n\n.......................................................................................\n.........................................\n\nCard apply links..👇👇\n\nhttps://www.hdfcbank.com/personal/pay...\n\n\nhttps://clctab.axisbank.co.in/Digital...\nRelated.videos..👇\n\nSend money from credit card to bank account.   • Credit card to bank account money transfer...  \n\n   • How to use flipkart discount coupons| how ...  \n\n   • 🔥Amazon debit card EMI offer full details|...  \n\n   • 🤑flipkart new app shopsy🤑earn money from h...  \n\n..........................................................................................\n\nFollow me on .👇 telegram.\n\nhttps://t.me/joinchat/B3JQaBEpHbk3OGU1\n\n\nFor business contact..👇👇\nKingsameer293@gmail.com..\n\nKeep space for more  stuff..🤝🤝.."
+      }
+    },
+    "summary": "Updated reward structure and voucher wording for Kotak IndiGo Credit Card."
+  },
+  {
     "id": "hdfc-bank-diners-privilege-credit-card",
     "cardName": "Diners Privilege Credit Card",
     "issuerName": "HDFC Bank",

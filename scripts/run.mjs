@@ -15,11 +15,22 @@ const MAX_CHANGES_KEPT = 200;
 const MAX_BUZZ_KEPT = 200;
 const TELEGRAM_SEND_DELAY_MS = 1100; // stay under Telegram's ~1 msg/sec-per-chat guidance
 
+// GitHub Actions' scheduled-cron trigger isn't exact - it commonly drifts by
+// minutes to a few hours. Each real run also pushes lastRunAt to its own
+// finish time (10-20 min after the nominal cron slot), not the slot itself.
+// Without slack, that drift compounds: a run that finishes a bit late makes
+// next time's trigger land just under a full frequencyDays later, so it
+// skips - then the skip preserves the old lastRunAt, so the day after that
+// is comfortably overdue and runs again. Net effect without this buffer:
+// "daily" settles into "every other day". This grace period absorbs typical
+// cron jitter + run duration so a same-slot trigger still counts as due.
+const DUE_GRACE_MS = 6 * 60 * 60 * 1000;
+
 function isDue(settings) {
   if (!settings.lastRunAt) return true;
   const elapsedMs = Date.now() - new Date(settings.lastRunAt).getTime();
   const frequencyMs = (settings.frequencyDays ?? 7) * 24 * 60 * 60 * 1000;
-  return elapsedMs >= frequencyMs;
+  return elapsedMs >= frequencyMs - DUE_GRACE_MS;
 }
 
 function mergeById(existing, incoming, sortKey, maxKept) {

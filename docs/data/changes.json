@@ -1,5 +1,1129 @@
 [
   {
+    "id": "kotak-mahindra-bank-kotak-solitaire-credit-card",
+    "cardName": "Kotak Solitaire Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-solitaire-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-14T05:09:35.330Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Kotak Solitaire Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Dear Customer, you may experience intermittent downtime on the website on 26th July 2026, 12:00 AM to 06:00 AM due to a scheduled maintenance."
+      },
+      {
+        "type": "context",
+        "text": "Kotak Solitaire Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Kotak Solitaire Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Make the most of your Air Miles"
+      },
+      {
+        "type": "context",
+        "text": "Redeem it for flights, hotel stays, merchandise, or transfer them to our partner miles."
+      },
+      {
+        "type": "removed",
+        "text": "Travel bookings: 1 Air Mile = ₹1 when redeeming for flights, and hotels on Kotak Unbox"
+      },
+      {
+        "type": "removed",
+        "text": "Other redemptions: 1 Air Mile = ₹0.5 for vouchers.  Click here for list of vouchers"
+      },
+      {
+        "type": "removed",
+        "text": "Partner miles: Convert Kotak Air Miles to airline/hotel miles. Click here for conversion ratios."
+      },
+      {
+        "type": "added",
+        "text": "Travel bookings:  1 Air Mile = ₹1 when redeeming for flights, and hotels on Kotak Unbox"
+      },
+      {
+        "type": "added",
+        "text": "Other redemptions:  1 Air Mile = ₹0.5 for vouchers. For the complete list of available voucher partners, please visit Kotak Unbox"
+      },
+      {
+        "type": "added",
+        "text": "Partner miles:  Convert Kotak Air Miles to airline/hotel miles.  Click here for detailed information"
+      },
+      {
+        "type": "context",
+        "text": "Please click here to know the steps on how to access Kotak Unbox."
+      },
+      {
+        "type": "context",
+        "text": "Note:"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "No, you will not earn Air Miles on EMI transactions."
+      },
+      {
+        "type": "context",
+        "text": "12. Is there any category where I will not earn Air Miles?"
+      },
+      {
+        "type": "removed",
+        "text": "Air Miles will be accrued for following categories (exclusions):"
+      },
+      {
+        "type": "removed",
+        "text": "Utility/Telecom (4812, 4814, 4899, 4900)"
+      },
+      {
+        "type": "removed",
+        "text": "Insurance (5960, 6300)"
+      },
+      {
+        "type": "removed",
+        "text": "Education and Government (8211, 8220, 8241, 8244, 8249, 8299, 9211, 9222, 9223, 9399, 9402, 9405, 9950) {except tax payments, 9311}"
+      },
+      {
+        "type": "removed",
+        "text": "Rent (6513)"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel (5172, 5541, 5542, 5552, 5983)"
+      },
+      {
+        "type": "removed",
+        "text": "Wallet Loading (6540)"
+      },
+      {
+        "type": "removed",
+        "text": "Gaming & gaming digital (5816, 7994)"
+      },
+      {
+        "type": "removed",
+        "text": "EMI"
+      },
+      {
+        "type": "removed",
+        "text": "Cash Advance"
+      },
+      {
+        "type": "removed",
+        "text": "International Transactions"
+      },
+      {
+        "type": "added",
+        "text": "Click here to view the list of Merchant Category Codes (MCCs) excluded from Air Miles earning."
+      },
+      {
+        "type": "context",
+        "text": "13. Is there any capping on how many Air Miles I can earn on the card?"
+      },
+      {
+        "type": "context",
+        "text": "Accelerated Air Miles earned on travel spends done on Kotak Unbox Platform will be capped at 1,00,000 Air Miles per statement cycle. However, post reaching the limit customers would still earn 3 Air Miles per ₹100."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "3. Transfer to respective Hotel/Airline Partners on Kotak Unbox"
+      },
+      {
+        "type": "context",
+        "text": "16. What is the redemption rate of Air Miles on the Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Option1: Air Miles Redemption Value for Travel Booking on Kotak Unbox"
+      },
+      {
+        "type": "added",
+        "text": "Option1:  Air Miles Redemption Value for Travel Booking on Kotak Unbox"
+      },
+      {
+        "type": "context",
+        "text": "1 Air Mile = ₹1 redemption value on Flight, Hotel, and Add-on Bookings on Kotak Unbox"
+      },
+      {
+        "type": "removed",
+        "text": "Option 2: Air Miles Redemption Value for Non-Travel Spends like Vouchers, Gift Cards on Kotak Unbox"
+      },
+      {
+        "type": "removed",
+        "text": "1 Air Miles = ₹0.5"
+      },
+      {
+        "type": "removed",
+        "text": "Option 3: Air Miles Conversion into respective Hotel/Airline Partners on Kotak Unbox"
+      },
+      {
+        "type": "added",
+        "text": "Option 2:  Air Miles Redemption Value for Non-Travel Spends like Vouchers, Gift Cards on Kotak Unbox"
+      },
+      {
+        "type": "added",
+        "text": "1 Air Miles = ₹0.5 redemption value"
+      },
+      {
+        "type": "added",
+        "text": "Option 3 : Air Miles Conversion into respective Hotel/Airline Partners on Kotak Unbox"
+      },
+      {
+        "type": "context",
+        "text": "Airline/Hotel Partner"
+      },
+      {
+        "type": "removed",
+        "text": "Air Miles : Partner Miles"
+      },
+      {
+        "type": "removed",
+        "text": "Etihad Airways"
+      },
+      {
+        "type": "removed",
+        "text": "2:1"
+      },
+      {
+        "type": "removed",
+        "text": "Qatar Airlines"
+      },
+      {
+        "type": "removed",
+        "text": "2:1"
+      },
+      {
+        "type": "added",
+        "text": "Air Miles: Partner Miles"
+      },
+      {
+        "type": "added",
+        "text": "Air India"
+      },
+      {
+        "type": "added",
+        "text": "1:1"
+      },
+      {
+        "type": "context",
+        "text": "British Airways"
+      },
+      {
+        "type": "context",
+        "text": "2:1"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Accor Live Limitless Loyalty programme"
+      },
+      {
+        "type": "context",
+        "text": "2:1"
+      },
+      {
+        "type": "added",
+        "text": "Qatar Airlines"
+      },
+      {
+        "type": "added",
+        "text": "2:1"
+      },
+      {
+        "type": "context",
+        "text": "Marriott Bonvoy®"
+      },
+      {
+        "type": "context",
+        "text": "3:1"
+      },
+      {
+        "type": "removed",
+        "text": "Air India"
+      },
+      {
+        "type": "removed",
+        "text": "1:1"
+      },
+      {
+        "type": "context",
+        "text": "17. Is there a capping on how many Air Miles I can redeem?"
+      },
+      {
+        "type": "context",
+        "text": "For Travel bookings on Kotak Unbox"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Air Miles redemption rates, partner conversion ratios, and excluded MCC list were updated for Kotak Solitaire Credit Card."
+  },
+  {
+    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
+    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-14T05:08:31.136Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Regardless of how you apply, whether by paying a joining fee or with a Fixed Deposit (FD), You will receive two physical cards — Mastercard and RuPay in one kit. All transactions will reflect in a single statement. Your credit limit will be shared between both cards, and all spending on both cards will contribute towards your IndiGo BluChip earnings, activation, and milestone benefits"
+      },
+      {
+        "type": "context",
+        "text": "Read less"
+      },
+      {
+        "type": "removed",
+        "text": "Key Benefits of IndiGo IDFC FIRST Dual Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
+      },
+      {
+        "type": "context",
+        "text": "on spends of ₹15K in the first 30 days of card generation."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Min ₹50k FD"
+      },
+      {
+        "type": "context",
+        "text": "Joining fee payment benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Voucher of 5000 IndiGo BluChips* a complimentary meal voucher"
+      },
+      {
+        "type": "removed",
+        "text": "*The value of IndiGo BluChip could vary depending upon the flight source and destination, day of flight booking etc at the discretion of IndiGo."
+      },
+      {
+        "type": "added",
+        "text": "Voucher of 5000 IndiGo BluChips* + a complimentary meal voucher​"
+      },
+      {
+        "type": "added",
+        "text": "*The value of IndiGo BluChip could vary depending upon the flight source and destination, day of flight booking, etc. at the discretion of IndiGo."
+      },
+      {
+        "type": "context",
+        "text": "-"
+      },
+      {
+        "type": "context",
+        "text": "(Mastercard & RuPay)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated voucher wording to include a comma and added a space before the complimentary meal voucher."
+  },
+  {
+    "id": "icici-bank-makemytrip-credit-card",
+    "cardName": "MakeMyTrip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-14T05:08:04.337Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Credit Card: Travel Rewards & Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Best for"
+      },
+      {
+        "type": "removed",
+        "text": "Rewards and offers"
+      },
+      {
+        "type": "removed",
+        "text": "Fees and charges"
+      },
+      {
+        "type": "added",
+        "text": "Maximum benefits"
+      },
+      {
+        "type": "added",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited myCash Rewards that never expire"
+      },
+      {
+        "type": "context",
+        "text": "1-year MMTBLACK Gold membership"
+      },
+      {
+        "type": "removed",
+        "text": "MakeMyTrip ICICI Bank Credit Card: Maximum benefits"
+      },
+      {
+        "type": "added",
+        "text": "MakeMyTrip ICICI Bank Credit Card Rewards & Offers"
+      },
+      {
+        "type": "context",
+        "text": "One year"
+      },
+      {
+        "type": "context",
+        "text": "Complimentary MMTBLACK Gold membership (Except myCash benefit of MMTBLACK)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get 1 complimentary International Airport Lounge Access"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 2 complimentary Domestic Airport Lounge Access.  Click here  for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get 2 complimentary Domestic Airport Lounge Access.  Click here (PDF, 373 KB) for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "25% off up to ₹150"
+      },
+      {
+        "type": "context",
+        "text": "Get 2 monthly discounts on movie tickets through INOX & BookMyShow"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Credit Card: Fees and Charges"
+      },
+      {
+        "type": "context",
+        "text": "Joining fee & Annual fee"
+      },
+      {
+        "type": "removed",
+        "text": "Joining fee- ₹999 &#43; GST"
+      },
+      {
+        "type": "added",
+        "text": "Joining fee- ₹999 &#43; GST"
+      },
+      {
+        "type": "context",
+        "text": "Annual fee- ₹999 &#43; GST (Spend over ₹3 lakh in one year and get your annual fee waived off for the next year)"
+      },
+      {
+        "type": "context",
+        "text": "0.99 %"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "For Late Bill Payment"
+      },
+      {
+        "type": "context",
+        "text": "Ranging from ₹100 to ₹1300"
+      },
+      {
+        "type": "removed",
+        "text": "Please refer to the  Most Important Terms & Conditions (MITC)   for other charges."
+      },
+      {
+        "type": "removed",
+        "text": "Click here  for applicable Terms & Conditions (T&Cs)"
+      },
+      {
+        "type": "added",
+        "text": "Please refer to the  Most Important Terms & Conditions (MITC) (PDF, 855 KB)  for other charges."
+      },
+      {
+        "type": "added",
+        "text": "Click here (PDF, 295 KB) for applicable Terms & Conditions (T&Cs)"
+      },
+      {
+        "type": "context",
+        "text": "APPLY NOW"
+      },
+      {
+        "type": "context",
+        "text": "A salaried individual with a monthly income of ₹20,000"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Extend Benefits To Your Loved Ones"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Credit Card FAQs"
+      },
+      {
+        "type": "removed",
+        "text": "Is there a joining fee and Annual fee for the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes. The MakeMyTrip ICICI Bank Credit Card has a joining fee and annual fee of ₹999 + GST."
+      },
+      {
+        "type": "context",
+        "text": "Are there any foreign transaction fees on the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, foreign transaction fees may apply when you use the Card for international purchases. However, the forex markup is only 0.99% + GST."
+      },
+      {
+        "type": "added",
+        "text": "Which transactions do not qualify for earning myCash on the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Rent payments, cash advances, late payment costs, joining / annual fees, EMI transactions, Balance Transfers and Personal Loan transactions on the Card are not eligible for myCash Rewards."
+      },
+      {
+        "type": "context",
+        "text": "How to avail Complimentary International Airport lounge access?"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 1 complimentary accesses to international airport lounges with MakeMyTrip ICICI Bank Credit Card. Complimentary benefits are applicable only for the primary cardholder."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      },
+      {
+        "type": "context",
+        "text": "For complete list of international airport lounges visit https://www.prioritypass.com/airport-lounges"
+      },
+      {
+        "type": "removed",
+        "text": "What are the criteria for availing domestic airport lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your MakeMyTrip ICICI Bank Credit Card in a calendar quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "removed",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "added",
+        "text": "How can I redeem myCash earned through the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "You can redeem your myCash on the MakeMyTrip website, mobile site or app during checkout. Select 'myCash & Gift Cards' on the payments page, choose the ‘myCash’ option, enter the amount to redeem, click 'Use & Apply' and then click 'Complete Payment' to complete the transaction."
+      },
+      {
+        "type": "added",
+        "text": "Can I encash or transfer myCash earned through the MakeMyTrip ICICI Bank Credit Card to my bank account?"
+      },
+      {
+        "type": "added",
+        "text": "No, myCash earned through the MakeMyTrip ICICI Bank Credit Card cannot be encashed or transferred to a bank account."
+      },
+      {
+        "type": "added",
+        "text": "How to apply for an MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Click here to visit the MakeMyTrip ICICI Bank Credit Card page"
+      },
+      {
+        "type": "added",
+        "text": "Scan the QR code on your mobile phone"
+      },
+      {
+        "type": "added",
+        "text": "Download the MakeMyTrip app and apply for the Card."
+      },
+      {
+        "type": "added",
+        "text": "Who can claim the lounge access benefit of the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "The MakeMyTrip ICICI Bank Credit Card lounge access benefit is available to the primary Cardholder. With this benefit, you can enjoy complimentary entry to select airport lounges, offering a premium travel experience before your flight."
+      },
+      {
+        "type": "context",
+        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
+      },
+      {
+        "type": "context",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
+      },
+      {
+        "type": "context",
+        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Plus (Add-On) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "added",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "context",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "context",
+        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "What are some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "Some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card are unlimited myCash Rewards that never expire, exclusive MakeMyTrip vouchers and complimentary lounge access for the primary Cardholder. You’ll also enjoy the flexibility of two payment networks - MasterCard and RuPay, making this Card a versatile and rewarding choice for frequent travellers."
+      },
+      {
+        "type": "removed",
+        "text": "How can I redeem myCash earned through the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "You can redeem your myCash on the MakeMyTrip website, mobile site or app during checkout. Select 'myCash & Gift Cards' on the payments page, choose the ‘myCash’ option, enter the amount to redeem, click 'Use & Apply' and then click 'Complete Payment' to complete the transaction."
+      },
+      {
+        "type": "removed",
+        "text": "Can I encash or transfer myCash earned through the MakeMyTrip ICICI Bank Credit Card to my bank account?"
+      },
+      {
+        "type": "removed",
+        "text": "No, myCash earned through the MakeMyTrip ICICI Bank Credit Card cannot be encashed or transferred to a bank account."
+      },
+      {
+        "type": "removed",
+        "text": "How to apply for an MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Click here to visit the MakeMyTrip ICICI Bank Credit Card page"
+      },
+      {
+        "type": "removed",
+        "text": "Scan the QR code on your mobile phone"
+      },
+      {
+        "type": "removed",
+        "text": "Download the MakeMyTrip app and apply for the Card."
+      },
+      {
+        "type": "removed",
+        "text": "Who can claim the lounge access benefit of the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "The MakeMyTrip ICICI Bank Credit Card lounge access benefit is available to the primary Cardholder. With this benefit, you can enjoy complimentary entry to select airport lounges, offering a premium travel experience before your flight."
+      },
+      {
+        "type": "context",
+        "text": "Is DigiLocker sufficient for applying for the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, DigiLocker can be used to submit your documents when applying for the MakeMyTrip ICICI Bank Credit Card. It provides a secure and digital platform to store and share essential documents, such as proofs of identity, address and income, making the application process faster and more convenient. Simply upload the required documents to DigiLocker and share them during your application."
+      },
+      {
+        "type": "removed",
+        "text": "Which transactions do not qualify for earning myCash on the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Rent payments, cash advances, late payment costs, joining / annual fees, EMI transactions, Balance Transfers and Personal Loan transactions on the Card are not eligible for myCash Rewards."
+      },
+      {
+        "type": "context",
+        "text": "View all FAQs"
+      },
+      {
+        "type": "context",
+        "text": "R"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added PDF links for lounge list and terms, updated myCash redemption instructions, and clarified add‑on card spending requirement."
+  },
+  {
+    "id": "hdfc-bank-flipkart-wholesale-credit-card",
+    "cardName": "Flipkart Wholesale Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/flipkart-wholesale-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-14T05:07:30.331Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "What is the Flipkart Wholesale Card?"
+      },
+      {
+        "type": "context",
+        "text": "The Flipkart Wholesale HDFC Bank Credit Card is a co-branded Credit Card that offers attractive cashback rewards, exclusive discounts on Flipkart Wholesale online platforms, utility bill payments, interest-free credit period, fuel surcharge waiver, and various other benefits."
+      },
+      {
+        "type": "removed",
+        "text": "Does the Flipkart Wholesale Card have lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, the Flipkart Wholesale Credit Card provides unlimited airport lounge access to 1000 plus lounges in India for both primary and add-on card members. Enjoy a comfortable and luxurious travel experience."
+      },
+      {
+        "type": "context",
+        "text": "What is the credit limit of Flipkart Wholesale Card?"
+      },
+      {
+        "type": "context",
+        "text": "The credit limit on your Flipkart Wholesale HDFC Bank Credit Card will be determined based on various factors such as your income, credit history, and existing relationship with the bank. The bank will inform you of your approved credit limit after your application is processed."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added unlimited lounge access to 1000+ Indian lounges for primary and add‑on members."
+  },
+  {
+    "id": "hdfc-bank-marriott-bonvoy-hdfc-bank-credit-card",
+    "cardName": "Marriott Bonvoy HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/marriott-bonvoy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-14T05:07:30.313Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "4. Marriott Bonvoy Website"
+      },
+      {
+        "type": "context",
+        "text": "You can apply online through Marriott Bonvoy Website by clicking here"
+      },
+      {
+        "type": "added",
+        "text": "Is Marriott Bonvoy Credit Card free?"
+      },
+      {
+        "type": "added",
+        "text": "Marriott Bonvoy Credit Card has an annual fee of ₹500 (GST as applicable). For more information on the fees and charges, click  here ."
+      },
+      {
+        "type": "added",
+        "text": "What are the documents required for the Marriott Bonvoy Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Identity Proof: Aadhaar Card, PAN Card."
+      },
+      {
+        "type": "added",
+        "text": "Address Proof: Latest utility bill, Passport."
+      },
+      {
+        "type": "added",
+        "text": "Income Proof: Latest salary slips (salaried), Income tax returns (self-employed)."
+      },
+      {
+        "type": "added",
+        "text": "Click here to read more FAQs"
+      },
+      {
+        "type": "added",
+        "text": "How do you apply for a Marriott Bonvoy Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Existing HDFC Bank Account holders:"
+      },
+      {
+        "type": "added",
+        "text": "Download the application form"
+      },
+      {
+        "type": "added",
+        "text": "Fill in your details and drop it off at your local HDFC Bank branch"
+      },
+      {
+        "type": "added",
+        "text": "You can also Apply for Marriott Bonvoy Credit Card Online"
+      },
+      {
+        "type": "added",
+        "text": "Once it has been processed, we will send the card to your mailing address."
+      },
+      {
+        "type": "added",
+        "text": "Non-HDFC Bank Account holders:"
+      },
+      {
+        "type": "added",
+        "text": "Download the Account Opening form"
+      },
+      {
+        "type": "added",
+        "text": "Fill it out, including the Marriott Bonvoy Credit Card application"
+      },
+      {
+        "type": "added",
+        "text": "Submit it to your nearest HDFC Bank branch, and we'll assist with the rest"
+      },
+      {
+        "type": "added",
+        "text": "What is the HDFC Bank Marriott Bonvoy Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Marriott Bonvoy Credit Card is a premium Credit Card that offers exclusive reward points, benefits, and privileges to enhance your travel experience. Earn InterMiles, enjoy discounts on flight bookings, and access various lifestyle benefits."
+      },
+      {
+        "type": "added",
+        "text": "What are the Benefits of the Marriott Bonvoy Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "With the Marriott Bonvoy Credit Card, you can earn InterMiles on all your retail expenses and flight bookings. Avail discounts on return flights booked at www.intermiles.com and enjoy renewal fee waivers. The card also provides comprehensive insurance protection and access to exclusive offers."
+      },
+      {
+        "type": "added",
+        "text": "What are the Fees and Charges applicable for Marriott Bonvoy HDFC Bank Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Joining/ Annual Fee – Rs. 3,000/- + Applicable Taxes"
+      },
+      {
+        "type": "added",
+        "text": "For all the cards issued before 1 st December, 2023: The joining fee on customer’s card is levied on 90th day from card issuance"
+      },
+      {
+        "type": "added",
+        "text": "For all the cards issued on or post 1 st December, 2023: The joining fee on customer’s card is levied on 45th day from card issuance"
+      },
+      {
+        "type": "added",
+        "text": "Renewal Fee: The renewal fee for all the cardholders will be levied on 1 st month of the anniversary year."
+      },
+      {
+        "type": "added",
+        "text": "Interestrate applicable on Marriott Bonvoy HDFC Bank Credit Card is 3.6% per month"
+      },
+      {
+        "type": "added",
+        "text": "For all fees and charges, please refer MITC on HDFC Bank website"
+      },
+      {
+        "type": "added",
+        "text": "Note :"
+      },
+      {
+        "type": "added",
+        "text": "1. In case the card is not activated within 37 days after card issuance, the Bank reserves the right to cancel the card after sending a prior notice on the email address and/or phone number and/or communication address, registered in the records of the Bank"
+      },
+      {
+        "type": "added",
+        "text": "2. In case the card remains inactive and is not used for any transaction for a continuous period of 12 months, the Bank reserves the right to cancel the card after sending a prior notice on the email address and/or phone number and/or communication address, registered in the records of the Bank."
+      },
+      {
+        "type": "added",
+        "text": "What benefits does a cardmember get on availing Fee Waiver/Lifetime Free card?"
+      },
+      {
+        "type": "added",
+        "text": "Under Marriot Bonvoy HDFC Bank Credit Card Program, cardmember is not eligible for Fee waiver. In case the cardmember is issued with a Lifetime Free Card, he would not be eligible for welcome benefits/ annual benefits which includes"
+      },
+      {
+        "type": "added",
+        "text": "- Complimentary Marriott Bonvoy Silver Elite Status"
+      },
+      {
+        "type": "added",
+        "text": "- 10 Elite Night Credits"
+      },
+      {
+        "type": "added",
+        "text": "- 1 Free Night Award (valued at up to 15,000 points) as a welcome/ annual benefit"
+      },
+      {
+        "type": "added",
+        "text": "How long doesit take to get approval forthe Marriott Bonvoy HDFC Bank Credit Card application?"
+      },
+      {
+        "type": "added",
+        "text": "Card approval may take up to 3-5 business days. Upon approval on the application, the card will be delivered in 7 working days. Please note that given timelines are only estimates, time may get extended if application gets rejected and also it depends on type of queries."
+      },
+      {
+        "type": "added",
+        "text": "If the customer already has a HDFC Bank Credit Card, can he/she apply for Marriott Bonvoy HDFC Bank Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "Yes, customer can apply for the card but this card will be given as a floater card with a shared limit. To apply for Marriott Bonvoy HDFC Bank Credit Card, his credit limit for the card he already holds in HDFC Bank should be minimum 1L/ month. The card will be issued with a credit limit of Rs 5000 temporarily up to 5-7 working days, the limit of your existing HDFC Bank Credit Card will be updated on this new card as shared limit. A detailed communication will also be sent to explain how the shared limit will function."
+      },
+      {
+        "type": "added",
+        "text": "How can a customer apply for Marriott Bonvoy HDFC Bank Credit Card, if he already has a credit card with HDFC Bank?"
+      },
+      {
+        "type": "added",
+        "text": "Customer can apply through digital application form or can visit the nearest bank branch and apply by filling physical application form and floater declaration form."
+      },
+      {
+        "type": "added",
+        "text": "When will cardmember’s Marriott Bonvoy Membership Number be generated?"
+      },
+      {
+        "type": "added",
+        "text": "Once the Marriott Bonvoy HDFC Bank Credit Card is approved, Membership Number will be generated within 10 working days. On successful Membership Number generation, cardmember will receive communication from Marriott on their registered Email ID within 72hours."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Annual fee set to ₹500, joining fee schedule updated, interest rate 3.6% per month, and benefit details revised."
+  },
+  {
+    "id": "axis-bank-titanium-smart-traveler-credit-card",
+    "cardName": "Titanium Smart Traveler Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-14T05:03:53.921Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "(Limited Period offer)"
+      },
+      {
+        "type": "context",
+        "text": "Nov 18, 2025"
+      },
+      {
+        "type": "context",
+        "text": "How to increase your CIBIL score?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Joining fee removed, now Nil with a limited period offer."
+  },
+  {
+    "id": "axis-bank-flipkart-axis-bank-credit-card",
+    "cardName": "FLIPKART AXIS BANK Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-14T05:03:53.908Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "(Limited Period offer)"
+      },
+      {
+        "type": "context",
+        "text": "A diverse"
+      },
+      {
+        "type": "context",
+        "text": "range of services, including rewards, travel perks, fraud protection & more that add value to your"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Joining Fee changed from ₹1500 to Nil, with a limited period offer."
+  },
+  {
+    "id": "axis-bank-axis-bank-privilege-credit-card",
+    "cardName": "AXIS BANK PRIVILEGE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-14T05:03:53.906Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "In Privilege Credit Card fees, overdue penalty, fee on cash payment, etc. are applicable as per terms and conditions. However, fees and charges for Privilege Credit Card are waived for services like mobile alerts. The detailed fee structure is provided below."
+      },
+      {
+        "type": "context",
+        "text": "Description Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Joining Fee ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Standard Joining Fee ₹NIL (Limited period offer)"
+      },
+      {
+        "type": "context",
+        "text": "Standard Annual Fee (2nd year onwards) ₹1500"
+      },
+      {
+        "type": "context",
+        "text": "Standard Add-on Card Joining Fee Nil"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Standard Joining Fee changed from ₹1500 to ₹NIL (Limited period offer)."
+  },
+  {
     "id": "kotak-mahindra-bank-indigo-kotak-credit-card",
     "cardName": "IndiGo Kotak Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -636,139 +1760,6 @@
     "summary": "₹1200 fee now applies for outstanding balances over ₹10,001."
   },
   {
-    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
-    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-05T06:06:13.014Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Option 1: ₹4,999 Joining Fee"
-      },
-      {
-        "type": "context",
-        "text": "Joining fee: ₹4,999 + GST"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome Benefits of 8,000 BluChips"
-      },
-      {
-        "type": "context",
-        "text": "Exclusive Offer: Get Additional Voucher of 5,000 IndiGo BluChip on spends of ₹15k in first 30 days*"
-      },
-      {
-        "type": "added",
-        "text": "Welcome Benefits of 8,000 BluChips"
-      },
-      {
-        "type": "context",
-        "text": "- 5000 IndiGo BluChips voucher on joining fee payment"
-      },
-      {
-        "type": "context",
-        "text": "- 3000 IndiGo BluChips voucher on 1L spends within 90 days"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Option 2: ₹0 Joining Fee with FD"
-      },
-      {
-        "type": "context",
-        "text": "Free for the 1st year with min ₹50k FD"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Exclusive Offer: Get Additional Voucher of 5,000 IndiGo BluChip on spends of ₹15k in first 30 days*"
-      },
-      {
-        "type": "added",
-        "text": "Welcome Benefits"
-      },
-      {
-        "type": "context",
-        "text": "- 3000 IndiGo BluChips voucher on 1L spends within 90 days"
-      },
-      {
-        "type": "context",
-        "text": "Assured approval - Fixed deposit backed card and no credit history needed"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
-      },
-      {
-        "type": "context",
-        "text": "on spends of ₹15K in the first 30 days of card generation."
-      },
-      {
-        "type": "removed",
-        "text": "Offer Period:1 st June 2026 to 31 st July 2026"
-      },
-      {
-        "type": "added",
-        "text": "Offer Period:1 st June 2026 to 31 st August 2026"
-      },
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Earn IndiGo BluChips on"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
-      },
-      {
-        "type": "context",
-        "text": "on spends of ₹15,000 in the first 30 days of card generation."
-      },
-      {
-        "type": "removed",
-        "text": "Offer Period: 1 st June 2026 to 31 st July 2026"
-      },
-      {
-        "type": "added",
-        "text": "Offer Period: 1 st June 2026 to 31 st August 2026"
-      },
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Global reach + UPI with ease"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Offer period extended from 31 July to 31 August 2026."
-  },
-  {
     "id": "hsbc-india-live-credit-card",
     "cardName": "Live+ Credit Card",
     "issuerName": "HSBC India",
@@ -908,79 +1899,6 @@
       "youtube": null
     },
     "summary": "Updated Live+ Reserve, DineWithTimesPrime partnership, lifestyle privileges, and fuel cashback wording for Live+ Credit Card."
-  },
-  {
-    "id": "kotak-mahindra-bank-kotak-solitaire-credit-card",
-    "cardName": "Kotak Solitaire Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-solitaire-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-07-17T05:58:19.294Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Offer is valid from 1 st  April to 30 th June 2026"
-      },
-      {
-        "type": "removed",
-        "text": "Get 20% bonus Air Miles while transferring to our partners"
-      },
-      {
-        "type": "removed",
-        "text": "Eligible partners: Air France - KLM, Air Canada, British Airways, Cathay Pacific, Etihad Airways, Qatar Airways, United Mileage Plus, Marriott Bonvoy, and ALL Loyalty Programme"
-      },
-      {
-        "type": "removed",
-        "text": "Offer is valid from 1 st  April, 2026 to 30 th  June, 2026"
-      },
-      {
-        "type": "removed",
-        "text": "E.g., If you transfer 10,000 Air Miles to any partners, you get 2,000 bonus Air Miles credited back in your Solitaire Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Click here for T&Cs"
-      },
-      {
-        "type": "removed",
-        "text": "Offer is valid from 1st Apr 2026 to 30th June 2026"
-      },
-      {
-        "type": "added",
-        "text": "Offer is valid from 1st July to 30th Sep 2026"
-      },
-      {
-        "type": "added",
-        "text": "Offer is valid from 1st July to 30th Sep 2026"
-      },
-      {
-        "type": "added",
-        "text": "Offer is valid from 1st July to 30th Sep 2026"
-      },
-      {
-        "type": "added",
-        "text": "Click here for TnCs"
-      },
-      {
-        "type": "added",
-        "text": "Get 30% bonus Air Miles while transferring to our partners"
-      },
-      {
-        "type": "added",
-        "text": "Eligible partners: Air France - KLM, Air Canada, British Airways, Cathay Pacific, Etihad Airways, Qatar Airways, United Mileage Plus, Marriott Bonvoy"
-      },
-      {
-        "type": "added",
-        "text": "E.g., If you transfer 10,000 Air Miles to any partners, you get 3,000 bonus Air Miles credited back in your Solitaire Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Offer dates changed to 1‑30 July‑Sep 2026, bonus increased to 30%, partners list updated, and terms link updated."
   },
   {
     "id": "indusind-bank-cred-indusind-bank-rupay-credit-card",

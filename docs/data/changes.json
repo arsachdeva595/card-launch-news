@@ -1,5 +1,1353 @@
 [
   {
+    "id": "rbl-bank-world-prime-credit-card",
+    "cardName": "World Prime Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-prime-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-16T04:27:52.001Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "All Cardmembers can avail the offer by applying under the offers/discounts section on the BookMyShow checkout page. Visit https://www.rbl.bank.in/ for details. Cardmember will need to add their Card details and expiry date for availing the offer. This offer cannot be clubbed with any other offer."
+      },
+      {
+        "type": "context",
+        "text": "HOW IT ADDS UP ?"
+      },
+      {
+        "type": "removed",
+        "text": "Value (In INR)"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Gift: 12,000 Reward Points (No welcome rewards will be given to First Year Free cards)"
+      },
+      {
+        "type": "removed",
+        "text": "3,000^^"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone Reward: Get 10,000 Reward Points on crossing INR 1.5 Lakhs and INR 3.5 Lakhs spends in a year (Total = 20,000 Reward Point) (exclude Rental, Insurance, Petrol and Utility spends) #"
+      },
+      {
+        "type": "removed",
+        "text": "5,000^^"
+      },
+      {
+        "type": "removed",
+        "text": "2 Reward for every INR 100 spent # (Assuming Normal spends of INR 2,00,000) ; Reward Earned = 4,000"
+      },
+      {
+        "type": "removed",
+        "text": "1,000^^"
+      },
+      {
+        "type": "added",
+        "text": "Benefits Value (In INR)"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift: 12,000 Reward Points (No welcome rewards will be given to First Year Free cards) 3,000^^"
+      },
+      {
+        "type": "added",
+        "text": "Milestone Reward: Get 10,000 Reward Points on crossing INR 1.5 Lakhs and INR 3.5 Lakhs spends in a year (Total = 20,000 Reward Point) (exclude Rental, Insurance, Petrol and Utility spends) # 5,000^^"
+      },
+      {
+        "type": "added",
+        "text": "2 Reward for every INR 100 spent # (Assuming Normal spends of INR 2,00,000) ; Reward Earned = 4,000 1,000^^"
+      },
+      {
+        "type": "context",
+        "text": "Get 2X Reward Points on all online spends, except for online purchases made on Education, Insurance, Utilities (including Bills2Pay), Rent Payments # and Wallet Load. (Maximum Cap: 1,000 Reward Points) ( 4 Reward Points / INR 100 spent)"
+      },
+      {
+        "type": "removed",
+        "text": "(Assuming Online Spends of INR 3,00,000) ; Reward Earned = 12,000"
+      },
+      {
+        "type": "removed",
+        "text": "3,000^^"
+      },
+      {
+        "type": "removed",
+        "text": "8 Complimentary Domestic Lounge Access in a Year"
+      },
+      {
+        "type": "removed",
+        "text": "12,000"
+      },
+      {
+        "type": "removed",
+        "text": "BookMyShow Offer: 1+1 Movie tickets (up to INR 200), twice a month on any day of the week"
+      },
+      {
+        "type": "removed",
+        "text": "4,800"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel surcharge waiver of up to INR 150 per month. (The Surcharge is applicable on minimum fuel transactions of INR 500 and maximum of INR 4,000.)"
+      },
+      {
+        "type": "removed",
+        "text": "1800"
+      },
+      {
+        "type": "removed",
+        "text": "TOTAL BENEFITS PER ANNUM"
+      },
+      {
+        "type": "removed",
+        "text": "30,600+"
+      },
+      {
+        "type": "added",
+        "text": "(Assuming Online Spends of INR 3,00,000) ; Reward Earned = 12,000 3,000^^"
+      },
+      {
+        "type": "added",
+        "text": "8 Complimentary Domestic Lounge Access in a Year 12,000"
+      },
+      {
+        "type": "added",
+        "text": "BookMyShow Offer: 1+1 Movie tickets (up to INR 200), twice a month on any day of the week 4,800"
+      },
+      {
+        "type": "added",
+        "text": "Fuel surcharge waiver of up to INR 150 per month. (The Surcharge is applicable on minimum fuel transactions of INR 500 and maximum of INR 4,000.) 1800"
+      },
+      {
+        "type": "added",
+        "text": "TOTAL BENEFITS PER ANNUM 30,600+"
+      },
+      {
+        "type": "context",
+        "text": "^^Up to"
+      },
+      {
+        "type": "context",
+        "text": "You pay an Annual Membership fee of INR 2,999 Plus Goods and Service tax (GST)."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated benefit calculations, welcome gift points, milestone rewards, lounge access, and total annual benefits for World Prime Credit Card."
+  },
+  {
+    "id": "rbl-bank-platinum-prime-credit-card",
+    "cardName": "Platinum Prime Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-prime-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-16T04:27:52.000Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "The Surcharge is applicable on minimum fuel transactions of INR 500 and maximum of INR 4,000."
+      },
+      {
+        "type": "context",
+        "text": "HOW IT ADDS UP ?"
+      },
+      {
+        "type": "removed",
+        "text": "Value (in INR)"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Reward: 4,000 Reward Points (No welcome rewards will be given to First Year Free cards)"
+      },
+      {
+        "type": "removed",
+        "text": "800^^"
+      },
+      {
+        "type": "removed",
+        "text": "1+1 ticket free up to INR 200 on BookMyShow, on any one Wednesday of the month"
+      },
+      {
+        "type": "removed",
+        "text": "2,400"
+      },
+      {
+        "type": "added",
+        "text": "Offers Value (in INR)"
+      },
+      {
+        "type": "added",
+        "text": "Joining Reward: 4,000 Reward Points (No welcome rewards will be given to First Year Free cards) 800^^"
+      },
+      {
+        "type": "added",
+        "text": "1+1 ticket free up to INR 200 on BookMyShow, on any one Wednesday of the month 2,400"
+      },
+      {
+        "type": "context",
+        "text": "2 Reward Points on every INR 100 spent #"
+      },
+      {
+        "type": "removed",
+        "text": "(Assuming annual spends of INR 2,25,000; Rewards earned = 4,500)"
+      },
+      {
+        "type": "removed",
+        "text": "900^^"
+      },
+      {
+        "type": "added",
+        "text": "(Assuming annual spends of INR 2,25,000; Rewards earned = 4,500) 900^^"
+      },
+      {
+        "type": "context",
+        "text": "10X Rewards on dining spends"
+      },
+      {
+        "type": "removed",
+        "text": "(Assuming annual spends on dining of INR 25,000; Rewards earned = 5,000) #"
+      },
+      {
+        "type": "removed",
+        "text": "1,000^^"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel surcharge waiver of up to INR 100 per month. (The Surcharge is applicable on minimum fuel transactions of INR 500 and maximum of INR 4,000.)"
+      },
+      {
+        "type": "removed",
+        "text": "1,200"
+      },
+      {
+        "type": "removed",
+        "text": "TOTAL BENEFITS PER ANNUM"
+      },
+      {
+        "type": "removed",
+        "text": "6,300+"
+      },
+      {
+        "type": "added",
+        "text": "(Assuming annual spends on dining of INR 25,000; Rewards earned = 5,000) # 1,000^^"
+      },
+      {
+        "type": "added",
+        "text": "Fuel surcharge waiver of up to INR 100 per month. (The Surcharge is applicable on minimum fuel transactions of INR 500 and maximum of INR 4,000.) 1,200"
+      },
+      {
+        "type": "added",
+        "text": "TOTAL BENEFITS PER ANNUM 6,300+"
+      },
+      {
+        "type": "context",
+        "text": "^^Up to"
+      },
+      {
+        "type": "context",
+        "text": "Note: Value of 1 Reward Point will vary from INR 0.11 to INR 0.25 across different categories on rblrewards.rbl.bank.in ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a new “Offers Value (in INR)” section and updated the joining reward, ticket offer, and fuel surcharge details."
+  },
+  {
+    "id": "rbl-bank-platinum-bonus-credit-card",
+    "cardName": "Platinum Bonus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-bonus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-16T04:27:51.999Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Second year fee reversal on spends of INR 1,00,000 #"
+      },
+      {
+        "type": "context",
+        "text": "HOW IT ADDS UP ?"
+      },
+      {
+        "type": "removed",
+        "text": "Value (In INR)"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Gift: 6,000 Reward Points (No welcome rewards will be given to First Year Free cards)"
+      },
+      {
+        "type": "removed",
+        "text": "1,500^^"
+      },
+      {
+        "type": "removed",
+        "text": "Spend Based Waiver: Spend INR 1,00,000 in a year and get waiver of Next year Annual Fee #"
+      },
+      {
+        "type": "removed",
+        "text": "1,000"
+      },
+      {
+        "type": "removed",
+        "text": "TOTAL BENEFITS PER ANNUM"
+      },
+      {
+        "type": "removed",
+        "text": "2,500+"
+      },
+      {
+        "type": "added",
+        "text": "Benefits Value (In INR)"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift: 6,000 Reward Points (No welcome rewards will be given to First Year Free cards) 1,500^^"
+      },
+      {
+        "type": "added",
+        "text": "Spend Based Waiver: Spend INR 1,00,000 in a year and get waiver of Next year Annual Fee # 1,000"
+      },
+      {
+        "type": "added",
+        "text": "TOTAL BENEFITS PER ANNUM 2,500+"
+      },
+      {
+        "type": "context",
+        "text": "^^Up to"
+      },
+      {
+        "type": "context",
+        "text": "You pay an Annual Membership fee of INR 999 Plus Goods and Service tax (GST)."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated benefits section heading to “Benefits Value (In INR)” and reformatted welcome gift and spend‑based waiver details."
+  },
+  {
+    "id": "icici-bank-makemytrip-signature-credit-card",
+    "cardName": "MakeMyTrip Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-16T04:22:39.940Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "myCash points"
+      },
+      {
+        "type": "context",
+        "text": "Milestone Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Frequent Holiday Goers"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip Holiday Voucher"
+      },
+      {
+        "type": "context",
+        "text": "MMTBLACK Platinum Tier Membership"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Your reward points will be credited to your MakeMyTrip Account in the form of myCash"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Signature Credit Card: Fees and Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee and Annual Fee"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee - ₹2,500 &#43; GST"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee - Nil"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "A salaried individual with a monthly income of ₹75,000"
+      },
+      {
+        "type": "context",
+        "text": "Self-employed with a monthly income of at least ₹75,000"
+      },
+      {
+        "type": "removed",
+        "text": "Identity Proof"
+      },
+      {
+        "type": "removed",
+        "text": "Address Proof"
+      },
+      {
+        "type": "context",
+        "text": "Note: *We are no longer accepting applications for MakeMyTrip ICICI Bank Signature Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Signature Credit Card FAQs"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Removed fee and proof sections from card terms."
+  },
+  {
+    "id": "icici-bank-manchester-united-signature-credit-card",
+    "cardName": "Manchester United Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/manchester-signature-card",
+    "status": "Active",
+    "detectedAt": "2026-08-16T04:22:39.939Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Manchester United Signature Credit Card | ICICI Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Fees and Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Signature Card"
+      },
+      {
+        "type": "removed",
+        "text": "Manchester United Signature Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "The Manchester United Signature Credit Card by ICICI Bank is a great choice if you are a football enthusiast, as you can enjoy great offers and discounts on Manchester United experiences. You also get your favourite ManU merchandise and complimentary Airport Lounge access, earn Rewards and more."
+      },
+      {
+        "type": "removed",
+        "text": "Airport Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "Rewards"
+      },
+      {
+        "type": "removed",
+        "text": "BookMyShow offers"
+      },
+      {
+        "type": "removed",
+        "text": "Know More"
+      },
+      {
+        "type": "removed",
+        "text": "Football Enthusiasts"
+      },
+      {
+        "type": "removed",
+        "text": "Manchester United-Branded Holdall and Football"
+      },
+      {
+        "type": "removed",
+        "text": "Signed Manchester United Jersey"
+      },
+      {
+        "type": "removed",
+        "text": "Discount on Manchester United Experiences"
+      },
+      {
+        "type": "removed",
+        "text": "Offers at BookMyShow and INOX"
+      },
+      {
+        "type": "removed",
+        "text": "Manchester United Signature Credit Card: Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Manchester United Merchandise"
+      },
+      {
+        "type": "removed",
+        "text": "Get a complimentary Manchester United branded holdall and football"
+      },
+      {
+        "type": "removed",
+        "text": "Top spender"
+      },
+      {
+        "type": "removed",
+        "text": "Get a trip to the Old Trafford stadium and a signed Manchester United Jersey"
+      },
+      {
+        "type": "removed",
+        "text": "Upto 10% discount"
+      },
+      {
+        "type": "removed",
+        "text": "Discounts on merchandise at the Manchester United online store"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 2 domestic airport lounge access"
+      },
+      {
+        "type": "removed",
+        "text": "25% off up to ₹150"
+      },
+      {
+        "type": "removed",
+        "text": "Get discounts on movie tickets each on BookMyShow and INOX, twice a month"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel surcharge waiver"
+      },
+      {
+        "type": "removed",
+        "text": "Get 1% waiver on fuel transactions worth ₹400–₹4,000 at HPCL pumps"
+      },
+      {
+        "type": "removed",
+        "text": "On Match Day"
+      },
+      {
+        "type": "removed",
+        "text": "3"
+      },
+      {
+        "type": "removed",
+        "text": "On Domestic"
+      },
+      {
+        "type": "removed",
+        "text": "Pay with points for:"
+      },
+      {
+        "type": "removed",
+        "text": "Health and Beauty"
+      },
+      {
+        "type": "removed",
+        "text": "Travel and Luggage"
+      },
+      {
+        "type": "removed",
+        "text": "Shopping Voucher"
+      },
+      {
+        "type": "removed",
+        "text": "Home Appliances"
+      },
+      {
+        "type": "removed",
+        "text": "Electronics"
+      },
+      {
+        "type": "removed",
+        "text": "Lifestyle Products"
+      },
+      {
+        "type": "removed",
+        "text": "Manchester United Signature Credit Card: Fee and Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee and Annual Fee"
+      },
+      {
+        "type": "removed",
+        "text": "Joining fee- ₹2,499 &#43; GST"
+      },
+      {
+        "type": "removed",
+        "text": "Annual fee- ₹2,499 &#43; GST (Spend over ₹2,50,000 in a year and get your annual fee waived for the next year)"
+      },
+      {
+        "type": "removed",
+        "text": "3.5%"
+      },
+      {
+        "type": "removed",
+        "text": "ATM Withdrawal"
+      },
+      {
+        "type": "removed",
+        "text": "Finance Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Late Payment Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Ranging from ₹100 to ₹1,300"
+      },
+      {
+        "type": "removed",
+        "text": "Please refer to the  Most Important Terms & Conditions (MITC)  for other charges"
+      },
+      {
+        "type": "removed",
+        "text": "Click Here  for applicable Terms & Conditions (T&Cs)"
+      },
+      {
+        "type": "removed",
+        "text": "A salaried individual with a monthly income of ₹75,000"
+      },
+      {
+        "type": "removed",
+        "text": "Self-employed individual with an annual income of ₹9,00,000"
+      },
+      {
+        "type": "removed",
+        "text": "Proof of identity"
+      },
+      {
+        "type": "removed",
+        "text": "Proof of address"
+      },
+      {
+        "type": "removed",
+        "text": "Note: We are currently not accepting applications for the Manchester United Signature Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Extend Benefits To Your Loved Ones"
+      },
+      {
+        "type": "removed",
+        "text": "Manchester United Signature Credit Card FAQs"
+      },
+      {
+        "type": "removed",
+        "text": "Who should use the ICICI Bank Manchester United Signature Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "The ICICI Bank Manchester United Signature Credit Card is an ideal Credit Card for football enthusiasts. You can get a Manchester United-Branded Holdall and Football, a signed Manchester United Jersey and many other discounts on ManU experiences."
+      },
+      {
+        "type": "removed",
+        "text": "Can I make an online purchase with the ICICI Bank Manchester United Signature Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, you can easily make online purchases across India and at select overseas stores using the ICICI Bank Manchester United Signature Credit Card."
+      },
+      {
+        "type": "removed",
+        "text": "What are the benefits that I can get with the ICICI Bank Manchester United Signature Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "With the ICICI Bank Manchester United Signature Credit Card, you get discounts and Rewards on your ManU experiences. You also get complimentary airport lounge access, monthly discounts at BookMyShow, INOX and many more benefits."
+      },
+      {
+        "type": "removed",
+        "text": "What is the age limit for the ICICI Bank Manchester United Signature Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "You must be between the age group of 21 to 65 years to be eligible to apply for the ICICI Bank Manchester United Signature Credit Card."
+      },
+      {
+        "type": "removed",
+        "text": "What are the key variants of ICICI Bank Credit Cards?"
+      },
+      {
+        "type": "removed",
+        "text": "The key variants of ICICI Bank Credit Cards are Platinum, Coral, Rubyx, Sapphiro and Emeralde. You can know more about several other Credit Cards tailored for specific needs like travel, lifestyle, shopping and more, like Amazon Pay Credit Card, MakeMyTrip Credit Card, Adani One Credit Card and Emirates Skywards Credit Card by exploring the ICICI Bank website."
+      },
+      {
+        "type": "removed",
+        "text": "How can I see my Credit Card number online?"
+      },
+      {
+        "type": "removed",
+        "text": "You can see your ICICI Bank Credit Card number by logging into the ICICI Bank's iMobile app or Net Banking."
+      },
+      {
+        "type": "removed",
+        "text": "How can I redeem my Credit Card points?"
+      },
+      {
+        "type": "removed",
+        "text": "You can experience seamless redemption of your Rewards with ICICI Bank. First, log into ICICI Bank Net Banking or ICICI Bank's iMobile app. In the Rewards section, you can redeem your ICICI Bank Rewards across multiple categories such as electronics, lifestyle, luxury, shopping and travel."
+      },
+      {
+        "type": "removed",
+        "text": "How can I apply for a Credit Card online?"
+      },
+      {
+        "type": "removed",
+        "text": "You can apply online by visiting the ICICI Bank website and selecting a Credit Card that best suits your needs. Make sure to check the eligibility criteria. Fill out the application form with your details. You can also visit any ICICI Bank branch, where our team will help you with the application process. Remember to keep your documents like Identity Proof, Address Proof and Income Statements ready with you."
+      },
+      {
+        "type": "removed",
+        "text": "What is the welcome gift for Manchester United Cardholders?"
+      },
+      {
+        "type": "removed",
+        "text": "As a welcome gift, Manchester United Credit Cardholders receive a Manchester United-Branded Holdall and Football. This exclusive merchandise adds to the excitement for fans of the club."
+      },
+      {
+        "type": "removed",
+        "text": "What does the top monthly spender receive?"
+      },
+      {
+        "type": "removed",
+        "text": "The top spender (across all Cardholders) every month receives a signed Manchester United jersey, branded football or t-shirt."
+      },
+      {
+        "type": "removed",
+        "text": "What benefits do the top 18 spenders receive?"
+      },
+      {
+        "type": "removed",
+        "text": "The top 18 spenders across Cardholders are rewarded with an exclusive fully-paid Manchester United Experience. This includes a private stadium and museum tour in Manchester, England, an opportunity to watch part of a First Team squad training session and a visit to the Manchester United megastore."
+      },
+      {
+        "type": "removed",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Manchester United Signature Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "removed",
+        "text": "Spends period offer -  eligibility period"
+      },
+      {
+        "type": "removed",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "removed",
+        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "removed",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "removed",
+        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
+      },
+      {
+        "type": "removed",
+        "text": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards"
+      },
+      {
+        "type": "removed",
+        "text": "What is included in the private stadium tour?"
+      },
+      {
+        "type": "removed",
+        "text": "The private stadium tour includes a guided visit to the historic Manchester United stadium and museum, offering an immersive experience of the club's legacy and achievements."
+      },
+      {
+        "type": "removed",
+        "text": "What are the criteria for availing domestic lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "To enjoy domestic lounge access, you must spend ₹75,000 or more on your Manchester United Signature Credit Card in a calendar quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "removed",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "removed",
+        "text": "What are the movie ticket benefits available?"
+      },
+      {
+        "type": "removed",
+        "text": "Cardholders are eligible for a 25% off on movie ticket offer worth up to ₹150 on the purchase of a minimum of two tickets through BookMyShow and INOX. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
+      },
+      {
+        "type": "removed",
+        "text": "What is the fuel surcharge waiver offered to Cardholders?"
+      },
+      {
+        "type": "removed",
+        "text": "Cardholders can avail of a 1% fuel surcharge waiver on all fuel transactions of up to ₹4,000 per transaction when the card is swiped at any HPCL fuel pump using ICICI Bank Point of Sale (POS) machine."
+      },
+      {
+        "type": "removed",
+        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
+      },
+      {
+        "type": "removed",
+        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
+      },
+      {
+        "type": "removed",
+        "text": "We use cookies to enhance your browsing experience; click OK to continue or Manage to change preferences. Learn more"
+      },
+      {
+        "type": "removed",
+        "text": "Manage"
+      },
+      {
+        "type": "removed",
+        "text": "Accept"
+      },
+      {
+        "type": "removed",
+        "text": "Your Cookie Settings"
+      },
+      {
+        "type": "removed",
+        "text": "Select and switch on & off the cookie settings you are comfortable with"
+      },
+      {
+        "type": "removed",
+        "text": "These cookies are vital for smooth browsing, faster page loading, and ensuring the website works as it should. This feature is always active."
+      },
+      {
+        "type": "removed",
+        "text": "Performance & Statistical"
+      },
+      {
+        "type": "removed",
+        "text": "These cookies recognize you, remember your preferences, and track site performance, ensuring proper functionality without direct identification."
+      },
+      {
+        "type": "added",
+        "text": "ICICI Bank - Personal, Business, Corporate and NRI Banking Online"
+      },
+      {
+        "type": "added",
+        "text": "Truth, Trust, Transparency"
+      },
+      {
+        "type": "added",
+        "text": "Truth, Trust, Transparency"
+      },
+      {
+        "type": "added",
+        "text": "accounts"
+      },
+      {
+        "type": "added",
+        "text": "accounts"
+      },
+      {
+        "type": "added",
+        "text": "cards"
+      },
+      {
+        "type": "added",
+        "text": "cards"
+      },
+      {
+        "type": "added",
+        "text": "loans"
+      },
+      {
+        "type": "added",
+        "text": "loans"
+      },
+      {
+        "type": "added",
+        "text": "deposit"
+      },
+      {
+        "type": "added",
+        "text": "deposit"
+      },
+      {
+        "type": "added",
+        "text": "Investment"
+      },
+      {
+        "type": "added",
+        "text": "investment"
+      },
+      {
+        "type": "added",
+        "text": "Investment"
+      },
+      {
+        "type": "added",
+        "text": "investment"
+      },
+      {
+        "type": "added",
+        "text": "Get support"
+      },
+      {
+        "type": "added",
+        "text": "Get support"
+      },
+      {
+        "type": "added",
+        "text": "Offers for you!"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card for you!"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy discounts on BookMyShow, electronics, dining and more!"
+      },
+      {
+        "type": "added",
+        "text": "Ongoing offer"
+      },
+      {
+        "type": "added",
+        "text": "Get a Home Loan of up to ₹5 crore* with quick processing"
+      },
+      {
+        "type": "added",
+        "text": "Ongoing offer"
+      },
+      {
+        "type": "added",
+        "text": "Ongoing offer"
+      },
+      {
+        "type": "added",
+        "text": "Get instant disbursement with no foreclosure charges after 24 EMIs"
+      },
+      {
+        "type": "added",
+        "text": "Ongoing offer"
+      },
+      {
+        "type": "added",
+        "text": "Ongoing offer"
+      },
+      {
+        "type": "added",
+        "text": "Drive your new car with 100% on-road funding"
+      },
+      {
+        "type": "added",
+        "text": "Ongoing offer"
+      },
+      {
+        "type": "added",
+        "text": "Go to Previous Offers"
+      },
+      {
+        "type": "added",
+        "text": "Go to Next Offers"
+      },
+      {
+        "type": "added",
+        "text": "Special offer on"
+      },
+      {
+        "type": "added",
+        "text": "*T&Cs"
+      },
+      {
+        "type": "added",
+        "text": "Previous Banner"
+      },
+      {
+        "type": "added",
+        "text": "Pause"
+      },
+      {
+        "type": "added",
+        "text": "Next Banner"
+      },
+      {
+        "type": "added",
+        "text": "Something else?"
+      },
+      {
+        "type": "added",
+        "text": "For NRI"
+      },
+      {
+        "type": "added",
+        "text": "For Business"
+      },
+      {
+        "type": "added",
+        "text": "Service request"
+      },
+      {
+        "type": "added",
+        "text": "Track applications / Service requests"
+      },
+      {
+        "type": "added",
+        "text": "Smart lock"
+      },
+      {
+        "type": "added",
+        "text": "Block card"
+      },
+      {
+        "type": "added",
+        "text": "Report fraud"
+      },
+      {
+        "type": "added",
+        "text": "Open an Account"
+      },
+      {
+        "type": "added",
+        "text": "Savings"
+      },
+      {
+        "type": "added",
+        "text": "Salary"
+      },
+      {
+        "type": "added",
+        "text": "Choose Your Loan"
+      },
+      {
+        "type": "added",
+        "text": "Home"
+      },
+      {
+        "type": "added",
+        "text": "Vehicle"
+      },
+      {
+        "type": "added",
+        "text": "Gold"
+      },
+      {
+        "type": "added",
+        "text": "Interest Rate"
+      },
+      {
+        "type": "added",
+        "text": "Ornament"
+      },
+      {
+        "type": "added",
+        "text": "Weight (g)"
+      },
+      {
+        "type": "added",
+        "text": "Gold Carat"
+      },
+      {
+        "type": "added",
+        "text": "Select Carat"
+      },
+      {
+        "type": "added",
+        "text": "Amount"
+      },
+      {
+        "type": "added",
+        "text": "₹"
+      },
+      {
+        "type": "added",
+        "text": "No. of Ornaments"
+      },
+      {
+        "type": "added",
+        "text": "decrease ornament count"
+      },
+      {
+        "type": "added",
+        "text": "increase ornament count"
+      },
+      {
+        "type": "added",
+        "text": "@"
+      },
+      {
+        "type": "added",
+        "text": "%"
+      },
+      {
+        "type": "added",
+        "text": "%"
+      },
+      {
+        "type": "added",
+        "text": ":"
+      },
+      {
+        "type": "added",
+        "text": "FCNR (B) FIXED DEPOSIT"
+      },
+      {
+        "type": "added",
+        "text": "Grow Your Global Earnings"
+      },
+      {
+        "type": "added",
+        "text": "Open an FCNR (B) Deposit to hold funds in foreign currencies, earn attractive returns and enjoy tax-free interest in India along with full repatriability."
+      },
+      {
+        "type": "added",
+        "text": "Open FCNR (B) Deposit"
+      },
+      {
+        "type": "added",
+        "text": "Choose your Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Looking for a Business Card?"
+      },
+      {
+        "type": "added",
+        "text": "View"
+      },
+      {
+        "type": "added",
+        "text": "Explore all Credit Cards"
+      },
+      {
+        "type": "added",
+        "text": "Explore all Credit Cards"
+      },
+      {
+        "type": "added",
+        "text": "Looking for a Business Card?"
+      },
+      {
+        "type": "added",
+        "text": "View"
+      },
+      {
+        "type": "added",
+        "text": "Close panel"
+      },
+      {
+        "type": "added",
+        "text": "add more"
+      },
+      {
+        "type": "added",
+        "text": "COMPARE"
+      },
+      {
+        "type": "added",
+        "text": "COMPARE"
+      },
+      {
+        "type": "added",
+        "text": "Close panel"
+      },
+      {
+        "type": "added",
+        "text": "Seamless mobile"
+      },
+      {
+        "type": "added",
+        "text": "banking"
+      },
+      {
+        "type": "added",
+        "text": "Apple logo"
+      },
+      {
+        "type": "added",
+        "text": "Google logo"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "The card is no longer accepting applications."
+  },
+  {
+    "id": "icici-bank-adani-one-platinum-credit-card",
+    "cardName": "Adani One Platinum Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card",
+    "status": "Active",
+    "detectedAt": "2026-08-16T04:22:39.936Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Your reward points will be credited to your Adani OneApp in the form of Adani OneApp Rewards at the end of the billing cycle"
+      },
+      {
+        "type": "context",
+        "text": "Adani One ICICI Bank Platinum Credit Card: Fees and Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee and Annual Fee"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee- ₹750 &#43; GST"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee- ₹750 &#43; GST (Spend over ₹3 lakh and get your Annual Fee waived off for the following year)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Removed the “Joining Fee and Annual Fee” section."
+  },
+  {
+    "id": "hdfc-bank-intermiles-hdfc-bank-signature-credit-card",
+    "cardName": "InterMiles HDFC Bank Signature Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/intermiles-signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-16T04:14:22.134Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Intermiles HDFC Bank Signature Credit Card - Apply Now at HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
+      },
+      {
+        "type": "added",
+        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
+      },
+      {
+        "type": "context",
+        "text": "Intermiles Signature Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "InterMiles Signature Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Sourcing of this Credit Card has been stopped. Existing customers of this card will continue to enjoy the benefits."
+      },
+      {
+        "type": "added",
+        "text": "Important information: Dear Customers, Intermiles card is phased out and we have migrated the existing cardholders to other HDFC bank credit card in a phase wise manner. All the existing customers that were migrated to other credit cards have been sent the 30 days advance SMS/Email communication in Jan/Feb'23 (Phase 1), Dec’23 (Phase 2), Nov’24 (Phase 3) and post 30 days have been migrated. Please note, effective 15th Dec’24, bank had discontinued all the product features on your Intermiles credit card."
+      },
+      {
+        "type": "context",
+        "text": "What's in store for you:"
+      },
+      {
+        "type": "context",
+        "text": "Card Benefits and Features"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Card discontinued; all InterMiles features and benefits terminated effective 15 Dec 2024, with customers migrated to other HDFC Bank cards."
+  },
+  {
+    "id": "hdfc-bank-intermiles-hdfc-bank-titanium-credit-card",
+    "cardName": "InterMiles HDFC Bank Titanium Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/jetprivilege-titanium-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-16T04:14:22.127Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Jet Privilege Titanium Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
+      },
+      {
+        "type": "added",
+        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
+      },
+      {
+        "type": "context",
+        "text": "Jet Privilege Titanium Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "JetPrivilege Titanium Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Sourcing of this Credit Card has been stopped. Existing customers of this card will continue to enjoy the benefits."
+      },
+      {
+        "type": "added",
+        "text": "Important information: Dear Customers, Intermiles card is phased out and we have migrated the existing cardholders to other HDFC bank credit card in a phase wise manner. All the existing customers that were migrated to other credit cards have been sent the 30 days advance SMS/Email communication in Jan/Feb'23 (Phase 1), Dec’23 (Phase 2), Nov’24 (Phase 3) and post 30 days have been migrated. Please note, effective 15th Dec’24, bank had discontinued all the product features on your Intermiles credit card."
+      },
+      {
+        "type": "context",
+        "text": "What's in store for you:"
+      },
+      {
+        "type": "context",
+        "text": "Card Benefits and Features"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Card discontinued and migrated to other HDFC Bank credit cards effective 15 Dec 2024."
+  },
+  {
     "id": "kotak-mahindra-bank-kotak-biz-edge-credit-card",
     "cardName": "Kotak Biz Edge Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -176,827 +1524,6 @@
       "youtube": null
     },
     "summary": "Removed the reward statement “Earn Points on every ₹100 spend.”"
-  },
-  {
-    "id": "icici-bank-manchester-united-signature-credit-card",
-    "cardName": "Manchester United Signature Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/manchester-signature-card",
-    "status": "Active",
-    "detectedAt": "2026-08-15T04:00:38.305Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "ICICI Bank - Personal, Business, Corporate and NRI Banking Online"
-      },
-      {
-        "type": "removed",
-        "text": "Truth, Trust, Transparency"
-      },
-      {
-        "type": "removed",
-        "text": "Truth, Trust, Transparency"
-      },
-      {
-        "type": "removed",
-        "text": "accounts"
-      },
-      {
-        "type": "removed",
-        "text": "accounts"
-      },
-      {
-        "type": "removed",
-        "text": "cards"
-      },
-      {
-        "type": "removed",
-        "text": "cards"
-      },
-      {
-        "type": "removed",
-        "text": "loans"
-      },
-      {
-        "type": "removed",
-        "text": "loans"
-      },
-      {
-        "type": "removed",
-        "text": "deposit"
-      },
-      {
-        "type": "removed",
-        "text": "deposit"
-      },
-      {
-        "type": "removed",
-        "text": "Investment"
-      },
-      {
-        "type": "removed",
-        "text": "investment"
-      },
-      {
-        "type": "removed",
-        "text": "Investment"
-      },
-      {
-        "type": "removed",
-        "text": "investment"
-      },
-      {
-        "type": "removed",
-        "text": "Get support"
-      },
-      {
-        "type": "removed",
-        "text": "Get support"
-      },
-      {
-        "type": "removed",
-        "text": "Offers for you!"
-      },
-      {
-        "type": "removed",
-        "text": "Hot selling"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card for you!"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy discounts on BookMyShow, electronics, dining and more!"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Hot selling"
-      },
-      {
-        "type": "removed",
-        "text": "Ongoing offer"
-      },
-      {
-        "type": "removed",
-        "text": "Get a Home Loan of up to ₹5 crore* with quick processing"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Ongoing offer"
-      },
-      {
-        "type": "removed",
-        "text": "Ongoing offer"
-      },
-      {
-        "type": "removed",
-        "text": "Get instant disbursement with no foreclosure charges after 24 EMIs"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Ongoing offer"
-      },
-      {
-        "type": "removed",
-        "text": "Ongoing offer"
-      },
-      {
-        "type": "removed",
-        "text": "Drive your new car with 100% on-road funding"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Ongoing offer"
-      },
-      {
-        "type": "removed",
-        "text": "Go to Previous Offers"
-      },
-      {
-        "type": "removed",
-        "text": "Go to Next Offers"
-      },
-      {
-        "type": "removed",
-        "text": "Special offer on"
-      },
-      {
-        "type": "removed",
-        "text": "*T&Cs"
-      },
-      {
-        "type": "removed",
-        "text": "Previous Banner"
-      },
-      {
-        "type": "removed",
-        "text": "Pause"
-      },
-      {
-        "type": "removed",
-        "text": "Next Banner"
-      },
-      {
-        "type": "removed",
-        "text": "Something else?"
-      },
-      {
-        "type": "removed",
-        "text": "For NRI"
-      },
-      {
-        "type": "removed",
-        "text": "For Business"
-      },
-      {
-        "type": "removed",
-        "text": "Service request"
-      },
-      {
-        "type": "removed",
-        "text": "Track applications / Service requests"
-      },
-      {
-        "type": "removed",
-        "text": "Smart lock"
-      },
-      {
-        "type": "removed",
-        "text": "Block card"
-      },
-      {
-        "type": "removed",
-        "text": "Report fraud"
-      },
-      {
-        "type": "removed",
-        "text": "Open an Account"
-      },
-      {
-        "type": "removed",
-        "text": "Savings"
-      },
-      {
-        "type": "removed",
-        "text": "Salary"
-      },
-      {
-        "type": "removed",
-        "text": "Choose Your Loan"
-      },
-      {
-        "type": "removed",
-        "text": "Home"
-      },
-      {
-        "type": "removed",
-        "text": "Vehicle"
-      },
-      {
-        "type": "removed",
-        "text": "Gold"
-      },
-      {
-        "type": "removed",
-        "text": "Interest Rate"
-      },
-      {
-        "type": "removed",
-        "text": "Ornament"
-      },
-      {
-        "type": "removed",
-        "text": "Weight (g)"
-      },
-      {
-        "type": "removed",
-        "text": "Gold Carat"
-      },
-      {
-        "type": "removed",
-        "text": "Select Carat"
-      },
-      {
-        "type": "removed",
-        "text": "Amount"
-      },
-      {
-        "type": "removed",
-        "text": "₹"
-      },
-      {
-        "type": "removed",
-        "text": "No. of Ornaments"
-      },
-      {
-        "type": "removed",
-        "text": "decrease ornament count"
-      },
-      {
-        "type": "removed",
-        "text": "increase ornament count"
-      },
-      {
-        "type": "removed",
-        "text": "@"
-      },
-      {
-        "type": "removed",
-        "text": "%"
-      },
-      {
-        "type": "removed",
-        "text": "%"
-      },
-      {
-        "type": "removed",
-        "text": ":"
-      },
-      {
-        "type": "removed",
-        "text": "FCNR (B) FIXED DEPOSIT"
-      },
-      {
-        "type": "removed",
-        "text": "Grow Your Global Earnings"
-      },
-      {
-        "type": "removed",
-        "text": "Open an FCNR (B) Deposit to hold funds in foreign currencies, earn attractive returns and enjoy tax-free interest in India along with full repatriability."
-      },
-      {
-        "type": "removed",
-        "text": "Open FCNR (B) Deposit"
-      },
-      {
-        "type": "removed",
-        "text": "Choose your Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Hot selling"
-      },
-      {
-        "type": "removed",
-        "text": "Sapphiro"
-      },
-      {
-        "type": "removed",
-        "text": "save"
-      },
-      {
-        "type": "removed",
-        "text": "compare"
-      },
-      {
-        "type": "removed",
-        "text": "Best Credit Card for"
-      },
-      {
-        "type": "removed",
-        "text": "Premium lifestyle offers"
-      },
-      {
-        "type": "removed",
-        "text": "Lounge access | Golf rounds | BookMyShow offer"
-      },
-      {
-        "type": "removed",
-        "text": "more"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Close More Info"
-      },
-      {
-        "type": "removed",
-        "text": "Sapphiro"
-      },
-      {
-        "type": "removed",
-        "text": "Best Credit Card for"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome vouchers"
-      },
-      {
-        "type": "removed",
-        "text": "International airport lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "Domestic airport lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "Buy one get one offer on BookMyShow"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Exclusive rewards"
-      },
-      {
-        "type": "removed",
-        "text": "Rubyx"
-      },
-      {
-        "type": "removed",
-        "text": "save"
-      },
-      {
-        "type": "removed",
-        "text": "compare"
-      },
-      {
-        "type": "removed",
-        "text": "Best Credit Card for"
-      },
-      {
-        "type": "removed",
-        "text": "High-end lifestyle perks"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome vouchers | Complimentary golf rounds | Lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "more"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Close More Info"
-      },
-      {
-        "type": "removed",
-        "text": "Rubyx"
-      },
-      {
-        "type": "removed",
-        "text": "Best Credit Card for"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome vouchers"
-      },
-      {
-        "type": "removed",
-        "text": "Airport and railway lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "BookMyShow offers"
-      },
-      {
-        "type": "removed",
-        "text": "24/7 concierge services"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Popular"
-      },
-      {
-        "type": "removed",
-        "text": "Coral"
-      },
-      {
-        "type": "removed",
-        "text": "save"
-      },
-      {
-        "type": "removed",
-        "text": "compare"
-      },
-      {
-        "type": "removed",
-        "text": "Best Credit Card for"
-      },
-      {
-        "type": "removed",
-        "text": "Everyday or on-the-go spends"
-      },
-      {
-        "type": "removed",
-        "text": "Lounge access | BookMyShow offers | INOX offers"
-      },
-      {
-        "type": "removed",
-        "text": "More"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Close More Info"
-      },
-      {
-        "type": "removed",
-        "text": "Coral"
-      },
-      {
-        "type": "removed",
-        "text": "Best Credit Card for"
-      },
-      {
-        "type": "added",
-        "text": "Manchester United Signature Credit Card | ICICI Bank"
-      },
-      {
-        "type": "added",
-        "text": "Benefits"
-      },
-      {
-        "type": "added",
-        "text": "Fees and Charges"
-      },
-      {
-        "type": "added",
-        "text": "Signature Card"
-      },
-      {
-        "type": "added",
-        "text": "Manchester United Signature Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "The Manchester United Signature Credit Card by ICICI Bank is a great choice if you are a football enthusiast, as you can enjoy great offers and discounts on Manchester United experiences. You also get your favourite ManU merchandise and complimentary Airport Lounge access, earn Rewards and more."
-      },
-      {
-        "type": "added",
-        "text": "Airport Lounge Access"
-      },
-      {
-        "type": "added",
-        "text": "Rewards"
-      },
-      {
-        "type": "context",
-        "text": "BookMyShow offers"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel waivers"
-      },
-      {
-        "type": "removed",
-        "text": "Milestone rewards"
-      },
-      {
-        "type": "removed",
-        "text": "Personal accident insurance"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "prev"
-      },
-      {
-        "type": "removed",
-        "text": "next"
-      },
-      {
-        "type": "removed",
-        "text": "Looking for a Business Card?"
-      },
-      {
-        "type": "removed",
-        "text": "View"
-      },
-      {
-        "type": "removed",
-        "text": "Sapphiro"
-      },
-      {
-        "type": "removed",
-        "text": "save"
-      },
-      {
-        "type": "removed",
-        "text": "compare"
-      },
-      {
-        "type": "removed",
-        "text": "Best Credit Card for"
-      },
-      {
-        "type": "removed",
-        "text": "Premium lifestyle offers"
-      },
-      {
-        "type": "removed",
-        "text": "Lounge access | Golf rounds | BookMyShow offer"
-      },
-      {
-        "type": "removed",
-        "text": "more"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Close More Info"
-      },
-      {
-        "type": "removed",
-        "text": "Sapphiro"
-      },
-      {
-        "type": "removed",
-        "text": "Best Credit Card for"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome vouchers"
-      },
-      {
-        "type": "removed",
-        "text": "International airport lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "Domestic airport lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "Buy one get one offer on BookMyShow"
-      },
-      {
-        "type": "removed",
-        "text": "Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Details"
-      },
-      {
-        "type": "removed",
-        "text": "Explore all Credit Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Explore all Credit Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Looking for a Business Card?"
-      },
-      {
-        "type": "removed",
-        "text": "View"
-      },
-      {
-        "type": "removed",
-        "text": "Close panel"
-      },
-      {
-        "type": "removed",
-        "text": "add more"
-      },
-      {
-        "type": "removed",
-        "text": "COMPARE"
-      },
-      {
-        "type": "removed",
-        "text": "COMPARE"
-      },
-      {
-        "type": "removed",
-        "text": "Close panel"
-      },
-      {
-        "type": "removed",
-        "text": "Seamless mobile"
-      },
-      {
-        "type": "removed",
-        "text": "banking"
-      },
-      {
-        "type": "removed",
-        "text": "Apple logo"
-      },
-      {
-        "type": "removed",
-        "text": "Google logo"
-      },
-      {
-        "type": "added",
-        "text": "Know More"
-      },
-      {
-        "type": "added",
-        "text": "Football Enthusiasts"
-      },
-      {
-        "type": "added",
-        "text": "Manchester United-Branded Holdall and Football"
-      },
-      {
-        "type": "added",
-        "text": "Signed Manchester United Jersey"
-      },
-      {
-        "type": "added",
-        "text": "Discount on Manchester United Experiences"
-      },
-      {
-        "type": "added",
-        "text": "Offers at BookMyShow and INOX"
-      },
-      {
-        "type": "added",
-        "text": "Manchester United Signature Credit Card: Benefits"
-      },
-      {
-        "type": "added",
-        "text": "Manchester United Merchandise"
-      },
-      {
-        "type": "added",
-        "text": "Get a complimentary Manchester United branded holdall and football"
-      },
-      {
-        "type": "added",
-        "text": "Top spender"
-      },
-      {
-        "type": "added",
-        "text": "Get a trip to the Old Trafford stadium and a signed Manchester United Jersey"
-      },
-      {
-        "type": "added",
-        "text": "Upto 10% discount"
-      },
-      {
-        "type": "added",
-        "text": "Discounts on merchandise at the Manchester United online store"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 domestic airport lounge access"
-      },
-      {
-        "type": "added",
-        "text": "25% off up to ₹150"
-      },
-      {
-        "type": "added",
-        "text": "Get discounts on movie tickets each on BookMyShow and INOX, twice a month"
-      },
-      {
-        "type": "added",
-        "text": "Fuel surcharge waiver"
-      },
-      {
-        "type": "added",
-        "text": "Get 1% waiver on fuel transactions worth ₹400–₹4,000 at HPCL pumps"
-      },
-      {
-        "type": "added",
-        "text": "On Match Day"
-      },
-      {
-        "type": "ellipsis",
-        "text": "… diff truncated (76 more lines) …"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added Manchester United Signature Credit Card details, including new benefits, fees, lounge access, rewards, and exclusive merchandise offers."
   },
   {
     "id": "icici-bank-emirates-skywards-rubyx-credit-card",

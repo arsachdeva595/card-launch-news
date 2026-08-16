@@ -303,5 +303,7 @@
   "Account number should be 16 digits",
   "OK Cancel Continue",
   "On clicking the below accept button, you are being re-directed to a third party webpage of KFintech Technologies Private Limited (Kfintech CRA) and necessary fees for availing the services may have to be paid by you. Please acknowledge the disclaimer before proceeding further. Please also note that when you click on the link below, you will be leaving the KARUR VYSYA BANK LTD (KVB) website and our policies, terms and conditions, disclaimers will cease once you leave our website. Since the linked webpage is governed by their respective policies, you will be agreeing to the terms & conditions as also any disclaimers/Terms of use Privacy Policy prescribed by them from time to time for availing their services. KVB will not be responsible in any manner whatsoever for confidentiality of the data shared by you and for any loss, damage, costs & charges direct or indirect incurred by you, arising out of or in connection with your access to the KFintech Technologies Private Limited [BillDesk] website or for any deficiency in the services of KFintech Technologies Private Limited [BillDesk] or for the failure or disruption of the services. These sites are not under the control of KVB.",
-  "I am Kaaru"
+  "I am Kaaru",
+  "Email * Please enter a valid email address that includes @. Example: name@example.com",
+  "Pincode * PIN code must contain 6 digits."
 ]

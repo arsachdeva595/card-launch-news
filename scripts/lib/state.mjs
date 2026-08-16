@@ -16,7 +16,8 @@ export const PATHS = {
   changes: path.join(ROOT, "docs", "data", "changes.json"),
   redditBuzz: path.join(ROOT, "docs", "data", "reddit-buzz.json"),
   publicTrackedCards: path.join(ROOT, "docs", "data", "tracked-cards.json"),
-  meta: path.join(ROOT, "docs", "data", "meta.json")
+  meta: path.join(ROOT, "docs", "data", "meta.json"),
+  backfill: path.join(ROOT, "docs", "data", "backfill.json")
 };
 
 export async function readJson(filePath, fallback) {

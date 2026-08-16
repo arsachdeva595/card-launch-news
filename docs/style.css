@@ -482,6 +482,11 @@ p.snippet {
   font-weight: 550;
 }
 
+.backfill-summary {
+  white-space: pre-line;
+  line-height: 1.5;
+}
+
 .status-filter {
   display: flex;
   gap: 0.5rem;
@@ -560,6 +565,20 @@ p.snippet {
 
 .tracked-row a:hover {
   text-decoration: underline;
+}
+
+.backfill-row {
+  width: 100%;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 0.12s ease;
+}
+
+.backfill-row:hover, .backfill-row:focus-visible {
+  border-color: var(--accent);
+  outline: none;
 }
 
 .badge--active {

@@ -35,6 +35,7 @@
     <a href="#history-section">History</a>
     <a href="#buzz-section">Reddit Buzz</a>
     <a href="#tracked-section">All Tracked Cards</a>
+    <a href="#backfill-section">Backfill Reference</a>
   </nav>
 
   <main class="feed">
@@ -83,6 +84,24 @@
       </div>
       <p class="empty-state" id="tracked-empty-state" hidden></p>
       <div class="tracked-list" id="tracked-list"></div>
+    </section>
+
+    <section class="feed-section" id="backfill-section">
+      <h2>Backfill Reference</h2>
+      <p class="section-subtitle">
+        Every tracked card compared against its closest archived Wayback Machine snapshot to April 2026 — old state vs
+        today, not a change-by-change timeline. Coverage depends on what the Internet Archive happened to crawl.
+      </p>
+      <p class="meta-line" id="backfill-meta-line"></p>
+      <div class="status-filter" id="backfill-status-filter">
+        <button type="button" class="status-filter__btn is-active" data-status="all">All</button>
+        <button type="button" class="status-filter__btn" data-status="changed">Changed</button>
+        <button type="button" class="status-filter__btn" data-status="unchanged">No change</button>
+        <button type="button" class="status-filter__btn" data-status="no-coverage">No archive found</button>
+        <button type="button" class="status-filter__btn" data-status="pending">Pending retry</button>
+      </div>
+      <p class="empty-state" id="backfill-empty-state" hidden></p>
+      <div class="tracked-list" id="backfill-list"></div>
     </section>
   </main>
 

@@ -7,7 +7,8 @@
   "scripts": {
     "run": "node --env-file-if-exists=.env scripts/run.mjs",
     "run:force": "node --env-file-if-exists=.env scripts/run.mjs --force",
-    "backfill-summaries": "node --env-file-if-exists=.env scripts/backfill-summaries.mjs"
+    "backfill-summaries": "node --env-file-if-exists=.env scripts/backfill-summaries.mjs",
+    "backfill-history": "node --env-file-if-exists=.env scripts/backfill-history.mjs"
   },
   "engines": {
     "node": ">=20"

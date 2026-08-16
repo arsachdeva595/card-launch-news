@@ -8,8 +8,10 @@ let allLaunches = [];
 let allChanges = [];
 let allBuzz = [];
 let allTrackedCards = [];
+let allBackfill = [];
 let currentFrequencyDays = 7;
 let currentStatusFilter = "all";
+let currentBackfillStatusFilter = "all";
 
 // All card names, search-result titles/snippets, and diff text originate
 // from external sources (issuer pages, search API results) - escape before
@@ -135,8 +137,62 @@ function renderChangeDetail(change) {
   `;
 }
 
+const BACKFILL_STATUS_LABELS = {
+  changed: "Changed",
+  unchanged: "No change",
+  "no-coverage": "No archive found",
+  "fetch-error": "Pending retry",
+  error: "Pending retry"
+};
+
+function renderBackfillDetail(item) {
+  const statusLabel = BACKFILL_STATUS_LABELS[item.status] || item.status;
+  const baselineLine = item.snapshotDate
+    ? `Baseline snapshot ${formatDate(item.snapshotDate)} &rarr; today`
+    : "No archived baseline found";
+
+  let bodyHtml;
+  if (item.status === "no-coverage") {
+    bodyHtml = `<p class="not-found">The Wayback Machine has no archived snapshot of this page at all — its history can't be reconstructed.</p>`;
+  } else if (item.status === "fetch-error" || item.status === "error") {
+    bodyHtml = `<p class="not-found">Couldn't fetch one of the two page versions to compare on the last backfill pass — will be retried on the next run.</p>`;
+  } else {
+    bodyHtml = renderDiff(item.diffHunks);
+  }
+
+  return `
+    <h2 id="detail-title">${escapeHtml(item.cardName)}</h2>
+    <p class="issuer-name">${escapeHtml(item.issuerName)} &middot; ${statusLabel} &middot; ${baselineLine}</p>
+
+    <div class="detail-section">
+      <h3>Card page (today)</h3>
+      <a href="${safeHref(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.url)}</a>
+    </div>
+
+    ${item.oldSnapshotUrl ? `
+    <div class="detail-section">
+      <h3>Archived snapshot</h3>
+      <a href="${safeHref(item.oldSnapshotUrl)}" target="_blank" rel="noopener noreferrer">View archived page from ${formatDate(item.snapshotDate)} →</a>
+    </div>
+    ` : ""}
+
+    ${item.summary ? `
+    <div class="detail-section">
+      <h3>Summary</h3>
+      <p class="change-summary backfill-summary">${escapeHtml(item.summary)}</p>
+    </div>
+    ` : ""}
+
+    <div class="detail-section">
+      <h3>What changed</h3>
+      ${bodyHtml}
+    </div>
+  `;
+}
+
 function openDetail(item, kind) {
-  detailContent.innerHTML = kind === "change" ? renderChangeDetail(item) : renderLaunchDetail(item);
+  detailContent.innerHTML =
+    kind === "change" ? renderChangeDetail(item) : kind === "backfill" ? renderBackfillDetail(item) : renderLaunchDetail(item);
   overlay.hidden = false;
 }
 
@@ -305,6 +361,64 @@ function renderTrackedList(items, query) {
   }
 }
 
+// "pending" groups fetch-error/error together in the UI - both just mean
+// "will be retried next backfill run", not a distinction the reader needs.
+function backfillFilterStatus(item) {
+  return item.status === "fetch-error" || item.status === "error" ? "pending" : item.status;
+}
+
+function renderBackfillList(items, query) {
+  const listEl = document.getElementById("backfill-list");
+  const emptyStateEl = document.getElementById("backfill-empty-state");
+  const metaLineEl = document.getElementById("backfill-meta-line");
+  const isSearching = query.trim().length > 0;
+
+  const counts = allBackfill.reduce((acc, item) => {
+    const key = backfillFilterStatus(item);
+    acc[key] = (acc[key] || 0) + 1;
+    return acc;
+  }, {});
+  metaLineEl.textContent = allBackfill.length
+    ? `${allBackfill.length} card(s) checked · ${counts.changed || 0} changed · ${counts.unchanged || 0} unchanged · ` +
+      `${counts["no-coverage"] || 0} no archive found · ${counts.pending || 0} pending retry`
+    : "Backfill reference not generated yet.";
+
+  if (items.length === 0) {
+    emptyStateEl.textContent = isSearching ? `No cards match "${query}".` : "No cards in this filter.";
+    emptyStateEl.hidden = false;
+    listEl.innerHTML = "";
+    return;
+  }
+
+  emptyStateEl.hidden = true;
+  listEl.innerHTML = "";
+  for (const item of items) {
+    const row = document.createElement("button");
+    row.type = "button";
+    row.className = "tracked-row backfill-row";
+    const filterStatus = backfillFilterStatus(item);
+    const statusBadgeClass = filterStatus === "changed" ? "badge--new" : filterStatus === "no-coverage" ? "badge--discontinued" : "";
+    const metaLine = item.snapshotDate
+      ? `Baseline: ${formatDate(item.snapshotDate)}`
+      : filterStatus === "pending"
+        ? "Will be retried next run"
+        : "No archived baseline found";
+
+    row.innerHTML = `
+      <div class="tracked-row__main">
+        <span class="badge">${escapeHtml(item.issuerName)}</span>
+        <span class="badge ${statusBadgeClass}">${escapeHtml(BACKFILL_STATUS_LABELS[item.status] || item.status)}</span>
+        <div>
+          <p class="tracked-row__name">${escapeHtml(item.cardName)}</p>
+          <p class="tracked-row__meta">${escapeHtml(metaLine)}</p>
+        </div>
+      </div>
+    `;
+    row.addEventListener("click", () => openDetail(item, "backfill"));
+    listEl.appendChild(row);
+  }
+}
+
 // Groups by calendar day using the same en-IN formatting as formatDate, so
 // the group heading and each item's implicit date always agree - grouping
 // on a separately-formatted key would risk them drifting out of sync.
@@ -367,6 +481,10 @@ function renderAll(query) {
     ? allTrackedCards
     : allTrackedCards.filter((c) => c.status === currentStatusFilter);
   const filteredTracked = filterAndSort(statusFiltered, query);
+  const backfillStatusFiltered = currentBackfillStatusFilter === "all"
+    ? allBackfill
+    : allBackfill.filter((item) => backfillFilterStatus(item) === currentBackfillStatusFilter);
+  const filteredBackfill = filterAndSort(backfillStatusFiltered, query);
   const isSearching = query.trim().length > 0;
 
   renderTiles({
@@ -394,6 +512,7 @@ function renderAll(query) {
   renderBuzzList(filteredBuzz, query);
   renderTrackedList(filteredTracked, query);
   renderHistory(filteredChanges, query);
+  renderBackfillList(filteredBackfill, query);
 
   // If the search narrows things down to exactly one card total, jump
   // straight to its detail view instead of making the user click it.
@@ -409,7 +528,21 @@ document.getElementById("status-filter").addEventListener("click", (e) => {
   const btn = e.target.closest(".status-filter__btn");
   if (!btn) return;
   currentStatusFilter = btn.dataset.status;
-  for (const el of document.querySelectorAll(".status-filter__btn")) {
+  // Scoped to this filter group's own container - a second, differently-
+  // scoped .status-filter__btn group (see backfill-status-filter below)
+  // would otherwise have its active state clobbered by this one too, since
+  // both share the same class.
+  for (const el of e.currentTarget.querySelectorAll(".status-filter__btn")) {
+    el.classList.toggle("is-active", el === btn);
+  }
+  renderAll(searchInput.value);
+});
+
+document.getElementById("backfill-status-filter").addEventListener("click", (e) => {
+  const btn = e.target.closest(".status-filter__btn");
+  if (!btn) return;
+  currentBackfillStatusFilter = btn.dataset.status;
+  for (const el of e.currentTarget.querySelectorAll(".status-filter__btn")) {
     el.classList.toggle("is-active", el === btn);
   }
   renderAll(searchInput.value);
@@ -441,17 +574,19 @@ function renderSettings(meta) {
 
 async function init() {
   try {
-    const [launchesRes, changesRes, buzzRes, trackedRes, metaRes] = await Promise.all([
+    const [launchesRes, changesRes, buzzRes, trackedRes, metaRes, backfillRes] = await Promise.all([
       fetch("data/launches.json", { cache: "no-store" }),
       fetch("data/changes.json", { cache: "no-store" }),
       fetch("data/reddit-buzz.json", { cache: "no-store" }),
       fetch("data/tracked-cards.json", { cache: "no-store" }),
-      fetch("data/meta.json", { cache: "no-store" })
+      fetch("data/meta.json", { cache: "no-store" }),
+      fetch("data/backfill.json", { cache: "no-store" })
     ]);
     allLaunches = await launchesRes.json();
     allChanges = changesRes.ok ? await changesRes.json() : [];
     allBuzz = buzzRes.ok ? await buzzRes.json() : [];
     allTrackedCards = trackedRes.ok ? await trackedRes.json() : [];
+    allBackfill = backfillRes.ok ? await backfillRes.json() : [];
     const meta = await metaRes.json();
     currentFrequencyDays = meta.frequencyDays || 7;
 

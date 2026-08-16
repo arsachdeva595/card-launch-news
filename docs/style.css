@@ -408,6 +408,38 @@ html {
   color: var(--text-muted);
 }
 
+.detail-section__heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+}
+
+.copy-btn {
+  font: inherit;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: normal;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: border-color 0.12s ease, color 0.12s ease;
+}
+
+.copy-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.copy-btn.is-copied {
+  border-color: var(--new-badge);
+  color: var(--new-badge);
+}
+
 .detail-section a {
   color: var(--accent);
   text-decoration: none;

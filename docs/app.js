@@ -74,6 +74,29 @@ function renderDiff(diffHunks) {
   return `<div class="diff-block">${lines}</div>`;
 }
 
+// Plain-text form of a diff for the copy button - mirrors renderDiff's
+// prefixes but without markup, so pasting it elsewhere reads like a normal
+// unified diff.
+function diffToPlainText(diffHunks) {
+  if (!diffHunks || diffHunks.length === 0) return "";
+  return diffHunks
+    .map((hunk) => {
+      const prefix = hunk.type === "added" ? "+ " : hunk.type === "removed" ? "- " : hunk.type === "ellipsis" ? "" : "  ";
+      return `${prefix}${hunk.text}`;
+    })
+    .join("\n");
+}
+
+function whatChangedHeading(diffHunks) {
+  const hasDiff = diffHunks && diffHunks.length > 0;
+  return `
+    <h3 class="detail-section__heading">
+      <span>What changed</span>
+      ${hasDiff ? `<button type="button" class="copy-btn" data-copy-diff>Copy</button>` : ""}
+    </h3>
+  `;
+}
+
 function renderLaunchDetail(launch) {
   return `
     <h2 id="detail-title">${escapeHtml(launch.cardName)}</h2>
@@ -118,7 +141,7 @@ function renderChangeDetail(change) {
     ` : ""}
 
     <div class="detail-section">
-      <h3>What changed</h3>
+      ${whatChangedHeading(change.diffHunks)}
       ${renderDiff(change.diffHunks)}
     </div>
 
@@ -152,12 +175,14 @@ function renderBackfillDetail(item) {
     : "No archived baseline found";
 
   let bodyHtml;
+  let diffHunksForCopy = null;
   if (item.status === "no-coverage") {
     bodyHtml = `<p class="not-found">The Wayback Machine has no archived snapshot of this page at all — its history can't be reconstructed.</p>`;
   } else if (item.status === "fetch-error" || item.status === "error") {
     bodyHtml = `<p class="not-found">Couldn't fetch one of the two page versions to compare on the last backfill pass — will be retried on the next run.</p>`;
   } else {
     bodyHtml = renderDiff(item.diffHunks);
+    diffHunksForCopy = item.diffHunks;
   }
 
   return `
@@ -184,17 +209,42 @@ function renderBackfillDetail(item) {
     ` : ""}
 
     <div class="detail-section">
-      <h3>What changed</h3>
+      ${whatChangedHeading(diffHunksForCopy)}
       ${bodyHtml}
     </div>
   `;
 }
 
+// Holds the plain-text diff for whichever detail panel is currently open, so
+// the delegated copy-button handler below has something to copy without
+// re-deriving it from the DOM (and without round-tripping through an
+// HTML-escaped data attribute, which arbitrary page text isn't safe in).
+let currentDiffText = "";
+
 function openDetail(item, kind) {
   detailContent.innerHTML =
     kind === "change" ? renderChangeDetail(item) : kind === "backfill" ? renderBackfillDetail(item) : renderLaunchDetail(item);
+  currentDiffText = kind === "launch" ? "" : diffToPlainText(item.diffHunks);
   overlay.hidden = false;
 }
+
+detailContent.addEventListener("click", async (e) => {
+  const btn = e.target.closest("[data-copy-diff]");
+  if (!btn || !currentDiffText) return;
+  try {
+    await navigator.clipboard.writeText(currentDiffText);
+    const originalText = btn.textContent;
+    btn.textContent = "Copied!";
+    btn.classList.add("is-copied");
+    setTimeout(() => {
+      btn.textContent = originalText;
+      btn.classList.remove("is-copied");
+    }, 1500);
+  } catch {
+    btn.textContent = "Copy failed";
+    setTimeout(() => { btn.textContent = "Copy"; }, 1500);
+  }
+});
 
 function closeDetail() {
   overlay.hidden = true;
@@ -367,6 +417,15 @@ function backfillFilterStatus(item) {
   return item.status === "fetch-error" || item.status === "error" ? "pending" : item.status;
 }
 
+// Matches lib/backfill-summary.mjs's NO_CHANGE_LINE sentinel exactly - a
+// "changed" item (text differs) whose LLM summary is still this sentinel
+// means the diff was just page chrome/nav noise, not a real card change.
+const NO_MATERIAL_CHANGE_TEXT = "No material change detected.";
+
+function isMaterialChange(item) {
+  return item.status === "changed" && !!item.summary && item.summary.trim() !== NO_MATERIAL_CHANGE_TEXT;
+}
+
 function renderBackfillList(items, query) {
   const listEl = document.getElementById("backfill-list");
   const emptyStateEl = document.getElementById("backfill-empty-state");
@@ -483,7 +542,9 @@ function renderAll(query) {
   const filteredTracked = filterAndSort(statusFiltered, query);
   const backfillStatusFiltered = currentBackfillStatusFilter === "all"
     ? allBackfill
-    : allBackfill.filter((item) => backfillFilterStatus(item) === currentBackfillStatusFilter);
+    : currentBackfillStatusFilter === "material"
+      ? allBackfill.filter(isMaterialChange)
+      : allBackfill.filter((item) => backfillFilterStatus(item) === currentBackfillStatusFilter);
   const filteredBackfill = filterAndSort(backfillStatusFiltered, query);
   const isSearching = query.trim().length > 0;
 

@@ -1,5 +1,485 @@
 [
   {
+    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
+    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-18T04:02:11.101Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹0"
+      },
+      {
+        "type": "context",
+        "text": "₹2L"
+      },
+      {
+        "type": "removed",
+        "text": "Monthly spends on Insurance, Fuel, Utilities, Rent & Wallets?"
+      },
+      {
+        "type": "added",
+        "text": "Monthly spends on Insurance, Fuel, Utility, Rent, Wallet, Government, Education, Railways, Tolls & Transit"
+      },
+      {
+        "type": "context",
+        "text": "Earn 0.5 IndiGo BluChips per ₹100*"
+      },
+      {
+        "type": "context",
+        "text": "p.m"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "8 **"
+      },
+      {
+        "type": "context",
+        "text": "Approx. No of free flights earned annually"
+      },
+      {
+        "type": "removed",
+        "text": "Redeem your IndiGo BluChips"
+      },
+      {
+        "type": "removed",
+        "text": "Unlock flight bookings using your IndiGo BluChips – all seamlessly on Indigo Website or on the IndiGo App"
+      },
+      {
+        "type": "removed",
+        "text": "Instant flights, domestic or international!"
+      },
+      {
+        "type": "removed",
+        "text": "No blackout date restrictions for redemption"
+      },
+      {
+        "type": "removed",
+        "text": "Flexible part payment – book tickets using a mix of card & IndiGo BluChips"
+      },
+      {
+        "type": "removed",
+        "text": "How To Redeem"
+      },
+      {
+        "type": "removed",
+        "text": "Don’t have a IndiGo BluChip membership yet? Register here before applying for the card to link your rewards"
+      },
+      {
+        "type": "removed",
+        "text": "seamlessly."
+      },
+      {
+        "type": "context",
+        "text": "Two Cards. One Rewards Pool."
+      },
+      {
+        "type": "context",
+        "text": "Limitless Ways to Earn"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "(2nd year onwards)"
+      },
+      {
+        "type": "context",
+        "text": "For more details refer MITC"
+      },
+      {
+        "type": "added",
+        "text": "Redeem your IndiGo BluChips"
+      },
+      {
+        "type": "added",
+        "text": "Unlock flight bookings using your IndiGo BluChips – all seamlessly on Indigo Website or on the IndiGo App"
+      },
+      {
+        "type": "added",
+        "text": "Instant flights, domestic or international!"
+      },
+      {
+        "type": "added",
+        "text": "No blackout date restrictions for redemption"
+      },
+      {
+        "type": "added",
+        "text": "Flexible part payment – book tickets using a mix of card & IndiGo BluChips"
+      },
+      {
+        "type": "added",
+        "text": "How To Redeem"
+      },
+      {
+        "type": "added",
+        "text": "Don’t have a IndiGo BluChip membership yet? Register here before applying for the card to link your rewards"
+      },
+      {
+        "type": "added",
+        "text": "seamlessly."
+      },
+      {
+        "type": "context",
+        "text": "Steps to Apply for IndiGo IDFC FIRST Dual Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "5 mins to apply"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added and expanded IndiGo BluChips flight booking and redemption benefits for the IndiGo IDFC FIRST Dual Credit Card."
+  },
+  {
+    "id": "icici-bank-emirates-emeralde-credit-card",
+    "cardName": "Emirates Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-18T04:01:48.348Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "context",
+        "text": "High-end flying perks"
+      },
+      {
+        "type": "removed",
+        "text": "Upgrade to Skywards Gold Tier Membership"
+      },
+      {
+        "type": "context",
+        "text": "Earn 10,000 Skywards miles"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Skywards silver tier membership"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Skywards Silver Tier Membership"
+      },
+      {
+        "type": "added",
+        "text": "Upgrade to Skywards Gold Tier Membership"
+      },
+      {
+        "type": "context",
+        "text": "Save up to 10% on Emirates flights"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited access to airport lounges"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Extend benefits to your loved ones"
+      },
+      {
+        "type": "context",
+        "text": "Emirates Skywards ICICI Bank Emeralde Credit Card FAQs"
+      },
+      {
+        "type": "removed",
+        "text": "How can I qualify for Emirates Skywards Gold Tier membership using the ICICI Bank Emirates Emeralde Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "How can I qualify for Emirates Skywards Gold Tier membership using the ICICI Bank Emirates Emeralde Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "To qualify for an upgrade to Skywards Gold Tier, the Emirates Emeralde Credit Cardholder must:"
+      },
+      {
+        "type": "context",
+        "text": "Spend a total of ₹15 lakhs within an anniversary year."
+      },
+      {
+        "type": "context",
+        "text": "Out of this, at least ₹50,000 must be spent on Emirates bookings."
+      },
+      {
+        "type": "context",
+        "text": "Even if these criteria are met early, the upgrade happens only after 12 months from the card issuance date and upon payment of the annual fee for the following year."
+      },
+      {
+        "type": "removed",
+        "text": "Do supplementary cardholders earn Skywards Miles?"
+      },
+      {
+        "type": "added",
+        "text": "Do Plus (Add-On) cardholders earn Skywards Miles?"
+      },
+      {
+        "type": "context",
+        "text": "Yes. Any eligible spend made by supplementary cardholders of Emirates Emeralde Credit Card will earn Skywards Miles, which will be credited to the primary cardholder’s Emirates Skywards account. The rate of earning remains the same as for primary cardholders."
+      },
+      {
+        "type": "removed",
+        "text": "How to avail complimentary international airport lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy unlimited complimentary access to international airport lounges with ICICI Bank Emirates Emerald Credit Card. Complimentary benefits are applicable only for the primary cardholder."
+      },
+      {
+        "type": "removed",
+        "text": "For an ICICI Bank Emirates Emeralde Credit Card customer who has applied for the card on or after 15 November 2024."
+      },
+      {
+        "type": "removed",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emirates Emeralde Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Access 1,400+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "removed",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      },
+      {
+        "type": "removed",
+        "text": "For the complete list of international airport lounges, visit https://www.prioritypass.com/airport-lounges"
+      },
+      {
+        "type": "removed",
+        "text": "For an ICICI Bank Emirates Emeralde Credit Card customer who has applied for the card before 15 November 2024."
+      },
+      {
+        "type": "removed",
+        "text": "DreamFolks Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Access 650+ lounges in 100+ countries."
+      },
+      {
+        "type": "removed",
+        "text": "Present your DreamFolks Membership Card at the participating international lounges."
+      },
+      {
+        "type": "removed",
+        "text": "Click here for the complete list of international airport lounges."
+      },
+      {
+        "type": "context",
+        "text": "How can I avail discount on Emirates flight bookings using my ICICI Bank Emirates Emeralde Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "To avail upto 10% discount on Emirates flight bookings, please follow the below steps"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Enter promo code “INICI26” before searching for flights."
+      },
+      {
+        "type": "context",
+        "text": "Complete your booking using your Emirates Skywards ICICI Bank Emeralde Credit Card at the time of payment."
+      },
+      {
+        "type": "added",
+        "text": "How to avail complimentary international airport lounge access?"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy unlimited complimentary access to international airport lounges with ICICI Bank Emirates Emerald Credit Card. Complimentary benefits are applicable only for the primary cardholder."
+      },
+      {
+        "type": "added",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emirates Emeralde Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Access 1,900+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "added",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      },
+      {
+        "type": "added",
+        "text": "For the complete list of international airport lounges, visit https://www.prioritypass.com/airport-lounges"
+      },
+      {
+        "type": "added",
+        "text": "What are the criteria for availing domestic airport lounge access?"
+      },
+      {
+        "type": "added",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Emirates Emeralde Credit Card in a spends quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "added",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "context",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "context",
+        "text": "Spends period offer - eligibility period"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
+      },
+      {
+        "type": "context",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "removed",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "added",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "context",
+        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
+      },
+      {
+        "type": "context",
+        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added updated lounge access details, including new Priority Pass lounge count, domestic lounge criteria, and clarified primary cardholder benefits."
+  },
+  {
+    "id": "equitas-sfb-powermiles-credit-card",
+    "cardName": "Powermiles Credit Card",
+    "issuerName": "Equitas Small Finance Bank",
+    "issuerSlug": "equitas-sfb",
+    "officialUrl": "https://equitas.bank.in/",
+    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-08-18T04:00:15.197Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Xchange Program: Redeem your reward points against Products/ Vouchers/ Flight Booking and more. https://xchange.equitas.bank.in/. A video guide for claiming PowerMiles Credit Card membership Xchange Rewards"
+      },
+      {
+        "type": "context",
+        "text": "The Memberships offered for PowerMiles Credit Card customer will be available once the card is activated by the customer. These memberships should be claimed within 90 days from the card issuance date. Please note that the membership details will be made available for claim on T+1 date from the card activation date. Customers can visit xchange.equitas.bank.in to claim their membership vouchers. If Membership benefits (complimentary offer) is not claimed before the said timeline, then such benefits will get expired and cannot be renewed. Please refer T&C for more information."
+      },
+      {
+        "type": "removed",
+        "text": "Equitas Bank Credit Card Customers are requested to check with their preferred brand’s policy on accepting single/multiple vouchers against a single invoice and accordingly decide to redeem their reward points from Xchange Rewards Portal. Bank will not be responsible for any rejects from the brand on not allowing to use multiple vouchers under a single purchase/invoice, as that will purely be the brand’s decision only."
+      },
+      {
+        "type": "context",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Manage your Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated policy on using single/multiple vouchers per invoice for reward point redemption."
+  },
+  {
+    "id": "axis-bank-kwik-axis-bank-credit-card",
+    "cardName": "Kwik Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-kwik-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-18T03:59:10.900Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Rent Transaction fee (Applicable from 20th Dec, 2024)"
+      },
+      {
+        "type": "context",
+        "text": "1% fee per transaction will be applicable on rental transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023)"
+      },
+      {
+        "type": "removed",
+        "text": "1.5% will be applicable on international transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup"
+      },
+      {
+        "type": "added",
+        "text": "3.5% will be applicable on international transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation"
+      },
+      {
+        "type": "context",
+        "text": "Wallet load transaction fee"
+      },
+      {
+        "type": "context",
+        "text": "(Applicable from 20th Dec, 2024)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Dynamic Currency Conversion markup increased from 1.5% to 3.5% for international transactions."
+  },
+  {
     "id": "rbl-bank-world-prime-credit-card",
     "cardName": "World Prime Credit Card",
     "issuerName": "RBL Bank",
@@ -2080,127 +2560,6 @@
     "summary": "Updated lounge access criteria, movie offer eligibility, and fee details for MakeMyTrip ICICI Bank Credit Card."
   },
   {
-    "id": "icici-bank-emirates-emeralde-credit-card",
-    "cardName": "Emirates Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-15T04:00:38.303Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Enter promo code “INICI26” before searching for flights."
-      },
-      {
-        "type": "context",
-        "text": "Complete your booking using your Emirates Skywards ICICI Bank Emeralde Credit Card at the time of payment."
-      },
-      {
-        "type": "removed",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "removed",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "removed",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "removed",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "removed",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "removed",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "removed",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "When will the Skywards Miles be reflected in my Emirates account?"
-      },
-      {
-        "type": "context",
-        "text": "The Skywards Miles of your Emirates Emeralde Credit Card are credited to the registered Emirates Skywards account within 48 hours of the credit card statement generation date. The cardholder’s account must remain active and not delinquent during this period."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Can Skywards Miles be redeemed by someone else?"
-      },
-      {
-        "type": "context",
-        "text": "Skywards Miles can be redeemed only by the primary cardholder of the Emirates Emeralde Credit Card or their authorized travel coordinator. In the case of minors, a parent or guardian may redeem rewards on their behalf, subject to availability and Emirates Skywards terms."
-      },
-      {
-        "type": "removed",
-        "text": "View all FAQs"
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle-free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
-      },
-      {
-        "type": "context",
-        "text": "Soumy Dhawan"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Cashback offers on the Amex variant revoked effective 01 Jan 2025."
-  },
-  {
     "id": "icici-bank-emirates-sapphiro-credit-card",
     "cardName": "Emirates Sapphiro Credit Card",
     "issuerName": "ICICI Bank",
@@ -2982,79 +3341,6 @@
       "youtube": null
     },
     "summary": "Air Miles redemption rates, partner conversion ratios, and excluded MCC list were updated for Kotak Solitaire Credit Card."
-  },
-  {
-    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
-    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-14T05:08:31.136Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Regardless of how you apply, whether by paying a joining fee or with a Fixed Deposit (FD), You will receive two physical cards — Mastercard and RuPay in one kit. All transactions will reflect in a single statement. Your credit limit will be shared between both cards, and all spending on both cards will contribute towards your IndiGo BluChip earnings, activation, and milestone benefits"
-      },
-      {
-        "type": "context",
-        "text": "Read less"
-      },
-      {
-        "type": "removed",
-        "text": "Key Benefits of IndiGo IDFC FIRST Dual Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
-      },
-      {
-        "type": "context",
-        "text": "on spends of ₹15K in the first 30 days of card generation."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Min ₹50k FD"
-      },
-      {
-        "type": "context",
-        "text": "Joining fee payment benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Voucher of 5000 IndiGo BluChips* a complimentary meal voucher"
-      },
-      {
-        "type": "removed",
-        "text": "*The value of IndiGo BluChip could vary depending upon the flight source and destination, day of flight booking etc at the discretion of IndiGo."
-      },
-      {
-        "type": "added",
-        "text": "Voucher of 5000 IndiGo BluChips* + a complimentary meal voucher​"
-      },
-      {
-        "type": "added",
-        "text": "*The value of IndiGo BluChip could vary depending upon the flight source and destination, day of flight booking, etc. at the discretion of IndiGo."
-      },
-      {
-        "type": "context",
-        "text": "-"
-      },
-      {
-        "type": "context",
-        "text": "(Mastercard & RuPay)"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Updated voucher wording to include a comma and added a space before the complimentary meal voucher."
   },
   {
     "id": "hdfc-bank-flipkart-wholesale-credit-card",
@@ -5134,827 +5420,6 @@
       "youtube": null
     },
     "summary": "Fees, rewards, and interest terms were updated, including lower annual fee, new reward point structure, and revised onboarding interest rate."
-  },
-  {
-    "id": "equitas-sfb-powermiles-credit-card",
-    "cardName": "Powermiles Credit Card",
-    "issuerName": "Equitas Small Finance Bank",
-    "issuerSlug": "equitas-sfb",
-    "officialUrl": "https://equitas.bank.in/",
-    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-07-17T05:55:39.110Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Card Activation Most Important Terms & Conditions Card Member Agreement Key Fact Statement Payment options Complimentary Insurance Policy PowerMiles T&C Credit Cards Closure Concierge Services Privilege Program List of Domestic Lounges List of International Lounges Fair Practice Credit Card Operations Data Privacy Policy"
-      },
-      {
-        "type": "context",
-        "text": "FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "What are the main credit card types? -"
-      },
-      {
-        "type": "removed",
-        "text": "Power Miles Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Category: Travel Card"
-      },
-      {
-        "type": "removed",
-        "text": "Best for: Frequent flyers and travel enthusiasts"
-      },
-      {
-        "type": "removed",
-        "text": "Key Highlights:"
-      },
-      {
-        "type": "removed",
-        "text": "• Get a premium metal card"
-      },
-      {
-        "type": "removed",
-        "text": "• Enjoy luxury memberships with Club Marriott and EazyDiner."
-      },
-      {
-        "type": "removed",
-        "text": "• Get 3X rewards on International Spends"
-      },
-      {
-        "type": "removed",
-        "text": "• Complimentary Airport Lounge Access at select domestic lounges (2 per calendar quarter) and International lounge (1 per calendar quarter)"
-      },
-      {
-        "type": "removed",
-        "text": "• Accelerated Rewards on travel-related spends — flights, hotels, and more."
-      },
-      {
-        "type": "removed",
-        "text": "• Annual Fee: First Year Free (conditions apply)."
-      },
-      {
-        "type": "removed",
-        "text": "• Insurance Benefits: Complimentary travel accident and lost card liability cover."
-      },
-      {
-        "type": "removed",
-        "text": "• Xchange brands: 1:1 exchange on Apple imagine, Tanishq, Taj, M&S, The Body Shop."
-      },
-      {
-        "type": "removed",
-        "text": "• 3RPs for every Rs 100 spent."
-      },
-      {
-        "type": "removed",
-        "text": "Ideal For:"
-      },
-      {
-        "type": "removed",
-        "text": "Customers who travel frequently and want to accumulate travel points for flight tickets and enjoy airport lounge perks."
-      },
-      {
-        "type": "removed",
-        "text": "Features:"
-      },
-      {
-        "type": "removed",
-        "text": "Focus: PowerMiles - Travel Rewards & Lounge Access"
-      },
-      {
-        "type": "removed",
-        "text": "Reward Type: PowerMiles - Accelerated on Travel"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: Powermiles - 1st Year Free"
-      },
-      {
-        "type": "removed",
-        "text": "Ideal For: Powermiles - Frequent Travelers"
-      },
-      {
-        "type": "removed",
-        "text": "How can I redeem Credit Card points for rewards? +"
-      },
-      {
-        "type": "removed",
-        "text": "Equitas uses a rewards portal called Xchange (xchange.equitas.bank.in) for redeeming reward points."
-      },
-      {
-        "type": "removed",
-        "text": "You can redeem for products, vouchers, flight / hotel booking, etc. The card’s Terms & Conditions / MITC specifies the catalogue, valuation, and conditions for redemption."
-      },
-      {
-        "type": "removed",
-        "text": "The exact value per point / the minimum points required / where you can redeem depends on which card you have and which redemption option (product, voucher, travel) you select."
-      },
-      {
-        "type": "removed",
-        "text": "How do I apply for a Credit Card online? +"
-      },
-      {
-        "type": "removed",
-        "text": "Visit the Equitas Bank Website’s Credit Cards section."
-      },
-      {
-        "type": "removed",
-        "text": "Choose the variant (TIGA, SELFE or PowerMiles) and click “Apply Now.” Or by giving missed call 1800 103 2977"
-      },
-      {
-        "type": "removed",
-        "text": "You will be asked to provide KYC, identity, address, income proofs, etc., to complete an online / offline application form. (Standard card application flow implied)"
-      },
-      {
-        "type": "removed",
-        "text": "The bank will verify your eligibility and documents and, if approved, dispatch the card. (You may also need to activate it with first transaction or PIN setup)"
-      },
-      {
-        "type": "removed",
-        "text": "The application flow and decisioning may be instantaneous or take some time depending on internal checks."
-      },
-      {
-        "type": "removed",
-        "text": "What are the advantages of using Equitas Credit Cards? +"
-      },
-      {
-        "type": "removed",
-        "text": "Here are the main benefits per card, plus general advantages:"
-      },
-      {
-        "type": "removed",
-        "text": "PowerMiles Card Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "• Premium metal card, luxury memberships (Club Marriott, EazyDiner) included"
-      },
-      {
-        "type": "removed",
-        "text": "• Lounge access (domestic + international) depending on card rules"
-      },
-      {
-        "type": "removed",
-        "text": "• 3× rewards on international spends, plus ability to convert points to airline / hotel miles"
-      },
-      {
-        "type": "removed",
-        "text": "• Fuel surcharge waiver, detection and Xchange program redemption options."
-      },
-      {
-        "type": "removed",
-        "text": "General Advantages"
-      },
-      {
-        "type": "removed",
-        "text": "• Flexibility of interest-free credit period (if you pay full within due date)"
-      },
-      {
-        "type": "removed",
-        "text": "• Rewards / points for your everyday spending"
-      },
-      {
-        "type": "removed",
-        "text": "• Perks like fuel surcharge waiver, insurance, lounge access (for premium)"
-      },
-      {
-        "type": "removed",
-        "text": "• Ability to convert large purchases into EMIs (for TIGA)"
-      },
-      {
-        "type": "removed",
-        "text": "• Multiple redemption options via Equitas’s rewards portal"
-      },
-      {
-        "type": "removed",
-        "text": "Are there any charges for redemption of reward points? +"
-      },
-      {
-        "type": "removed",
-        "text": "Yes, the Equitas “Most Important Terms & Conditions (MITC)” document lists several fees, and redemption governed by reward programme rules."
-      },
-      {
-        "type": "removed",
-        "text": "Key points:"
-      },
-      {
-        "type": "removed",
-        "text": "• Joining / Annual Fees"
-      },
-      {
-        "type": "removed",
-        "text": "• TIGA: ₹500 (joining) + ₹500 (annual)"
-      },
-      {
-        "type": "removed",
-        "text": "• SELFE: ₹1,000 joining + ₹1,000 annual"
-      },
-      {
-        "type": "removed",
-        "text": "• PowerMiles: ₹5,000 joining + ₹5,000 annual"
-      },
-      {
-        "type": "removed",
-        "text": "• Cash Advance / ATM Withdrawal Charges"
-      },
-      {
-        "type": "removed",
-        "text": "2.5% of the amount withdrawn (or ₹250, whichever is higher). Also, finance charges apply from day of withdrawal till full repayment."
-      },
-      {
-        "type": "removed",
-        "text": "• Other Charges / Fees"
-      },
-      {
-        "type": "removed",
-        "text": "• The bank may levy other charges (late payment, over limit, return of payment, etc.) as per the Schedule of Charges in the Card Agreement / MITC."
-      },
-      {
-        "type": "removed",
-        "text": "•  Redemption handling / administrative charges (if any) would be specified in the rewards programme terms (the MITC / catalogue) — it is possible that some redemptions may carry a small fee or conversion cost. (I didn’t find a publicly explicit “redemption fee” in the MITC I reviewed, so you will need to check the latest catalogue or rewards terms)"
-      },
-      {
-        "type": "removed",
-        "text": "• Waiver of Annual Fee"
-      },
-      {
-        "type": "removed",
-        "text": "• TIGA: The annual fee may be waived if you spend a certain threshold in the anniversary year (as per terms)"
-      },
-      {
-        "type": "removed",
-        "text": "• SELFE: Similarly, waiver if you cross a spending threshold (e.g., ₹2,00,000) in the year."
-      },
-      {
-        "type": "removed",
-        "text": "• PowerMiles: Waiver available if you spend a defined amount (e.g. ₹4,80,000) in the anniversary year."
-      },
-      {
-        "type": "removed",
-        "text": "So yes — while redemption may not always incur a direct separate fee (depending on the option), there are various fees built into the cards’ terms, and you must see the “Schedule of Charges / rewards programme” for your card variant."
-      },
-      {
-        "type": "removed",
-        "text": "How to register complaints related to my credit card? +"
-      },
-      {
-        "type": "removed",
-        "text": "Register a complaint through the following ways:-"
-      },
-      {
-        "type": "removed",
-        "text": "Selfe loan app"
-      },
-      {
-        "type": "removed",
-        "text": "Customer care helpline number: 18001032977"
-      },
-      {
-        "type": "removed",
-        "text": "Write to customerservice@equitas.bank.in from your registered mail id"
-      },
-      {
-        "type": "removed",
-        "text": "You can also lodge a complaint at RBI’s Sachet Portal"
-      },
-      {
-        "type": "added",
-        "text": "Membership Redemption -"
-      },
-      {
-        "type": "added",
-        "text": "What memberships do I get with the PowerMiles Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "As a PowerMiles Credit Card holder, you are eligible to receive Club Marriott and EazyDiner memberships, which offer dining and lifestyle benefits through partner brands."
-      },
-      {
-        "type": "added",
-        "text": "Are these memberships free?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, both memberships are provided completely free of cost on an annual basis, subject to meeting the eligibility criteria and adhering to the applicable terms and conditions."
-      },
-      {
-        "type": "added",
-        "text": "When will I become eligible for these memberships?"
-      },
-      {
-        "type": "added",
-        "text": "You will become eligible for the memberships once you activate your credit card within the specified timeline, as activation is required to unlock these benefits."
-      },
-      {
-        "type": "added",
-        "text": "When will my membership be available to claim?"
-      },
-      {
-        "type": "added",
-        "text": "Your membership details will be made available for claim within 3 working days (T+3) after your card is successfully activated."
-      },
-      {
-        "type": "added",
-        "text": "Where do I claim my membership?"
-      },
-      {
-        "type": "added",
-        "text": "You can conveniently claim your membership by visiting the Xchange portal at xchange.equitas.bank.in and logging in with your registered credentials."
-      },
-      {
-        "type": "added",
-        "text": "What is the last date to claim the membership?"
-      },
-      {
-        "type": "added",
-        "text": "You must ensure that you claim your membership within 90 days from the date of your card issuance, as this is the defined validity period."
-      },
-      {
-        "type": "added",
-        "text": "Benefits +"
-      },
-      {
-        "type": "added",
-        "text": "Why have these default options been assigned to my card?"
-      },
-      {
-        "type": "added",
-        "text": "These default options are assigned as per bank policy when no customer preferences are selected during the application journey, to ensure seamless card issuance and benefit allocation."
-      },
-      {
-        "type": "added",
-        "text": "Was this information shared during the application process?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, the details regarding default selections are clearly mentioned in the application form, and customers are expected to review and select their preferences before submission."
-      },
-      {
-        "type": "added",
-        "text": "Can I change the default options after the card is issued?"
-      },
-      {
-        "type": "added",
-        "text": "Once the card has been issued with default options, changes may not be allowed as selections are captured during the application. Customers may contact support for further guidance as per policy."
-      },
-      {
-        "type": "added",
-        "text": "Can I raise a complaint if I did not select preferences?"
-      },
-      {
-        "type": "added",
-        "text": "As per policy, default options are automatically assigned when no selections are made and this is informed during the application process, hence such cases are generally not treated as service issues."
-      },
-      {
-        "type": "added",
-        "text": "What should I do to avoid default selections in the future?"
-      },
-      {
-        "type": "added",
-        "text": "To avoid default assignment, customers should carefully review all available options and make their preferred selections during the application process before submitting the form."
-      },
-      {
-        "type": "added",
-        "text": "Billing Cycle +"
-      },
-      {
-        "type": "added",
-        "text": "Can I change my billing cycle for my credit card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, you have the option to change your billing cycle for your credit card, allowing you to better align your billing and payment due dates with your financial planning needs."
-      },
-      {
-        "type": "added",
-        "text": "How many times can I change my billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "You can request a billing cycle change only once per credit card, so it is important to carefully choose the most suitable option before confirming your request."
-      },
-      {
-        "type": "added",
-        "text": "How can I request a billing cycle change?"
-      },
-      {
-        "type": "added",
-        "text": "You can request a billing cycle change through the Mobile Banking (MB) App or by contacting the Customer Care Centre (CCC), making the process simple and convenient."
-      },
-      {
-        "type": "added",
-        "text": "What billing cycle dates are available for selection?"
-      },
-      {
-        "type": "added",
-        "text": "You can choose from the available billing cycle dates which include the 5th, 12th, 13th, 14th, 15th, 16th, 18th, 20th, and 25th of the month."
-      },
-      {
-        "type": "added",
-        "text": "Can I select a billing cycle date outside the available options?"
-      },
-      {
-        "type": "added",
-        "text": "No, you can only select from the predefined billing cycle dates provided by the bank, and requests for any other dates will not be accepted."
-      },
-      {
-        "type": "added",
-        "text": "When will the new billing cycle be applied?"
-      },
-      {
-        "type": "added",
-        "text": "The revised billing cycle will typically be implemented in the next billing period after your request is processed, depending on system timelines."
-      },
-      {
-        "type": "added",
-        "text": "Can I change my billing cycle again later?"
-      },
-      {
-        "type": "added",
-        "text": "No, as per policy, only one billing cycle change is allowed per credit card, and further changes will not be permitted once it has been updated."
-      },
-      {
-        "type": "added",
-        "text": "Will my payment due date change if I update my billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, your payment due date will change accordingly since it is directly linked to your selected billing cycle."
-      },
-      {
-        "type": "added",
-        "text": "Is there any fee for changing the billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "Currently, there is no specific fee mentioned for changing the billing cycle, but customers are advised to check the latest terms and conditions or confirm during the request."
-      },
-      {
-        "type": "added",
-        "text": "What factors should I consider before changing my billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "You should consider your salary credit date, repayment capacity, and existing financial commitments before selecting a new billing cycle, to ensure it aligns with your repayment convenience."
-      },
-      {
-        "type": "added",
-        "text": "MCC Codes +"
-      },
-      {
-        "type": "added",
-        "text": "How are reward points calculated for my transactions?"
-      },
-      {
-        "type": "added",
-        "text": "Reward points, including accelerated rewards, are calculated based on the Merchant Category Code (MCC) assigned to the merchant where the transaction is made, which determines the applicable reward category."
-      },
-      {
-        "type": "added",
-        "text": "What is a Merchant Category Code (MCC)?"
-      },
-      {
-        "type": "added",
-        "text": "An MCC is a four-digit code assigned to merchants based on their primary business activity, which helps the bank classify transactions and determine rewards eligibility."
-      },
-      {
-        "type": "added",
-        "text": "Why is MCC important for earning rewards?"
-      },
-      {
-        "type": "added",
-        "text": "The MCC helps determine whether your transaction qualifies for accelerated rewards, as reward categories are mapped to specific MCC codes defined by the bank."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Dining category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be classified under Dining if the merchant falls under MCCs 5462, 5812, or 5814, as defined by the bank for reward eligibility."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Apparel category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be considered under Apparel if they fall under MCCs 5311, 5611, 5621, 5641, 5651, 5691, 5655, 5631, or 5699."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Grocery category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be categorized as Grocery if they fall under MCCs 5399, 5411, 5441, 5499, 5311, 5331, 5422, or 5451 as per the defined criteria."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Utility category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be considered under Utility if the merchant falls under MCCs 4814 or 4900."
-      },
-      {
-        "type": "added",
-        "text": "Which MCC is applicable for Taxi category?"
-      },
-      {
-        "type": "added",
-        "text": "Taxi-related transactions will be classified under MCC 4121 for rewards eligibility."
-      },
-      {
-        "type": "added",
-        "text": "Will all transactions in a category always earn accelerated rewards?"
-      },
-      {
-        "type": "added",
-        "text": "Not necessarily, as rewards are based on the MCC assigned to the merchant and not solely on the type of product or service purchased."
-      },
-      {
-        "type": "added",
-        "text": "What if a transaction is classified under a different MCC?"
-      },
-      {
-        "type": "added",
-        "text": "If a transaction is tagged under a different MCC by the merchant’s acquiring bank, it may not qualify for accelerated rewards even if it appears to belong to a selected category."
-      },
-      {
-        "type": "added",
-        "text": "Can the bank change the MCC of a transaction?"
-      },
-      {
-        "type": "added",
-        "text": "No, the MCC is assigned by the merchant’s acquiring bank or payment network and cannot be modified by the card-issuing bank."
-      },
-      {
-        "type": "added",
-        "text": "What happens if a transaction does not match selected categories?"
-      },
-      {
-        "type": "added",
-        "text": "If a transaction does not fall under the selected categories based on MCC mapping, it will still earn base reward points but not accelerated rewards."
-      },
-      {
-        "type": "added",
-        "text": "Spend Waiver +"
-      },
-      {
-        "type": "added",
-        "text": "Is there a joining fee for the credit card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, a joining fee will be charged to the cardholder at the time of card issuance; however, this fee is eligible for reversal if the required spend condition is fulfilled within the specified timeline."
-      },
-      {
-        "type": "added",
-        "text": "How can I get my joining fee reversed for Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "The joining fee will be reversed if you spend ₹1,20,000 within 90 days from the date of card activation, as per the defined eligibility criteria."
-      },
-      {
-        "type": "added",
-        "text": "How will the joining fee be reversed?"
-      },
-      {
-        "type": "added",
-        "text": "The joining fee will be reversed in the form of cashback in the subsequent billing cycle after meeting the spend criteria, excluding applicable GST charges."
-      },
-      {
-        "type": "added",
-        "text": "Will GST on the joining fee also be reversed?"
-      },
-      {
-        "type": "added",
-        "text": "No, GST applicable on the joining fee will not be reversed and will have to be borne by the cardholder as per government regulations."
-      },
-      {
-        "type": "added",
-        "text": "What is the annual fee waiver condition for Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "The annual fee will be waived if you achieve a total spend of ₹4,80,000 in the preceding anniversary year of your credit card."
-      },
-      {
-        "type": "added",
-        "text": "When will the annual fee waiver be applied?"
-      },
-      {
-        "type": "added",
-        "text": "The annual fee waiver will be evaluated based on your spending in the previous card anniversary year and will be applied accordingly in the subsequent cycle."
-      },
-      {
-        "type": "added",
-        "text": "Will GST be reversed in case of annual fee waiver?"
-      },
-      {
-        "type": "added",
-        "text": "No, even if the annual fee is waived or reversed, the GST component will not be reversed and will continue to be payable by the cardholder."
-      },
-      {
-        "type": "added",
-        "text": "What happens if I do not meet the spend criteria for fee reversal?"
-      },
-      {
-        "type": "added",
-        "text": "If the required spend criteria is not met within the given timeframe, the joining or annual fee will not be reversed and will be charged as applicable."
-      },
-      {
-        "type": "added",
-        "text": "What is the annual fee waiver condition for Selfe credit card?"
-      },
-      {
-        "type": "added",
-        "text": "The annual fee for the credit card will be waived if the customer achieves a total spend of ₹2,40,000 in the preceding anniversary year of the card."
-      },
-      {
-        "type": "added",
-        "text": "What does &#x27;preceding anniversary year&#x27; mean?"
-      },
-      {
-        "type": "added",
-        "text": "The preceding anniversary year refers to the 12-month period immediately before your card renewal date, during which your total spends are evaluated for waiver eligibility."
-      },
-      {
-        "type": "added",
-        "text": "What happens if I do not reach ₹2,40,000 spend?"
-      },
-      {
-        "type": "added",
-        "text": "If your total eligible spends do not reach ₹2,40,000 in the preceding year, the annual fee will be charged as applicable and will not be waived."
-      },
-      {
-        "type": "added",
-        "text": "Do all transactions count towards the annual fee waiver spend?"
-      },
-      {
-        "type": "added",
-        "text": "Only eligible transactions as defined by the bank will be considered for calculating the total spend required for the annual fee waiver."
-      },
-      {
-        "type": "added",
-        "text": "Insurance +"
-      },
-      {
-        "type": "added",
-        "text": "What insurance benefit is available on my credit card?"
-      },
-      {
-        "type": "added",
-        "text": "Your credit card offers a Lost Card Liability cover of up to ₹10 lakhs(varies basis credit card ), protecting you against unauthorized transactions in case your card is lost or stolen, subject to policy terms."
-      },
-      {
-        "type": "added",
-        "text": "Who is eligible for this insurance coverage?"
-      },
-      {
-        "type": "added",
-        "text": "This insurance benefit is applicable only to the primary cardholder and is not available for add-on or supplementary cardholders."
-      },
-      {
-        "type": "added",
-        "text": "What is covered under the Lost Card Liability policy?"
-      },
-      {
-        "type": "added",
-        "text": "The policy covers unauthorized transactions made using your lost or stolen card, up to the specified coverage limit, as per the policy terms and conditions."
-      },
-      {
-        "type": "added",
-        "text": "When does the insurance coverage become active?"
-      },
-      {
-        "type": "added",
-        "text": "The insurance coverage becomes active only after you complete either your first card transaction, PIN setup, or card activation."
-      },
-      {
-        "type": "added",
-        "text": "Will I be covered if I have not activated or used my card?"
-      },
-      {
-        "type": "added",
-        "text": "No, the insurance benefit will not be active until the card is activated, PIN is set, or the first transaction is completed."
-      },
-      {
-        "type": "added",
-        "text": "Is there a maximum coverage limit under this policy?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, the Lost Card Liability coverage is available up to a maximum of ₹10,00,000 as per the policy terms."
-      },
-      {
-        "type": "added",
-        "text": "Where can I check the detailed policy terms and conditions?"
-      },
-      {
-        "type": "added",
-        "text": "You can refer to the policy document provided by the bank at https://equitas.bank.in/complimentary-insurance-policy/ to understand detailed coverage, exclusions, and claim process."
-      },
-      {
-        "type": "added",
-        "text": "What should I do if my card is lost or stolen?"
-      },
-      {
-        "type": "added",
-        "text": "In case your card is lost or stolen, you should immediately block your card through the mobile banking app or contact customer care and follow the claim process as per the policy."
-      },
-      {
-        "type": "added",
-        "text": "Reward Redemption +"
-      },
-      {
-        "type": "added",
-        "text": "How can I redeem my reward points?"
-      },
-      {
-        "type": "added",
-        "text": "You can redeem your reward points for travel bookings, gift vouchers, catalogue purchases, cashback against your card statement, or instant redemption at partner merchants."
-      },
-      {
-        "type": "added",
-        "text": "What is the value of each reward point for a Selfe Card?"
-      },
-      {
-        "type": "added",
-        "text": "The value of each reward point varies by redemption type, with travel, vouchers, and catalogue redemptions valuing ₹0.35 per point, while cashback and instant redemption value ₹0.15 per point."
-      },
-      {
-        "type": "added",
-        "text": "Is the reward point value the same for all redemption options?"
-      },
-      {
-        "type": "added",
-        "text": "No, the reward point value differs depending on the redemption option selected, with higher value typically available for travel and vouchers."
-      },
-      {
-        "type": "added",
-        "text": "Is there a minimum number of points required for redemption?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, a minimum of 500 reward points is required for redeeming points as cashback against your card statement."
-      },
-      {
-        "type": "added",
-        "text": "Do reward points expire for Tiga and Selfe Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, reward points expire after 24 months from the date they are earned if they are not redeemed within this period."
-      },
-      {
-        "type": "added",
-        "text": "Do reward points expire for Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, reward points expire after 36 months from the date they are earned if they are not redeemed within this period."
-      },
-      {
-        "type": "added",
-        "text": "Is there any fee for redeeming reward points?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, a redemption fee of ₹99 per transaction will be charged whenever reward points are redeemed."
-      },
-      {
-        "type": "added",
-        "text": "Can redeemed reward points be reversed?"
-      },
-      {
-        "type": "added",
-        "text": "No, once reward points are redeemed, they cannot be reversed, cancelled, or reissued."
-      },
-      {
-        "type": "added",
-        "text": "Can I use reward points instantly while making a purchase?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, you can use reward points for instant redemption at select partner merchants during transactions."
-      },
-      {
-        "type": "ellipsis",
-        "text": "… diff truncated (46 more lines) …"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added detailed redemption, fee, and benefit information for PowerMiles Credit Card."
   },
   {
     "id": "equitas-sfb-selfe-credit-card",

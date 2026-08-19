@@ -1,5 +1,156 @@
 [
   {
+    "id": "icici-bank-emirates-emeralde-credit-card",
+    "cardName": "Emirates Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-19T04:05:01.652Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Complete your booking using your Emirates Skywards ICICI Bank Emeralde Credit Card at the time of payment."
+      },
+      {
+        "type": "context",
+        "text": "How to avail complimentary international airport lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy unlimited complimentary access to international airport lounges with ICICI Bank Emirates Emerald Credit Card. Complimentary benefits are applicable only for the primary cardholder."
+      },
+      {
+        "type": "added",
+        "text": "Enjoy unlimited complimentary access to international airport lounges with ICICI Bank Emirates Emeralde Credit Card. Complimentary benefits are applicable only for the primary cardholder."
+      },
+      {
+        "type": "context",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "context",
+        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emirates Emeralde Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "For the complete list of international airport lounges, visit https://www.prioritypass.com/airport-lounges"
+      },
+      {
+        "type": "context",
+        "text": "What are the criteria for availing domestic airport lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Emirates Emeralde Credit Card in a spends quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "removed",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "added",
+        "text": "For lounge visits within India, Primary Cardholders can avail unlimited complimentary lounge access through ICICI Bank Emirates Emeralde Credit Card. Please swipe the ICICI Bank Emirates Emeralde Credit Card to avail the complimentary lounge access. To view the complete list of lounges, click here ."
+      },
+      {
+        "type": "context",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "context",
+        "text": "Spends period offer - eligibility period"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed lounge access wording and eligibility for the Emirates Emeralde Credit Card."
+  },
+  {
+    "id": "hsbc-india-hsbc-taj-credit-card",
+    "cardName": "HSBC Taj Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
+    "status": "Active",
+    "detectedAt": "2026-08-19T04:04:39.673Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get 33X Points at Dyson"
+      },
+      {
+        "type": "context",
+        "text": "Earn 50 Points per INR100 on direct Dyson purchases. T&Cs apply (PDF)"
+      },
+      {
+        "type": "added",
+        "text": "Save 20% at Amazon"
+      },
+      {
+        "type": "added",
+        "text": "Get 20% off, up to INR5,000, when you spend INR10,000 or more once every month. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "VISA Infinite Benefits"
+      },
+      {
+        "type": "context",
+        "text": "For all the VISA benefits, please refer to VISA website ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added Amazon savings: 20% off up to INR5,000 for INR10,000 spend monthly."
+  },
+  {
+    "id": "equitas-sfb-powermiles-credit-card",
+    "cardName": "Powermiles Credit Card",
+    "issuerName": "Equitas Small Finance Bank",
+    "issuerSlug": "equitas-sfb",
+    "officialUrl": "https://equitas.bank.in/",
+    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-08-19T04:02:47.976Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fuel Surcharge Waiver: Save more with a 1% waiver on fuel transactions across India (Up to Rs. 450 per statement cycle on transactions between Rs. 500 and Rs. 3,000)."
+      },
+      {
+        "type": "context",
+        "text": "Earn 3X rewards on international transactions. Earn 3RP on every Rs.100 spent. 1 RP= 0.50"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 1:1 burn rates on your accumulated Reward Points exclusively for these E Gift Card Vouchers of 5 Brands – Imagine Apple Premium | Tanishq Jewellery | Taj Hotels | Marks & Spencer | The Body Shop"
+      },
+      {
+        "type": "context",
+        "text": "Xchange Program: Redeem your reward points against Products/ Vouchers/ Flight Booking and more. https://xchange.equitas.bank.in/. A video guide for claiming PowerMiles Credit Card membership Xchange Rewards"
+      },
+      {
+        "type": "context",
+        "text": "The Memberships offered for PowerMiles Credit Card customer will be available once the card is activated by the customer. These memberships should be claimed within 90 days from the card issuance date. Please note that the membership details will be made available for claim on T+1 date from the card activation date. Customers can visit xchange.equitas.bank.in to claim their membership vouchers. If Membership benefits (complimentary offer) is not claimed before the said timeline, then such benefits will get expired and cannot be renewed. Please refer T&C for more information."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Enjoy 1:1 burn rates on accumulated Reward Points for E Gift Card Vouchers from five brands."
+  },
+  {
     "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
     "cardName": "IndiGo IDFC FIRST Dual Credit Card",
     "issuerName": "IDFC First Bank",
@@ -143,292 +294,6 @@
       "youtube": null
     },
     "summary": "Added and expanded IndiGo BluChips flight booking and redemption benefits for the IndiGo IDFC FIRST Dual Credit Card."
-  },
-  {
-    "id": "icici-bank-emirates-emeralde-credit-card",
-    "cardName": "Emirates Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-18T04:01:48.348Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "APPLY"
-      },
-      {
-        "type": "context",
-        "text": "High-end flying perks"
-      },
-      {
-        "type": "removed",
-        "text": "Upgrade to Skywards Gold Tier Membership"
-      },
-      {
-        "type": "context",
-        "text": "Earn 10,000 Skywards miles"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Skywards silver tier membership"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Skywards Silver Tier Membership"
-      },
-      {
-        "type": "added",
-        "text": "Upgrade to Skywards Gold Tier Membership"
-      },
-      {
-        "type": "context",
-        "text": "Save up to 10% on Emirates flights"
-      },
-      {
-        "type": "context",
-        "text": "Unlimited access to airport lounges"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Extend benefits to your loved ones"
-      },
-      {
-        "type": "context",
-        "text": "Emirates Skywards ICICI Bank Emeralde Credit Card FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "How can I qualify for Emirates Skywards Gold Tier membership using the ICICI Bank Emirates Emeralde Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "How can I qualify for Emirates Skywards Gold Tier membership using the ICICI Bank Emirates Emeralde Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To qualify for an upgrade to Skywards Gold Tier, the Emirates Emeralde Credit Cardholder must:"
-      },
-      {
-        "type": "context",
-        "text": "Spend a total of ₹15 lakhs within an anniversary year."
-      },
-      {
-        "type": "context",
-        "text": "Out of this, at least ₹50,000 must be spent on Emirates bookings."
-      },
-      {
-        "type": "context",
-        "text": "Even if these criteria are met early, the upgrade happens only after 12 months from the card issuance date and upon payment of the annual fee for the following year."
-      },
-      {
-        "type": "removed",
-        "text": "Do supplementary cardholders earn Skywards Miles?"
-      },
-      {
-        "type": "added",
-        "text": "Do Plus (Add-On) cardholders earn Skywards Miles?"
-      },
-      {
-        "type": "context",
-        "text": "Yes. Any eligible spend made by supplementary cardholders of Emirates Emeralde Credit Card will earn Skywards Miles, which will be credited to the primary cardholder’s Emirates Skywards account. The rate of earning remains the same as for primary cardholders."
-      },
-      {
-        "type": "removed",
-        "text": "How to avail complimentary international airport lounge access?"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy unlimited complimentary access to international airport lounges with ICICI Bank Emirates Emerald Credit Card. Complimentary benefits are applicable only for the primary cardholder."
-      },
-      {
-        "type": "removed",
-        "text": "For an ICICI Bank Emirates Emeralde Credit Card customer who has applied for the card on or after 15 November 2024."
-      },
-      {
-        "type": "removed",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emirates Emeralde Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Access 1,400+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "removed",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      },
-      {
-        "type": "removed",
-        "text": "For the complete list of international airport lounges, visit https://www.prioritypass.com/airport-lounges"
-      },
-      {
-        "type": "removed",
-        "text": "For an ICICI Bank Emirates Emeralde Credit Card customer who has applied for the card before 15 November 2024."
-      },
-      {
-        "type": "removed",
-        "text": "DreamFolks Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Access 650+ lounges in 100+ countries."
-      },
-      {
-        "type": "removed",
-        "text": "Present your DreamFolks Membership Card at the participating international lounges."
-      },
-      {
-        "type": "removed",
-        "text": "Click here for the complete list of international airport lounges."
-      },
-      {
-        "type": "context",
-        "text": "How can I avail discount on Emirates flight bookings using my ICICI Bank Emirates Emeralde Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To avail upto 10% discount on Emirates flight bookings, please follow the below steps"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enter promo code “INICI26” before searching for flights."
-      },
-      {
-        "type": "context",
-        "text": "Complete your booking using your Emirates Skywards ICICI Bank Emeralde Credit Card at the time of payment."
-      },
-      {
-        "type": "added",
-        "text": "How to avail complimentary international airport lounge access?"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy unlimited complimentary access to international airport lounges with ICICI Bank Emirates Emerald Credit Card. Complimentary benefits are applicable only for the primary cardholder."
-      },
-      {
-        "type": "added",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emirates Emeralde Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "added",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      },
-      {
-        "type": "added",
-        "text": "For the complete list of international airport lounges, visit https://www.prioritypass.com/airport-lounges"
-      },
-      {
-        "type": "added",
-        "text": "What are the criteria for availing domestic airport lounge access?"
-      },
-      {
-        "type": "added",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Emirates Emeralde Credit Card in a spends quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "added",
-        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "removed",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added updated lounge access details, including new Priority Pass lounge count, domestic lounge criteria, and clarified primary cardholder benefits."
-  },
-  {
-    "id": "equitas-sfb-powermiles-credit-card",
-    "cardName": "Powermiles Credit Card",
-    "issuerName": "Equitas Small Finance Bank",
-    "issuerSlug": "equitas-sfb",
-    "officialUrl": "https://equitas.bank.in/",
-    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-08-18T04:00:15.197Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Xchange Program: Redeem your reward points against Products/ Vouchers/ Flight Booking and more. https://xchange.equitas.bank.in/. A video guide for claiming PowerMiles Credit Card membership Xchange Rewards"
-      },
-      {
-        "type": "context",
-        "text": "The Memberships offered for PowerMiles Credit Card customer will be available once the card is activated by the customer. These memberships should be claimed within 90 days from the card issuance date. Please note that the membership details will be made available for claim on T+1 date from the card activation date. Customers can visit xchange.equitas.bank.in to claim their membership vouchers. If Membership benefits (complimentary offer) is not claimed before the said timeline, then such benefits will get expired and cannot be renewed. Please refer T&C for more information."
-      },
-      {
-        "type": "removed",
-        "text": "Equitas Bank Credit Card Customers are requested to check with their preferred brand’s policy on accepting single/multiple vouchers against a single invoice and accordingly decide to redeem their reward points from Xchange Rewards Portal. Bank will not be responsible for any rejects from the brand on not allowing to use multiple vouchers under a single purchase/invoice, as that will purely be the brand’s decision only."
-      },
-      {
-        "type": "context",
-        "text": "Fees & Charges"
-      },
-      {
-        "type": "context",
-        "text": "Manage your Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Updated policy on using single/multiple vouchers per invoice for reward point redemption."
   },
   {
     "id": "axis-bank-kwik-axis-bank-credit-card",

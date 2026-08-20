@@ -16,6 +16,41 @@ const PERMALINK_BASE = "https://arsachdeva595.github.io/card-launch-news/edition
 const REQUIRED_FIELDS = ["number", "date", "subject", "summary", "body_html", "items"];
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 
+// Canonical short-form issuer slugs, keyed by every long-form slug an
+// incoming payload might use (matching config/issuers.json's own "slug"
+// field). Values already in canonical form map to themselves, so any
+// issuer this table doesn't recognize passes through unchanged.
+const CANONICAL_ISSUER_SLUGS = {
+  "amex": "amex",
+  "au-sfb": "au-sfb",
+  "axis-bank": "axis",
+  "bank-of-baroda": "bob",
+  "bank-of-india": "boi",
+  "canara-bank": "canara",
+  "dbs-bank": "dbs",
+  "equitas-sfb": "equitas-sfb",
+  "federal-bank": "federal",
+  "hdfc-bank": "hdfc",
+  "hsbc-india": "hsbc",
+  "icici-bank": "icici",
+  "idbi-bank": "idbi",
+  "idfc-first-bank": "idfc-first",
+  "indusind-bank": "indusind",
+  "karur-vysya-bank": "kvb",
+  "kotak-mahindra-bank": "kotak",
+  "punjab-national-bank": "pnb",
+  "rbl-bank": "rbl",
+  "sbi-card": "sbi",
+  "south-indian-bank": "sib",
+  "standard-chartered-india": "standard-chartered",
+  "union-bank-of-india": "union-bank",
+  "yes-bank": "yes-bank",
+};
+
+function canonicalIssuerSlug(slug) {
+  return CANONICAL_ISSUER_SLUGS[slug] || slug;
+}
+
 function fail(message) {
   process.stderr.write("Error: " + message + "\n");
   process.exit(1);
@@ -142,15 +177,15 @@ function main() {
   validatePayload(payload);
 
   const permalink = PERMALINK_BASE + "?date=" + payload.date;
-  const issuers = deriveIssuers(payload.items);
   const items = payload.items.map((item) => ({
     card_slug: item.card_slug,
     card_name: item.card_name,
-    issuer: item.issuer,
+    issuer: canonicalIssuerSlug(item.issuer),
     change_type: item.change_type,
     summary: item.summary,
     anchor: item.card_slug,
   }));
+  const issuers = deriveIssuers(items);
 
   const edition = {
     number: payload.number,

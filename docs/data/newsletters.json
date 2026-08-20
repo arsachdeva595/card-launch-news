@@ -83,7 +83,7 @@
     "summary": "ICICI drops its lounge-access spend threshold, HSBC adds a capped Amazon offer, and Equitas opens a 1:1 voucher redemption.",
     "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-19",
     "issuers": [
-      "equitas",
+      "equitas-sfb",
       "hsbc",
       "icici"
     ],
@@ -107,7 +107,7 @@
       {
         "card_slug": "equitas-powermiles",
         "card_name": "Powermiles Credit Card",
-        "issuer": "equitas",
+        "issuer": "equitas-sfb",
         "change_type": "new-redemption-option",
         "summary": "Reward points can now be redeemed 1:1 for e-gift vouchers from Apple, Tanishq, Taj Hotels, Marks & Spencer, and The Body Shop.",
         "anchor": "equitas-powermiles"

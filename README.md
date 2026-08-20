@@ -451,11 +451,40 @@ a small static viewer page.
   `edition_permalink`, the latter pointing straight at that card's anchor
   within the edition), so a Payload CMS block on monzy.co can render a
   per-card news list for one issuer without a second fetch. Issuer slugs
-  are the canonical short form: `hdfc`, `axis`, `hsbc`, `rbl`, `icici`,
-  `sbi`, `standard-chartered`, `american-express`, `yes-bank`, `indusind`,
-  `idfc-first`, `kotak`, plus any other issuer actually named in a
-  published edition (e.g. `equitas`), rewritten from scratch on every
-  publish for every issuer touched by that edition.
+  are the canonical short form, one per issuer in `config/issuers.json`:
+
+  | Source slug (`config/issuers.json`) | Canonical |
+  | --- | --- |
+  | `amex` | `amex` |
+  | `au-sfb` | `au-sfb` |
+  | `axis-bank` | `axis` |
+  | `bank-of-baroda` | `bob` |
+  | `bank-of-india` | `boi` |
+  | `canara-bank` | `canara` |
+  | `dbs-bank` | `dbs` |
+  | `equitas-sfb` | `equitas-sfb` |
+  | `federal-bank` | `federal` |
+  | `hdfc-bank` | `hdfc` |
+  | `hsbc-india` | `hsbc` |
+  | `icici-bank` | `icici` |
+  | `idbi-bank` | `idbi` |
+  | `idfc-first-bank` | `idfc-first` |
+  | `indusind-bank` | `indusind` |
+  | `karur-vysya-bank` | `kvb` |
+  | `kotak-mahindra-bank` | `kotak` |
+  | `punjab-national-bank` | `pnb` |
+  | `rbl-bank` | `rbl` |
+  | `sbi-card` | `sbi` |
+  | `south-indian-bank` | `sib` |
+  | `standard-chartered-india` | `standard-chartered` |
+  | `union-bank-of-india` | `union-bank` |
+  | `yes-bank` | `yes-bank` |
+
+  `scripts/publish-edition.js` applies this mapping automatically to every
+  incoming item's `issuer` field, so a Cowork payload can send either form
+  and the published data always lands in canonical slugs. This table lives
+  in that script (`CANONICAL_ISSUER_SLUGS`); update it there if
+  `config/issuers.json` ever gains a new issuer.
 
 All dates are derived in the `Asia/Kolkata` timezone, matching when the
 Cowork task actually sends the edition.

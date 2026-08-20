@@ -42,7 +42,7 @@ const EDITION_1 = {
     {
       "card_slug": "equitas-powermiles",
       "card_name": "Powermiles Credit Card",
-      "issuer": "equitas",
+      "issuer": "equitas-sfb",
       "change_type": "new-redemption-option",
       "summary": "Reward points can now be redeemed 1:1 for e-gift vouchers from Apple, Tanishq, Taj Hotels, Marks & Spencer, and The Body Shop."
     }

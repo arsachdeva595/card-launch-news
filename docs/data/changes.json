@@ -1,5 +1,629 @@
 [
   {
+    "id": "indusind-bank-duo-card",
+    "cardName": "Duo Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-20T04:06:12.125Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "IndusInd Bank Duo Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "A single card that’s double the awesome! Get a credit and debit card in one"
+      },
+      {
+        "type": "added",
+        "text": "Duo Card (Discontinued)"
+      },
+      {
+        "type": "context",
+        "text": "The IndusInd Bank Duo Card comes with two Magnetic stripes & EMV Chips. Simply dip/swipe or enter the relevant card details to enjoy the convenience, flexibility and freedom to choose how you pay as well as access cash without carrying multiple cards."
+      },
+      {
+        "type": "context",
+        "text": "What’s more, This first-of-its-kind Card in India brings together a variety of benefits that treat you to the very best of a Credit and Debit Card ."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "*Please visit the 'A Rewarding Life' section for changes in Cash Credit redemption."
+      },
+      {
+        "type": "context",
+        "text": "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing, and same is only displayed as a reference for existing IndusInd Bank Duo Credit Cardholders."
+      },
+      {
+        "type": "context",
+        "text": "Notice"
+      },
+      {
+        "type": "context",
+        "text": "Dear Customer, from 30th November 2021, certain product features on your IndusInd DUO Credit Card will be revised. To know more, please click here ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Discontinued: Duo Card is no longer available for new customers."
+  },
+  {
+    "id": "indusind-bank-intermiles-voyage-amex-credit-card",
+    "cardName": "InterMiles Voyage Amex Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-amex-credit-card.html",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-20T04:06:12.124Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "InterMiles Voyage Amex Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Swipe as you fly across the globe for exciting benefits and rewards."
+      },
+      {
+        "type": "removed",
+        "text": "InterMiles Voyage Amex Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "InterMiles Voyage Amex Credit Card (Discontinued)"
+      },
+      {
+        "type": "context",
+        "text": "IndusInd Bank InterMiles Voyage Credit Card comes with whole lot of features and benefits !"
+      },
+      {
+        "type": "context",
+        "text": "To enhance your flying experience, we bring you unique rewards in the form of InterMiles on all your spends. Frequent flyers, rejoice – here are the exclusive benefits and features that await you!"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2X InterMiles on flight, Amazon spends via intermiles.com & Hotel spends on interbook.intermiles.com"
+      },
+      {
+        "type": "context",
+        "text": "*T&C apply"
+      },
+      {
+        "type": "removed",
+        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on priority.care@indusind.com or call us on 1860 267 7777."
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on premium.care@indusind.com or call us on 1860 267 7777."
+      },
+      {
+        "type": "context",
+        "text": "Accrual of InterMiles"
+      },
+      {
+        "type": "context",
+        "text": "Reward points will be earned in the form of InterMiles."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Card now marked as discontinued and email address updated to premium.care@indusind.com."
+  },
+  {
+    "id": "indusind-bank-intermiles-voyage-visa-credit-card",
+    "cardName": "InterMiles Voyage Visa Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-visa-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-20T04:06:12.124Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Intermiles Voyage Visa Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Swipe as you fly across the globe for exciting benefits and rewards."
+      },
+      {
+        "type": "removed",
+        "text": "Intermiles Voyage Visa Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Intermiles Voyage Visa Credit Card (Discontinued)"
+      },
+      {
+        "type": "context",
+        "text": "IndusInd Bank InterMiles Voyage Credit Card comes with whole lot of features and benefits !"
+      },
+      {
+        "type": "context",
+        "text": "Our exclusive range of Credit Cards offer an exceptional reward structure in the form of InterMiles on every spend."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2X InterMiles on flight, Amazon spends via intermiles.com & Hotel spends on interbook.intermiles.com"
+      },
+      {
+        "type": "context",
+        "text": "*T&C apply"
+      },
+      {
+        "type": "removed",
+        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on priority.care@indusind.com or call us on 1860 267 7777."
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on premium.care@indusind.com or call us on 1860 267 7777."
+      },
+      {
+        "type": "context",
+        "text": "Accrual of InterMiles"
+      },
+      {
+        "type": "context",
+        "text": "Reward points will be earned in the form of InterMiles."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Discontinued status added and customer support email updated to premium.care@indusind.com."
+  },
+  {
+    "id": "indusind-bank-intermiles-odyssey-visa-credit-card",
+    "cardName": "InterMiles Odyssey Visa Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-visa-credit-card.html",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-20T04:06:12.123Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "InterMiles Odyssey Visa Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome to the world of privileges"
+      },
+      {
+        "type": "removed",
+        "text": "InterMiles Odyssey Visa Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "InterMiles Odyssey Visa Credit Card (Discontinued)"
+      },
+      {
+        "type": "context",
+        "text": "IndusInd Bank InterMiles Odyssey Credit Card comes with whole lot of features and benefits !"
+      },
+      {
+        "type": "context",
+        "text": "Our exclusive range of Credit Cards offer an exceptional reward structure in the form of InterMiles on every spend."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Up to 4 InterMiles on every Rs. 100 spent*"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2X InterMiles on flight, Amazon spends via intermiles.com & Hotel spends on interbook.intermiles.com"
+      },
+      {
+        "type": "removed",
+        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on priority.care@indusind.com or call us on 1860 267 7777."
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on premium.care@indusind.com or call us on 1860 267 7777."
+      },
+      {
+        "type": "context",
+        "text": "Accrual of InterMiles"
+      },
+      {
+        "type": "context",
+        "text": "Reward points will be earned in the form of InterMiles."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "JPPL comprises of a bunch of young, passionate and driven individuals that obsess about its customers. We're constantly thinking of newer ways to delight them, to bring them new experiences and unforgettable moments. Perhaps it is this obsession that has led us to create a programme in InterMiles  that empowers and rewards our members for all their travel and lifestyle needs."
+      },
+      {
+        "type": "context",
+        "text": "As we at JPPL look to strengthen and develop the InterMiles programme, be rest assured that our transformation, in no way, affects the Miles accrued by you and the Miles balance in your account. You will continue to earn or redeem InterMiles. What has changed is just the name of your miles, not the way you earn or use it."
+      },
+      {
+        "type": "removed",
+        "text": "InterMiles Voyage Amex Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "InterMiles Voyage Amex Credit Card (Discontinued)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "InterMiles Odyssey Visa Credit Card is now marked as discontinued and its support email changed to premium.care@indusind.com."
+  },
+  {
+    "id": "indusind-bank-intermiles-odyssey-amex-credit-card",
+    "cardName": "InterMiles Odyssey Amex Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-amex-credit-card.html",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-20T04:06:12.122Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "InterMiles Odyssey Amex Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome to the world of privileges"
+      },
+      {
+        "type": "removed",
+        "text": "InterMiles Odyssey Amex Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "InterMiles Odyssey Amex Credit Card (Discontinued)"
+      },
+      {
+        "type": "context",
+        "text": "IndusInd Bank InterMiles Odyssey Credit Card comes with whole lot of features and benefits !"
+      },
+      {
+        "type": "context",
+        "text": "Our exclusive range of Credit Cards offer an exceptional reward structure in the form of InterMiles on every spend."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Up to 6 InterMiles on every Rs. 100 spent*"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2X InterMiles on flight, Amazon spends via intermiles.com & Hotel spends on interbook.intermiles.com"
+      },
+      {
+        "type": "removed",
+        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on priority.care@indusind.com or call us on 1860 267 7777."
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on premium.care@indusind.com or call us on 1860 267 7777."
+      },
+      {
+        "type": "context",
+        "text": "Accrual of InterMiles"
+      },
+      {
+        "type": "context",
+        "text": "Reward points will be earned in the form of InterMiles."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "JPPL comprises of a bunch of young, passionate and driven individuals that obsess about its customers. We're constantly thinking of newer ways to delight them, to bring them new experiences and unforgettable moments. Perhaps it is this obsession that has led us to create a programme in InterMiles  that empowers and rewards our members for all their travel and lifestyle needs."
+      },
+      {
+        "type": "context",
+        "text": "As we at JPPL look to strengthen and develop the InterMiles programme, be rest assured that our transformation, in no way, affects the Miles accrued by you and the Miles balance in your account. You will continue to earn or redeem InterMiles. What has changed is just the name of your miles, not the way you earn or use it."
+      },
+      {
+        "type": "removed",
+        "text": "InterMiles Voyage Amex Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "InterMiles Voyage Amex Credit Card (Discontinued)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "InterMiles Odyssey Amex Credit Card is now marked as discontinued, with the support email updated to premium.care@indusind.com."
+  },
+  {
+    "id": "indusind-bank-poonawalla-fincorp-indusind-bank-elite-rupay-credit-card",
+    "cardName": "Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/poonawalla-platinum-rupay-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-20T04:06:12.113Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "APPLY NOW"
+      },
+      {
+        "type": "removed",
+        "text": "Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card (Discontinued)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card enabled on UPI"
+      },
+      {
+        "type": "context",
+        "text": "2.5 Reward Points on Ecommerce transactions"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Card status changed to discontinued."
+  },
+  {
+    "id": "axis-bank-axis-bank-freecharge-plus-credit-card",
+    "cardName": "Axis Bank Freecharge Plus Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-20T04:00:20.604Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD)"
+      },
+      {
+        "type": "removed",
+        "text": "is not made by the Payment Due Date (PDD) for two consecutive billing periods."
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over limit penalty"
+      },
+      {
+        "type": "context",
+        "text": "2.5% of the over limit amount (Min ₹500)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period"
+      },
+      {
+        "type": "context",
+        "text": "Dynamic Currency Conversion Markup"
+      },
+      {
+        "type": "removed",
+        "text": "1.5% plus taxes will be applicable for each international transaction performed in Indian currency or International location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+      },
+      {
+        "type": "added",
+        "text": "3.5% + taxes on international transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility for Axis Bank Freecharge Plus Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Freecharge Credit Card is an invite only model, wherein, if the customer is eligible, he/she shall be able to see the banner on their Freecharge Mobile App."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Late payment penalty increased to ₹1200 for ₹10,001–₹50,000, ₹1300 for >₹50,000, and international transaction fee raised to 3.5% + taxes."
+  },
+  {
+    "id": "axis-bank-airtel-axis-bank-credit-card",
+    "cardName": "Airtel Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/airtel-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-20T04:00:20.589Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Airtel Axis Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Open a gateway to a world of privileges and benefits with your Airtel Axis Bank Credit Card. This card is designed to connect you to exclusive offers and other added delights. It comes with a world of cashback options and welcome benefits."
+      },
+      {
+        "type": "removed",
+        "text": "Some of the features and Terms and conditions on Airtel Axis Bank Credit Card will be revised w.e.f. 12th Apr'26. For more details, click here ."
+      },
+      {
+        "type": "context",
+        "text": "The Terms & Conditions of Airtel Axis Bank Credit Card will be updated w.e.f 28th August'26. Please click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Value Chart"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Finance charges (retail purchases and cash) 3.75% per month (55.55% per annum)"
+      },
+      {
+        "type": "context",
+        "text": "Late payment fees"
+      },
+      {
+        "type": "removed",
+        "text": "Nil if total payment due is less than ₹500"
+      },
+      {
+        "type": "added",
+        "text": "Nil if Total Payment Due is less than ₹500"
+      },
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "Additional ₹100 on missing payment of minimum amount due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Cash Withdrawal Fee Min. ₹500 up to 2.5% of the cash withdrawal amount"
+      },
+      {
+        "type": "context",
+        "text": "Over limit Fees Min. ₹500 up to 2.5% of the over limit amount"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1% fee per transaction will be applicable on rental transactions. GST will be applicable as notified by"
+      },
+      {
+        "type": "context",
+        "text": "Dynamic Currency Conversion markup"
+      },
+      {
+        "type": "removed",
+        "text": "1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
+      },
+      {
+        "type": "added",
+        "text": "3.5% + taxes on international transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation"
+      },
+      {
+        "type": "context",
+        "text": "Wallet load transaction fee"
+      },
+      {
+        "type": "context",
+        "text": "(Applicable from 20th Dec, 2024) 1% fee will be applicable for cumulative spends of ₹10,000 or more for wallet loads per statement cycle"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Nil payment due fee changed to ₹500 threshold, and penalty fees updated to ₹1200 for ₹10,001–₹50,000, ₹1300 above ₹50,000, with a ₹100 MAD penalty; international transaction fee increased to 3.5% + taxes."
+  },
+  {
     "id": "icici-bank-emirates-emeralde-credit-card",
     "cardName": "Emirates Emeralde Credit Card",
     "issuerName": "ICICI Bank",

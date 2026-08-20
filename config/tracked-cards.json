@@ -2043,13 +2043,15 @@
     "cardName": "InterMiles Voyage Visa Credit Card",
     "issuerSlug": "indusind-bank",
     "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-visa-credit-card.html",
-    "status": "Active"
+    "status": "Discontinued",
+    "discontinuedAt": "2026-08-20T04:06:12.124Z"
   },
   {
     "cardName": "Duo Card",
     "issuerSlug": "indusind-bank",
     "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html",
-    "status": "Active"
+    "status": "Discontinued",
+    "discontinuedAt": "2026-08-20T04:06:12.125Z"
   },
   {
     "cardName": "eSvarna Corporate Card",
@@ -3567,6 +3569,18 @@
     "cardName": "Alumni Credit Card",
     "issuerSlug": "icici-bank",
     "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/alumni-credit-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Dining Credit Card",
+    "issuerSlug": "axis-bank",
+    "url": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Travel Credit Card",
+    "issuerSlug": "axis-bank",
+    "url": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
     "status": "Active"
   }
 ]

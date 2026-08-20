@@ -1,5 +1,45 @@
 [
   {
+    "id": "axis-bank-dining-credit-card",
+    "cardName": "Dining Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
+    "discoveredAt": "2026-08-20T03:57:34.552Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Dining Credit Card",
+      "url": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
+      "description": "Official product page on Axis Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-travel-credit-card",
+    "cardName": "Travel Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
+    "discoveredAt": "2026-08-20T03:57:34.552Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Travel Credit Card",
+      "url": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
+      "description": "Official product page on Axis Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-alumni-credit-card",
     "cardName": "Alumni Credit Card",
     "issuerName": "ICICI Bank",

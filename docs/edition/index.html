@@ -106,12 +106,53 @@
     .edition-error a:hover {
       text-decoration: underline;
     }
+
+    .archive-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .archive-row {
+      display: block;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1rem 1.2rem;
+      box-shadow: var(--shadow);
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 0.12s ease;
+    }
+
+    .archive-row:hover, .archive-row:focus-visible {
+      border-color: var(--accent);
+      outline: none;
+    }
+
+    .archive-row__subject {
+      margin: 0 0 0.2rem;
+      font-size: 1rem;
+      font-weight: 650;
+    }
+
+    .archive-row__meta {
+      margin: 0 0 0.4rem;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .archive-row__summary {
+      margin: 0;
+      font-size: 0.88rem;
+      color: var(--text-muted);
+    }
   </style>
 </head>
 <body>
   <div class="edition-header">
     <h1 style="margin: 0; font-size: 1.15rem;">Card Launch News</h1>
-    <a class="edition-header__back" href="/card-launch-news/#history-section">View all editions</a>
+    <a class="edition-header__back" href="./">View all editions</a>
   </div>
 
   <main class="edition-main" id="edition-main">
@@ -123,7 +164,7 @@
   </footer>
 
   <script>
-    const ARCHIVE_URL = "/card-launch-news/#history-section";
+    const ARCHIVE_URL = "./";
 
     function escapeHtml(str) {
       return String(str)
@@ -201,12 +242,51 @@
         '<div class="edition-body">' + bodyHtml + "</div>";
     }
 
+    async function renderArchive() {
+      document.title = "All Editions, Card Launch News";
+
+      const main = document.getElementById("edition-main");
+      main.innerHTML = '<p class="edition-meta">Loading editions…</p>';
+
+      try {
+        const res = await fetch("../data/newsletters.json");
+        if (!res.ok) throw new Error("failed to load");
+        const editions = await res.json();
+
+        if (!editions.length) {
+          main.innerHTML =
+            '<h1 class="edition-subject">All Editions</h1>' +
+            '<p class="edition-summary">No editions published yet.</p>';
+          return;
+        }
+
+        const rows = editions
+          .map((edition) => {
+            return (
+              '<a class="archive-row" href="?date=' + encodeURIComponent(edition.date) + '">' +
+              '<p class="archive-row__subject">' + escapeHtml(edition.subject) + "</p>" +
+              '<p class="archive-row__meta">Edition ' + escapeHtml(edition.number) + " &middot; " + escapeHtml(edition.date) + "</p>" +
+              (edition.summary ? '<p class="archive-row__summary">' + escapeHtml(edition.summary) + "</p>" : "") +
+              "</a>"
+            );
+          })
+          .join("");
+
+        main.innerHTML =
+          '<h1 class="edition-subject">All Editions</h1>' +
+          '<p class="edition-summary">Every newsletter edition, newest first.</p>' +
+          '<div class="archive-list">' + rows + "</div>";
+      } catch (err) {
+        renderError("Could not load the edition archive.");
+      }
+    }
+
     async function init() {
       const params = new URLSearchParams(window.location.search);
       const date = params.get("date");
 
       if (!date) {
-        window.location.href = ARCHIVE_URL;
+        renderArchive();
         return;
       }
 

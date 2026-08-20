@@ -93,6 +93,36 @@ function sortByDateDesc(list) {
   return list.slice().sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
 }
 
+function flattenItemsByIssuer(newsletters) {
+  const byIssuer = new Map();
+
+  newsletters.forEach((entry) => {
+    (entry.items || []).forEach((item) => {
+      const flatItem = {
+        card_slug: item.card_slug,
+        card_name: item.card_name,
+        issuer: item.issuer,
+        change_type: item.change_type,
+        summary: item.summary,
+        edition_number: entry.number,
+        edition_date: entry.date,
+        edition_permalink: entry.permalink + "#" + item.card_slug,
+      };
+
+      if (!byIssuer.has(item.issuer)) {
+        byIssuer.set(item.issuer, []);
+      }
+      byIssuer.get(item.issuer).push(flatItem);
+    });
+  });
+
+  byIssuer.forEach((items, issuer) => {
+    items.sort((a, b) => (a.edition_date < b.edition_date ? 1 : a.edition_date > b.edition_date ? -1 : 0));
+  });
+
+  return byIssuer;
+}
+
 function main() {
   const args = parseArgs(process.argv.slice(2));
   if (!args.input) {
@@ -145,14 +175,13 @@ function main() {
   newsletters = sortByDateDesc(newsletters);
   writeJson(NEWSLETTERS_PATH, newsletters);
 
-  const allIssuers = new Set();
-  newsletters.forEach((entry) => (entry.issuers || []).forEach((slug) => allIssuers.add(slug)));
+  const byIssuer = flattenItemsByIssuer(newsletters);
 
   const issuerFiles = [];
-  allIssuers.forEach((slug) => {
-    const filtered = newsletters.filter((entry) => (entry.issuers || []).includes(slug));
+  issuers.forEach((slug) => {
+    const flatItems = byIssuer.get(slug) || [];
     const issuerPath = path.join(BY_ISSUER_DIR, slug + ".json");
-    writeJson(issuerPath, filtered);
+    writeJson(issuerPath, flatItems);
     issuerFiles.push(issuerPath);
   });
 

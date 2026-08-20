@@ -444,12 +444,18 @@ a small static viewer page.
   full.
 - `docs/data/editions/{YYYY-MM-DD}.json`: one file per edition, the full
   record including `body_html` (and `body_markdown` when available).
-- `docs/data/by-issuer/{issuer-slug}.json`: the master feed filtered to
-  editions that mention a given issuer, newest first. Rewritten from
-  scratch on every publish, one file per issuer slug encountered so far
-  (`hdfc`, `axis`, `standard-chartered`, and so on). Each Payload CMS block
-  on monzy.co that shows "recent HDFC newsletter mentions" (or similar,
-  per issuer) points at one of these files.
+- `docs/data/by-issuer/{issuer-slug}.json`: a flat array of every item
+  (card mention) across all editions that named this issuer, newest first
+  by `edition_date`. Each item carries its parent edition's number, date,
+  and permalink inline (`edition_number`, `edition_date`,
+  `edition_permalink`, the latter pointing straight at that card's anchor
+  within the edition), so a Payload CMS block on monzy.co can render a
+  per-card news list for one issuer without a second fetch. Issuer slugs
+  are the canonical short form: `hdfc`, `axis`, `hsbc`, `rbl`, `icici`,
+  `sbi`, `standard-chartered`, `american-express`, `yes-bank`, `indusind`,
+  `idfc-first`, `kotak`, plus any other issuer actually named in a
+  published edition (e.g. `equitas`), rewritten from scratch on every
+  publish for every issuer touched by that edition.
 
 All dates are derived in the `Asia/Kolkata` timezone, matching when the
 Cowork task actually sends the edition.
@@ -465,9 +471,10 @@ body. The URL pattern for any published edition is:
 https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20
 ```
 
-If the `date` param is missing, the page redirects to the main site's
-history section. If the edition file can't be found, it shows a friendly
-error with a link back to the archive.
+If the `date` param is missing, the page renders an in-page archive of
+every edition (pulled from `newsletters.json`), newest first. If a
+specific edition file can't be found, it shows a friendly error with a
+link back to that archive.
 
 ### Publishing an edition manually
 
@@ -509,10 +516,20 @@ The script writes only the files listed above; it never runs `git add` or
 `git commit` itself, that's left to the calling environment (the Cowork
 task commits everything in one shot after the script exits).
 
-`scripts/backfill-editions.js` is a one-off companion for seeding Edition 1
-and Edition 2, which were already sent via Pabbly before this layer
-existed. It has TODO placeholders for each edition's real subject, body,
-and items; fill those in once, then run it once to backfill both.
+`scripts/backfill-editions.js` seeded Edition 1 and Edition 2, which were
+already sent via Pabbly before this layer existed; it holds their real
+payloads and calls the same publish logic, so rerunning it is a harmless
+no-op against the current data.
+
+`scripts/regenerate-issuer-feeds.js` is a one-off maintenance script: it
+deletes every file in `docs/data/by-issuer/` and rewrites all of them from
+`newsletters.json` using the current flat-item schema. Use it after
+renaming an issuer slug, or any time the per-issuer feeds need to be
+rebuilt from scratch rather than incrementally.
+
+```bash
+node scripts/regenerate-issuer-feeds.js
+```
 
 ### Raw endpoint URLs (for Payload CMS API Blocks)
 

@@ -1,0 +1,22 @@
+[
+  {
+    "card_slug": "axis-bank-freecharge-plus",
+    "card_name": "Axis Bank Freecharge Plus Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-increase",
+    "summary": "Late payment fees rise to ₹1,200 to ₹1,300 with a recurring ₹100 MAD charge, and forex markup jumps from 1.5% to 3.5% plus taxes.",
+    "edition_number": 2,
+    "edition_date": "2026-08-20",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#axis-bank-freecharge-plus"
+  },
+  {
+    "card_slug": "airtel-axis-bank",
+    "card_name": "Airtel Axis Bank Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-increase",
+    "summary": "Same late payment and forex fee hikes as the Freecharge Plus card, plus a clarified Nil late-fee threshold under ₹500.",
+    "edition_number": 2,
+    "edition_date": "2026-08-20",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#airtel-axis-bank"
+  }
+]

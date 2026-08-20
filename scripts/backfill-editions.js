@@ -28,21 +28,21 @@ const EDITION_1 = {
     {
       "card_slug": "icici-emirates-emeralde",
       "card_name": "Emirates Emeralde Credit Card",
-      "issuer": "icici-bank",
+      "issuer": "icici",
       "change_type": "benefit-improvement",
       "summary": "Domestic lounge access is now unlimited and immediate, the old ₹75,000-a-quarter spend threshold and one-quarter wait are gone."
     },
     {
       "card_slug": "hsbc-taj-credit-card",
       "card_name": "HSBC Taj Credit Card",
-      "issuer": "hsbc-india",
+      "issuer": "hsbc",
       "change_type": "new-offer",
       "summary": "New offer: 20% off at Amazon, capped at ₹5,000, on ₹10,000 or more spent in a single month."
     },
     {
       "card_slug": "equitas-powermiles",
       "card_name": "Powermiles Credit Card",
-      "issuer": "equitas-sfb",
+      "issuer": "equitas",
       "change_type": "new-redemption-option",
       "summary": "Reward points can now be redeemed 1:1 for e-gift vouchers from Apple, Tanishq, Taj Hotels, Marks & Spencer, and The Body Shop."
     }
@@ -60,56 +60,56 @@ const EDITION_2 = {
     {
       "card_slug": "axis-bank-freecharge-plus",
       "card_name": "Axis Bank Freecharge Plus Credit Card",
-      "issuer": "axis-bank",
+      "issuer": "axis",
       "change_type": "fee-increase",
       "summary": "Late payment fees rise to ₹1,200 to ₹1,300 with a recurring ₹100 MAD charge, and forex markup jumps from 1.5% to 3.5% plus taxes."
     },
     {
       "card_slug": "airtel-axis-bank",
       "card_name": "Airtel Axis Bank Credit Card",
-      "issuer": "axis-bank",
+      "issuer": "axis",
       "change_type": "fee-increase",
       "summary": "Same late payment and forex fee hikes as the Freecharge Plus card, plus a clarified Nil late-fee threshold under ₹500."
     },
     {
       "card_slug": "indusind-duo-card",
       "card_name": "Duo Card",
-      "issuer": "indusind-bank",
+      "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now."
     },
     {
       "card_slug": "indusind-intermiles-voyage-amex",
       "card_name": "InterMiles Voyage Amex Credit Card",
-      "issuer": "indusind-bank",
+      "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com."
     },
     {
       "card_slug": "indusind-intermiles-voyage-visa",
       "card_name": "InterMiles Voyage Visa Credit Card",
-      "issuer": "indusind-bank",
+      "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com."
     },
     {
       "card_slug": "indusind-intermiles-odyssey-amex",
       "card_name": "InterMiles Odyssey Amex Credit Card",
-      "issuer": "indusind-bank",
+      "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com."
     },
     {
       "card_slug": "indusind-intermiles-odyssey-visa",
       "card_name": "InterMiles Odyssey Visa Credit Card",
-      "issuer": "indusind-bank",
+      "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com."
     },
     {
       "card_slug": "indusind-poonawalla-elite-rupay",
       "card_name": "Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card",
-      "issuer": "indusind-bank",
+      "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now."
     }

@@ -1,0 +1,79 @@
+{
+  "number": 2,
+  "date": "2026-08-20",
+  "subject": "What Changed to Your Credit Card Today?",
+  "summary": "Two Axis Bank cards get steeper penalty and forex fees, and six IndusInd Bank cards are marked Discontinued.",
+  "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20",
+  "body_html": "<div class=\"edition-body\">\n  <p>If you're the kind of person who reads the fine print on your card statement, today's a day that rewards you for it. Nothing here is loud. There's no new launch, no flashy joining bonus. It's the quiet stuff: two Axis Bank cards just got more expensive to misuse, and six IndusInd Bank cards got marked \"Discontinued.\" Both matter more than they look, so let's get into it.</p>\n  <h2>Axis Bank Freecharge Plus Credit Card: your penalties just went up</h2>\n  <p>Two things changed here, and both cost you money only if you're already cutting it close.</p>\n  <p>First, the late payment fee ladder got steeper in the middle band. If your total payment due is between ₹10,001 and ₹50,000, you now pay ₹1,200 (that band didn't exist before; earlier it was a flat ₹1,200 for anything over ₹10,000). Cross ₹50,000 due, and it's now ₹1,300. On top of that, the old rule waited for two consecutive missed Minimum Amount Due (MAD) payments before charging an extra ₹100. Now that ₹100 charge repeats every single cycle until you clear the MAD, not just once after the second miss. If you're someone who occasionally lets the MAD slide for a month or two while waiting for a bonus or a client payment, this is the change that quietly adds up: ₹100 a month, every month, until you pay it down.</p>\n  <p>Second, and bigger: the international transaction markup jumped from 1.5% to 3.5% plus taxes. Spend ₹1 lakh abroad (or with a foreign-registered merchant billed in rupees) and your forex cost just went from about ₹1,500 to about ₹3,500. That's ₹2,000 extra on every lakh, gone before you've even converted currency.</p>\n  <p><strong>The catch:</strong> none of this shows up unless you're already carrying a balance past the due date or spending internationally. If you pay in full every month and rarely travel, this change costs you ₹0. If you do either, it's real money.</p>\n  <h2>Airtel Axis Bank Credit Card: the same fee hike, plus a small mercy</h2>\n  <p>This card got the identical penalty and forex changes as the Freecharge Plus card: ₹1,200 for dues between ₹10,001 and ₹50,000, ₹1,300 above that, the ₹100 recurring MAD charge, and forex up from 1.5% to 3.5% plus taxes.</p>\n  <p>The one small win: the \"Nil\" late fee threshold got clarified to apply cleanly when your total due is under ₹500, which is a wording cleanup, not a benefit change, so don't read too much into it.</p>\n  <p><strong>The catch:</strong> same as above. This card was already positioned as a low-fuss, everyday spend card. That positioning holds fine if you clear your dues on time. The moment you don't, the cost of carrying a balance or spending abroad on it just got noticeably higher.</p>\n  <h2>Six IndusInd Bank cards are now marked Discontinued</h2>\n  <p>The Duo Card, InterMiles Voyage (Amex and Visa), InterMiles Odyssey (Amex and Visa), and the Poonawalla Fincorp IndusInd eLITE RuPay card all picked up a \"(Discontinued)\" tag today. If you already hold one of these, nothing changes for your existing card immediately, IndusInd is explicit that these are only closed to new applicants. The IndusInd InterMiles cards also had their support email swapped from priority.care@ to premium.care@indusind.com, which is a housekeeping change, not a benefit change.</p>\n  <p><strong>The catch:</strong> \"discontinued\" cards tend to get their benefits quietly trimmed over time since the issuer has less reason to keep them competitive. If you're holding any of these six, it's worth checking your next statement for changes to reward rates, lounge access, or annual fee waiver conditions rather than assuming it's business as usual forever.</p>\n  <h2>What I'd actually do with this</h2>\n  <p>If you hold the Axis Bank Freecharge Plus or Airtel Axis Bank card: set up autopay for at least the full statement amount, not just the MAD. At today's fees, one missed cycle now costs you ₹1,200 to ₹1,300 plus a repeating ₹100, where it used to cost less and only after two misses. If you travel or shop internationally on either card, do the math before your next trip: 3.5% plus taxes on ₹50,000 of forex spend is roughly ₹1,750 to ₹2,000 just in markup. A card with a lower forex markup might be worth carrying alongside it for that specific spend.</p>\n  <p>If you hold any of the six discontinued IndusInd cards: keep using it if it still works for you, but don't count on it improving. Read your next renewal notice closely, and if the annual fee waiver or reward rate quietly worsens, that's your cue to compare against an active card in the same category rather than staying out of habit.</p>\n  <p>This is my honest read, not formal financial advice. I'm not your advisor, and before you make a call on carrying a balance, switching cards, or anything with real money attached, run it past a professional or at least sleep on it. But this is exactly how I'd think about it if it were my card.</p>\n  <p>Monzy</p>\n</div>",
+  "items": [
+    {
+      "card_slug": "axis-bank-freecharge-plus",
+      "card_name": "Axis Bank Freecharge Plus Credit Card",
+      "issuer": "axis-bank",
+      "change_type": "fee-increase",
+      "summary": "Late payment fees rise to ₹1,200 to ₹1,300 with a recurring ₹100 MAD charge, and forex markup jumps from 1.5% to 3.5% plus taxes.",
+      "anchor": "axis-bank-freecharge-plus"
+    },
+    {
+      "card_slug": "airtel-axis-bank",
+      "card_name": "Airtel Axis Bank Credit Card",
+      "issuer": "axis-bank",
+      "change_type": "fee-increase",
+      "summary": "Same late payment and forex fee hikes as the Freecharge Plus card, plus a clarified Nil late-fee threshold under ₹500.",
+      "anchor": "airtel-axis-bank"
+    },
+    {
+      "card_slug": "indusind-duo-card",
+      "card_name": "Duo Card",
+      "issuer": "indusind-bank",
+      "change_type": "discontinued",
+      "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now.",
+      "anchor": "indusind-duo-card"
+    },
+    {
+      "card_slug": "indusind-intermiles-voyage-amex",
+      "card_name": "InterMiles Voyage Amex Credit Card",
+      "issuer": "indusind-bank",
+      "change_type": "discontinued",
+      "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
+      "anchor": "indusind-intermiles-voyage-amex"
+    },
+    {
+      "card_slug": "indusind-intermiles-voyage-visa",
+      "card_name": "InterMiles Voyage Visa Credit Card",
+      "issuer": "indusind-bank",
+      "change_type": "discontinued",
+      "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
+      "anchor": "indusind-intermiles-voyage-visa"
+    },
+    {
+      "card_slug": "indusind-intermiles-odyssey-amex",
+      "card_name": "InterMiles Odyssey Amex Credit Card",
+      "issuer": "indusind-bank",
+      "change_type": "discontinued",
+      "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
+      "anchor": "indusind-intermiles-odyssey-amex"
+    },
+    {
+      "card_slug": "indusind-intermiles-odyssey-visa",
+      "card_name": "InterMiles Odyssey Visa Credit Card",
+      "issuer": "indusind-bank",
+      "change_type": "discontinued",
+      "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
+      "anchor": "indusind-intermiles-odyssey-visa"
+    },
+    {
+      "card_slug": "indusind-poonawalla-elite-rupay",
+      "card_name": "Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card",
+      "issuer": "indusind-bank",
+      "change_type": "discontinued",
+      "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now.",
+      "anchor": "indusind-poonawalla-elite-rupay"
+    }
+  ],
+  "issuers": [
+    "axis-bank",
+    "indusind-bank"
+  ],
+  "body_markdown": "# What Changed to Your Credit Card Today?\n\n**Edition 2, 20 August 2026**\n\nIf you're the kind of person who reads the fine print on your card statement, today's a day that rewards you for it. Nothing here is loud. There's no new launch, no flashy joining bonus. It's the quiet stuff: two Axis Bank cards just got more expensive to misuse, and six IndusInd Bank cards got marked \"Discontinued.\" Both matter more than they look, so let's get into it.\n\n## Axis Bank Freecharge Plus Credit Card: your penalties just went up\n\nTwo things changed here, and both cost you money only if you're already cutting it close.\n\nFirst, the late payment fee ladder got steeper in the middle band. If your total payment due is between ₹10,001 and ₹50,000, you now pay ₹1,200 (that band didn't exist before; earlier it was a flat ₹1,200 for anything over ₹10,000). Cross ₹50,000 due, and it's now ₹1,300. On top of that, the old rule waited for two consecutive missed Minimum Amount Due (MAD) payments before charging an extra ₹100. Now that ₹100 charge repeats every single cycle until you clear the MAD, not just once after the second miss. If you're someone who occasionally lets the MAD slide for a month or two while waiting for a bonus or a client payment, this is the change that quietly adds up: ₹100 a month, every month, until you pay it down.\n\nSecond, and bigger: the international transaction markup jumped from 1.5% to 3.5% plus taxes. Spend ₹1 lakh abroad (or with a foreign-registered merchant billed in rupees) and your forex cost just went from about ₹1,500 to about ₹3,500. That's ₹2,000 extra on every lakh, gone before you've even converted currency.\n\n**The catch:** none of this shows up unless you're already carrying a balance past the due date or spending internationally. If you pay in full every month and rarely travel, this change costs you ₹0. If you do either, it's real money.\n\n## Airtel Axis Bank Credit Card: the same fee hike, plus a small mercy\n\nThis card got the identical penalty and forex changes as the Freecharge Plus card: ₹1,200 for dues between ₹10,001 and ₹50,000, ₹1,300 above that, the ₹100 recurring MAD charge, and forex up from 1.5% to 3.5% plus taxes.\n\nThe one small win: the \"Nil\" late fee threshold got clarified to apply cleanly when your total due is under ₹500, which is a wording cleanup, not a benefit change, so don't read too much into it.\n\n**The catch:** same as above. This card was already positioned as a low-fuss, everyday spend card. That positioning holds fine if you clear your dues on time. The moment you don't, the cost of carrying a balance or spending abroad on it just got noticeably higher.\n\n## Six IndusInd Bank cards are now marked Discontinued\n\nThe Duo Card, InterMiles Voyage (Amex and Visa), InterMiles Odyssey (Amex and Visa), and the Poonawalla Fincorp IndusInd eLITE RuPay card all picked up a \"(Discontinued)\" tag today. If you already hold one of these, nothing changes for your existing card immediately, IndusInd is explicit that these are only closed to new applicants. The IndusInd InterMiles cards also had their support email swapped from priority.care@ to premium.care@indusind.com, which is a housekeeping change, not a benefit change.\n\n**The catch:** \"discontinued\" cards tend to get their benefits quietly trimmed over time since the issuer has less reason to keep them competitive. If you're holding any of these six, it's worth checking your next statement for changes to reward rates, lounge access, or annual fee waiver conditions rather than assuming it's business as usual forever.\n\n## What I'd actually do with this\n\nIf you hold the Axis Bank Freecharge Plus or Airtel Axis Bank card: set up autopay for at least the full statement amount, not just the MAD. At today's fees, one missed cycle now costs you ₹1,200 to ₹1,300 plus a repeating ₹100, where it used to cost less and only after two misses. If you travel or shop internationally on either card, do the math before your next trip: 3.5% plus taxes on ₹50,000 of forex spend is roughly ₹1,750 to ₹2,000 just in markup. A card with a lower forex markup might be worth carrying alongside it for that specific spend.\n\nIf you hold any of the six discontinued IndusInd cards: keep using it if it still works for you, but don't count on it improving. Read your next renewal notice closely, and if the annual fee waiver or reward rate quietly worsens, that's your cue to compare against an active card in the same category rather than staying out of habit.\n\nThis is my honest read, not formal financial advice. I'm not your advisor, and before you make a call on carrying a balance, switching cards, or anything with real money attached, run it past a professional or at least sleep on it. But this is exactly how I'd think about it if it were my card.\n\nMonzy"
+}

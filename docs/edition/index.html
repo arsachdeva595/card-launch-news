@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Newsletter Edition, Card Launch News</title>
+  <meta name="description" content="A single newsletter edition from Card Launch News, archived in full." />
+  <meta property="og:title" content="Newsletter Edition, Card Launch News" />
+  <meta property="og:description" content="A single newsletter edition from Card Launch News, archived in full." />
+  <meta property="og:type" content="article" />
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    .edition-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 0;
+    }
+
+    .edition-header__back {
+      font-size: 0.85rem;
+      color: var(--accent);
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .edition-header__back:hover {
+      text-decoration: underline;
+    }
+
+    .edition-main {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 1.25rem 1.5rem 3rem;
+    }
+
+    .edition-meta {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin: 0 0 0.5rem;
+    }
+
+    .edition-subject {
+      margin: 0 0 0.5rem;
+      font-size: 1.75rem;
+      letter-spacing: -0.02em;
+    }
+
+    .edition-summary {
+      margin: 0 0 2rem;
+      color: var(--text-muted);
+      max-width: 640px;
+    }
+
+    .edition-body {
+      font-size: 0.98rem;
+      line-height: 1.65;
+    }
+
+    .edition-body h2 {
+      font-size: 1.15rem;
+      margin: 2rem 0 0.5rem;
+    }
+
+    .edition-body h3 {
+      font-size: 1rem;
+      margin: 1.5rem 0 0.4rem;
+    }
+
+    .edition-body a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .edition-body a:hover {
+      text-decoration: underline;
+    }
+
+    .edition-body p {
+      margin: 0 0 1rem;
+    }
+
+    .card-anchor {
+      position: relative;
+      top: -80px;
+      display: block;
+    }
+
+    .edition-error {
+      max-width: 640px;
+      margin: 3rem auto;
+      padding: 0 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+    }
+
+    .edition-error a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .edition-error a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="edition-header">
+    <h1 style="margin: 0; font-size: 1.15rem;">Card Launch News</h1>
+    <a class="edition-header__back" href="/card-launch-news/#history-section">View all editions</a>
+  </div>
+
+  <main class="edition-main" id="edition-main">
+    <p class="edition-meta">Loading edition…</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>Signal source: issuer sitemap diffs. Enrichment: public web search. Not affiliated with any bank.</p>
+  </footer>
+
+  <script>
+    const ARCHIVE_URL = "/card-launch-news/#history-section";
+
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function renderError(message) {
+      const main = document.getElementById("edition-main");
+      main.innerHTML =
+        '<div class="edition-error">' +
+        "<p>" + escapeHtml(message) + "</p>" +
+        '<p><a href="' + ARCHIVE_URL + '">Back to the archive</a></p>' +
+        "</div>";
+    }
+
+    function setMetaTags(edition) {
+      document.title = edition.subject + ", Card Launch News";
+      const ogTitle = document.querySelector('meta[property="og:title"]');
+      const ogDesc = document.querySelector('meta[property="og:description"]');
+      const metaDesc = document.querySelector('meta[name="description"]');
+      if (ogTitle) ogTitle.setAttribute("content", edition.subject);
+      if (ogDesc) ogDesc.setAttribute("content", edition.summary || "");
+      if (metaDesc) metaDesc.setAttribute("content", edition.summary || "");
+    }
+
+    function insertAnchors(bodyHtml, items) {
+      if (!items || !items.length) return bodyHtml;
+
+      const container = document.createElement("div");
+      container.innerHTML = bodyHtml;
+
+      items.forEach((item) => {
+        if (!item.card_slug) return;
+        if (container.querySelector("#" + CSS.escape(item.card_slug))) return;
+
+        const cardName = item.card_name || "";
+        let target = null;
+        if (cardName) {
+          const headings = container.querySelectorAll("h2, h3, h4");
+          for (const heading of headings) {
+            if (heading.textContent.includes(cardName)) {
+              target = heading;
+              break;
+            }
+          }
+        }
+
+        const anchor = document.createElement("span");
+        anchor.className = "card-anchor";
+        anchor.id = item.card_slug;
+
+        if (target) {
+          target.parentNode.insertBefore(anchor, target);
+        } else {
+          container.insertBefore(anchor, container.firstChild);
+        }
+      });
+
+      return container.innerHTML;
+    }
+
+    function renderEdition(edition) {
+      setMetaTags(edition);
+
+      const main = document.getElementById("edition-main");
+      const bodyHtml = insertAnchors(edition.body_html || "", edition.items);
+
+      main.innerHTML =
+        '<p class="edition-meta">Edition ' + escapeHtml(edition.number) + " &middot; " + escapeHtml(edition.date) + "</p>" +
+        '<h1 class="edition-subject">' + escapeHtml(edition.subject) + "</h1>" +
+        (edition.summary ? '<p class="edition-summary">' + escapeHtml(edition.summary) + "</p>" : "") +
+        '<div class="edition-body">' + bodyHtml + "</div>";
+    }
+
+    async function init() {
+      const params = new URLSearchParams(window.location.search);
+      const date = params.get("date");
+
+      if (!date) {
+        window.location.href = ARCHIVE_URL;
+        return;
+      }
+
+      try {
+        const res = await fetch("../data/editions/" + encodeURIComponent(date) + ".json");
+        if (!res.ok) throw new Error("not found");
+        const edition = await res.json();
+        renderEdition(edition);
+      } catch (err) {
+        renderError("Could not find an edition for " + date + ".");
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>

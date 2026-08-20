@@ -427,3 +427,102 @@ commit and push `docs/data/changes.json` afterward to publish the results.
 - No de-duplication across issuers if two banks publish near-identical URL
   slugs for unrelated cards — `id` is scoped per-issuer so this is unlikely
   but not impossible.
+
+## Newsletter Editions
+
+A separate, additive persistence layer for the daily newsletter edition
+(currently authored by a scheduled Cowork task and sent to subscribers via a
+Pabbly webhook). This layer does not touch the pipeline above; it turns each
+sent edition into a durable, queryable JSON artifact under `docs/data`, plus
+a small static viewer page.
+
+### File structure
+
+- `docs/data/newsletters.json`: the master feed, an append-only array of
+  every published edition, newest first. Metadata only (subject, summary,
+  permalink, issuers, items), no `body_html`, so it stays lean to fetch in
+  full.
+- `docs/data/editions/{YYYY-MM-DD}.json`: one file per edition, the full
+  record including `body_html` (and `body_markdown` when available).
+- `docs/data/by-issuer/{issuer-slug}.json`: the master feed filtered to
+  editions that mention a given issuer, newest first. Rewritten from
+  scratch on every publish, one file per issuer slug encountered so far
+  (`hdfc`, `axis`, `standard-chartered`, and so on). Each Payload CMS block
+  on monzy.co that shows "recent HDFC newsletter mentions" (or similar,
+  per issuer) points at one of these files.
+
+All dates are derived in the `Asia/Kolkata` timezone, matching when the
+Cowork task actually sends the edition.
+
+### Edition viewer
+
+`docs/edition/index.html` is a single static page, no build step. It reads
+`?date=YYYY-MM-DD` from the URL, fetches the matching file from
+`docs/data/editions/`, and renders the edition's subject, metadata, and
+body. The URL pattern for any published edition is:
+
+```
+https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20
+```
+
+If the `date` param is missing, the page redirects to the main site's
+history section. If the edition file can't be found, it shows a friendly
+error with a link back to the archive.
+
+### Publishing an edition manually
+
+`scripts/publish-edition.js` is the CLI the Cowork task calls after it
+authors an edition. It takes one argument, a path to a JSON payload file,
+validates it, derives `permalink`/`issuers`/`anchor` fields, writes the
+per-edition file, upserts the master feed, and re-derives every per-issuer
+feed. It uses only Node built-ins, no `npm install` needed, and is
+idempotent: rerunning the same edition overwrites cleanly rather than
+duplicating.
+
+```bash
+node scripts/publish-edition.js --input path/to/edition-payload.json
+```
+
+The input payload shape:
+
+```json
+{
+  "number": 3,
+  "date": "2026-08-21",
+  "subject": "Newsletter subject line",
+  "summary": "One-line teaser",
+  "body_html": "<div>...</div>",
+  "body_markdown": "optional source markdown",
+  "items": [
+    {
+      "card_slug": "hdfc-diners-black",
+      "card_name": "HDFC Diners Club Black",
+      "issuer": "hdfc",
+      "change_type": "devaluation",
+      "summary": "Milestone spend requirement raised from X to Y"
+    }
+  ]
+}
+```
+
+The script writes only the files listed above; it never runs `git add` or
+`git commit` itself, that's left to the calling environment (the Cowork
+task commits everything in one shot after the script exits).
+
+`scripts/backfill-editions.js` is a one-off companion for seeding Edition 1
+and Edition 2, which were already sent via Pabbly before this layer
+existed. It has TODO placeholders for each edition's real subject, body,
+and items; fill those in once, then run it once to backfill both.
+
+### Raw endpoint URLs (for Payload CMS API Blocks)
+
+Payload CMS blocks on monzy.co can point directly at the raw JSON on
+GitHub Pages, or at `raw.githubusercontent.com` for the unrendered file.
+A few example issuer feeds:
+
+```
+https://arsachdeva595.github.io/card-launch-news/data/newsletters.json
+https://arsachdeva595.github.io/card-launch-news/data/by-issuer/hdfc.json
+https://arsachdeva595.github.io/card-launch-news/data/by-issuer/axis.json
+https://arsachdeva595.github.io/card-launch-news/data/by-issuer/hsbc.json
+```

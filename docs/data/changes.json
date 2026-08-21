@@ -1,5 +1,132 @@
 [
   {
+    "id": "kotak-mahindra-bank-kotak-solitaire-credit-card",
+    "cardName": "Kotak Solitaire Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-solitaire-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-21T04:06:31.174Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Kotak Solitaire Credit Card is a metal card."
+      },
+      {
+        "type": "context",
+        "text": "2. How many add-on cards can I have?"
+      },
+      {
+        "type": "removed",
+        "text": "Customer can get up to 3 add-on cards, in addition to one primary Credit Card. Add-on Card holder should be 18 years and above. Add-on card can only be issued to immediate family members of primary cardholder."
+      },
+      {
+        "type": "added",
+        "text": "Customer can get up to 4 add-on cards, in addition to one primary Credit Card. Add-on Card holder should be 18 years and above. Add-on card can only be issued to immediate family members of primary cardholder."
+      },
+      {
+        "type": "context",
+        "text": "3. Will the add-on cards also be metal cards?"
+      },
+      {
+        "type": "context",
+        "text": "Yes. All Solitaire Credit Cards, including add-on cards, will be metal."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Customer can now get up to 4 add‑on cards instead of 3."
+  },
+  {
+    "id": "indusind-bank-crest-credit-card",
+    "cardName": "Crest Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/crest-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-21T04:05:56.273Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Click Here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 10000 per calendar month"
+      },
+      {
+        "type": "added",
+        "text": "Effective 5th October 2025, Complimentary ITC Membership which is available with MasterCard variant will be discontinued for existing cardholders and for any new customers boarded on or after 15th September 2025 will not be able to avail this offer."
+      },
+      {
+        "type": "added",
+        "text": "Effective 10th March 2026, your golf benefit will now include 2 complimentary games and 2 complimentary lessons per month , please click here for more details - Click here"
+      },
+      {
+        "type": "added",
+        "text": "Effective 1st April, 2026 spends criteria tracking will be initiated to unlock complimentary domestic lounge access from July, 2026 quarter onwards. click here to know more"
+      },
+      {
+        "type": "context",
+        "text": "With a unique contactless feature and a card design that enables you to make fast, convenient and secure everyday purchases, the Legend Visa Credit Card helps you earn more reward points on your weekend spends as well as Bonus points on your yearly spends!"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1 reward point for every ₹ 100 spent on Weekdays and earn 2 reward points for every ₹ 100 spent on Weekends."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Discontinued ITC Membership, added 2 golf games and lessons per month, and introduced spend‑tracking for lounge access starting July 2026."
+  },
+  {
+    "id": "icici-bank-amazon-pay-credit-card",
+    "cardName": "Amazon Pay Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-21T04:05:07.806Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Click here for applicable Terms & Conditions (T&Cs)"
+      },
+      {
+        "type": "context",
+        "text": "Indian citizen with minimum age of 21"
+      },
+      {
+        "type": "removed",
+        "text": "Salaried employee with a monthly income of at least ₹ 20,000"
+      },
+      {
+        "type": "added",
+        "text": "Salaried employee with a monthly income of at least ₹ 30,000"
+      },
+      {
+        "type": "context",
+        "text": "Self-employed individual with a monthly income of at least ₹ 30,000"
+      },
+      {
+        "type": "context",
+        "text": "It is an Invite Only Program"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Eligibility income requirement increased from ₹20,000 to ₹30,000 per month."
+  },
+  {
     "id": "indusind-bank-duo-card",
     "cardName": "Duo Card",
     "issuerName": "IndusInd Bank",
@@ -2430,71 +2557,6 @@
     "summary": "MAD changed to 5% of all transactions and 100% of EMI, Finance Charges, Fees/Charges, Tax with minimum ₹100, and bounce fee set to 2% with ₹500."
   },
   {
-    "id": "icici-bank-amazon-pay-credit-card",
-    "cardName": "Amazon Pay Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-15T04:00:38.305Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fuel surcharge waiver"
-      },
-      {
-        "type": "context",
-        "text": "1% Surcharge waiver for all fuel purchase"
-      },
-      {
-        "type": "removed",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "Prime Member"
-      },
-      {
-        "type": "context",
-        "text": "3"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Please note that these earnings will only be transferred to the card owner’s Amazon Account. If you have borrowed an Amazon Pay ICICI Bank Credit Card from another person and are using it for your transactions, applicable Amazon Pay balance will not be added to your Amazon Account."
-      },
-      {
-        "type": "context",
-        "text": "The Amazon Pay ICICI Bank card has been a game-changer for my Amazon shopping—no fees (LTF), instant ₹200 cashback upon joining, and up to 5% unlimited cashback on purchases as a Prime member. These benefits along with the benefits of credit cards have helped me to save even more on my purchase."
-      },
-      {
-        "type": "removed",
-        "text": "R"
-      },
-      {
-        "type": "removed",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchases are great."
-      },
-      {
-        "type": "context",
-        "text": "Soumy Dhawan"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Removed the reward statement “Earn Points on every ₹100 spend.”"
-  },
-  {
     "id": "icici-bank-emirates-skywards-rubyx-credit-card",
     "cardName": "Emirates Skywards Rubyx Credit Card",
     "issuerName": "ICICI Bank",
@@ -3549,287 +3611,6 @@
       "youtube": null
     },
     "summary": "Card discontinued; InterMiles HDFC Bank Platinum Credit Card has been phased out and migrated to other HDFC cards."
-  },
-  {
-    "id": "kotak-mahindra-bank-kotak-solitaire-credit-card",
-    "cardName": "Kotak Solitaire Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-solitaire-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-14T05:09:35.330Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Kotak Solitaire Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Dear Customer, you may experience intermittent downtime on the website on 26th July 2026, 12:00 AM to 06:00 AM due to a scheduled maintenance."
-      },
-      {
-        "type": "context",
-        "text": "Kotak Solitaire Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Kotak Solitaire Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Make the most of your Air Miles"
-      },
-      {
-        "type": "context",
-        "text": "Redeem it for flights, hotel stays, merchandise, or transfer them to our partner miles."
-      },
-      {
-        "type": "removed",
-        "text": "Travel bookings: 1 Air Mile = ₹1 when redeeming for flights, and hotels on Kotak Unbox"
-      },
-      {
-        "type": "removed",
-        "text": "Other redemptions: 1 Air Mile = ₹0.5 for vouchers.  Click here for list of vouchers"
-      },
-      {
-        "type": "removed",
-        "text": "Partner miles: Convert Kotak Air Miles to airline/hotel miles. Click here for conversion ratios."
-      },
-      {
-        "type": "added",
-        "text": "Travel bookings:  1 Air Mile = ₹1 when redeeming for flights, and hotels on Kotak Unbox"
-      },
-      {
-        "type": "added",
-        "text": "Other redemptions:  1 Air Mile = ₹0.5 for vouchers. For the complete list of available voucher partners, please visit Kotak Unbox"
-      },
-      {
-        "type": "added",
-        "text": "Partner miles:  Convert Kotak Air Miles to airline/hotel miles.  Click here for detailed information"
-      },
-      {
-        "type": "context",
-        "text": "Please click here to know the steps on how to access Kotak Unbox."
-      },
-      {
-        "type": "context",
-        "text": "Note:"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "No, you will not earn Air Miles on EMI transactions."
-      },
-      {
-        "type": "context",
-        "text": "12. Is there any category where I will not earn Air Miles?"
-      },
-      {
-        "type": "removed",
-        "text": "Air Miles will be accrued for following categories (exclusions):"
-      },
-      {
-        "type": "removed",
-        "text": "Utility/Telecom (4812, 4814, 4899, 4900)"
-      },
-      {
-        "type": "removed",
-        "text": "Insurance (5960, 6300)"
-      },
-      {
-        "type": "removed",
-        "text": "Education and Government (8211, 8220, 8241, 8244, 8249, 8299, 9211, 9222, 9223, 9399, 9402, 9405, 9950) {except tax payments, 9311}"
-      },
-      {
-        "type": "removed",
-        "text": "Rent (6513)"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel (5172, 5541, 5542, 5552, 5983)"
-      },
-      {
-        "type": "removed",
-        "text": "Wallet Loading (6540)"
-      },
-      {
-        "type": "removed",
-        "text": "Gaming & gaming digital (5816, 7994)"
-      },
-      {
-        "type": "removed",
-        "text": "EMI"
-      },
-      {
-        "type": "removed",
-        "text": "Cash Advance"
-      },
-      {
-        "type": "removed",
-        "text": "International Transactions"
-      },
-      {
-        "type": "added",
-        "text": "Click here to view the list of Merchant Category Codes (MCCs) excluded from Air Miles earning."
-      },
-      {
-        "type": "context",
-        "text": "13. Is there any capping on how many Air Miles I can earn on the card?"
-      },
-      {
-        "type": "context",
-        "text": "Accelerated Air Miles earned on travel spends done on Kotak Unbox Platform will be capped at 1,00,000 Air Miles per statement cycle. However, post reaching the limit customers would still earn 3 Air Miles per ₹100."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "3. Transfer to respective Hotel/Airline Partners on Kotak Unbox"
-      },
-      {
-        "type": "context",
-        "text": "16. What is the redemption rate of Air Miles on the Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Option1: Air Miles Redemption Value for Travel Booking on Kotak Unbox"
-      },
-      {
-        "type": "added",
-        "text": "Option1:  Air Miles Redemption Value for Travel Booking on Kotak Unbox"
-      },
-      {
-        "type": "context",
-        "text": "1 Air Mile = ₹1 redemption value on Flight, Hotel, and Add-on Bookings on Kotak Unbox"
-      },
-      {
-        "type": "removed",
-        "text": "Option 2: Air Miles Redemption Value for Non-Travel Spends like Vouchers, Gift Cards on Kotak Unbox"
-      },
-      {
-        "type": "removed",
-        "text": "1 Air Miles = ₹0.5"
-      },
-      {
-        "type": "removed",
-        "text": "Option 3: Air Miles Conversion into respective Hotel/Airline Partners on Kotak Unbox"
-      },
-      {
-        "type": "added",
-        "text": "Option 2:  Air Miles Redemption Value for Non-Travel Spends like Vouchers, Gift Cards on Kotak Unbox"
-      },
-      {
-        "type": "added",
-        "text": "1 Air Miles = ₹0.5 redemption value"
-      },
-      {
-        "type": "added",
-        "text": "Option 3 : Air Miles Conversion into respective Hotel/Airline Partners on Kotak Unbox"
-      },
-      {
-        "type": "context",
-        "text": "Airline/Hotel Partner"
-      },
-      {
-        "type": "removed",
-        "text": "Air Miles : Partner Miles"
-      },
-      {
-        "type": "removed",
-        "text": "Etihad Airways"
-      },
-      {
-        "type": "removed",
-        "text": "2:1"
-      },
-      {
-        "type": "removed",
-        "text": "Qatar Airlines"
-      },
-      {
-        "type": "removed",
-        "text": "2:1"
-      },
-      {
-        "type": "added",
-        "text": "Air Miles: Partner Miles"
-      },
-      {
-        "type": "added",
-        "text": "Air India"
-      },
-      {
-        "type": "added",
-        "text": "1:1"
-      },
-      {
-        "type": "context",
-        "text": "British Airways"
-      },
-      {
-        "type": "context",
-        "text": "2:1"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Accor Live Limitless Loyalty programme"
-      },
-      {
-        "type": "context",
-        "text": "2:1"
-      },
-      {
-        "type": "added",
-        "text": "Qatar Airlines"
-      },
-      {
-        "type": "added",
-        "text": "2:1"
-      },
-      {
-        "type": "context",
-        "text": "Marriott Bonvoy®"
-      },
-      {
-        "type": "context",
-        "text": "3:1"
-      },
-      {
-        "type": "removed",
-        "text": "Air India"
-      },
-      {
-        "type": "removed",
-        "text": "1:1"
-      },
-      {
-        "type": "context",
-        "text": "17. Is there a capping on how many Air Miles I can redeem?"
-      },
-      {
-        "type": "context",
-        "text": "For Travel bookings on Kotak Unbox"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Air Miles redemption rates, partner conversion ratios, and excluded MCC list were updated for Kotak Solitaire Credit Card."
   },
   {
     "id": "hdfc-bank-flipkart-wholesale-credit-card",

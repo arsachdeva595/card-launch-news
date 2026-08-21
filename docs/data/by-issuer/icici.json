@@ -1,5 +1,15 @@
 [
   {
+    "card_slug": "icici-amazon-pay",
+    "card_name": "Amazon Pay Credit Card",
+    "issuer": "icici",
+    "change_type": "eligibility-change",
+    "summary": "Minimum salaried income requirement raised from ₹20,000 to ₹30,000 per month for new applicants.",
+    "edition_number": 3,
+    "edition_date": "2026-08-21",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-21#icici-amazon-pay"
+  },
+  {
     "card_slug": "icici-emirates-emeralde",
     "card_name": "Emirates Emeralde Credit Card",
     "issuer": "icici",

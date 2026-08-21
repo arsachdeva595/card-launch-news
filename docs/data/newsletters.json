@@ -1,5 +1,43 @@
 [
   {
+    "number": 3,
+    "date": "2026-08-21",
+    "subject": "What Changed to Your Credit Card Today? Edition 3",
+    "summary": "Kotak Solitaire adds a fourth add-on card slot, IndusInd's Crest trades an ITC membership for golf perks and a new lounge spend gate, and ICICI raises the Amazon Pay Card's salaried income bar to ₹30,000/month.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-21",
+    "issuers": [
+      "icici",
+      "indusind",
+      "kotak"
+    ],
+    "items": [
+      {
+        "card_slug": "kotak-solitaire",
+        "card_name": "Kotak Solitaire Credit Card",
+        "issuer": "kotak",
+        "change_type": "benefit-change",
+        "summary": "Add-on card limit raised from 3 to 4 per primary card.",
+        "anchor": "kotak-solitaire"
+      },
+      {
+        "card_slug": "indusind-crest",
+        "card_name": "Crest Credit Card",
+        "issuer": "indusind",
+        "change_type": "benefit-change",
+        "summary": "Complimentary ITC Hotels membership discontinued, golf benefit improved to 2 games and 2 lessons a month, and a new spend-tracking gate on domestic lounge access starts April 2026.",
+        "anchor": "indusind-crest"
+      },
+      {
+        "card_slug": "icici-amazon-pay",
+        "card_name": "Amazon Pay Credit Card",
+        "issuer": "icici",
+        "change_type": "eligibility-change",
+        "summary": "Minimum salaried income requirement raised from ₹20,000 to ₹30,000 per month for new applicants.",
+        "anchor": "icici-amazon-pay"
+      }
+    ]
+  },
+  {
     "number": 2,
     "date": "2026-08-20",
     "subject": "What Changed to Your Credit Card Today?",

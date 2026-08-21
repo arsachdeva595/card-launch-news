@@ -1,5 +1,15 @@
 [
   {
+    "card_slug": "indusind-crest",
+    "card_name": "Crest Credit Card",
+    "issuer": "indusind",
+    "change_type": "benefit-change",
+    "summary": "Complimentary ITC Hotels membership discontinued, golf benefit improved to 2 games and 2 lessons a month, and a new spend-tracking gate on domestic lounge access starts April 2026.",
+    "edition_number": 3,
+    "edition_date": "2026-08-21",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-21#indusind-crest"
+  },
+  {
     "card_slug": "indusind-duo-card",
     "card_name": "Duo Card",
     "issuer": "indusind",

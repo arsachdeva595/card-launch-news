@@ -1,5 +1,212 @@
 [
   {
+    "id": "kotak-mahindra-bank-corporate-platinum-credit-card",
+    "cardName": "Corporate Platinum Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/corporate-platinum-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-22T04:10:04.012Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn higher Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "Easy Redemption"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Railway Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Airport Lounge Offer"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Points can be redeemed every quarter"
+      },
+      {
+        "type": "context",
+        "text": "Cash rebate will be given through demand draft"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Applicable on transactions between Rs. 500 and Rs. 3000."
+      },
+      {
+        "type": "context",
+        "text": "Maximum fuel surcharge waiver allowed in a calendar year is Rs. 3500."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Fuel Surcharge Waiver removed from Corporate Platinum Credit Card."
+  },
+  {
+    "id": "kotak-mahindra-bank-corporate-wealth-signature-credit-card",
+    "cardName": "Corporate Wealth Signature Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/corporate-wealth-signature-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-22T04:10:04.012Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Interest-free funds"
+      },
+      {
+        "type": "context",
+        "text": "Hassle-Free Spends"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Railway Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Airport Lounge Access"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Hassle-Free Spends"
+      },
+      {
+        "type": "context",
+        "text": "Eliminate the inconvenience of carrying cash as your corporate expense is payable by the company."
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Applicable on transactions between Rs. 500 and Rs. 3000."
+      },
+      {
+        "type": "context",
+        "text": "Maximum fuel surcharge waiver allowed in a calendar year is Rs. 3500."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Fuel surcharge waiver removed from the card's fee structure."
+  },
+  {
+    "id": "kotak-mahindra-bank-solitaire-business-credit-card",
+    "cardName": "Solitaire Business Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/solitaire-business-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-22T04:10:04.007Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Airport Lounge Access"
+      },
+      {
+        "type": "context",
+        "text": "Bring luxury to your travels with 1 domestic lounge access per quarter and 1 international lounge access per year"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Save more with a 1% fuel surcharge waiver on every journey"
+      },
+      {
+        "type": "context",
+        "text": "Smart Savings on Business Software"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "International Lounge"
+      },
+      {
+        "type": "context",
+        "text": "3,500"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "3%"
+      },
+      {
+        "type": "context",
+        "text": "45000"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Foreign Transaction Mark Up"
+      },
+      {
+        "type": "context",
+        "text": "1.99%"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "· 1% Fuel Surcharge Waiver across all Petrol Pumps in India"
+      },
+      {
+        "type": "context",
+        "text": "· Applicable on transactions between ₹500 - ₹5,000 (Excluding taxes)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Removed the Fuel Surcharge Waiver benefit from the card."
+  },
+  {
     "id": "kotak-mahindra-bank-kotak-solitaire-credit-card",
     "cardName": "Kotak Solitaire Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -7,38 +214,54 @@
     "officialUrl": "https://www.kotak.bank.in/",
     "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-solitaire-credit-card.html",
     "status": "Active",
-    "detectedAt": "2026-08-21T04:06:31.174Z",
+    "detectedAt": "2026-08-22T04:10:04.005Z",
     "diffHunks": [
       {
         "type": "context",
-        "text": "Kotak Solitaire Credit Card is a metal card."
-      },
-      {
-        "type": "context",
-        "text": "2. How many add-on cards can I have?"
+        "text": "Kotak Solitaire Credit Card"
       },
       {
         "type": "removed",
-        "text": "Customer can get up to 3 add-on cards, in addition to one primary Credit Card. Add-on Card holder should be 18 years and above. Add-on card can only be issued to immediate family members of primary cardholder."
-      },
-      {
-        "type": "added",
-        "text": "Customer can get up to 4 add-on cards, in addition to one primary Credit Card. Add-on Card holder should be 18 years and above. Add-on card can only be issued to immediate family members of primary cardholder."
+        "text": "Dear Customer, you may experience intermittent downtime on the website on 26th July 2026, 12:00 AM to 06:00 AM due to a scheduled maintenance."
       },
       {
         "type": "context",
-        "text": "3. Will the add-on cards also be metal cards?"
+        "text": "Kotak Solitaire Credit Card"
       },
       {
         "type": "context",
-        "text": "Yes. All Solitaire Credit Cards, including add-on cards, will be metal."
+        "text": "Kotak Solitaire Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "3.5%"
+      },
+      {
+        "type": "context",
+        "text": "14,000"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "75,000"
+      },
+      {
+        "type": "context",
+        "text": "1%"
       }
     ],
     "community": {
       "reddit": null,
       "youtube": null
     },
-    "summary": "Customer can now get up to 4 add‑on cards instead of 3."
+    "summary": "Removed Fuel Surcharge Waiver benefit."
   },
   {
     "id": "indusind-bank-crest-credit-card",

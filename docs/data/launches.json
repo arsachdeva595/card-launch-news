@@ -1,5 +1,85 @@
 [
   {
+    "id": "rbl-bank-rbl-bank-shoppers-stop-gold-credit-card",
+    "cardName": "RBL Bank Shoppers Stop Gold Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
+    "discoveredAt": "2026-08-22T03:59:07.914Z",
+    "lastmod": "2026-08-21T18:02:29+05:30",
+    "announcement": {
+      "title": "RBL Bank Shoppers Stop Gold Credit Card",
+      "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
+      "description": "Official product page on RBL Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-shoppers-stop-platinum-credit-card",
+    "cardName": "RBL Bank Shoppers Stop Platinum Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
+    "discoveredAt": "2026-08-22T03:59:07.914Z",
+    "lastmod": "2026-08-21T18:03:24+05:30",
+    "announcement": {
+      "title": "RBL Bank Shoppers Stop Platinum Credit Card",
+      "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
+      "description": "Official product page on RBL Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-shoppers-stop-black-credit-card",
+    "cardName": "RBL Bank Shoppers Stop Black Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
+    "discoveredAt": "2026-08-22T03:59:07.914Z",
+    "lastmod": "2026-08-21T18:02:18+05:30",
+    "announcement": {
+      "title": "RBL Bank Shoppers Stop Black Credit Card",
+      "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
+      "description": "Official product page on RBL Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-rbl-bank-shoppers-stop-credit-cards",
+    "cardName": "RBL Bank Shoppers Stop Credit Cards",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/rbl-bank-shoppers-stop-credit-cards",
+    "discoveredAt": "2026-08-22T03:59:07.914Z",
+    "lastmod": "2026-08-21T17:44:06+05:30",
+    "announcement": {
+      "title": "RBL Bank Shoppers Stop Credit Cards",
+      "url": "https://www.rbl.bank.in/rbl-bank-shoppers-stop-credit-cards",
+      "description": "Official product page on RBL Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "axis-bank-dining-credit-card",
     "cardName": "Dining Credit Card",
     "issuerName": "Axis Bank",

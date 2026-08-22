@@ -429,6 +429,9 @@
     "https://www.rbl.bank.in/personal-banking/cards/credit-cards/nova-credit-card",
     "https://www.rbl.bank.in/personal-banking/cards/credit-cards/apex-credit-card",
     "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-safari-lite-credit-card",
+    "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
+    "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
+    "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
     "https://www.rbl.bank.in/social-responsibility",
     "https://www.rbl.bank.in/business-banking/business/partnering-your-growth/current-accounts",
     "https://www.rbl.bank.in/personal-banking/cards/debit-cards",
@@ -1914,6 +1917,7 @@
     "https://www.rbl.bank.in/social-responsibility/impact-assessment-reports-fy-25-26",
     "https://www.rbl.bank.in/gift-city/terms-and-conditions",
     "https://www.rbl.bank.in/rbl-mybizbank-demo",
+    "https://www.rbl.bank.in/rbl-bank-shoppers-stop-credit-cards",
     "https://www.rbl.bank.in/homepage",
     "https://www.rbl.bank.in/chatbot",
     "https://www.rbl.bank.in/personal-banking/ways-to-bank",
@@ -1955,5 +1959,5 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/financial-markets-and-treasury/forex-and-bullion",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/wholesale-client-services"
   ],
-  "updatedAt": "2026-08-21T03:59:45.566Z"
+  "updatedAt": "2026-08-22T03:59:07.915Z"
 }

@@ -4774,5 +4774,37 @@
     "url": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "RBL Bank Shoppers Stop Gold Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "RBL Bank Shoppers Stop Platinum Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "RBL Bank Shoppers Stop Black Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "RBL Bank Shoppers Stop Credit Cards",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "url": "https://www.rbl.bank.in/rbl-bank-shoppers-stop-credit-cards",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

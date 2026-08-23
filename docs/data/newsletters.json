@@ -1,5 +1,41 @@
 [
   {
+    "number": 5,
+    "date": "2026-08-23",
+    "subject": "What Changed to Your Credit Card Today? Edition 5",
+    "summary": "Kotak Mahindra Bank pulled the fuel surcharge waiver off three more cards, the NRI Royale Signature, Royale Signature, and Privy League Signature, continuing the pattern from yesterday's edition.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-23",
+    "issuers": [
+      "kotak"
+    ],
+    "items": [
+      {
+        "card_slug": "kotak-nri-royale-signature",
+        "card_name": "NRI Royale Signature Credit Card",
+        "issuer": "kotak",
+        "change_type": "fee-change",
+        "summary": "Fuel surcharge waiver (1% on Rs.500-3,000 fuel transactions, capped at Rs.3,500/year) removed from the card's benefits.",
+        "anchor": "kotak-nri-royale-signature"
+      },
+      {
+        "card_slug": "kotak-royale-signature",
+        "card_name": "Royale Signature Credit Card",
+        "issuer": "kotak",
+        "change_type": "fee-change",
+        "summary": "Fuel surcharge waiver (1% on Rs.500-5,000 fuel transactions, capped at Rs.3,500/anniversary year) removed; card is already discontinued for new applicants.",
+        "anchor": "kotak-royale-signature"
+      },
+      {
+        "card_slug": "kotak-privy-league-signature",
+        "card_name": "Privy League Signature Credit Card",
+        "issuer": "kotak",
+        "change_type": "fee-change",
+        "summary": "Fuel surcharge waiver (1% on Rs.400-7,500, capped at Rs.4,500/year free variant or Rs.300/month paid variant) removed; card is already discontinued for new applicants.",
+        "anchor": "kotak-privy-league-signature"
+      }
+    ]
+  },
+  {
     "number": 4,
     "date": "2026-08-22",
     "subject": "What Changed to Your Credit Card Today? Edition 4",

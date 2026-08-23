@@ -1,5 +1,140 @@
 [
   {
+    "id": "kotak-mahindra-bank-nri-royale-signature-credit-card",
+    "cardName": "NRI Royale Signature Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/nri-royale-signature-card.html",
+    "status": "Active",
+    "detectedAt": "2026-08-23T04:07:28.351Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 2 rewards on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Freedom to purchase and pay in INR"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Railway Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Gift an add-on Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "While traveling to India, save the mark-up fee charged on your credit card issued outside India or the hassles of currency exchange"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy the benefit of paying for your purchases, travel and dining in Indian Rupees"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Applicable on transactions between Rs. 500 and Rs. 3000."
+      },
+      {
+        "type": "context",
+        "text": "Maximum fuel surcharge waiver allowed in a calendar year is Rs. 3500."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Fuel Surcharge Waiver removed from card terms."
+  },
+  {
+    "id": "kotak-mahindra-bank-royale-signature-credit-card",
+    "cardName": "Royale Signature Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/royale-signature-credit-card.html",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-23T04:07:28.350Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Click here  for applicable terms and conditions on Lounge Access."
+      },
+      {
+        "type": "context",
+        "text": "Please note, w.e.f. 1st June 2025, spend ₹75,000 or more in a calendar quarter to enjoy Airport Lounge access in the next calendar quarter."
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Please note, w.e.f. 01st June 2025, 1% fuel surcharge waiver is applicable on transactions that range between ₹500 and ₹5000, allowing you to avail a maximum fuel surcharge waiver of up to ₹3,500 in an anniversary year."
+      },
+      {
+        "type": "context",
+        "text": "Railway Surcharge Waiver"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Removal of the Fuel Surcharge Waiver fee."
+  },
+  {
+    "id": "kotak-mahindra-bank-privy-league-signature-credit-card",
+    "cardName": "Privy League Signature Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/privy-league-signature-credit-card.html",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-23T04:07:28.350Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Referral assistance"
+      },
+      {
+        "type": "context",
+        "text": "To Book or for any queries please call at +91 1135124242 or write to [email&#160;protected] available from 10 am to 8 pm on all days"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Save 1% fuel surcharge across all petrol pumps in India*"
+      },
+      {
+        "type": "context",
+        "text": "*Fuel surcharge to be waived only for transactions between the values Rs. 400-Rs.7500. Maximum fuel surcharge waiver of Rs. 4500 in a calendar year (Free variant) and Rs. 300 per month (Paid variant)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Removed the Fuel Surcharge Waiver fee."
+  },
+  {
     "id": "kotak-mahindra-bank-corporate-platinum-credit-card",
     "cardName": "Corporate Platinum Credit Card",
     "issuerName": "Kotak Mahindra Bank",

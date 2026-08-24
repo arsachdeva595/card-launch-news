@@ -1,5 +1,85 @@
 [
   {
+    "id": "indusind-bank-apply-for-indusind-bank-jio",
+    "cardName": "Apply for Indusind Bank Jio",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/jio-bp-mobility-credit-card.html",
+    "discoveredAt": "2026-08-24T04:04:39.303Z",
+    "lastmod": "2026-03-20",
+    "announcement": {
+      "title": "Apply for Indusind Bank Jio",
+      "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/jio-bp-mobility-credit-card.html",
+      "description": "Official product page on IndusInd Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "indusind-bank-site-under-maintenance",
+    "cardName": "Site Under Maintenance",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/DebitCard/Instant-PIN-Generation.html",
+    "discoveredAt": "2026-08-24T04:04:39.302Z",
+    "lastmod": "2026-03-20",
+    "announcement": {
+      "title": "Site Under Maintenance",
+      "url": "https://www.indusind.bank.in/DebitCard/Instant-PIN-Generation.html",
+      "description": "Official product page on IndusInd Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "indusind-bank-cred-indusind-bank-rupay-credit-card",
+    "cardName": "CRED IndusInd Bank RuPay Credit card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/CRED-IndusInd-Bank-ruPay-credit-card.html",
+    "discoveredAt": "2026-08-24T04:04:39.301Z",
+    "lastmod": "2026-03-20",
+    "announcement": {
+      "title": "CRED IndusInd Bank RuPay Credit card",
+      "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/CRED-IndusInd-Bank-ruPay-credit-card.html",
+      "description": "Official product page on IndusInd Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "indusind-bank-indusind-bank-and-jio",
+    "cardName": "IndusInd Bank and Jio",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/about-us/mediabrand/FY/2025-2026/December/IndusInd-Bank-and-Jio-bp-Announce-the-Launch-of-IndusInd-Bank-Jio-bp-Mobility-Credit-Card.html",
+    "discoveredAt": "2026-08-24T04:04:39.300Z",
+    "lastmod": "2026-03-20",
+    "announcement": {
+      "title": "IndusInd Bank and Jio",
+      "url": "https://www.indusind.bank.in/in/en/about-us/mediabrand/FY/2025-2026/December/IndusInd-Bank-and-Jio-bp-Announce-the-Launch-of-IndusInd-Bank-Jio-bp-Mobility-Credit-Card.html",
+      "description": "Official product page on IndusInd Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "rbl-bank-rbl-bank-shoppers-stop-gold-credit-card",
     "cardName": "RBL Bank Shoppers Stop Gold Credit Card",
     "issuerName": "RBL Bank",

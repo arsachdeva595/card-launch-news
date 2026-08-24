@@ -4806,5 +4806,21 @@
     "url": "https://www.rbl.bank.in/rbl-bank-shoppers-stop-credit-cards",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "IndusInd Bank and Jio",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "url": "https://www.indusind.bank.in/in/en/about-us/mediabrand/FY/2025-2026/December/IndusInd-Bank-and-Jio-bp-Announce-the-Launch-of-IndusInd-Bank-Jio-bp-Mobility-Credit-Card.html",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Site Under Maintenance",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "url": "https://www.indusind.bank.in/DebitCard/Instant-PIN-Generation.html",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

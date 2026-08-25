@@ -1,5 +1,65 @@
 [
   {
+    "id": "idfc-first-bank-credit-card-travel-rewards",
+    "cardName": "Credit Card Travel Rewards",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/rewards-gallery/credit-card-travel-rewards",
+    "discoveredAt": "2026-08-25T03:58:22.907Z",
+    "lastmod": "2026-08-14",
+    "announcement": {
+      "title": "Credit Card Travel Rewards",
+      "url": "https://www.idfcfirst.bank.in/rewards-gallery/credit-card-travel-rewards",
+      "description": "Official product page on IDFC First Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "idfc-first-bank-apply-for-quantum-credit-card",
+    "cardName": "Apply for Quantum+ Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
+    "discoveredAt": "2026-08-25T03:58:22.907Z",
+    "lastmod": "2026-08-14",
+    "announcement": {
+      "title": "Apply for Quantum+ Credit Card",
+      "url": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
+      "description": "Official product page on IDFC First Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "idfc-first-bank-set-up-payment-passkey-for-credit-card-payments",
+    "cardName": "Set Up Payment Passkey for Credit Card Payments",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/payment-passkey",
+    "discoveredAt": "2026-08-25T03:58:22.906Z",
+    "lastmod": "2026-08-14",
+    "announcement": {
+      "title": "Set Up Payment Passkey for Credit Card Payments",
+      "url": "https://www.idfcfirst.bank.in/credit-card/payment-passkey",
+      "description": "Official product page on IDFC First Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "indusind-bank-apply-for-indusind-bank-jio",
     "cardName": "Apply for Indusind Bank Jio",
     "issuerName": "IndusInd Bank",

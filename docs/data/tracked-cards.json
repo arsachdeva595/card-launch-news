@@ -4822,5 +4822,29 @@
     "url": "https://www.indusind.bank.in/DebitCard/Instant-PIN-Generation.html",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "Set Up Payment Passkey for Credit Card Payments",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "url": "https://www.idfcfirst.bank.in/credit-card/payment-passkey",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Credit Card Travel Rewards",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "url": "https://www.idfcfirst.bank.in/rewards-gallery/credit-card-travel-rewards",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Apply for Quantum+ Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "url": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

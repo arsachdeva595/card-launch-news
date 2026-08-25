@@ -1,5 +1,262 @@
 [
   {
+    "id": "rbl-bank-rbl-bank-play-credit-card",
+    "cardName": "RBL Bank Play Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-play-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-25T04:10:19.528Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "How do you get started? It’s simple!"
+      },
+      {
+        "type": "context",
+        "text": "Make a purchase with your RBL Bank Play Credit Card within 30 days of issuance."
+      },
+      {
+        "type": "removed",
+        "text": "Offer valid for 3 months!"
+      },
+      {
+        "type": "added",
+        "text": "The welcome benefit shall be valid for 60 days after first statement is generated."
+      },
+      {
+        "type": "context",
+        "text": "\"There is a revenue sharing arrangement between RBL Bank & BOOKMYSHOW for this card\"."
+      },
+      {
+        "type": "context",
+        "text": "Important Note - Welcome benefit applicable for paid card only."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "The welcome benefit period changed from 3 months to 60 days after the first statement."
+  },
+  {
+    "id": "standard-chartered-india-super-value-titanium-credit-card",
+    "cardName": "Super Value Titanium Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/super-value-titanium/",
+    "status": "Active",
+    "detectedAt": "2026-08-25T04:09:00.942Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Now ,you can transfer your other bank credit card balance of up to INR 5,00,000, at an attractive interest rate of just 0.99% per month for the first 6 months!"
+      },
+      {
+        "type": "context",
+        "text": "Convert your entire outstanding credit card balance of up to INR 5,00,000, into convenient EMIs with zero processing fees charged by Standard Chartered bank"
+      },
+      {
+        "type": "added",
+        "text": "Eligibility & Documents"
+      },
+      {
+        "type": "context",
+        "text": "Applicant’s age should be between 21 and 65 years."
+      },
+      {
+        "type": "context",
+        "text": "Minimum monthly income of INR 55,000 is required."
+      },
+      {
+        "type": "removed",
+        "text": "Fees &#038; Charges"
+      },
+      {
+        "type": "removed",
+        "text": "The charges due for each Standard Chartered credit card differs from one another. When looking to apply for a credit card, it is advisable to factor in this information as well. Not only is the Super Value Titanium card the best credit card for fuel purchases, it is also one of the best priced cards available as shown below:"
+      },
+      {
+        "type": "added",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "● First year annual fee &#8211; INR 750"
+      },
+      {
+        "type": "context",
+        "text": "● Renewal fee from second year &#8211; INR 750"
+      },
+      {
+        "type": "added",
+        "text": "The renewal fee will be reversed for clients with spends greater than or equal to INR 90,000 in the preceding year."
+      },
+      {
+        "type": "context",
+        "text": "Sr.No"
+      },
+      {
+        "type": "context",
+        "text": "ANNUAL BENEFITS BY USING SUPER VALUE TITANIUM CARD"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Renewal fee is now waived for spend ≥ INR 90,000, and eligibility documents section added."
+  },
+  {
+    "id": "icici-bank-times-black-credit-card",
+    "cardName": "Times Black Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/times-black-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-25T04:05:12.280Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "context",
+        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Access 1,400+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "added",
+        "text": "Access 1,900+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      },
+      {
+        "type": "context",
+        "text": "For complete list of international airport lounges visit https://www.prioritypass.com/airport-lounges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Increased lounge access from 1,400+ to 1,900+ worldwide."
+  },
+  {
+    "id": "axis-bank-purchase-card",
+    "cardName": "Purchase Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/purchase-card",
+    "status": "Active",
+    "detectedAt": "2026-08-25T04:00:27.595Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Airport Meet & Greet Services"
+      },
+      {
+        "type": "context",
+        "text": "Premier Golf access"
+      },
+      {
+        "type": "removed",
+        "text": "24*7 Concierge Services"
+      },
+      {
+        "type": "added",
+        "text": "24*7 for Golf benefit"
+      },
+      {
+        "type": "context",
+        "text": "MIS"
+      },
+      {
+        "type": "context",
+        "text": "Manage and Control Travel & Entertainment Expenses"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Removed 24*7 Concierge Services benefit, added 24*7 Golf benefit."
+  },
+  {
+    "id": "axis-bank-purchase-control-virtual-card",
+    "cardName": "Purchase Control (Virtual Card)",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/purchase-control-virtual-card",
+    "status": "Active",
+    "detectedAt": "2026-08-25T04:00:27.594Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Airport Meet & Greet Services"
+      },
+      {
+        "type": "context",
+        "text": "Premier Golf access"
+      },
+      {
+        "type": "removed",
+        "text": "24*7 Concierge Services"
+      },
+      {
+        "type": "added",
+        "text": "24*7 for Golf benefit"
+      },
+      {
+        "type": "context",
+        "text": "MIS"
+      },
+      {
+        "type": "context",
+        "text": "Manage and Control Travel & Entertainment Expenses"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Capability to control accessibility and transaction via net banking"
+      },
+      {
+        "type": "context",
+        "text": "Manage usages through whatsApp banking"
+      },
+      {
+        "type": "removed",
+        "text": "Got more questions?"
+      },
+      {
+        "type": "removed",
+        "text": "Locate the nearest branch for best assessment."
+      },
+      {
+        "type": "removed",
+        "text": "Locate Branches"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a 24*7 golf benefit, replacing the previous concierge services."
+  },
+  {
     "id": "kotak-mahindra-bank-nri-royale-signature-credit-card",
     "cardName": "NRI Royale Signature Credit Card",
     "issuerName": "Kotak Mahindra Bank",

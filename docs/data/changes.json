@@ -1,5 +1,116 @@
 [
   {
+    "id": "rbl-bank-rbl-bank-shoppers-stop-black-credit-card",
+    "cardName": "RBL Bank Shoppers Stop Black Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-26T04:15:12.347Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fuel & Auto (0032, 2541, 4001, 5542, 5541, 5172);Utilities (4900); Insurance (6300, 6310); Quasi-Cash (6050, 6051, 4829); Railways (0066, 4011, 4112); Real Estate/Rental (6513); Education (8220, 8244, 8249, 8211, 8241, 8299); Wallets/Service Providers (6540); Government Services (9400, 1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223); Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780); Cash (6011, 6010); Miscellaneous (5960); Bills2Pay; EMI"
+      },
+      {
+        "type": "context",
+        "text": "Click here for detailed terms and conditions."
+      },
+      {
+        "type": "removed",
+        "text": "RBL Bank Shoppers Stop Black Credit Card is available on Visa and MasterCard network."
+      },
+      {
+        "type": "added",
+        "text": "RBL Bank Shoppers Stop Black Credit Card is available on Visa network."
+      },
+      {
+        "type": "context",
+        "text": "Experience elevated shopping privileges and rewarding lifestyle benefits with the RBL Bank Shoppers Stop Black Credit Card at an annual membership fee of INR 10,000 + GST, crafted for those who appreciate style and exclusivity."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Network changed from Visa and MasterCard to Visa only."
+  },
+  {
+    "id": "rbl-bank-rbl-bank-shoppers-stop-gold-credit-card",
+    "cardName": "RBL Bank Shoppers Stop Gold Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-26T04:15:12.346Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fuel & Auto (0032, 2541, 4001, 5542, 5541, 5172);Utilities (4900); Insurance (6300, 6310); Quasi-Cash (6050, 6051, 4829); Railways (0066, 4011, 4112); Real Estate/Rental (6513); Education (8220, 8244, 8249, 8211, 8241, 8299); Wallets/Service Providers (6540); Government Services (9400, 1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223); Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780); Cash (6011, 6010); Miscellaneous (5960); Bills2Pay; EMI"
+      },
+      {
+        "type": "context",
+        "text": "Click here for detailed terms and conditions."
+      },
+      {
+        "type": "removed",
+        "text": "RBL Bank Shoppers Stop Gold Credit Card is available on Visa and MasterCard network."
+      },
+      {
+        "type": "added",
+        "text": "RBL Bank Shoppers Stop Gold Credit Card is available on Visa network."
+      },
+      {
+        "type": "context",
+        "text": "Experience enhanced shopping privileges and rewarding lifestyle benefits with the RBL Bank Shoppers Stop Gold Credit Card at an annual membership fee of INR 1,000 + GST, designed for those who value everyday convenience, smart savings, and a rewarding shopping experience."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed the card’s network from Visa and MasterCard to Visa only."
+  },
+  {
+    "id": "rbl-bank-rbl-bank-shoppers-stop-platinum-credit-card",
+    "cardName": "RBL Bank Shoppers Stop Platinum Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-26T04:15:12.346Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fuel & Auto (0032, 2541, 4001, 5542, 5541, 5172);Utilities (4900); Insurance (6300, 6310); Quasi-Cash (6050, 6051, 4829); Railways (0066, 4011, 4112); Real Estate/Rental (6513); Education (8220, 8244, 8249, 8211, 8241, 8299); Wallets/Service Providers (6540); Government Services (9400, 1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223); Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780); Cash (6011, 6010); Miscellaneous (5960); Bills2Pay; EMI"
+      },
+      {
+        "type": "context",
+        "text": "Click here for detailed terms and conditions."
+      },
+      {
+        "type": "removed",
+        "text": "RBL Bank Shoppers Stop Platinum Credit Card is available on Visa and MasterCard network."
+      },
+      {
+        "type": "added",
+        "text": "RBL Bank Shoppers Stop Platinum Credit Card is available on Visa network."
+      },
+      {
+        "type": "context",
+        "text": "Experience refined shopping privileges and rewarding lifestyle benefits with the RBL Bank Shoppers Stop Platinum Credit Card at an annual membership fee of INR 5,000 + GST, designed for those who value elegance, convenience, and rewarding experiences."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed the card’s network from Visa and MasterCard to Visa only."
+  },
+  {
     "id": "rbl-bank-rbl-bank-play-credit-card",
     "cardName": "RBL Bank Play Credit Card",
     "issuerName": "RBL Bank",

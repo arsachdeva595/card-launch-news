@@ -1,5 +1,3174 @@
 [
   {
+    "id": "hsbc-india-hsbc-taj-credit-card",
+    "cardName": "HSBC Taj Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:17:21.298Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Save 50% at Starbucks"
+      },
+      {
+        "type": "context",
+        "text": "Get up to INR 150 off your order, 4 times a month. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "added",
+        "text": "More exclusive offers"
+      },
+      {
+        "type": "added",
+        "text": "View our latest offers , only for HSBC Taj Credit Cardholders."
+      },
+      {
+        "type": "context",
+        "text": "Things to know before you apply"
+      },
+      {
+        "type": "context",
+        "text": "To apply for an HSBC Taj Credit Card, you must:"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "The HSBC Taj Credit Card has a joining fee of INR1,10,000, which is paid after you activate your card."
+      },
+      {
+        "type": "context",
+        "text": "There is also an annual fee INR1,10,000, which is paid annually once you've had the card for 12 months."
+      },
+      {
+        "type": "added",
+        "text": "Get INR1,000 cashback"
+      },
+      {
+        "type": "added",
+        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
+      },
+      {
+        "type": "added",
+        "text": "T&Cs apply (PDF)"
+      },
+      {
+        "type": "added",
+        "text": "Offer valid until 31 August 2026."
+      },
+      {
+        "type": "context",
+        "text": "Ready to apply for your HSBC Taj Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "To apply for an HSBC Taj Credit Card, complete a callback form and our team will be in touch soon."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "New cashback offer of INR1,000 for spending INR1,000 within 30 days, with terms and validity until 31 August 2026."
+  },
+  {
+    "id": "hsbc-india-hsbc-travelone-credit-card",
+    "cardName": "HSBC TravelOne Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/travelone/",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:17:21.298Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Introductory Offer Terms and Conditions (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Introductory Offer Terms and Conditions (PDF) Download"
+      },
+      {
+        "type": "added",
+        "text": "Get INR1,000 cashback"
+      },
+      {
+        "type": "added",
+        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
+      },
+      {
+        "type": "added",
+        "text": "T&Cs apply (PDF)"
+      },
+      {
+        "type": "added",
+        "text": "Offer valid until 31 August 2026."
+      },
+      {
+        "type": "context",
+        "text": "Apply online"
+      },
+      {
+        "type": "context",
+        "text": "When you apply online and complete your application with video self-verification, you'll be eligible for an Amazon eGift Voucher worth INR250. T&Cs apply ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "New welcome offer: INR1,000 cashback for spending INR1,000 within 30 days after submitting income documents."
+  },
+  {
+    "id": "hsbc-india-premier-credit-card",
+    "cardName": "Premier Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/premier/",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:17:21.296Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Explore our benefit calculator (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Explore our benefit calculator (PDF) Download"
+      },
+      {
+        "type": "removed",
+        "text": "Get a welcome reward"
+      },
+      {
+        "type": "added",
+        "text": "Get welcome rewards"
+      },
+      {
+        "type": "context",
+        "text": "Earn 20,000 reward points when you start using your HSBC Premier Credit Card. T&Cs apply ."
+      },
+      {
+        "type": "added",
+        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "What you get with an HSBC Premier Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Go places with your card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a ₹1,000 cashback welcome reward for spending ₹1,000 within 30 days of card issuance."
+  },
+  {
+    "id": "hsbc-india-visa-platinum-credit-card",
+    "cardName": "Visa Platinum Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/visa-platinum/",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:17:21.295Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fresh new look. Same great card"
+      },
+      {
+        "type": "context",
+        "text": "Our Platinum Credit Card has had a makeover, with a cool, teal-coloured card replacing the old silver one. It still comes with an excellent selection of benefits, plus you now have access to some fantastic Visa Signature perks."
+      },
+      {
+        "type": "removed",
+        "text": "Close"
+      },
+      {
+        "type": "context",
+        "text": "HSBC Visa Platinum Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Share"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Receive a voucher worth up to INR500 for Amazon Pay, Zomato and Swiggy when you activate your card with a single transaction of INR300 or more.[@visa-signature-subject-to-change] T&Cs apply ."
+      },
+      {
+        "type": "context",
+        "text": "Plus, get an INR250 Amazon eGift Card when you apply online, verify yourself by video and receive your credit card. T&Cs apply ."
+      },
+      {
+        "type": "added",
+        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Here's what you get with an HSBC Visa Platinum Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "No joining or annual fees"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added INR1,000 cashback offer for spending INR1,000 within 30 days after account aggregation."
+  },
+  {
+    "id": "axis-bank-axis-bank-vistara-infinite-credit-card",
+    "cardName": "Axis Bank Vistara Infinite Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-infinite-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.240Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Insurance benefits"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Vistara Infinite Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Fly higher with the Axis Bank Vistara Infinite Credit Card,"
+      },
+      {
+        "type": "removed",
+        "text": "designed for frequent travelers. Enjoy exclusive travel perks and premium lifestyle benefits."
+      },
+      {
+        "type": "removed",
+        "text": "Sourcing of Axis Bank Vistara Credit Cards has been discontinued."
+      },
+      {
+        "type": "added",
+        "text": "The Axis Bank Vistara Credit Card will be discontinued for spends post 31 October 2026 following the merger of Vistara with Air India. To ensure uninterrupted access to exciting rewards, offers, and privileges, apply for another Axis Bank Credit Card today. Click here to apply."
+      },
+      {
+        "type": "context",
+        "text": "The Terms & Conditions of Axis Bank Vistara Infinite Credit Card will be updated w.e.f 28th August'26. Please click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Accrue Maharaja Points on every swipe"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000 ₹750 if total payment due is between ₹5,001 - ₹10,000 ₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "context",
+        "text": "₹1200 if total payment due is greater than ₹10,000 ₹1200 if total payment due is greater than ₹10,000 ₹1200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "- An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods. - An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods. - An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods."
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. ₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. ₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over Limit Penalty 2.5% of the over limit amount (Min. ₹500) 2.5% of the over limit amount (Min. ₹500) 2.5% of the over limit amount (Min. ₹500)"
+      },
+      {
+        "type": "context",
+        "text": "Chargeslip Retrieval Fee or Copy Request Fee Waived Waived Waived"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle"
+      },
+      {
+        "type": "context",
+        "text": "1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023) 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup 3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility for Axis Bank Vistara Infinite Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Primary cardholders should be between 18 and 70 years of age."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "The card will be discontinued after 31 Oct 2026, the late‑payment fee changes to ₹100 per cycle until cleared, and DCC markup rises to 3.5%."
+  },
+  {
+    "id": "axis-bank-axis-bank-vistara-credit-card",
+    "cardName": "AXIS BANK VISTARA Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-27T14:12:34.239Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹500 if Total Payment Due is between ₹501 - ₹5,000 ₹500 if Total Payment Due is between ₹501 - ₹5,000 ₹500 if Total Payment Due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if Total Payment Due is between ₹5,001 - ₹10,000 ₹750 if Total Payment Due is between ₹5,001 - ₹10,000 ₹750 if Total Payment Due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if Total Payment Due is greater than ₹10,000 ₹1200 if Total Payment Due is greater than ₹10,000 ₹1200 if Total Payment Due is greater than ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "An additional charge of Rs.100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods. An additional charge of Rs.100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods. An additional charge of Rs.100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods."
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000 ₹1200 if total payment due is between ₹10,001 - ₹50,000 ₹1200 if total payment due is between ₹10,001 - ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is greater than ₹50,000 ₹1300 if total payment due is greater than ₹50,000 ₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over Limit Penalty 2.5% of the Over Limit Amount (Min. ₹500) 2.5% of the Over Limit Amount (Min. ₹500) 2.5% of the Over Limit Amount (Min. ₹500)"
+      },
+      {
+        "type": "context",
+        "text": "Chargeslip Retrieval Fee or Copy Request Fee Waived Waived Waived"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1% Per Transaction On Rental Transactions"
+      },
+      {
+        "type": "context",
+        "text": "1% Per Transaction On Rental Transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023)"
+      },
+      {
+        "type": "removed",
+        "text": "1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup"
+      },
+      {
+        "type": "added",
+        "text": "3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+      },
+      {
+        "type": "context",
+        "text": "The Terms and Conditions of Axis Bank Vistara Credit Card will be updated w.e.f 18th April'25. Please click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Following the Vistara and Air India merger, the Axis Bank Vistara Platinum Credit Card Terms &Conditions will be updated, effective 12th November'24. To Know more click here"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Fees increased: ₹1200 for ₹10,001‑₹50,000, ₹1300 for >₹50,000, and DCC markup raised to 3.5%."
+  },
+  {
+    "id": "axis-bank-axis-bank-vistara-signature-credit-card",
+    "cardName": "AXIS BANK VISTARA SIGNATURE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-27T14:12:34.238Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Insurance benefits"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Vistara Signature Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Sourcing of Axis Bank Vistara Credit Cards has been discontinued."
+      },
+      {
+        "type": "added",
+        "text": "The Axis Bank Vistara Credit Card will be discontinued for spends post 31 October 2026 following the merger of Vistara with Air India. To ensure uninterrupted access to exciting rewards, offers, and privileges, apply for another Axis Bank Credit Card today. Click here to apply."
+      },
+      {
+        "type": "context",
+        "text": "The Terms & Conditions of Axis Bank Vistara Signature Credit Card will be updated w.e.f 28th August'26. Please click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Accrue Maharaja Points On Every Swipe"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if Total Payment Due is between ₹5,001 - ₹10,000 ₹750 if Total Payment Due is between ₹5,001 - ₹10,000 ₹750 if Total Payment Due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "context",
+        "text": "₹1200 if Total Payment Due is greater than ₹10,000 ₹1200 if Total Payment Due is greater than ₹10,000 ₹1200 if Total Payment Due is greater than ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods. An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods. An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods."
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. ₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. ₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over Limit Penalty 2.5% of the over limit amount (Min. ₹500) 2.5% of the over limit amount (Min. ₹500) 2.5% of the over limit amount (Min. ₹500)"
+      },
+      {
+        "type": "context",
+        "text": "Chargeslip Retrieval Fee or Copy Request Fee Waived Waived Waived"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1% Per Transaction On Rental Transactions"
+      },
+      {
+        "type": "context",
+        "text": "Wallet load transaction 1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle 1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle 1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023)"
+      },
+      {
+        "type": "removed",
+        "text": "1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup"
+      },
+      {
+        "type": "added",
+        "text": "3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility for Axis Bank Vistara Signature Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Primary Cardholder should be 18-70 years of age"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Discontinued after 31 Oct 2026; new ₹1300 fee for balances >₹50,000; DCC markup increased to 3.5%."
+  },
+  {
+    "id": "axis-bank-lic-axis-bank-platinum-credit-card",
+    "cardName": "LIC Axis Bank Platinum Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.237Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹ 30"
+      },
+      {
+        "type": "context",
+        "text": "Rent Transaction fee (Applicable from 5th March 2023) 1% fee per transaction will be applicable on rental transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023) 1.5% will be applicable on international transactions performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup 3.5% will be applicable on international transactions performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+      },
+      {
+        "type": "context",
+        "text": "Education Transaction Fee (Applicable from 20th Dec 2024) 1% fee per transaction will be applicable on education payments made via third party apps"
+      },
+      {
+        "type": "context",
+        "text": "Utility Transaction Fee (Applicable from 20th Dec, 2024) 1% fee will be applicable on cumulative spends of ₹ 25,000 or more on utilities per statement cycle"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Dynamic Currency Conversion fee increased from 1.5% to 3.5% on international transactions."
+  },
+  {
+    "id": "axis-bank-miles-and-more-axis-bank-credit-card",
+    "cardName": "Miles and More Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.235Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000 ₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000 ₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is greater than ₹10,000 ₹1200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared. Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000 ₹1200 if total payment due is between ₹10,001 - ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is greater than ₹50,000 ₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over Limit Penalty 2.5% of the overlimit amount (Min. ₹500) 2.5% of the overlimit amount (Min. ₹500)"
+      },
+      {
+        "type": "context",
+        "text": "Chargeslip Retrieval Fee or Copy Request Fee Waived Waived"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period"
+      },
+      {
+        "type": "context",
+        "text": "Dynamic Currency Conversion"
+      },
+      {
+        "type": "removed",
+        "text": "markup (Applicable from 5th"
+      },
+      {
+        "type": "removed",
+        "text": "March 2023)"
+      },
+      {
+        "type": "removed",
+        "text": "1.5% on International"
+      },
+      {
+        "type": "removed",
+        "text": "transaction performed in"
+      },
+      {
+        "type": "removed",
+        "text": "Indian currency at"
+      },
+      {
+        "type": "removed",
+        "text": "International location or"
+      },
+      {
+        "type": "removed",
+        "text": "transactions performed in"
+      },
+      {
+        "type": "removed",
+        "text": "Indian currency with"
+      },
+      {
+        "type": "removed",
+        "text": "merchants located in Indian"
+      },
+      {
+        "type": "removed",
+        "text": "but registered in foreign"
+      },
+      {
+        "type": "removed",
+        "text": "nation"
+      },
+      {
+        "type": "removed",
+        "text": "1.5% on International"
+      },
+      {
+        "type": "removed",
+        "text": "transaction performed in"
+      },
+      {
+        "type": "removed",
+        "text": "Indian currency at"
+      },
+      {
+        "type": "removed",
+        "text": "International location or"
+      },
+      {
+        "type": "removed",
+        "text": "transactions performed in"
+      },
+      {
+        "type": "removed",
+        "text": "Indian currency with"
+      },
+      {
+        "type": "removed",
+        "text": "merchants located in Indian"
+      },
+      {
+        "type": "removed",
+        "text": "but registered in foreign"
+      },
+      {
+        "type": "removed",
+        "text": "nation"
+      },
+      {
+        "type": "added",
+        "text": "markup"
+      },
+      {
+        "type": "added",
+        "text": "3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. 3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
+      },
+      {
+        "type": "context",
+        "text": "Service Tax, as notified by the Government of India, is applicable on all fees, interest & other charges, and is subject to change as per relevant regulations of the Government of India."
+      },
+      {
+        "type": "context",
+        "text": "The joining fee and the annual fee are waived for HON and Senator Status members, where the status will be defined as per the status for Miles & More membership account."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Fees increased: ₹1200 for ₹10,001–₹50,000, ₹1300 above ₹50,000, and 3.5%+taxes on international transactions."
+  },
+  {
+    "id": "axis-bank-samsung-axis-bank-signature-credit-card",
+    "cardName": "Samsung Axis Bank Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.234Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "An additional ₹100 charge will be"
+      },
+      {
+        "type": "removed",
+        "text": "levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will"
+      },
+      {
+        "type": "removed",
+        "text": "apply until the MAD is cleared."
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Cash withdrawal fees 2.5% (Min. ₹500) of the cash amount"
+      },
+      {
+        "type": "context",
+        "text": "Over limit penalty 2.5% of the over limit amount (Min ₹500)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GST As per existing Government norms"
+      },
+      {
+        "type": "context",
+        "text": "Rent Transaction Fee Rent Transaction fee of 1% per transaction will be applicable on each rental transaction done on Samsung Axis Bank Signature Credit Card. GST will be applicable as notified by Government of India. The Rent transactions will be identified through Merchant Category Code 6513."
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion Dynamic Currency Conversion markup of 1.5% plus taxes will be applicable on Samsung Axis Bank Signature Credit Card for each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion Dynamic Currency Conversion markup of 3.5% plus taxes will be applicable on Samsung Axis Bank Signature Credit Card for each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
+      },
+      {
+        "type": "context",
+        "text": "Edge Rewards Fees A redemption fee of ₹99 will apply per transaction on the EDGE REWARDS platform. A"
+      },
+      {
+        "type": "context",
+        "text": "fee of ₹199 will be charged per transaction for converting or transferring EDGE"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: ₹499"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹499"
+      },
+      {
+        "type": "added",
+        "text": "Got more questions?"
+      },
+      {
+        "type": "added",
+        "text": "Locate the nearest branch for best assessment."
+      },
+      {
+        "type": "added",
+        "text": "Locate Branches"
+      },
+      {
+        "type": "context",
+        "text": "Nov 18, 2025"
+      },
+      {
+        "type": "context",
+        "text": "How to increase your CIBIL score?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "₹1200 fee changed to ₹1300 for balances above ₹50,000 and DCC markup increased from 1.5% to 3.5%."
+  },
+  {
+    "id": "axis-bank-spicejet-axis-bank-voyage-credit-card",
+    "cardName": "SpiceJet Axis Bank Voyage Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.233Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "10% off on orders via Swiggy"
+      },
+      {
+        "type": "context",
+        "text": "10% off up to ₹ 1000 on Tira"
+      },
+      {
+        "type": "removed",
+        "text": "The fees and charges for SpiceJet Axis Bank Voyage Credit Card are applicable to all card holders. The fees include cash payment fee, joining fee and an annual fee etc."
+      },
+      {
+        "type": "removed",
+        "text": "View Fees and Charges Table"
+      },
+      {
+        "type": "removed",
+        "text": "The fees and charges for SpiceJet Axis Bank Voyage Credit Card are applicable to all card holders. The fees include cash payment fee, joining fee and an annual fee etc."
+      },
+      {
+        "type": "added",
+        "text": "The fees and charges for SpiceJet Axis Bank Voyage Credit Card are applicable to all card holde₹ The fees include cash payment fee, joining fee and an annual fee etc."
+      },
+      {
+        "type": "added",
+        "text": "View Fees and Charges"
+      },
+      {
+        "type": "added",
+        "text": "The fees and charges for SpiceJet Axis Bank Voyage Credit Card are applicable to all card holde₹ The fees include cash payment fee, joining fee and an annual fee etc."
+      },
+      {
+        "type": "context",
+        "text": "Descriptions Charges"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee ₹ 750"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "₹ 500 if total payment due is between ₹ 501 - ₹ 5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹ 750 if total payment due is between ₹ 5,001 - ₹ 10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹ 1200 if total payment due is greater"
+      },
+      {
+        "type": "removed",
+        "text": "than ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹ 1200 if total payment due is greater than ₹ 10001- ₹ 50000"
+      },
+      {
+        "type": "added",
+        "text": "₹ 1300 if total payment due is greater than ₹ 50000"
+      },
+      {
+        "type": "context",
+        "text": "Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over Limit Penalty 2.5% of over the limit amount (Min. ₹ 500)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GST As per existing Government norms"
+      },
+      {
+        "type": "context",
+        "text": "Rental Transaction Fee 1% transaction will be applicable on rental transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion Markup 1.5% will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion Markup 3.5% will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian"
+      },
+      {
+        "type": "context",
+        "text": "but registered in foreign nation."
+      },
+      {
+        "type": "context",
+        "text": "Education Payment Charges 1% fee per transaction will be applicable on education payments made via third party apps"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Fees increased: ₹1200 fee now applies for payments >₹10,000, ₹1300 for >₹50,000; DCC markup raised to 3.5%."
+  },
+  {
+    "id": "axis-bank-flipkart-axis-bank-super-elite-credit-card",
+    "cardName": "Flipkart Axis Bank Super Elite Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axis-bank-super-elite-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.231Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is greater than ₹ 10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment is greater than ₹50,000"
+      },
+      {
+        "type": "context",
+        "text": "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over limit penalty 2.5% of over the limit amount (Min. ₹500)."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Foreign currency transaction fee 3.5% of the transaction value"
+      },
+      {
+        "type": "context",
+        "text": "Rent Transaction fee (Applicable from 5th March 2023) 1% fee per transaction will be applicable on rental transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023) 1.5% will be applicable on International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023) 3.5% will be applicable on International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation"
+      },
+      {
+        "type": "context",
+        "text": "Education Transaction Fee (Applicable from 20th Dec, 2024) 1% fee per transaction will be applicable on education payments made via third party apps"
+      },
+      {
+        "type": "context",
+        "text": "Utility Transaction Fee (Applicable from 20th Dec, 2024) 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "₹1200 fee now applies for payments ₹10,001–₹50,000, ₹1300 for >₹50,000, and DCC markup increased to 3.5%."
+  },
+  {
+    "id": "axis-bank-axis-bank-pride-platinum-credit-card",
+    "cardName": "Axis Bank Pride Platinum Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/pride-platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.228Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1,200 if total payment due is between ₹10,001 and ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1,300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "context",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over Limit Penalty 2.5% of over the limit amount (Min. ₹500)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Interest Free Period The interest-free period on your card will range from 18 to 23 days from the statement generation date"
+      },
+      {
+        "type": "context",
+        "text": "Rent Transaction fee 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India."
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup will not be applicable on Burgundy Private Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup 3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup will not be applicable on Burgundy Private Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Education Payment Charges 1% fee per transaction will be applicable on education payments made via third party apps"
+      },
+      {
+        "type": "context",
+        "text": "Wallet Load Transaction Fee 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "₹1,200 fee for ₹10,001–₹50,000 payments and ₹1,300 for >₹50,000, plus DCC markup increased from 1.5% to 3.5%."
+  },
+  {
+    "id": "axis-bank-indianoil-axis-bank-premium-credit-card",
+    "cardName": "IndianOil Axis Bank Premium Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/indianoil-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.227Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹500 if outstanding amount is between ₹501 and ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if outstanding amount is between ₹5,001 and ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1,200 if outstanding amount is greater than ₹10,001"
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is greater than ₹10001- ₹50000"
+      },
+      {
+        "type": "added",
+        "text": "₹ 1300 if total payment due is greater than ₹50000"
+      },
+      {
+        "type": "context",
+        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleare"
+      },
+      {
+        "type": "context",
+        "text": "Over limit charge 2.5% (Minimum ₹500) of Over limit amount"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reissue of lost, stolen or damaged card Nil"
+      },
+      {
+        "type": "context",
+        "text": "Foreign currency transactions 3.50% of Transaction value"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup 1.5% + GST will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup 3.5% + GST will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
+      },
+      {
+        "type": "context",
+        "text": "Transaction fee - 1% will be applicable on education payments made via third-party apps. However, payments and transactions made directly through education institutional websites, or their POS machines will not incur this fees."
+      },
+      {
+        "type": "context",
+        "text": "- Cumulative spends exceeding INR ₹10,000 on wallet loads, INR ₹50,000 on fuel, INR ₹25,000 on utilities, and INR ₹10,000 on online skill-based gaming platforms within a statement period will attract a 1% transaction fee"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Fee increased to ₹1200 for payments 10,001–50,000, ₹1300 above 50,000, and DCC markup raised from 1.5% to 3.5%."
+  },
+  {
+    "id": "axis-bank-axis-bank-atlas-credit-card",
+    "cardName": "Axis Bank Atlas Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-atlas-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.224Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Gold tier"
+      },
+      {
+        "type": "context",
+        "text": "Platinum tier"
+      },
+      {
+        "type": "removed",
+        "text": "Silver benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome miles"
+      },
+      {
+        "type": "removed",
+        "text": "4 International lounge visits"
+      },
+      {
+        "type": "removed",
+        "text": "8 Domestic lounge visits"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone benefits"
+      },
+      {
+        "type": "removed",
+        "text": "1% fuel surcharge waiver"
+      },
+      {
+        "type": "removed",
+        "text": "2 EDGE Miles earned on every 100 spent"
+      },
+      {
+        "type": "removed",
+        "text": "Reward points on travel"
+      },
+      {
+        "type": "removed",
+        "text": "5 EDGE Miles earned on every 100 spent"
+      },
+      {
+        "type": "removed",
+        "text": "Total Value for customer"
+      },
+      {
+        "type": "removed",
+        "text": "Annual spends"
+      },
+      {
+        "type": "added",
+        "text": "Silver benefits Annual spends"
+      },
+      {
+        "type": "context",
+        "text": "(₹3,00,000)"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "3,00,000"
+      },
+      {
+        "type": "removed",
+        "text": "30,000"
+      },
+      {
+        "type": "removed",
+        "text": "1,20,000"
+      },
+      {
+        "type": "removed",
+        "text": "1,50,000"
+      },
+      {
+        "type": "removed",
+        "text": "3,00,000"
+      },
+      {
+        "type": "context",
+        "text": "EDGE Miles"
+      },
+      {
+        "type": "removed",
+        "text": "2500"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "2,500"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "2,400"
+      },
+      {
+        "type": "removed",
+        "text": "7,500"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "Annual value realised (in ₹)"
+      },
+      {
+        "type": "removed",
+        "text": "2500"
+      },
+      {
+        "type": "removed",
+        "text": "8,100"
+      },
+      {
+        "type": "removed",
+        "text": "6,400"
+      },
+      {
+        "type": "removed",
+        "text": "2,500"
+      },
+      {
+        "type": "removed",
+        "text": "300"
+      },
+      {
+        "type": "removed",
+        "text": "2,400"
+      },
+      {
+        "type": "removed",
+        "text": "7,500"
+      },
+      {
+        "type": "removed",
+        "text": "29,700"
+      },
+      {
+        "type": "removed",
+        "text": "Gold benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Miles *"
+      },
+      {
+        "type": "removed",
+        "text": "6 International lounge visits"
+      },
+      {
+        "type": "removed",
+        "text": "12 Domestic lounge visits"
+      },
+      {
+        "type": "removed",
+        "text": "Tier rewards (End of Annual Year)"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone benefits"
+      },
+      {
+        "type": "removed",
+        "text": "1% fuel surcharge waiver"
+      },
+      {
+        "type": "removed",
+        "text": "2 EDGE Miles earned on every 100 spent"
+      },
+      {
+        "type": "removed",
+        "text": "Reward points on Travel"
+      },
+      {
+        "type": "added",
+        "text": "Annual value realised"
+      },
+      {
+        "type": "added",
+        "text": "(in ₹)"
+      },
+      {
+        "type": "added",
+        "text": "Welcome miles - 2500 2500"
+      },
+      {
+        "type": "added",
+        "text": "4 International lounge visits - - 8,100"
+      },
+      {
+        "type": "added",
+        "text": "8 Domestic lounge visits - - 6,400"
+      },
+      {
+        "type": "added",
+        "text": "Milestone benefits 3,00,000 2,500 2,500"
+      },
+      {
+        "type": "added",
+        "text": "1% fuel surcharge waiver 30,000 - 300"
+      },
+      {
+        "type": "added",
+        "text": "2 EDGE Miles earned on every 100 spent 1,20,000 2,400 2,400"
+      },
+      {
+        "type": "added",
+        "text": "Reward points on travel"
+      },
+      {
+        "type": "context",
+        "text": "5 EDGE Miles earned on every 100 spent"
+      },
+      {
+        "type": "removed",
+        "text": "Total value for customer"
+      },
+      {
+        "type": "removed",
+        "text": "Annual spends"
+      },
+      {
+        "type": "added",
+        "text": "1,50,000 7,500 7,500"
+      },
+      {
+        "type": "added",
+        "text": "Total Value for customer 3,00,000 - 29,700"
+      },
+      {
+        "type": "added",
+        "text": "Gold benefits Annual spends"
+      },
+      {
+        "type": "context",
+        "text": "(₹7,50,000)"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "3,00,000"
+      },
+      {
+        "type": "removed",
+        "text": "75,000"
+      },
+      {
+        "type": "removed",
+        "text": "3,00,000"
+      },
+      {
+        "type": "removed",
+        "text": "3,75,000"
+      },
+      {
+        "type": "removed",
+        "text": "7,50,000"
+      },
+      {
+        "type": "context",
+        "text": "EDGE Miles"
+      },
+      {
+        "type": "removed",
+        "text": "2,500"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "2,500"
+      },
+      {
+        "type": "removed",
+        "text": "5,000"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "6,000"
+      },
+      {
+        "type": "removed",
+        "text": "18,750"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "Annual value Realised (in ₹)"
+      },
+      {
+        "type": "removed",
+        "text": "2500"
+      },
+      {
+        "type": "removed",
+        "text": "12,150"
+      },
+      {
+        "type": "removed",
+        "text": "9,600"
+      },
+      {
+        "type": "removed",
+        "text": "3,000"
+      },
+      {
+        "type": "removed",
+        "text": "5,000"
+      },
+      {
+        "type": "removed",
+        "text": "750"
+      },
+      {
+        "type": "removed",
+        "text": "6,000"
+      },
+      {
+        "type": "removed",
+        "text": "18,750"
+      },
+      {
+        "type": "removed",
+        "text": "57,250"
+      },
+      {
+        "type": "removed",
+        "text": "Platinum benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Miles *"
+      },
+      {
+        "type": "removed",
+        "text": "12 International lounge visits"
+      },
+      {
+        "type": "removed",
+        "text": "18 Domestic lounge visits"
+      },
+      {
+        "type": "removed",
+        "text": "Tier rewards (end of annual year)"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone benefits"
+      },
+      {
+        "type": "removed",
+        "text": "1% fuel surcharge waiver"
+      },
+      {
+        "type": "removed",
+        "text": "2 EDGE Miles earned on every 100 spent"
+      },
+      {
+        "type": "added",
+        "text": "Annual value realised"
+      },
+      {
+        "type": "added",
+        "text": "(in ₹)"
+      },
+      {
+        "type": "added",
+        "text": "Welcome miles * - 2500 2500"
+      },
+      {
+        "type": "added",
+        "text": "6 International lounge visits - - 12,150"
+      },
+      {
+        "type": "added",
+        "text": "12 Domestic lounge visits - - 9,600"
+      },
+      {
+        "type": "added",
+        "text": "Tier rewards (End of Annual Year) - 2,500 3,000"
+      },
+      {
+        "type": "added",
+        "text": "Milestone benefits 3,00,000 5,000 5,000"
+      },
+      {
+        "type": "added",
+        "text": "1% fuel surcharge waiver 75,000 - 750"
+      },
+      {
+        "type": "added",
+        "text": "2 EDGE Miles earned on every 100 spent 3,00,000 6,000 6,000"
+      },
+      {
+        "type": "context",
+        "text": "Reward points on travel"
+      },
+      {
+        "type": "context",
+        "text": "5 EDGE Miles earned on every 100 spent"
+      },
+      {
+        "type": "removed",
+        "text": "Total value for customer"
+      },
+      {
+        "type": "removed",
+        "text": "Annual spends"
+      },
+      {
+        "type": "added",
+        "text": "3,75,000 18,750 18,750"
+      },
+      {
+        "type": "added",
+        "text": "Total Value for customer 7,50,000 - 57,250"
+      },
+      {
+        "type": "added",
+        "text": "Platinum benefits Annual spends"
+      },
+      {
+        "type": "context",
+        "text": "(₹15,00,000)"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "3,00,000"
+      },
+      {
+        "type": "removed",
+        "text": "1,50,000"
+      },
+      {
+        "type": "removed",
+        "text": "6,00,000"
+      },
+      {
+        "type": "removed",
+        "text": "7,50,000"
+      },
+      {
+        "type": "removed",
+        "text": "15,00,000"
+      },
+      {
+        "type": "context",
+        "text": "EDGE Miles"
+      },
+      {
+        "type": "removed",
+        "text": "2,500"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "5,000"
+      },
+      {
+        "type": "removed",
+        "text": "10,000"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "12,000"
+      },
+      {
+        "type": "removed",
+        "text": "37,500"
+      },
+      {
+        "type": "removed",
+        "text": "-"
+      },
+      {
+        "type": "removed",
+        "text": "Annual value realised (in ₹)"
+      },
+      {
+        "type": "removed",
+        "text": "2,500"
+      },
+      {
+        "type": "removed",
+        "text": "24,300"
+      },
+      {
+        "type": "removed",
+        "text": "14,400"
+      },
+      {
+        "type": "removed",
+        "text": "5,000"
+      },
+      {
+        "type": "removed",
+        "text": "10,000"
+      },
+      {
+        "type": "removed",
+        "text": "1,500"
+      },
+      {
+        "type": "removed",
+        "text": "12,000"
+      },
+      {
+        "type": "removed",
+        "text": "37,500"
+      },
+      {
+        "type": "removed",
+        "text": "1,07,200"
+      },
+      {
+        "type": "added",
+        "text": "Annual value realised"
+      },
+      {
+        "type": "added",
+        "text": "(in ₹)"
+      },
+      {
+        "type": "added",
+        "text": "Welcome miles * - 2500 2500"
+      },
+      {
+        "type": "added",
+        "text": "12 International lounge visits - - 24,300"
+      },
+      {
+        "type": "added",
+        "text": "18 Domestic lounge visits - - 14,400"
+      },
+      {
+        "type": "added",
+        "text": "Tier rewards (end of annual year) - 5,000 5,000"
+      },
+      {
+        "type": "added",
+        "text": "Milestone benefits 3,00,000 10,000 10,000"
+      },
+      {
+        "type": "added",
+        "text": "1% fuel surcharge waiver 1,50,000 - 1,500"
+      },
+      {
+        "type": "added",
+        "text": "2 EDGE Miles earned on every 100 spent 6,00,000 12,000 12,000"
+      },
+      {
+        "type": "added",
+        "text": "Reward points on travel"
+      },
+      {
+        "type": "added",
+        "text": "5 EDGE Miles earned on every 100 spent"
+      },
+      {
+        "type": "added",
+        "text": "7,50,000 37,500 37,500"
+      },
+      {
+        "type": "added",
+        "text": "Total Value for customer 15,00,000 - 1,07,200"
+      },
+      {
+        "type": "context",
+        "text": "Eligibilty Criteria & Documentation"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility criteria"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 and ₹10,000"
+      },
+      {
+        "type": "context",
+        "text": "₹1,200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1,300 if total payment due is greater than ₹50,000 & above"
+      },
+      {
+        "type": "context",
+        "text": "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared"
+      },
+      {
+        "type": "context",
+        "text": "Over limit penalty 2.5% of the overlimit amount (Min. ₹500)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "EDGE REWARD points or EDGE Miles to other miles partner loyalty programs."
+      },
+      {
+        "type": "context",
+        "text": "Rent Transaction fee ( applicable from 5th March 2023) 1% will be applicable on each rental transaction"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic currency convrsion markup ( applicable from 5th March 2023) 1.5% on International transaction performed in Indian currency at international location or transactions performed in indian currency with merchants located in Indian but registered in foreign nation"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic currency conversion(revised w.e.f 21st August 2026) 3.5% on International transaction performed in Indian currency at international location or transactions performed in indian currency with merchants located in Indian but registered in foreign nation"
+      },
+      {
+        "type": "context",
+        "text": "Wallet load transaction fee 1% fee on cumulative spends of ₹10,000 or more on wallet loads per statement cycle"
+      },
+      {
+        "type": "context",
+        "text": "Fuel transaction fee 1% fee on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Dynamic currency conversion fee increased from 1.5% to 3.5% for international transactions."
+  },
+  {
+    "id": "axis-bank-privilege-easy-credit-card",
+    "cardName": "Privilege Easy Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-easy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.223Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Annual benefits"
+      },
+      {
+        "type": "context",
+        "text": "Annual fees of ₹1,500 will be reversed on achieving spends* of ₹5 lakhs in the previous card anniversary year."
+      },
+      {
+        "type": "removed",
+        "text": "Spends threshold for annual fee reversal will exclude rent and wallet transactions. The merchant category code of rent is 6513 and wallet is 6540. This revision is effective from 05-03-2023."
+      },
+      {
+        "type": "added",
+        "text": "Spends threshold for annual fee waiver will exclude transactions made on Utility & Telecom, Rent, Wallet, Government services, Insurance, Gold & Jewelry, Fuel, Education services, Bridge Fees, Road Fees & Tolls."
+      },
+      {
+        "type": "context",
+        "text": "Access numerous airport lounges"
+      },
+      {
+        "type": "context",
+        "text": "Two complimentary access per calendar quarter to select domestic airport lounges with Axis Bank Privilege Easy Credit Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Card Replacement (lost or stolen or re-issue) Nil"
+      },
+      {
+        "type": "context",
+        "text": "Duplicate Statement Fee Waived"
+      },
+      {
+        "type": "removed",
+        "text": "Overdue Penalty or Late Payment Fee Nil if Total Payment Due is less than ₹500₹500 if total payment due is between ₹501 - ₹5,000₹750 if total payment due is between ₹5,001 - ₹10,000₹1200 if total payment due is greater than ₹10,000Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared."
+      },
+      {
+        "type": "added",
+        "text": "Overdue Penalty or Late Payment Fee Nil if outstanding amount is less than ₹500"
+      },
+      {
+        "type": "added",
+        "text": "₹500 if outstanding amount is between ₹501 and ₹5,000"
+      },
+      {
+        "type": "added",
+        "text": "₹750 if outstanding amount is between ₹5,001 and ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is between ₹10001- ₹50000"
+      },
+      {
+        "type": "added",
+        "text": "₹ 1300 if total payment due is greater than ₹50000"
+      },
+      {
+        "type": "added",
+        "text": "Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over Limit Penalty 2.5% of the overlimit amount (Min. ₹500)"
+      },
+      {
+        "type": "context",
+        "text": "Charge Slip Retrieval Fee or Copy Request Fee Waived"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reward Redemption fee Waived"
+      },
+      {
+        "type": "context",
+        "text": "Rent surcharge fee 1% of the rental txn amount"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic currency conversion markup fee 1.5% of each international txn plus taxes"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic currency conversion markup fee 3.5% of each international txn plus taxes"
+      },
+      {
+        "type": "context",
+        "text": "Education Payment Charges 1% fee per transaction will be applicable on education payments made via third party apps"
+      },
+      {
+        "type": "context",
+        "text": "Wallet Load Transaction Fee 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Overdue penalty thresholds and dynamic currency conversion fee increased, altering the card’s fee structure."
+  },
+  {
+    "id": "axis-bank-cashback-credit-card",
+    "cardName": "Cashback Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/cashback-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.221Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 and ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 and ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1,200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
+      },
+      {
+        "type": "added",
+        "text": "₹1,200 if total payment due is between ₹10,001 and ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1,300 if total payment due is greater than ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "Additional ₹100 will be charged if the Minimum Amount Due (MAD) is not paid by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Charge slip Retrieval Fee or Copy Request Fee Waived"
+      },
+      {
+        "type": "context",
+        "text": "Outstation Cheque Fee Waived"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Fuel Transaction Surcharge 1% of transaction amount (refund not applicable)"
+      },
+      {
+        "type": "context",
+        "text": "Foreign Currency Transaction Fee 3.50% of the transaction value"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup 1.5% plus taxes will be applicable on each international transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup 3.5% plus taxes will be applicable on each international transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
+      },
+      {
+        "type": "context",
+        "text": "Rent Transaction Fee 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India."
+      },
+      {
+        "type": "context",
+        "text": "Wallet Load Transaction Fee 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "₹1,200 fee now applies for ₹10,001–₹50,000, ₹1,300 for >₹50,000, and DCC markup increased to 3.5%."
+  },
+  {
+    "id": "axis-bank-horizon-credit-card",
+    "cardName": "HORIZON Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-horizon-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.220Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹ 750 if outstanding amount is between ₹ 5001 and ₹ 10000"
+      },
+      {
+        "type": "context",
+        "text": "₹ 1200 if outstanding amount is greater than ₹ 10000"
+      },
+      {
+        "type": "removed",
+        "text": "Additional ₹ 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared"
+      },
+      {
+        "type": "added",
+        "text": "Additional ₹ 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared."
+      },
+      {
+        "type": "added",
+        "text": "INR 1,300 if total payment due is greater than Rs.50,000 & above."
+      },
+      {
+        "type": "context",
+        "text": "Over limit charge 2.5% (Minimum ₹500) of Overlimit amount"
+      },
+      {
+        "type": "context",
+        "text": "Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge) 2% of the payment amount subject to Min. ₹500"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Finance Charges - Interest 3.75% (55.55% annual)"
+      },
+      {
+        "type": "context",
+        "text": "Rent Surcharge 1% will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India."
+      },
+      {
+        "type": "removed",
+        "text": "DCC Markup 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. 1& 2"
+      },
+      {
+        "type": "added",
+        "text": "DCC Markup 3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. 1& 2"
+      },
+      {
+        "type": "context",
+        "text": "Wallet load transaction fee 1% fee on cumulative spends of ₹10,000 or more on wallet loads per statement cycle"
+      },
+      {
+        "type": "context",
+        "text": "Fuel transaction fee 1% fee on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added ₹100 penalty, ₹1,300 fee for high balances, and increased DCC markup from 1.5% to 3.5% for Axis Bank Horizon Credit Card."
+  },
+  {
+    "id": "axis-bank-google-pay-flex-axis-bank-credit-card",
+    "cardName": "Google Pay Flex Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/google-pay-flex-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.219Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Finance charges (retail purchases and cash) 3.75% per month (55.54% per annum)"
+      },
+      {
+        "type": "context",
+        "text": "Late payment fees"
+      },
+      {
+        "type": "removed",
+        "text": "Nil if Total Payment Due is less than ₹500"
+      },
+      {
+        "type": "added",
+        "text": "Nil if total payment due is up to ₹500"
+      },
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is ₹10,001 to ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is ₹50,000 and above"
+      },
+      {
+        "type": "context",
+        "text": "Surcharge on purchase or cancellation of railway tickets As prescribed by IRCTC/Indian Railways"
+      },
+      {
+        "type": "context",
+        "text": "Cheque return or dishonour fee or auto-debit reversal 2% of the payment amount subject to Min ₹500"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reward redemption fee No"
+      },
+      {
+        "type": "context",
+        "text": "Rent transaction fee 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India."
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic currency conversion markup 1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
+      },
+      {
+        "type": "added",
+        "text": "Dynamic currency conversion markup 3.5% will be applicable on each Internation transaction performed in Indian Currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
+      },
+      {
+        "type": "context",
+        "text": "To apply for this card, please visit Google Pay platform."
+      },
+      {
+        "type": "context",
+        "text": "Eligibility criteria for the Google Pay Flex Axis Bank Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Payment due fee thresholds and dynamic currency conversion markup were updated for the Google Pay Flex Axis Bank Credit Card."
+  },
+  {
+    "id": "axis-bank-axis-bank-rewards-credit-card",
+    "cardName": "Axis Bank REWARDS Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.218Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fuel surcharge waiver"
+      },
+      {
+        "type": "context",
+        "text": "Get 1% fuel surcharge on fuel purchases at all fuel stations across India."
+      },
+      {
+        "type": "removed",
+        "text": "Insurance benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Purchase protection cover up to ₹1 lakh"
+      },
+      {
+        "type": "context",
+        "text": "Reward points"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited 2 EDGE REWARD Points earned on every ₹125 spend."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GST charged on fuel surcharge is non-refundable."
+      },
+      {
+        "type": "context",
+        "text": "No reward points are earned on fuel transactions."
+      },
+      {
+        "type": "removed",
+        "text": "Insurance benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Purchase protection cover up to ₹1 lakh"
+      },
+      {
+        "type": "removed",
+        "text": "Cover up to $300 for the following:"
+      },
+      {
+        "type": "removed",
+        "text": "Delay of check-in baggage"
+      },
+      {
+        "type": "removed",
+        "text": "Loss of travel documents"
+      },
+      {
+        "type": "removed",
+        "text": "Cover up to $500 for loss of check-in baggage."
+      },
+      {
+        "type": "removed",
+        "text": "Credit shield of ₹1 lakh."
+      },
+      {
+        "type": "removed",
+        "text": "Click here for detailed cover and claim procedure."
+      },
+      {
+        "type": "context",
+        "text": "Dining delights"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program."
+      },
+      {
+        "type": "context",
+        "text": "Click here for more details and full terms & conditions."
+      },
+      {
+        "type": "removed",
+        "text": "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+      },
+      {
+        "type": "removed",
+        "text": "10% off on orders via Swiggy"
+      },
+      {
+        "type": "removed",
+        "text": "10% off upto ₹1000 on Tira"
+      },
+      {
+        "type": "context",
+        "text": "Click here to avail the offers"
+      },
+      {
+        "type": "context",
+        "text": "Fees Charges"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Card replacement Nil"
+      },
+      {
+        "type": "context",
+        "text": "Duplicate statement fee Waived"
+      },
+      {
+        "type": "removed",
+        "text": "Overdue penalty or late payment fee Nil if outstanding amount is less than ₹500"
+      },
+      {
+        "type": "removed",
+        "text": "₹"
+      },
+      {
+        "type": "removed",
+        "text": "500 if outstanding amount is between ₹501 and ₹5,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹750 if outstanding amount is between ₹5,001 and ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if outstanding amount is greater than ₹10,001"
+      },
+      {
+        "type": "added",
+        "text": "Overdue penalty or late payment fee NIL if total payment due is up to ₹500"
+      },
+      {
+        "type": "added",
+        "text": "₹500 if total payment due is between 501 and 5,000"
+      },
+      {
+        "type": "added",
+        "text": "₹750 if total payment due is between 5,001 and 10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1,200 if total payment due is between 10,001 and 50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1,300 if total payment due is greater than 50,000"
+      },
+      {
+        "type": "context",
+        "text": "If the Minimum Amount Due (MAD) is not paid, Late Payment Charges (LPC) will be levied per the existing LPC structure. Additional charges of ₹100 will be levied only if the MAD payment is not made prior to"
+      },
+      {
+        "type": "context",
+        "text": "the Payment Due Date (PDD) for two consecutive billing periods."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Fuel transaction surcharge 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹5,000)"
+      },
+      {
+        "type": "context",
+        "text": "Foreign currency transaction fee 3.50% of the Transaction Value"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic currency conversion mark up 3.5% of the Transaction Value"
+      },
+      {
+        "type": "context",
+        "text": "Mobile alerts for transactions Waived"
+      },
+      {
+        "type": "context",
+        "text": "Balance enquiry charges Waived"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Importance of CIBIL Score: Why It Matters for Your Finances"
+      },
+      {
+        "type": "context",
+        "text": "Find out the importance of CIBIL score in making your financial journey smoother."
+      },
+      {
+        "type": "added",
+        "text": "Got more questions?"
+      },
+      {
+        "type": "added",
+        "text": "Locate the nearest branch for best assessment."
+      },
+      {
+        "type": "added",
+        "text": "Locate Branches"
+      },
+      {
+        "type": "context",
+        "text": "Your Axis Rewards Credit Card awaits you!"
+      },
+      {
+        "type": "context",
+        "text": "Check Eligibility"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Overdue penalty fees and dynamic currency conversion markup were updated, with new fee tiers and a 3.5% mark‑up added."
+  },
+  {
+    "id": "axis-bank-axis-bank-ace-credit-card",
+    "cardName": "Axis Bank ACE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.217Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Cash withdrawal Fee 2.5% (min. ₹500) of the cash amount"
+      },
+      {
+        "type": "context",
+        "text": "Overdue penalty or Late payment fees"
+      },
+      {
+        "type": "removed",
+        "text": "Nil if total payment due is upto ₹500"
+      },
+      {
+        "type": "removed",
+        "text": "₹500 if total payment due is between ₹501 - ₹5000"
+      },
+      {
+        "type": "added",
+        "text": "Nil if total payment due is up to ₹500"
+      },
+      {
+        "type": "added",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is ₹10,001 and above"
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is ₹10,001 to ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is ₹50,000 and above"
+      },
+      {
+        "type": "context",
+        "text": "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over limit penalty 2.5% of the over limit amount (Min ₹500)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1% fee per transaction will be applicable on rental transactions. GST will be applicable."
+      },
+      {
+        "type": "context",
+        "text": "Dynamic currency conversion markup"
+      },
+      {
+        "type": "removed",
+        "text": "1.5% will be applicable on each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
+      },
+      {
+        "type": "added",
+        "text": "3.5% will be applicable on each Internation transaction performed in Indian Currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
+      },
+      {
+        "type": "context",
+        "text": "Education transaction fee (applicable from 20th Dec, 2024)"
+      },
+      {
+        "type": "context",
+        "text": "1% fee per transaction will be applicable on education payments made via third party apps."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed fee structure: Nil up to ₹500, ₹500 for ₹501–₹5,000, ₹1,200 for ₹10,001–₹50,000, ₹1,300 above ₹50,000, and 3.5% international transaction fee."
+  },
+  {
+    "id": "axis-bank-axis-bank-my-zone-credit-card",
+    "cardName": "Axis Bank My Zone Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.216Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "GST As per existing Government norms"
+      },
+      {
+        "type": "context",
+        "text": "Rent Transaction fee 1% of transaction amount. GST applicable as notified by Government of India"
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion MarkUp 1.5% Of Transaction Amount Applicable On International Transactions Performed In Indian Currency At International Location Or Transactions Performed In Indian Currency With Merchants Located In India But Registered In Foreign Nation. GST applicable as notified by Government of India"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion MarkUp 3.5% Of Transaction Amount Applicable On International Transactions Performed In Indian Currency At International Location Or Transactions Performed In Indian Currency With Merchants Located In India But Registered In Foreign Nation. GST applicable as notified by Government of India"
+      },
+      {
+        "type": "context",
+        "text": "Education Transaction Fee 1% on each education payments done through third party apps. GST applicable as notified by Government of India"
+      },
+      {
+        "type": "context",
+        "text": "Wallet Load Transaction Fee 1% on cumulative wallet load transactions of ₹10,000 or more in a statement cycle. GST applicable as notified by Government of India"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Dynamic Currency Conversion MarkUp increased from 1.5% to 3.5% on international transactions."
+  },
+  {
+    "id": "axis-bank-indianoil-axis-bank-credit-card",
+    "cardName": "INDIANOIL AXIS BANK Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.215Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Accelerated reward points at any IOCL fuel outlets"
+      },
+      {
+        "type": "context",
+        "text": "IndianOil Axis Bank Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "With your IndianOil Axis Bank Credit Card, you may unlock a world of advantages and benefits. The purpose of this card is to link you to rewards and loyalty points. It offers a plethora of value back benefits on fuel transactions, spend based waiver, discounts on movie tickets, and more."
+      },
+      {
+        "type": "removed",
+        "text": "The Terms & Conditions of IndianOil Axis Bank Credit Card have been updated w.e.f 28th August'26. Please click here to know more."
+      },
+      {
+        "type": "added",
+        "text": "With your IndianOil Axis Bank Credit Card, you may unlock a world of advantages and benefits. The purpose of this card is to link you to rewards and loyalty points. It offers a plethora of value back benefits on fuel transactions, spend based waiver, discounts on movie tickets, and more. Read More The Terms & Conditions of IndianOil Axis Bank Credit Card have been updated w.e.f 28th August'26. Please click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Value Chart"
+      },
+      {
+        "type": "context",
+        "text": "Welcome benefit - Earn 100% valueback on fuel"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is greater than ₹10001 - ₹50000"
+      },
+      {
+        "type": "added",
+        "text": "₹1300 if total payment due is greater than ₹50000"
+      },
+      {
+        "type": "context",
+        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over limit penalty 2.5% of the over limit amount (Min ₹500)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reward Redemption fee ₹99 per transaction on the EDGE REWARDS platform"
+      },
+      {
+        "type": "context",
+        "text": "Rent Transaction fee 1% plus taxes will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India."
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup 3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in"
+      },
+      {
+        "type": "context",
+        "text": "Indian but registered in foreign nation."
+      },
+      {
+        "type": "context",
+        "text": "Transaction fee - 1% will be applicable on education payments made via third-party apps. However, payments and transactions made directly through education institutional websites, or their POS machines will not incur this fees."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a “Read More” link, revised fee brackets to ₹1200 for ₹10,001–₹50,000 and ₹1300 above ₹50,000, and increased DCC markup to 3.5%."
+  },
+  {
+    "id": "axis-bank-neo-credit-card",
+    "cardName": "Neo Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:12:34.213Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is greater"
+      },
+      {
+        "type": "removed",
+        "text": "than ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1,200 if total payment due is between ₹10,001 and ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1,300 if total payment due is greater than ₹50,00."
+      },
+      {
+        "type": "context",
+        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over Limit Penalty 2.5% of over the limit amount (Min. ₹500)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reward Redemption fee Yes"
+      },
+      {
+        "type": "context",
+        "text": "Rent Transaction fee 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India."
+      },
+      {
+        "type": "removed",
+        "text": "Dynamic Currency Conversion markup 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion markup 3.50% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
+      },
+      {
+        "type": "context",
+        "text": "Fuel Transaction Surcharge 1% of transaction amount"
+      },
+      {
+        "type": "context",
+        "text": "Education Payment Charges 1% fee per transaction will be applicable on education payments made via third party apps"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "₹1,200 fee for ₹10,001–₹50,000 payments and ₹1,300 fee for >₹50,000 payments; DCC markup increased to 3.50% plus taxes."
+  },
+  {
+    "id": "axis-bank-axis-bank-privilege-credit-card",
+    "cardName": "AXIS BANK PRIVILEGE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-27T14:12:34.212Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Maximum benefits of up to ₹400 per statement cycle."
+      },
+      {
+        "type": "context",
+        "text": "The fuel surcharge is not levied by the card issuing bank."
+      },
+      {
+        "type": "removed",
+        "text": "Only applicable for fuel MCC 5541, 5542, 5983"
+      },
+      {
+        "type": "added",
+        "text": "Only applicable for Fuel MCCs."
+      },
+      {
+        "type": "context",
+        "text": "Earn Axis EDGE REWARDS"
+      },
+      {
+        "type": "context",
+        "text": "Earn Axis EDGE REWARD points for transactions and 500+ rewards and offers to redeem points. Earn points for these transactions:"
+      },
+      {
+        "type": "context",
+        "text": "10 points on every ₹200 spent on the credit card domestically/internationally."
+      },
+      {
+        "type": "removed",
+        "text": "Spends done on Insurance, rent, fuel, educational services, utilities and government MCC(merchant category codes) will not be eligible for earning EDGE REWARDS ."
+      },
+      {
+        "type": "added",
+        "text": "Spends done on Insurance, rent, fuel, educational services, utilities and government MCC(merchant category codes), Wallet, Gold & Jewelry Gift Card, Bridge Fees, Road Fees and Tolls will not be eligible for earning EDGE REWARDS ."
+      },
+      {
+        "type": "context",
+        "text": "EDGE REWARD points will be debited for credit card transactions which are converted to EMI. On cancellation of the EMI transaction, points shall not be credited back to the original transaction."
+      },
+      {
+        "type": "context",
+        "text": "For options to redeem points, check the Axis EDGE REWARDS Catalogue ."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Annual fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "Annual fee waiver on achieving spends of ₹5 lakhs in a card anniversary year."
+      },
+      {
+        "type": "removed",
+        "text": "Spends threshold for annual fee waiver will exclude transactions made on Utility & Telecom, Rent, Wallet, Government services, Insurance, Gold & Jewellery, Fuel, Educational services"
+      },
+      {
+        "type": "added",
+        "text": "Spends threshold for annual fee waiver will exclude transactions made on Utility & Telecom, Rent, Wallet, Government services, Insurance, Gold & Jewellery, Fuel, Educational services, Gift Card, Bridge Fees, Road Fees and Tolls"
+      },
+      {
+        "type": "context",
+        "text": "For any details regarding Amex Privilege specific offers"
+      },
+      {
+        "type": "context",
+        "text": "Click here"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed reward eligibility and annual fee waiver exclusions to add Wallet, Gold & Jewelry Gift Card, Bridge Fees, Road Fees and Tolls."
+  },
+  {
+    "id": "amex-american-express-corporate-gold-card",
+    "cardName": "American Express® Corporate Gold Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/business/corporate-card/gold-corporate-card/",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:11:19.906Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "A flexible payment solution"
+      },
+      {
+        "type": "context",
+        "text": "for frequent travellers."
+      },
+      {
+        "type": "removed",
+        "text": "Request a callback"
+      },
+      {
+        "type": "removed",
+        "text": "(opens new window)"
+      },
+      {
+        "type": "context",
+        "text": "Gold Benefits"
+      },
+      {
+        "type": "context",
+        "text": "American Express® Gold Corporate Card equips frequent business travelers with essential tools to manage their travel and entertainment expenses while providing peace of mind with travel protection."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Enroll your Gold Corporate Card into the individual Membership Rewards ® program, subject to your Company’s participation in the program. To enroll, you can simply call up the number on the back of the Card."
+      },
+      {
+        "type": "context",
+        "text": "Earn"
+      },
+      {
+        "type": "removed",
+        "text": "Earn 1 point on every ₹50 spent on all your business expenses except for fuel. Utility, telecommunication, Wholesale Spends and insurance on which you earn 1 point per ₹100 spent (capped to a maximum of 1000 points per month)."
+      },
+      {
+        "type": "added",
+        "text": "Earn 1 point on every ₹50 spent on all your business expenses except for fuel. For Utility, Telecommunication, Wholesale Spends and insurance you earn 1 point per ₹100 spent (capped to a maximum of 1000 points per month)."
+      },
+      {
+        "type": "context",
+        "text": "With effect from 15th September 2023, you will earn 1 Point for every Rs.100 spent on Wholesale Spends"
+      },
+      {
+        "type": "context",
+        "text": "Redeem"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "End-to-End Program Manager Servicing"
+      },
+      {
+        "type": "context",
+        "text": "Personalized service through Dedicated Relationship Managers & Program Administrator Helpline service."
+      },
+      {
+        "type": "removed",
+        "text": "Ready to get started?"
+      },
+      {
+        "type": "removed",
+        "text": "Talk to a specialist for a customised Corporate Card for your business."
+      },
+      {
+        "type": "removed",
+        "text": "Request a callback"
+      },
+      {
+        "type": "removed",
+        "text": "(opens new window)"
+      },
+      {
+        "type": "context",
+        "text": "Compare Our Corporate Cards"
+      },
+      {
+        "type": "context",
+        "text": "Green Corporate Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Reward points earned per ₹50 and ₹100 were rephrased."
+  },
+  {
+    "id": "amex-american-express-gold-card",
+    "cardName": "American Express® Gold Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/gold-card/?linknav=in-amex-cardshop-allcards-learn-AmericanExpressGold-carousel",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:11:19.904Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "I/We confirm that I / supplementary card applicant/s is a Resident Indian as defined under the Income Tax Act of India and hereby declare that I/We will notify American Express Banking Corp. if there is a change in the residential status"
+      },
+      {
+        "type": "context",
+        "text": "I understand American Express Cards are currently issued to residents of Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Kolkata, Indore, Coimbatore, Chandigarh/Tricity, Ahmedabad, Surat, Vadodra, Bhopal, Bhubaneshwar, Ernakulam, Vijaywada, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum , Mysuru , Cuttack & Vizag  subject to condition"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift of 4,000 Bonus Membership Rewards® Points"
+      },
+      {
+        "type": "context",
+        "text": "1. With effect from 1 July 2021, Cardmembers will earn 1 Membership Rewards ® Points on every ₹50 Spent on Utility (electricity, water and gas bills) payments capped at 10,000 Membership Rewards ® points in a calendar month. Utility services include providers of household/domestic electricity, gas and water. These providers can be government departments and/or agencies including local, state, municipal organizations, public housing societies and/or apartment associations. You will not earn any Membership reward points on Insurance and Cash Withdrawals. Telecommunications includes providers of landline phones, mobile phones, internet services, cable, and other pay TV services, and calling cards."
+      },
+      {
+        "type": "context",
+        "text": "Effective 12 June 2025, Cardmembers will not earn Membership Rewards ® point on Fuel payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs)."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a welcome gift of 4,000 bonus Membership Rewards points."
+  },
+  {
+    "id": "amex-american-express-membership-rewards-credit-card",
+    "cardName": "American Express Membership Rewards® Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/membership-rewards-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressMembershipRewards",
+    "status": "Active",
+    "detectedAt": "2026-08-27T14:11:19.903Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "I have a current/permanent residential address in India"
+      },
+      {
+        "type": "context",
+        "text": "If self-employed: My company has been trading for more than 12 months"
+      },
+      {
+        "type": "added",
+        "text": "American Express Membership Rewards® Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Gift 1 of 4,000 Bonus Membership Rewards® Points"
+      },
+      {
+        "type": "context",
+        "text": "1. Welcome Gift of 4,000 Membership Rewards Points will be applicable on payment of joining fee and on spending INR 15,000 within first 90 days of Cardmembership."
+      },
+      {
+        "type": "context",
+        "text": "2.You will not earn Membership Rewards Points on your American Express Card for all your spending on fuel, insurance and utility (electricity, water and gas bills) payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs). Utility services includes providers of household/domestic electricity, gas and water. These providers can be government departments and agencies including local, state, municipal organizations, public housing societies and apartment associations."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a welcome gift of 1,000 bonus Membership Rewards® Points."
+  },
+  {
+    "id": "amex-american-express-smartearn-credit-card",
+    "cardName": "American Express SmartEarn™ Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/smart-earn-credit-card/",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-27T14:11:19.902Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "I have a current / permanent residential address in India"
+      },
+      {
+        "type": "context",
+        "text": "If self-employed: My company has been trading for more than 12 months"
+      },
+      {
+        "type": "added",
+        "text": "American Express SmartEarn™ Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Get cashback of Rs. 500 as a Welcome Gift on spending Rs. 10,000 1 in the first 90 days of Cardmembership"
+      },
+      {
+        "type": "context",
+        "text": "1.Eligible spends do not include cash advances, express cash transactions, drafts made from the Account, balance transfers and fees. Statement Credit will be given within 10 working days of completion of eligible spends."
+      },
+      {
+        "type": "context",
+        "text": "Welcome Gift is available only in the 1st year on payment of the annual fee and on spending INR 10,000 within 90 days of Cardmembership."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a Rs. 500 welcome cashback for spending Rs. 10,000 within the first 90 days."
+  },
+  {
     "id": "rbl-bank-rbl-bank-shoppers-stop-black-credit-card",
     "cardName": "RBL Bank Shoppers Stop Black Credit Card",
     "issuerName": "RBL Bank",
@@ -1548,47 +4717,6 @@
       "youtube": null
     },
     "summary": "Changed lounge access wording and eligibility for the Emirates Emeralde Credit Card."
-  },
-  {
-    "id": "hsbc-india-hsbc-taj-credit-card",
-    "cardName": "HSBC Taj Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
-    "status": "Active",
-    "detectedAt": "2026-08-19T04:04:39.673Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get 33X Points at Dyson"
-      },
-      {
-        "type": "context",
-        "text": "Earn 50 Points per INR100 on direct Dyson purchases. T&Cs apply (PDF)"
-      },
-      {
-        "type": "added",
-        "text": "Save 20% at Amazon"
-      },
-      {
-        "type": "added",
-        "text": "Get 20% off, up to INR5,000, when you spend INR10,000 or more once every month. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "VISA Infinite Benefits"
-      },
-      {
-        "type": "context",
-        "text": "For all the VISA benefits, please refer to VISA website ."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added Amazon savings: 20% off up to INR5,000 for INR10,000 spend monthly."
   },
   {
     "id": "equitas-sfb-powermiles-credit-card",
@@ -4679,47 +7807,6 @@
     "summary": "Joining Fee changed from ₹1500 to Nil, with a limited period offer."
   },
   {
-    "id": "axis-bank-axis-bank-privilege-credit-card",
-    "cardName": "AXIS BANK PRIVILEGE Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-14T05:03:53.906Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "In Privilege Credit Card fees, overdue penalty, fee on cash payment, etc. are applicable as per terms and conditions. However, fees and charges for Privilege Credit Card are waived for services like mobile alerts. The detailed fee structure is provided below."
-      },
-      {
-        "type": "context",
-        "text": "Description Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Joining Fee ₹1500"
-      },
-      {
-        "type": "added",
-        "text": "Standard Joining Fee ₹NIL (Limited period offer)"
-      },
-      {
-        "type": "context",
-        "text": "Standard Annual Fee (2nd year onwards) ₹1500"
-      },
-      {
-        "type": "context",
-        "text": "Standard Add-on Card Joining Fee Nil"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Standard Joining Fee changed from ₹1500 to ₹NIL (Limited period offer)."
-  },
-  {
     "id": "kotak-mahindra-bank-indigo-kotak-credit-card",
     "cardName": "IndiGo Kotak Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -5281,79 +8368,6 @@
       "youtube": null
     },
     "summary": "Added early payment cashback terms: 5% annual cashback for full payment within 7 days, with eligibility and calculation details."
-  },
-  {
-    "id": "axis-bank-axis-bank-rewards-credit-card",
-    "cardName": "Axis Bank REWARDS Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-07T05:04:32.237Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "500 if outstanding amount is between ₹501 and ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if outstanding amount is between ₹5,001 and ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1000 if outstanding amount is greater than ₹10,001"
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if outstanding amount is greater than ₹10,001"
-      },
-      {
-        "type": "context",
-        "text": "If the Minimum Amount Due (MAD) is not paid, Late Payment Charges (LPC) will be levied per the existing LPC structure. Additional charges of ₹100 will be levied only if the MAD payment is not made prior to"
-      },
-      {
-        "type": "context",
-        "text": "the Payment Due Date (PDD) for two consecutive billing periods."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "CIBIL score importance"
-      },
-      {
-        "type": "context",
-        "text": "Find out the importance of CIBIL score in making your financial journey smoother."
-      },
-      {
-        "type": "added",
-        "text": "Got more questions?"
-      },
-      {
-        "type": "added",
-        "text": "Locate the nearest branch for best assessment."
-      },
-      {
-        "type": "added",
-        "text": "Locate Branches"
-      },
-      {
-        "type": "context",
-        "text": "Your Axis Rewards Credit Card awaits you!"
-      },
-      {
-        "type": "context",
-        "text": "Check Eligibility"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "₹1200 fee now applies for outstanding balances over ₹10,001."
   },
   {
     "id": "hsbc-india-live-credit-card",

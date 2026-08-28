@@ -1652,8 +1652,8 @@
     "issuerName": "HDFC Bank",
     "issuerSlug": "hdfc-bank",
     "url": "https://www.hdfc.bank.in/credit-cards/pine-labs-credit-card",
-    "status": "Active",
-    "discontinuedAt": null
+    "status": "Discontinued",
+    "discontinuedAt": "2026-08-28T15:27:14.264Z"
   },
   {
     "cardName": "Pine Labs HDFC Bank Pro Credit Card",

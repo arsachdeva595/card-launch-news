@@ -1,5 +1,130 @@
 [
   {
+    "id": "hdfc-bank-pine-labs-hdfc-bank-pro-credit-card",
+    "cardName": "Pine Labs HDFC Bank Pro Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pine-labs-pro-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-08-29T10:07:15.692Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Pine Labs HDFC Bank Pro Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Premium 8"
+      },
+      {
+        "type": "added",
+        "text": "Others 12"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Auto Loan"
+      },
+      {
+        "type": "added",
+        "text": "Two Wheeler Loan A2A Top Up"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Two Wheeler Loan"
+      },
+      {
+        "type": "added",
+        "text": "Two Wheeler Loan Top Up"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Gold Loan"
+      },
+      {
+        "type": "added",
+        "text": "Two Wheeler Loan A2A Top Up"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Two Wheeler Loan"
+      },
+      {
+        "type": "added",
+        "text": "Two Wheeler Loan Top Up"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Gold Loan"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Auto Loan"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Health Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Export & Import Documents"
+      },
+      {
+        "type": "added",
+        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
+      },
+      {
+        "type": "added",
+        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
+      },
+      {
+        "type": "context",
+        "text": "Pine Labs Pro Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Pine Labs HDFC Bank Pro Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Sourcing of this Credit Card has been stopped. Existing customers of this card will continue to enjoy the benefits."
+      },
+      {
+        "type": "added",
+        "text": "This Credit Card has been discontinued and is no longer open for new applications. Existing cardholders will continue to enjoy all current features and benefits until a replacement card is issued during migration or at the time of reissuance/replacement/renewal"
+      },
+      {
+        "type": "context",
+        "text": "What’s In Store For You"
+      },
+      {
+        "type": "context",
+        "text": "Card Benefits and Features"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "​​1% Mark-Up to be applicable on all International DCC transactions"
+      },
+      {
+        "type": "context",
+        "text": "*The Most Important Terms and Conditions  for each of our banking offerings features all the specific terms and conditions that govern their use. You must go through it thoroughly to fully understand the terms and conditions applicable to any banking product you choose."
+      },
+      {
+        "type": "added",
+        "text": "HDB Financial Services"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "This change indicates the card has been discontinued and will no longer accept new applications."
+  },
+  {
     "id": "hdfc-bank-pine-labs-hdfc-bank-credit-card",
     "cardName": "Pine Labs HDFC Bank Credit Card",
     "issuerName": "HDFC Bank",

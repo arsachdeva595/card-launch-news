@@ -1660,8 +1660,8 @@
     "issuerName": "HDFC Bank",
     "issuerSlug": "hdfc-bank",
     "url": "https://www.hdfc.bank.in/credit-cards/pine-labs-pro-credit-card",
-    "status": "Active",
-    "discontinuedAt": null
+    "status": "Discontinued",
+    "discontinuedAt": "2026-08-29T10:07:15.692Z"
   },
   {
     "cardName": "Platinum Edge Credit Card",

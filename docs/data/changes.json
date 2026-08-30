@@ -1,5 +1,3096 @@
 [
   {
+    "id": "standard-chartered-india-digismart-credit-card",
+    "cardName": "DigiSmart Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/digismart-card/",
+    "status": "Discontinued",
+    "detectedAt": "2026-08-30T09:23:28.904Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "DigiSmart Card &#8211; Best Online Shopping Credit Card &#8211; Standard Chartered India"
+      },
+      {
+        "type": "removed",
+        "text": "Up to 20% off on Blinkit, Ola, Zomato & more."
+      },
+      {
+        "type": "added",
+        "text": "DigiSmart Card – Best Online Shopping Credit Card – Standard Chartered India"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy exclusive benefits of up to 20% off* on Zomato, Blinkit and more!"
+      },
+      {
+        "type": "removed",
+        "text": "Know More"
+      },
+      {
+        "type": "removed",
+        "text": "Know More"
+      },
+      {
+        "type": "removed",
+        "text": "DigiSmart Card"
+      },
+      {
+        "type": "context",
+        "text": "One credit card for all your online tabs"
+      },
+      {
+        "type": "context",
+        "text": "Standard Chartered’s DigiSmart Card, is for online purchases with attractive offers on grocery, dining, travel & more."
+      },
+      {
+        "type": "removed",
+        "text": "Know More"
+      },
+      {
+        "type": "removed",
+        "text": "Know More"
+      },
+      {
+        "type": "added",
+        "text": "DigiSmart Card – Best Online Shopping Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "DigiSmart Credit Card Benefits"
+      },
+      {
+        "type": "context",
+        "text": "10%*"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Detailed Benefits of DigiSmart Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Best Shopping Credit Card for Online Groceries"
+      },
+      {
+        "type": "removed",
+        "text": "Key in the promo code DIGISMART and get 10% off* on Blinkit with no minimum spend. This offer is valid for five transactions per month, with a monthly discount maximum of INR 1,000. Know more !"
+      },
+      {
+        "type": "added",
+        "text": "Key in the promo code DIGISMART and get 10% off* on Blinkit with no minimum spend. This offer is valid for five transactions per month, with a monthly discount maximum of INR 1,000.  Know more !"
+      },
+      {
+        "type": "context",
+        "text": "Offer on Zomato Food Orders"
+      },
+      {
+        "type": "context",
+        "text": "The promo code DIGISMART will get you 10% discount* on Zomato orders with no minimum spend. Valid for 5 transactions per month with a maximum discount of INR 150 per transaction. Know more !"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Features of DigiSmart Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Your loved ones come first for you and we appreciate the feeling. Your family members can now share your credit card benefits too. Go ahead and spread the joy!"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy a wide range of instant payment solutions like BharatQR, Bharat bill payment solution (BBPS) and Samsung Pay."
+      },
+      {
+        "type": "context",
+        "text": "Check your card balance and make convenient and instant card payments via online banking and Standard Chartered Mobile."
+      },
+      {
+        "type": "context",
+        "text": "Convert your big spends above INR 5,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
+      },
+      {
+        "type": "context",
+        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
+      },
+      {
+        "type": "removed",
+        "text": "Convert your entire outstanding (upto INR 5,00,000) into EMIs. Zero processing fee."
+      },
+      {
+        "type": "removed",
+        "text": "Applicant’s age should be between 21 and 65 years."
+      },
+      {
+        "type": "context",
+        "text": "Minimum monthly income of INR 50,000 is required."
+      },
+      {
+        "type": "removed",
+        "text": "Fees and Charges"
+      },
+      {
+        "type": "context",
+        "text": "Primary Card:"
+      },
+      {
+        "type": "context",
+        "text": "The DigiSmart credit card has no annual fee. Instead, clients will be charged a modest sum of INR 49 per month. This is waived on monthly spends of INR 5000 in the next calendar month of fee levied."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "On issuing a DigiSmart card, you can easily apply for its virtual card too with a few, uncomplicated select-and-apply steps. On completing the process, you can access your virtual DigiSmart credit card for online shopping immediately with zero waiting time. To know more about the application process, click here ."
+      },
+      {
+        "type": "context",
+        "text": "This digital credit card is convenient for everyone who wish to explore DigiSmart card’s exciting perks immediately after applying for it- you don’t have to wait for the physical card to reach your doorsteps."
+      },
+      {
+        "type": "removed",
+        "text": "*Terms &#038; Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Terms & Conditions"
+      },
+      {
+        "type": "added",
+        "text": "The processing fee will be levied by 15 th of the next calendar month and will have a separate narration in the monthly statement."
+      },
+      {
+        "type": "added",
+        "text": "*Terms & Conditions"
+      },
+      {
+        "type": "context",
+        "text": "DigiSmart Product Terms and Conditions"
+      },
+      {
+        "type": "context",
+        "text": "SMART CREDIT CARD"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy flat 2%* cashback on online spends & 1%* cashback on other spends*. *T&C apply"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Chartered EaseMyTrip Credit card"
+      },
+      {
+        "type": "added",
+        "text": "STANDARD CHARTERED EASEMYTRIP CREDIT CARD"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 20% & 10% instant discount* on hotel and flight respectively with Standard Chartered EaseMyTrip credit card"
+      },
+      {
+        "type": "removed",
+        "text": "Know More"
+      },
+      {
+        "type": "removed",
+        "text": "Know More"
+      },
+      {
+        "type": "removed",
+        "text": "BACK TO TOP"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Processing fee now levied on the 15th of the next calendar month with separate narration in the monthly statement."
+  },
+  {
+    "id": "standard-chartered-india-super-value-titanium-credit-card",
+    "cardName": "Super Value Titanium Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/super-value-titanium/",
+    "status": "Active",
+    "detectedAt": "2026-08-30T09:23:28.903Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Super Value Titanium &#8211; Best Fuel Credit Card &#8211; Standard Chartered India"
+      },
+      {
+        "type": "added",
+        "text": "Super Value Titanium – Best Fuel Credit Card – Standard Chartered India"
+      },
+      {
+        "type": "context",
+        "text": "Welcome to a world of benefits"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 5%* cashback on fuel, telephone and utility bills and 1 reward point per ₹150 on all other spends"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Show More"
+      },
+      {
+        "type": "context",
+        "text": "Show Less"
+      },
+      {
+        "type": "removed",
+        "text": "Features of Super Value Titanium Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Avail a lifetime free supplementary credit card for your loved ones and extend the benefits of your own credit card to the supplementary credit holder."
+      },
+      {
+        "type": "removed",
+        "text": "Simple, secure payments and freedom from cash while transacting. Stay safe with your contactless credit card."
+      },
+      {
+        "type": "removed",
+        "text": "Standard Chartered allows you a wide range of instant payment solutions as UPI payment solutions, BharatQR, Bharat bill payment solution, IMPS and Samsung Pay."
+      },
+      {
+        "type": "added",
+        "text": "Other Credit Card Features"
+      },
+      {
+        "type": "context",
+        "text": "Now no long queues at the bank; with online banking and the SC Mobile app, check your card balance and make instant card payments, no matter where you are!"
+      },
+      {
+        "type": "removed",
+        "text": "Convert all your big spends above INR 2,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy our attractive pricing and flexible tenure options."
+      },
+      {
+        "type": "removed",
+        "text": "Redeem your reward points with the Standard Chartered 360° rewards program. Treat yourself to the vouchers, discounts and fabulous offers."
+      },
+      {
+        "type": "removed",
+        "text": "Instantly avail of loans on your Standard Chartered credit card for up to INR 5,00,000 ranging from 12 to 60 months starting at interest rate of 0.99% p.m."
+      },
+      {
+        "type": "removed",
+        "text": "Now ,you can transfer your other bank credit card balance of up to INR 5,00,000, at an attractive interest rate of just 0.99% per month for the first 6 months!"
+      },
+      {
+        "type": "removed",
+        "text": "Convert your entire outstanding credit card balance of up to INR 5,00,000, into convenient EMIs with zero processing fees charged by Standard Chartered bank"
+      },
+      {
+        "type": "removed",
+        "text": "Eligibility & Documents"
+      },
+      {
+        "type": "removed",
+        "text": "Applicant’s age should be between 21 and 65 years."
+      },
+      {
+        "type": "removed",
+        "text": "Minimum monthly income of INR 55,000 is required."
+      },
+      {
+        "type": "removed",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "● First year annual fee &#8211; INR 750"
+      },
+      {
+        "type": "removed",
+        "text": "● Renewal fee from second year &#8211; INR 750"
+      },
+      {
+        "type": "removed",
+        "text": "The renewal fee will be reversed for clients with spends greater than or equal to INR 90,000 in the preceding year."
+      },
+      {
+        "type": "removed",
+        "text": "Sr.No"
+      },
+      {
+        "type": "removed",
+        "text": "ANNUAL BENEFITS BY USING SUPER VALUE TITANIUM CARD"
+      },
+      {
+        "type": "removed",
+        "text": "ANNUAL TOTAL BENEFIT"
+      },
+      {
+        "type": "removed",
+        "text": "1"
+      },
+      {
+        "type": "removed",
+        "text": "Cashback on Fuel , Utility & Telecom Bill Payment* (Avg INR 1,20,000 per Year &ndash; 5 % Cashback)"
+      },
+      {
+        "type": "removed",
+        "text": "INR 6,000"
+      },
+      {
+        "type": "removed",
+        "text": "2"
+      },
+      {
+        "type": "removed",
+        "text": "Rewards Points on Other Annual Spend (Avg INR 1,80,000 per Year &ndash; 1 Reward Point per INR 150)"
+      },
+      {
+        "type": "removed",
+        "text": "INR 300"
+      },
+      {
+        "type": "removed",
+        "text": "3"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee Reversal on meeting INR 90,000 spends"
+      },
+      {
+        "type": "removed",
+        "text": "INR 750"
+      },
+      {
+        "type": "removed",
+        "text": "Total"
+      },
+      {
+        "type": "removed",
+        "text": "INR 7050"
+      },
+      {
+        "type": "added",
+        "text": "Convert all your big spends above INR 2,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options"
+      },
+      {
+        "type": "added",
+        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards program."
+      },
+      {
+        "type": "added",
+        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
+      },
+      {
+        "type": "added",
+        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
+      },
+      {
+        "type": "added",
+        "text": "Applicant should have a stable monthly income."
+      },
+      {
+        "type": "added",
+        "text": "Applicants should belong to credit cards sourcing cities/locations of the Bank."
+      },
+      {
+        "type": "added",
+        "text": "The charges due for each Standard Chartered credit card differs from one another. When looking to apply for a credit card, it is advisable to factor in this information as well. Not only is the Super Value Titanium card the best credit card for fuel purchases, it is also one of the best priced cards available as shown below:"
+      },
+      {
+        "type": "added",
+        "text": "● First year annual fee – INR 750"
+      },
+      {
+        "type": "added",
+        "text": "● Renewal fee from second year – INR 750"
+      },
+      {
+        "type": "added",
+        "text": "Value chart"
+      },
+      {
+        "type": "added",
+        "text": "Category of Spends Monthly Spend Cashback Earned (Per Month) Annual Cashback (Per Annum)"
+      },
+      {
+        "type": "added",
+        "text": "Online Spends INR 50,000 INR 1,000 INR 12,000"
+      },
+      {
+        "type": "added",
+        "text": "Offline Spends INR 50,000 INR 500 INR 6,000"
+      },
+      {
+        "type": "added",
+        "text": "Total INR 1,00,000 INR 1,500 INR 18,000"
+      },
+      {
+        "type": "added",
+        "text": "Super Value Titanium Terms and Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Super Value Titanium Terms and Conditions for Premium Banking Clients"
+      },
+      {
+        "type": "context",
+        "text": "Super Value Titanium Credit Card FAQs"
+      },
+      {
+        "type": "context",
+        "text": "Can I pay for fuel using my credit card?"
+      },
+      {
+        "type": "removed",
+        "text": "There&#8217;s a reason why Standard Chartered’s Super Value Titanium is the best credit card for fuel expenditure; after all, you can pay for fuel at petrol pumps across India and earn 5 % cashback up to INR 200 per month!"
+      },
+      {
+        "type": "added",
+        "text": "There’s a reason why Standard Chartered’s Super Value Titanium is the best credit card for fuel expenditure; after all, you can pay for fuel at petrol pumps across India and earn 5 % cashback up to INR 200 per month!"
+      },
+      {
+        "type": "context",
+        "text": "What is a fuel credit card and is a Super Value Titanium card a fuel credit card?"
+      },
+      {
+        "type": "context",
+        "text": "A fuel credit card is specially designed to offer you benefits when used for purchasing fuel. The Super Value Titanium card is ideal for those who require to spend a lot per month on fuel purchases. It also offers benefits on other expenditure, in the form of cashbacks and reward points."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "● 5% cashback on fuel"
+      },
+      {
+        "type": "context",
+        "text": "● Reward point for every INR 150 spent using your credit card"
+      },
+      {
+        "type": "removed",
+        "text": "● Complimentary Priority Pass providing access to 1000+ airport lounges across the globe for Premium Banking Customers"
+      },
+      {
+        "type": "added",
+        "text": "● Complimentary Priority Pass providing access to 1000&#43; airport lounges across the globe for Premium Banking Customers"
+      },
+      {
+        "type": "context",
+        "text": "How to apply for the cashback credit card online?"
+      },
+      {
+        "type": "context",
+        "text": "You can apply online for the cashback credit card and get an instant in-principle decision regarding its approval. Once you have submitted your application online, our bank representative will get in touch with you to complete the documentation requirements. From there on out, your card will be subject to final policy and verification checks of the bank and you should be able to receive it within 7-15 days from the time you submit your documents and the signed application form. Although it may take longer in some cases."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Super Value Titanium credit cardholders are requested to use the bill pay platforms of Standard Chartered Bank to get cashback on utility and telephone bills."
+      },
+      {
+        "type": "context",
+        "text": "What is a Virtual Super Value Titanium credit card and how to get one?"
+      },
+      {
+        "type": "removed",
+        "text": "A virtual Super Value Titanium credit card is the online replication of the physical card with a unique card number, CVV and expiry date. It can be used instantly from anywhere across the globe without the need of the physical card &#8211; you can simply store the virtual card details on your smartphone."
+      },
+      {
+        "type": "removed",
+        "text": "On issuing a Super Value Titanium credit card, you can easily apply for its virtual card too with a few, uncomplicated select-and-apply steps. On completing the process, you can access your virtual credit card for online shopping immediately with zero waiting time. To know more about the application process, click here ."
+      },
+      {
+        "type": "added",
+        "text": "A virtual Super Value Titanium credit card is the online replication of the physical card with a unique card number, CVV and expiry date. It can be used instantly from anywhere across the globe without the need of the physical card – you can simply store the virtual card details on your smartphone."
+      },
+      {
+        "type": "added",
+        "text": "On issuing a Super Value Titanium credit card, you can easily apply for its virtual card too with a few, uncomplicated select-and-apply steps. On completing the process, you can access your virtual credit card for online shopping immediately with zero waiting time. To know more about the application process, click here."
+      },
+      {
+        "type": "context",
+        "text": "What is VKYC?"
+      },
+      {
+        "type": "context",
+        "text": "VKYC, or simply Video KYC, is a feature that allows you to complete your KYC through a video from the comfort of your home while applying online for a Standard Chartered credit card, personal loan, or savings account. With this feature, our application process becomes even more simpler and completely contactless. Click here to learn more"
+      },
+      {
+        "type": "added",
+        "text": "The processing fee will be levied by 15th of the next calendar month and will have a separate narration in the monthly statement."
+      },
+      {
+        "type": "context",
+        "text": "I am a Premium Banking client holding a Premium Super Value Titanium Credit Card. What lounge access features are offered on my Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "Your Premium Super Value Titanium Credit Card makes you eligible for 1 complimentary* international lounge access (outside India) per month using Priority Pass FUM qualification of INR 15 lakhs at an individual account level or having monthly salary credit of INR 1.5 lakhs or above basis Premium Banking programme qualification criteria. There is no domestic lounge access on your credit card."
+      },
+      {
+        "type": "removed",
+        "text": "*Terms And Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card- Terms and conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Super Value Titanium Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Super Value Titanium Terms and Conditions for Premium Banking Clients"
+      },
+      {
+        "type": "removed",
+        "text": "For Super Value Titanium Most Important Document, click here"
+      },
+      {
+        "type": "removed",
+        "text": "For Premium Super Value Titanium Most Important Document, click here"
+      },
+      {
+        "type": "removed",
+        "text": "Tariffs and Charges"
+      },
+      {
+        "type": "added",
+        "text": "Useful links"
+      },
+      {
+        "type": "context",
+        "text": "FAQ"
+      },
+      {
+        "type": "context",
+        "text": "Documentation required"
+      },
+      {
+        "type": "context",
+        "text": "IVR / OTP generation"
+      },
+      {
+        "type": "added",
+        "text": "FAQ"
+      },
+      {
+        "type": "added",
+        "text": "Documentation required"
+      },
+      {
+        "type": "added",
+        "text": "IVR / OTP generation"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added new EMI, loan, balance‑transfer options, updated eligibility and fee details for the Super Value Titanium card."
+  },
+  {
+    "id": "standard-chartered-india-manhattan-credit-card",
+    "cardName": "Manhattan Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/manhattan-platinum/",
+    "status": "Active",
+    "detectedAt": "2026-08-30T09:23:28.903Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Manhattan Credit Card &#8211; Earn Cash Back and Rewards &#8211; Standard Chartered India"
+      },
+      {
+        "type": "removed",
+        "text": "Manhattan Platinum Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Manhattan Credit Card – Earn Cash Back and Rewards – Standard Chartered India"
+      },
+      {
+        "type": "context",
+        "text": "Get rewarded for shopping"
+      },
+      {
+        "type": "context",
+        "text": "Manhattan Platinum Credit Card and enjoy a host of offers & discounts."
+      },
+      {
+        "type": "removed",
+        "text": "Know More"
+      },
+      {
+        "type": "removed",
+        "text": "Know More"
+      },
+      {
+        "type": "added",
+        "text": "KNOW MORE"
+      },
+      {
+        "type": "added",
+        "text": "Manhattan Credit Card – Earn Cash Back and Rewards"
+      },
+      {
+        "type": "context",
+        "text": "Manhattan Credit Card Benefits"
+      },
+      {
+        "type": "context",
+        "text": "5%"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Manhattan Credit Card is offered on Visa Network."
+      },
+      {
+        "type": "context",
+        "text": "Features"
+      },
+      {
+        "type": "removed",
+        "text": "Extend the benefits of your credit card to your family members by getting them lifetime free Supplementary credit cards."
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy a wide range of instant payment solutions like BharatQR, Bharat bill payment solution (BBPS) and Samsung Pay."
+      },
+      {
+        "type": "removed",
+        "text": "Check your card balance and make convenient and instant card payments via online banking and Standard Chartered Mobile."
+      },
+      {
+        "type": "removed",
+        "text": "Convert your big spends above INR 5,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options."
+      },
+      {
+        "type": "removed",
+        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards program."
+      },
+      {
+        "type": "removed",
+        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
+      },
+      {
+        "type": "removed",
+        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
+      },
+      {
+        "type": "removed",
+        "text": "Convert your entire outstanding (upto INR 5,00,000) into EMIs. Zero processing fee."
+      },
+      {
+        "type": "removed",
+        "text": "Applicant’s age should be between 21 and 65"
+      },
+      {
+        "type": "removed",
+        "text": "Applicant should have a stable monthly income."
+      },
+      {
+        "type": "removed",
+        "text": "All applications are subject to credit and other policy checks of the Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Fees &#038; Charges"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy a wide range of instant payment solutions like BharatQR, Bharat Bill Payment Solution (BBPS) and Samsung Pay."
+      },
+      {
+        "type": "added",
+        "text": "Online banking and Standard Chartered mobile"
+      },
+      {
+        "type": "added",
+        "text": "Check your card balance and make convenient and instant card payments via online banking and Standard Chartered mobile."
+      },
+      {
+        "type": "added",
+        "text": "Convert your big spendings above INR 5,000 to easy EMI with Kuch Bhi on EMI through online banking or SC mobile. Enjoy attractive pricing and flexible tenure options."
+      },
+      {
+        "type": "added",
+        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards programme."
+      },
+      {
+        "type": "added",
+        "text": "Get loans on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months. Terms and conditions."
+      },
+      {
+        "type": "added",
+        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
+      },
+      {
+        "type": "added",
+        "text": "Convert your entire outstanding (upto INR 5,00,000) into EMIs. Zero processing fee."
+      },
+      {
+        "type": "added",
+        "text": "Visa Infinite Credit Card is offered on Visa Network"
+      },
+      {
+        "type": "added",
+        "text": "Applicant’s age should be between 18 and 65 years."
+      },
+      {
+        "type": "added",
+        "text": "Applicants should belong to credit card sourcing cities/locations of the Bank"
+      },
+      {
+        "type": "added",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee"
+      },
+      {
+        "type": "removed",
+        "text": "INR 999+GST"
+      },
+      {
+        "type": "added",
+        "text": "INR 999&#43;GST"
+      },
+      {
+        "type": "context",
+        "text": "Joining Benefits: 5000 Reward Points on payment of Joining Fees"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fees:"
+      },
+      {
+        "type": "removed",
+        "text": "INR 999+GST (2nd year onwards)"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fees"
+      },
+      {
+        "type": "added",
+        "text": "INR 999&#43;GST (2nd year onwards)"
+      },
+      {
+        "type": "context",
+        "text": "Renewal Benefits: Renewal fee reversed on spends greater than INR 120,000 in the previous year"
+      },
+      {
+        "type": "added",
+        "text": "ANNUAL BENEFITS BY USING MANHATTAN CARD"
+      },
+      {
+        "type": "added",
+        "text": "ANNUAL TOTAL BENEFIT"
+      },
+      {
+        "type": "added",
+        "text": "Cashback on Grocery, Supermarkets and Departmental store spends (Avg INR 1,50,000 per Year – 5 % Cashback) INR 6,000"
+      },
+      {
+        "type": "added",
+        "text": "Rewards Points on Other Annual Spend (Avg INR 1,50,000 per Year – 3 Reward Points per INR 150) INR 750"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee Reversal on meeting INR 1,20,000 spends INR 999"
+      },
+      {
+        "type": "added",
+        "text": "Manhattan Platinum Terms and Conditions"
+      },
+      {
+        "type": "context",
+        "text": "Manhattan Platinum Credit Card FAQs"
+      },
+      {
+        "type": "context",
+        "text": "How long does it take to apply for a credit card?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "How much is the interest charges?"
+      },
+      {
+        "type": "context",
+        "text": "The monthly interest rate is annualized to arrive at the annualized percentage rate (APR). Monthly interest rate of 3.75% pm is annualized to arrive at an APR of 45.00% for all Standard Chartered Credit Cards including Visa Infinite and Emirates World credit cards. However, for all instant credit card variants, the monthly interest rate is 1.99% pm (APR of 23.88%). Cash transactions will also attract an interest rate of 3.75% pm (APR of 45.00%)."
+      },
+      {
+        "type": "removed",
+        "text": "ANNUAL BENEFITS BY USING MANHATTAN CARD"
+      },
+      {
+        "type": "removed",
+        "text": "ANNUAL TOTAL BENEFIT"
+      },
+      {
+        "type": "removed",
+        "text": "Cashback on Grocery, Supermarkets and Departmental store spends (Avg INR 1,50,000 per Year &ndash; 5 % Cashback)"
+      },
+      {
+        "type": "removed",
+        "text": "INR 6,000"
+      },
+      {
+        "type": "removed",
+        "text": "Rewards Points on Other Annual Spend (Avg INR 1,50,000 per Year &ndash; 3 Reward Points per INR 150)"
+      },
+      {
+        "type": "removed",
+        "text": "INR 750"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee Reversal on meeting INR 1,20,000 spends"
+      },
+      {
+        "type": "removed",
+        "text": "INR 999"
+      },
+      {
+        "type": "removed",
+        "text": "Terms And Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card- Terms and conditions"
+      },
+      {
+        "type": "removed",
+        "text": "For details, please  click here for English"
+      },
+      {
+        "type": "removed",
+        "text": "For details, please  click here for Hindi"
+      },
+      {
+        "type": "removed",
+        "text": "For details, please  click here for Kannada"
+      },
+      {
+        "type": "removed",
+        "text": "For details, please  click here for Marathi"
+      },
+      {
+        "type": "removed",
+        "text": "For details, please  click here for Tamil"
+      },
+      {
+        "type": "removed",
+        "text": "For details, please  click here for Telugu"
+      },
+      {
+        "type": "removed",
+        "text": "For details, please  click here for Bengali"
+      },
+      {
+        "type": "removed",
+        "text": "Manhattan Platinum Terms and Conditions"
+      },
+      {
+        "type": "context",
+        "text": "SMART CREDIT CARD"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy flat 2%* cashback on online spends & 1%* cashback on other spends* with the Smart Credit Card. *T&C apply"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "ENJOY SHOPPING WITH PLATINUM REWARDS CREDIT CARD"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 5X reward points* with Platinum Rewards credit card. *T&C apply"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Useful links"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Annual fees changed to INR 999 +GST and benefit details updated, including cashback, reward points, and fee reversal thresholds."
+  },
+  {
+    "id": "standard-chartered-india-priority-visa-infinite-credit-card",
+    "cardName": "Priority Visa Infinite Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/priority-banking-visa-infinite/",
+    "status": "Active",
+    "detectedAt": "2026-08-30T09:23:28.903Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Visa Infinite Card &#8211; Priority Banking Credit Card &#8211; Standard Chartered India"
+      },
+      {
+        "type": "removed",
+        "text": "Priority Banking Visa Infinite Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Visa Infinite Card – Priority Banking Credit Card – Standard Chartered India"
+      },
+      {
+        "type": "context",
+        "text": "Standard Chartered Priority Visa Infinite credit card provides you with an exclusive and rewarding experience as a Priority Banking client."
+      },
+      {
+        "type": "added",
+        "text": "Visa Infinite Card – Priority Banking Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "The card to suit your lifestyle"
+      },
+      {
+        "type": "context",
+        "text": "Reserved for Priority Banking customers, the Priority Visa Infinite credit card offers you personalised services and be spoke privileges to match your lifestyle."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Complementary overseas insurance"
+      },
+      {
+        "type": "context",
+        "text": "Protect yourself with complimentary overseas air accident cover of INR 1 Crore and medical insurance worth USD 25,000. Click here to update nominee details."
+      },
+      {
+        "type": "removed",
+        "text": "+ More"
+      },
+      {
+        "type": "added",
+        "text": "&#43; More"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary for Priority relationship"
+      },
+      {
+        "type": "added",
+        "text": "The privileges of the Priority Visa Infinite credit card are complimentary for our Priority Banking clients."
+      },
+      {
+        "type": "added",
+        "text": "Unique rewards programme"
+      },
+      {
+        "type": "added",
+        "text": "Earn 5 reward points for every INR 100 spent overseas or on retail fashion. Earn 2 reward points for every INR 100 on all other spends."
+      },
+      {
+        "type": "added",
+        "text": "Airport lounge access"
+      },
+      {
+        "type": "added",
+        "text": "4 complimentary access per calendar quarter on domestic Lounges in India (using your Priority Visa Infinite Credit Card)."
+      },
+      {
+        "type": "added",
+        "text": "2 complimentary access per month at international lounges (with Priority Pass) for FUM Qualified Clients."
+      },
+      {
+        "type": "added",
+        "text": "Priority Pass membership"
+      },
+      {
+        "type": "added",
+        "text": "Access to international airport lounges worldwide at a nominal change."
+      },
+      {
+        "type": "added",
+        "text": "Complementary overseas insurance"
+      },
+      {
+        "type": "added",
+        "text": "Protect yourself with complimentary overseas air accident cover of INR 1 Crore and medical insurance worth USD 25,000. Click here to update nominee details."
+      },
+      {
+        "type": "added",
+        "text": "&#43; More"
+      },
+      {
+        "type": "context",
+        "text": "Features"
+      },
+      {
+        "type": "removed",
+        "text": "Extend the benefits of your credit card to your family members by getting them lifetime free Supplementary credit cards."
+      },
+      {
+        "type": "context",
+        "text": "Enjoy a wide range of instant payment solutions like BharatQR, Bharat Bill Payment Solution (BBPS) and Samsung Pay."
+      },
+      {
+        "type": "context",
+        "text": "Online banking and Standard Chartered mobile"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Details"
+      },
+      {
+        "type": "context",
+        "text": "Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Annualized Percentage Rate (w.e.f. 1 May 2021):"
+      },
+      {
+        "type": "removed",
+        "text": "The monthly interest rate is annualized to arrive at the annualized percentage rate (APR)."
+      },
+      {
+        "type": "added",
+        "text": "Annualized Percentage Rate (w.e.f. 1 May 2021): The monthly interest rate is annualized to arrive at the annualized percentage rate (APR)."
+      },
+      {
+        "type": "context",
+        "text": "Monthly interest rate of 3.75% pm is annualized to arrive at an APR of 45.00% for all Standard Chartered Credit Cards including Visa Infinite and Emirates World credit cards."
+      },
+      {
+        "type": "context",
+        "text": "However, for all instant credit card variants, the monthly interest rate is 1.99% pm (APR of 23.88%)."
+      },
+      {
+        "type": "context",
+        "text": "Cash transactions will also attract an interest rate of 3.75% pm (APR of 45.00%)."
+      },
+      {
+        "type": "removed",
+        "text": "ATM withdrawals:"
+      },
+      {
+        "type": "removed",
+        "text": "INR 100 for statement outstanding balance less than or equal to INR 500."
+      },
+      {
+        "type": "added",
+        "text": "ATM withdrawals: INR 100 for statement outstanding balance less than or equal to INR 500."
+      },
+      {
+        "type": "context",
+        "text": "INR 350 for statement outstanding balance between INR 501 and INR 2,000."
+      },
+      {
+        "type": "context",
+        "text": "INR 500 for statement outstanding balance between INR 2,001 and INR 4,000."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Click here for credit cards rates and tariff"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility and Documents"
+      },
+      {
+        "type": "removed",
+        "text": "Applicant&#8217;s age should be between 21 and 65 years."
+      },
+      {
+        "type": "added",
+        "text": "ELIGIBILITY"
+      },
+      {
+        "type": "context",
+        "text": "Applicant should have a stable monthly income."
+      },
+      {
+        "type": "context",
+        "text": "Applicant should belong to credit cards sourcing cities / locations of the bank."
+      },
+      {
+        "type": "context",
+        "text": "All applications are subject to credit and other policy checks of the bank."
+      },
+      {
+        "type": "removed",
+        "text": "Documents required"
+      },
+      {
+        "type": "added",
+        "text": "DOCUMNETS REQUIRED"
+      },
+      {
+        "type": "added",
+        "text": "Self Employed Professionals: Latest IT Returns, Business Continuity proof"
+      },
+      {
+        "type": "context",
+        "text": "Priority Visa Infinite Credit Card FAQs"
+      },
+      {
+        "type": "context",
+        "text": "How long does it take to apply for a credit card?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Make your payments at least 3 days in advance of your payment due date to facilitate the timely credit of the funds into your card account. Note that your credit limit will only be increased by the amount you have repaid after our receipt of your funds. In case we do not receive payment by the payment due date, we reserve the right to levy interest and late payment charges. If you hold multiple cards or EMI accounts with us, please give us clear instructions on the allocation of payment to these various card accounts on the reverse of your cheques. If you are issuing separate cheques for each card account, then you should clearly specify not to allocate on the reverse of the cheque.In the absence of any specific information on this front, we will apply the funds first towards clearance of the minimum amount due in respect of all card accounts you hold with us.Thereafter, the excess payment will be allocated sequentially towards payment of the card account with highest balance.If any of your card account is overdue, we reserve the right to prioritize payments to overdue accounts first as per our internal policy.For cash payments, funds transfer and payment through online banking, individual payment should be made against each of the accounts."
+      },
+      {
+        "type": "context",
+        "text": "Cash"
+      },
+      {
+        "type": "removed",
+        "text": "Cash payments can only be deposited at our branches using teller facilities. INR 100 will be charged per payment transaction for card payment made by depositing cash at any Standard Chartered branch. The same will reflect in the next month&#8217;s statement."
+      },
+      {
+        "type": "added",
+        "text": "Cash payments can only be deposited at our branches using teller facilities. INR 100 will be charged per payment transaction for card payment made by depositing cash at any Standard Chartered branch. The same will reflect in the next month’s statement."
+      },
+      {
+        "type": "context",
+        "text": "What is Visa credit card payment service?"
+      },
+      {
+        "type": "context",
+        "text": "Visa credit card payment allows you to transfer funds from our existing Standard Chartered account to any Visa credit card within India."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Please note that the OTP will appear in lieu of the verified by Visa / Mastercard secure password."
+      },
+      {
+        "type": "context",
+        "text": "What if I do not receive the OTP?"
+      },
+      {
+        "type": "removed",
+        "text": "In case you do not receive the OTP within 30 seconds, you can request for another OTP by pressing the &#8220;Resend OTP&#8221; number."
+      },
+      {
+        "type": "added",
+        "text": "In case you do not receive the OTP within 30 seconds, you can request for another OTP by pressing the “Resend OTP” number."
+      },
+      {
+        "type": "context",
+        "text": "If you do not receive the OTP after multiple attempts, please call our phone banking numbers to ensure your mobile number is registered with us."
+      },
+      {
+        "type": "context",
+        "text": "Can I apply for an Platinum Rewards virtual card?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Your Priority Visa Infinite credit card offers you complimentary membership to Priority Pass, which gives you access to lounges in international airports across the globe. You can log on to www.prioritypass.com for details on the participating lounges. To know more on the terms and conditions, click here ."
+      },
+      {
+        "type": "context",
+        "text": "What is the Air Accident Insurance feature on my Priority Visa Infinite Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Chartered Bank has provided below mentioned complimentary Air Accident Insurance on the Standard Priority Visa Infinite Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.bank.in/credit-cards/priority-banking-visa-infinite/"
+      },
+      {
+        "type": "removed",
+        "text": "Air Accident Insurance &#8211; HDFC ERGO General Insurance Company Ltd."
+      },
+      {
+        "type": "added",
+        "text": "Standard Chartered Bank has provided below mentioned complimentary Air Accident Insurance on the Standard Priority Visa Infinite Credit Card and will be governed as per respective Product Terms and Conditions available on /content/sc/in/en/credit-cards/priority-banking-visa-infinite"
+      },
+      {
+        "type": "added",
+        "text": "Air Accident Insurance – HDFC ERGO General Insurance Company Ltd."
+      },
+      {
+        "type": "context",
+        "text": "Policy Number: 2999204852948401000"
+      },
+      {
+        "type": "context",
+        "text": "Details of Sum Insured/Limit of Liability:"
+      },
+      {
+        "type": "removed",
+        "text": "Section"
+      },
+      {
+        "type": "removed",
+        "text": "Section name"
+      },
+      {
+        "type": "removed",
+        "text": "Sum insured/ Limit of Liability"
+      },
+      {
+        "type": "removed",
+        "text": "Deductible/Excess"
+      },
+      {
+        "type": "added",
+        "text": "Section Section name Sum insured/ Limit of Liability Deductible/Excess"
+      },
+      {
+        "type": "context",
+        "text": "(if applicable)"
+      },
+      {
+        "type": "removed",
+        "text": "I"
+      },
+      {
+        "type": "removed",
+        "text": "Personal Accident"
+      },
+      {
+        "type": "removed",
+        "text": "INR"
+      },
+      {
+        "type": "removed",
+        "text": "I (A)"
+      },
+      {
+        "type": "removed",
+        "text": "Accidental Death (Air Accidents Only)"
+      },
+      {
+        "type": "removed",
+        "text": "10,000,000"
+      },
+      {
+        "type": "removed",
+        "text": "NIL"
+      },
+      {
+        "type": "added",
+        "text": "I Personal Accident INR"
+      },
+      {
+        "type": "added",
+        "text": "I (A)  Accidental Death (Air Accidents Only) 10,000,000 NIL"
+      },
+      {
+        "type": "context",
+        "text": "What is the Travel Insurance feature offered on my Priority Visa Infinite Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Chartered Bank has provided below mentioned complimentary Travel Insurance on the Standard Priority Visa Infinite Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.bank.in/credit-cards/priority-banking-visa-infinite/"
+      },
+      {
+        "type": "removed",
+        "text": "Travel Insurance Policy &#8211; HDFC ERGO General Insurance Company Ltd."
+      },
+      {
+        "type": "added",
+        "text": "Standard Chartered Bank has provided below mentioned complimentary Travel Insurance on the Standard Priority Visa Infinite Credit Card and will be governed as per respective Product Terms and Conditions available on /content/sc/in/en/credit-cards/priority-banking-visa-infinite"
+      },
+      {
+        "type": "added",
+        "text": "Travel Insurance Policy – HDFC ERGO General Insurance Company Ltd."
+      },
+      {
+        "type": "context",
+        "text": "Policy Number: 2999204251883002000"
+      },
+      {
+        "type": "context",
+        "text": "Details of Sum Insured/Limit of Liability:"
+      },
+      {
+        "type": "removed",
+        "text": "Section"
+      },
+      {
+        "type": "removed",
+        "text": "Section name"
+      },
+      {
+        "type": "removed",
+        "text": "Sum insured/ Limit of Liability"
+      },
+      {
+        "type": "removed",
+        "text": "Deductible/Excess"
+      },
+      {
+        "type": "added",
+        "text": "Section Section name Sum insured/ Limit of Liability Deductible/Excess"
+      },
+      {
+        "type": "context",
+        "text": "(if applicable)"
+      },
+      {
+        "type": "removed",
+        "text": "II"
+      },
+      {
+        "type": "removed",
+        "text": "Travel Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "USD"
+      },
+      {
+        "type": "removed",
+        "text": "II (A)"
+      },
+      {
+        "type": "removed",
+        "text": "Baggage Delay Maximum per hour: USD 10 per 8 hours"
+      },
+      {
+        "type": "removed",
+        "text": "100"
+      },
+      {
+        "type": "removed",
+        "text": "12 Hours"
+      },
+      {
+        "type": "removed",
+        "text": "II (B)"
+      },
+      {
+        "type": "removed",
+        "text": "Loss of Baggage & Personal Documents Single Any One Item Limit: USD 30"
+      },
+      {
+        "type": "removed",
+        "text": "750"
+      },
+      {
+        "type": "removed",
+        "text": "NIL"
+      },
+      {
+        "type": "removed",
+        "text": "II (C)"
+      },
+      {
+        "type": "removed",
+        "text": "Hijacking Amount Payable for every 6 Consecutive hours period: USD 75"
+      },
+      {
+        "type": "removed",
+        "text": "100"
+      },
+      {
+        "type": "removed",
+        "text": "24 hours"
+      },
+      {
+        "type": "removed",
+        "text": "II (D)"
+      },
+      {
+        "type": "removed",
+        "text": "Flight Delay Maximum Per hour USD 10"
+      },
+      {
+        "type": "removed",
+        "text": "200"
+      },
+      {
+        "type": "removed",
+        "text": "12 Hours"
+      },
+      {
+        "type": "removed",
+        "text": "II (E)"
+      },
+      {
+        "type": "removed",
+        "text": "Emergency Medical Expenses"
+      },
+      {
+        "type": "removed",
+        "text": "25000"
+      },
+      {
+        "type": "removed",
+        "text": "USD 100"
+      },
+      {
+        "type": "added",
+        "text": "II Travel Insurance USD"
+      },
+      {
+        "type": "added",
+        "text": "II (A) Baggage Delay Maximum per hour: USD 10 per 8 hours 100 12 Hours"
+      },
+      {
+        "type": "added",
+        "text": "II (B) Loss of Baggage & Personal Documents Single Any One Item Limit: USD 30 750 NIL"
+      },
+      {
+        "type": "added",
+        "text": "II (C) Hijacking Amount Payable for every 6 Consecutive hours period: USD 75 100 24 hours"
+      },
+      {
+        "type": "added",
+        "text": "II (D) Flight Delay Maximum Per hour USD 10 200 12 Hours"
+      },
+      {
+        "type": "added",
+        "text": "II (E) Emergency Medical Expenses 25000 USD 100"
+      },
+      {
+        "type": "context",
+        "text": "How can I initiate request for claims as per the Insurance policy?"
+      },
+      {
+        "type": "context",
+        "text": "For claims, you can call HDFC ERGO’s twenty-four (24) hour, seven (7) Days a week, toll-free emergency telephone assistance service"
+      },
+      {
+        "type": "removed",
+        "text": "For Emergency Medical Expenses &#8211; Toll Free: +800 08250825"
+      },
+      {
+        "type": "removed",
+        "text": "(International Toll Free &#8211; accessible from outside India) / 01204507250 (Chargeable)"
+      },
+      {
+        "type": "removed",
+        "text": "Email: travelclaims@hdfcergo.com , bankclaims@hdfcergo.com"
+      },
+      {
+        "type": "removed",
+        "text": "Address: HDFC ERGO General Insurance Company Limited 5th floor, Tower 1, Stellar IT Park, C-25, Sector-62, Noida, UP, India &#8211; 201301"
+      },
+      {
+        "type": "added",
+        "text": "For Emergency Medical Expenses – Toll Free: &#43;800 08250825"
+      },
+      {
+        "type": "added",
+        "text": "(International Toll Free – accessible from outside India) / 01204507250 (Chargeable)"
+      },
+      {
+        "type": "added",
+        "text": "Email: travelclaims&#64;hdfcergo.com , bankclaims&#64;hdfcergo.com"
+      },
+      {
+        "type": "added",
+        "text": "Address: HDFC ERGO General Insurance Company Limited 5th floor, Tower 1, Stellar IT Park, C-25, Sector-62, Noida, UP, India – 201301"
+      },
+      {
+        "type": "context",
+        "text": "You can reach out to Standard Chartered Phone banking services for any help and support on Travel Insurance or Air accident Insurance claim."
+      },
+      {
+        "type": "added",
+        "text": "READ MORE"
+      },
+      {
+        "type": "context",
+        "text": "Term and Conditions"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card- Terms and conditions"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card- Terms and conditions"
+      },
+      {
+        "type": "added",
+        "text": "For details, please click here"
+      },
+      {
+        "type": "context",
+        "text": "Priority Visa Infinite Consolidated Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Useful links"
+      },
+      {
+        "type": "added",
+        "text": "Priority Visa Infinite Consolidated Terms and Conditions"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added complimentary Priority relationship benefits, updated reward point rates, lounge access details, insurance coverage, and corrected terms formatting."
+  },
+  {
+    "id": "standard-chartered-india-smart-credit-card",
+    "cardName": "Smart Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/smart-credit-card/?pid=cc_smartcard_cclp&cid=cc_smartcard_cclp",
+    "status": "Active",
+    "detectedAt": "2026-08-30T09:23:28.902Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Smart Credit Card &#8211; Standard Chartered India"
+      },
+      {
+        "type": "removed",
+        "text": "Get cashback up to INR 18,000 annually*"
+      },
+      {
+        "type": "added",
+        "text": "Smart Credit Card – Standard Chartered India"
+      },
+      {
+        "type": "context",
+        "text": "Explore a smarter way to spend with the Smart credit card. *T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "Smarter way to spend"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Show less"
+      },
+      {
+        "type": "context",
+        "text": "Other Credit Card Features"
+      },
+      {
+        "type": "removed",
+        "text": "Supplementary Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Extend the credit card benefits with your family member. Spread the joy with them!"
+      },
+      {
+        "type": "removed",
+        "text": "Contactless Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Use contactless credit card & enjoy complete freedom cash transaction with faster checkouts & secure payments."
+      },
+      {
+        "type": "removed",
+        "text": "Secure Online Transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy enhanced security for online transactions on your credit card through 3D secure OTP Verification."
+      },
+      {
+        "type": "removed",
+        "text": "Digital Payment Solutions"
+      },
+      {
+        "type": "removed",
+        "text": "Avail wide range of instant payment solutions like BharatQR, Bharat Bill Payment Solution (BBPS) & Samsung Secure Pay."
+      },
+      {
+        "type": "removed",
+        "text": "With Kuch bhi on EMI option, convert your big spends above ₹ 2,000 to easy EMI through online banking or SC Mobile. Get attractive pricing & flexible tenure options."
+      },
+      {
+        "type": "removed",
+        "text": "360° Rewards"
+      },
+      {
+        "type": "removed",
+        "text": "With Standard Chartered 360° Rewards, you can easily redeem your rewards points against our new online catalogue."
+      },
+      {
+        "type": "removed",
+        "text": "Get loan up to ₹ 5,00,000 on your credit card with flexible tenure from 12 to 60 months."
+      },
+      {
+        "type": "removed",
+        "text": "Transfer card balance from other bank credit cards up to ₹ 5,00,000 at attractive interest rate."
+      },
+      {
+        "type": "removed",
+        "text": "Balance EMI"
+      },
+      {
+        "type": "removed",
+        "text": "Convert your entire outstanding (up to ₹ 5,00,000) in EMIs with zero processing fees."
+      },
+      {
+        "type": "removed",
+        "text": "Applicant’s age should be between 18 and 65 years."
+      },
+      {
+        "type": "removed",
+        "text": "Fees and Charges"
+      },
+      {
+        "type": "added",
+        "text": "Convert all your big spends above INR 2,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options"
+      },
+      {
+        "type": "added",
+        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards program."
+      },
+      {
+        "type": "added",
+        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
+      },
+      {
+        "type": "added",
+        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
+      },
+      {
+        "type": "added",
+        "text": "Applicant should have a stable monthly income."
+      },
+      {
+        "type": "added",
+        "text": "Applicants should belong to credit cards sourcing cities/locations of the Bank."
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee (for 1st Year)"
+      },
+      {
+        "type": "removed",
+        "text": "Joining / First Year Fee of INR 499 + GST waived as a Special Offer (Not applicable for existing SCB credit card holders)"
+      },
+      {
+        "type": "added",
+        "text": "Joining / First Year Fee of INR 499 &#43; GST waived as a Special Offer (Not applicable for existing SCB credit card holders)"
+      },
+      {
+        "type": "context",
+        "text": "Renewal Fee (2nd Year Onwards)"
+      },
+      {
+        "type": "removed",
+        "text": "INR 499 + GST, The renewal fee will be reversed for clients with spends greater than or equal to INR 120,000 in the preceding year on Smart credit card"
+      },
+      {
+        "type": "added",
+        "text": "INR 499 &#43; GST, The renewal fee will be reversed for clients with spends greater than or equal to INR 120,000 in the preceding year on Smart credit card"
+      },
+      {
+        "type": "context",
+        "text": "Smart Credit Card FAQs"
+      },
+      {
+        "type": "context",
+        "text": "Value chart"
+      },
+      {
+        "type": "removed",
+        "text": "Category of Spends"
+      },
+      {
+        "type": "removed",
+        "text": "Monthly Spend"
+      },
+      {
+        "type": "removed",
+        "text": "Cashback Earned (Per Month)"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Cashback (Per Annum)"
+      },
+      {
+        "type": "removed",
+        "text": "Online Spends"
+      },
+      {
+        "type": "removed",
+        "text": "INR 50,000"
+      },
+      {
+        "type": "removed",
+        "text": "INR 1,000"
+      },
+      {
+        "type": "removed",
+        "text": "INR 12,000"
+      },
+      {
+        "type": "removed",
+        "text": "Offline Spends"
+      },
+      {
+        "type": "removed",
+        "text": "INR 50,000"
+      },
+      {
+        "type": "removed",
+        "text": "INR 500"
+      },
+      {
+        "type": "removed",
+        "text": "INR 6,000"
+      },
+      {
+        "type": "removed",
+        "text": "Total"
+      },
+      {
+        "type": "removed",
+        "text": "INR 1,00,000"
+      },
+      {
+        "type": "removed",
+        "text": "INR 1,500"
+      },
+      {
+        "type": "removed",
+        "text": "INR 18,000"
+      },
+      {
+        "type": "removed",
+        "text": "For Illustration purposes only, Terms & Conditions apply*"
+      },
+      {
+        "type": "removed",
+        "text": "*Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Terms & Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "For details, please  click here for Telugu"
+      },
+      {
+        "type": "removed",
+        "text": "For details, please  click here for Bengali"
+      },
+      {
+        "type": "added",
+        "text": "Category of Spends Monthly Spend Cashback Earned (Per Month) Annual Cashback (Per Annum)"
+      },
+      {
+        "type": "added",
+        "text": "Online Spends INR 50,000 INR 1,000 INR 12,000"
+      },
+      {
+        "type": "added",
+        "text": "Offline Spends INR 50,000 INR 500 INR 6,000"
+      },
+      {
+        "type": "added",
+        "text": "Total INR 1,00,000 INR 1,500 INR 18,000"
+      },
+      {
+        "type": "context",
+        "text": "Smart Credit Card Terms and Conditions"
+      },
+      {
+        "type": "context",
+        "text": "How to avail Kuch-Bhi-on-EMI"
+      },
+      {
+        "type": "context",
+        "text": "a. KBE via Phone Banking"
+      },
+      {
+        "type": "removed",
+        "text": "Call our phone banking team on 080 39401166 / 66011166 and place your request for EMI conversion or SMS KBE to +91-9223010121 to get a call back"
+      },
+      {
+        "type": "added",
+        "text": "Call our phone banking team on 080 39401166 / 66011166 and place your request for EMI conversion or SMS KBE to &#43;91-9223010121 to get a call back"
+      },
+      {
+        "type": "context",
+        "text": "b. KBE via SMS"
+      },
+      {
+        "type": "context",
+        "text": "Respond to the SMS received just after you spend on your credit card to convert transactions into easy EMIs. A fast and easy way to avail EMI on your purchases"
+      },
+      {
+        "type": "context",
+        "text": "c.KBE via Online Banking and SC mobile"
+      },
+      {
+        "type": "context",
+        "text": "You can login to Online banking or mobile banking and place a request at your convenience for the eligible transactions."
+      },
+      {
+        "type": "removed",
+        "text": "Visa Credit Card Payment"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated EMI options, rewards redemption, loan and balance transfer limits, applicant criteria, fee waiver, renewal fee reversal, and table formatting."
+  },
+  {
+    "id": "standard-chartered-india-ultimate-credit-card",
+    "cardName": "Ultimate Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/ultimate-card/?pid=cc_ultimatecard_cclp&cid=cc_ultimatecard_cclp",
+    "status": "Active",
+    "detectedAt": "2026-08-30T09:23:28.902Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Ultimate Credit Card &#8211; Best Golf Credit Card &#8211; Standard Chartered India"
+      },
+      {
+        "type": "added",
+        "text": "Ultimate Credit Card – Best Golf Credit Card – Standard Chartered India"
+      },
+      {
+        "type": "context",
+        "text": "Earn 6000 Reward Points* worth Rs. 6000 on payment of joining fee with Ultimate Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "*T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "Ultimate Credit Card Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "5 Reward* points"
+      },
+      {
+        "type": "added",
+        "text": "5 Reward* point s"
+      },
+      {
+        "type": "context",
+        "text": "on INR 150 spent"
+      },
+      {
+        "type": "removed",
+        "text": "1 = 1"
+      },
+      {
+        "type": "added",
+        "text": "1 &#61; 1"
+      },
+      {
+        "type": "context",
+        "text": "1 Reward point equals to INR 1"
+      },
+      {
+        "type": "context",
+        "text": "5% cashback*"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get complimentary access to premier golf courses in the country."
+      },
+      {
+        "type": "context",
+        "text": "Insurance Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Protect yourself with complimentary overseas air accident cover of INR 1 Crore and medical insurance worth USD 25,000. Click here to update nominee details."
+      },
+      {
+        "type": "added",
+        "text": "Protect yourself with complimentary overseas air accident cover of INR 1 Crore and medical insurance worth USD 25,000.  Click here  to update nominee details."
+      },
+      {
+        "type": "context",
+        "text": "Ultimate Credit Card is offered on Mastercard Network."
+      },
+      {
+        "type": "context",
+        "text": "Airport lounge access"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Show less"
+      },
+      {
+        "type": "context",
+        "text": "Features"
+      },
+      {
+        "type": "removed",
+        "text": "Extend the benefits of your credit card to your family members by getting them lifetime free Supplementary credit cards."
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy a wide range of instant payment solutions like BharatQR, Bharat bill payment solution (BBPS) and Samsung Pay."
+      },
+      {
+        "type": "context",
+        "text": "Check your card balance and make convenient and instant card payments via online banking and Standard Chartered Mobile."
+      },
+      {
+        "type": "removed",
+        "text": "Convert your big spends above INR 5,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options."
+      },
+      {
+        "type": "added",
+        "text": "Convert all your big spends above INR 2,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options"
+      },
+      {
+        "type": "context",
+        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards program."
+      },
+      {
+        "type": "context",
+        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
+      },
+      {
+        "type": "context",
+        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
+      },
+      {
+        "type": "removed",
+        "text": "Convert your entire outstanding (upto INR 5,00,000) into EMIs. Zero processing fee."
+      },
+      {
+        "type": "removed",
+        "text": "Fees and Charges"
+      },
+      {
+        "type": "removed",
+        "text": "CHARGES :"
+      },
+      {
+        "type": "added",
+        "text": "CHARGES:"
+      },
+      {
+        "type": "context",
+        "text": "Joining fees"
+      },
+      {
+        "type": "removed",
+        "text": "DETAILS :"
+      },
+      {
+        "type": "added",
+        "text": "DETAILS:"
+      },
+      {
+        "type": "context",
+        "text": "INR 5,000"
+      },
+      {
+        "type": "removed",
+        "text": "CHARGES :"
+      },
+      {
+        "type": "added",
+        "text": "CHARGES:"
+      },
+      {
+        "type": "context",
+        "text": "Renewal fees"
+      },
+      {
+        "type": "removed",
+        "text": "DETAILS :"
+      },
+      {
+        "type": "added",
+        "text": "DETAILS:"
+      },
+      {
+        "type": "context",
+        "text": "INR 5,000"
+      },
+      {
+        "type": "removed",
+        "text": "CHARGES :"
+      },
+      {
+        "type": "added",
+        "text": "CHARGES:"
+      },
+      {
+        "type": "context",
+        "text": "Supplementary card – Joining fees"
+      },
+      {
+        "type": "removed",
+        "text": "DETAILS :"
+      },
+      {
+        "type": "added",
+        "text": "DETAILS:"
+      },
+      {
+        "type": "context",
+        "text": "Nil"
+      },
+      {
+        "type": "removed",
+        "text": "CHARGES :"
+      },
+      {
+        "type": "added",
+        "text": "CHARGES:"
+      },
+      {
+        "type": "context",
+        "text": "Supplementary card – Renewal fees"
+      },
+      {
+        "type": "removed",
+        "text": "DETAILS :"
+      },
+      {
+        "type": "added",
+        "text": "DETAILS:"
+      },
+      {
+        "type": "context",
+        "text": "Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Applicant’s age should be between 21 and 65."
+      },
+      {
+        "type": "context",
+        "text": "Applicant should have a stable monthly income."
+      },
+      {
+        "type": "removed",
+        "text": "Applicant should belong to credit cards sourcing cities/locations of the Bank."
+      },
+      {
+        "type": "added",
+        "text": "Applicants should belong to credit cards sourcing cities/locations of the Bank."
+      },
+      {
+        "type": "added",
+        "text": "Value chart"
+      },
+      {
+        "type": "added",
+        "text": "ANNUAL BENEFITS OF USING ULTIMATE CREDIT CARD TOTAL BENEFIT"
+      },
+      {
+        "type": "added",
+        "text": "4 golf session (INR 5000/visit) ₹20,000"
+      },
+      {
+        "type": "added",
+        "text": "6 domestic lounge visits (INR 1400/visit) ₹8400"
+      },
+      {
+        "type": "added",
+        "text": "4 global lounge visits with priority pass (2300/visit) ₹9200"
+      },
+      {
+        "type": "added",
+        "text": "Cashback on duty free outlets (INR 1000 cashback – 2 visit / year ) ₹2000"
+      },
+      {
+        "type": "added",
+        "text": "1.5% cashback on your foreign mark up (INR 50,000 / Year) ₹750"
+      },
+      {
+        "type": "added",
+        "text": "Rewards points on total annual spends (with 2 examples)"
+      },
+      {
+        "type": "added",
+        "text": "e.g.,  1)  avg INR 600,000/year 5 reward points / INR 150 &#61;  ₹20,000  on all spends except below categories mentioned in e.g. (2) ₹26,000"
+      },
+      {
+        "type": "added",
+        "text": "e.g., 2) avg INR 300,000/year 3 reward points / INR 150 &#61;  ₹6000  on Utilities, Supermarkets, Insurance, Property management, Schools & Government payments"
+      },
+      {
+        "type": "added",
+        "text": "1% fuel surcharge waiver (On spend of INR 15000/month i.e., INR 150 waiver per month) ₹1800"
+      },
+      {
+        "type": "added",
+        "text": "Rewards point on paying joining fee (6000 rewards points worth INR 6000) ₹6000"
+      },
+      {
+        "type": "added",
+        "text": "Total Benefits for Customer ₹74,150"
+      },
+      {
+        "type": "added",
+        "text": "For Illustration purposes only, Terms & Conditions apply*"
+      },
+      {
+        "type": "added",
+        "text": "Ultimate Credit Card – Terms & Conditions"
+      },
+      {
+        "type": "context",
+        "text": "Ultimate Credit Card FAQs"
+      },
+      {
+        "type": "context",
+        "text": "What are the features of Ultimate Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Joining fee = Rs 5,000"
+      },
+      {
+        "type": "removed",
+        "text": "Renewal fee = Rs 5,000"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary membership to Priority Pass to primary card holder as well as supplementary card holder. Usage is chargeable at 27 USD per visit. The fees will be waived for 1 visit per month for customers whose card spend in the last month exceeds INR 20,000"
+      },
+      {
+        "type": "added",
+        "text": "Joining fee &#61; Rs 5,000"
+      },
+      {
+        "type": "added",
+        "text": "Renewal fee &#61; Rs 5,000"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary membership to Priority Pass to primary card holder as well as supplementary card holder. Usage is chargeable at 27 USD per visit. The fees"
+      },
+      {
+        "type": "added",
+        "text": "will be waived for 1 visit per month for customers whose card spend in the last month exceeds INR 20,000"
+      },
+      {
+        "type": "context",
+        "text": "Travel and Air Accident Cover up to ($ 200K).& Medical Travel Insurance up to $ 25K."
+      },
+      {
+        "type": "context",
+        "text": "Cashback of 5%* at duty-free store"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Yes, you can, please call Phone Banking for the same."
+      },
+      {
+        "type": "context",
+        "text": "What is the age limit for availing medical insurance?"
+      },
+      {
+        "type": "removed",
+        "text": "Cardholder to be between 18-70 years of age. Also this facility is available only for the primary cardholder"
+      },
+      {
+        "type": "added",
+        "text": "Cardholder to be between 18-70 years of age. Also this facility is available only for the primary cardholder"
+      },
+      {
+        "type": "context",
+        "text": "What is the condition for free lounge access ?"
+      },
+      {
+        "type": "context",
+        "text": "The domestic lounge program under VISA/Mastercard provides you 4 domestic lounge accesses per calendar quarter using your Ultimate Credit Card. This is complimentary for all cardholders."
+      },
+      {
+        "type": "context",
+        "text": "The Priority Pass programme provides you with 1 international lounge visit per month, subject to the cardholder having spent more than INR 20,000 in the previous calendar month of the visit. Please note that the card member will be liable to pay for each domestic lounge visit using Priority Pass, as per applicable charges."
+      },
+      {
+        "type": "context",
+        "text": "Can I apply for an Ultimate virtual card?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, you can apply for an Ultimate virtual credit card for golf benefits, dining privileges & more & access these perks instantly To know more, click here ."
+      },
+      {
+        "type": "added",
+        "text": "Yes, you can apply for an Ultimate virtual credit card for golf benefits, dining privileges & more & access these perks instantly To know more, click here"
+      },
+      {
+        "type": "context",
+        "text": "How to access Priority Pass Lounge Benefits?"
+      },
+      {
+        "type": "removed",
+        "text": "Your Ultimate credit card offers you complimentary membership to Priority Pass, which gives you access to lounges in international airports across the globe. You can log on to www.prioritypass.com for details on the participating lounges. To know more on the terms and conditions, click here ."
+      },
+      {
+        "type": "added",
+        "text": "Your Ultimate credit card offers you complimentary membership to Priority Pass, which gives you access to lounges in international airports across the globe. You can log on to www.prioritypass.com for details on the participating lounges. To know more on the terms and conditions, click here"
+      },
+      {
+        "type": "added",
+        "text": "A processing fee of 1% (plus taxes) would be applicable to all rental transactions. This fee will be over and above any charges applied by the merchant as communicated to the client at the time of transaction.For example – If you pay INR 20,000 on a third-party rent payment platform using your Standard Chartered Bank Credit Card, 1% of transaction amount i.e. INR 200 plus taxes will be charged as a processing fee"
+      },
+      {
+        "type": "added",
+        "text": "The processing fee will be levied by 15th of the next calendar month and will have a separate narration in the monthly statement."
+      },
+      {
+        "type": "context",
+        "text": "Which are the merchant categories selected for reward point revision?"
+      },
+      {
+        "type": "context",
+        "text": "From April 2 nd , 2023, transactions on Ultimate credit card for Utilities, Supermarkets, Insurance, Property management, Schools & Government payments will now earn 3 reward points on every INR150 spent."
+      },
+      {
+        "type": "removed",
+        "text": "MERCHANT CATEGORY CODE (MCC)"
+      },
+      {
+        "type": "removed",
+        "text": "MCC DESCRIPTION"
+      },
+      {
+        "type": "removed",
+        "text": "SPENDS"
+      },
+      {
+        "type": "removed",
+        "text": "REVISED REWARDS"
+      },
+      {
+        "type": "removed",
+        "text": "4900"
+      },
+      {
+        "type": "removed",
+        "text": "Utilities"
+      },
+      {
+        "type": "removed",
+        "text": "150"
+      },
+      {
+        "type": "removed",
+        "text": "3"
+      },
+      {
+        "type": "removed",
+        "text": "5411"
+      },
+      {
+        "type": "removed",
+        "text": "Supermarkets"
+      },
+      {
+        "type": "removed",
+        "text": "150"
+      },
+      {
+        "type": "removed",
+        "text": "3"
+      },
+      {
+        "type": "removed",
+        "text": "5960,6300"
+      },
+      {
+        "type": "removed",
+        "text": "Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "150"
+      },
+      {
+        "type": "removed",
+        "text": "3"
+      },
+      {
+        "type": "removed",
+        "text": "7349,6513"
+      },
+      {
+        "type": "removed",
+        "text": "Property Management / Rent Pay"
+      },
+      {
+        "type": "removed",
+        "text": "150"
+      },
+      {
+        "type": "removed",
+        "text": "3"
+      },
+      {
+        "type": "removed",
+        "text": "8299"
+      },
+      {
+        "type": "removed",
+        "text": "Schools"
+      },
+      {
+        "type": "removed",
+        "text": "150"
+      },
+      {
+        "type": "removed",
+        "text": "3"
+      },
+      {
+        "type": "removed",
+        "text": "9399"
+      },
+      {
+        "type": "removed",
+        "text": "Government"
+      },
+      {
+        "type": "removed",
+        "text": "150"
+      },
+      {
+        "type": "removed",
+        "text": "3"
+      },
+      {
+        "type": "added",
+        "text": "MERCHANT CATEGORY CODE (MCC) MCC DESCRIPTION SPENDS REVISED REWARDS"
+      },
+      {
+        "type": "added",
+        "text": "4900 Utilities 150 3"
+      },
+      {
+        "type": "added",
+        "text": "5411 Supermarkets 150 3"
+      },
+      {
+        "type": "added",
+        "text": "5960,6300 Insurance 150 3"
+      },
+      {
+        "type": "added",
+        "text": "7349,6513 Property Management / Rent Pay 150 3"
+      },
+      {
+        "type": "added",
+        "text": "8299 Schools 150 3"
+      },
+      {
+        "type": "added",
+        "text": "9399 Government 150 3"
+      },
+      {
+        "type": "context",
+        "text": "Is there any capping to the reward points earned on merchant categories with revision?"
+      },
+      {
+        "type": "context",
+        "text": "Please note there is no capping to the reward points that can be earned in a month on the merchant categories where there is a revision in reward points."
+      },
+      {
+        "type": "context",
+        "text": "How many reward points will I earn on fuel transactions using Ultimate credit card?"
+      },
+      {
+        "type": "removed",
+        "text": "From April 2 nd , 2023, no reward points will be earned for Fuel transactions on StanChart Ultimate credit card."
+      },
+      {
+        "type": "added",
+        "text": "From April 2nd, 2023, no reward points will be earned for Fuel transactions on StanChart Ultimate credit card."
+      },
+      {
+        "type": "context",
+        "text": "However, clients will now enjoy a surcharge waiver of 1% on fuel spends across all petrol pumps. The fuel surcharge waiver amount will be capped at Max Rs 1000/ per month."
+      },
+      {
+        "type": "context",
+        "text": "When will the changes be effective from?"
+      },
+      {
+        "type": "removed",
+        "text": "The changes would be effective from April 2 nd , 2023. Please note all spends till 31 st  March 2023 on the select categories will continue to earn reward points as per the existing reward proposition i.e. 5 reward points on every INR 150 spent."
+      },
+      {
+        "type": "added",
+        "text": "The changes would be effective from April 2nd, 2023. Please note all spends till 31st March 2023 on the select categories will continue to earn reward points as per the existing reward proposition i.e. 5 reward points on every INR 150 spent."
+      },
+      {
+        "type": "context",
+        "text": "Will there be any impact to my existing reward points?"
+      },
+      {
+        "type": "context",
+        "text": "There will be no impact to your existing reward points which you have earned and is available for redemption till expiry of those points."
+      },
+      {
+        "type": "context",
+        "text": "What is the Air Accident Insurance feature on my Ultimate Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Chartered Bank has provided below mentioned complimentary Air Accident Insurance on the Standard Ultimate Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.bank.in/credit-cards/ultimate-card/"
+      },
+      {
+        "type": "removed",
+        "text": "Air Accident Insurance &#8211; HDFC ERGO General Insurance Company Ltd."
+      },
+      {
+        "type": "removed",
+        "text": "Policy Number: 2999204852948401000"
+      },
+      {
+        "type": "removed",
+        "text": "Details of Sum Insured/Limit of Liability:"
+      },
+      {
+        "type": "removed",
+        "text": "Section"
+      },
+      {
+        "type": "removed",
+        "text": "Section name"
+      },
+      {
+        "type": "removed",
+        "text": "Sum insured/"
+      },
+      {
+        "type": "added",
+        "text": "Standard Chartered Bank has provided below mentioned complimentary Air Accident Insurance on the Standard Ultimate Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.com/in/credit-cards/ultimate-card/ Air Accident Insurance – HDFC ERGO General Insurance Company Ltd. Policy Number: 2999204852948401000 Details of Sum Insured/Limit of Liability:"
+      },
+      {
+        "type": "added",
+        "text": "Section Section name Sum insured/"
+      },
+      {
+        "type": "context",
+        "text": "Limit of"
+      },
+      {
+        "type": "removed",
+        "text": "Liability"
+      },
+      {
+        "type": "removed",
+        "text": "Deductible/"
+      },
+      {
+        "type": "added",
+        "text": "Liability Deductible/"
+      },
+      {
+        "type": "context",
+        "text": "Excess"
+      },
+      {
+        "type": "context",
+        "text": "(if applicable)"
+      },
+      {
+        "type": "removed",
+        "text": "I"
+      },
+      {
+        "type": "removed",
+        "text": "Personal Accident"
+      },
+      {
+        "type": "removed",
+        "text": "INR"
+      },
+      {
+        "type": "removed",
+        "text": "I (A)"
+      },
+      {
+        "type": "removed",
+        "text": "Accidental Death (Air Accidents Only)"
+      },
+      {
+        "type": "removed",
+        "text": "10,000,000"
+      },
+      {
+        "type": "removed",
+        "text": "NIL"
+      },
+      {
+        "type": "added",
+        "text": "I Personal Accident INR"
+      },
+      {
+        "type": "added",
+        "text": "I (A) Accidental Death (Air Accidents Only) 10,000,000 NIL"
+      },
+      {
+        "type": "context",
+        "text": "What is the Travel Insurance feature offered on my Ultimate Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Chartered Bank has provided below mentioned complimentary Travel Insurance on the Standard Ultimate Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.bank.in/credit-cards/ultimate-card/"
+      },
+      {
+        "type": "removed",
+        "text": "Travel Insurance Policy &#8211; HDFC ERGO General Insurance Company Ltd."
+      },
+      {
+        "type": "removed",
+        "text": "Policy Number: 2999204251883002000"
+      },
+      {
+        "type": "removed",
+        "text": "Details of Sum Insured/Limit of Liability:"
+      },
+      {
+        "type": "removed",
+        "text": "Section"
+      },
+      {
+        "type": "removed",
+        "text": "Section name"
+      },
+      {
+        "type": "removed",
+        "text": "Sum insured/"
+      },
+      {
+        "type": "removed",
+        "text": "Limit of Liability"
+      },
+      {
+        "type": "removed",
+        "text": "Deductible"
+      },
+      {
+        "type": "added",
+        "text": "Standard Chartered Bank has provided below mentioned complimentary Travel Insurance on the Standard Ultimate Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.com/in/credit-cards/ultimate-card/ Travel Insurance Policy – HDFC ERGO General Insurance Company Ltd.Policy Number: 2999204251883002000 Details of Sum Insured/Limit of Liability:Details of Sum Insured/Limit of Liability:"
+      },
+      {
+        "type": "added",
+        "text": "Section Section name Sum insured/"
+      },
+      {
+        "type": "added",
+        "text": "Limit of Liability Deductible"
+      },
+      {
+        "type": "context",
+        "text": "/Excess"
+      },
+      {
+        "type": "context",
+        "text": "(if applicable)"
+      },
+      {
+        "type": "removed",
+        "text": "II"
+      },
+      {
+        "type": "removed",
+        "text": "Travel Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "USD"
+      },
+      {
+        "type": "removed",
+        "text": "II (A)"
+      },
+      {
+        "type": "removed",
+        "text": "Baggage Delay Maximum per hour: USD 10 per 8 hours"
+      },
+      {
+        "type": "removed",
+        "text": "100"
+      },
+      {
+        "type": "removed",
+        "text": "12 Hours"
+      },
+      {
+        "type": "removed",
+        "text": "II (B)"
+      },
+      {
+        "type": "removed",
+        "text": "Loss of Baggage & Personal Documents Single Any One Item Limit: USD 30"
+      },
+      {
+        "type": "removed",
+        "text": "750"
+      },
+      {
+        "type": "ellipsis",
+        "text": "… diff truncated (55 more lines) …"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated EMI threshold to INR 2,000, added processing fee details, and corrected reward point calculations."
+  },
+  {
+    "id": "standard-chartered-india-rewards-credit-card",
+    "cardName": "Rewards Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/rewards-credit-card/?pid=cc_rewardscard_cclp&cid=cc_rewardscard_cclp",
+    "status": "Active",
+    "detectedAt": "2026-08-30T09:23:28.901Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Rewards Credit Card &#8211; Standard Chartered India"
+      },
+      {
+        "type": "added",
+        "text": "Rewards Credit Card – Standard Chartered India"
+      },
+      {
+        "type": "context",
+        "text": "What goes around, comes around 4X times"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy more reward points on the Standard Chartered Rewards Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "More the spends, more the rewards"
+      },
+      {
+        "type": "removed",
+        "text": "Earn 4X rewards on all retail spends* +"
+      },
+      {
+        "type": "added",
+        "text": "Earn 4X rewards on all retail spends* &#43;"
+      },
+      {
+        "type": "context",
+        "text": "additional 4X rewards*"
+      },
+      {
+        "type": "context",
+        "text": "on monthly retail spends* above INR 20,000"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Balance EMI"
+      },
+      {
+        "type": "context",
+        "text": "Convert your entire outstanding (up to ₹ 5,00,000) in EMIs with zero processing fees."
+      },
+      {
+        "type": "added",
+        "text": "Supplementary Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Extend the credit card benefits with your family member. Spread the joy with them!"
+      },
+      {
+        "type": "added",
+        "text": "Contactless Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Use contactless credit card & enjoy complete freedom cash transaction with faster checkouts & secure payments."
+      },
+      {
+        "type": "added",
+        "text": "Secure Online Transactions"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy enhanced security for online transactions on your credit card through 3D secure OTP Verification."
+      },
+      {
+        "type": "added",
+        "text": "Digital Payment Solutions"
+      },
+      {
+        "type": "added",
+        "text": "Avail wide range of instant payment solutions like BharatQR, Bharat Bill Payment Solution (BBPS) & Samsung Secure Pay."
+      },
+      {
+        "type": "added",
+        "text": "With Kuch bhi on EMI option, convert your big spends above ₹ 2,000 to easy EMI through online banking or SC Mobile. Get attractive pricing & flexible tenure options."
+      },
+      {
+        "type": "added",
+        "text": "360° Rewards"
+      },
+      {
+        "type": "added",
+        "text": "With Standard Chartered 360° Rewards, you can easily redeem your rewards points against our new online catalogue."
+      },
+      {
+        "type": "added",
+        "text": "Get loan up to ₹ 5,00,000 on your credit card with flexible tenure from 12 to 60 months."
+      },
+      {
+        "type": "added",
+        "text": "Transfer card balance from other bank credit cards up to ₹ 5,00,000 at attractive interest rate."
+      },
+      {
+        "type": "added",
+        "text": "Balance EMI"
+      },
+      {
+        "type": "added",
+        "text": "Convert your entire outstanding (up to ₹ 5,00,000) in EMIs with zero processing fees."
+      },
+      {
+        "type": "context",
+        "text": "Applicant’s age should be between 18 and 65 years."
+      },
+      {
+        "type": "removed",
+        "text": "Fees &#038; Charges"
+      },
+      {
+        "type": "added",
+        "text": "Applicants should belong to credit card sourcing cities/locations of the Bank"
+      },
+      {
+        "type": "added",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee"
+      },
+      {
+        "type": "context",
+        "text": "No Joining Fee"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fees"
+      },
+      {
+        "type": "removed",
+        "text": "INR 1000 + GST"
+      },
+      {
+        "type": "added",
+        "text": "INR 1000 &#43; GST"
+      },
+      {
+        "type": "context",
+        "text": "Renewal fees will be reversed on spends of INR 1,50,000 or higher in previous year using Rewards Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Rewards Credit Card Terms and Conditions"
+      },
+      {
+        "type": "context",
+        "text": "Rewards Credit Card FAQs"
+      },
+      {
+        "type": "context",
+        "text": "I already have an existing Standard Chartered Platinum Rewards credit card, can I also apply for a Reward credit card?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, existing credit cardholders can also apply for the Rewards Credit Card by authenticating their existing card with an INR 1 transaction via sc.com/in"
+      },
+      {
+        "type": "context",
+        "text": "What is the Joining/annual fees for the Rewards Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee is NIL . Annual Fee for the Rewards Credit Card is INR 1000 +GST with a fee reversal on spends of INR 1,50,000 in the previous year"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee is NIL . Annual Fee for the Rewards Credit Card is INR 1000 &#43;GST with a fee reversal on spends of INR 1,50,000 in the previous year"
+      },
+      {
+        "type": "context",
+        "text": "How will I receive the 4000 reward points on payment of annual fees?"
+      },
+      {
+        "type": "context",
+        "text": "Client is entitled to receive 4000 reward points within 60 days of realization of fees by the Bank. Please note that client will receive the mentioned reward points only if he/she does not receive the spend-based annual fee reversal."
+      },
+      {
+        "type": "context",
+        "text": "What are categories that I will earn reward points on?"
+      },
+      {
+        "type": "removed",
+        "text": "Transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "Every INR 150 spent on Retail transactions"
+      },
+      {
+        "type": "removed",
+        "text": "4 Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "Every INR 150 spent on Government and Insurance categories"
+      },
+      {
+        "type": "removed",
+        "text": "1 Reward Point"
+      },
+      {
+        "type": "added",
+        "text": "Transactions Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Every INR 150 spent on Retail transactions 4 Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Every INR 150 spent on Government and Insurance categories 1 Reward Point"
+      },
+      {
+        "type": "context",
+        "text": "How do I avail the Bonus reward points?"
+      },
+      {
+        "type": "context",
+        "text": "Bonus reward points are applicable on achieving monthly retail spends of INR 20,000 and above in all categories, except Government and Insurance payments. A client can earn additional 4 reward points per INR 150* spent on Retail categories* for monthly spends above INR 20,000."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Cash withdrawal transactions are not eligible for reward points."
+      },
+      {
+        "type": "context",
+        "text": "What is the value of a reward point on Rewards Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "1 RP = INR 0.25 (for redemption from Rewards catalogue)"
+      },
+      {
+        "type": "removed",
+        "text": "1 RP = INR 0.20 (for adjustment against Statement outstanding balance)"
+      },
+      {
+        "type": "added",
+        "text": "1 RP &#61; INR 0.25 (for redemption from Rewards catalogue)"
+      },
+      {
+        "type": "added",
+        "text": "1 RP &#61; INR 0.20 (for adjustment against Statement outstanding balance)"
+      },
+      {
+        "type": "context",
+        "text": "Can reward points earned be redeemed against an outstanding credit card statement?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, a minimum of 1000 Reward points is required to redeem."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Client can view his/her Reward Points on the 360 Rewards portal. To view, log in to Online Banking and proceed to the 360 Rewards portal or log in directly: https://retail.sc.com/in/rewards360/rewards_home/in"
+      },
+      {
+        "type": "context",
+        "text": "When can I see reward points earned on Rewards credit card?"
+      },
+      {
+        "type": "removed",
+        "text": "Reward points earned on transactions done using the Rewards Credit Card prior to the statement generation date will reflect on the same month&#8217;s statement and on the 360 Rewards portal. Bonus reward points earned for a statement cycle will be credited within 2-3 days from statement generation date."
+      },
+      {
+        "type": "added",
+        "text": "Reward points earned on transactions done using the Rewards Credit Card prior to the statement generation date will reflect on the same month’s statement and on the 360 Rewards portal. Bonus reward points earned for a statement cycle will be credited within 2-3 days from statement generation date."
+      },
+      {
+        "type": "context",
+        "text": "Is any Redemption Fee applicable on redeeming reward points?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, there is a redemption fee of INR 99/- (Rupees Ninety-Nine Only) on redeeming reward points."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "What is the complimentary lounge access offer?"
+      },
+      {
+        "type": "context",
+        "text": "With the Rewards Credit Card, client can avail 1 complimentary domestic airport lounge visit per quarter."
+      },
+      {
+        "type": "removed",
+        "text": "*Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Terms & Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Rewards Credit Card Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Visa Credit Card Payment"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated fee structure, added supplementary card, contactless, online security, digital payments, EMI options, loan and balance transfer limits, reward point conversion, and credit terms."
+  },
+  {
     "id": "hdfc-bank-pine-labs-hdfc-bank-pro-credit-card",
     "cardName": "Pine Labs HDFC Bank Pro Credit Card",
     "issuerName": "HDFC Bank",
@@ -4727,75 +7818,6 @@
       "youtube": null
     },
     "summary": "The welcome benefit period changed from 3 months to 60 days after the first statement."
-  },
-  {
-    "id": "standard-chartered-india-super-value-titanium-credit-card",
-    "cardName": "Super Value Titanium Credit Card",
-    "issuerName": "Standard Chartered India",
-    "issuerSlug": "standard-chartered-india",
-    "officialUrl": "https://www.sc.com/in/",
-    "productPageUrl": "https://www.sc.com/in/credit-cards/super-value-titanium/",
-    "status": "Active",
-    "detectedAt": "2026-08-25T04:09:00.942Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Now ,you can transfer your other bank credit card balance of up to INR 5,00,000, at an attractive interest rate of just 0.99% per month for the first 6 months!"
-      },
-      {
-        "type": "context",
-        "text": "Convert your entire outstanding credit card balance of up to INR 5,00,000, into convenient EMIs with zero processing fees charged by Standard Chartered bank"
-      },
-      {
-        "type": "added",
-        "text": "Eligibility & Documents"
-      },
-      {
-        "type": "context",
-        "text": "Applicant’s age should be between 21 and 65 years."
-      },
-      {
-        "type": "context",
-        "text": "Minimum monthly income of INR 55,000 is required."
-      },
-      {
-        "type": "removed",
-        "text": "Fees &#038; Charges"
-      },
-      {
-        "type": "removed",
-        "text": "The charges due for each Standard Chartered credit card differs from one another. When looking to apply for a credit card, it is advisable to factor in this information as well. Not only is the Super Value Titanium card the best credit card for fuel purchases, it is also one of the best priced cards available as shown below:"
-      },
-      {
-        "type": "added",
-        "text": "Fees & Charges"
-      },
-      {
-        "type": "context",
-        "text": "● First year annual fee &#8211; INR 750"
-      },
-      {
-        "type": "context",
-        "text": "● Renewal fee from second year &#8211; INR 750"
-      },
-      {
-        "type": "added",
-        "text": "The renewal fee will be reversed for clients with spends greater than or equal to INR 90,000 in the preceding year."
-      },
-      {
-        "type": "context",
-        "text": "Sr.No"
-      },
-      {
-        "type": "context",
-        "text": "ANNUAL BENEFITS BY USING SUPER VALUE TITANIUM CARD"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Renewal fee is now waived for spend ≥ INR 90,000, and eligibility documents section added."
   },
   {
     "id": "icici-bank-times-black-credit-card",

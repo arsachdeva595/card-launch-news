@@ -1,5 +1,45 @@
 [
   {
+    "card_slug": "hsbc-taj",
+    "card_name": "HSBC Taj Credit Card",
+    "issuer": "hsbc",
+    "change_type": "reward-change",
+    "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on Account Aggregator income document submission, valid until 31 August 2026.",
+    "edition_number": 8,
+    "edition_date": "2026-08-27",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#hsbc-taj"
+  },
+  {
+    "card_slug": "hsbc-travelone",
+    "card_name": "HSBC TravelOne Credit Card",
+    "issuer": "hsbc",
+    "change_type": "reward-change",
+    "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on Account Aggregator income document submission.",
+    "edition_number": 8,
+    "edition_date": "2026-08-27",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#hsbc-travelone"
+  },
+  {
+    "card_slug": "hsbc-premier",
+    "card_name": "HSBC Premier Credit Card",
+    "issuer": "hsbc",
+    "change_type": "reward-change",
+    "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days of card issuance.",
+    "edition_number": 8,
+    "edition_date": "2026-08-27",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#hsbc-premier"
+  },
+  {
+    "card_slug": "hsbc-visa-platinum",
+    "card_name": "HSBC Visa Platinum Credit Card",
+    "issuer": "hsbc",
+    "change_type": "reward-change",
+    "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on account aggregation.",
+    "edition_number": 8,
+    "edition_date": "2026-08-27",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#hsbc-visa-platinum"
+  },
+  {
     "card_slug": "hsbc-taj-credit-card",
     "card_name": "HSBC Taj Credit Card",
     "issuer": "hsbc",

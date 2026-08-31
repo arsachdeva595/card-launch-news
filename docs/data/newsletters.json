@@ -1,5 +1,532 @@
 [
   {
+    "number": 10,
+    "date": "2026-08-29",
+    "subject": "What Changed to Your Credit Card Today? Edition 10",
+    "summary": "The Pine Labs HDFC Bank Pro Credit Card is discontinued, the third Pine Labs or HDFC co-branded card to lose new-applicant status this week.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-29",
+    "issuers": [
+      "hdfc"
+    ],
+    "items": [
+      {
+        "card_slug": "hdfc-pine-labs-pro",
+        "card_name": "Pine Labs HDFC Bank Pro Credit Card",
+        "issuer": "hdfc",
+        "change_type": "discontinuation",
+        "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal. Third Pine Labs-linked HDFC card discontinued this week.",
+        "anchor": "hdfc-pine-labs-pro"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "date": "2026-08-28",
+    "subject": "What Changed to Your Credit Card Today? Edition 9",
+    "summary": "Axis Bank's fee hike wave continues across fourteen more cards, two Pine Labs and Retailio co-branded HDFC cards are discontinued, and Amex reveals a ₹66,000 annual fee on its flagship Platinum Card alongside a ₹60,000 welcome gift.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28",
+    "issuers": [
+      "american-express",
+      "axis",
+      "hdfc"
+    ],
+    "items": [
+      {
+        "card_slug": "axis-vistara-infinite",
+        "card_name": "Axis Bank Vistara Infinite Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
+        "anchor": "axis-vistara-infinite"
+      },
+      {
+        "card_slug": "axis-kwik",
+        "card_name": "Kwik Axis Bank Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "New ₹1,300 fee tier added for dues above ₹50,000.",
+        "anchor": "axis-kwik"
+      },
+      {
+        "card_slug": "axis-vistara-signature",
+        "card_name": "AXIS BANK VISTARA SIGNATURE Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
+        "anchor": "axis-vistara-signature"
+      },
+      {
+        "card_slug": "axis-freecharge",
+        "card_name": "Axis Bank Freecharge Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+        "anchor": "axis-freecharge"
+      },
+      {
+        "card_slug": "axis-lic-signature",
+        "card_name": "LIC Axis Bank Signature Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
+        "anchor": "axis-lic-signature"
+      },
+      {
+        "card_slug": "axis-fibe",
+        "card_name": "Fibe Axis Bank Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Overdue penalty tiers restructured with a new ₹1,300 band above ₹50,000; DCC markup raised to 3.5%.",
+        "anchor": "axis-fibe"
+      },
+      {
+        "card_slug": "axis-shoppers-stop",
+        "card_name": "Axis Bank Shoppers Stop Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+        "anchor": "axis-shoppers-stop"
+      },
+      {
+        "card_slug": "axis-samsung-infinite",
+        "card_name": "Samsung Axis Bank Infinite Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee and overdue penalty tiers restructured; DCC markup raised to 3.5%.",
+        "anchor": "axis-samsung-infinite"
+      },
+      {
+        "card_slug": "axis-spicejet-voyage-black",
+        "card_name": "SpiceJet Axis Bank Voyage Black Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Fee structure and DCC markup updated to the standard new tiers.",
+        "anchor": "axis-spicejet-voyage-black"
+      },
+      {
+        "card_slug": "axis-pride-signature",
+        "card_name": "Axis Bank Pride Signature Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "International transaction fee and payment due thresholds moved to the standard new pattern.",
+        "anchor": "axis-pride-signature"
+      },
+      {
+        "card_slug": "axis-aura",
+        "card_name": "Axis Bank AURA Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+        "anchor": "axis-aura"
+      },
+      {
+        "card_slug": "axis-select",
+        "card_name": "Axis Bank Select Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Standard fee/DCC hike, plus gift card and toll spends added to the fee waiver and EDGE reward point exclusion lists.",
+        "anchor": "axis-select"
+      },
+      {
+        "card_slug": "axis-flipkart",
+        "card_name": "FLIPKART AXIS BANK Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Standard fee/DCC hike, plus a clarification that annual fee waiver spend counts by posting date, not purchase date.",
+        "anchor": "axis-flipkart"
+      },
+      {
+        "card_slug": "axis-privilege",
+        "card_name": "AXIS BANK PRIVILEGE Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Overdue penalty and DCC markup moved to the standard new tiers.",
+        "anchor": "axis-privilege"
+      },
+      {
+        "card_slug": "hdfc-pine-labs",
+        "card_name": "Pine Labs HDFC Bank Credit Card",
+        "issuer": "hdfc",
+        "change_type": "discontinuation",
+        "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
+        "anchor": "hdfc-pine-labs"
+      },
+      {
+        "card_slug": "hdfc-retailio",
+        "card_name": "Retailio HDFC Bank Credit Card",
+        "issuer": "hdfc",
+        "change_type": "discontinuation",
+        "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
+        "anchor": "hdfc-retailio"
+      },
+      {
+        "card_slug": "amex-platinum-reserve",
+        "card_name": "American Express® Platinum Reserve℠ Credit Card",
+        "issuer": "american-express",
+        "change_type": "reward-change",
+        "summary": "New welcome gift added: 11,000 bonus Membership Rewards points.",
+        "anchor": "amex-platinum-reserve"
+      },
+      {
+        "card_slug": "amex-platinum",
+        "card_name": "American Express® Platinum Card",
+        "issuer": "american-express",
+        "change_type": "fee-change",
+        "summary": "Annual fee listed at ₹66,000 plus taxes, alongside a new welcome gift worth up to ₹60,000 (Taj Hotels, Luxe Gift Card, or Postcard Hotels & Resorts).",
+        "anchor": "amex-platinum"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "date": "2026-08-27",
+    "subject": "What Changed to Your Credit Card Today? Edition 8",
+    "summary": "Axis Bank's late fee and forex markup hike spreads to eighteen more cards, including a real devaluation on the REWARDS card that strips out insurance covers. HSBC adds a welcome cashback to four cards, and Amex bumps up welcome bonuses on two.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27",
+    "issuers": [
+      "american-express",
+      "axis",
+      "hsbc"
+    ],
+    "items": [
+      {
+        "card_slug": "axis-vistara",
+        "card_name": "AXIS BANK VISTARA Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5% plus taxes.",
+        "anchor": "axis-vistara"
+      },
+      {
+        "card_slug": "axis-lic-platinum",
+        "card_name": "LIC Axis Bank Platinum Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "DCC markup on international transactions raised from 1.5% to 3.5% plus taxes.",
+        "anchor": "axis-lic-platinum"
+      },
+      {
+        "card_slug": "axis-miles-and-more",
+        "card_name": "Miles and More Axis Bank Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+        "anchor": "axis-miles-and-more"
+      },
+      {
+        "card_slug": "axis-samsung-signature",
+        "card_name": "Samsung Axis Bank Signature Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "New ₹1,300 fee tier for dues above ₹50,000; DCC markup raised from 1.5% to 3.5%.",
+        "anchor": "axis-samsung-signature"
+      },
+      {
+        "card_slug": "axis-spicejet-voyage",
+        "card_name": "SpiceJet Axis Bank Voyage Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+        "anchor": "axis-spicejet-voyage"
+      },
+      {
+        "card_slug": "axis-flipkart-super-elite",
+        "card_name": "Flipkart Axis Bank Super Elite Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+        "anchor": "axis-flipkart-super-elite"
+      },
+      {
+        "card_slug": "axis-pride-platinum",
+        "card_name": "Axis Bank Pride Platinum Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5%.",
+        "anchor": "axis-pride-platinum"
+      },
+      {
+        "card_slug": "axis-indianoil-premium",
+        "card_name": "IndianOil Axis Bank Premium Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5%.",
+        "anchor": "axis-indianoil-premium"
+      },
+      {
+        "card_slug": "axis-atlas",
+        "card_name": "Axis Bank Atlas Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "DCC markup on international transactions raised from 1.5% to 3.5% plus taxes.",
+        "anchor": "axis-atlas"
+      },
+      {
+        "card_slug": "axis-privilege-easy",
+        "card_name": "Privilege Easy Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee and DCC markup raised to the standard new tiers, and the annual fee waiver's excluded spend categories expanded well beyond rent and wallet.",
+        "anchor": "axis-privilege-easy"
+      },
+      {
+        "card_slug": "axis-cashback",
+        "card_name": "Cashback Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+        "anchor": "axis-cashback"
+      },
+      {
+        "card_slug": "axis-horizon",
+        "card_name": "HORIZON Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "New ₹1,300 fee tier for dues above ₹50,000; DCC markup raised from 1.5% to 3.5%.",
+        "anchor": "axis-horizon"
+      },
+      {
+        "card_slug": "axis-google-pay-flex",
+        "card_name": "Google Pay Flex Axis Bank Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+        "anchor": "axis-google-pay-flex"
+      },
+      {
+        "card_slug": "axis-rewards",
+        "card_name": "Axis Bank REWARDS Credit Card",
+        "issuer": "axis",
+        "change_type": "devaluation",
+        "summary": "Standard fee/DCC hike applied, plus insurance covers (purchase protection, credit shield, travel baggage cover) and MakeMyTrip/Swiggy/Tira discounts removed entirely.",
+        "anchor": "axis-rewards"
+      },
+      {
+        "card_slug": "axis-ace",
+        "card_name": "Axis Bank ACE Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+        "anchor": "axis-ace"
+      },
+      {
+        "card_slug": "axis-my-zone",
+        "card_name": "Axis Bank My Zone Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
+        "anchor": "axis-my-zone"
+      },
+      {
+        "card_slug": "axis-indianoil-card",
+        "card_name": "INDIANOIL AXIS BANK Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+        "anchor": "axis-indianoil-card"
+      },
+      {
+        "card_slug": "axis-neo",
+        "card_name": "Neo Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+        "anchor": "axis-neo"
+      },
+      {
+        "card_slug": "hsbc-taj",
+        "card_name": "HSBC Taj Credit Card",
+        "issuer": "hsbc",
+        "change_type": "reward-change",
+        "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on Account Aggregator income document submission, valid until 31 August 2026.",
+        "anchor": "hsbc-taj"
+      },
+      {
+        "card_slug": "hsbc-travelone",
+        "card_name": "HSBC TravelOne Credit Card",
+        "issuer": "hsbc",
+        "change_type": "reward-change",
+        "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on Account Aggregator income document submission.",
+        "anchor": "hsbc-travelone"
+      },
+      {
+        "card_slug": "hsbc-premier",
+        "card_name": "HSBC Premier Credit Card",
+        "issuer": "hsbc",
+        "change_type": "reward-change",
+        "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days of card issuance.",
+        "anchor": "hsbc-premier"
+      },
+      {
+        "card_slug": "hsbc-visa-platinum",
+        "card_name": "HSBC Visa Platinum Credit Card",
+        "issuer": "hsbc",
+        "change_type": "reward-change",
+        "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on account aggregation.",
+        "anchor": "hsbc-visa-platinum"
+      },
+      {
+        "card_slug": "amex-corporate-gold",
+        "card_name": "American Express® Corporate Gold Card",
+        "issuer": "american-express",
+        "change_type": "other",
+        "summary": "Reward earn rate wording clarified; no change to the actual points structure.",
+        "anchor": "amex-corporate-gold"
+      },
+      {
+        "card_slug": "amex-gold",
+        "card_name": "American Express® Gold Card",
+        "issuer": "american-express",
+        "change_type": "reward-change",
+        "summary": "New welcome gift added: 4,000 bonus Membership Rewards points.",
+        "anchor": "amex-gold"
+      },
+      {
+        "card_slug": "amex-membership-rewards",
+        "card_name": "American Express Membership Rewards® Credit Card",
+        "issuer": "american-express",
+        "change_type": "reward-change",
+        "summary": "New welcome gift added: 4,000 bonus Membership Rewards points.",
+        "anchor": "amex-membership-rewards"
+      },
+      {
+        "card_slug": "amex-smartearn",
+        "card_name": "American Express SmartEarn™ Credit Card",
+        "issuer": "american-express",
+        "change_type": "reward-change",
+        "summary": "New welcome cashback added: ₹500 for spending ₹10,000 within the first 90 days.",
+        "anchor": "amex-smartearn"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "date": "2026-08-26",
+    "subject": "What Changed to Your Credit Card Today? Edition 7",
+    "summary": "RBL Bank drops MasterCard as an option on all three tiers of its Shoppers Stop co-branded card, new applicants now get Visa only.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-26",
+    "issuers": [
+      "rbl"
+    ],
+    "items": [
+      {
+        "card_slug": "rbl-shoppers-stop-black",
+        "card_name": "RBL Bank Shoppers Stop Black Credit Card",
+        "issuer": "rbl",
+        "change_type": "other",
+        "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
+        "anchor": "rbl-shoppers-stop-black"
+      },
+      {
+        "card_slug": "rbl-shoppers-stop-gold",
+        "card_name": "RBL Bank Shoppers Stop Gold Credit Card",
+        "issuer": "rbl",
+        "change_type": "other",
+        "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
+        "anchor": "rbl-shoppers-stop-gold"
+      },
+      {
+        "card_slug": "rbl-shoppers-stop-platinum",
+        "card_name": "RBL Bank Shoppers Stop Platinum Credit Card",
+        "issuer": "rbl",
+        "change_type": "other",
+        "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
+        "anchor": "rbl-shoppers-stop-platinum"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "date": "2026-08-25",
+    "subject": "What Changed to Your Credit Card Today? Edition 6",
+    "summary": "RBL Bank Play tweaks its welcome benefit window, Standard Chartered adds a renewal fee waiver, ICICI's Times Black gets a bigger lounge network, and two Axis Bank Purchase cards swap concierge for golf.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25",
+    "issuers": [
+      "axis",
+      "icici",
+      "rbl",
+      "standard-chartered"
+    ],
+    "items": [
+      {
+        "card_slug": "rbl-bank-play",
+        "card_name": "RBL Bank Play Credit Card",
+        "issuer": "rbl",
+        "change_type": "benefit-change",
+        "summary": "Welcome benefit window changed from a flat 3 months after issuance to 60 days after the first statement is generated.",
+        "anchor": "rbl-bank-play"
+      },
+      {
+        "card_slug": "standard-chartered-super-value-titanium",
+        "card_name": "Standard Chartered Super Value Titanium Credit Card",
+        "issuer": "standard-chartered",
+        "change_type": "fee-change",
+        "summary": "Renewal fee is now waived for spends of ₹90,000 or more in the preceding year; an Eligibility & Documents section was also added.",
+        "anchor": "standard-chartered-super-value-titanium"
+      },
+      {
+        "card_slug": "icici-times-black",
+        "card_name": "ICICI Bank Times Black Credit Card",
+        "issuer": "icici",
+        "change_type": "benefit-change",
+        "summary": "Lounge access network expanded from 1,400+ to 1,900+ lounges worldwide, same 145+ country coverage.",
+        "anchor": "icici-times-black"
+      },
+      {
+        "card_slug": "axis-purchase-card",
+        "card_name": "Axis Bank Purchase Card",
+        "issuer": "axis",
+        "change_type": "benefit-change",
+        "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
+        "anchor": "axis-purchase-card"
+      },
+      {
+        "card_slug": "axis-purchase-control-virtual",
+        "card_name": "Axis Bank Purchase Control (Virtual Card)",
+        "issuer": "axis",
+        "change_type": "benefit-change",
+        "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
+        "anchor": "axis-purchase-control-virtual"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "date": "2026-08-23",
+    "subject": "What Changed to Your Credit Card Today? Edition 5",
+    "summary": "Kotak Mahindra Bank pulls the fuel surcharge waiver off three more cards, the NRI Royale Signature, Royale Signature, and Privy League Signature, continuing the sweep that started on 22 August.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-23",
+    "issuers": [
+      "kotak"
+    ],
+    "items": [
+      {
+        "card_slug": "kotak-nri-royale-signature",
+        "card_name": "Kotak NRI Royale Signature Credit Card",
+        "issuer": "kotak",
+        "change_type": "devaluation",
+        "summary": "Fuel surcharge waiver removed from the card's benefits.",
+        "anchor": "kotak-nri-royale-signature"
+      },
+      {
+        "card_slug": "kotak-royale-signature",
+        "card_name": "Kotak Royale Signature Credit Card",
+        "issuer": "kotak",
+        "change_type": "devaluation",
+        "summary": "Fuel surcharge waiver removed from the card's benefits.",
+        "anchor": "kotak-royale-signature"
+      },
+      {
+        "card_slug": "kotak-privy-league-signature",
+        "card_name": "Kotak Privy League Signature Credit Card",
+        "issuer": "kotak",
+        "change_type": "devaluation",
+        "summary": "Fuel surcharge waiver removed from the card's benefits.",
+        "anchor": "kotak-privy-league-signature"
+      }
+    ]
+  },
+  {
     "number": 4,
     "date": "2026-08-22",
     "subject": "What Changed to Your Credit Card Today? Edition 4",

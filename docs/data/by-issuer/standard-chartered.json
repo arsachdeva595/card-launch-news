@@ -1,5 +1,75 @@
 [
   {
+    "card_slug": "stanc-digismart",
+    "card_name": "DigiSmart Credit Card",
+    "issuer": "standard-chartered",
+    "change_type": "fee-change",
+    "summary": "New disclosure: processing fees are levied by the 15th of the next calendar month with a separate statement narration. No new fee amount, just billing timing.",
+    "edition_number": 11,
+    "edition_date": "2026-08-30",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-30#stanc-digismart"
+  },
+  {
+    "card_slug": "standard-chartered-super-value-titanium",
+    "card_name": "Super Value Titanium Credit Card",
+    "issuer": "standard-chartered",
+    "change_type": "eligibility-change",
+    "summary": "Specific ₹55,000/month income requirement removed, replaced with vaguer 'stable monthly income' wording; annual value chart appears mismatched (likely a page template error, not a real cashback change).",
+    "edition_number": 11,
+    "edition_date": "2026-08-30",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-30#standard-chartered-super-value-titanium"
+  },
+  {
+    "card_slug": "stanc-manhattan",
+    "card_name": "Manhattan Credit Card",
+    "issuer": "standard-chartered",
+    "change_type": "eligibility-change",
+    "summary": "Minimum applicant age lowered from 21 to 18 years.",
+    "edition_number": 11,
+    "edition_date": "2026-08-30",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-30#stanc-manhattan"
+  },
+  {
+    "card_slug": "stanc-priority-visa-infinite",
+    "card_name": "Priority Visa Infinite Credit Card",
+    "issuer": "standard-chartered",
+    "change_type": "benefit-change",
+    "summary": "Page now documents detailed reward rates, lounge access counts, and overseas insurance cover amounts; self-employed applicants must now submit IT Returns and Business Continuity proof.",
+    "edition_number": 11,
+    "edition_date": "2026-08-30",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-30#stanc-priority-visa-infinite"
+  },
+  {
+    "card_slug": "stanc-smart",
+    "card_name": "Smart Credit Card",
+    "issuer": "standard-chartered",
+    "change_type": "other",
+    "summary": "Mostly page reformatting; no material change to fees or benefits beyond a portfolio-wide eligibility wording addition.",
+    "edition_number": 11,
+    "edition_date": "2026-08-30",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-30#stanc-smart"
+  },
+  {
+    "card_slug": "stanc-ultimate",
+    "card_name": "Ultimate Credit Card",
+    "issuer": "standard-chartered",
+    "change_type": "fee-change",
+    "summary": "New 1% (plus taxes) processing fee added on rent payments made via third-party platforms; also gained a detailed ₹74,150 annual benefit value chart.",
+    "edition_number": 11,
+    "edition_date": "2026-08-30",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-30#stanc-ultimate"
+  },
+  {
+    "card_slug": "stanc-rewards",
+    "card_name": "Rewards Credit Card",
+    "issuer": "standard-chartered",
+    "change_type": "other",
+    "summary": "Mostly page reformatting; fee and reward structure unchanged beyond a portfolio-wide eligibility wording addition.",
+    "edition_number": 11,
+    "edition_date": "2026-08-30",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-30#stanc-rewards"
+  },
+  {
     "card_slug": "standard-chartered-super-value-titanium",
     "card_name": "Standard Chartered Super Value Titanium Credit Card",
     "issuer": "standard-chartered",

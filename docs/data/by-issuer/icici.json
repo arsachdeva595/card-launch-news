@@ -1,5 +1,15 @@
 [
   {
+    "card_slug": "icici-times-black",
+    "card_name": "ICICI Bank Times Black Credit Card",
+    "issuer": "icici",
+    "change_type": "benefit-change",
+    "summary": "Lounge access network expanded from 1,400+ to 1,900+ lounges worldwide, same 145+ country coverage.",
+    "edition_number": 6,
+    "edition_date": "2026-08-25",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25#icici-times-black"
+  },
+  {
     "card_slug": "icici-amazon-pay",
     "card_name": "Amazon Pay Credit Card",
     "issuer": "icici",

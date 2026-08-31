@@ -1,5 +1,25 @@
 [
   {
+    "card_slug": "axis-purchase-card",
+    "card_name": "Axis Bank Purchase Card",
+    "issuer": "axis",
+    "change_type": "benefit-change",
+    "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
+    "edition_number": 6,
+    "edition_date": "2026-08-25",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25#axis-purchase-card"
+  },
+  {
+    "card_slug": "axis-purchase-control-virtual",
+    "card_name": "Axis Bank Purchase Control (Virtual Card)",
+    "issuer": "axis",
+    "change_type": "benefit-change",
+    "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
+    "edition_number": 6,
+    "edition_date": "2026-08-25",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25#axis-purchase-control-virtual"
+  },
+  {
     "card_slug": "axis-bank-freecharge-plus",
     "card_name": "Axis Bank Freecharge Plus Credit Card",
     "issuer": "axis",

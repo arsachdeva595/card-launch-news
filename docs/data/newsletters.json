@@ -1,5 +1,60 @@
 [
   {
+    "number": 6,
+    "date": "2026-08-25",
+    "subject": "What Changed to Your Credit Card Today? Edition 6",
+    "summary": "RBL Bank Play tweaks its welcome benefit window, Standard Chartered adds a renewal fee waiver, ICICI's Times Black gets a bigger lounge network, and two Axis Bank Purchase cards swap concierge for golf.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25",
+    "issuers": [
+      "axis",
+      "icici",
+      "rbl",
+      "standard-chartered"
+    ],
+    "items": [
+      {
+        "card_slug": "rbl-bank-play",
+        "card_name": "RBL Bank Play Credit Card",
+        "issuer": "rbl",
+        "change_type": "benefit-change",
+        "summary": "Welcome benefit window changed from a flat 3 months after issuance to 60 days after the first statement is generated.",
+        "anchor": "rbl-bank-play"
+      },
+      {
+        "card_slug": "standard-chartered-super-value-titanium",
+        "card_name": "Standard Chartered Super Value Titanium Credit Card",
+        "issuer": "standard-chartered",
+        "change_type": "fee-change",
+        "summary": "Renewal fee is now waived for spends of ₹90,000 or more in the preceding year; an Eligibility & Documents section was also added.",
+        "anchor": "standard-chartered-super-value-titanium"
+      },
+      {
+        "card_slug": "icici-times-black",
+        "card_name": "ICICI Bank Times Black Credit Card",
+        "issuer": "icici",
+        "change_type": "benefit-change",
+        "summary": "Lounge access network expanded from 1,400+ to 1,900+ lounges worldwide, same 145+ country coverage.",
+        "anchor": "icici-times-black"
+      },
+      {
+        "card_slug": "axis-purchase-card",
+        "card_name": "Axis Bank Purchase Card",
+        "issuer": "axis",
+        "change_type": "benefit-change",
+        "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
+        "anchor": "axis-purchase-card"
+      },
+      {
+        "card_slug": "axis-purchase-control-virtual",
+        "card_name": "Axis Bank Purchase Control (Virtual Card)",
+        "issuer": "axis",
+        "change_type": "benefit-change",
+        "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
+        "anchor": "axis-purchase-control-virtual"
+      }
+    ]
+  },
+  {
     "number": 5,
     "date": "2026-08-23",
     "subject": "What Changed to Your Credit Card Today? Edition 5",

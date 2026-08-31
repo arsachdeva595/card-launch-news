@@ -1,5 +1,41 @@
 [
   {
+    "number": 7,
+    "date": "2026-08-26",
+    "subject": "What Changed to Your Credit Card Today? Edition 7",
+    "summary": "RBL Bank drops MasterCard as an option on all three tiers of its Shoppers Stop co-branded card, new applicants now get Visa only.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-26",
+    "issuers": [
+      "rbl"
+    ],
+    "items": [
+      {
+        "card_slug": "rbl-shoppers-stop-black",
+        "card_name": "RBL Bank Shoppers Stop Black Credit Card",
+        "issuer": "rbl",
+        "change_type": "other",
+        "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
+        "anchor": "rbl-shoppers-stop-black"
+      },
+      {
+        "card_slug": "rbl-shoppers-stop-gold",
+        "card_name": "RBL Bank Shoppers Stop Gold Credit Card",
+        "issuer": "rbl",
+        "change_type": "other",
+        "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
+        "anchor": "rbl-shoppers-stop-gold"
+      },
+      {
+        "card_slug": "rbl-shoppers-stop-platinum",
+        "card_name": "RBL Bank Shoppers Stop Platinum Credit Card",
+        "issuer": "rbl",
+        "change_type": "other",
+        "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
+        "anchor": "rbl-shoppers-stop-platinum"
+      }
+    ]
+  },
+  {
     "number": 6,
     "date": "2026-08-25",
     "subject": "What Changed to Your Credit Card Today? Edition 6",

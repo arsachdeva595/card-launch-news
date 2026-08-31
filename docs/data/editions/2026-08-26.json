@@ -1,0 +1,38 @@
+{
+  "number": 7,
+  "date": "2026-08-26",
+  "subject": "What Changed to Your Credit Card Today? Edition 7",
+  "summary": "RBL Bank drops MasterCard as an option on all three tiers of its Shoppers Stop co-branded card, new applicants now get Visa only.",
+  "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-26",
+  "body_html": "<div class=\"edition-body\">\n  <p>Today's change is small on the surface but worth five minutes of your attention if you're about to apply for a card, or if you're not sure which network your existing card runs on. RBL Bank quietly dropped MasterCard as an option on all three tiers of its Shoppers Stop co-branded card.</p>\n  <h2 id=\"rbl-shoppers-stop-black\">RBL Bank Shoppers Stop Black Credit Card</h2>\n  <p>This card used to be issued on either Visa or MasterCard network. It's now Visa only.</p>\n  <p><strong>The catch:</strong> if you already hold this card on MasterCard, nothing changes for you today; existing cards keep working on their issued network. This only affects new applicants from here on, who no longer get a choice.</p>\n  <h2 id=\"rbl-shoppers-stop-gold\">RBL Bank Shoppers Stop Gold Credit Card</h2>\n  <p>Same change: Visa and MasterCard down to Visa only, for new applications.</p>\n  <p><strong>The catch:</strong> same as above, this is forward-looking. It doesn't touch anyone who already has the card.</p>\n  <h2 id=\"rbl-shoppers-stop-platinum\">RBL Bank Shoppers Stop Platinum Credit Card</h2>\n  <p>Same change again, across the third and final tier of this co-branded card family.</p>\n  <p><strong>The catch:</strong> identical. New applicants only, existing cardholders unaffected for now.</p>\n  <h2>What I'd actually do with this</h2>\n  <p>If you already hold any of these three cards on MasterCard, there's nothing to act on. Your card keeps working exactly as it does today until your next renewal or reissue, at which point it's worth confirming with RBL whether you'll be migrated to Visa.</p>\n  <p>If you're applying fresh for any Shoppers Stop RBL card, you no longer get to pick your network, it's Visa by default now. That mostly matters if you specifically wanted MasterCard for a particular merchant acceptance reason (rare in India, but not unheard of for some international use cases). For the vast majority of shoppers, Visa acceptance in India and abroad is broad enough that this changes nothing about how usable the card is day to day.</p>\n  <p>This is my honest read, not formal financial advice. I'm not your advisor, and before you make a call on any of this, run it past a professional or at least sleep on it. But this is exactly how I'd think about it if it were my card.</p>\n  <p>Monzy</p>\n</div>\n",
+  "items": [
+    {
+      "card_slug": "rbl-shoppers-stop-black",
+      "card_name": "RBL Bank Shoppers Stop Black Credit Card",
+      "issuer": "rbl",
+      "change_type": "other",
+      "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
+      "anchor": "rbl-shoppers-stop-black"
+    },
+    {
+      "card_slug": "rbl-shoppers-stop-gold",
+      "card_name": "RBL Bank Shoppers Stop Gold Credit Card",
+      "issuer": "rbl",
+      "change_type": "other",
+      "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
+      "anchor": "rbl-shoppers-stop-gold"
+    },
+    {
+      "card_slug": "rbl-shoppers-stop-platinum",
+      "card_name": "RBL Bank Shoppers Stop Platinum Credit Card",
+      "issuer": "rbl",
+      "change_type": "other",
+      "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
+      "anchor": "rbl-shoppers-stop-platinum"
+    }
+  ],
+  "issuers": [
+    "rbl"
+  ],
+  "body_markdown": "# What Changed to Your Credit Card Today?\n\n**Edition 7, 26 August 2026**\n\nToday's change is small on the surface but worth five minutes of your attention if you're about to apply for a card, or if you're not sure which network your existing card runs on. RBL Bank quietly dropped MasterCard as an option on all three tiers of its Shoppers Stop co-branded card.\n\n<h2 id=\"rbl-shoppers-stop-black\">RBL Bank Shoppers Stop Black Credit Card</h2>\n\nThis card used to be issued on either Visa or MasterCard network. It's now Visa only.\n\n**The catch:** if you already hold this card on MasterCard, nothing changes for you today; existing cards keep working on their issued network. This only affects new applicants from here on, who no longer get a choice.\n\n<h2 id=\"rbl-shoppers-stop-gold\">RBL Bank Shoppers Stop Gold Credit Card</h2>\n\nSame change: Visa and MasterCard down to Visa only, for new applications.\n\n**The catch:** same as above, this is forward-looking. It doesn't touch anyone who already has the card.\n\n<h2 id=\"rbl-shoppers-stop-platinum\">RBL Bank Shoppers Stop Platinum Credit Card</h2>\n\nSame change again, across the third and final tier of this co-branded card family.\n\n**The catch:** identical. New applicants only, existing cardholders unaffected for now.\n\n## What I'd actually do with this\n\nIf you already hold any of these three cards on MasterCard, there's nothing to act on. Your card keeps working exactly as it does today until your next renewal or reissue, at which point it's worth confirming with RBL whether you'll be migrated to Visa.\n\nIf you're applying fresh for any Shoppers Stop RBL card, you no longer get to pick your network, it's Visa by default now. That mostly matters if you specifically wanted MasterCard for a particular merchant acceptance reason (rare in India, but not unheard of for some international use cases). For the vast majority of shoppers, Visa acceptance in India and abroad is broad enough that this changes nothing about how usable the card is day to day.\n\nThis is my honest read, not formal financial advice. I'm not your advisor, and before you make a call on any of this, run it past a professional or at least sleep on it. But this is exactly how I'd think about it if it were my card.\n\nMonzy\n"
+}

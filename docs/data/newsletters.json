@@ -1,5 +1,163 @@
 [
   {
+    "number": 9,
+    "date": "2026-08-28",
+    "subject": "What Changed to Your Credit Card Today? Edition 9",
+    "summary": "Axis Bank's fee hike wave continues across fourteen more cards, two Pine Labs and Retailio co-branded HDFC cards are discontinued, and Amex reveals a ₹66,000 annual fee on its flagship Platinum Card alongside a ₹60,000 welcome gift.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28",
+    "issuers": [
+      "american-express",
+      "axis",
+      "hdfc"
+    ],
+    "items": [
+      {
+        "card_slug": "axis-vistara-infinite",
+        "card_name": "Axis Bank Vistara Infinite Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
+        "anchor": "axis-vistara-infinite"
+      },
+      {
+        "card_slug": "axis-kwik",
+        "card_name": "Kwik Axis Bank Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "New ₹1,300 fee tier added for dues above ₹50,000.",
+        "anchor": "axis-kwik"
+      },
+      {
+        "card_slug": "axis-vistara-signature",
+        "card_name": "AXIS BANK VISTARA SIGNATURE Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
+        "anchor": "axis-vistara-signature"
+      },
+      {
+        "card_slug": "axis-freecharge",
+        "card_name": "Axis Bank Freecharge Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+        "anchor": "axis-freecharge"
+      },
+      {
+        "card_slug": "axis-lic-signature",
+        "card_name": "LIC Axis Bank Signature Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
+        "anchor": "axis-lic-signature"
+      },
+      {
+        "card_slug": "axis-fibe",
+        "card_name": "Fibe Axis Bank Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Overdue penalty tiers restructured with a new ₹1,300 band above ₹50,000; DCC markup raised to 3.5%.",
+        "anchor": "axis-fibe"
+      },
+      {
+        "card_slug": "axis-shoppers-stop",
+        "card_name": "Axis Bank Shoppers Stop Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+        "anchor": "axis-shoppers-stop"
+      },
+      {
+        "card_slug": "axis-samsung-infinite",
+        "card_name": "Samsung Axis Bank Infinite Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee and overdue penalty tiers restructured; DCC markup raised to 3.5%.",
+        "anchor": "axis-samsung-infinite"
+      },
+      {
+        "card_slug": "axis-spicejet-voyage-black",
+        "card_name": "SpiceJet Axis Bank Voyage Black Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Fee structure and DCC markup updated to the standard new tiers.",
+        "anchor": "axis-spicejet-voyage-black"
+      },
+      {
+        "card_slug": "axis-pride-signature",
+        "card_name": "Axis Bank Pride Signature Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "International transaction fee and payment due thresholds moved to the standard new pattern.",
+        "anchor": "axis-pride-signature"
+      },
+      {
+        "card_slug": "axis-aura",
+        "card_name": "Axis Bank AURA Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+        "anchor": "axis-aura"
+      },
+      {
+        "card_slug": "axis-select",
+        "card_name": "Axis Bank Select Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Standard fee/DCC hike, plus gift card and toll spends added to the fee waiver and EDGE reward point exclusion lists.",
+        "anchor": "axis-select"
+      },
+      {
+        "card_slug": "axis-flipkart",
+        "card_name": "FLIPKART AXIS BANK Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Standard fee/DCC hike, plus a clarification that annual fee waiver spend counts by posting date, not purchase date.",
+        "anchor": "axis-flipkart"
+      },
+      {
+        "card_slug": "axis-privilege",
+        "card_name": "AXIS BANK PRIVILEGE Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "Overdue penalty and DCC markup moved to the standard new tiers.",
+        "anchor": "axis-privilege"
+      },
+      {
+        "card_slug": "hdfc-pine-labs",
+        "card_name": "Pine Labs HDFC Bank Credit Card",
+        "issuer": "hdfc",
+        "change_type": "discontinuation",
+        "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
+        "anchor": "hdfc-pine-labs"
+      },
+      {
+        "card_slug": "hdfc-retailio",
+        "card_name": "Retailio HDFC Bank Credit Card",
+        "issuer": "hdfc",
+        "change_type": "discontinuation",
+        "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
+        "anchor": "hdfc-retailio"
+      },
+      {
+        "card_slug": "amex-platinum-reserve",
+        "card_name": "American Express® Platinum Reserve℠ Credit Card",
+        "issuer": "american-express",
+        "change_type": "reward-change",
+        "summary": "New welcome gift added: 11,000 bonus Membership Rewards points.",
+        "anchor": "amex-platinum-reserve"
+      },
+      {
+        "card_slug": "amex-platinum",
+        "card_name": "American Express® Platinum Card",
+        "issuer": "american-express",
+        "change_type": "fee-change",
+        "summary": "Annual fee listed at ₹66,000 plus taxes, alongside a new welcome gift worth up to ₹60,000 (Taj Hotels, Luxe Gift Card, or Postcard Hotels & Resorts).",
+        "anchor": "amex-platinum"
+      }
+    ]
+  },
+  {
     "number": 8,
     "date": "2026-08-27",
     "subject": "What Changed to Your Credit Card Today? Edition 8",

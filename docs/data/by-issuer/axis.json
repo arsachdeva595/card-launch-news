@@ -1,5 +1,145 @@
 [
   {
+    "card_slug": "axis-vistara-infinite",
+    "card_name": "Axis Bank Vistara Infinite Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-vistara-infinite"
+  },
+  {
+    "card_slug": "axis-kwik",
+    "card_name": "Kwik Axis Bank Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "New ₹1,300 fee tier added for dues above ₹50,000.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-kwik"
+  },
+  {
+    "card_slug": "axis-vistara-signature",
+    "card_name": "AXIS BANK VISTARA SIGNATURE Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-vistara-signature"
+  },
+  {
+    "card_slug": "axis-freecharge",
+    "card_name": "Axis Bank Freecharge Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-freecharge"
+  },
+  {
+    "card_slug": "axis-lic-signature",
+    "card_name": "LIC Axis Bank Signature Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-lic-signature"
+  },
+  {
+    "card_slug": "axis-fibe",
+    "card_name": "Fibe Axis Bank Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Overdue penalty tiers restructured with a new ₹1,300 band above ₹50,000; DCC markup raised to 3.5%.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-fibe"
+  },
+  {
+    "card_slug": "axis-shoppers-stop",
+    "card_name": "Axis Bank Shoppers Stop Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-shoppers-stop"
+  },
+  {
+    "card_slug": "axis-samsung-infinite",
+    "card_name": "Samsung Axis Bank Infinite Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Late fee and overdue penalty tiers restructured; DCC markup raised to 3.5%.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-samsung-infinite"
+  },
+  {
+    "card_slug": "axis-spicejet-voyage-black",
+    "card_name": "SpiceJet Axis Bank Voyage Black Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Fee structure and DCC markup updated to the standard new tiers.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-spicejet-voyage-black"
+  },
+  {
+    "card_slug": "axis-pride-signature",
+    "card_name": "Axis Bank Pride Signature Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "International transaction fee and payment due thresholds moved to the standard new pattern.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-pride-signature"
+  },
+  {
+    "card_slug": "axis-aura",
+    "card_name": "Axis Bank AURA Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-aura"
+  },
+  {
+    "card_slug": "axis-select",
+    "card_name": "Axis Bank Select Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Standard fee/DCC hike, plus gift card and toll spends added to the fee waiver and EDGE reward point exclusion lists.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-select"
+  },
+  {
+    "card_slug": "axis-flipkart",
+    "card_name": "FLIPKART AXIS BANK Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Standard fee/DCC hike, plus a clarification that annual fee waiver spend counts by posting date, not purchase date.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-flipkart"
+  },
+  {
+    "card_slug": "axis-privilege",
+    "card_name": "AXIS BANK PRIVILEGE Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Overdue penalty and DCC markup moved to the standard new tiers.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-privilege"
+  },
+  {
     "card_slug": "axis-vistara",
     "card_name": "AXIS BANK VISTARA Credit Card",
     "issuer": "axis",

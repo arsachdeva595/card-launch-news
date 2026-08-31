@@ -1,0 +1,22 @@
+[
+  {
+    "card_slug": "hdfc-pine-labs",
+    "card_name": "Pine Labs HDFC Bank Credit Card",
+    "issuer": "hdfc",
+    "change_type": "discontinuation",
+    "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#hdfc-pine-labs"
+  },
+  {
+    "card_slug": "hdfc-retailio",
+    "card_name": "Retailio HDFC Bank Credit Card",
+    "issuer": "hdfc",
+    "change_type": "discontinuation",
+    "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
+    "edition_number": 9,
+    "edition_date": "2026-08-28",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#hdfc-retailio"
+  }
+]

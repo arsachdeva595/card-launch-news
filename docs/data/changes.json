@@ -1,5 +1,1696 @@
 [
   {
+    "id": "kotak-mahindra-bank-white-credit-card",
+    "cardName": "White Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/white-credit-card.html",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-01T08:47:20.300Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enter the world of White Credit Card for exclusive benefits,"
+      },
+      {
+        "type": "context",
+        "text": "unprecendented access to premium brands and more."
+      },
+      {
+        "type": "removed",
+        "text": "White Pass"
+      },
+      {
+        "type": "added",
+        "text": "Rewards"
+      },
+      {
+        "type": "context",
+        "text": "Lounge Program"
+      },
+      {
+        "type": "context",
+        "text": "Value"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility"
+      },
+      {
+        "type": "removed",
+        "text": "PayWave"
+      },
+      {
+        "type": "removed",
+        "text": "Explore More"
+      },
+      {
+        "type": "context",
+        "text": "Be prepared to enjoy a life unlike any other."
+      },
+      {
+        "type": "removed",
+        "text": "White Pass"
+      },
+      {
+        "type": "added",
+        "text": "Rewards"
+      },
+      {
+        "type": "context",
+        "text": "A handcrafted exclusive rewards program designed for transparency, elegance and simplicity"
+      },
+      {
+        "type": "context",
+        "text": "Simple Milestone Structure"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn White Pass value upto Rs. 27,000 every year on annual spends of Rs. 12 lacs"
+      },
+      {
+        "type": "context",
+        "text": "Premium Redemption Catalog"
+      },
+      {
+        "type": "removed",
+        "text": "Redeem White Pass balance against luxury brands"
+      },
+      {
+        "type": "added",
+        "text": "Redeem Rewards balance against luxury brands"
+      },
+      {
+        "type": "context",
+        "text": "Airport Lounge Access"
+      },
+      {
+        "type": "context",
+        "text": "Experience luxury as you travel"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Click Here"
+      },
+      {
+        "type": "context",
+        "text": "Why keep track of reward points when you can just unlock direct value as you spend?"
+      },
+      {
+        "type": "removed",
+        "text": "Earn White Pass value on reaching spend milestones."
+      },
+      {
+        "type": "added",
+        "text": "Earn Reward Point value on reaching spend milestones."
+      },
+      {
+        "type": "context",
+        "text": "Get value reminders | Use vouchers online or offline"
+      },
+      {
+        "type": "context",
+        "text": "Spend milestone*"
+      },
+      {
+        "type": "removed",
+        "text": "White Pass value you earn"
+      },
+      {
+        "type": "removed",
+        "text": "Cumulative White Pass value"
+      },
+      {
+        "type": "added",
+        "text": "Reward Point value you earn"
+      },
+      {
+        "type": "added",
+        "text": "Cumulative Reward Point value"
+      },
+      {
+        "type": "context",
+        "text": "₹2 lakh"
+      },
+      {
+        "type": "context",
+        "text": "₹2,000"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "₹27,000"
+      },
+      {
+        "type": "context",
+        "text": "*Applicable on spends settled in a card anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "These aren’t any ordinary brand vouchers."
+      },
+      {
+        "type": "removed",
+        "text": "Redeem White Pass value directly from our curated collection of premium brands."
+      },
+      {
+        "type": "removed",
+        "text": "The above list of brands is subject to change from time to time."
+      },
+      {
+        "type": "removed",
+        "text": "Earn White Pass value on crossing every spend milestone"
+      },
+      {
+        "type": "removed",
+        "text": "1 White Pass = ₹1 on White Pass catalog"
+      },
+      {
+        "type": "removed",
+        "text": "1 White Pass = ₹0.70 for cashback"
+      },
+      {
+        "type": "added",
+        "text": "Earn Reward Points on crossing every spend milestone"
+      },
+      {
+        "type": "added",
+        "text": "1 Reward Point = ₹1 on Reward Point catalog"
+      },
+      {
+        "type": "added",
+        "text": "1 Reward Point= ₹0.70 for cashback"
+      },
+      {
+        "type": "context",
+        "text": "Claim those vouchers at your convenience."
+      },
+      {
+        "type": "context",
+        "text": "All you need to do is"
+      },
+      {
+        "type": "context",
+        "text": "Login to Kotak Mobile app"
+      },
+      {
+        "type": "removed",
+        "text": "Click on the Card Overview icon and enter your MPIN"
+      },
+      {
+        "type": "removed",
+        "text": "Scroll down to the section of reward points"
+      },
+      {
+        "type": "removed",
+        "text": "Click on ‘Claim now’. You will now be redirected to the White Pass redemption portal"
+      },
+      {
+        "type": "removed",
+        "text": "Select the option you want to redeem your White Pass on"
+      },
+      {
+        "type": "removed",
+        "text": "Once a redemption is done , you will receive a confirmation over email & SMS with the details of redemption"
+      },
+      {
+        "type": "removed",
+        "text": "You will also be able to view all your redemptions in the Redemption History tab of the White Pass portal."
+      },
+      {
+        "type": "removed",
+        "text": "A maximum White Pass value of ₹27,000 can be accumulated in a year."
+      },
+      {
+        "type": "removed",
+        "text": "Every year on the anniversary date of the card , White Pass value will be reset to zero."
+      },
+      {
+        "type": "removed",
+        "text": "White Pass balance remains valid for an additional 90 days after every anniversary cycle."
+      },
+      {
+        "type": "removed",
+        "text": "For example: If your card is booked on 1-June-2025, the balance earned for the anniversary year 1-Jun-2025 to 31-May-2026 can be claimed till 29-August-2026."
+      },
+      {
+        "type": "removed",
+        "text": "Disclaimer: Please note w.e.f 1st April,2026  there are some changes in the calculation of milestone for White Pass benefits click here to know more."
+      },
+      {
+        "type": "added",
+        "text": "Enter your MPIN and click on the Card Overview icon"
+      },
+      {
+        "type": "added",
+        "text": "Click on reward points in the top right corner"
+      },
+      {
+        "type": "added",
+        "text": "Click on the arrow to land on Kotak Unbox"
+      },
+      {
+        "type": "added",
+        "text": "Select offerings you want to redeem your Reward Point for"
+      },
+      {
+        "type": "added",
+        "text": "Once redemption is done, you will receive a confirmation over email & SMS with the details of redemption"
+      },
+      {
+        "type": "added",
+        "text": "A maximum reward point value of ₹27,000 can be accumulated in a year."
+      },
+      {
+        "type": "added",
+        "text": "Every year on the anniversary date of the card , reward point value will be reset to zero."
+      },
+      {
+        "type": "added",
+        "text": "Reward point balance remains valid for an additional 90 days after every anniversary cycle."
+      },
+      {
+        "type": "added",
+        "text": "For example: If your card is booked on 1-June-2025, the balance earned for the anniversary year 1-Jun-2025 to 31-May-2026 can be claimed till 29-August-2026"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer: Please note w.e.f 1st April,2026 there are some changes in the calculation of milestone for Reward Points benefits click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Have a relaxed travelling experience. Enjoy complimentary refreshments, free internet access and a relaxed ambience, so your wait at airports is made more comfortable."
+      },
+      {
+        "type": "context",
+        "text": "Benefit"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Present your Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Domestic Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "2 complimentary visits every quarter"
+      },
+      {
+        "type": "added",
+        "text": "2 complimentary visits every quarter*"
+      },
+      {
+        "type": "context",
+        "text": "Click Here"
+      },
+      {
+        "type": "context",
+        "text": "Present your Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Income: ₹25 lakh and above per annum"
+      },
+      {
+        "type": "context",
+        "text": "To know about Programme Eligibility click here ."
+      },
+      {
+        "type": "removed",
+        "text": "The White Credit Card also comes with Visa payWave that offers a fast, safe and secure way to pay."
+      },
+      {
+        "type": "removed",
+        "text": "Just wave and pay with no PIN."
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy the comfort of this contactless way to pay for transactions up to ₹5000, without a PIN."
+      },
+      {
+        "type": "removed",
+        "text": "Why contactless payments?"
+      },
+      {
+        "type": "removed",
+        "text": "Speed: You don't need to enter a PIN, just wave your credit card on the reader*."
+      },
+      {
+        "type": "removed",
+        "text": "Safety: The credit card never leaves your hand, reducing the risk of loss or counterfeit."
+      },
+      {
+        "type": "removed",
+        "text": "Security: Multiple layers of security ensures no fraudulent or unauthorized transactions."
+      },
+      {
+        "type": "removed",
+        "text": "How does the PayWave Credit Card work?"
+      },
+      {
+        "type": "removed",
+        "text": "Look for the Visa PayWave mark and contactless logo on the POS machine"
+      },
+      {
+        "type": "removed",
+        "text": "Check the amount entered on the contactless reader"
+      },
+      {
+        "type": "removed",
+        "text": "Tap your credit card over the reader at close range over the logo"
+      },
+      {
+        "type": "removed",
+        "text": "A message and 4 beeps indicates a successful transaction"
+      },
+      {
+        "type": "removed",
+        "text": "*The requirement for PIN entry on the POS terminal at the merchant outlet is a function of country specific regulations and is subject to change. PIN input is not mandated for purchases below the permissible local limit."
+      },
+      {
+        "type": "removed",
+        "text": "Please note that the permissible transaction limit for usage of credit cards in contactless mode in India is mandated by RBI and may change from time to time based on the latest regulations. As per RBI notification on Additional Factor authentication for contactless transactions dated Dec 4, 2020, PIN input is not required on the POS terminal at the merchant outlet for contactless transactions up to a maximum value of ₹5,000 per transaction. Additionally, beyond this transaction limit (above ₹5,000), the card has to be processed in Chip & PIN mode and authentication with PIN is mandatory."
+      },
+      {
+        "type": "removed",
+        "text": "Videos"
+      },
+      {
+        "type": "removed",
+        "text": "White Credit Card Features"
+      },
+      {
+        "type": "removed",
+        "text": "Kotak White credit card is a new, exclusive, premium credit card experience. Unlike other credit cards, it doesn’t make you tally points but rewards your shopping with a White Pass which you can then redeem with world-class brands. Watch this video to learn more."
+      },
+      {
+        "type": "context",
+        "text": "Fee & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Kotak White Signature Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Compare this product with other Kotak Credit Cards"
+      },
+      {
+        "type": "context",
+        "text": "Compare Now"
+      },
+      {
+        "type": "added",
+        "text": "Top Premium Credit Cards in India"
+      },
+      {
+        "type": "added",
+        "text": "Best Credit Cards in India in 2025"
+      },
+      {
+        "type": "added",
+        "text": "10 Best Mobile Phones Under ₹15000 in India for 2024 - Buy with No Cost EMI"
+      },
+      {
+        "type": "added",
+        "text": "Best Mobile Under ₹25,000: List of Latest & Top 10 Smartphones Brands | Kotak No-Cost EMI"
+      },
+      {
+        "type": "context",
+        "text": "Earn unlimited 2.5 Mojo points for every Rs. 100 on online spends and 1 Mojo point for every Rs. 100 on other spends."
+      },
+      {
+        "type": "context",
+        "text": "Get 2500 Mojo points every quarter on spends of 75000"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Reward program renamed from White Pass to Reward Points, with updated point values, redemption process, and annual cap."
+  },
+  {
+    "id": "idfc-first-bank-purchase-credit-card",
+    "cardName": "Purchase Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/purchase-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:46:16.754Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "FIRST Purchases Credit Card - Card for Business Purchases | IDFC FIRST Bank"
+      },
+      {
+        "type": "added",
+        "text": "Apply for FIRST Purchases Card - Manage Business Spends | IDFC FIRST Bank"
+      },
+      {
+        "type": "context",
+        "text": "Flex the spending power"
+      },
+      {
+        "type": "context",
+        "text": "of your business"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Diverse card offerings"
+      },
+      {
+        "type": "context",
+        "text": "Manage your Business purchases with unparalleled benefits"
+      },
+      {
+        "type": "removed",
+        "text": "10X Reward Points on international transactions"
+      },
+      {
+        "type": "removed",
+        "text": "3X Reward Points on domestic transactions"
+      },
+      {
+        "type": "removed",
+        "text": "2 airport lounge visits per quarter"
+      },
+      {
+        "type": "removed",
+        "text": "3.5% Forex markup"
+      },
+      {
+        "type": "added",
+        "text": "Optimize business purchases, procurement and statutory payments"
+      },
+      {
+        "type": "added",
+        "text": "Track and control your daily and monthly spendings"
+      },
+      {
+        "type": "added",
+        "text": "Reduce payment processing expenses (both interest and transaction costs)"
+      },
+      {
+        "type": "added",
+        "text": "Improved visibility by managing spend patterns to negotiate supplier discounts"
+      },
+      {
+        "type": "context",
+        "text": "Suitable for sales executives, etc."
+      },
+      {
+        "type": "context",
+        "text": "Users receive two lounge accesses per quarter, both for domestic and international lounges, providing comfort and convenience during travel."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Users benefit from personal accident and travel insurance coverage."
+      },
+      {
+        "type": "context",
+        "text": "Enjoy a 1% waiver on fuel surcharge, up to ₹500 per statement."
+      },
+      {
+        "type": "removed",
+        "text": "Streamline your business purchases with the FIRST Purchase Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "Streamline your business purchases with the FIRST Purchase Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Streamlined Expense Management"
+      },
+      {
+        "type": "context",
+        "text": "Restrict card usage on a transaction and vendor category"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Improve Process Efficiencies"
+      },
+      {
+        "type": "context",
+        "text": "Account for all direct expenses through a central dashboard"
+      },
+      {
+        "type": "removed",
+        "text": "Virtual cards for ad-hoc payments"
+      },
+      {
+        "type": "removed",
+        "text": "Unified payment system to streamline your multiple payment mode"
+      },
+      {
+        "type": "added",
+        "text": "Seamless, digital applications and card management for your teams"
+      },
+      {
+        "type": "added",
+        "text": "Hassle-free sync with ERPs to drive real-time visibility"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy Cost Savings"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy up to 45 days of interest-free credit"
+      },
+      {
+        "type": "context",
+        "text": "Save more with competitive forex rates of just 3.5%"
+      },
+      {
+        "type": "removed",
+        "text": "Choose between rewards and rebates on card usage"
+      },
+      {
+        "type": "added",
+        "text": "Earn higher rebates of up to 150bps on your spends (competition – no rebate on purchase card)"
+      },
+      {
+        "type": "context",
+        "text": "Streamlined Expense Management"
+      },
+      {
+        "type": "context",
+        "text": "Improve Process Efficiencies"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Improve workforce productivity through paperless processes"
+      },
+      {
+        "type": "context",
+        "text": "Account for all direct expenses through a central dashboard"
+      },
+      {
+        "type": "removed",
+        "text": "Virtual cards for ad-hoc payments"
+      },
+      {
+        "type": "removed",
+        "text": "Unified payment system to streamline your multiple payment mode"
+      },
+      {
+        "type": "added",
+        "text": "Seamless, digital applications and card management for your teams"
+      },
+      {
+        "type": "added",
+        "text": "Hassle-free sync with ERPs to drive real-time visibility"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy up to 45 days of interest-free credit"
+      },
+      {
+        "type": "context",
+        "text": "Save more with competitive forex rates of just 3.5%"
+      },
+      {
+        "type": "removed",
+        "text": "Choose between rewards and rebates on card usage"
+      },
+      {
+        "type": "removed",
+        "text": "Interested?"
+      },
+      {
+        "type": "removed",
+        "text": "Share your details, and we will get in touch with you"
+      },
+      {
+        "type": "removed",
+        "text": "Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Company Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "OTP*"
+      },
+      {
+        "type": "removed",
+        "text": "Resend"
+      },
+      {
+        "type": "removed",
+        "text": "OTP"
+      },
+      {
+        "type": "removed",
+        "text": "Email Address*"
+      },
+      {
+        "type": "removed",
+        "text": "Submit"
+      },
+      {
+        "type": "removed",
+        "text": "Thank You!"
+      },
+      {
+        "type": "removed",
+        "text": "Thank you for showing interest in IDFC FIRST Bank."
+      },
+      {
+        "type": "removed",
+        "text": "We will get back to you shortly."
+      },
+      {
+        "type": "removed",
+        "text": "Submit"
+      },
+      {
+        "type": "added",
+        "text": "Earn higher rebates of up to 150bps on your spends (competition – no rebate on purchase card)"
+      },
+      {
+        "type": "added",
+        "text": "Spends done on these Merchant Categories Codes (MCCs) would not be eligible for reward points."
+      },
+      {
+        "type": "added",
+        "text": "To know more about Insurance coverages click here ."
+      },
+      {
+        "type": "added",
+        "text": "Spends done on the following Merchant Categories would not be eligible for reward points:"
+      },
+      {
+        "type": "added",
+        "text": "Category Name"
+      },
+      {
+        "type": "added",
+        "text": "MCC Code"
+      },
+      {
+        "type": "added",
+        "text": "Utilities"
+      },
+      {
+        "type": "added",
+        "text": "4900"
+      },
+      {
+        "type": "added",
+        "text": "Government"
+      },
+      {
+        "type": "added",
+        "text": "9211, 9222, 9311, 9399, 9405"
+      },
+      {
+        "type": "added",
+        "text": "Schools"
+      },
+      {
+        "type": "added",
+        "text": "8211, 8220, 8241, 8244, 8249, 8299"
+      },
+      {
+        "type": "added",
+        "text": "Post Office"
+      },
+      {
+        "type": "added",
+        "text": "9402"
+      },
+      {
+        "type": "added",
+        "text": "5960, 6300"
+      },
+      {
+        "type": "added",
+        "text": "Fuel"
+      },
+      {
+        "type": "added",
+        "text": "5541, 5542"
+      },
+      {
+        "type": "added",
+        "text": "Agricultural Services"
+      },
+      {
+        "type": "added",
+        "text": "0763, 0780, 5261"
+      },
+      {
+        "type": "added",
+        "text": "Property Management"
+      },
+      {
+        "type": "added",
+        "text": "7349, 6513"
+      },
+      {
+        "type": "added",
+        "text": "Transportation"
+      },
+      {
+        "type": "added",
+        "text": "4112, 4111, 4784"
+      },
+      {
+        "type": "added",
+        "text": "Contractor"
+      },
+      {
+        "type": "added",
+        "text": "1520, 1711, 1731, 1740, 1750, 1761, 1771, 1799"
+      },
+      {
+        "type": "added",
+        "text": "Supermarket"
+      },
+      {
+        "type": "added",
+        "text": "5411"
+      },
+      {
+        "type": "added",
+        "text": "Government Healthcare Fee Program"
+      },
+      {
+        "type": "added",
+        "text": "8062, 8011"
+      },
+      {
+        "type": "added",
+        "text": "Product guide"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Basics"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Earn higher rebates of up to 150bps on spends and remove reward points for specified merchant categories, while adding business spend controls and lounge visit benefits."
+  },
+  {
+    "id": "idfc-first-bank-lic-select",
+    "cardName": "LIC Select",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/lic-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:46:16.753Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Cash Advance Fee of only ₹199 is applicable per transaction, irrespective of where you are or the"
+      },
+      {
+        "type": "context",
+        "text": "amount you withdraw.​"
+      },
+      {
+        "type": "added",
+        "text": "On what transactions will I get accelerated reward points?​"
+      },
+      {
+        "type": "added",
+        "text": "Maximum of first 5 LIC insurance premium payments in a statement cycle are eligible for accelerated Reward Points. If the transaction count is more than 5 for LIC insurance premium payment, then from 5 th  transaction, you will not earn Reward points​."
+      },
+      {
+        "type": "context",
+        "text": "How do I generate my credit card PIN?"
+      },
+      {
+        "type": "context",
+        "text": "Net Banking"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Accelerated reward points now apply to the first 5 LIC insurance premium payments per statement cycle; beyond that, no points earned."
+  },
+  {
+    "id": "idfc-first-bank-lic-classic",
+    "cardName": "LIC Classic",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/lic-classic-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:46:16.752Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Cash Advance Fee of only ₹199 is applicable per transaction, irrespective of where you are or the"
+      },
+      {
+        "type": "context",
+        "text": "amount you withdraw.​"
+      },
+      {
+        "type": "added",
+        "text": "On what transactions will I get accelerated reward points?​"
+      },
+      {
+        "type": "added",
+        "text": "Maximum of first 5 LIC insurance premium payments in a statement cycle are eligible for accelerated Reward Points. If the transaction count is more than 5 for LIC insurance premium payment, then from 5 th  transaction, you will not earn Reward points."
+      },
+      {
+        "type": "context",
+        "text": "How do I generate my credit card PIN?"
+      },
+      {
+        "type": "context",
+        "text": "Net Banking"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added accelerated reward points for first 5 LIC insurance premium payments per statement cycle."
+  },
+  {
+    "id": "idfc-first-bank-first-millennia",
+    "cardName": "FIRST Millennia",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/millennia",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:46:16.744Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Apply for Low Interest Credit Card FIRST Millennia Online | IDFC FIRST Bank"
+      },
+      {
+        "type": "added",
+        "text": "Apply for FIRST Millennia Credit Card Online | IDFC FIRST Bank"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility"
+      },
+      {
+        "type": "context",
+        "text": "Experience convenience"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Removed “Low Interest” from the card title."
+  },
+  {
+    "id": "idfc-first-bank-first-classic",
+    "cardName": "FIRST Classic",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/classic",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:46:16.743Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Apply for Lifetime Free Credit Card with No Annual / Joining Fees | IDFC FIRST Bank"
+      },
+      {
+        "type": "added",
+        "text": "Apply for FIRST Classic Credit Card - Lifetime Free Card | IDFC FIRST Bank"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility"
+      },
+      {
+        "type": "context",
+        "text": "Convenience"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed card name to FIRST Classic and clarified it is a lifetime free card."
+  },
+  {
+    "id": "idfc-first-bank-first-select",
+    "cardName": "FIRST Select",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/select",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:46:16.739Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Apply for Lifetime Free Credit Card with Lounge Access Online | IDFC FIRST Bank"
+      },
+      {
+        "type": "added",
+        "text": "Apply for FIRST Select Credit Card - Lifetime Free with Travel Benefits | IDFC FIRST Bank"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility"
+      },
+      {
+        "type": "context",
+        "text": "Convenience"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed the card name and added travel benefits to the FIRST Select Credit Card."
+  },
+  {
+    "id": "idfc-first-bank-first-swyp",
+    "cardName": "FIRST SWYP",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/swyp-emi-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:46:16.736Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Apply for FIRST SWYP EMI Credit Card - Instant EMI & Rewards | IDFC FIRST Bank"
+      },
+      {
+        "type": "added",
+        "text": "Apply for FIRST SWYP Credit Card - Instant EMI & Rewards | IDFC FIRST Bank"
+      },
+      {
+        "type": "context",
+        "text": "FIRST SWYP CREDIT CARD"
+      },
+      {
+        "type": "context",
+        "text": "home"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "The card title changed from “FIRST SWYP EMI Credit Card” to “FIRST SWYP Credit Card.”"
+  },
+  {
+    "id": "idfc-first-bank-gaj-credit-card",
+    "cardName": "Gaj Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/gaj",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:46:16.724Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Gaj Credit Card | Premium Metal Credit Card by IDFC FIRST Bank | IDFC FIRST Bank"
+      },
+      {
+        "type": "added",
+        "text": "Gaj Credit Card - Premium Metal, Invite Only Credit Card | IDFC FIRST Bank"
+      },
+      {
+        "type": "context",
+        "text": "Introducing"
+      },
+      {
+        "type": "context",
+        "text": "A Metal Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Card now marked as invite‑only premium metal."
+  },
+  {
+    "id": "icici-bank-adani-one-signature-credit-card",
+    "cardName": "Adani One Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:45:48.404Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Adani One ICICI Bank Signature Credit Card – Apply Online"
+      },
+      {
+        "type": "added",
+        "text": "ICICI Bank"
+      },
+      {
+        "type": "added",
+        "text": "Open NRE/NRO accounts to manage your banking"
+      },
+      {
+        "type": "added",
+        "text": "FDs offer stable returns for your dreams"
+      },
+      {
+        "type": "added",
+        "text": "Portfolio Investment Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Enables NRIs to purchase and sell shares"
+      },
+      {
+        "type": "added",
+        "text": "Cost-effective online money transfer service"
+      },
+      {
+        "type": "added",
+        "text": "Transfer now"
+      },
+      {
+        "type": "added",
+        "text": "Avail digital sanction in 5 simple steps"
+      },
+      {
+        "type": "added",
+        "text": "Get complete control of your bank account"
+      },
+      {
+        "type": "added",
+        "text": "Login now"
+      },
+      {
+        "type": "added",
+        "text": "A one-stop knowledge hub"
+      },
+      {
+        "type": "added",
+        "text": "Visit now"
+      },
+      {
+        "type": "context",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Review"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "For every ₹1 lakh spent, get 2 porter services, up to 8 porter services in a year"
+      },
+      {
+        "type": "context",
+        "text": "Annually"
+      },
+      {
+        "type": "removed",
+        "text": "Get 2 complimentary international airport lounge access"
+      },
+      {
+        "type": "added",
+        "text": "Get 2 complimentary international airport lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "context",
+        "text": "Get 4 Domestic Airport Lounge access. Click here for lounge list"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a link to view the lounge list for the 2 complimentary international airport lounge access benefit."
+  },
+  {
+    "id": "icici-bank-emeralde-credit-card",
+    "cardName": "Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:45:48.402Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank Emeralde Credit Card - Experience Premium Privileges"
+      },
+      {
+        "type": "added",
+        "text": "ICICI Bank"
+      },
+      {
+        "type": "added",
+        "text": "Open NRE/NRO accounts to manage your banking"
+      },
+      {
+        "type": "added",
+        "text": "FDs offer stable returns for your dreams"
+      },
+      {
+        "type": "added",
+        "text": "Portfolio Investment Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Enables NRIs to purchase and sell shares"
+      },
+      {
+        "type": "added",
+        "text": "Cost-effective online money transfer service"
+      },
+      {
+        "type": "added",
+        "text": "Transfer now"
+      },
+      {
+        "type": "added",
+        "text": "Avail digital sanction in 5 simple steps"
+      },
+      {
+        "type": "added",
+        "text": "Get complete control of your bank account"
+      },
+      {
+        "type": "added",
+        "text": "Login now"
+      },
+      {
+        "type": "added",
+        "text": "A one-stop knowledge hub"
+      },
+      {
+        "type": "added",
+        "text": "Visit now"
+      },
+      {
+        "type": "context",
+        "text": "Fees and Chargs"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Bank Parakram Select Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Emeralde Credit Card: Maximum Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to international and domestic airport lounges for the primary Cardholder. Click here for domestic lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Unlimited access"
+      },
+      {
+        "type": "added",
+        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Up to 4 rounds"
+      },
+      {
+        "type": "context",
+        "text": "Get complimentary golf rounds every month basis eligible spends,  Click here for list of Golf Courses"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Check your Booking History to view all bookings and details."
+      },
+      {
+        "type": "context",
+        "text": "You may also call i-Assist, our 24X7 concierge service on 1800 26 70731 (toll free for MTNL/BSNL lines) or 022 6787 2016 (standard call charges applicable), for assistance with online booking. An authorisation amount of ₹2 shall be taken for each eligible Card."
+      },
+      {
+        "type": "added",
+        "text": "For step-by-step instructions on the booking process, click here"
+      },
+      {
+        "type": "context",
+        "text": "How to redeem Credit Card points for rewards?"
+      },
+      {
+        "type": "context",
+        "text": "You can experience seamless redemption of reward points with ICICI Bank. First, log into ICICI Bank Net Banking > Cards > Credit Cards > Redeem or the ICICI Bank's iMobile app iMobile > cards & forex > Select Credit Cards > Redeem, you can redeem your ICICI Bank reward points across multiple categories such as electronics, lifestyle, luxury, shopping and travel."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added and clarified international and domestic airport lounge access for the primary cardholder."
+  },
+  {
+    "id": "icici-bank-sapphiro-credit-card",
+    "cardName": "Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:45:48.402Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank Sapphiro Credit Card: Travel and Lifestyle Rewards"
+      },
+      {
+        "type": "added",
+        "text": "ICICI Bank"
+      },
+      {
+        "type": "added",
+        "text": "Open NRE/NRO accounts to manage your banking"
+      },
+      {
+        "type": "added",
+        "text": "FDs offer stable returns for your dreams"
+      },
+      {
+        "type": "added",
+        "text": "Portfolio Investment Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Enables NRIs to purchase and sell shares"
+      },
+      {
+        "type": "added",
+        "text": "Cost-effective online money transfer service"
+      },
+      {
+        "type": "added",
+        "text": "Transfer now"
+      },
+      {
+        "type": "added",
+        "text": "Avail digital sanction in 5 simple steps"
+      },
+      {
+        "type": "added",
+        "text": "Get complete control of your bank account"
+      },
+      {
+        "type": "added",
+        "text": "Login now"
+      },
+      {
+        "type": "added",
+        "text": "A one-stop knowledge hub"
+      },
+      {
+        "type": "added",
+        "text": "Visit now"
+      },
+      {
+        "type": "context",
+        "text": "Best for"
+      },
+      {
+        "type": "context",
+        "text": "Maximum benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get Welcome Vouchers from Tata CLiQ, EazyDiner, Da Milano, EaseMyTrip & Tata Croma. To know more, click here"
+      },
+      {
+        "type": "context",
+        "text": "Annually"
+      },
+      {
+        "type": "removed",
+        "text": "Get 2 complimentary International airport lounge access"
+      },
+      {
+        "type": "added",
+        "text": "Get 2 complimentary International airport lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 4 Domestic airport lounge access.  Click here  for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get 4 Domestic airport lounge access  Click here  for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Twice every month"
+      },
+      {
+        "type": "context",
+        "text": "Buy one ticket & get up to ₹500 off on the second ticket through BookMyShow"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Check your Booking History to view all bookings and details."
+      },
+      {
+        "type": "context",
+        "text": "You may also call i-Assist, our 24X7 concierge service on 1800 26 70731 (toll free for MTNL/BSNL lines) or 022 6787 2016 (standard call charges applicable), for assistance with online booking. An authorisation amount of ₹2 shall be taken for each eligible Card."
+      },
+      {
+        "type": "added",
+        "text": "For step-by-step instructions on the booking process, click here"
+      },
+      {
+        "type": "context",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "context",
+        "text": "Spends period offer - eligibility period"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated lounge benefit descriptions to include click‑through links and clarified domestic lounge access wording."
+  },
+  {
+    "id": "icici-bank-times-black-credit-card",
+    "cardName": "Times Black Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/times-black-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-01T08:45:48.401Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Times Black ICICI Bank Credit Card | Perks and Rewards"
+      },
+      {
+        "type": "added",
+        "text": "ICICI Bank"
+      },
+      {
+        "type": "added",
+        "text": "Open NRE/NRO accounts to manage your banking"
+      },
+      {
+        "type": "added",
+        "text": "FDs offer stable returns for your dreams"
+      },
+      {
+        "type": "added",
+        "text": "Portfolio Investment Scheme"
+      },
+      {
+        "type": "added",
+        "text": "Enables NRIs to purchase and sell shares"
+      },
+      {
+        "type": "added",
+        "text": "Cost-effective online money transfer service"
+      },
+      {
+        "type": "added",
+        "text": "Transfer now"
+      },
+      {
+        "type": "added",
+        "text": "Avail digital sanction in 5 simple steps"
+      },
+      {
+        "type": "added",
+        "text": "Get complete control of your bank account"
+      },
+      {
+        "type": "added",
+        "text": "Login now"
+      },
+      {
+        "type": "added",
+        "text": "A one-stop knowledge hub"
+      },
+      {
+        "type": "added",
+        "text": "Visit now"
+      },
+      {
+        "type": "context",
+        "text": "Fees and Charges"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Bank Parakram Select Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Curated Luxury Services"
+      },
+      {
+        "type": "context",
+        "text": "Get lifestyle management services from CribLife with 6 exclusive offerings."
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Domestic Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "Relax in style with unlimited complimentary lounge access at domestic airports."
+      },
+      {
+        "type": "removed",
+        "text": "Click here for lounge list"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited International Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "Experience luxury worldwide with complimentary lounge access"
+      },
+      {
+        "type": "added",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "added",
+        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "added",
+        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Gourmet Indulgence"
+      },
+      {
+        "type": "context",
+        "text": "Annual membership of Zomato Gold for exclusive dining privileges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed the lounge benefit description, replacing unlimited domestic and international lounge access with a single “Unlimited Access” statement."
+  },
+  {
+    "id": "axis-bank-axis-bank-vistara-credit-card",
+    "cardName": "AXIS BANK VISTARA Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-01T08:40:32.037Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Insurance benefits"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Vistara Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Sourcing of Axis Bank Vistara Credit Cards has been discontinued."
+      },
+      {
+        "type": "added",
+        "text": "The Axis Bank Vistara Credit Card will be discontinued for spends post 31 October 2026 following the merger of Vistara with Air India. To ensure uninterrupted access to exciting rewards, offers, and privileges, apply for another Axis Bank Credit Card today. [ Click here to apply.] [ Click here to view the T&C]"
+      },
+      {
+        "type": "context",
+        "text": "The Terms & Conditions of Axis Bank Vistara Credit Card will be updated w.e.f 28th August'26. Please click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Accrue Maharaja Points on everyswipe"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "The Axis Bank Vistara Credit Card will be discontinued for spends after 31 October 2026."
+  },
+  {
+    "id": "axis-bank-axis-bank-vistara-signature-credit-card",
+    "cardName": "AXIS BANK VISTARA SIGNATURE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-01T08:40:32.036Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Insurance benefits"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Vistara Signature Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "The Axis Bank Vistara Credit Card will be discontinued for spends post 31 October 2026 following the merger of Vistara with Air India. To ensure uninterrupted access to exciting rewards, offers, and privileges, apply for another Axis Bank Credit Card today. Click here to apply."
+      },
+      {
+        "type": "added",
+        "text": "The Axis Bank Vistara Credit Card will be discontinued for spends post 31 October 2026 following the merger of Vistara with Air India. To ensure uninterrupted access to exciting rewards, offers, and privileges, apply for another Axis Bank Credit Card today. [ Click here to apply.] [ Click here to view the T&C]"
+      },
+      {
+        "type": "context",
+        "text": "The Terms & Conditions of Axis Bank Vistara Signature Credit Card will be updated w.e.f 28th August'26. Please click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Accrue Maharaja Points On Every Swipe"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a link to view the terms and conditions for the Axis Bank Vistara Credit Card."
+  },
+  {
     "id": "standard-chartered-india-digismart-credit-card",
     "cardName": "DigiSmart Credit Card",
     "issuerName": "Standard Chartered India",
@@ -3584,47 +5275,6 @@
     "summary": "Payment due fee thresholds and amounts were updated, adding higher brackets and a ₹1300 fee for balances over ₹50,000."
   },
   {
-    "id": "axis-bank-axis-bank-vistara-signature-credit-card",
-    "cardName": "AXIS BANK VISTARA SIGNATURE Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-signature-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-28T15:23:42.981Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "₹500 if Total Payment Due is between ₹501 - ₹5,000 ₹500 if Total Payment Due is between ₹501 - ₹5,000 ₹500 if Total Payment Due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if Total Payment Due is between ₹5,001 - ₹10,000 ₹750 if Total Payment Due is between ₹5,001 - ₹10,000 ₹750 if Total Payment Due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if Total Payment Due is greater than ₹10,000 ₹1200 if Total Payment Due is greater than ₹10,000 ₹1200 if Total Payment Due is greater than ₹10,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000 ₹1200 if total payment due is between ₹10,001 - ₹50,000 ₹1200 if total payment due is between ₹10,001 - ₹50,000"
-      },
-      {
-        "type": "context",
-        "text": "₹1300 if total payment due is greater than ₹50,000"
-      },
-      {
-        "type": "context",
-        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. ₹1300 if total payment due is greater than ₹50,000"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Changed the fee threshold: ₹1200 now applies to payments between ₹10,001 and ₹50,000 instead of any amount over ₹10,000."
-  },
-  {
     "id": "axis-bank-axis-bank-freecharge-credit-card",
     "cardName": "Axis Bank Freecharge Credit Card",
     "issuerName": "Axis Bank",
@@ -5056,95 +6706,6 @@
       "youtube": null
     },
     "summary": "Added INR1,000 cashback offer for spending INR1,000 within 30 days after account aggregation."
-  },
-  {
-    "id": "axis-bank-axis-bank-vistara-credit-card",
-    "cardName": "AXIS BANK VISTARA Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-27T14:12:34.239Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "₹500 if Total Payment Due is between ₹501 - ₹5,000 ₹500 if Total Payment Due is between ₹501 - ₹5,000 ₹500 if Total Payment Due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if Total Payment Due is between ₹5,001 - ₹10,000 ₹750 if Total Payment Due is between ₹5,001 - ₹10,000 ₹750 if Total Payment Due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if Total Payment Due is greater than ₹10,000 ₹1200 if Total Payment Due is greater than ₹10,000 ₹1200 if Total Payment Due is greater than ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "An additional charge of Rs.100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods. An additional charge of Rs.100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods. An additional charge of Rs.100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods."
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000 ₹1200 if total payment due is between ₹10,001 - ₹50,000 ₹1200 if total payment due is between ₹10,001 - ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1300 if total payment due is greater than ₹50,000 ₹1300 if total payment due is greater than ₹50,000 ₹1300 if total payment due is greater than ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Over Limit Penalty 2.5% of the Over Limit Amount (Min. ₹500) 2.5% of the Over Limit Amount (Min. ₹500) 2.5% of the Over Limit Amount (Min. ₹500)"
-      },
-      {
-        "type": "context",
-        "text": "Chargeslip Retrieval Fee or Copy Request Fee Waived Waived Waived"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "1% Per Transaction On Rental Transactions"
-      },
-      {
-        "type": "context",
-        "text": "1% Per Transaction On Rental Transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023)"
-      },
-      {
-        "type": "removed",
-        "text": "1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion markup"
-      },
-      {
-        "type": "added",
-        "text": "3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation 3.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
-      },
-      {
-        "type": "context",
-        "text": "The Terms and Conditions of Axis Bank Vistara Credit Card will be updated w.e.f 18th April'25. Please click here to know more."
-      },
-      {
-        "type": "context",
-        "text": "Following the Vistara and Air India merger, the Axis Bank Vistara Platinum Credit Card Terms &Conditions will be updated, effective 12th November'24. To Know more click here"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Fees increased: ₹1200 for ₹10,001‑₹50,000, ₹1300 for >₹50,000, and DCC markup raised to 3.5%."
   },
   {
     "id": "axis-bank-lic-axis-bank-platinum-credit-card",
@@ -7818,47 +9379,6 @@
       "youtube": null
     },
     "summary": "The welcome benefit period changed from 3 months to 60 days after the first statement."
-  },
-  {
-    "id": "icici-bank-times-black-credit-card",
-    "cardName": "Times Black Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/times-black-icici-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-25T04:05:12.280Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "context",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Access 1,400+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "added",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      },
-      {
-        "type": "context",
-        "text": "For complete list of international airport lounges visit https://www.prioritypass.com/airport-lounges"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Increased lounge access from 1,400+ to 1,900+ worldwide."
   },
   {
     "id": "axis-bank-purchase-card",
@@ -11512,227 +13032,6 @@
     "summary": "Earn Points on every ₹100 spend was removed."
   },
   {
-    "id": "icici-bank-adani-one-signature-credit-card",
-    "cardName": "Adani One Signature Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-15T04:00:38.302Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get 2 complimentary international airport lounge access"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 4 Domestic complimentary Airport Lounge access. Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 4 Domestic Airport Lounge access. Click here for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Worth ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "Earn flight vouchers on spends of ₹25,000 within 60 days of card activation."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Up to ₹4000"
-      },
-      {
-        "type": "context",
-        "text": "Avail 1% fuel surcharge waiver on all fuel transactions at any fuel outlet"
-      },
-      {
-        "type": "removed",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "7"
-      },
-      {
-        "type": "context",
-        "text": "On Adani One Ecosystem Spend"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Extend Benefits To Your Loved Ones"
-      },
-      {
-        "type": "context",
-        "text": "Adani One ICICI Bank Signature Credit Card FAQs"
-      },
-      {
-        "type": "added",
-        "text": "Is there a joining fee and Annual fee for the Adani One Signature Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, The Adani One Signature Credit Card has a joining fee and annual fee of ₹5,000 + GST."
-      },
-      {
-        "type": "context",
-        "text": "What are the exclusive benefits of an Adani One ICICI Bank Signature Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The Adani One Signature Credit Card has exclusive benefits of 2 Pranaam, 8 Porter and 8 car parking (Premium and Valet) services annually, at Adani managed airports."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "For complete list of international airport lounges visit https://www.prioritypass.com/airport-lounges"
-      },
-      {
-        "type": "context",
-        "text": "What are the criteria for availing domestic airport lounge access?"
-      },
-      {
-        "type": "removed",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Adani One Signature Credit Card in a calendar quarter. This entitles you to avail the 4 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "added",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Adani One Signature Credit Card in a spends quarter. This entitles you to avail the 4 lounge accesses benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "context",
-        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
-      },
-      {
-        "type": "removed",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Adani One Signature Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "removed",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "removed",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "removed",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "added",
-        "text": "Plus (Add-On) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "removed",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "removed",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "removed",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "removed",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "How can I apply for an Adani One ICICI Bank Signature Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To apply for an Adani One ICICI Bank Signature Credit Card, visit the Bank’s website or a branch. You can complete the application process online by entering your details and following the prompts."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "A customer who has paid their joining or annual fee and completed spends of ₹25,000 (not including joining/annual fee, interest or bank levies) within 60 days of card activation. Customers who have availed card without joining/annual fee shall be ineligible for flight voucher."
-      },
-      {
-        "type": "context",
-        "text": "VIEW ALL FAQ’S"
-      },
-      {
-        "type": "removed",
-        "text": "R"
-      },
-      {
-        "type": "removed",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
-      },
-      {
-        "type": "context",
-        "text": "Apoorv Gupta"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added a joining fee and annual fee of ₹5,000 + GST and changed lounge eligibility wording to “spends quarter” with “4 lounge accesses” benefit."
-  },
-  {
     "id": "hsbc-india-hsbc-rupay-cashback-credit-card",
     "cardName": "HSBC RuPay Cashback Credit Card",
     "issuerName": "HSBC India",
@@ -13234,80 +14533,6 @@
       "reddit": null,
       "youtube": null
     }
-  },
-  {
-    "id": "idfc-first-bank-lic-select",
-    "cardName": "LIC Select",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/lic-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-17T05:57:43.888Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Earn 36% Bonus Reward Points*"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 16% Bonus Reward Points*"
-      },
-      {
-        "type": "removed",
-        "text": "*Effective 18 th June 2026, 20% Bonus Reward Points on hotel bookings and 8% Bonus Reward Points on flights, over and above your usual Credit Card Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "Earn 20% Bonus Reward Points*"
-      },
-      {
-        "type": "added",
-        "text": "Earn 8% Bonus Reward Points*"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Reward points changed from 36%/16% to 20%/8% for hotel and flight bookings."
-  },
-  {
-    "id": "idfc-first-bank-lic-classic",
-    "cardName": "LIC Classic",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/lic-classic-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-07-17T05:57:43.136Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Earn 36% Bonus Reward Points*"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 16% Bonus Reward Points*"
-      },
-      {
-        "type": "removed",
-        "text": "*Effective 18 th June 2026, 20% Bonus Reward Points on hotel bookings and 8% Bonus Reward Points on flights, over and above your usual Credit Card Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "Earn 20% Bonus Reward Points*"
-      },
-      {
-        "type": "added",
-        "text": "Earn 8% Bonus Reward Points*"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Bonus reward points on hotel bookings changed from 36% to 20% and on flights from 16% to 8%."
   },
   {
     "id": "idfc-first-bank-first-power",

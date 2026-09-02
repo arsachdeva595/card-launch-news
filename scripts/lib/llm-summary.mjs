@@ -22,6 +22,7 @@ Rules:
 3. Direction is easy to get backwards - check it twice. A "+" line is text that is now on the page and was NOT there before (something gained/present). A "-" line is text that WAS on the page and is now gone (something lost/absent). If a benefit's description appears only in a "-" line, that benefit was REMOVED - never describe a "-" line as an addition, and never describe a "+" line as a removal.
 4. Never state a number, percentage, or date that does not appear verbatim, character-for-character, in the diff lines above. Do not "correct" a figure using what you recall about this card from general knowledge, and do not fill in a number that isn't actually in the diff text - if you can't find the specific new value in the diff itself, describe the change qualitatively instead of guessing.
 5. "quote" must be an exact, verbatim substring (max ~15 words) copied directly from one of the diff lines above (the text itself, not the +/- marker) that most directly supports your summary. Do not paraphrase it - copy it exactly as written, including any typos in the source page.
+6. Name the specific fee/charge that changed - never write a vague "fee structure changed" or "fee changed" summary. A card has several distinct fees (annual fee, joining fee, renewal fee, late payment/overdue payment fee, foreign currency/forex markup, cash advance fee, etc.) and confusing one for another is misleading. In particular, a fee that only applies when a payment is late or overdue (sometimes phrased as "late payment fee", "overdue payment charge", "penalty charge", or a Minimum Amount Due/MAD-linked charge) must be explicitly called a late payment/overdue fee in the summary, not folded into a generic "fee" or "fee structure" mention - it does not change what the card costs to hold or use normally, only what a missed/late payment costs.
 
 Respond with ONLY a single line of JSON, no markdown code fences, no other text:
 - If REAL: {"verdict":"REAL","direction":"added"|"removed"|"modified","summary":"<one short sentence, under 25 words>","quote":"<verbatim excerpt from a diff line above>"}
@@ -65,6 +66,29 @@ function isGroundedInDiff(quote, direction, diffHunks) {
   return (diffHunks || []).some(
     (hunk) => relevantTypes.includes(hunk.type) && normalize(hunk.text).includes(normQuote)
   );
+}
+
+// gpt-oss-20b doesn't reliably follow rule 6 of the prompt on its own -
+// observed across several real diffs, it wrote "the card's fee structure
+// was updated", "minimum payment fee structure updated", and "payment due
+// fee thresholds updated" for diffs whose changed lines were explicitly a
+// "Late Payment Charges"/"Overdue penalty" table. Matching only a fixed
+// vague-phrase pattern on the summary side is too narrow to catch all of
+// those wordings, so this checks the actual requirement directly: if the
+// diff itself (its context lines included - the identifying section
+// heading, like "Overdue penalty or Late payment fees", is usually
+// unchanged boilerplate sitting right above the changed amount lines, not
+// part of the diff itself) carries a late/overdue/penalty-fee signal, the
+// summary must explicitly say so too. If it doesn't, the summary is
+// rejected the same way an ungrounded quote is - better to fall back to
+// reporting the diff alone than publish a summary that reads as a generic
+// (and easily fee-type-confused) fee change.
+const LATE_FEE_SIGNAL_RE = /\b(late payment|late fee|overdue|penalty|minimum amount due|mad charge|\bmad\b)/i;
+
+function isVagueAboutLateFee(summary, diffHunks) {
+  if (LATE_FEE_SIGNAL_RE.test(summary)) return false;
+  const diffText = (diffHunks || []).map((h) => h.text).join(" ");
+  return LATE_FEE_SIGNAL_RE.test(diffText);
 }
 
 /**
@@ -150,6 +174,13 @@ export async function summarizeChange({ cardName, issuerName, diffHunks }) {
     if (!isGroundedInDiff(parsed.quote, parsed.direction, diffHunks)) {
       console.warn(
         `  ! NVIDIA LLM summary for ${cardName} didn't ground in the diff (direction: ${parsed.direction}, quote: "${String(parsed.quote || "").slice(0, 80)}") - skipping summary, reporting diff only`
+      );
+      return null;
+    }
+
+    if (isVagueAboutLateFee(parsed.summary, diffHunks)) {
+      console.warn(
+        `  ! NVIDIA LLM summary for ${cardName} didn't name the late/overdue/penalty fee despite that signal being in the diff - skipping summary, reporting diff only: "${parsed.summary}"`
       );
       return null;
     }

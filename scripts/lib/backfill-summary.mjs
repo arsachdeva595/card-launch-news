@@ -20,6 +20,8 @@ ${diffText}
 
 List what materially changed for this specific card - fees, interest rates, reward rates, welcome/joining benefits, eligibility, lounge/travel benefits, or availability status (e.g. discontinued). Ignore navigation links, "related products"/cross-sell widgets, live view/interest counters, cookie banners, promotional banner rotations, accessibility controls, or other page chrome unrelated to this card's own terms.
 
+Name the specific fee/charge in each bullet - never write a vague "fee structure changed" or "fees changed" bullet. A card has several distinct fees (annual fee, joining fee, renewal fee, late payment/overdue payment fee, foreign currency/forex markup, cash advance fee, etc.) and confusing one for another is misleading. In particular, a fee that only applies when a payment is late or overdue (sometimes phrased as "late payment fee", "overdue payment charge", "penalty charge", or a Minimum Amount Due/MAD-linked charge) must be explicitly called a late payment/overdue fee, not folded into a generic "fee" mention - it does not change what the card costs to hold or use normally, only what a missed/late payment costs.
+
 Respond with ONLY:
 - Up to 4 short bullet points (each on its own line starting with "- "), each under 20 words, if there are real changes.
 - The exact line "${NO_CHANGE_LINE}" if none of the above changed.

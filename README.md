@@ -139,7 +139,10 @@ with an honest label rather than something that looks broken.
    claim once independent discussion of the same change turns up on
    r/CreditCardsIndia, searched via Reddit's free, unauthenticated
    `search.rss` feed (no Apify credit spent) for the card name, then scored
-   for keyword overlap (fee figures, distinctive benefit terms) against the
+   for keyword overlap (fee figures, distinctive benefit terms — numeric
+   keywords need 3+ digits and matches are word-boundary-checked, since a
+   bare "1" or "200" matching as a substring of an unrelated post's "2000"
+   is a live-caught false positive, not a hypothetical one) against the
    LLM's summary. If nothing corroborating is found — which, given how
    sparse and lagged subreddit discussion is for most cards, will be the
    common case — the change is still reported in full (diff included, as
@@ -153,28 +156,37 @@ with an honest label rather than something that looks broken.
 
    **`scripts/lib/google-grounding.mjs`** (optional — only runs if
    `GEMINI_API_KEY` is set) is a paid fallback tried only when Reddit finds
-   nothing, via Gemini's Google Search grounding tool: it asks the model to
-   search the web for independent reporting (news, review sites, forums,
-   the bank's own press release — not just the bank's own current product
-   page, which is already the source the claim came from) corroborating
-   the summary, and only counts it as verified if the response both says
-   so *and* carries at least one real citation URL. `scripts/lib/grounding.mjs`
-   wires the two together (Reddit first, Gemini fallback) — see
-   `groundChange()`, the single entry point every caller (`run.mjs`,
-   `backfill-summaries.mjs`, `regenerate-summaries.mjs`) uses instead of
-   calling either grounding source directly. Since Reddit's free tier can
-   realistically be exhausted on the very first request of a run (see
-   above), and GitHub Actions runners share IPs across many repos, this
-   fallback could end up firing far more often than "rarely" — so
-   `GEMINI_MAX_CALLS` (default 20) caps how many paid calls happen in one
-   process run, after which remaining candidates just fall back to
-   unverified rather than spending unboundedly. `summaryVerification.via`
-   records which source ("reddit" or "google") actually verified a given
-   summary, shown on the site and in Telegram. This integration's exact
-   request/response shape is based on Google's public docs
-   (ai.google.dev/gemini-api/docs/google-search) for the newer
-   "Interactions API", not live-verified against a real account from here
-   — if it stops finding citations, check that page for what changed.
+   nothing, via Gemini's Google Search grounding tool. Live-tested against a
+   real key (2 Sept 2026) before shipping, which caught two real failure
+   modes worth knowing about: (1) a terse "answer only `{corroborated:
+   true|false}`" prompt made the model skip searching entirely and just
+   guess — it answered `true` for a specific real card-fee claim with zero
+   search calls made, so the prompt instead asks an open research question
+   ("search the web right now and cite what you find"), which reliably
+   gets it to actually invoke search; (2) its top citation for an Axis
+   card claim was `axis.bank.in` itself — the bank's own domain, exactly
+   the "just the source the claim came from" case the prompt tells it
+   doesn't count, but that's a self-reported instruction, not something
+   the model reliably honors, so citations are filtered against the
+   issuer's own domain (via `officialUrl`) in code before any of them can
+   count as corroboration. A result only counts as verified if, after that
+   filter, at least one real citation remains AND the model's own answer
+   doesn't itself say it found nothing (a "no corroboration" answer can
+   still carry citations from a fruitless search).
+
+   `scripts/lib/grounding.mjs` wires the two sources together (Reddit
+   first, Gemini fallback) — see `groundChange()`, the single entry point
+   every caller (`run.mjs`, `backfill-summaries.mjs`,
+   `regenerate-summaries.mjs`) uses instead of calling either grounding
+   source directly. Since Reddit's free tier can realistically be
+   exhausted on the very first request of a run (see above), and GitHub
+   Actions runners share IPs across many repos, this fallback could end up
+   firing far more often than "rarely" — so `GEMINI_MAX_CALLS` (default
+   20) caps how many paid calls happen in one process run, after which
+   remaining candidates just fall back to unverified rather than spending
+   unboundedly. `summaryVerification.via` records which source ("reddit"
+   or "google") actually verified a given summary, shown on the site and
+   in Telegram.
 7. **`scripts/enrich-change.mjs`** takes each Tier 1 change candidate that
    survived the LLM noise check (the card name is already known from
    `tracked-cards.json`, no title fetch needed) and searches Reddit/YouTube

@@ -51,7 +51,8 @@ async function main() {
       const verification = await groundChange({
         cardName: change.cardName,
         issuerName: change.issuerName,
-        summary: result.summary
+        summary: result.summary,
+        officialUrl: change.officialUrl
       });
       if (verification) {
         change.summary = result.summary;

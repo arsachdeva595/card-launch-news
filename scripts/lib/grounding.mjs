@@ -10,11 +10,11 @@ import { groundChangeInGoogleSearch } from "./google-grounding.mjs";
  * found something, or null if neither did (including if GEMINI_API_KEY
  * isn't configured, in which case this is just the Reddit check).
  */
-export async function groundChange({ cardName, issuerName, summary }) {
+export async function groundChange({ cardName, issuerName, summary, officialUrl }) {
   const redditMatch = await groundChangeInReddit({ cardName, summary });
   if (redditMatch) return { source: redditMatch, via: "reddit" };
 
-  const googleMatch = await groundChangeInGoogleSearch({ cardName, issuerName, summary });
+  const googleMatch = await groundChangeInGoogleSearch({ cardName, issuerName, summary, officialUrl });
   if (googleMatch) return { source: googleMatch, via: "google" };
 
   return null;

@@ -75,12 +75,23 @@ function extractEntries(xml) {
 
 // Pulls out the specific, distinctive words/numbers from a summary that
 // would only show up in a post actually discussing this exact change - not
-// generic card-review vocabulary. Numbers (fee amounts, percentages) are
-// kept regardless of length since they're the highest-signal grounding cue
-// for the fee/rate-change cases this was built for.
+// generic card-review vocabulary. Numeric tokens need at least 3 digits to
+// count - a bare "1" or "20" is not distinctive of anything and matches
+// almost any post by chance (live-caught false positive: a summary
+// mentioning "Rs.1,200" produced the keyword "1", which then substring-
+// matched an unrelated post about ₹2,000/₹1,900 utility bill spending that
+// had nothing to do with the actual change).
 function extractKeywords(text) {
   const tokens = String(text || "").toLowerCase().match(/[a-z0-9]+%?/g) || [];
-  return [...new Set(tokens.filter((t) => /\d/.test(t) || (t.length >= 5 && !STOPWORDS.has(t))))];
+  return [...new Set(tokens.filter((t) => (/^\d+%?$/.test(t) && t.replace("%", "").length >= 3) || (t.length >= 5 && !STOPWORDS.has(t))))];
+}
+
+// Word-boundary match instead of a plain substring check - otherwise a
+// keyword like "200" would match inside an unrelated "2000" or "1200 lakh"
+// mentioned in a post about something else entirely.
+function containsKeyword(haystack, keyword) {
+  const escaped = keyword.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return new RegExp(`\\b${escaped}\\b`).test(haystack);
 }
 
 async function fetchRss(query) {
@@ -132,7 +143,7 @@ export async function groundChangeInReddit({ cardName, summary }) {
 
     for (const entry of entries) {
       const haystack = `${entry.title} ${entry.content}`.toLowerCase();
-      const score = keywords.reduce((count, kw) => count + (haystack.includes(kw) ? 1 : 0), 0);
+      const score = keywords.reduce((count, kw) => count + (containsKeyword(haystack, kw) ? 1 : 0), 0);
       if (score >= required && score > bestScore) {
         best = entry;
         bestScore = score;

@@ -157,7 +157,8 @@ async function main() {
         const verification = await groundChange({
           cardName: change.cardName,
           issuerName: change.issuerName,
-          summary: llmResult.summary
+          summary: llmResult.summary,
+          officialUrl: change.officialUrl
         });
         if (verification) {
           enriched.summary = llmResult.summary;

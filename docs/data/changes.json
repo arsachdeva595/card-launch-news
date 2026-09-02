@@ -1,5 +1,1128 @@
 [
   {
+    "id": "icici-bank-parakram-select-credit-card",
+    "cardName": "Parakram Select Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards/parakram-select",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:59:11.556Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank Parakram Select Credit Card: Maximum Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Annualy"
+      },
+      {
+        "type": "removed",
+        "text": "2 complimentary accesses at international airport lounges"
+      },
+      {
+        "type": "added",
+        "text": "Get 2 International Airport Lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "2 accesses at domestic airport lounges"
+      },
+      {
+        "type": "added",
+        "text": "Get 2 Domestic Airport Lounge access. Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Title Embossing"
+      },
+      {
+        "type": "context",
+        "text": "Get your Defence Services title embossed on the Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Check your Booking History to view all bookings and details."
+      },
+      {
+        "type": "context",
+        "text": "You may also call i-Assist, our 24X7 concierge service on 1800 26 70731 (toll free for MTNL/BSNL lines) or 022 6787 2016 (standard call charges applicable), for assistance with online booking. An authorisation amount of ₹2 shall be taken for each eligible Card."
+      },
+      {
+        "type": "added",
+        "text": "For step-by-step instructions on the booking process, click here"
+      },
+      {
+        "type": "context",
+        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
+      },
+      {
+        "type": "context",
+        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added/updated lounge access details and booking instructions."
+  },
+  {
+    "id": "icici-bank-parakram-credit-card",
+    "cardName": "Parakram Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards/parakram",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:59:11.556Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Title Embossing"
+      },
+      {
+        "type": "context",
+        "text": "Get your Defence Services title embossed on the Card"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly Access"
+      },
+      {
+        "type": "removed",
+        "text": "Get 1 Airport Lounge access every quarter"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get 1 Domestic Airport Lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Insurance Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Get Personal Accident insurance cover of"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed the lounge benefit to 1 Domestic Airport Lounge access per quarter."
+  },
+  {
+    "id": "icici-bank-makemytrip-signature-credit-card",
+    "cardName": "MakeMyTrip Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-02T07:59:11.555Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Membership"
+      },
+      {
+        "type": "context",
+        "text": "MMTBLACK Platinum Tier Membership"
+      },
+      {
+        "type": "removed",
+        "text": "International Airport Lounge access"
+      },
+      {
+        "type": "removed",
+        "text": "Get 1 Complimentary International Airport Lounge Access Annually"
+      },
+      {
+        "type": "removed",
+        "text": "Domestic Airport Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "Get 8 Domestic Airport Lounge Access"
+      },
+      {
+        "type": "added",
+        "text": "Annually"
+      },
+      {
+        "type": "added",
+        "text": "Get 1 Complimentary International Airport Lounge Access,  Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Annually"
+      },
+      {
+        "type": "added",
+        "text": "Get 8 Domestic Airport Lounge Access,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Railway Lounge Access"
+      },
+      {
+        "type": "context",
+        "text": "Get 1 complimentary Railway Lounge Access quarterly,  Click here for lounge list"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "2 mins"
+      },
+      {
+        "type": "context",
+        "text": "Read |"
+      },
+      {
+        "type": "removed",
+        "text": "1 Year 4 Months Ago"
+      },
+      {
+        "type": "added",
+        "text": "1 Year 5 Months Ago"
+      },
+      {
+        "type": "context",
+        "text": "READ NOW"
+      },
+      {
+        "type": "context",
+        "text": "Explore more blogs"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a link to the lounge list for both international and domestic lounge access and updated the benefit’s anniversary date."
+  },
+  {
+    "id": "icici-bank-hpcl-super-saver-credit-card",
+    "cardName": "HPCL Super Saver Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-super-saver",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:59:11.554Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "24/7 Roadside Assistance"
+      },
+      {
+        "type": "context",
+        "text": "Round-the-clock assistance in case of vehicle breakdown"
+      },
+      {
+        "type": "removed",
+        "text": "25% off up to ₹100"
+      },
+      {
+        "type": "added",
+        "text": "25% off up to ₹100"
+      },
+      {
+        "type": "context",
+        "text": "Get a 25% discount (up to ₹100) on movie tickets on movie tickets at BookMyShow and INOX, twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 1 domestic airport lounge access on completion of spend criteria"
+      },
+      {
+        "type": "added",
+        "text": "Get 1 Domestic Airport Lounge access. Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "24x7 concierge service"
+      },
+      {
+        "type": "removed",
+        "text": "Get round-the-clock assistance (RuPay Variant)"
+      },
+      {
+        "type": "removed",
+        "text": "Personal Accident Insurance Cover (RuPay Variant)"
+      },
+      {
+        "type": "added",
+        "text": "Get round-the-clock assistance (RuPay Variant)"
+      },
+      {
+        "type": "added",
+        "text": "Personal Accident Insurance Cover (RuPay Variant)"
+      },
+      {
+        "type": "context",
+        "text": "20"
+      },
+      {
+        "type": "context",
+        "text": "On Daily Essential Spend"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Changed lounge access wording and formatting of assistance/insurance text."
+  },
+  {
+    "id": "icici-bank-expression-credit-card",
+    "cardName": "Expression Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:59:11.554Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get 2 monthly discounts on movie tickets through INOX & BookMyShow"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 1 domestic airport lounge access"
+      },
+      {
+        "type": "added",
+        "text": "Get 1 Domestic Airport Lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Get 1% waiver on fuel transactions worth ₹400 - ₹4,000 at HPCL pumps"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a link to the lounge list for the domestic airport lounge access benefit."
+  },
+  {
+    "id": "icici-bank-emirates-emeralde-credit-card",
+    "cardName": "Emirates Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:59:11.553Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Annual Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Get 10,000 Skywards Miles on Annual renewal"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to international and domestic airport lounges for the primary Cardholder"
+      },
+      {
+        "type": "added",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "added",
+        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "added",
+        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Promo Code"
+      },
+      {
+        "type": "context",
+        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com,  Click here  to know more"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Buy one ticket and get up to ₹750 off on the second ticket through BookMyShow"
+      },
+      {
+        "type": "context",
+        "text": "Milestone Reward"
+      },
+      {
+        "type": "removed",
+        "text": "Emirates Gold Tier Membership after a spend of ₹15 lakh (including minimum ₹50,000 on Emirates.com) in the anniversary year."
+      },
+      {
+        "type": "added",
+        "text": "Emirates Gold Tier Membership after a spend of ₹15 lakh (including minimum ₹50,000 on Emirates.com) in the anniversary year."
+      },
+      {
+        "type": "context",
+        "text": "1% Fuel Surcharge"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel surcharge on all fuel transactions of up to ₹4,000 at any fuel outlet"
+      },
+      {
+        "type": "added",
+        "text": "Fuel surcharge on all fuel transactions of up to ₹4,000 at any fuel outlet"
+      },
+      {
+        "type": "context",
+        "text": "Earn Emirates Skywards miles on every ₹100 spend"
+      },
+      {
+        "type": "context",
+        "text": "2"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added lounge list links, clarified lounge access wording, and updated wording for Emirates Gold Tier and fuel surcharge."
+  },
+  {
+    "id": "icici-bank-emirates-sapphiro-credit-card",
+    "cardName": "Emirates Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:59:11.553Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Joining Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Get 5,000 Skywards Miles and Emirates Skywards Silver Tier Membership"
+      },
+      {
+        "type": "removed",
+        "text": "International Airport Lounge"
+      },
+      {
+        "type": "removed",
+        "text": "Get 2 complimentary International airport lounge accesses"
+      },
+      {
+        "type": "added",
+        "text": "Annually"
+      },
+      {
+        "type": "added",
+        "text": "Get 2 complimentary International airport lounge accesses,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 2 domestic lounge access on a minimum spend of ₹75,000 in the preceding calendar quarter,  Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get 2 Domestic Airport Lounge access. Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Promo Code"
+      },
+      {
+        "type": "context",
+        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com,   Click here  to know more"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added annual lounge benefit and updated domestic lounge access wording."
+  },
+  {
+    "id": "icici-bank-sapphiro-credit-card",
+    "cardName": "Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:59:11.551Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank Sapphiro Credit Card: Travel and Lifestyle Rewards"
+      },
+      {
+        "type": "removed",
+        "text": "ICICI Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Open NRE/NRO accounts to manage your banking"
+      },
+      {
+        "type": "removed",
+        "text": "FDs offer stable returns for your dreams"
+      },
+      {
+        "type": "removed",
+        "text": "Portfolio Investment Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "Enables NRIs to purchase and sell shares"
+      },
+      {
+        "type": "removed",
+        "text": "Cost-effective online money transfer service"
+      },
+      {
+        "type": "removed",
+        "text": "Transfer now"
+      },
+      {
+        "type": "removed",
+        "text": "Avail digital sanction in 5 simple steps"
+      },
+      {
+        "type": "removed",
+        "text": "Get complete control of your bank account"
+      },
+      {
+        "type": "removed",
+        "text": "Login now"
+      },
+      {
+        "type": "removed",
+        "text": "A one-stop knowledge hub"
+      },
+      {
+        "type": "removed",
+        "text": "Visit now"
+      },
+      {
+        "type": "context",
+        "text": "Best for"
+      },
+      {
+        "type": "context",
+        "text": "Maximum benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get Welcome Vouchers from Tata CLiQ, EazyDiner, Da Milano, EaseMyTrip & Tata Croma. To know more, click here"
+      },
+      {
+        "type": "context",
+        "text": "Annually"
+      },
+      {
+        "type": "removed",
+        "text": "Get 2 complimentary International airport lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get 2 complimentary International airport lounge access"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 4 Domestic airport lounge access  Click here  for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get 4 Domestic airport lounge access.  Click here  for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Twice every month"
+      },
+      {
+        "type": "context",
+        "text": "Buy one ticket & get up to ₹500 off on the second ticket through BookMyShow"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Check your Booking History to view all bookings and details."
+      },
+      {
+        "type": "context",
+        "text": "You may also call i-Assist, our 24X7 concierge service on 1800 26 70731 (toll free for MTNL/BSNL lines) or 022 6787 2016 (standard call charges applicable), for assistance with online booking. An authorisation amount of ₹2 shall be taken for each eligible Card."
+      },
+      {
+        "type": "removed",
+        "text": "For step-by-step instructions on the booking process, click here"
+      },
+      {
+        "type": "context",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "context",
+        "text": "Spends period offer - eligibility period"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated lounge benefit wording: removed comma after “International” and added a period after “Domestic” lounge access."
+  },
+  {
+    "id": "hsbc-india-hsbc-taj-credit-card",
+    "cardName": "HSBC Taj Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:58:36.137Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy 4 domestic + 4 international chauffer-driven airport transfers in a year. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy up to 20% off up to INR20,000 on business class travel when you book with MakeMyTrip. T&Cs apply (PDF)"
+      },
+      {
+        "type": "removed",
+        "text": "Save 20%, up to INR10,500, on domestic and international flights with Yatra. T&Cs apply (PDF)"
+      },
+      {
+        "type": "added",
+        "text": "Save 20%, up to INR10,000, on domestic and international flights with Yatra. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Rare rewards"
+      },
+      {
+        "type": "context",
+        "text": "Earn reward points with your card and use them towards stays, food and beverages, and spa treatments at Taj and other participating IHCL hotels."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Save 20%, up to INR10,000, on domestic and international flights with Yatra. T&Cs apply (PDF)."
+  },
+  {
+    "id": "hsbc-india-live-credit-card",
+    "cardName": "Live+ Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/live-plus/",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:58:36.137Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Elevate your travel experiences"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy travel discounts and extra airport privileges."
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy 2 domestic and 1 international complimentary airport lounge visits per year[@airport-lounge-live-plus]"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 2 complimentary domestic and 1 international airport lounge visits each year, plus a complimentary 1GB Global eSIM and 20% off for top-ups.[@airport-lounge-live-plus] Know more (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Save more while you travel internationally with a 1.99% forex mark-up fee[@international-cashback-change]"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy a complimentary 3rd night for every 2 consecutive paid nights, or stay for 2 nights and get 50% off the 2nd night with ITC Hotels.[@visa-infinite-subject-to-change] Know more"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a complimentary 1GB Global eSIM and 20% off top‑ups to the lounge benefit."
+  },
+  {
+    "id": "axis-bank-travel-credit-card",
+    "cardName": "Travel Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:55:44.708Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "UPI card"
+      },
+      {
+        "type": "context",
+        "text": "IndiGo Axis Bank Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome voucher worth 1200 IndiGo BluChips on Fee payment."
+      },
+      {
+        "type": "removed",
+        "text": "Milestone Vouchers worth 1200 IndiGo BluChips on cumulative eligible spends of INR 1.5L & 3L in a card anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "Accelerated rewards up to 2 IndiGo BluChips per Rs.100 on IndiGo channels, Grocery & Dining spends"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹799"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹799"
+      },
+      {
+        "type": "added",
+        "text": "Activation voucher worth 1200 IndiGo BluChips on ₹1,500 spends within 30 days."
+      },
+      {
+        "type": "added",
+        "text": "Milestone Vouchers worth 1200 IndiGo BluChips on cumulative eligible spends of ₹1.5L & 3L in a card anniversary year"
+      },
+      {
+        "type": "added",
+        "text": "Accelerated rewards up to 2 IndiGo BluChips per ₹100 on IndiGo channels, Grocery & Dining spends"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free)"
+      },
+      {
+        "type": "context",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Select Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "removed",
+        "text": "(Limited Period offer)"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free)"
+      },
+      {
+        "type": "context",
+        "text": "A Travel Credit Card focuses on rewarding travel spending while offering convenience, safety, and global usability. These features are especially valuable for frequent flyers and international travellers."
+      },
+      {
+        "type": "context",
+        "text": "Airport lounge access"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Joining and annual fees removed, welcome voucher now 1200 BluChips on ₹1,500 spend, rewards and milestones unchanged."
+  },
+  {
+    "id": "axis-bank-titanium-smart-traveler-credit-card",
+    "cardName": "Titanium Smart Traveler Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:55:44.694Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "FLIPKART AXIS BANK Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome benefits worth ₹350 upon card activation."
+      },
+      {
+        "type": "added",
+        "text": "Welcome benefits worth ₹350 upon card activation (not applicable on First Year Free offer)"
+      },
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently First Year Free)"
+      },
+      {
+        "type": "context",
+        "text": "Samsung Axis Bank Signature Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "2,500 EDGE REWARD Points on completing 3 transactions within 30 days"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "removed",
+        "text": "(Limited Period offer)"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free)"
+      },
+      {
+        "type": "context",
+        "text": "Nov 18, 2025"
+      },
+      {
+        "type": "context",
+        "text": "How to increase your CIBIL score?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Annual fee dropped from ₹1500 to Nil, with the card now offering Lifetime Free status instead of First Year Free."
+  },
+  {
+    "id": "axis-bank-platinum-credit-card",
+    "cardName": "Platinum Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:55:44.693Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "FLIPKART AXIS BANK Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome benefits worth ₹350 upon card activation."
+      },
+      {
+        "type": "added",
+        "text": "Welcome benefits worth ₹350 upon card activation (not applicable on First Year Free offer)"
+      },
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently First Year Free)"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Vistara Infinite Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome benefit &ndash; 1 complimentary business class ticket on fee payment"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "added",
+        "text": "Got more questions?"
+      },
+      {
+        "type": "added",
+        "text": "Locate the nearest branch for best assessment."
+      },
+      {
+        "type": "added",
+        "text": "Locate Branches"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Welcome benefits now note that ₹350 is not applicable on First Year Free, and joining fee is nil."
+  },
+  {
+    "id": "axis-bank-flipkart-axis-bank-credit-card",
+    "cardName": "FLIPKART AXIS BANK Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-02T07:55:44.683Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "The Flipkart Axis Bank Credit Card fees and charges are listed in the table below:"
+      },
+      {
+        "type": "context",
+        "text": "Description Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Joining fee ₹500"
+      },
+      {
+        "type": "added",
+        "text": "Joining fee ₹NIL (Limited period offer)"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee 2nd year Onwards: ₹500"
+      },
+      {
+        "type": "context",
+        "text": "Annual fee waived off on annual spends greater than ₹3,50,000."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "removed",
+        "text": "(Limited Period offer)"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free)"
+      },
+      {
+        "type": "context",
+        "text": "A diverse"
+      },
+      {
+        "type": "context",
+        "text": "range of services, including rewards, travel perks, fraud protection & more that add value to your"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Joining fee changed from ₹500 to NIL and annual fee removed, making the card currently lifetime free."
+  },
+  {
+    "id": "axis-bank-axis-bank-privilege-credit-card",
+    "cardName": "AXIS BANK PRIVILEGE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-02T07:55:44.681Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Description Charges"
+      },
+      {
+        "type": "context",
+        "text": "Standard Joining Fee ₹NIL (Limited period offer)"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Annual Fee (2nd year onwards) ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer)"
+      },
+      {
+        "type": "context",
+        "text": "Standard Add-on Card Joining Fee Nil"
+      },
+      {
+        "type": "context",
+        "text": "Standard Add-on Card Annual Fee Nil"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Standard Annual Fee (2nd year onwards) changed from ₹1500 to ₹NIL (Limited period offer)."
+  },
+  {
     "id": "kotak-mahindra-bank-white-credit-card",
     "cardName": "White Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -1333,147 +2456,6 @@
       "youtube": null
     },
     "summary": "Added and clarified international and domestic airport lounge access for the primary cardholder."
-  },
-  {
-    "id": "icici-bank-sapphiro-credit-card",
-    "cardName": "Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
-    "status": "Active",
-    "detectedAt": "2026-09-01T08:45:48.402Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank Sapphiro Credit Card: Travel and Lifestyle Rewards"
-      },
-      {
-        "type": "added",
-        "text": "ICICI Bank"
-      },
-      {
-        "type": "added",
-        "text": "Open NRE/NRO accounts to manage your banking"
-      },
-      {
-        "type": "added",
-        "text": "FDs offer stable returns for your dreams"
-      },
-      {
-        "type": "added",
-        "text": "Portfolio Investment Scheme"
-      },
-      {
-        "type": "added",
-        "text": "Enables NRIs to purchase and sell shares"
-      },
-      {
-        "type": "added",
-        "text": "Cost-effective online money transfer service"
-      },
-      {
-        "type": "added",
-        "text": "Transfer now"
-      },
-      {
-        "type": "added",
-        "text": "Avail digital sanction in 5 simple steps"
-      },
-      {
-        "type": "added",
-        "text": "Get complete control of your bank account"
-      },
-      {
-        "type": "added",
-        "text": "Login now"
-      },
-      {
-        "type": "added",
-        "text": "A one-stop knowledge hub"
-      },
-      {
-        "type": "added",
-        "text": "Visit now"
-      },
-      {
-        "type": "context",
-        "text": "Best for"
-      },
-      {
-        "type": "context",
-        "text": "Maximum benefits"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get Welcome Vouchers from Tata CLiQ, EazyDiner, Da Milano, EaseMyTrip & Tata Croma. To know more, click here"
-      },
-      {
-        "type": "context",
-        "text": "Annually"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 complimentary International airport lounge access"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 complimentary International airport lounge access,  Click here for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 4 Domestic airport lounge access.  Click here  for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 4 Domestic airport lounge access  Click here  for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Twice every month"
-      },
-      {
-        "type": "context",
-        "text": "Buy one ticket & get up to ₹500 off on the second ticket through BookMyShow"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Check your Booking History to view all bookings and details."
-      },
-      {
-        "type": "context",
-        "text": "You may also call i-Assist, our 24X7 concierge service on 1800 26 70731 (toll free for MTNL/BSNL lines) or 022 6787 2016 (standard call charges applicable), for assistance with online booking. An authorisation amount of ₹2 shall be taken for each eligible Card."
-      },
-      {
-        "type": "added",
-        "text": "For step-by-step instructions on the booking process, click here"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Updated lounge benefit descriptions to include click‑through links and clarified domestic lounge access wording."
   },
   {
     "id": "icici-bank-times-black-credit-card",
@@ -6132,256 +7114,6 @@
     "summary": "Changed fee thresholds, reward exclusions, and increased DCC markup fee for Axis Bank Select Credit Card."
   },
   {
-    "id": "axis-bank-flipkart-axis-bank-credit-card",
-    "cardName": "FLIPKART AXIS BANK Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-28T15:23:42.966Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Annual fee waived off on annual spends greater than ₹3,50,000."
-      },
-      {
-        "type": "context",
-        "text": "Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends counted in availing annual fee waiver."
-      },
-      {
-        "type": "added",
-        "text": "Spends for annual fee waiver are calculated based on posting date of the transactions and not based on"
-      },
-      {
-        "type": "added",
-        "text": "the transaction date. It is advised to meet the required waiver criteria 3 working days prior to the card"
-      },
-      {
-        "type": "added",
-        "text": "anniversary date."
-      },
-      {
-        "type": "context",
-        "text": "Add-on card joining fee Nil"
-      },
-      {
-        "type": "context",
-        "text": "Add-on card annual fee Nil"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is greater than ₹10,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is between ₹10,001 - 50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1300 if total payment is greater than ₹50,000"
-      },
-      {
-        "type": "context",
-        "text": "Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is"
-      },
-      {
-        "type": "context",
-        "text": "cleared."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward Redemption fee No"
-      },
-      {
-        "type": "context",
-        "text": "Rent Transaction fee (Applicable from 5th March 2023) 1% fee per transaction will be applicable on rental transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023) 1.5% markup will be applicable on international transactions performed in Indian currency at international locations or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023) 3.5% markup will be applicable on international transactions performed in Indian currency at international locations or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
-      },
-      {
-        "type": "context",
-        "text": "Education Transaction Fee (Applicable from 20th Dec, 2024) 1% fee per transaction will be applicable on education payments made via third party apps"
-      },
-      {
-        "type": "context",
-        "text": "Utility Transaction Fee (Applicable from 20th Dec, 2024) 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Annual fee waiver criteria and payment due thresholds changed, and DCC markup increased from 1.5% to 3.5%."
-  },
-  {
-    "id": "axis-bank-axis-bank-privilege-credit-card",
-    "cardName": "AXIS BANK PRIVILEGE Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-28T15:23:42.964Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Nil"
-      },
-      {
-        "type": "context",
-        "text": "Duplicate Statement Fee Waived"
-      },
-      {
-        "type": "removed",
-        "text": "Overdue Penalty or Late Payment Fee Nil if Total Payment Due is less than ₹500"
-      },
-      {
-        "type": "added",
-        "text": "Overdue Penalty or Late Payment Fee Nil if total payment due is less than ₹500"
-      },
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is greater"
-      },
-      {
-        "type": "removed",
-        "text": "than ₹10,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is between ₹10,001 -₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1300 if total payment due is greater than ₹ 50,000"
-      },
-      {
-        "type": "context",
-        "text": "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is"
-      },
-      {
-        "type": "context",
-        "text": "cleared."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Utility transaction fee 1% fee on cumulative spends of ₹25,000 or more on utilities per statement cycle"
-      },
-      {
-        "type": "context",
-        "text": "Online skill-based gaming transaction fee 1% fee on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement cycle"
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion markup fee** 1.5% of each international txn plus taxes"
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion markup fee** 3.5% of each international txn plus taxes"
-      },
-      {
-        "type": "context",
-        "text": "Mobile Alerts for Transactions Waived"
-      },
-      {
-        "type": "context",
-        "text": "Hotlisting Charges Waived"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "GST, as notified by the Government of India, is applicable on all fees, interest & other charges, and is subject to change as per relevant regulations of the Government of India."
-      },
-      {
-        "type": "context",
-        "text": "*A rent surcharge fee of 1% will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India. The Rent transactions will be identified through Merchant Category Code 6513. The revision is effective from 20-12-2024."
-      },
-      {
-        "type": "removed",
-        "text": "**A Dynamic Currency Conversion (DCC) markup fee of 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup fee will not be applicable on Burgundy Private Credit Card. The revision is effective from 20-12-2024."
-      },
-      {
-        "type": "added",
-        "text": "**A Dynamic Currency Conversion (DCC) markup fee of 3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup fee will not be applicable on Burgundy Private Credit Card. The revision is effective from 20-12-2024."
-      },
-      {
-        "type": "context",
-        "text": "Eligibility for Axis Bank Privilege Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "As a primary cardholder, you should be between 18 and 70 years of age."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Your Axis Privilege Credit Card awaits you!"
-      },
-      {
-        "type": "context",
-        "text": "Check Eligibility"
-      },
-      {
-        "type": "added",
-        "text": "Got more questions?"
-      },
-      {
-        "type": "added",
-        "text": "Locate the nearest branch for best assessment."
-      },
-      {
-        "type": "added",
-        "text": "Locate Branches"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Overdue penalty fee thresholds and amounts changed, and DCC markup fee increased from 1.5% to 3.5%."
-  },
-  {
     "id": "amex-american-express-platinum-reservesm-credit-card",
     "cardName": "American Express® Platinum ReserveSM Credit Card",
     "issuerName": "American Express (India)",
@@ -6470,83 +7202,6 @@
       "youtube": null
     },
     "summary": "Annual fee increased to INR 66,000 plus taxes and a new welcome gift up to INR 60,000."
-  },
-  {
-    "id": "hsbc-india-hsbc-taj-credit-card",
-    "cardName": "HSBC Taj Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:17:21.298Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Save 50% at Starbucks"
-      },
-      {
-        "type": "context",
-        "text": "Get up to INR 150 off your order, 4 times a month. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "added",
-        "text": "More exclusive offers"
-      },
-      {
-        "type": "added",
-        "text": "View our latest offers , only for HSBC Taj Credit Cardholders."
-      },
-      {
-        "type": "context",
-        "text": "Things to know before you apply"
-      },
-      {
-        "type": "context",
-        "text": "To apply for an HSBC Taj Credit Card, you must:"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "The HSBC Taj Credit Card has a joining fee of INR1,10,000, which is paid after you activate your card."
-      },
-      {
-        "type": "context",
-        "text": "There is also an annual fee INR1,10,000, which is paid annually once you've had the card for 12 months."
-      },
-      {
-        "type": "added",
-        "text": "Get INR1,000 cashback"
-      },
-      {
-        "type": "added",
-        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
-      },
-      {
-        "type": "added",
-        "text": "T&Cs apply (PDF)"
-      },
-      {
-        "type": "added",
-        "text": "Offer valid until 31 August 2026."
-      },
-      {
-        "type": "context",
-        "text": "Ready to apply for your HSBC Taj Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To apply for an HSBC Taj Credit Card, complete a callback form and our team will be in touch soon."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "New cashback offer of INR1,000 for spending INR1,000 within 30 days, with terms and validity until 31 August 2026."
   },
   {
     "id": "hsbc-india-hsbc-travelone-credit-card",
@@ -10596,79 +11251,6 @@
     "summary": "Nil payment due fee changed to ₹500 threshold, and penalty fees updated to ₹1200 for ₹10,001–₹50,000, ₹1300 above ₹50,000, with a ₹100 MAD penalty; international transaction fee increased to 3.5% + taxes."
   },
   {
-    "id": "icici-bank-emirates-emeralde-credit-card",
-    "cardName": "Emirates Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-19T04:05:01.652Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Complete your booking using your Emirates Skywards ICICI Bank Emeralde Credit Card at the time of payment."
-      },
-      {
-        "type": "context",
-        "text": "How to avail complimentary international airport lounge access?"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy unlimited complimentary access to international airport lounges with ICICI Bank Emirates Emerald Credit Card. Complimentary benefits are applicable only for the primary cardholder."
-      },
-      {
-        "type": "added",
-        "text": "Enjoy unlimited complimentary access to international airport lounges with ICICI Bank Emirates Emeralde Credit Card. Complimentary benefits are applicable only for the primary cardholder."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "context",
-        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emirates Emeralde Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "For the complete list of international airport lounges, visit https://www.prioritypass.com/airport-lounges"
-      },
-      {
-        "type": "context",
-        "text": "What are the criteria for availing domestic airport lounge access?"
-      },
-      {
-        "type": "removed",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Emirates Emeralde Credit Card in a spends quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "removed",
-        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
-      },
-      {
-        "type": "added",
-        "text": "For lounge visits within India, Primary Cardholders can avail unlimited complimentary lounge access through ICICI Bank Emirates Emeralde Credit Card. Please swipe the ICICI Bank Emirates Emeralde Credit Card to avail the complimentary lounge access. To view the complete list of lounges, click here ."
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Emeralde Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Changed lounge access wording and eligibility for the Emirates Emeralde Credit Card."
-  },
-  {
     "id": "equitas-sfb-powermiles-credit-card",
     "cardName": "Powermiles Credit Card",
     "issuerName": "Equitas Small Finance Bank",
@@ -11188,95 +11770,6 @@
       "youtube": null
     },
     "summary": "Updated benefits section heading to “Benefits Value (In INR)” and reformatted welcome gift and spend‑based waiver details."
-  },
-  {
-    "id": "icici-bank-makemytrip-signature-credit-card",
-    "cardName": "MakeMyTrip Signature Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-16T04:22:39.940Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "myCash points"
-      },
-      {
-        "type": "context",
-        "text": "Milestone Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Frequent Holiday Goers"
-      },
-      {
-        "type": "context",
-        "text": "MakeMyTrip Holiday Voucher"
-      },
-      {
-        "type": "context",
-        "text": "MMTBLACK Platinum Tier Membership"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Your reward points will be credited to your MakeMyTrip Account in the form of myCash"
-      },
-      {
-        "type": "context",
-        "text": "MakeMyTrip ICICI Bank Signature Credit Card: Fees and Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee and Annual Fee"
-      },
-      {
-        "type": "context",
-        "text": "Joining Fee - ₹2,500 &#43; GST"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee - Nil"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "A salaried individual with a monthly income of ₹75,000"
-      },
-      {
-        "type": "context",
-        "text": "Self-employed with a monthly income of at least ₹75,000"
-      },
-      {
-        "type": "removed",
-        "text": "Identity Proof"
-      },
-      {
-        "type": "removed",
-        "text": "Address Proof"
-      },
-      {
-        "type": "context",
-        "text": "Note: *We are no longer accepting applications for MakeMyTrip ICICI Bank Signature Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "MakeMyTrip ICICI Bank Signature Credit Card FAQs"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Removed fee and proof sections from card terms."
   },
   {
     "id": "icici-bank-manchester-united-signature-credit-card",
@@ -12866,135 +13359,6 @@
     "summary": "Updated lounge access criteria, movie offer eligibility, and fee details for MakeMyTrip ICICI Bank Credit Card."
   },
   {
-    "id": "icici-bank-emirates-sapphiro-credit-card",
-    "cardName": "Emirates Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
-    "status": "Active",
-    "detectedAt": "2026-08-15T04:00:38.303Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "What type of lounge access is provided?"
-      },
-      {
-        "type": "context",
-        "text": "The primary cardholder receives complimentary access to domestic lounges twice a quarter and international lounges twice a year."
-      },
-      {
-        "type": "removed",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "removed",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "removed",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "removed",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "context",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "removed",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "removed",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "context",
-        "text": "Choose ICICI Bank Complimentary tickets offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "removed",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "context",
-        "text": "How can I avail discount on Emirates flight bookings using my ICICI Bank Emirates Sapphiro Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To avail upto 10% discount on Emirates flight bookings, please follow the below steps"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Who is this card best suited for?"
-      },
-      {
-        "type": "context",
-        "text": "You are a frequent Emirates flyer, want to earn Skywards Miles on your spending, and are comfortable with reward redemption being limited to Emirates."
-      },
-      {
-        "type": "removed",
-        "text": "View all FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "R"
-      },
-      {
-        "type": "removed",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle-free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Cashback offers on the Amex variant of Emirates Sapphiro Credit Card were revoked effective 1 Jan 2025."
-  },
-  {
     "id": "icici-bank-platinum-chip-credit-card",
     "cardName": "Platinum Chip Credit Card",
     "issuerName": "ICICI Bank",
@@ -13387,55 +13751,6 @@
       "youtube": null
     },
     "summary": "Annual fee set to ₹500, joining fee schedule updated, interest rate 3.6% per month, and benefit details revised."
-  },
-  {
-    "id": "axis-bank-titanium-smart-traveler-credit-card",
-    "cardName": "Titanium Smart Traveler Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-14T05:03:53.921Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
-      },
-      {
-        "type": "context",
-        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: ₹1500"
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee: ₹1500"
-      },
-      {
-        "type": "added",
-        "text": "(Limited Period offer)"
-      },
-      {
-        "type": "context",
-        "text": "Nov 18, 2025"
-      },
-      {
-        "type": "context",
-        "text": "How to increase your CIBIL score?"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Joining fee removed, now Nil with a limited period offer."
   },
   {
     "id": "kotak-mahindra-bank-indigo-kotak-credit-card",
@@ -13999,147 +14314,6 @@
       "youtube": null
     },
     "summary": "Added early payment cashback terms: 5% annual cashback for full payment within 7 days, with eligibility and calculation details."
-  },
-  {
-    "id": "hsbc-india-live-credit-card",
-    "cardName": "Live+ Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/live-plus/",
-    "status": "Active",
-    "detectedAt": "2026-07-31T06:28:16.286Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Our welcome gifts to you"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 10% cashback on shopping at Myntra until 31 October 2026."
-      },
-      {
-        "type": "added",
-        "text": "Experience Starbucks premium coffee tasting sessions and a lot more. Get INR200 off your next purchase[@starbucks-offer]. T&Cs apply ."
-      },
-      {
-        "type": "context",
-        "text": "Get INR1,000 cashback when you download and log on to the HSBC India Mobile Banking app and spend INR25,000 within the first 30 days of getting your card. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "context",
-        "text": "Receive a voucher worth INR750 for Amazon Pay, Zomato and Swiggy when you activate your card with a single transaction of INR300 or more. T&Cs apply ."
-      },
-      {
-        "type": "context",
-        "text": "Get an INR250 Amazon eGift Voucher when you apply online, verify yourself by video and receive your card. T&Cs apply ."
-      },
-      {
-        "type": "removed",
-        "text": "Experience Starbucks premium coffee tasting sessions and a lot more. Get INR200 off your next purchase[@starbucks-offer]. T&Cs apply ."
-      },
-      {
-        "type": "context",
-        "text": "Get 10% cashback and more"
-      },
-      {
-        "type": "context",
-        "text": "Dine"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Live+ perks and privileges"
-      },
-      {
-        "type": "context",
-        "text": "The card that gets you more out of life."
-      },
-      {
-        "type": "removed",
-        "text": "The Live+ Reserve"
-      },
-      {
-        "type": "removed",
-        "text": "Discover India's finest tables, where every meal is crafted to be an experience, from 1 August 2026 onwards."
-      },
-      {
-        "type": "removed",
-        "text": "Access a handpicked collection of India's finest restaurants including Indian Accent, Tresind, Comorin, Olive and more"
-      },
-      {
-        "type": "added",
-        "text": "The Live+ Reserve, Powered by DineWithTimesPrime"
-      },
-      {
-        "type": "added",
-        "text": "Discover India's finest tables with DineWithTimesPrime, where every meal is crafted to be an experience, from 1 August 2026 onwards."
-      },
-      {
-        "type": "added",
-        "text": "Access a handpicked collection of India's finest restaurants curated by DineWithTimesPrime, including Indian Accent, Tresind, Comorin, Olive and more"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy exclusive chef-curated menus featuring each restaurant's signature creations"
-      },
-      {
-        "type": "context",
-        "text": "Get complimentary beverages and desserts to complete your dining experience"
-      },
-      {
-        "type": "removed",
-        "text": "Plus, enjoy curated lifestyle privileges across premium brands including Toni & Guy, Sony LIV, TUMI and more"
-      },
-      {
-        "type": "added",
-        "text": "Plus, enjoy curated lifestyle privileges powered by Times Prime across premium brands including Toni & Guy, Sony LIV, TUMI and more"
-      },
-      {
-        "type": "context",
-        "text": "T&Cs apply (PDF) . To access your benefits, visit Live+ Reserve ."
-      },
-      {
-        "type": "context",
-        "text": "Elevate your travel experiences"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "More privileges for the lifestyle you love"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy exclusive savings on health, beauty, entertainment and much more."
-      },
-      {
-        "type": "removed",
-        "text": "Get up to INR250 cashback per year on contactless fuel purchases when you spend INR10,000 per quarter. T&Cs apply ."
-      },
-      {
-        "type": "added",
-        "text": "Get INR250 cashback on contactless fuel purchases when you spend INR10,000 per quarter. T&Cs apply ."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy buy-one-get-one cinema tickets, via the District app by Zomato. T&Cs apply ."
-      },
-      {
-        "type": "context",
-        "text": "Get buy-one-get-one cinema tickets, plus 10% off live events, with BookMyShow. T&Cs apply ."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Updated Live+ Reserve, DineWithTimesPrime partnership, lifestyle privileges, and fuel cashback wording for Live+ Credit Card."
   },
   {
     "id": "indusind-bank-cred-indusind-bank-rupay-credit-card",

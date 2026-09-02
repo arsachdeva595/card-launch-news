@@ -55,7 +55,8 @@ export function formatChangeMessage(change, siteUrl) {
   ];
 
   if (change.summary) {
-    lines.push("", `<b>Summary (✅ verified via Reddit):</b> ${esc(change.summary)}${officialPageSentence(change.productPageUrl)}`);
+    const via = change.summaryVerification?.via === "google" ? "Google Search" : "Reddit";
+    lines.push("", `<b>Summary (✅ verified via ${via}):</b> ${esc(change.summary)}${officialPageSentence(change.productPageUrl)}`);
   } else if (change.summaryVerification?.candidateSummary) {
     lines.push(
       "",

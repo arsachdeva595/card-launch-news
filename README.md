@@ -150,6 +150,31 @@ with an honest label rather than something that looks broken.
    trips a same-run circuit breaker so the rest of that run's change
    candidates fail straight to "unverified" instead of retrying a doomed
    request per card.
+
+   **`scripts/lib/google-grounding.mjs`** (optional — only runs if
+   `GEMINI_API_KEY` is set) is a paid fallback tried only when Reddit finds
+   nothing, via Gemini's Google Search grounding tool: it asks the model to
+   search the web for independent reporting (news, review sites, forums,
+   the bank's own press release — not just the bank's own current product
+   page, which is already the source the claim came from) corroborating
+   the summary, and only counts it as verified if the response both says
+   so *and* carries at least one real citation URL. `scripts/lib/grounding.mjs`
+   wires the two together (Reddit first, Gemini fallback) — see
+   `groundChange()`, the single entry point every caller (`run.mjs`,
+   `backfill-summaries.mjs`, `regenerate-summaries.mjs`) uses instead of
+   calling either grounding source directly. Since Reddit's free tier can
+   realistically be exhausted on the very first request of a run (see
+   above), and GitHub Actions runners share IPs across many repos, this
+   fallback could end up firing far more often than "rarely" — so
+   `GEMINI_MAX_CALLS` (default 20) caps how many paid calls happen in one
+   process run, after which remaining candidates just fall back to
+   unverified rather than spending unboundedly. `summaryVerification.via`
+   records which source ("reddit" or "google") actually verified a given
+   summary, shown on the site and in Telegram. This integration's exact
+   request/response shape is based on Google's public docs
+   (ai.google.dev/gemini-api/docs/google-search) for the newer
+   "Interactions API", not live-verified against a real account from here
+   — if it stops finding citations, check that page for what changed.
 7. **`scripts/enrich-change.mjs`** takes each Tier 1 change candidate that
    survived the LLM noise check (the card name is already known from
    `tracked-cards.json`, no title fetch needed) and searches Reddit/YouTube
@@ -233,7 +258,20 @@ with an honest label rather than something that looks broken.
    - If `NVIDIA_API_KEY` isn't set, every detected change is still reported
      as normal — just without a one-line summary and without the extra
      LLM-based noise check (see `scripts/lib/llm-summary.mjs`).
-5. First run will be a baseline pass per issuer (no candidates are emitted
+5. **Google Search grounding fallback (optional)**:
+   - Get a Gemini API key from [Google AI Studio](https://aistudio.google.com/apikey)
+     and add it as a repo secret named `GEMINI_API_KEY`.
+   - Default model is `gemini-2.5-flash`; override via `GEMINI_MODEL` if you
+     want a different tier. This is billed per search query (unlike the free
+     Reddit check), so a fast/cheap model is the sane default for a yes/no
+     corroboration check.
+   - Optionally set `GEMINI_MAX_CALLS` (default 20) to change the per-run
+     cap on paid calls — see `scripts/lib/google-grounding.mjs` in the
+     pipeline description above for why that cap exists.
+   - If `GEMINI_API_KEY` isn't set, grounding is just the free Reddit check,
+     same as before this was added — this is a fallback, never a
+     requirement.
+6. First run will be a baseline pass per issuer (no candidates are emitted
    the very first time an issuer's sitemap is seen, since there's nothing to
    diff against yet) — expect the feed to start filling in from the *second*
    run onward, once a snapshot exists to compare against. (This repo's

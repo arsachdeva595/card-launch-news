@@ -1,5 +1,5 @@
 import { summarizeChange } from "./lib/llm-summary.mjs";
-import { groundChangeInReddit } from "./lib/reddit-grounding.mjs";
+import { groundChange } from "./lib/grounding.mjs";
 import { readJson, writeJson, PATHS } from "./lib/state.mjs";
 
 const CALL_DELAY_MS = 300;
@@ -36,19 +36,24 @@ async function main() {
 
     if (result?.summary) {
       // Same verified-vs-unverified split as the daily run.mjs path (see
-      // lib/reddit-grounding.mjs) - a summary only becomes the confident
-      // `summary` field once corroborated on r/CreditCardsIndia, otherwise
-      // it's kept as an explicitly-unverified candidate so the site never
-      // shows an ungrounded AI guess as fact.
-      const verification = await groundChangeInReddit({ cardName: change.cardName, summary: result.summary });
+      // lib/grounding.mjs) - a summary only becomes the confident `summary`
+      // field once corroborated (Reddit first, Gemini's paid Google Search
+      // grounding as a fallback), otherwise it's kept as an explicitly-
+      // unverified candidate so the site never shows an ungrounded AI guess
+      // as fact.
+      const verification = await groundChange({
+        cardName: change.cardName,
+        issuerName: change.issuerName,
+        summary: result.summary
+      });
       if (verification) {
         change.summary = result.summary;
-        change.summaryVerification = { status: "verified", source: verification };
-        console.log(`  -> ${result.summary} (verified via Reddit)`);
+        change.summaryVerification = { status: "verified", source: verification.source, via: verification.via };
+        console.log(`  -> ${result.summary} (verified via ${verification.via})`);
         verified++;
       } else {
         change.summaryVerification = { status: "unverified", candidateSummary: result.summary };
-        console.log(`  -> ${result.summary} (unverified, no Reddit corroboration yet)`);
+        console.log(`  -> ${result.summary} (unverified, no corroboration yet)`);
         unverified++;
       }
     } else if (result?.noise) {

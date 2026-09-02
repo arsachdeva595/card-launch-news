@@ -1,5 +1,5 @@
 import { summarizeChange } from "./lib/llm-summary.mjs";
-import { groundChangeInReddit } from "./lib/reddit-grounding.mjs";
+import { groundChange } from "./lib/grounding.mjs";
 import { readJson, writeJson, PATHS } from "./lib/state.mjs";
 
 const CALL_DELAY_MS = 300;
@@ -48,16 +48,20 @@ async function main() {
     });
 
     if (result?.summary) {
-      const verification = await groundChangeInReddit({ cardName: change.cardName, summary: result.summary });
+      const verification = await groundChange({
+        cardName: change.cardName,
+        issuerName: change.issuerName,
+        summary: result.summary
+      });
       if (verification) {
         change.summary = result.summary;
-        change.summaryVerification = { status: "verified", source: verification };
-        console.log(`  -> ${result.summary} (verified via Reddit)`);
+        change.summaryVerification = { status: "verified", source: verification.source, via: verification.via };
+        console.log(`  -> ${result.summary} (verified via ${verification.via})`);
         verified++;
       } else {
         delete change.summary;
         change.summaryVerification = { status: "unverified", candidateSummary: result.summary };
-        console.log(`  -> ${result.summary} (unverified, no Reddit corroboration yet)`);
+        console.log(`  -> ${result.summary} (unverified, no corroboration yet)`);
         unverified++;
       }
     } else if (result?.noise) {

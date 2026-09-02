@@ -159,7 +159,7 @@ function renderChangeDetail(change) {
       <h3>Summary <span class="badge badge--verified">Verified</span></h3>
       <p class="change-summary">${escapeHtml(change.summary)}${officialPageSentence(change.productPageUrl)}</p>
       ${change.summaryVerification?.source ? `
-      <p class="snippet">Corroborated by <a href="${safeHref(change.summaryVerification.source.url)}" target="_blank" rel="noopener noreferrer">r/CreditCardsIndia</a>: "${escapeHtml(change.summaryVerification.source.title)}"</p>
+      <p class="snippet">Corroborated ${change.summaryVerification.via === "google" ? "via Google Search" : "by"} <a href="${safeHref(change.summaryVerification.source.url)}" target="_blank" rel="noopener noreferrer">${change.summaryVerification.via === "google" ? escapeHtml(change.summaryVerification.source.title) : "r/CreditCardsIndia"}</a>${change.summaryVerification.via === "google" ? "" : `: "${escapeHtml(change.summaryVerification.source.title)}"`}</p>
       ` : ""}
     </div>
     ` : change.summary || change.summaryVerification?.candidateSummary ? `

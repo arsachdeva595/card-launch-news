@@ -4,7 +4,7 @@ import { detectChanges } from "./detect-changes.mjs";
 import { detectPings } from "./detect-pings.mjs";
 import { enrichChangeCandidate } from "./enrich-change.mjs";
 import { summarizeChange } from "./lib/llm-summary.mjs";
-import { groundChangeInReddit } from "./lib/reddit-grounding.mjs";
+import { groundChange } from "./lib/grounding.mjs";
 import { detectsDiscontinuation } from "./lib/discontinuation.mjs";
 import { collectRedditBuzz } from "./lib/reddit-buzz.mjs";
 import { notifyTelegram } from "./lib/notify.mjs";
@@ -149,14 +149,19 @@ async function main() {
         // *page itself* has bad copy (a bank's own FAQ typo, a stale figure
         // left in one section) - no amount of diff-grounding catches that.
         // Only promote it to the confident, headline "summary" field once
-        // independent discussion of the same change turns up on
-        // r/CreditCardsIndia; otherwise keep it as a clearly-unverified
-        // candidate so the site shows the raw diff for manual review
-        // instead of repeating an unconfirmed claim as fact.
-        const verification = await groundChangeInReddit({ cardName: change.cardName, summary: llmResult.summary });
+        // independent discussion of the same change turns up somewhere
+        // (Reddit first, Gemini's paid Google Search grounding as a
+        // fallback - see lib/grounding.mjs); otherwise keep it as a
+        // clearly-unverified candidate so the site shows the raw diff for
+        // manual review instead of repeating an unconfirmed claim as fact.
+        const verification = await groundChange({
+          cardName: change.cardName,
+          issuerName: change.issuerName,
+          summary: llmResult.summary
+        });
         if (verification) {
           enriched.summary = llmResult.summary;
-          enriched.summaryVerification = { status: "verified", source: verification };
+          enriched.summaryVerification = { status: "verified", source: verification.source, via: verification.via };
         } else {
           enriched.summaryVerification = { status: "unverified", candidateSummary: llmResult.summary };
         }
@@ -166,7 +171,7 @@ async function main() {
       console.log(
         `  -> "${enriched.cardName}"${
           enriched.summary
-            ? ` (${enriched.summary}, verified via Reddit)`
+            ? ` (${enriched.summary}, verified via ${enriched.summaryVerification.via})`
             : enriched.summaryVerification?.candidateSummary
               ? ` (unverified: ${enriched.summaryVerification.candidateSummary})`
               : ""

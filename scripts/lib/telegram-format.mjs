@@ -1,3 +1,5 @@
+import { withMonzyUtm } from "./utm-link.mjs";
+
 // Telegram's HTML parse mode only understands a small tag subset (b, i, a,
 // code, pre, ...) - escape everything else so a fetched title/snippet
 // containing & < > can't break message formatting or silently get dropped.
@@ -8,6 +10,13 @@ function esc(value) {
 function linkLine(label, entry, fallback = "Not found yet") {
   if (!entry) return `${label}: ${fallback}`;
   return `${label}: <a href="${esc(entry.url)}">${esc(entry.title || entry.url)}</a>`;
+}
+
+// Appended as a trailing sentence directly onto an AI-generated summary
+// (not its own section) so the summary always points back at the card's own
+// official page as the source of truth, wherever that summary is shown.
+function officialPageSentence(productPageUrl) {
+  return ` Check the <a href="${esc(withMonzyUtm(productPageUrl))}">official page</a> for more details.`;
 }
 
 function diffExcerpt(diffHunks, maxLines = 6) {
@@ -46,9 +55,12 @@ export function formatChangeMessage(change, siteUrl) {
   ];
 
   if (change.summary) {
-    lines.push("", `<b>Summary (✅ verified via Reddit):</b> ${esc(change.summary)}`);
+    lines.push("", `<b>Summary (✅ verified via Reddit):</b> ${esc(change.summary)}${officialPageSentence(change.productPageUrl)}`);
   } else if (change.summaryVerification?.candidateSummary) {
-    lines.push("", `<b>Summary (⚠️ unverified, AI guess):</b> ${esc(change.summaryVerification.candidateSummary)}`);
+    lines.push(
+      "",
+      `<b>Summary (⚠️ unverified, AI guess):</b> ${esc(change.summaryVerification.candidateSummary)}${officialPageSentence(change.productPageUrl)}`
+    );
   }
 
   const excerpt = diffExcerpt(change.diffHunks);

@@ -39,6 +39,27 @@ function safeHref(url) {
   }
 }
 
+// Every "check the official page" link appended after an AI summary
+// carries this UTM tag, so clicks originating from that summary are
+// attributable as coming from Monzy rather than generic referral traffic.
+function withMonzyUtm(url) {
+  if (!url) return url;
+  try {
+    const parsed = new URL(url);
+    parsed.searchParams.set("utm_source", "monzy");
+    return parsed.toString();
+  } catch {
+    return url;
+  }
+}
+
+// Appended as a trailing sentence directly onto an AI-generated summary
+// (not its own section) so the summary always points back at the card's own
+// official page as the source of truth.
+function officialPageSentence(productPageUrl) {
+  return ` Check the <a href="${safeHref(withMonzyUtm(productPageUrl))}" target="_blank" rel="noopener noreferrer">official page</a> for more details.`;
+}
+
 function formatDate(iso) {
   if (!iso) return "Unknown date";
   return new Date(iso).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" });
@@ -136,7 +157,7 @@ function renderChangeDetail(change) {
     ${change.summaryVerification?.status === "verified" ? `
     <div class="detail-section">
       <h3>Summary <span class="badge badge--verified">Verified</span></h3>
-      <p class="change-summary">${escapeHtml(change.summary)}</p>
+      <p class="change-summary">${escapeHtml(change.summary)}${officialPageSentence(change.productPageUrl)}</p>
       ${change.summaryVerification?.source ? `
       <p class="snippet">Corroborated by <a href="${safeHref(change.summaryVerification.source.url)}" target="_blank" rel="noopener noreferrer">r/CreditCardsIndia</a>: "${escapeHtml(change.summaryVerification.source.title)}"</p>
       ` : ""}
@@ -144,7 +165,7 @@ function renderChangeDetail(change) {
     ` : change.summary || change.summaryVerification?.candidateSummary ? `
     <div class="detail-section">
       <h3>Summary <span class="badge badge--unverified">Unverified</span></h3>
-      <p class="change-summary change-summary--unverified">${escapeHtml(change.summary || change.summaryVerification.candidateSummary)}</p>
+      <p class="change-summary change-summary--unverified">${escapeHtml(change.summary || change.summaryVerification.candidateSummary)}${officialPageSentence(change.productPageUrl)}</p>
       <p class="snippet">AI-suggested reading of the diff below, with no independent confirmation found yet on r/CreditCardsIndia — check the raw diff to confirm before relying on this.</p>
     </div>
     ` : ""}
@@ -213,7 +234,7 @@ function renderBackfillDetail(item) {
     ${item.summary ? `
     <div class="detail-section">
       <h3>Summary</h3>
-      <p class="change-summary backfill-summary">${escapeHtml(item.summary)}</p>
+      <p class="change-summary backfill-summary">${escapeHtml(item.summary)}${officialPageSentence(item.url)}</p>
     </div>
     ` : ""}
 

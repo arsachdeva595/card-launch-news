@@ -15,7 +15,12 @@
 // GEMINI_API_URL/extractCitations()/extractAnswerText() accordingly.
 const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/interactions";
 const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
-const FETCH_TIMEOUT_MS = 20000;
+// A real multi-step interaction (thought -> search call -> search result ->
+// model_output) genuinely takes longer than a single-shot completion -
+// live-caught during a bulk rescan: 20s was aborting roughly half of all
+// calls mid-search, burning through MAX_CALLS_PER_RUN on timeouts instead
+// of real answers. 45s gives the search step room to actually finish.
+const FETCH_TIMEOUT_MS = 45000;
 
 // Hard cap on paid Gemini calls per process run. Reddit's free tier is
 // tight enough that a single request can exhaust it for the rest of a run

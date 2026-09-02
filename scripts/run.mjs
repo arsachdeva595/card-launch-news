@@ -159,7 +159,8 @@ async function main() {
           cardName: change.cardName,
           issuerName: change.issuerName,
           summary: llmResult.summary,
-          officialUrl: change.officialUrl
+          officialUrl: change.officialUrl,
+          detectedAt: change.detectedAt
         });
         if (verification) {
           enriched.summary = llmResult.summary;

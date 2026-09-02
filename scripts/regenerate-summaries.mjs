@@ -52,7 +52,8 @@ async function main() {
         cardName: change.cardName,
         issuerName: change.issuerName,
         summary: result.summary,
-        officialUrl: change.officialUrl
+        officialUrl: change.officialUrl,
+        detectedAt: change.detectedAt
       });
       if (verification) {
         change.summary = result.summary;

@@ -20,6 +20,18 @@ const USER_AGENT = "card-launch-news-grounding/1.0 (+https://github.com/arsachde
 const FETCH_TIMEOUT_MS = 15000;
 const MAX_DESCRIPTION_LENGTH = 240;
 
+// A keyword match alone doesn't prove a post is actually ABOUT the recent
+// change being checked - an old post that happens to mention the same
+// card and a coincidentally-matching number is not corroboration of
+// something that changed recently. Posts older than this relative to the
+// change's own detectedAt are excluded from matching entirely, not just
+// deprioritized. Generous enough to allow for Reddit discussion that
+// started slightly before this pipeline's own crawl caught the page
+// change (a leak/rumor discussed a couple weeks ahead of the official
+// update), while still ruling out "this was true 2 years ago" false
+// positives.
+const MAX_POST_AGE_DAYS = 60;
+
 // Reddit's unauthenticated search.rss is rate-limited tightly enough that a
 // single request can exhaust the bucket (observed: x-ratelimit-remaining: 0
 // after one call, ~45s reset). A run can have many change candidates with a
@@ -67,8 +79,13 @@ function extractEntries(xml) {
     const title = (/<title[^>]*>([\s\S]*?)<\/title>/i.exec(block) || [])[1];
     const content = (/<content[^>]*>([\s\S]*?)<\/content>/i.exec(block) || [])[1];
     const link = (/<link[^>]*href="([^"]*)"/i.exec(block) || [])[1];
+    // <published> is when the post was originally submitted; <updated>
+    // moves on edits and, per live testing, is identical to <published>
+    // for un-edited posts - <updated> is used since it's the more
+    // conservative (never-earlier) of the two for recency purposes.
+    const updated = (/<updated[^>]*>([\s\S]*?)<\/updated>/i.exec(block) || [])[1];
     if (!link) continue;
-    entries.push({ title: stripHtml(title), content: stripHtml(content), url: link });
+    entries.push({ title: stripHtml(title), content: stripHtml(content), url: link, updatedAt: updated || null });
   }
   return entries;
 }
@@ -116,17 +133,39 @@ async function fetchRss(query) {
   }
 }
 
+// A post whose date can't be determined, or that's too old relative to
+// when the change was actually detected, can't be trusted as evidence
+// this specific recent change happened - it might be discussing the same
+// card's terms from years ago that just happen to share a keyword. If
+// detectedAt itself isn't a valid date (defensive - some callers may not
+// have one), the recency filter is skipped entirely rather than rejecting
+// everything.
+function isRecentEnough(entry, detectedAt) {
+  const detected = new Date(detectedAt);
+  if (Number.isNaN(detected.getTime())) return true;
+
+  if (!entry.updatedAt) return false;
+  const posted = new Date(entry.updatedAt);
+  if (Number.isNaN(posted.getTime())) return false;
+
+  const ageMs = detected.getTime() - posted.getTime();
+  return ageMs <= MAX_POST_AGE_DAYS * 24 * 60 * 60 * 1000;
+}
+
 /**
  * Searches r/CreditCardsIndia for independent corroboration of a card
  * change's LLM-written summary. Returns the best-matching post as
  * { title, url, description } if at least a couple of the summary's
  * distinctive keywords (a fee figure, a benefit name, etc.) also show up in
- * a real post about this card, or null if nothing corroborating turns up
- * (including on any fetch/parse error - this is a "boost confidence when
- * found" signal, not a hard dependency, so a Reddit hiccup should never
- * itself suppress a change from being reported).
+ * a real post about this card that's recent enough to plausibly be about
+ * THIS change (see isRecentEnough - posts older than MAX_POST_AGE_DAYS
+ * relative to detectedAt, or with no determinable date, are excluded
+ * entirely), or null if nothing corroborating turns up (including on any
+ * fetch/parse error - this is a "boost confidence when found" signal, not
+ * a hard dependency, so a Reddit hiccup should never itself suppress a
+ * change from being reported).
  */
-export async function groundChangeInReddit({ cardName, summary }) {
+export async function groundChangeInReddit({ cardName, summary, detectedAt }) {
   const keywords = extractKeywords(summary);
   if (keywords.length === 0) return null;
 
@@ -134,7 +173,7 @@ export async function groundChangeInReddit({ cardName, summary }) {
 
   try {
     const xml = await fetchRss(`"${cardName}"`);
-    const entries = extractEntries(xml);
+    const entries = extractEntries(xml).filter((entry) => isRecentEnough(entry, detectedAt));
     if (entries.length === 0) return null;
 
     const required = keywords.length === 1 ? 1 : 2;

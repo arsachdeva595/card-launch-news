@@ -359,6 +359,13 @@ function renderTiles({ items, gridEl, emptyStateEl, kind, dateField, frequencyDa
     if (isRecent(item[dateField], frequencyDays || 7)) {
       badges.push(`<span class="badge badge--new">${kind === "change" ? "Updated" : "New"}</span>`);
     }
+    if (kind === "change") {
+      if (item.summaryVerification?.status === "verified") {
+        badges.push(`<span class="badge badge--verified">Verified</span>`);
+      } else if (item.summary || item.summaryVerification?.candidateSummary) {
+        badges.push(`<span class="badge badge--unverified">Unverified</span>`);
+      }
+    }
 
     tile.innerHTML = `
       <div class="tile__badges">${badges.join("")}</div>

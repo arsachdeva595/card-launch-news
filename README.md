@@ -143,16 +143,22 @@ with an honest label rather than something that looks broken.
    keywords need 3+ digits and matches are word-boundary-checked, since a
    bare "1" or "200" matching as a substring of an unrelated post's "2000"
    is a live-caught false positive, not a hypothetical one) against the
-   LLM's summary. If nothing corroborating is found — which, given how
-   sparse and lagged subreddit discussion is for most cards, will be the
-   common case — the change is still reported in full (diff included, as
-   always), just with the LLM's summary kept as a clearly-labeled
-   *unverified* candidate instead of a stated fact, so the diff is what gets
-   checked manually instead of an unconfirmed claim. Reddit's unauthenticated
-   RSS rate limit is tight enough that one request can exhaust it; a 429
-   trips a same-run circuit breaker so the rest of that run's change
-   candidates fail straight to "unverified" instead of retrying a doomed
-   request per card.
+   LLM's summary. A keyword match alone isn't enough, though — a post could
+   coincidentally share a card name and a number while discussing something
+   from years ago, which corroborates nothing about a *recent* change, so
+   posts are also required to be recent: within `MAX_POST_AGE_DAYS` (60) of
+   the change's own `detectedAt`, using the post's own `<updated>` Atom
+   field, parsed directly (not deprioritized - excluded from matching
+   entirely if it's too old or has no determinable date). If nothing
+   corroborating is found — which, given how sparse and lagged subreddit
+   discussion is for most cards, will be the common case — the change is
+   still reported in full (diff included, as always), just with the LLM's
+   summary kept as a clearly-labeled *unverified* candidate instead of a
+   stated fact, so the diff is what gets checked manually instead of an
+   unconfirmed claim. Reddit's unauthenticated RSS rate limit is tight
+   enough that one request can exhaust it; a 429 trips a same-run circuit
+   breaker so the rest of that run's change candidates fail straight to
+   "unverified" instead of retrying a doomed request per card.
 
    **`scripts/lib/google-grounding.mjs`** (optional — only runs if
    `GEMINI_API_KEY` is set) is a paid fallback tried only when Reddit finds
@@ -172,7 +178,18 @@ with an honest label rather than something that looks broken.
    count as corroboration. A result only counts as verified if, after that
    filter, at least one real citation remains AND the model's own answer
    doesn't itself say it found nothing (a "no corroboration" answer can
-   still carry citations from a fruitless search).
+   still carry citations from a fruitless search) AND, like the Reddit
+   check above, isn't only citing something stale: the prompt tells the
+   model the change was detected around a given date and to only count a
+   source as corroboration if it's recent, but that's self-reported too -
+   the answer text is scanned for explicit full dates (month name + day +
+   year; a bare 4-digit year alone isn't used, since a rupee figure like
+   "₹2025" would false-positive-match a year pattern), and if the most
+   recent explicit date found is more than `MAX_CITATION_AGE_DAYS` (60)
+   before the change's `detectedAt`, it's rejected as evidence of something
+   old, not this recent change. No explicit date found at all doesn't
+   reject on its own - the citation + no-negative-language checks still
+   apply.
 
    `scripts/lib/grounding.mjs` wires the two sources together (Reddit
    first, Gemini fallback) — see `groundChange()`, the single entry point

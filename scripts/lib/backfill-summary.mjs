@@ -22,6 +22,10 @@ List what materially changed for this specific card - fees, interest rates, rewa
 
 Name the specific fee/charge in each bullet - never write a vague "fee structure changed" or "fees changed" bullet. A card has several distinct fees (annual fee, joining fee, renewal fee, late payment/overdue payment fee, foreign currency/forex markup, cash advance fee, etc.) and confusing one for another is misleading. In particular, a fee that only applies when a payment is late or overdue (sometimes phrased as "late payment fee", "overdue payment charge", "penalty charge", or a Minimum Amount Due/MAD-linked charge) must be explicitly called a late payment/overdue fee, not folded into a generic "fee" mention - it does not change what the card costs to hold or use normally, only what a missed/late payment costs.
 
+If a number, percentage, fee amount, spend threshold, or reward rate changed, state the actual new value(s) in that bullet - never just "amounts updated" or "threshold changed" without saying what the number now is.
+
+Never describe a bullet in terms of punctuation, capitalization, spacing, or exact wording (e.g. "removed a comma", "changed phrasing from X to Y") - only whether the card's terms actually changed matters. If a difference between two points in time is purely cosmetic/grammatical with no number, eligibility rule, or benefit actually changed, either leave it out of the bullet list entirely, or if it's genuinely the only thing that changed in that section, give a short generic flag (e.g. "Lounge access benefit wording updated") without naming the specific punctuation or words involved.
+
 Respond with ONLY:
 - Up to 4 short bullet points (each on its own line starting with "- "), each under 20 words, if there are real changes.
 - The exact line "${NO_CHANGE_LINE}" if none of the above changed.

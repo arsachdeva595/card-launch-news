@@ -7,6 +7,7 @@
   --accent: #2451ff;
   --accent-soft: #eef1ff;
   --new-badge: #0f8a3e;
+  --warn-badge: #b5680a;
   --shadow: 0 1px 2px rgba(20, 20, 30, 0.06), 0 4px 16px rgba(20, 20, 30, 0.04);
 }
 
@@ -20,6 +21,7 @@
     --accent: #6d8bff;
     --accent-soft: #1c2440;
     --new-badge: #3fcf76;
+    --warn-badge: #e0a83f;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 20px rgba(0, 0, 0, 0.25);
   }
 }
@@ -322,6 +324,20 @@ html {
   color: var(--new-badge);
 }
 
+.badge--verified {
+  background: color-mix(in srgb, var(--new-badge) 16%, transparent);
+  color: var(--new-badge);
+  margin-left: 0.4rem;
+  vertical-align: middle;
+}
+
+.badge--unverified {
+  background: color-mix(in srgb, var(--warn-badge) 16%, transparent);
+  color: var(--warn-badge);
+  margin-left: 0.4rem;
+  vertical-align: middle;
+}
+
 .tile__name {
   margin: 0;
   font-size: 1.05rem;
@@ -517,6 +533,11 @@ p.snippet {
 .backfill-summary {
   white-space: pre-line;
   line-height: 1.5;
+}
+
+.change-summary--unverified {
+  font-style: italic;
+  color: var(--text-muted);
 }
 
 .status-filter {

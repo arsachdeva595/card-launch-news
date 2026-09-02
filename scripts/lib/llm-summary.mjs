@@ -7,38 +7,80 @@
 // reference and adjust NVIDIA_API_URL/model name below.
 const NVIDIA_API_URL = "https://integrate.api.nvidia.com/v1/chat/completions";
 const MODEL = process.env.NVIDIA_LLM_MODEL || "openai/gpt-oss-20b";
-const NOISE_SENTINEL = "NOISE";
 
 function buildPrompt(cardName, issuerName, diffText) {
   return `You are reviewing a text diff from an Indian bank's credit card webpage to decide if it represents a genuine change to that specific card, or unrelated noise.
 
 Card: "${cardName}" (issuer: ${issuerName})
 
-Diff (+ = line added, - = line removed; unmarked context lines are omitted):
+Diff (+ = line added/now present, - = line removed/no longer present; unmarked context lines are omitted):
 ${diffText}
 
-This is REAL if it changes the card's own fees, interest rates, reward rates, welcome/joining benefits, eligibility, lounge/travel benefits, or availability status (e.g. discontinued).
+Rules:
+1. Judge REAL only if this changes the card's own fees, interest rates, reward rates, welcome/joining benefits, eligibility, lounge/travel benefits, or availability status (e.g. discontinued).
+2. Judge NOISE if it's navigation links, a "related products"/cross-sell widget (especially one advertising a *different* card), live view/interest counters, cookie banners, promotional banner rotations, accessibility controls, or other page chrome unrelated to this card's own terms.
+3. Direction is easy to get backwards - check it twice. A "+" line is text that is now on the page and was NOT there before (something gained/present). A "-" line is text that WAS on the page and is now gone (something lost/absent). If a benefit's description appears only in a "-" line, that benefit was REMOVED - never describe a "-" line as an addition, and never describe a "+" line as a removal.
+4. Never state a number, percentage, or date that does not appear verbatim, character-for-character, in the diff lines above. Do not "correct" a figure using what you recall about this card from general knowledge, and do not fill in a number that isn't actually in the diff text - if you can't find the specific new value in the diff itself, describe the change qualitatively instead of guessing.
+5. "quote" must be an exact, verbatim substring (max ~15 words) copied directly from one of the diff lines above (the text itself, not the +/- marker) that most directly supports your summary. Do not paraphrase it - copy it exactly as written, including any typos in the source page.
 
-This is NOISE if it's navigation links, a "related products"/cross-sell widget (especially one advertising a *different* card), live view/interest counters, cookie banners, promotional banner rotations, accessibility controls, or other page chrome unrelated to this card's own terms.
+Respond with ONLY a single line of JSON, no markdown code fences, no other text:
+- If REAL: {"verdict":"REAL","direction":"added"|"removed"|"modified","summary":"<one short sentence, under 25 words>","quote":"<verbatim excerpt from a diff line above>"}
+- If NOISE: {"verdict":"NOISE"}`;
+}
 
-Respond with ONLY ONE of:
-- A single short sentence (under 25 words) stating exactly what changed, if REAL.
-- The single word ${NOISE_SENTINEL}, if this is noise.
+function normalize(text) {
+  return String(text || "")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+}
 
-No other text, no explanation, no markdown.`;
+function parseJsonReply(reply) {
+  // Strip ```json ... ``` fences some models wrap replies in despite being
+  // told not to, and grab the first {...} blob as a fallback if there's any
+  // stray text around it.
+  const stripped = reply.replace(/```(?:json)?/gi, "").trim();
+  const jsonMatch = stripped.match(/\{[\s\S]*\}/);
+  const candidate = jsonMatch ? jsonMatch[0] : stripped;
+  try {
+    return JSON.parse(candidate);
+  } catch {
+    return null;
+  }
+}
+
+// Cross-checks the LLM's claimed quote/direction against the actual diff
+// hunks (not just the flattened diffText it was prompted with) - this is
+// what catches a model stating a benefit was "added" when the matching line
+// was actually a "-" (removed) line, or inventing a quote that isn't in the
+// diff at all. Returns true only if the quote is found verbatim in a hunk
+// whose type is consistent with the claimed direction.
+function isGroundedInDiff(quote, direction, diffHunks) {
+  const normQuote = normalize(quote);
+  if (!normQuote) return false;
+
+  const relevantTypes =
+    direction === "added" ? ["added"] : direction === "removed" ? ["removed"] : ["added", "removed"];
+
+  return (diffHunks || []).some(
+    (hunk) => relevantTypes.includes(hunk.type) && normalize(hunk.text).includes(normQuote)
+  );
 }
 
 /**
  * Classifies a detected change as real or noise using an LLM, and if real,
  * returns a one-line summary of what changed. Returns:
- * - { summary: string } if the LLM judges it a genuine card change
+ * - { summary: string } if the LLM judges it a genuine card change AND its
+ *   claimed quote/direction check out against the actual diff hunks
  * - { noise: true } if the LLM confidently judges it noise (caller should
  *   suppress reporting this change)
- * - null if NVIDIA_API_KEY isn't set, the diff is empty, or the call
- *   failed/errored - callers should treat this as "unknown" and fall back
- *   to reporting the change without a summary, NOT as noise, so the whole
- *   change-detection feature doesn't go silent just because this one
- *   optional integration is unconfigured or briefly unavailable.
+ * - null if NVIDIA_API_KEY isn't set, the diff is empty, the call
+ *   failed/errored, the reply didn't parse, or the LLM's claim didn't
+ *   ground in the diff (e.g. direction mismatch, fabricated quote) -
+ *   callers should treat this as "unknown" and fall back to reporting the
+ *   change without a summary, NOT as noise, so the whole change-detection
+ *   feature doesn't go silent just because this one optional integration is
+ *   unconfigured, briefly unavailable, or produced an untrustworthy answer.
  */
 export async function summarizeChange({ cardName, issuerName, diffHunks }) {
   const apiKey = process.env.NVIDIA_API_KEY;
@@ -66,7 +108,7 @@ export async function summarizeChange({ cardName, issuerName, diffHunks }) {
         model: MODEL,
         messages: [{ role: "user", content: buildPrompt(cardName, issuerName, diffText) }],
         temperature: 0.1,
-        max_tokens: 350,
+        max_tokens: 400,
         // gpt-oss-20b is a reasoning model that spends tokens on an internal
         // "reasoning" field before the final answer - without this, a low
         // max_tokens budget gets consumed entirely by reasoning (finish_reason
@@ -90,10 +132,29 @@ export async function summarizeChange({ cardName, issuerName, diffHunks }) {
       return null;
     }
 
-    if (reply.toUpperCase().includes(NOISE_SENTINEL) && reply.length < NOISE_SENTINEL.length + 10) {
+    const parsed = parseJsonReply(reply);
+    if (!parsed || typeof parsed.verdict !== "string") {
+      console.warn(`  ! NVIDIA LLM reply for ${cardName} wasn't valid JSON, skipping summary: ${reply.slice(0, 200)}`);
+      return null;
+    }
+
+    if (parsed.verdict.toUpperCase() === "NOISE") {
       return { noise: true };
     }
-    return { summary: reply };
+
+    if (parsed.verdict.toUpperCase() !== "REAL" || !parsed.summary) {
+      console.warn(`  ! NVIDIA LLM reply for ${cardName} had unexpected shape, skipping summary: ${reply.slice(0, 200)}`);
+      return null;
+    }
+
+    if (!isGroundedInDiff(parsed.quote, parsed.direction, diffHunks)) {
+      console.warn(
+        `  ! NVIDIA LLM summary for ${cardName} didn't ground in the diff (direction: ${parsed.direction}, quote: "${String(parsed.quote || "").slice(0, 80)}") - skipping summary, reporting diff only`
+      );
+      return null;
+    }
+
+    return { summary: parsed.summary };
   } catch (err) {
     console.warn(`  ! NVIDIA LLM error for ${cardName}: ${err.message}`);
     return null;

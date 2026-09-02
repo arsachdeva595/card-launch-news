@@ -133,10 +133,19 @@ function renderChangeDetail(change) {
       <a href="${safeHref(change.productPageUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(change.productPageUrl)}</a>
     </div>
 
-    ${change.summary ? `
+    ${change.summaryVerification?.status === "verified" ? `
     <div class="detail-section">
-      <h3>Summary</h3>
+      <h3>Summary <span class="badge badge--verified">Verified</span></h3>
       <p class="change-summary">${escapeHtml(change.summary)}</p>
+      ${change.summaryVerification?.source ? `
+      <p class="snippet">Corroborated by <a href="${safeHref(change.summaryVerification.source.url)}" target="_blank" rel="noopener noreferrer">r/CreditCardsIndia</a>: "${escapeHtml(change.summaryVerification.source.title)}"</p>
+      ` : ""}
+    </div>
+    ` : change.summary || change.summaryVerification?.candidateSummary ? `
+    <div class="detail-section">
+      <h3>Summary <span class="badge badge--unverified">Unverified</span></h3>
+      <p class="change-summary change-summary--unverified">${escapeHtml(change.summary || change.summaryVerification.candidateSummary)}</p>
+      <p class="snippet">AI-suggested reading of the diff below, with no independent confirmation found yet on r/CreditCardsIndia — check the raw diff to confirm before relying on this.</p>
     </div>
     ` : ""}
 

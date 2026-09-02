@@ -45,7 +45,11 @@ export function formatChangeMessage(change, siteUrl) {
     `Card page: <a href="${esc(change.productPageUrl)}">${esc(change.productPageUrl)}</a>`
   ];
 
-  if (change.summary) lines.push("", `<b>Summary:</b> ${esc(change.summary)}`);
+  if (change.summary) {
+    lines.push("", `<b>Summary (✅ verified via Reddit):</b> ${esc(change.summary)}`);
+  } else if (change.summaryVerification?.candidateSummary) {
+    lines.push("", `<b>Summary (⚠️ unverified, AI guess):</b> ${esc(change.summaryVerification.candidateSummary)}`);
+  }
 
   const excerpt = diffExcerpt(change.diffHunks);
   lines.push("", excerpt ? `What changed (excerpt):\n${excerpt}` : "What changed: see full diff on the site");

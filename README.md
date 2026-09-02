@@ -116,20 +116,50 @@ with an honest label rather than something that looks broken.
    and suppresses it from being reported at all — a second line of defense
    on top of the deterministic stripping in step 3, for noise that's
    contextual rather than structural (e.g. a cross-sell widget advertising a
-   *different* card, which no fixed pattern can catch generically). If the
-   key isn't set or the call fails, the change is still reported as normal,
-   just without a summary — this step never silently disables change
-   detection.
-6. **`scripts/enrich-change.mjs`** takes each Tier 1 change candidate that
+   *different* card, which no fixed pattern can catch generically). The
+   model is required to respond with structured JSON that includes a
+   `direction` (`added`/`removed`/`modified`) and a verbatim `quote` copied
+   from the diff supporting its summary; the code then cross-checks that
+   quote against the actual diff hunks (not just its own say-so) — a claimed
+   `direction: "added"` whose quote only appears in a `removed` line, or a
+   quote that isn't found in the diff at all (a fabricated number/fact), is
+   rejected and the change falls back to reporting without a summary rather
+   than publishing an ungrounded one. This is what catches a model getting a
+   diff's +/- direction backwards (e.g. describing a *removed* benefit as
+   newly *added*). If the key isn't set, the call fails, or the response
+   doesn't ground in the diff, the change is still reported as normal, just
+   without a summary — this step never silently disables change detection.
+6. **`scripts/lib/reddit-grounding.mjs`** is a second, independent accuracy
+   check that a diff-grounded summary alone can't cover: the diff can be
+   completely faithful to the page and still be *wrong*, if the page itself
+   has bad copy (a bank's own FAQ stating a stale or incorrect fee, a
+   copy-paste error). No amount of validating the summary against the diff
+   catches that, since the diff is correctly reporting what the page now
+   says. So a change's summary is only promoted to a confident, headline
+   claim once independent discussion of the same change turns up on
+   r/CreditCardsIndia, searched via Reddit's free, unauthenticated
+   `search.rss` feed (no Apify credit spent) for the card name, then scored
+   for keyword overlap (fee figures, distinctive benefit terms) against the
+   LLM's summary. If nothing corroborating is found — which, given how
+   sparse and lagged subreddit discussion is for most cards, will be the
+   common case — the change is still reported in full (diff included, as
+   always), just with the LLM's summary kept as a clearly-labeled
+   *unverified* candidate instead of a stated fact, so the diff is what gets
+   checked manually instead of an unconfirmed claim. Reddit's unauthenticated
+   RSS rate limit is tight enough that one request can exhaust it; a 429
+   trips a same-run circuit breaker so the rest of that run's change
+   candidates fail straight to "unverified" instead of retrying a doomed
+   request per card.
+7. **`scripts/enrich-change.mjs`** takes each Tier 1 change candidate that
    survived the LLM noise check (the card name is already known from
    `tracked-cards.json`, no title fetch needed) and searches Reddit/YouTube
    for discussion confirming what changed.
-7. **`scripts/detect-pings.mjs`** (Tier 2) takes every card-matching sitemap
+8. **`scripts/detect-pings.mjs`** (Tier 2) takes every card-matching sitemap
    URL from step 1 that *isn't* in `tracked-cards.json`, and compares each
    one's `<lastmod>` (already known from the sitemap, no fetch needed) to
    what was stored in `data/lastmod-snapshots/` last run. A moved `lastmod`
    becomes a lightweight ping — Telegram-only, no diff, no enrichment.
-8. **`scripts/lib/reddit-buzz.mjs`** ("Reddit Buzz") takes this run's newly
+9. **`scripts/lib/reddit-buzz.mjs`** ("Reddit Buzz") takes this run's newly
    detected launches and Tier 1 changes and searches r/CreditCardsIndia
    specifically (via Reddit's own `subreddit:name` search qualifier) for
    each one - deliberately separate from the general (unscoped) Reddit
@@ -137,7 +167,7 @@ with an honest label rather than something that looks broken.
    matching post contribute nothing, so this is only ever "real discussion
    found tied to an actual launch/change," never general subreddit
    browsing.
-9. **`scripts/run.mjs`** orchestrates all of the above, merges Tier 1
+10. **`scripts/run.mjs`** orchestrates all of the above, merges Tier 1
    results into `docs/data/launches.json`, `docs/data/changes.json`, and
    `docs/data/reddit-buzz.json`, writes a full mirror of
    `config/tracked-cards.json` to `docs/data/tracked-cards.json` every run
@@ -146,17 +176,20 @@ with an honest label rather than something that looks broken.
    `scripts/lib/telegram-format.mjs`) for launches, Tier 1 changes, Tier 2
    pings, and Reddit Buzz posts, if `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID`
    are configured.
-10. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
+11. **`docs/`** is a static, dependency-free site (plain HTML/CSS/JS) that
    reads those JSON files and renders four sections: launches and changes
    as tile grids with a shared detail view (including a rendered diff, and
-   an LLM summary when available, for changes), Reddit Buzz as a simpler
-   list (title/snippet/link, no detail view needed), and All Tracked Cards
-   — every card in `docs/data/tracked-cards.json` (a run-time mirror of
+   a change's summary when available — with a green "Verified" badge and a
+   link to the corroborating Reddit post when `lib/reddit-grounding.mjs`
+   found one, or an amber "Unverified" badge and italicized text when it
+   didn't), Reddit Buzz as a simpler list (title/snippet/link, no detail
+   view needed), and All Tracked Cards — every card in
+   `docs/data/tracked-cards.json` (a run-time mirror of
    `config/tracked-cards.json`) as a filterable/searchable list, independent
    of whether anything was detected this run. Tier 2 pings don't appear on
    the site, only in Telegram. Served directly by GitHub Pages — no build
    step.
-11. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
+12. **`.github/workflows/runner.yml`** runs the pipeline on a daily cron, but
     `scripts/run.mjs` only actually does work once `frequencyDays` (in
     `config/settings.json`) has elapsed since the last run. Trigger a run
     immediately (bypassing the frequency gate) from the Actions tab via
@@ -515,8 +548,35 @@ feed. It uses only Node built-ins, no `npm install` needed, and is
 idempotent: rerunning the same edition overwrites cleanly rather than
 duplicating.
 
+**Verified news only**: before anything is written, every item is
+cross-checked against this repo's own pipeline data — `docs/data/changes.json`,
+`docs/data/launches.json`, and `config/tracked-cards.json` — matched by
+(card name, canonical issuer):
+
+- A launch match is trusted directly (a launch's announcement is the
+  card's own official page, not an LLM's reading of a diff, so there's no
+  hallucination-prone summarization step to distrust).
+- A `discontinued` item is trusted if `config/tracked-cards.json` actually
+  shows that card as `Discontinued` (set deterministically by regex on the
+  page's own diff — see `lib/discontinuation.mjs` — not an LLM guess).
+- Anything else needs a matching `changes.json` entry whose
+  `summaryVerification.status` is `"verified"` — i.e. the same
+  Reddit-grounding check described in "Two-pronged change accuracy" above
+  already found independent corroboration for that exact summary.
+
+An item that doesn't check out is **dropped from the edition** (not the
+whole publish) with the reason logged; the rest of the edition still
+publishes. If every item in a payload fails the check, the whole publish
+is refused rather than shipping an empty edition. Pass `--allow-unverified`
+to skip this gate entirely — only meant for backfilling **historical**
+editions that were already reviewed and sent before this check (or before
+`summaryVerification`) existed, where there's nothing meaningful left to
+check items against; see `scripts/backfill-editions.js`, which always
+passes it. Never pass it for a new edition.
+
 ```bash
 node scripts/publish-edition.js --input path/to/edition-payload.json
+node scripts/publish-edition.js --input path/to/edition-payload.json --allow-unverified  # historical backfills only
 ```
 
 The input payload shape:

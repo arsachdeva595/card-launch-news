@@ -1,4 +1,5 @@
 import { summarizeChange } from "./lib/llm-summary.mjs";
+import { groundChangeInReddit } from "./lib/reddit-grounding.mjs";
 import { readJson, writeJson, PATHS } from "./lib/state.mjs";
 
 const CALL_DELAY_MS = 300;
@@ -20,7 +21,8 @@ async function main() {
   const pending = changes.filter((c) => !c.summary);
   console.log(`${changes.length} total change(s), ${pending.length} missing a summary.`);
 
-  let filled = 0;
+  let verified = 0;
+  let unverified = 0;
   let disagreed = 0;
   let unavailable = 0;
 
@@ -33,9 +35,22 @@ async function main() {
     });
 
     if (result?.summary) {
-      change.summary = result.summary;
-      filled++;
-      console.log(`  -> ${result.summary}`);
+      // Same verified-vs-unverified split as the daily run.mjs path (see
+      // lib/reddit-grounding.mjs) - a summary only becomes the confident
+      // `summary` field once corroborated on r/CreditCardsIndia, otherwise
+      // it's kept as an explicitly-unverified candidate so the site never
+      // shows an ungrounded AI guess as fact.
+      const verification = await groundChangeInReddit({ cardName: change.cardName, summary: result.summary });
+      if (verification) {
+        change.summary = result.summary;
+        change.summaryVerification = { status: "verified", source: verification };
+        console.log(`  -> ${result.summary} (verified via Reddit)`);
+        verified++;
+      } else {
+        change.summaryVerification = { status: "unverified", candidateSummary: result.summary };
+        console.log(`  -> ${result.summary} (unverified, no Reddit corroboration yet)`);
+        unverified++;
+      }
     } else if (result?.noise) {
       // These entries were already hand-verified as real from their actual
       // diff content before being published - the LLM disagreeing here is
@@ -52,7 +67,7 @@ async function main() {
   }
 
   await writeJson(PATHS.changes, changes);
-  console.log(`\nDone. Filled ${filled}, LLM-disagreed ${disagreed}, unavailable ${unavailable}.`);
+  console.log(`\nDone. Verified ${verified}, unverified ${unverified}, LLM-disagreed ${disagreed}, unavailable ${unavailable}.`);
 }
 
 main().catch((err) => {

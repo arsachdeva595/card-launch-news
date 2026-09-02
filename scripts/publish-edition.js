@@ -6,11 +6,15 @@ import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-const DOCS_DIR = path.join(__dirname, "..", "docs");
+const REPO_ROOT = path.join(__dirname, "..");
+const DOCS_DIR = path.join(REPO_ROOT, "docs");
 const DATA_DIR = path.join(DOCS_DIR, "data");
 const EDITIONS_DIR = path.join(DATA_DIR, "editions");
 const BY_ISSUER_DIR = path.join(DATA_DIR, "by-issuer");
 const NEWSLETTERS_PATH = path.join(DATA_DIR, "newsletters.json");
+const CHANGES_PATH = path.join(DATA_DIR, "changes.json");
+const LAUNCHES_PATH = path.join(DATA_DIR, "launches.json");
+const TRACKED_CARDS_PATH = path.join(REPO_ROOT, "config", "tracked-cards.json");
 const PERMALINK_BASE = "https://arsachdeva595.github.io/card-launch-news/edition/";
 
 const REQUIRED_FIELDS = ["number", "date", "subject", "summary", "body_html", "items"];
@@ -51,17 +55,72 @@ function canonicalIssuerSlug(slug) {
   return CANONICAL_ISSUER_SLUGS[slug] || slug;
 }
 
+function normalizeCardName(name) {
+  return String(name || "").toLowerCase().replace(/\s+/g, " ").trim();
+}
+
+// Cross-checks one edition item against this repo's own pipeline data
+// (docs/data/changes.json, docs/data/launches.json, config/tracked-cards.json)
+// rather than trusting whatever the edition payload claims - the same
+// "verified news only" gate the site applies to Tier 1 changes (see
+// scripts/lib/reddit-grounding.mjs / lib/llm-summary.mjs) now also decides
+// what's allowed into newsletters.json and, downstream, the per-issuer
+// feeds that monzy.co reads. Matching is by (card name, canonical issuer)
+// since the edition payload's card_slug is a hand-picked slug, not the
+// same id format changes.json/launches.json use internally.
+function verifySourceMatch(item, { changes, launches, trackedCards }) {
+  const wantName = normalizeCardName(item.card_name);
+  const wantIssuer = canonicalIssuerSlug(item.issuer);
+
+  // A launch's "announcement" is the card's own official page, not an
+  // LLM's reading of a diff - there's no hallucination-prone summarization
+  // step in that path, so a launch match is trusted directly.
+  const launchMatch = launches.find(
+    (l) => normalizeCardName(l.cardName) === wantName && canonicalIssuerSlug(l.issuerSlug) === wantIssuer
+  );
+  if (launchMatch) return { ok: true };
+
+  // Discontinued status is set deterministically by regex-matching phrases
+  // like "has been discontinued" in the page's own diff (see
+  // scripts/lib/discontinuation.mjs), not by an LLM summarizing/interpreting
+  // the change - so it's trusted from tracked-cards.json's own status
+  // rather than requiring Reddit corroboration of an LLM-written summary.
+  if (item.change_type === "discontinued") {
+    const trackedMatch = trackedCards.find(
+      (c) => normalizeCardName(c.cardName) === wantName && canonicalIssuerSlug(c.issuerSlug) === wantIssuer
+    );
+    if (trackedMatch && trackedMatch.status === "Discontinued") return { ok: true };
+    return {
+      ok: false,
+      reason: "claims discontinued, but config/tracked-cards.json doesn't show Discontinued status for a matching card/issuer",
+    };
+  }
+
+  const changeMatch = changes.find(
+    (c) => normalizeCardName(c.cardName) === wantName && canonicalIssuerSlug(c.issuerSlug) === wantIssuer
+  );
+  if (!changeMatch) {
+    return { ok: false, reason: "no matching card/issuer found in changes.json or launches.json" };
+  }
+  if (changeMatch.summaryVerification?.status === "verified") {
+    return { ok: true };
+  }
+  return { ok: false, reason: "matching change exists but its summary is unverified (no Reddit corroboration yet)" };
+}
+
 function fail(message) {
   process.stderr.write("Error: " + message + "\n");
   process.exit(1);
 }
 
 function parseArgs(argv) {
-  const args = {};
+  const args = { allowUnverified: false };
   for (let i = 0; i < argv.length; i++) {
     if (argv[i] === "--input") {
       args.input = argv[i + 1];
       i++;
+    } else if (argv[i] === "--allow-unverified") {
+      args.allowUnverified = true;
     }
   }
   return args;
@@ -176,8 +235,46 @@ function main() {
 
   validatePayload(payload);
 
+  // "Verified news only" gate: cross-check every item against this repo's
+  // own pipeline output (not just whatever the payload claims) before it's
+  // allowed into newsletters.json and, downstream, the per-issuer feeds
+  // that monzy.co reads. Anything that doesn't check out is dropped from
+  // this edition, with the rest still published - see verifySourceMatch().
+  const sourceData = {
+    changes: readJson(CHANGES_PATH, []),
+    launches: readJson(LAUNCHES_PATH, []),
+    trackedCards: readJson(TRACKED_CARDS_PATH, []),
+  };
+
+  const droppedItems = [];
+  const verifiedPayloadItems = args.allowUnverified
+    ? payload.items
+    : payload.items.filter((item) => {
+        const result = verifySourceMatch(item, sourceData);
+        if (!result.ok) {
+          droppedItems.push({ card_name: item.card_name, issuer: item.issuer, reason: result.reason });
+          return false;
+        }
+        return true;
+      });
+
+  if (args.allowUnverified) {
+    process.stdout.write("--allow-unverified passed: skipping the verified-source gate for this publish.\n");
+  }
+
+  if (droppedItems.length) {
+    process.stdout.write("Dropped " + droppedItems.length + " unverified item(s) from this edition:\n");
+    droppedItems.forEach((d) => {
+      process.stdout.write("  - " + d.card_name + " (" + d.issuer + "): " + d.reason + "\n");
+    });
+  }
+
+  if (verifiedPayloadItems.length === 0) {
+    fail("no items in this payload passed the verified-source check - nothing to publish. See dropped-item reasons above.");
+  }
+
   const permalink = PERMALINK_BASE + "?date=" + payload.date;
-  const items = payload.items.map((item) => ({
+  const items = verifiedPayloadItems.map((item) => ({
     card_slug: item.card_slug,
     card_name: item.card_name,
     issuer: canonicalIssuerSlug(item.issuer),
@@ -228,7 +325,9 @@ function main() {
     process.stdout.write("  " + path.relative(process.cwd(), filePath) + "\n");
   });
   process.stdout.write("Issuers touched: " + issuers.join(", ") + "\n");
-  process.stdout.write("Item count: " + items.length + "\n");
+  process.stdout.write(
+    "Item count: " + items.length + (droppedItems.length ? " (" + droppedItems.length + " dropped as unverified)" : "") + "\n"
+  );
 }
 
 main();

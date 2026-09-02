@@ -119,7 +119,14 @@ const EDITION_2 = {
 function publish(payload) {
   const tmpPath = path.join(os.tmpdir(), "backfill-edition-" + payload.number + ".json");
   fs.writeFileSync(tmpPath, JSON.stringify(payload, null, 2), "utf8");
-  execFileSync("node", [PUBLISH_SCRIPT, "--input", tmpPath], { stdio: "inherit" });
+  // --allow-unverified: this is historical content that was already
+  // reviewed and sent via Pabbly before either the "verified news only"
+  // gate or the summaryVerification field on changes.json existed - the
+  // gate has nothing to check these items against and would otherwise
+  // drop them (or reject the whole edition), corrupting the archive of
+  // what was actually sent. The gate is meant for *new* editions going
+  // forward, not for re-establishing already-published history.
+  execFileSync("node", [PUBLISH_SCRIPT, "--input", tmpPath, "--allow-unverified"], { stdio: "inherit" });
   fs.unlinkSync(tmpPath);
 }
 

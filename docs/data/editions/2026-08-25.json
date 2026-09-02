@@ -12,7 +12,10 @@
       "issuer": "rbl",
       "change_type": "benefit-change",
       "summary": "Welcome benefit window changed from a flat 3 months after issuance to 60 days after the first statement is generated.",
-      "anchor": "rbl-bank-play"
+      "anchor": "rbl-bank-play",
+      "status": "unverified",
+      "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-play-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "standard-chartered-super-value-titanium",
@@ -20,7 +23,10 @@
       "issuer": "standard-chartered",
       "change_type": "fee-change",
       "summary": "Renewal fee is now waived for spends of ₹90,000 or more in the preceding year; an Eligibility & Documents section was also added.",
-      "anchor": "standard-chartered-super-value-titanium"
+      "anchor": "standard-chartered-super-value-titanium",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "icici-times-black",
@@ -28,7 +34,10 @@
       "issuer": "icici",
       "change_type": "benefit-change",
       "summary": "Lounge access network expanded from 1,400+ to 1,900+ lounges worldwide, same 145+ country coverage.",
-      "anchor": "icici-times-black"
+      "anchor": "icici-times-black",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "axis-purchase-card",
@@ -36,7 +45,10 @@
       "issuer": "axis",
       "change_type": "benefit-change",
       "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
-      "anchor": "axis-purchase-card"
+      "anchor": "axis-purchase-card",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "axis-purchase-control-virtual",
@@ -44,7 +56,10 @@
       "issuer": "axis",
       "change_type": "benefit-change",
       "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
-      "anchor": "axis-purchase-control-virtual"
+      "anchor": "axis-purchase-control-virtual",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     }
   ],
   "issuers": [

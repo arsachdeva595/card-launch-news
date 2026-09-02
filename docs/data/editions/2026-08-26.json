@@ -12,7 +12,10 @@
       "issuer": "rbl",
       "change_type": "other",
       "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
-      "anchor": "rbl-shoppers-stop-black"
+      "anchor": "rbl-shoppers-stop-black",
+      "status": "verified",
+      "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
+      "verification_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card"
     },
     {
       "card_slug": "rbl-shoppers-stop-gold",
@@ -20,7 +23,10 @@
       "issuer": "rbl",
       "change_type": "other",
       "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
-      "anchor": "rbl-shoppers-stop-gold"
+      "anchor": "rbl-shoppers-stop-gold",
+      "status": "verified",
+      "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
+      "verification_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card"
     },
     {
       "card_slug": "rbl-shoppers-stop-platinum",
@@ -28,7 +34,10 @@
       "issuer": "rbl",
       "change_type": "other",
       "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
-      "anchor": "rbl-shoppers-stop-platinum"
+      "anchor": "rbl-shoppers-stop-platinum",
+      "status": "verified",
+      "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
+      "verification_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card"
     }
   ],
   "issuers": [

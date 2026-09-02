@@ -12,7 +12,10 @@
       "issuer": "standard-chartered",
       "change_type": "fee-change",
       "summary": "New disclosure: processing fees are levied by the 15th of the next calendar month with a separate statement narration. No new fee amount, just billing timing.",
-      "anchor": "stanc-digismart"
+      "anchor": "stanc-digismart",
+      "status": "unverified",
+      "official_link": "https://www.sc.com/in/credit-cards/digismart-card/",
+      "verification_link": null
     },
     {
       "card_slug": "standard-chartered-super-value-titanium",
@@ -20,7 +23,10 @@
       "issuer": "standard-chartered",
       "change_type": "eligibility-change",
       "summary": "Specific ₹55,000/month income requirement removed, replaced with vaguer 'stable monthly income' wording; annual value chart appears mismatched (likely a page template error, not a real cashback change).",
-      "anchor": "standard-chartered-super-value-titanium"
+      "anchor": "standard-chartered-super-value-titanium",
+      "status": "unverified",
+      "official_link": "https://www.sc.com/in/credit-cards/super-value-titanium/",
+      "verification_link": null
     },
     {
       "card_slug": "stanc-manhattan",
@@ -28,7 +34,10 @@
       "issuer": "standard-chartered",
       "change_type": "eligibility-change",
       "summary": "Minimum applicant age lowered from 21 to 18 years.",
-      "anchor": "stanc-manhattan"
+      "anchor": "stanc-manhattan",
+      "status": "unverified",
+      "official_link": "https://www.sc.com/in/credit-cards/manhattan-platinum/",
+      "verification_link": null
     },
     {
       "card_slug": "stanc-priority-visa-infinite",
@@ -36,7 +45,10 @@
       "issuer": "standard-chartered",
       "change_type": "benefit-change",
       "summary": "Page now documents detailed reward rates, lounge access counts, and overseas insurance cover amounts; self-employed applicants must now submit IT Returns and Business Continuity proof.",
-      "anchor": "stanc-priority-visa-infinite"
+      "anchor": "stanc-priority-visa-infinite",
+      "status": "unverified",
+      "official_link": "https://www.sc.com/in/credit-cards/priority-banking-visa-infinite/",
+      "verification_link": null
     },
     {
       "card_slug": "stanc-smart",
@@ -44,7 +56,10 @@
       "issuer": "standard-chartered",
       "change_type": "other",
       "summary": "Mostly page reformatting; no material change to fees or benefits beyond a portfolio-wide eligibility wording addition.",
-      "anchor": "stanc-smart"
+      "anchor": "stanc-smart",
+      "status": "unverified",
+      "official_link": "https://www.sc.com/in/credit-cards/smart-credit-card/?pid=cc_smartcard_cclp&cid=cc_smartcard_cclp",
+      "verification_link": null
     },
     {
       "card_slug": "stanc-ultimate",
@@ -52,7 +67,10 @@
       "issuer": "standard-chartered",
       "change_type": "fee-change",
       "summary": "New 1% (plus taxes) processing fee added on rent payments made via third-party platforms; also gained a detailed ₹74,150 annual benefit value chart.",
-      "anchor": "stanc-ultimate"
+      "anchor": "stanc-ultimate",
+      "status": "unverified",
+      "official_link": "https://www.sc.com/in/credit-cards/ultimate-card/?pid=cc_ultimatecard_cclp&cid=cc_ultimatecard_cclp",
+      "verification_link": null
     },
     {
       "card_slug": "stanc-rewards",
@@ -60,7 +78,10 @@
       "issuer": "standard-chartered",
       "change_type": "other",
       "summary": "Mostly page reformatting; fee and reward structure unchanged beyond a portfolio-wide eligibility wording addition.",
-      "anchor": "stanc-rewards"
+      "anchor": "stanc-rewards",
+      "status": "unverified",
+      "official_link": "https://www.sc.com/in/credit-cards/rewards-credit-card/?pid=cc_rewardscard_cclp&cid=cc_rewardscard_cclp",
+      "verification_link": null
     }
   ],
   "issuers": [

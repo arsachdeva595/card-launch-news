@@ -12,7 +12,10 @@
       "issuer": "kotak",
       "change_type": "devaluation",
       "summary": "Fuel surcharge waiver removed from the card's benefits.",
-      "anchor": "kotak-nri-royale-signature"
+      "anchor": "kotak-nri-royale-signature",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "kotak-royale-signature",
@@ -20,7 +23,10 @@
       "issuer": "kotak",
       "change_type": "devaluation",
       "summary": "Fuel surcharge waiver removed from the card's benefits.",
-      "anchor": "kotak-royale-signature"
+      "anchor": "kotak-royale-signature",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "kotak-privy-league-signature",
@@ -28,7 +34,10 @@
       "issuer": "kotak",
       "change_type": "devaluation",
       "summary": "Fuel surcharge waiver removed from the card's benefits.",
-      "anchor": "kotak-privy-league-signature"
+      "anchor": "kotak-privy-league-signature",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     }
   ],
   "issuers": [

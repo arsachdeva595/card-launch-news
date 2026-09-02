@@ -5,6 +5,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-infinite-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-vistara-infinite"
@@ -15,6 +18,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "New ₹1,300 fee tier added for dues above ₹50,000.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-kwik-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-kwik"
@@ -25,6 +31,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-signature-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-vistara-signature"
@@ -35,6 +44,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-freecharge"
@@ -45,6 +57,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-lic-signature"
@@ -55,6 +70,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Overdue penalty tiers restructured with a new ₹1,300 band above ₹50,000; DCC markup raised to 3.5%.",
+    "status": "verified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/fibe-axis-bank-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1o0cprz/free_life_time_credit_card_offers_for_this_month/",
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-fibe"
@@ -65,6 +83,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-shoppers-stop-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-shoppers-stop"
@@ -75,6 +96,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee and overdue penalty tiers restructured; DCC markup raised to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-infinite-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-samsung-infinite"
@@ -85,6 +109,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Fee structure and DCC markup updated to the standard new tiers.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-black-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-spicejet-voyage-black"
@@ -95,6 +122,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "International transaction fee and payment due thresholds moved to the standard new pattern.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/pride-signature-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-pride-signature"
@@ -105,6 +135,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-aura-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-aura"
@@ -115,6 +148,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Standard fee/DCC hike, plus gift card and toll spends added to the fee waiver and EDGE reward point exclusion lists.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-select"
@@ -125,6 +161,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Standard fee/DCC hike, plus a clarification that annual fee waiver spend counts by posting date, not purchase date.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-flipkart"
@@ -135,6 +174,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Overdue penalty and DCC markup moved to the standard new tiers.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#axis-privilege"
@@ -145,6 +187,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5% plus taxes.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-vistara"
@@ -155,6 +200,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "DCC markup on international transactions raised from 1.5% to 3.5% plus taxes.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-platinum-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-lic-platinum"
@@ -165,6 +213,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-miles-and-more"
@@ -175,6 +226,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "New ₹1,300 fee tier for dues above ₹50,000; DCC markup raised from 1.5% to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-samsung-signature"
@@ -185,6 +239,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-spicejet-voyage"
@@ -195,6 +252,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axis-bank-super-elite-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-flipkart-super-elite"
@@ -205,6 +265,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/pride-platinum-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-pride-platinum"
@@ -215,6 +278,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/indianoil-premium-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-indianoil-premium"
@@ -225,6 +291,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "DCC markup on international transactions raised from 1.5% to 3.5% plus taxes.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-atlas-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-atlas"
@@ -235,6 +304,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee and DCC markup raised to the standard new tiers, and the annual fee waiver's excluded spend categories expanded well beyond rent and wallet.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/privilege-easy-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-privilege-easy"
@@ -245,6 +317,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/cashback-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-cashback"
@@ -255,6 +330,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "New ₹1,300 fee tier for dues above ₹50,000; DCC markup raised from 1.5% to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-horizon-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-horizon"
@@ -265,6 +343,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/google-pay-flex-axis-bank-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-google-pay-flex"
@@ -275,6 +356,9 @@
     "issuer": "axis",
     "change_type": "devaluation",
     "summary": "Standard fee/DCC hike applied, plus insurance covers (purchase protection, credit shield, travel baggage cover) and MakeMyTrip/Swiggy/Tira discounts removed entirely.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-rewards"
@@ -285,6 +369,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-ace"
@@ -295,6 +382,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-my-zone"
@@ -305,6 +395,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-indianoil-card"
@@ -315,6 +408,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#axis-neo"
@@ -325,6 +421,9 @@
     "issuer": "axis",
     "change_type": "benefit-change",
     "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
+    "status": "unverified",
+    "official_link": null,
+    "verification_link": null,
     "edition_number": 6,
     "edition_date": "2026-08-25",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25#axis-purchase-card"
@@ -335,6 +434,9 @@
     "issuer": "axis",
     "change_type": "benefit-change",
     "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
+    "status": "unverified",
+    "official_link": null,
+    "verification_link": null,
     "edition_number": 6,
     "edition_date": "2026-08-25",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25#axis-purchase-control-virtual"
@@ -345,6 +447,9 @@
     "issuer": "axis",
     "change_type": "fee-increase",
     "summary": "Late payment fees rise to ₹1,200 to ₹1,300 with a recurring ₹100 MAD charge, and forex markup jumps from 1.5% to 3.5% plus taxes.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-plus-credit-card",
+    "verification_link": null,
     "edition_number": 2,
     "edition_date": "2026-08-20",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#axis-bank-freecharge-plus"
@@ -355,6 +460,9 @@
     "issuer": "axis",
     "change_type": "fee-increase",
     "summary": "Same late payment and forex fee hikes as the Freecharge Plus card, plus a clarified Nil late-fee threshold under ₹500.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/airtel-axis-bank-credit-card",
+    "verification_link": null,
     "edition_number": 2,
     "edition_date": "2026-08-20",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#airtel-axis-bank"

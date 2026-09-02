@@ -10,6 +10,7 @@
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { flattenItemsByIssuer } from "./lib/newsletter-verification.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -28,36 +29,6 @@ function readJson(filePath, fallback) {
 function writeJson(filePath, data) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + "\n", "utf8");
-}
-
-function flattenItemsByIssuer(newsletters) {
-  const byIssuer = new Map();
-
-  newsletters.forEach((entry) => {
-    (entry.items || []).forEach((item) => {
-      const flatItem = {
-        card_slug: item.card_slug,
-        card_name: item.card_name,
-        issuer: item.issuer,
-        change_type: item.change_type,
-        summary: item.summary,
-        edition_number: entry.number,
-        edition_date: entry.date,
-        edition_permalink: entry.permalink + "#" + item.card_slug,
-      };
-
-      if (!byIssuer.has(item.issuer)) {
-        byIssuer.set(item.issuer, []);
-      }
-      byIssuer.get(item.issuer).push(flatItem);
-    });
-  });
-
-  byIssuer.forEach((items) => {
-    items.sort((a, b) => (a.edition_date < b.edition_date ? 1 : a.edition_date > b.edition_date ? -1 : 0));
-  });
-
-  return byIssuer;
 }
 
 function main() {

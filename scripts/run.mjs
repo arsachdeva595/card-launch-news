@@ -10,6 +10,7 @@ import { collectRedditBuzz } from "./lib/reddit-buzz.mjs";
 import { notifyTelegram } from "./lib/notify.mjs";
 import { formatLaunchMessage, formatChangeMessage, formatPingMessage, formatRedditBuzzMessage } from "./lib/telegram-format.mjs";
 import { readJson, writeJson, PATHS } from "./lib/state.mjs";
+import { regenerateNewsletterTags } from "./regenerate-newsletter-tags.mjs";
 
 const MAX_LAUNCHES_KEPT = 200;
 const MAX_CHANGES_KEPT = 200;
@@ -250,6 +251,27 @@ async function main() {
   });
 
   await writeJson(PATHS.settings, { ...settings, lastRunAt: nowIso });
+
+  // Re-checks every already-published newsletter item against this run's
+  // fresh changes.json/launches.json/tracked-cards.json, upgrading any
+  // still-unverified item to verified if corroboration has since turned
+  // up (see scripts/regenerate-newsletter-tags.mjs for why this is a
+  // one-way upgrade, never a downgrade). Runs once a day for free by
+  // piggybacking on this existing cron rather than needing a separate
+  // workflow triggered off newsletter pushes; a failure here shouldn't
+  // take down the rest of the run, since it's independent of everything
+  // else this pipeline does.
+  try {
+    const tagResult = await regenerateNewsletterTags();
+    if (tagResult.editionsChecked > 0) {
+      console.log(
+        `Newsletter tags re-checked: ${tagResult.itemsChecked} item(s) across ${tagResult.editionsChecked} edition(s), ` +
+          `${tagResult.upgraded} upgraded to verified.`
+      );
+    }
+  } catch (err) {
+    console.warn(`  ! newsletter tag regeneration failed: ${err.message}`);
+  }
 
   // One message per item (not a bundled summary) so each notification is a
   // complete, self-contained record of what was found — title, links, and

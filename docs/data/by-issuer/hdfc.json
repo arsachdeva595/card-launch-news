@@ -5,6 +5,9 @@
     "issuer": "hdfc",
     "change_type": "discontinuation",
     "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal. Third Pine Labs-linked HDFC card discontinued this week.",
+    "status": "unverified",
+    "official_link": "https://www.hdfc.bank.in/credit-cards/pine-labs-pro-credit-card",
+    "verification_link": null,
     "edition_number": 10,
     "edition_date": "2026-08-29",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-29#hdfc-pine-labs-pro"
@@ -15,6 +18,9 @@
     "issuer": "hdfc",
     "change_type": "discontinuation",
     "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
+    "status": "unverified",
+    "official_link": "https://www.hdfc.bank.in/credit-cards/pine-labs-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#hdfc-pine-labs"
@@ -25,6 +31,9 @@
     "issuer": "hdfc",
     "change_type": "discontinuation",
     "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
+    "status": "unverified",
+    "official_link": "https://www.hdfc.bank.in/credit-cards/retailio-credit-card",
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#hdfc-retailio"

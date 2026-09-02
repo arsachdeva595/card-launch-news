@@ -15,7 +15,10 @@
         "issuer": "standard-chartered",
         "change_type": "fee-change",
         "summary": "New disclosure: processing fees are levied by the 15th of the next calendar month with a separate statement narration. No new fee amount, just billing timing.",
-        "anchor": "stanc-digismart"
+        "anchor": "stanc-digismart",
+        "status": "unverified",
+        "official_link": "https://www.sc.com/in/credit-cards/digismart-card/",
+        "verification_link": null
       },
       {
         "card_slug": "standard-chartered-super-value-titanium",
@@ -23,7 +26,10 @@
         "issuer": "standard-chartered",
         "change_type": "eligibility-change",
         "summary": "Specific ₹55,000/month income requirement removed, replaced with vaguer 'stable monthly income' wording; annual value chart appears mismatched (likely a page template error, not a real cashback change).",
-        "anchor": "standard-chartered-super-value-titanium"
+        "anchor": "standard-chartered-super-value-titanium",
+        "status": "unverified",
+        "official_link": "https://www.sc.com/in/credit-cards/super-value-titanium/",
+        "verification_link": null
       },
       {
         "card_slug": "stanc-manhattan",
@@ -31,7 +37,10 @@
         "issuer": "standard-chartered",
         "change_type": "eligibility-change",
         "summary": "Minimum applicant age lowered from 21 to 18 years.",
-        "anchor": "stanc-manhattan"
+        "anchor": "stanc-manhattan",
+        "status": "unverified",
+        "official_link": "https://www.sc.com/in/credit-cards/manhattan-platinum/",
+        "verification_link": null
       },
       {
         "card_slug": "stanc-priority-visa-infinite",
@@ -39,7 +48,10 @@
         "issuer": "standard-chartered",
         "change_type": "benefit-change",
         "summary": "Page now documents detailed reward rates, lounge access counts, and overseas insurance cover amounts; self-employed applicants must now submit IT Returns and Business Continuity proof.",
-        "anchor": "stanc-priority-visa-infinite"
+        "anchor": "stanc-priority-visa-infinite",
+        "status": "unverified",
+        "official_link": "https://www.sc.com/in/credit-cards/priority-banking-visa-infinite/",
+        "verification_link": null
       },
       {
         "card_slug": "stanc-smart",
@@ -47,7 +59,10 @@
         "issuer": "standard-chartered",
         "change_type": "other",
         "summary": "Mostly page reformatting; no material change to fees or benefits beyond a portfolio-wide eligibility wording addition.",
-        "anchor": "stanc-smart"
+        "anchor": "stanc-smart",
+        "status": "unverified",
+        "official_link": "https://www.sc.com/in/credit-cards/smart-credit-card/?pid=cc_smartcard_cclp&cid=cc_smartcard_cclp",
+        "verification_link": null
       },
       {
         "card_slug": "stanc-ultimate",
@@ -55,7 +70,10 @@
         "issuer": "standard-chartered",
         "change_type": "fee-change",
         "summary": "New 1% (plus taxes) processing fee added on rent payments made via third-party platforms; also gained a detailed ₹74,150 annual benefit value chart.",
-        "anchor": "stanc-ultimate"
+        "anchor": "stanc-ultimate",
+        "status": "unverified",
+        "official_link": "https://www.sc.com/in/credit-cards/ultimate-card/?pid=cc_ultimatecard_cclp&cid=cc_ultimatecard_cclp",
+        "verification_link": null
       },
       {
         "card_slug": "stanc-rewards",
@@ -63,7 +81,10 @@
         "issuer": "standard-chartered",
         "change_type": "other",
         "summary": "Mostly page reformatting; fee and reward structure unchanged beyond a portfolio-wide eligibility wording addition.",
-        "anchor": "stanc-rewards"
+        "anchor": "stanc-rewards",
+        "status": "unverified",
+        "official_link": "https://www.sc.com/in/credit-cards/rewards-credit-card/?pid=cc_rewardscard_cclp&cid=cc_rewardscard_cclp",
+        "verification_link": null
       }
     ]
   },
@@ -83,7 +104,10 @@
         "issuer": "hdfc",
         "change_type": "discontinuation",
         "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal. Third Pine Labs-linked HDFC card discontinued this week.",
-        "anchor": "hdfc-pine-labs-pro"
+        "anchor": "hdfc-pine-labs-pro",
+        "status": "unverified",
+        "official_link": "https://www.hdfc.bank.in/credit-cards/pine-labs-pro-credit-card",
+        "verification_link": null
       }
     ]
   },
@@ -105,7 +129,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
-        "anchor": "axis-vistara-infinite"
+        "anchor": "axis-vistara-infinite",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-infinite-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-kwik",
@@ -113,7 +140,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "New ₹1,300 fee tier added for dues above ₹50,000.",
-        "anchor": "axis-kwik"
+        "anchor": "axis-kwik",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-kwik-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-vistara-signature",
@@ -121,7 +151,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
-        "anchor": "axis-vistara-signature"
+        "anchor": "axis-vistara-signature",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-signature-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-freecharge",
@@ -129,7 +162,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
-        "anchor": "axis-freecharge"
+        "anchor": "axis-freecharge",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-lic-signature",
@@ -137,7 +173,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
-        "anchor": "axis-lic-signature"
+        "anchor": "axis-lic-signature",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-fibe",
@@ -145,7 +184,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Overdue penalty tiers restructured with a new ₹1,300 band above ₹50,000; DCC markup raised to 3.5%.",
-        "anchor": "axis-fibe"
+        "anchor": "axis-fibe",
+        "status": "verified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/fibe-axis-bank-credit-card",
+        "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1o0cprz/free_life_time_credit_card_offers_for_this_month/"
       },
       {
         "card_slug": "axis-shoppers-stop",
@@ -153,7 +195,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-        "anchor": "axis-shoppers-stop"
+        "anchor": "axis-shoppers-stop",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-shoppers-stop-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-samsung-infinite",
@@ -161,7 +206,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee and overdue penalty tiers restructured; DCC markup raised to 3.5%.",
-        "anchor": "axis-samsung-infinite"
+        "anchor": "axis-samsung-infinite",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-infinite-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-spicejet-voyage-black",
@@ -169,7 +217,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Fee structure and DCC markup updated to the standard new tiers.",
-        "anchor": "axis-spicejet-voyage-black"
+        "anchor": "axis-spicejet-voyage-black",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-black-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-pride-signature",
@@ -177,7 +228,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "International transaction fee and payment due thresholds moved to the standard new pattern.",
-        "anchor": "axis-pride-signature"
+        "anchor": "axis-pride-signature",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/pride-signature-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-aura",
@@ -185,7 +239,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
-        "anchor": "axis-aura"
+        "anchor": "axis-aura",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-aura-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-select",
@@ -193,7 +250,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Standard fee/DCC hike, plus gift card and toll spends added to the fee waiver and EDGE reward point exclusion lists.",
-        "anchor": "axis-select"
+        "anchor": "axis-select",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-flipkart",
@@ -201,7 +261,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Standard fee/DCC hike, plus a clarification that annual fee waiver spend counts by posting date, not purchase date.",
-        "anchor": "axis-flipkart"
+        "anchor": "axis-flipkart",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-privilege",
@@ -209,7 +272,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Overdue penalty and DCC markup moved to the standard new tiers.",
-        "anchor": "axis-privilege"
+        "anchor": "axis-privilege",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+        "verification_link": null
       },
       {
         "card_slug": "hdfc-pine-labs",
@@ -217,7 +283,10 @@
         "issuer": "hdfc",
         "change_type": "discontinuation",
         "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
-        "anchor": "hdfc-pine-labs"
+        "anchor": "hdfc-pine-labs",
+        "status": "unverified",
+        "official_link": "https://www.hdfc.bank.in/credit-cards/pine-labs-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "hdfc-retailio",
@@ -225,7 +294,10 @@
         "issuer": "hdfc",
         "change_type": "discontinuation",
         "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
-        "anchor": "hdfc-retailio"
+        "anchor": "hdfc-retailio",
+        "status": "unverified",
+        "official_link": "https://www.hdfc.bank.in/credit-cards/retailio-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "amex-platinum-reserve",
@@ -233,7 +305,10 @@
         "issuer": "american-express",
         "change_type": "reward-change",
         "summary": "New welcome gift added: 11,000 bonus Membership Rewards points.",
-        "anchor": "amex-platinum-reserve"
+        "anchor": "amex-platinum-reserve",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "amex-platinum",
@@ -241,7 +316,10 @@
         "issuer": "american-express",
         "change_type": "fee-change",
         "summary": "Annual fee listed at ₹66,000 plus taxes, alongside a new welcome gift worth up to ₹60,000 (Taj Hotels, Luxe Gift Card, or Postcard Hotels & Resorts).",
-        "anchor": "amex-platinum"
+        "anchor": "amex-platinum",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       }
     ]
   },
@@ -263,7 +341,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5% plus taxes.",
-        "anchor": "axis-vistara"
+        "anchor": "axis-vistara",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-lic-platinum",
@@ -271,7 +352,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "DCC markup on international transactions raised from 1.5% to 3.5% plus taxes.",
-        "anchor": "axis-lic-platinum"
+        "anchor": "axis-lic-platinum",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-platinum-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-miles-and-more",
@@ -279,7 +363,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
-        "anchor": "axis-miles-and-more"
+        "anchor": "axis-miles-and-more",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-samsung-signature",
@@ -287,7 +374,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "New ₹1,300 fee tier for dues above ₹50,000; DCC markup raised from 1.5% to 3.5%.",
-        "anchor": "axis-samsung-signature"
+        "anchor": "axis-samsung-signature",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-spicejet-voyage",
@@ -295,7 +385,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-        "anchor": "axis-spicejet-voyage"
+        "anchor": "axis-spicejet-voyage",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-flipkart-super-elite",
@@ -303,7 +396,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-        "anchor": "axis-flipkart-super-elite"
+        "anchor": "axis-flipkart-super-elite",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axis-bank-super-elite-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-pride-platinum",
@@ -311,7 +407,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5%.",
-        "anchor": "axis-pride-platinum"
+        "anchor": "axis-pride-platinum",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/pride-platinum-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-indianoil-premium",
@@ -319,7 +418,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5%.",
-        "anchor": "axis-indianoil-premium"
+        "anchor": "axis-indianoil-premium",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/indianoil-premium-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-atlas",
@@ -327,7 +429,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "DCC markup on international transactions raised from 1.5% to 3.5% plus taxes.",
-        "anchor": "axis-atlas"
+        "anchor": "axis-atlas",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-atlas-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-privilege-easy",
@@ -335,7 +440,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee and DCC markup raised to the standard new tiers, and the annual fee waiver's excluded spend categories expanded well beyond rent and wallet.",
-        "anchor": "axis-privilege-easy"
+        "anchor": "axis-privilege-easy",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/privilege-easy-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-cashback",
@@ -343,7 +451,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-        "anchor": "axis-cashback"
+        "anchor": "axis-cashback",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/cashback-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-horizon",
@@ -351,7 +462,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "New ₹1,300 fee tier for dues above ₹50,000; DCC markup raised from 1.5% to 3.5%.",
-        "anchor": "axis-horizon"
+        "anchor": "axis-horizon",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-horizon-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-google-pay-flex",
@@ -359,7 +473,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-        "anchor": "axis-google-pay-flex"
+        "anchor": "axis-google-pay-flex",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/google-pay-flex-axis-bank-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-rewards",
@@ -367,7 +484,10 @@
         "issuer": "axis",
         "change_type": "devaluation",
         "summary": "Standard fee/DCC hike applied, plus insurance covers (purchase protection, credit shield, travel baggage cover) and MakeMyTrip/Swiggy/Tira discounts removed entirely.",
-        "anchor": "axis-rewards"
+        "anchor": "axis-rewards",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-ace",
@@ -375,7 +495,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-        "anchor": "axis-ace"
+        "anchor": "axis-ace",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-my-zone",
@@ -383,7 +506,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
-        "anchor": "axis-my-zone"
+        "anchor": "axis-my-zone",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-indianoil-card",
@@ -391,7 +517,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-        "anchor": "axis-indianoil-card"
+        "anchor": "axis-indianoil-card",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "axis-neo",
@@ -399,7 +528,10 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-        "anchor": "axis-neo"
+        "anchor": "axis-neo",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "hsbc-taj",
@@ -407,7 +539,10 @@
         "issuer": "hsbc",
         "change_type": "reward-change",
         "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on Account Aggregator income document submission, valid until 31 August 2026.",
-        "anchor": "hsbc-taj"
+        "anchor": "hsbc-taj",
+        "status": "unverified",
+        "official_link": "https://www.hsbc.co.in/credit-cards/products/taj/",
+        "verification_link": null
       },
       {
         "card_slug": "hsbc-travelone",
@@ -415,7 +550,10 @@
         "issuer": "hsbc",
         "change_type": "reward-change",
         "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on Account Aggregator income document submission.",
-        "anchor": "hsbc-travelone"
+        "anchor": "hsbc-travelone",
+        "status": "unverified",
+        "official_link": "https://www.hsbc.co.in/credit-cards/products/travelone/",
+        "verification_link": null
       },
       {
         "card_slug": "hsbc-premier",
@@ -423,7 +561,10 @@
         "issuer": "hsbc",
         "change_type": "reward-change",
         "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days of card issuance.",
-        "anchor": "hsbc-premier"
+        "anchor": "hsbc-premier",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "hsbc-visa-platinum",
@@ -431,7 +572,10 @@
         "issuer": "hsbc",
         "change_type": "reward-change",
         "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on account aggregation.",
-        "anchor": "hsbc-visa-platinum"
+        "anchor": "hsbc-visa-platinum",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "amex-corporate-gold",
@@ -439,7 +583,10 @@
         "issuer": "american-express",
         "change_type": "other",
         "summary": "Reward earn rate wording clarified; no change to the actual points structure.",
-        "anchor": "amex-corporate-gold"
+        "anchor": "amex-corporate-gold",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "amex-gold",
@@ -447,7 +594,10 @@
         "issuer": "american-express",
         "change_type": "reward-change",
         "summary": "New welcome gift added: 4,000 bonus Membership Rewards points.",
-        "anchor": "amex-gold"
+        "anchor": "amex-gold",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "amex-membership-rewards",
@@ -455,7 +605,10 @@
         "issuer": "american-express",
         "change_type": "reward-change",
         "summary": "New welcome gift added: 4,000 bonus Membership Rewards points.",
-        "anchor": "amex-membership-rewards"
+        "anchor": "amex-membership-rewards",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "amex-smartearn",
@@ -463,7 +616,10 @@
         "issuer": "american-express",
         "change_type": "reward-change",
         "summary": "New welcome cashback added: ₹500 for spending ₹10,000 within the first 90 days.",
-        "anchor": "amex-smartearn"
+        "anchor": "amex-smartearn",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       }
     ]
   },
@@ -483,7 +639,10 @@
         "issuer": "rbl",
         "change_type": "other",
         "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
-        "anchor": "rbl-shoppers-stop-black"
+        "anchor": "rbl-shoppers-stop-black",
+        "status": "verified",
+        "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
+        "verification_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card"
       },
       {
         "card_slug": "rbl-shoppers-stop-gold",
@@ -491,7 +650,10 @@
         "issuer": "rbl",
         "change_type": "other",
         "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
-        "anchor": "rbl-shoppers-stop-gold"
+        "anchor": "rbl-shoppers-stop-gold",
+        "status": "verified",
+        "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
+        "verification_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card"
       },
       {
         "card_slug": "rbl-shoppers-stop-platinum",
@@ -499,7 +661,10 @@
         "issuer": "rbl",
         "change_type": "other",
         "summary": "Network availability narrowed from Visa and MasterCard to Visa only for new applicants.",
-        "anchor": "rbl-shoppers-stop-platinum"
+        "anchor": "rbl-shoppers-stop-platinum",
+        "status": "verified",
+        "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
+        "verification_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card"
       }
     ]
   },
@@ -522,7 +687,10 @@
         "issuer": "rbl",
         "change_type": "benefit-change",
         "summary": "Welcome benefit window changed from a flat 3 months after issuance to 60 days after the first statement is generated.",
-        "anchor": "rbl-bank-play"
+        "anchor": "rbl-bank-play",
+        "status": "unverified",
+        "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-play-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "standard-chartered-super-value-titanium",
@@ -530,7 +698,10 @@
         "issuer": "standard-chartered",
         "change_type": "fee-change",
         "summary": "Renewal fee is now waived for spends of ₹90,000 or more in the preceding year; an Eligibility & Documents section was also added.",
-        "anchor": "standard-chartered-super-value-titanium"
+        "anchor": "standard-chartered-super-value-titanium",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "icici-times-black",
@@ -538,7 +709,10 @@
         "issuer": "icici",
         "change_type": "benefit-change",
         "summary": "Lounge access network expanded from 1,400+ to 1,900+ lounges worldwide, same 145+ country coverage.",
-        "anchor": "icici-times-black"
+        "anchor": "icici-times-black",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "axis-purchase-card",
@@ -546,7 +720,10 @@
         "issuer": "axis",
         "change_type": "benefit-change",
         "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
-        "anchor": "axis-purchase-card"
+        "anchor": "axis-purchase-card",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "axis-purchase-control-virtual",
@@ -554,7 +731,10 @@
         "issuer": "axis",
         "change_type": "benefit-change",
         "summary": "24x7 Concierge Services benefit removed and replaced with a 24x7 Golf benefit.",
-        "anchor": "axis-purchase-control-virtual"
+        "anchor": "axis-purchase-control-virtual",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       }
     ]
   },
@@ -574,7 +754,10 @@
         "issuer": "kotak",
         "change_type": "devaluation",
         "summary": "Fuel surcharge waiver removed from the card's benefits.",
-        "anchor": "kotak-nri-royale-signature"
+        "anchor": "kotak-nri-royale-signature",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "kotak-royale-signature",
@@ -582,7 +765,10 @@
         "issuer": "kotak",
         "change_type": "devaluation",
         "summary": "Fuel surcharge waiver removed from the card's benefits.",
-        "anchor": "kotak-royale-signature"
+        "anchor": "kotak-royale-signature",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "kotak-privy-league-signature",
@@ -590,7 +776,10 @@
         "issuer": "kotak",
         "change_type": "devaluation",
         "summary": "Fuel surcharge waiver removed from the card's benefits.",
-        "anchor": "kotak-privy-league-signature"
+        "anchor": "kotak-privy-league-signature",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       }
     ]
   },
@@ -610,7 +799,10 @@
         "issuer": "kotak",
         "change_type": "devaluation",
         "summary": "Fuel surcharge waiver (1% on Rs. 500-3,000 fuel transactions, capped at Rs. 3,500/year) removed from the card's benefits.",
-        "anchor": "kotak-corporate-platinum"
+        "anchor": "kotak-corporate-platinum",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "kotak-corporate-wealth-signature",
@@ -618,7 +810,10 @@
         "issuer": "kotak",
         "change_type": "devaluation",
         "summary": "Fuel surcharge waiver (1% on Rs. 500-3,000 fuel transactions, capped at Rs. 3,500/year) removed from the card's benefits.",
-        "anchor": "kotak-corporate-wealth-signature"
+        "anchor": "kotak-corporate-wealth-signature",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "kotak-solitaire-business",
@@ -626,7 +821,10 @@
         "issuer": "kotak",
         "change_type": "devaluation",
         "summary": "Fuel surcharge waiver (1% on Rs. 500-5,000 fuel transactions across all petrol pumps) removed from the card's benefits.",
-        "anchor": "kotak-solitaire-business"
+        "anchor": "kotak-solitaire-business",
+        "status": "unverified",
+        "official_link": null,
+        "verification_link": null
       },
       {
         "card_slug": "kotak-solitaire",
@@ -634,7 +832,10 @@
         "issuer": "kotak",
         "change_type": "devaluation",
         "summary": "Fuel surcharge waiver removed from the card's benefits table; exact rupee bracket not republished by Kotak.",
-        "anchor": "kotak-solitaire"
+        "anchor": "kotak-solitaire",
+        "status": "unverified",
+        "official_link": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-solitaire-credit-card.html",
+        "verification_link": null
       }
     ]
   },
@@ -656,7 +857,10 @@
         "issuer": "kotak",
         "change_type": "benefit-change",
         "summary": "Add-on card limit raised from 3 to 4 per primary card.",
-        "anchor": "kotak-solitaire"
+        "anchor": "kotak-solitaire",
+        "status": "unverified",
+        "official_link": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-solitaire-credit-card.html",
+        "verification_link": null
       },
       {
         "card_slug": "indusind-crest",
@@ -664,7 +868,10 @@
         "issuer": "indusind",
         "change_type": "benefit-change",
         "summary": "Complimentary ITC Hotels membership discontinued, golf benefit improved to 2 games and 2 lessons a month, and a new spend-tracking gate on domestic lounge access starts April 2026.",
-        "anchor": "indusind-crest"
+        "anchor": "indusind-crest",
+        "status": "unverified",
+        "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/crest-credit-card.html",
+        "verification_link": null
       },
       {
         "card_slug": "icici-amazon-pay",
@@ -672,7 +879,10 @@
         "issuer": "icici",
         "change_type": "eligibility-change",
         "summary": "Minimum salaried income requirement raised from ₹20,000 to ₹30,000 per month for new applicants.",
-        "anchor": "icici-amazon-pay"
+        "anchor": "icici-amazon-pay",
+        "status": "unverified",
+        "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+        "verification_link": null
       }
     ]
   },
@@ -693,7 +903,10 @@
         "issuer": "axis",
         "change_type": "fee-increase",
         "summary": "Late payment fees rise to ₹1,200 to ₹1,300 with a recurring ₹100 MAD charge, and forex markup jumps from 1.5% to 3.5% plus taxes.",
-        "anchor": "axis-bank-freecharge-plus"
+        "anchor": "axis-bank-freecharge-plus",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-plus-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "airtel-axis-bank",
@@ -701,7 +914,10 @@
         "issuer": "axis",
         "change_type": "fee-increase",
         "summary": "Same late payment and forex fee hikes as the Freecharge Plus card, plus a clarified Nil late-fee threshold under ₹500.",
-        "anchor": "airtel-axis-bank"
+        "anchor": "airtel-axis-bank",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/airtel-axis-bank-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "indusind-duo-card",
@@ -709,7 +925,10 @@
         "issuer": "indusind",
         "change_type": "discontinued",
         "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now.",
-        "anchor": "indusind-duo-card"
+        "anchor": "indusind-duo-card",
+        "status": "verified",
+        "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html",
+        "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html"
       },
       {
         "card_slug": "indusind-intermiles-voyage-amex",
@@ -717,7 +936,10 @@
         "issuer": "indusind",
         "change_type": "discontinued",
         "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
-        "anchor": "indusind-intermiles-voyage-amex"
+        "anchor": "indusind-intermiles-voyage-amex",
+        "status": "verified",
+        "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-amex-credit-card.html",
+        "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-amex-credit-card.html"
       },
       {
         "card_slug": "indusind-intermiles-voyage-visa",
@@ -725,7 +947,10 @@
         "issuer": "indusind",
         "change_type": "discontinued",
         "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
-        "anchor": "indusind-intermiles-voyage-visa"
+        "anchor": "indusind-intermiles-voyage-visa",
+        "status": "verified",
+        "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-visa-credit-card.html",
+        "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-visa-credit-card.html"
       },
       {
         "card_slug": "indusind-intermiles-odyssey-amex",
@@ -733,7 +958,10 @@
         "issuer": "indusind",
         "change_type": "discontinued",
         "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
-        "anchor": "indusind-intermiles-odyssey-amex"
+        "anchor": "indusind-intermiles-odyssey-amex",
+        "status": "verified",
+        "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-amex-credit-card.html",
+        "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-amex-credit-card.html"
       },
       {
         "card_slug": "indusind-intermiles-odyssey-visa",
@@ -741,7 +969,10 @@
         "issuer": "indusind",
         "change_type": "discontinued",
         "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
-        "anchor": "indusind-intermiles-odyssey-visa"
+        "anchor": "indusind-intermiles-odyssey-visa",
+        "status": "verified",
+        "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-visa-credit-card.html",
+        "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-visa-credit-card.html"
       },
       {
         "card_slug": "indusind-poonawalla-elite-rupay",
@@ -749,7 +980,10 @@
         "issuer": "indusind",
         "change_type": "discontinued",
         "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now.",
-        "anchor": "indusind-poonawalla-elite-rupay"
+        "anchor": "indusind-poonawalla-elite-rupay",
+        "status": "unverified",
+        "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/poonawalla-platinum-rupay-credit-card.html",
+        "verification_link": null
       }
     ]
   },
@@ -771,7 +1005,10 @@
         "issuer": "icici",
         "change_type": "benefit-improvement",
         "summary": "Domestic lounge access is now unlimited and immediate, the old ₹75,000-a-quarter spend threshold and one-quarter wait are gone.",
-        "anchor": "icici-emirates-emeralde"
+        "anchor": "icici-emirates-emeralde",
+        "status": "unverified",
+        "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
+        "verification_link": null
       },
       {
         "card_slug": "hsbc-taj-credit-card",
@@ -779,7 +1016,10 @@
         "issuer": "hsbc",
         "change_type": "new-offer",
         "summary": "New offer: 20% off at Amazon, capped at ₹5,000, on ₹10,000 or more spent in a single month.",
-        "anchor": "hsbc-taj-credit-card"
+        "anchor": "hsbc-taj-credit-card",
+        "status": "unverified",
+        "official_link": "https://www.hsbc.co.in/credit-cards/products/taj/",
+        "verification_link": null
       },
       {
         "card_slug": "equitas-powermiles",
@@ -787,7 +1027,10 @@
         "issuer": "equitas-sfb",
         "change_type": "new-redemption-option",
         "summary": "Reward points can now be redeemed 1:1 for e-gift vouchers from Apple, Tanishq, Taj Hotels, Marks & Spencer, and The Body Shop.",
-        "anchor": "equitas-powermiles"
+        "anchor": "equitas-powermiles",
+        "status": "unverified",
+        "official_link": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
+        "verification_link": null
       }
     ]
   }

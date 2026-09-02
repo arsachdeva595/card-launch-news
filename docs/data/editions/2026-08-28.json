@@ -12,7 +12,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
-      "anchor": "axis-vistara-infinite"
+      "anchor": "axis-vistara-infinite",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-infinite-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-kwik",
@@ -20,7 +23,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "New ₹1,300 fee tier added for dues above ₹50,000.",
-      "anchor": "axis-kwik"
+      "anchor": "axis-kwik",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-kwik-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-vistara-signature",
@@ -28,7 +34,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "₹1,200 fee narrowed to the ₹10,001-50,000 band; new ₹1,300 tier for dues above ₹50,000.",
-      "anchor": "axis-vistara-signature"
+      "anchor": "axis-vistara-signature",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-signature-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-freecharge",
@@ -36,7 +45,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
-      "anchor": "axis-freecharge"
+      "anchor": "axis-freecharge",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-lic-signature",
@@ -44,7 +56,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
-      "anchor": "axis-lic-signature"
+      "anchor": "axis-lic-signature",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-fibe",
@@ -52,7 +67,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Overdue penalty tiers restructured with a new ₹1,300 band above ₹50,000; DCC markup raised to 3.5%.",
-      "anchor": "axis-fibe"
+      "anchor": "axis-fibe",
+      "status": "verified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/fibe-axis-bank-credit-card",
+      "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1o0cprz/free_life_time_credit_card_offers_for_this_month/"
     },
     {
       "card_slug": "axis-shoppers-stop",
@@ -60,7 +78,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-      "anchor": "axis-shoppers-stop"
+      "anchor": "axis-shoppers-stop",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-shoppers-stop-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-samsung-infinite",
@@ -68,7 +89,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee and overdue penalty tiers restructured; DCC markup raised to 3.5%.",
-      "anchor": "axis-samsung-infinite"
+      "anchor": "axis-samsung-infinite",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-infinite-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-spicejet-voyage-black",
@@ -76,7 +100,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Fee structure and DCC markup updated to the standard new tiers.",
-      "anchor": "axis-spicejet-voyage-black"
+      "anchor": "axis-spicejet-voyage-black",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-black-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-pride-signature",
@@ -84,7 +111,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "International transaction fee and payment due thresholds moved to the standard new pattern.",
-      "anchor": "axis-pride-signature"
+      "anchor": "axis-pride-signature",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/pride-signature-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-aura",
@@ -92,7 +122,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
-      "anchor": "axis-aura"
+      "anchor": "axis-aura",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-aura-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-select",
@@ -100,7 +133,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Standard fee/DCC hike, plus gift card and toll spends added to the fee waiver and EDGE reward point exclusion lists.",
-      "anchor": "axis-select"
+      "anchor": "axis-select",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-flipkart",
@@ -108,7 +144,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Standard fee/DCC hike, plus a clarification that annual fee waiver spend counts by posting date, not purchase date.",
-      "anchor": "axis-flipkart"
+      "anchor": "axis-flipkart",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-privilege",
@@ -116,7 +155,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Overdue penalty and DCC markup moved to the standard new tiers.",
-      "anchor": "axis-privilege"
+      "anchor": "axis-privilege",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+      "verification_link": null
     },
     {
       "card_slug": "hdfc-pine-labs",
@@ -124,7 +166,10 @@
       "issuer": "hdfc",
       "change_type": "discontinuation",
       "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
-      "anchor": "hdfc-pine-labs"
+      "anchor": "hdfc-pine-labs",
+      "status": "unverified",
+      "official_link": "https://www.hdfc.bank.in/credit-cards/pine-labs-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "hdfc-retailio",
@@ -132,7 +177,10 @@
       "issuer": "hdfc",
       "change_type": "discontinuation",
       "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal.",
-      "anchor": "hdfc-retailio"
+      "anchor": "hdfc-retailio",
+      "status": "unverified",
+      "official_link": "https://www.hdfc.bank.in/credit-cards/retailio-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "amex-platinum-reserve",
@@ -140,7 +188,10 @@
       "issuer": "american-express",
       "change_type": "reward-change",
       "summary": "New welcome gift added: 11,000 bonus Membership Rewards points.",
-      "anchor": "amex-platinum-reserve"
+      "anchor": "amex-platinum-reserve",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "amex-platinum",
@@ -148,7 +199,10 @@
       "issuer": "american-express",
       "change_type": "fee-change",
       "summary": "Annual fee listed at ₹66,000 plus taxes, alongside a new welcome gift worth up to ₹60,000 (Taj Hotels, Luxe Gift Card, or Postcard Hotels & Resorts).",
-      "anchor": "amex-platinum"
+      "anchor": "amex-platinum",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     }
   ],
   "issuers": [

@@ -12,7 +12,10 @@
       "issuer": "axis",
       "change_type": "fee-increase",
       "summary": "Late payment fees rise to ₹1,200 to ₹1,300 with a recurring ₹100 MAD charge, and forex markup jumps from 1.5% to 3.5% plus taxes.",
-      "anchor": "axis-bank-freecharge-plus"
+      "anchor": "axis-bank-freecharge-plus",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-plus-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "airtel-axis-bank",
@@ -20,7 +23,10 @@
       "issuer": "axis",
       "change_type": "fee-increase",
       "summary": "Same late payment and forex fee hikes as the Freecharge Plus card, plus a clarified Nil late-fee threshold under ₹500.",
-      "anchor": "airtel-axis-bank"
+      "anchor": "airtel-axis-bank",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/airtel-axis-bank-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "indusind-duo-card",
@@ -28,7 +34,10 @@
       "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now.",
-      "anchor": "indusind-duo-card"
+      "anchor": "indusind-duo-card",
+      "status": "verified",
+      "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html",
+      "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html"
     },
     {
       "card_slug": "indusind-intermiles-voyage-amex",
@@ -36,7 +45,10 @@
       "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
-      "anchor": "indusind-intermiles-voyage-amex"
+      "anchor": "indusind-intermiles-voyage-amex",
+      "status": "verified",
+      "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-amex-credit-card.html",
+      "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-amex-credit-card.html"
     },
     {
       "card_slug": "indusind-intermiles-voyage-visa",
@@ -44,7 +56,10 @@
       "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
-      "anchor": "indusind-intermiles-voyage-visa"
+      "anchor": "indusind-intermiles-voyage-visa",
+      "status": "verified",
+      "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-visa-credit-card.html",
+      "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-visa-credit-card.html"
     },
     {
       "card_slug": "indusind-intermiles-odyssey-amex",
@@ -52,7 +67,10 @@
       "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
-      "anchor": "indusind-intermiles-odyssey-amex"
+      "anchor": "indusind-intermiles-odyssey-amex",
+      "status": "verified",
+      "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-amex-credit-card.html",
+      "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-amex-credit-card.html"
     },
     {
       "card_slug": "indusind-intermiles-odyssey-visa",
@@ -60,7 +78,10 @@
       "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
-      "anchor": "indusind-intermiles-odyssey-visa"
+      "anchor": "indusind-intermiles-odyssey-visa",
+      "status": "verified",
+      "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-visa-credit-card.html",
+      "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-visa-credit-card.html"
     },
     {
       "card_slug": "indusind-poonawalla-elite-rupay",
@@ -68,7 +89,10 @@
       "issuer": "indusind",
       "change_type": "discontinued",
       "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now.",
-      "anchor": "indusind-poonawalla-elite-rupay"
+      "anchor": "indusind-poonawalla-elite-rupay",
+      "status": "unverified",
+      "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/poonawalla-platinum-rupay-credit-card.html",
+      "verification_link": null
     }
   ],
   "issuers": [

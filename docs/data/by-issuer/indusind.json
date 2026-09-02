@@ -5,6 +5,9 @@
     "issuer": "indusind",
     "change_type": "benefit-change",
     "summary": "Complimentary ITC Hotels membership discontinued, golf benefit improved to 2 games and 2 lessons a month, and a new spend-tracking gate on domestic lounge access starts April 2026.",
+    "status": "unverified",
+    "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/crest-credit-card.html",
+    "verification_link": null,
     "edition_number": 3,
     "edition_date": "2026-08-21",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-21#indusind-crest"
@@ -15,6 +18,9 @@
     "issuer": "indusind",
     "change_type": "discontinued",
     "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now.",
+    "status": "verified",
+    "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html",
+    "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html",
     "edition_number": 2,
     "edition_date": "2026-08-20",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#indusind-duo-card"
@@ -25,6 +31,9 @@
     "issuer": "indusind",
     "change_type": "discontinued",
     "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
+    "status": "verified",
+    "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-amex-credit-card.html",
+    "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-amex-credit-card.html",
     "edition_number": 2,
     "edition_date": "2026-08-20",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#indusind-intermiles-voyage-amex"
@@ -35,6 +44,9 @@
     "issuer": "indusind",
     "change_type": "discontinued",
     "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
+    "status": "verified",
+    "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-visa-credit-card.html",
+    "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-visa-credit-card.html",
     "edition_number": 2,
     "edition_date": "2026-08-20",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#indusind-intermiles-voyage-visa"
@@ -45,6 +57,9 @@
     "issuer": "indusind",
     "change_type": "discontinued",
     "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
+    "status": "verified",
+    "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-amex-credit-card.html",
+    "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-amex-credit-card.html",
     "edition_number": 2,
     "edition_date": "2026-08-20",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#indusind-intermiles-odyssey-amex"
@@ -55,6 +70,9 @@
     "issuer": "indusind",
     "change_type": "discontinued",
     "summary": "Marked Discontinued, closed to new applicants; support email moved to premium.care@indusind.com.",
+    "status": "verified",
+    "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-visa-credit-card.html",
+    "verification_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-visa-credit-card.html",
     "edition_number": 2,
     "edition_date": "2026-08-20",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#indusind-intermiles-odyssey-visa"
@@ -65,6 +83,9 @@
     "issuer": "indusind",
     "change_type": "discontinued",
     "summary": "Marked Discontinued, closed to new applicants; existing cardholders are unaffected for now.",
+    "status": "unverified",
+    "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/poonawalla-platinum-rupay-credit-card.html",
+    "verification_link": null,
     "edition_number": 2,
     "edition_date": "2026-08-20",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-20#indusind-poonawalla-elite-rupay"

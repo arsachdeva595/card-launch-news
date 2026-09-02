@@ -12,7 +12,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5% plus taxes.",
-      "anchor": "axis-vistara"
+      "anchor": "axis-vistara",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-lic-platinum",
@@ -20,7 +23,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "DCC markup on international transactions raised from 1.5% to 3.5% plus taxes.",
-      "anchor": "axis-lic-platinum"
+      "anchor": "axis-lic-platinum",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-platinum-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-miles-and-more",
@@ -28,7 +34,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5% plus taxes.",
-      "anchor": "axis-miles-and-more"
+      "anchor": "axis-miles-and-more",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-samsung-signature",
@@ -36,7 +45,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "New ₹1,300 fee tier for dues above ₹50,000; DCC markup raised from 1.5% to 3.5%.",
-      "anchor": "axis-samsung-signature"
+      "anchor": "axis-samsung-signature",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-spicejet-voyage",
@@ -44,7 +56,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-      "anchor": "axis-spicejet-voyage"
+      "anchor": "axis-spicejet-voyage",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-flipkart-super-elite",
@@ -52,7 +67,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-      "anchor": "axis-flipkart-super-elite"
+      "anchor": "axis-flipkart-super-elite",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axis-bank-super-elite-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-pride-platinum",
@@ -60,7 +78,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5%.",
-      "anchor": "axis-pride-platinum"
+      "anchor": "axis-pride-platinum",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/pride-platinum-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-indianoil-premium",
@@ -68,7 +89,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised from 1.5% to 3.5%.",
-      "anchor": "axis-indianoil-premium"
+      "anchor": "axis-indianoil-premium",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/indianoil-premium-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-atlas",
@@ -76,7 +100,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "DCC markup on international transactions raised from 1.5% to 3.5% plus taxes.",
-      "anchor": "axis-atlas"
+      "anchor": "axis-atlas",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-atlas-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-privilege-easy",
@@ -84,7 +111,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee and DCC markup raised to the standard new tiers, and the annual fee waiver's excluded spend categories expanded well beyond rent and wallet.",
-      "anchor": "axis-privilege-easy"
+      "anchor": "axis-privilege-easy",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/privilege-easy-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-cashback",
@@ -92,7 +122,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-      "anchor": "axis-cashback"
+      "anchor": "axis-cashback",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/cashback-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-horizon",
@@ -100,7 +133,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "New ₹1,300 fee tier for dues above ₹50,000; DCC markup raised from 1.5% to 3.5%.",
-      "anchor": "axis-horizon"
+      "anchor": "axis-horizon",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-horizon-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-google-pay-flex",
@@ -108,7 +144,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-      "anchor": "axis-google-pay-flex"
+      "anchor": "axis-google-pay-flex",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/google-pay-flex-axis-bank-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-rewards",
@@ -116,7 +155,10 @@
       "issuer": "axis",
       "change_type": "devaluation",
       "summary": "Standard fee/DCC hike applied, plus insurance covers (purchase protection, credit shield, travel baggage cover) and MakeMyTrip/Swiggy/Tira discounts removed entirely.",
-      "anchor": "axis-rewards"
+      "anchor": "axis-rewards",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-ace",
@@ -124,7 +166,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-      "anchor": "axis-ace"
+      "anchor": "axis-ace",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-my-zone",
@@ -132,7 +177,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "DCC markup on international transactions raised from 1.5% to 3.5%.",
-      "anchor": "axis-my-zone"
+      "anchor": "axis-my-zone",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-indianoil-card",
@@ -140,7 +188,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-      "anchor": "axis-indianoil-card"
+      "anchor": "axis-indianoil-card",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "axis-neo",
@@ -148,7 +199,10 @@
       "issuer": "axis",
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-      "anchor": "axis-neo"
+      "anchor": "axis-neo",
+      "status": "unverified",
+      "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
+      "verification_link": null
     },
     {
       "card_slug": "hsbc-taj",
@@ -156,7 +210,10 @@
       "issuer": "hsbc",
       "change_type": "reward-change",
       "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on Account Aggregator income document submission, valid until 31 August 2026.",
-      "anchor": "hsbc-taj"
+      "anchor": "hsbc-taj",
+      "status": "unverified",
+      "official_link": "https://www.hsbc.co.in/credit-cards/products/taj/",
+      "verification_link": null
     },
     {
       "card_slug": "hsbc-travelone",
@@ -164,7 +221,10 @@
       "issuer": "hsbc",
       "change_type": "reward-change",
       "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on Account Aggregator income document submission.",
-      "anchor": "hsbc-travelone"
+      "anchor": "hsbc-travelone",
+      "status": "unverified",
+      "official_link": "https://www.hsbc.co.in/credit-cards/products/travelone/",
+      "verification_link": null
     },
     {
       "card_slug": "hsbc-premier",
@@ -172,7 +232,10 @@
       "issuer": "hsbc",
       "change_type": "reward-change",
       "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days of card issuance.",
-      "anchor": "hsbc-premier"
+      "anchor": "hsbc-premier",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "hsbc-visa-platinum",
@@ -180,7 +243,10 @@
       "issuer": "hsbc",
       "change_type": "reward-change",
       "summary": "New welcome offer: ₹1,000 cashback for ₹1,000 spend within 30 days, gated on account aggregation.",
-      "anchor": "hsbc-visa-platinum"
+      "anchor": "hsbc-visa-platinum",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "amex-corporate-gold",
@@ -188,7 +254,10 @@
       "issuer": "american-express",
       "change_type": "other",
       "summary": "Reward earn rate wording clarified; no change to the actual points structure.",
-      "anchor": "amex-corporate-gold"
+      "anchor": "amex-corporate-gold",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "amex-gold",
@@ -196,7 +265,10 @@
       "issuer": "american-express",
       "change_type": "reward-change",
       "summary": "New welcome gift added: 4,000 bonus Membership Rewards points.",
-      "anchor": "amex-gold"
+      "anchor": "amex-gold",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "amex-membership-rewards",
@@ -204,7 +276,10 @@
       "issuer": "american-express",
       "change_type": "reward-change",
       "summary": "New welcome gift added: 4,000 bonus Membership Rewards points.",
-      "anchor": "amex-membership-rewards"
+      "anchor": "amex-membership-rewards",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     },
     {
       "card_slug": "amex-smartearn",
@@ -212,7 +287,10 @@
       "issuer": "american-express",
       "change_type": "reward-change",
       "summary": "New welcome cashback added: ₹500 for spending ₹10,000 within the first 90 days.",
-      "anchor": "amex-smartearn"
+      "anchor": "amex-smartearn",
+      "status": "unverified",
+      "official_link": null,
+      "verification_link": null
     }
   ],
   "issuers": [

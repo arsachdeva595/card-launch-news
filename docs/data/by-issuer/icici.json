@@ -5,6 +5,9 @@
     "issuer": "icici",
     "change_type": "benefit-change",
     "summary": "Lounge access network expanded from 1,400+ to 1,900+ lounges worldwide, same 145+ country coverage.",
+    "status": "unverified",
+    "official_link": null,
+    "verification_link": null,
     "edition_number": 6,
     "edition_date": "2026-08-25",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25#icici-times-black"
@@ -15,6 +18,9 @@
     "issuer": "icici",
     "change_type": "eligibility-change",
     "summary": "Minimum salaried income requirement raised from ₹20,000 to ₹30,000 per month for new applicants.",
+    "status": "unverified",
+    "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+    "verification_link": null,
     "edition_number": 3,
     "edition_date": "2026-08-21",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-21#icici-amazon-pay"
@@ -25,6 +31,9 @@
     "issuer": "icici",
     "change_type": "benefit-improvement",
     "summary": "Domestic lounge access is now unlimited and immediate, the old ₹75,000-a-quarter spend threshold and one-quarter wait are gone.",
+    "status": "unverified",
+    "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
+    "verification_link": null,
     "edition_number": 1,
     "edition_date": "2026-08-19",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-19#icici-emirates-emeralde"

@@ -5,6 +5,9 @@
     "issuer": "equitas-sfb",
     "change_type": "new-redemption-option",
     "summary": "Reward points can now be redeemed 1:1 for e-gift vouchers from Apple, Tanishq, Taj Hotels, Marks & Spencer, and The Body Shop.",
+    "status": "unverified",
+    "official_link": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
+    "verification_link": null,
     "edition_number": 1,
     "edition_date": "2026-08-19",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-19#equitas-powermiles"

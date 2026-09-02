@@ -209,6 +209,9 @@ with an honest label rather than something that looks broken.
    `docs/data/reddit-buzz.json`, writes a full mirror of
    `config/tracked-cards.json` to `docs/data/tracked-cards.json` every run
    (regardless of whether anything changed), writes `docs/data/meta.json`,
+   re-checks every already-published newsletter item's verified/unverified
+   tag against this run's fresh data (`scripts/regenerate-newsletter-tags.mjs`
+   — see "Verified/unverified tagging" in the newsletter section below),
    and sends Telegram notifications (`scripts/lib/notify.mjs`/
    `scripts/lib/telegram-format.mjs`) for launches, Tier 1 changes, Tier 2
    pings, and Reddit Buzz posts, if `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID`
@@ -533,8 +536,21 @@ a small static viewer page.
   and permalink inline (`edition_number`, `edition_date`,
   `edition_permalink`, the latter pointing straight at that card's anchor
   within the edition), so a Payload CMS block on monzy.co can render a
-  per-card news list for one issuer without a second fetch. Issuer slugs
-  are the canonical short form, one per issuer in `config/issuers.json`:
+  per-card news list for one issuer without a second fetch.
+
+  Every item, here and in `newsletters.json`/the per-edition files, also
+  carries three verification fields — this repo computes them, never
+  trusting whatever an incoming payload claims about itself (see
+  "Verified/unverified tagging" below):
+  - `status`: `"verified"` or `"unverified"`.
+  - `official_link`: the card's own official product page, when known.
+  - `verification_link`: the independent source (Reddit post / Google
+    citation) that corroborated the claim — only set when `status` is
+    `"verified"` and something more specific than the official page itself
+    backs it.
+
+  Issuer slugs are the canonical short form, one per issuer in
+  `config/issuers.json`:
 
   | Source slug (`config/issuers.json`) | Canonical |
   | --- | --- |
@@ -566,11 +582,58 @@ a small static viewer page.
   `scripts/publish-edition.js` applies this mapping automatically to every
   incoming item's `issuer` field, so a Cowork payload can send either form
   and the published data always lands in canonical slugs. This table lives
-  in that script (`CANONICAL_ISSUER_SLUGS`); update it there if
+  in `scripts/lib/newsletter-verification.mjs` (`CANONICAL_ISSUER_SLUGS`),
+  shared with `scripts/regenerate-newsletter-tags.mjs`; update it there if
   `config/issuers.json` ever gains a new issuer.
 
 All dates are derived in the `Asia/Kolkata` timezone, matching when the
 Cowork task actually sends the edition.
+
+### Verified/unverified tagging
+
+Every newsletter item is published — nothing is dropped for being
+unverified, only for referring to a card/issuer this repo has no record of
+at all (a typo or outright fabrication with nothing to even call
+"unverified" about — see `resolveItemVerification()` in
+`scripts/lib/newsletter-verification.mjs`). Instead, every item is tagged
+`status: "verified"` or `"unverified"` by cross-checking it against this
+repo's own pipeline data:
+
+- A match in `docs/data/launches.json` is trusted directly — a launch's
+  announcement is the card's own official page, not an LLM's reading of a
+  diff, so there's no hallucination-prone summarization step to distrust.
+- A `discontinued` item is trusted if `config/tracked-cards.json` actually
+  shows that card as `Discontinued` — set deterministically by regex on
+  the page's own diff (`lib/discontinuation.mjs`), not an LLM guess.
+- Anything else needs a matching `docs/data/changes.json` entry whose
+  `summaryVerification.status` is `"verified"` — i.e. the Reddit/Google
+  grounding check (`lib/grounding.mjs`) already found independent
+  corroboration for that exact summary.
+- A card that exists (matches `tracked-cards.json`/`changes.json`) but
+  doesn't clear any of the above is still published, just tagged
+  `"unverified"` with no `verification_link`.
+
+This tagging isn't only computed once at publish time — a claim that's
+unverified today can gain corroboration days later (Reddit discussion
+catching up, or Google grounding finding a news article). Since
+`scripts/publish-edition.js` runs once per edition, published items would
+otherwise be frozen at whatever was known the moment they shipped.
+`scripts/regenerate-newsletter-tags.mjs` re-checks every already-published
+item against the latest pipeline data and upgrades any that now clear
+verification — deliberately **one-way**: an already-verified item is never
+re-derived or downgraded, since `docs/data/changes.json` only keeps its
+most recent 200 entries (`MAX_CHANGES_KEPT` in `run.mjs`) and an older
+item's supporting record can age out of that window even though nothing
+about the actual claim changed. This runs automatically once a day as the
+last step of `scripts/run.mjs` (piggybacking on the existing daily cron
+rather than needing a separate workflow triggered off newsletter pushes,
+at the cost of up to a day's lag if Cowork publishes after that day's run)
+— a failure there is caught and logged, never allowed to fail the rest of
+the run. Safe to run standalone too:
+
+```bash
+node scripts/regenerate-newsletter-tags.mjs
+```
 
 ### Edition viewer
 
@@ -598,35 +661,22 @@ feed. It uses only Node built-ins, no `npm install` needed, and is
 idempotent: rerunning the same edition overwrites cleanly rather than
 duplicating.
 
-**Verified news only**: before anything is written, every item is
-cross-checked against this repo's own pipeline data — `docs/data/changes.json`,
-`docs/data/launches.json`, and `config/tracked-cards.json` — matched by
-(card name, canonical issuer):
-
-- A launch match is trusted directly (a launch's announcement is the
-  card's own official page, not an LLM's reading of a diff, so there's no
-  hallucination-prone summarization step to distrust).
-- A `discontinued` item is trusted if `config/tracked-cards.json` actually
-  shows that card as `Discontinued` (set deterministically by regex on the
-  page's own diff — see `lib/discontinuation.mjs` — not an LLM guess).
-- Anything else needs a matching `changes.json` entry whose
-  `summaryVerification.status` is `"verified"` — i.e. the same
-  Reddit-grounding check described in "Two-pronged change accuracy" above
-  already found independent corroboration for that exact summary.
-
-An item that doesn't check out is **dropped from the edition** (not the
-whole publish) with the reason logged; the rest of the edition still
-publishes. If every item in a payload fails the check, the whole publish
-is refused rather than shipping an empty edition. Pass `--allow-unverified`
-to skip this gate entirely — only meant for backfilling **historical**
-editions that were already reviewed and sent before this check (or before
-`summaryVerification`) existed, where there's nothing meaningful left to
-check items against; see `scripts/backfill-editions.js`, which always
-passes it. Never pass it for a new edition.
+Every item gets tagged `status`/`official_link`/`verification_link` at
+publish time — see "Verified/unverified tagging" above for exactly how.
+The only thing that can drop an item entirely is having **no matching
+card/issuer on record anywhere** (`docs/data/changes.json`,
+`docs/data/launches.json`, or `config/tracked-cards.json`) — not being
+unverified, which is a normal, expected, still-published state. If every
+item in a payload fails even that existence check, the whole publish is
+refused rather than shipping an empty edition. Pass `--allow-unmatched` to
+skip the existence check too and publish literally everything — only
+meant for backfilling **historical** editions where a card might not
+cleanly match today's records; see `scripts/backfill-editions.js`, which
+always passes it. Never pass it for a new edition.
 
 ```bash
 node scripts/publish-edition.js --input path/to/edition-payload.json
-node scripts/publish-edition.js --input path/to/edition-payload.json --allow-unverified  # historical backfills only
+node scripts/publish-edition.js --input path/to/edition-payload.json --allow-unmatched  # historical backfills only
 ```
 
 The input payload shape:
@@ -650,6 +700,10 @@ The input payload shape:
   ]
 }
 ```
+
+Items don't need (and shouldn't send) `status`/`official_link`/
+`verification_link` — those are always computed by this script, never
+trusted from the payload; see "Verified/unverified tagging" above.
 
 The script writes only the files listed above; it never runs `git add` or
 `git commit` itself, that's left to the calling environment (the Cowork

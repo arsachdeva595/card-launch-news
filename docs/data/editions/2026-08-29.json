@@ -12,7 +12,10 @@
       "issuer": "hdfc",
       "change_type": "discontinuation",
       "summary": "Marked discontinued, closed to new applicants; existing holders keep current benefits until migration at reissuance or renewal. Third Pine Labs-linked HDFC card discontinued this week.",
-      "anchor": "hdfc-pine-labs-pro"
+      "anchor": "hdfc-pine-labs-pro",
+      "status": "unverified",
+      "official_link": "https://www.hdfc.bank.in/credit-cards/pine-labs-pro-credit-card",
+      "verification_link": null
     }
   ],
   "issuers": [

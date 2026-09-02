@@ -12,7 +12,10 @@
       "issuer": "kotak",
       "change_type": "benefit-change",
       "summary": "Add-on card limit raised from 3 to 4 per primary card.",
-      "anchor": "kotak-solitaire"
+      "anchor": "kotak-solitaire",
+      "status": "unverified",
+      "official_link": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-solitaire-credit-card.html",
+      "verification_link": null
     },
     {
       "card_slug": "indusind-crest",
@@ -20,7 +23,10 @@
       "issuer": "indusind",
       "change_type": "benefit-change",
       "summary": "Complimentary ITC Hotels membership discontinued, golf benefit improved to 2 games and 2 lessons a month, and a new spend-tracking gate on domestic lounge access starts April 2026.",
-      "anchor": "indusind-crest"
+      "anchor": "indusind-crest",
+      "status": "unverified",
+      "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/crest-credit-card.html",
+      "verification_link": null
     },
     {
       "card_slug": "icici-amazon-pay",
@@ -28,7 +34,10 @@
       "issuer": "icici",
       "change_type": "eligibility-change",
       "summary": "Minimum salaried income requirement raised from ₹20,000 to ₹30,000 per month for new applicants.",
-      "anchor": "icici-amazon-pay"
+      "anchor": "icici-amazon-pay",
+      "status": "unverified",
+      "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+      "verification_link": null
     }
   ],
   "issuers": [

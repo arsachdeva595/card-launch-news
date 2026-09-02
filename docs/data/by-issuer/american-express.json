@@ -5,6 +5,9 @@
     "issuer": "american-express",
     "change_type": "reward-change",
     "summary": "New welcome gift added: 11,000 bonus Membership Rewards points.",
+    "status": "unverified",
+    "official_link": null,
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#amex-platinum-reserve"
@@ -15,6 +18,9 @@
     "issuer": "american-express",
     "change_type": "fee-change",
     "summary": "Annual fee listed at ₹66,000 plus taxes, alongside a new welcome gift worth up to ₹60,000 (Taj Hotels, Luxe Gift Card, or Postcard Hotels & Resorts).",
+    "status": "unverified",
+    "official_link": null,
+    "verification_link": null,
     "edition_number": 9,
     "edition_date": "2026-08-28",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-28#amex-platinum"
@@ -25,6 +31,9 @@
     "issuer": "american-express",
     "change_type": "other",
     "summary": "Reward earn rate wording clarified; no change to the actual points structure.",
+    "status": "unverified",
+    "official_link": null,
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#amex-corporate-gold"
@@ -35,6 +44,9 @@
     "issuer": "american-express",
     "change_type": "reward-change",
     "summary": "New welcome gift added: 4,000 bonus Membership Rewards points.",
+    "status": "unverified",
+    "official_link": null,
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#amex-gold"
@@ -45,6 +57,9 @@
     "issuer": "american-express",
     "change_type": "reward-change",
     "summary": "New welcome gift added: 4,000 bonus Membership Rewards points.",
+    "status": "unverified",
+    "official_link": null,
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#amex-membership-rewards"
@@ -55,6 +70,9 @@
     "issuer": "american-express",
     "change_type": "reward-change",
     "summary": "New welcome cashback added: ₹500 for spending ₹10,000 within the first 90 days.",
+    "status": "unverified",
+    "official_link": null,
+    "verification_link": null,
     "edition_number": 8,
     "edition_date": "2026-08-27",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-27#amex-smartearn"

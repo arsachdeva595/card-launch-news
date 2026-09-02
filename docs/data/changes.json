@@ -73,10 +73,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added 2 International and 2 Domestic airport lounge accesses with booking instructions"
     }
   },
   {
@@ -127,9 +123,15 @@
       "youtube": null
     },
     "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Changed lounge benefit to domestic only with updated access description"
-    }
+      "status": "verified",
+      "source": {
+        "title": "upniva.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyD-mEg79GZC8W7UETBaY4MQspgwS53-oJeSwf668IaM8C_Ibrof7f14W6ohoQgc3ugF8DHLrvO_1uGf_wawt7ksch0G2K1p_IVriaj1asirb5IUV8z45-TqSPM1i0ewQATwjbiCUdDpcb7rJ8sjHd4K3q1mY_9zfDEw==",
+        "description": "3 independent web source(s) found via Google Search grounding"
+      },
+      "via": "google"
+    },
+    "summary": "Changed lounge benefit to domestic only, adding a link to lounge list"
   },
   {
     "id": "icici-bank-makemytrip-signature-credit-card",
@@ -224,7 +226,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated lounge access benefit wording and extended duration to 1 Year 5 Months Ago"
+      "candidateSummary": "Added a link to the lounge list for the International and Domestic Airport Lounge Access benefit."
     }
   },
   {
@@ -347,9 +349,15 @@
       "youtube": null
     },
     "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated lounge access benefit to include link to lounge list"
-    }
+      "status": "verified",
+      "source": {
+        "title": "findmycard.co",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuk29mNtea1MkJqr9a5YvLiba2z8vqpgfcxjg0fnITwhIDU-MiA5o29llCHo_2Cyu9ocR9_58LSpr-Hs_WSD5DJeFBy5ncz5YyQnIqxpj7zUokHUtz0jGcxffEPcLoxbzW3F8fu2vB",
+        "description": "8 independent web source(s) found via Google Search grounding"
+      },
+      "via": "google"
+    },
+    "summary": "Added a link to the lounge list for the domestic lounge access benefit"
   },
   {
     "id": "icici-bank-emirates-emeralde-credit-card",
@@ -508,9 +516,15 @@
       "youtube": null
     },
     "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated domestic lounge access benefit to a flat 2 complimentary accesses with a link to lounge list"
-    }
+      "status": "verified",
+      "source": {
+        "title": "paisabazaar.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJsjtIzHeI58K4WbYoQR9V3PbCk_p9UOax4sj2pxoueIku8kj5TdqJN9EODukUzfoDvqjQofOBqyVV2PlzMsOwyRsfS8JF3iSLHEdfqpX8AzdBdyqoKpDu5TVIvZBBC7Bk_L_e1K5nWewrwiysNTuQAikth02R2ZGmsenGTMBJdJTxQjQOKhYY_w==",
+        "description": "6 independent web source(s) found via Google Search grounding"
+      },
+      "via": "google"
+    },
+    "summary": "Updated lounge access benefit wording and added annual frequency."
   },
   {
     "id": "icici-bank-sapphiro-credit-card",
@@ -697,7 +711,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Flight discount cap reduced to INR10,000 from INR10,500."
+      "candidateSummary": "Reduced flight savings cap to INR10,000 from INR10,500."
     }
   },
   {
@@ -738,10 +752,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added complimentary 1GB Global eSIM and 20% off for top-ups to lounge benefit package"
     }
   },
   {
@@ -857,7 +867,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Joining and annual fees removed, making the card lifetime free with a new activation voucher"
+      "candidateSummary": "Joining and annual fees removed, card now lifetime free with new activation voucher"
     }
   },
   {
@@ -953,7 +963,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Annual fee removed, replaced with nil and lifetime free status."
+      "candidateSummary": "Annual and joining fees removed, card now lifetime free."
     }
   },
   {
@@ -1037,7 +1047,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Joining fee removed and First Year Free benefit added"
+      "candidateSummary": "Joining fee removed (now Nil) and First Year Free benefit added"
     }
   },
   {
@@ -1117,7 +1127,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Joining fee and annual fee removed, card now has no joining or annual fee and is lifetime free"
+      "candidateSummary": "Joining fee and annual fee removed, replaced with NIL and lifetime free offer."
     }
   },
   {
@@ -1617,7 +1627,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Reward point system renamed from White Pass to Reward Points and redemption process updated."
+      "candidateSummary": "Reward point system renamed and redemption process updated."
     }
   },
   {
@@ -2009,7 +2019,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Reward structure changed from points to higher rebates of up to 150bps."
+      "candidateSummary": "Reward points replaced with up to 150bps rebates; certain MCCs no longer earn points."
     }
   },
   {
@@ -2097,7 +2107,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added accelerated reward points for first 5 LIC insurance premium payments per statement cycle."
+      "candidateSummary": "Added accelerated reward points for LIC insurance premium payments up to five per statement cycle."
     }
   },
   {
@@ -2199,7 +2209,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added travel benefits to the Lifetime Free card, now called FIRST Select."
+      "candidateSummary": "Card now marketed as FIRST Select with added travel benefits."
     }
   },
   {
@@ -2371,7 +2381,10 @@
       "reddit": null,
       "youtube": null
     },
-    "summary": "Added a link to view the lounge list for the 2 complimentary international airport lounge access benefit."
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated lounge access benefit wording to include a link to the lounge list"
+    }
   },
   {
     "id": "icici-bank-emeralde-credit-card",
@@ -2508,14 +2521,9 @@
       "reddit": null,
       "youtube": null
     },
-    "summary": "Split lounge access benefit into separate international and domestic options",
     "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Is the ICICI Emeralde Upgrade Worth the ₹12k Fee with My Current Portfolio and Travel Spends?",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1u82ths/is_the_icici_emeralde_upgrade_worth_the_12k_fee/",
-        "description": "Hey everyone, &#x200B; I recently received an upgrade offer for the ICICI Emeralde Credit Card with a ₹12,000 annual fee. I&#39;m trying to decide if it genuinely adds value to my setup or if it&#39;s redundant. &#x200B; Here is a quick bre"
-      }
+      "status": "unverified",
+      "candidateSummary": "Updated lounge access benefit wording for the Primary Cardholder"
     }
   },
   {
@@ -2651,7 +2659,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Lounge access benefit updated to specify unlimited domestic and international access for the primary cardholder."
+      "candidateSummary": "Lounge access benefit updated to specify domestic and international access for the primary cardholder."
     }
   },
   {
@@ -2692,10 +2700,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Card will be discontinued after 31 October 2026."
     }
   },
   {
@@ -2972,7 +2976,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated processing fee timing and statement narration"
+      "candidateSummary": "Processing fee introduced for EMI conversion."
     }
   },
   {
@@ -3368,7 +3372,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Eligibility income requirement changed and a new processing fee added."
+      "candidateSummary": "Eligibility criteria and fee structure updated, adding stable income requirement and new processing fee."
     }
   },
   {
@@ -3728,7 +3732,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated eligibility age to 18‑65, revised benefit wording, fee labels, and card title."
+      "candidateSummary": "Age eligibility lowered to 18-65 years for Manhattan Credit Card."
     }
   },
   {
@@ -4364,7 +4368,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added new reward points and lounge access benefits for Priority Visa Infinite card holders."
+      "candidateSummary": "Added new reward points, lounge access, and insurance benefits for Priority Visa Infinite card."
     }
   },
   {
@@ -4678,7 +4682,10 @@
       "reddit": null,
       "youtube": null
     },
-    "summary": "Updated EMI options, rewards redemption, loan and balance transfer limits, applicant criteria, fee waiver, renewal fee reversal, and table formatting."
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added new EMI conversion, reward redemption, loan, balance transfer, and eligibility details for the Smart Credit Card"
+    }
   },
   {
     "id": "standard-chartered-india-ultimate-credit-card",
@@ -5501,7 +5508,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "EMI threshold lowered to INR 2,000 and a new 1% processing fee for rental transactions added."
+      "candidateSummary": "Joining and renewal fees updated to Rs 5,000; EMI threshold lowered to INR 2,000; benefit details expanded."
     }
   },
   {
@@ -5845,7 +5852,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated rewards, fees, and additional card benefits including supplementary card, contactless, digital payments, EMI options, and loan/transfer features."
+      "candidateSummary": "Added supplementary card, contactless, digital payment, EMI options, loan, balance transfer, and updated fees and reward point details."
     }
   },
   {
@@ -5973,7 +5980,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Card has been discontinued; new applications closed while existing holders retain benefits until replacement."
+      "candidateSummary": "Card discontinued, existing holders retain benefits until replacement."
     }
   },
   {
@@ -6101,7 +6108,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "The card has been discontinued; existing holders retain benefits until replacement."
+      "candidateSummary": "Card discontinued, no new applications, existing holders retain benefits until replacement."
     }
   },
   {
@@ -6229,7 +6236,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "The card is now discontinued and no longer open for new applications."
+      "candidateSummary": "The Retailio HDFC Bank Credit Card has been discontinued, but existing holders retain benefits until replacement."
     }
   },
   {
@@ -6273,7 +6280,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee now applies only when the total payment due is between ₹10,001 and ₹50,000, instead of any amount over ₹10,000."
+      "candidateSummary": "Late payment fee threshold changed to ₹10,001–₹50,000"
     }
   },
   {
@@ -6353,7 +6360,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee tiers expanded to include a ₹1300 charge for balances above ₹50,000."
+      "candidateSummary": "Late payment fee thresholds increased, adding a ₹1300 fee for payments above ₹50,000 and extending the ₹100 MAD penalty."
     }
   },
   {
@@ -6437,7 +6444,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and international transaction fee increased."
+      "candidateSummary": "Late payment fee thresholds and international transaction fee updated."
     }
   },
   {
@@ -6489,7 +6496,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Foreign currency markup increased from 1.5% to 3.5% on international transactions in Indian currency."
+      "candidateSummary": "Foreign currency conversion markup increased from 1.5% to 3.5% on international transactions in Indian currency."
     }
   },
   {
@@ -6591,14 +6598,9 @@
       "reddit": null,
       "youtube": null
     },
-    "summary": "Late payment fee thresholds updated and DCC markup increased to 3.5%",
     "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Free life time credit card offers for this month",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1o0cprz/free_life_time_credit_card_offers_for_this_month/",
-        "description": "Hi all, I am creating this post so we can update free LTF credit cards which are currently available for everyone not the user specific ones, i might have missed few, let me know so i can update it. As of now I’m consolidating will update d"
-      }
+      "status": "unverified",
+      "candidateSummary": "Late payment fee thresholds and amounts updated; DCC markup increased to 3.5%."
     }
   },
   {
@@ -6674,7 +6676,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and increased DCC markup to 3.5%"
+      "candidateSummary": "Late payment fee thresholds and DCC markup increased."
     }
   },
   {
@@ -6774,7 +6776,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and amounts updated, DCC markup changed."
+      "candidateSummary": "Late payment fee thresholds and amounts updated for Samsung Axis Bank Infinite Credit Card."
     }
   },
   {
@@ -6902,7 +6904,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and increased foreign currency markup to 3.5%"
+      "candidateSummary": "Updated late payment fee thresholds and increased DCC markup to 3.5% for international transactions."
     }
   },
   {
@@ -6978,7 +6980,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and international transaction fee increased to 3.5%."
+      "candidateSummary": "International transaction fee increased to 3.5% plus taxes."
     }
   },
   {
@@ -7058,7 +7060,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and increased dynamic currency conversion markup to 3.5%"
+      "candidateSummary": "Updated late payment fee thresholds and increased DCC markup to 3.5%"
     }
   },
   {
@@ -7242,7 +7244,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "DCC markup fee increased to 3.5% and late payment fee structure changed."
+      "candidateSummary": "Updated reward exclusions, fee thresholds, and DCC markup fee."
     }
   },
   {
@@ -7338,7 +7340,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added welcome gift details and annual fee information for the card"
+      "candidateSummary": "Annual fee now INR 66,000 plus taxes and a welcome gift up to INR 60,000."
     }
   },
   {
@@ -7390,7 +7392,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added INR1,000 cashback for spending INR1,000 within 30 days after income docs."
+      "candidateSummary": "Added INR1,000 cashback for spending INR1,000 within 30 days after income submission."
     }
   },
   {
@@ -7442,7 +7444,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added a new INR1,000 cashback welcome reward for spending INR1,000 within 30 days after card issuance."
+      "candidateSummary": "Added a welcome reward of INR1,000 cashback for spending INR1,000 within 30 days of card activation."
     }
   },
   {
@@ -7506,7 +7508,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added INR1,000 cashback for spending INR1,000 within 30 days after income documents submission."
+      "candidateSummary": "Added INR1,000 cashback for spending INR1,000 within 30 days after income documents submission"
     }
   },
   {
@@ -7550,7 +7552,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Foreign currency conversion markup increased to 3.5% on international transactions in Indian currency."
+      "candidateSummary": "Dynamic Currency Conversion markup increased to 3.5% for international transactions in Indian currency."
     }
   },
   {
@@ -7714,7 +7716,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee brackets and foreign transaction markup increased."
+      "candidateSummary": "Late payment fee structure updated with new thresholds and increased foreign transaction markup to 3.5% plus taxes"
     }
   },
   {
@@ -7838,7 +7840,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and DCC markup increased for the card."
+      "candidateSummary": "Late payment fee thresholds increased and DCC markup raised."
     }
   },
   {
@@ -7962,7 +7964,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and increased foreign currency markup to 3.5%"
+      "candidateSummary": "Updated late payment fee thresholds and increased DCC markup to 3.5%"
     }
   },
   {
@@ -8038,7 +8040,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and increased DCC markup to 3.5%"
+      "candidateSummary": "Late payment fee thresholds and DCC markup increased for the Flipkart Axis Bank Super Elite Credit Card."
     }
   },
   {
@@ -8111,10 +8113,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and increased DCC markup to 3.5%"
     }
   },
   {
@@ -8190,7 +8188,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and DCC markup increased on the IndianOil Axis Bank Premium Credit Card."
+      "candidateSummary": "Late payment fee thresholds and DCC markup increased."
     }
   },
   {
@@ -8918,7 +8916,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Dynamic currency conversion fee increased from 1.5% to 3.5% for international transactions in Indian currency."
+      "candidateSummary": "Dynamic currency conversion fee increased to 3.5% for international transactions in Indian currency."
     }
   },
   {
@@ -9038,7 +9036,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated annual fee waiver exclusions, revised overdue penalty tiers, and increased dynamic currency conversion markup to 3.5%."
+      "candidateSummary": "Dynamic currency conversion markup fee increased to 3.5% of each international transaction plus taxes"
     }
   },
   {
@@ -9122,7 +9120,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and DCC markup increased, altering penalty amounts for missed payments and foreign transactions."
+      "candidateSummary": "Late payment fee thresholds and amounts updated, and DCC markup increased to 3.5%"
     }
   },
   {
@@ -9198,7 +9196,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee unchanged, new INR 1,300 fee for high balances, and DCC markup increased to 3.5%"
+      "candidateSummary": "DCC markup increased to 3.5% and a new INR 1,300 fee for high payment due."
     }
   },
   {
@@ -9290,7 +9288,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and foreign currency markup to new amounts."
+      "candidateSummary": "Foreign currency conversion markup increased to 3.5% and payment due thresholds updated."
     }
   },
   {
@@ -9526,7 +9524,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds updated and a 3.5% dynamic currency conversion markup added."
+      "candidateSummary": "Late payment fee structure updated and a 3.5% dynamic currency conversion markup added"
     }
   },
   {
@@ -9622,7 +9620,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and increased foreign transaction fee to 3.5%"
+      "candidateSummary": "Updated late payment fee thresholds and increased foreign transaction fee to 3.5%."
     }
   },
   {
@@ -9774,7 +9772,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated payment due fee thresholds and increased DCC markup to 3.5%"
+      "candidateSummary": "Updated DCC markup to 3.5% and revised payment due fee thresholds to ₹1200 and ₹1300."
     }
   },
   {
@@ -9854,7 +9852,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Foreign currency markup increased to 3.50% and late payment fee thresholds updated to ₹1,200 and ₹1,300."
+      "candidateSummary": "Foreign currency markup increased to 3.50% and late payment fee adjusted to ₹1,200 for ₹10,001–₹50,000 spend."
     }
   },
   {
@@ -10046,7 +10044,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added a welcome gift of 4,000 Bonus Membership Rewards® Points."
+      "candidateSummary": "Added a welcome gift of 1 of 4,000 Bonus Membership Rewards® Points"
     }
   },
   {
@@ -10088,14 +10086,9 @@
       "reddit": null,
       "youtube": null
     },
-    "summary": "Added a welcome cashback benefit of Rs.500 for spending Rs.10,000 within 90 days",
     "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Amex vs Bank Amex card",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1ows8i1/amex_vs_bank_amex_card/",
-        "description": "Hi all, I’m looking for suggestions on credit cards. Currently, I use Amazon ICICI and SBI Simply Save, both of which are lifetime free for me. My monthly expenses, including insurance premiums, are around ₹30,000. I put all my spending on "
-      }
+      "status": "unverified",
+      "candidateSummary": "Added a Rs.500 welcome cashback for spending Rs.10,000 within 90 days"
     }
   },
   {
@@ -10247,7 +10240,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Welcome benefit duration changed from 3 months to 60 days after first statement."
+      "candidateSummary": "Updated welcome benefit validity from 3 months to 60 days after first statement."
     }
   },
   {
@@ -10291,7 +10284,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added a 24*7 golf benefit to the card's perks"
+      "candidateSummary": "Replaced concierge service with a 24*7 golf benefit"
     }
   },
   {
@@ -10359,7 +10352,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added golf benefit, removed concierge service."
+      "candidateSummary": "Added a 24*7 golf benefit, replacing the previous concierge service."
     }
   },
   {
@@ -10423,7 +10416,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Fuel surcharge waiver removed from card terms."
+      "candidateSummary": "Fuel surcharge waiver removed."
     }
   },
   {
@@ -10463,7 +10456,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Fuel surcharge waiver benefit removed from the card."
+      "candidateSummary": "Fuel surcharge waiver removed from card benefits"
     }
   },
   {
@@ -10503,7 +10496,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Removed Fuel Surcharge Waiver benefit."
+      "candidateSummary": "Fuel surcharge waiver removed."
     }
   },
   {
@@ -10567,7 +10560,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Fuel surcharge waiver removed from card terms."
+      "candidateSummary": "Fuel surcharge waiver benefit removed."
     }
   },
   {
@@ -10631,7 +10624,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Fuel surcharge waiver removed from card terms"
+      "candidateSummary": "Fuel surcharge waiver removed, fee now applies."
     }
   },
   {
@@ -10864,7 +10857,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Eligibility income threshold raised to ₹30,000 per month"
+      "candidateSummary": "Eligibility income threshold increased to ₹30,000 per month"
     }
   },
   {
@@ -10928,7 +10921,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Card now marked as discontinued for new sourcing."
+      "candidateSummary": "Card now marked as discontinued for new customers."
     }
   },
   {
@@ -11000,7 +10993,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Card now marked as discontinued."
+      "candidateSummary": "Card is now marked as discontinued."
     }
   },
   {
@@ -11164,7 +11157,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Card marked as discontinued and contact email updated"
+      "candidateSummary": "Card now marked as discontinued, indicating it is no longer available for new issuance."
     }
   },
   {
@@ -11256,7 +11249,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "The InterMiles Odyssey Amex Credit Card is now marked as discontinued."
+      "candidateSummary": "Card now marked as discontinued."
     }
   },
   {
@@ -11388,7 +11381,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and international transaction fee increased."
+      "candidateSummary": "Late payment fee thresholds and amount increased; international transaction fee raised to 3.5% + taxes."
     }
   },
   {
@@ -11512,7 +11505,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and international transaction fee increased."
+      "candidateSummary": "Late payment fee thresholds and amounts updated, international transaction fee increased."
     }
   },
   {
@@ -11839,14 +11832,9 @@
       "reddit": null,
       "youtube": null
     },
-    "summary": "Added detailed reward calculations and benefit amounts for the World Prime Credit Card.",
     "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Need help with credit bill due for RBL world prime credit card!",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1orjp41/need_help_with_credit_bill_due_for_rbl_world/",
-        "description": "I have been paying for this RBL card form bajaj timely, and just recently I paid the full amount of credit card on 31st oct and due date is 1 nov. The problem is bank is saying they haven&#39;t received the payment and they deligated the mo"
-      }
+      "status": "unverified",
+      "candidateSummary": "Added new welcome gift, milestone rewards, lounge access, movie tickets, fuel surcharge waiver and updated total benefits."
     }
   },
   {
@@ -11970,7 +11958,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated benefit details including joining reward, ticket offer, fuel surcharge waiver, and total annual benefits."
+      "candidateSummary": "Updated benefit details for Platinum Prime Credit Card"
     }
   },
   {
@@ -12915,7 +12903,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "InterMiles card discontinued effective 15th Dec’24."
+      "candidateSummary": "InterMiles HDFC Bank Signature Credit Card has been discontinued effective 15th Dec 2024."
     }
   },
   {
@@ -12971,7 +12959,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "InterMiles card discontinued effective 15 Dec 24."
+      "candidateSummary": "InterMiles card discontinued effective 15 Dec 24."
     }
   },
   {
@@ -13640,7 +13628,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added new lounge access spend threshold and movie offer eligibility details for the card."
+      "candidateSummary": "Added new lounge and movie offer eligibility criteria for the MakeMyTrip ICICI Bank Credit Card."
     }
   },
   {
@@ -13680,7 +13668,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Reward points on every ₹100 spend removed."
+      "candidateSummary": "Earn Points on every ₹100 spend removed."
     }
   },
   {
@@ -13757,10 +13745,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "InterMiles card discontinued effective 15 Dec 24."
     }
   },
   {
@@ -13800,7 +13784,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "InterMiles card discontinued, existing holders migrated to other HDFC cards."
+      "candidateSummary": "InterMiles card discontinued effective 15th Dec’24"
     }
   },
   {
@@ -14044,7 +14028,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added detailed fee structure including ₹3,000 joining fee, renewal fee, and 3.6% monthly interest."
+      "candidateSummary": "New annual fee ₹500, joining fee schedule, renewal fee, and 3.6% per month interest rate added."
     }
   },
   {
@@ -14344,7 +14328,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Updated reward structure and milestone vouchers for the Kotak IndiGo Credit Card."
+      "candidateSummary": "Updated reward rates and milestone voucher thresholds for the Kotak IndiGo Credit Card."
     }
   },
   {
@@ -14506,14 +14490,9 @@
       "reddit": null,
       "youtube": null
     },
-    "summary": "Added 3 airport lounge vouchers per quarter for Rs.60,000 spend.",
     "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "An update for HDFC diners club privilege credit card users about airport lounge.",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1sf2lzf/an_update_for_hdfc_diners_club_privilege_credit/",
-        "description": "From July 1st HDFC Diners Privilege credit card users can get three complimentary lounge access vouchers (2 domestic and 1 international) for per quarter only if they spend Rs 60,000 or more in the previous calendar quarter. Check here :- h"
-      }
+      "status": "unverified",
+      "candidateSummary": "Added 3 lounge vouchers per quarter for Rs.60,000 spend."
     }
   },
   {
@@ -14621,7 +14600,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added a 5% early payment cashback benefit for paying the full statement within 7 days."
+      "candidateSummary": "Added 5% annual cashback for early payment within 7 days of statement generation."
     }
   },
   {
@@ -14890,10 +14869,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Changed reward points terminology to \"CRED Reward Points\" and added Forex Card benefits."
     }
   },
   {
@@ -15077,7 +15052,7 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Reward rates on hotel and flight bookings increased to 26.67% and 13.33% respectively."
+      "candidateSummary": "Reward savings on hotel and flight bookings increased to 26.67% and 13.33% respectively."
     }
   },
   {
@@ -16294,8 +16269,7 @@
     "community": {
       "reddit": null,
       "youtube": null
-    },
-    "summary": "Updated Selfe Card description, added redemption, application, benefits, charges, and membership details."
+    }
   },
   {
     "id": "equitas-sfb-tiga-credit-card",

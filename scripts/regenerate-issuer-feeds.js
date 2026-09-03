@@ -11,6 +11,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { flattenItemsByIssuer } from "./lib/newsletter-verification.mjs";
+import { readAutoVerifiedChanges } from "./lib/auto-verified-changes.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -40,7 +41,7 @@ function main() {
     fs.unlinkSync(path.join(BY_ISSUER_DIR, file));
   });
 
-  const byIssuer = flattenItemsByIssuer(newsletters);
+  const byIssuer = flattenItemsByIssuer(newsletters, readAutoVerifiedChanges());
 
   let totalItems = 0;
   const issuersWritten = [];

@@ -4,6 +4,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { canonicalIssuerSlug, resolveItemVerification, flattenItemsByIssuer } from "./lib/newsletter-verification.mjs";
+import { syncAutoVerifiedChanges, readAutoVerifiedChanges } from "./lib/auto-verified-changes.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -205,7 +206,12 @@ function main() {
   newsletters = sortByDateDesc(newsletters);
   writeJson(NEWSLETTERS_PATH, newsletters);
 
-  const byIssuer = flattenItemsByIssuer(newsletters);
+  // This edition may now cover a card/day an auto-detected entry was
+  // already recorded for - re-sync first so flattenItemsByIssuer's own
+  // same-day dedup (against the newsletters.json we just wrote) has the
+  // latest state to check against.
+  syncAutoVerifiedChanges();
+  const byIssuer = flattenItemsByIssuer(newsletters, readAutoVerifiedChanges());
 
   const issuerFiles = [];
   issuers.forEach((slug) => {

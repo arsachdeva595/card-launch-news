@@ -257,17 +257,21 @@ async function main() {
   // fresh changes.json/launches.json/tracked-cards.json, upgrading any
   // still-unverified item to verified if corroboration has since turned
   // up (see scripts/regenerate-newsletter-tags.mjs for why this is a
-  // one-way upgrade, never a downgrade). Runs once a day for free by
-  // piggybacking on this existing cron rather than needing a separate
-  // workflow triggered off newsletter pushes; a failure here shouldn't
-  // take down the rest of the run, since it's independent of everything
-  // else this pipeline does.
+  // one-way upgrade, never a downgrade). Also pushes any newly-verified
+  // Tier 1 change straight into its by-issuer feed (lib/auto-verified-
+  // changes.mjs) without waiting for a newsletter edition to be written
+  // about it - a card's verified change would otherwise be invisible to
+  // by-issuer consumers for as long as the newsletter routine happens not
+  // to run. Runs once a day for free by piggybacking on this existing
+  // cron rather than needing a separate workflow triggered off newsletter
+  // pushes; a failure here shouldn't take down the rest of the run, since
+  // it's independent of everything else this pipeline does.
   try {
     const tagResult = await regenerateNewsletterTags();
-    if (tagResult.editionsChecked > 0) {
+    if (tagResult.editionsChecked > 0 || tagResult.autoAdded > 0) {
       console.log(
         `Newsletter tags re-checked: ${tagResult.itemsChecked} item(s) across ${tagResult.editionsChecked} edition(s), ` +
-          `${tagResult.upgraded} upgraded to verified.`
+          `${tagResult.upgraded} upgraded to verified. ${tagResult.autoAdded} verified change(s) auto-pushed without a newsletter.`
       );
     }
   } catch (err) {

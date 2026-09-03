@@ -1,5 +1,601 @@
 [
   {
+    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
+    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-03T08:09:11.516Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "seamlessly."
+      },
+      {
+        "type": "context",
+        "text": "Steps to Apply for IndiGo IDFC FIRST Dual Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Eligibility for the Indigo Dual Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "5 mins to apply"
+      },
+      {
+        "type": "context",
+        "text": "100% Digital KYC"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Approval"
+      },
+      {
+        "type": "context",
+        "text": "Get Card Instantly"
+      },
+      {
+        "type": "removed",
+        "text": "Experience convenience like never before with 100% digital application process"
+      },
+      {
+        "type": "removed",
+        "text": "Instant approval"
+      },
+      {
+        "type": "removed",
+        "text": "engine"
+      },
+      {
+        "type": "removed",
+        "text": "Secure Aadhar"
+      },
+      {
+        "type": "removed",
+        "text": "e-KYC + Video-KYC"
+      },
+      {
+        "type": "removed",
+        "text": "Get Card Instantly"
+      },
+      {
+        "type": "removed",
+        "text": "Track in Real time"
+      },
+      {
+        "type": "removed",
+        "text": "Card approved"
+      },
+      {
+        "type": "removed",
+        "text": "Card issued"
+      },
+      {
+        "type": "removed",
+        "text": "All in 5 minutes"
+      },
+      {
+        "type": "removed",
+        "text": "Your IndiGo IDFC FIRST Credit Card could be live in 5 minutes – why wait?"
+      },
+      {
+        "type": "removed",
+        "text": "PRO TIP : To make your application smoother, ensure that you’re a registered member of the IndiGo BluChip Loyalty Program."
+      },
+      {
+        "type": "context",
+        "text": "Start"
+      },
+      {
+        "type": "context",
+        "text": "Mobile OTP"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Approval"
+      },
+      {
+        "type": "context",
+        "text": "Get Card Instantly"
+      },
+      {
+        "type": "removed",
+        "text": "Experience convenience like never before with 100% digital application process"
+      },
+      {
+        "type": "removed",
+        "text": "Instant approval"
+      },
+      {
+        "type": "removed",
+        "text": "engine"
+      },
+      {
+        "type": "removed",
+        "text": "Secure Aadhar"
+      },
+      {
+        "type": "removed",
+        "text": "e-KYC + Video-KYC"
+      },
+      {
+        "type": "removed",
+        "text": "Get Card Instantly"
+      },
+      {
+        "type": "removed",
+        "text": "Track in Real time"
+      },
+      {
+        "type": "removed",
+        "text": "Card approved"
+      },
+      {
+        "type": "removed",
+        "text": "Card issued"
+      },
+      {
+        "type": "removed",
+        "text": "All in 5 minutes"
+      },
+      {
+        "type": "context",
+        "text": "Your IndiGo IDFC FIRST Credit Card could be live in 5 minutes – why wait?"
+      },
+      {
+        "type": "removed",
+        "text": "PRO TIP : To make your application smoother, ensure that you’re a registered member of the IndiGo BluChip Loyalty Program."
+      },
+      {
+        "type": "context",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "type": "context",
+        "text": "Fee/FD"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Eligibility criteria for the IndiGo IDFC FIRST Dual Credit Card added."
+    }
+  },
+  {
+    "id": "icici-bank-sapphiro-credit-card",
+    "cardName": "Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
+    "status": "Active",
+    "detectedAt": "2026-09-03T08:08:44.144Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get Welcome Vouchers from Tata CLiQ, EazyDiner, Da Milano, EaseMyTrip & Tata Croma. To know more, click here"
+      },
+      {
+        "type": "context",
+        "text": "Annually"
+      },
+      {
+        "type": "removed",
+        "text": "Get 2 complimentary International airport lounge access"
+      },
+      {
+        "type": "added",
+        "text": "Get 2 complimentary International airport lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 4 Domestic airport lounge access.  Click here  for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get 4 Domestic airport lounge access  Click here  for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Twice every month"
+      },
+      {
+        "type": "context",
+        "text": "Buy one ticket & get up to ₹500 off on the second ticket through BookMyShow"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Check your Booking History to view all bookings and details."
+      },
+      {
+        "type": "context",
+        "text": "You may also call i-Assist, our 24X7 concierge service on 1800 26 70731 (toll free for MTNL/BSNL lines) or 022 6787 2016 (standard call charges applicable), for assistance with online booking. An authorisation amount of ₹2 shall be taken for each eligible Card."
+      },
+      {
+        "type": "added",
+        "text": "For step-by-step instructions on the booking process, click here"
+      },
+      {
+        "type": "context",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "context",
+        "text": "Spends period offer - eligibility period"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added lounge list link and booking instructions to lounge benefits"
+    }
+  },
+  {
+    "id": "icici-bank-times-black-credit-card",
+    "cardName": "Times Black Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/times-black-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-03T08:08:44.143Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Curated Luxury Services"
+      },
+      {
+        "type": "context",
+        "text": "Get lifestyle management services from CribLife with 6 exclusive offerings."
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Unlimited Domestic Lounge Access"
+      },
+      {
+        "type": "added",
+        "text": "Relax in style with unlimited complimentary lounge access at domestic airports."
+      },
+      {
+        "type": "added",
+        "text": "Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Unlimited International Lounge Access"
+      },
+      {
+        "type": "added",
+        "text": "Experience luxury worldwide with complimentary lounge access"
+      },
+      {
+        "type": "context",
+        "text": "Gourmet Indulgence"
+      },
+      {
+        "type": "context",
+        "text": "Annual membership of Zomato Gold for exclusive dining privileges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added unlimited domestic and international lounge access for primary cardholder."
+    }
+  },
+  {
+    "id": "hdfc-bank-tmc-card",
+    "cardName": "TMC Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/tmc-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-03T08:08:01.889Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Others 12"
+      },
+      {
+        "type": "context",
+        "text": "GIGA Auto Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Two Wheeler Loan A2A Top Up"
+      },
+      {
+        "type": "context",
+        "text": "GIGA Two Wheeler Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Two Wheeler Loan Top Up"
+      },
+      {
+        "type": "context",
+        "text": "GIGA Gold Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Two Wheeler Loan A2A Top Up"
+      },
+      {
+        "type": "context",
+        "text": "GIGA Two Wheeler Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Two Wheeler Loan Top Up"
+      },
+      {
+        "type": "context",
+        "text": "GIGA Gold Loan"
+      },
+      {
+        "type": "context",
+        "text": "GIGA Auto Loan"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "M-Kisan"
+      },
+      {
+        "type": "context",
+        "text": "Export & Import Documents"
+      },
+      {
+        "type": "added",
+        "text": "UPI remains free for consumers, while a future merchant framework may introduce nominal MDR on select transactions."
+      },
+      {
+        "type": "added",
+        "text": "UPI remains free for consumers, while a future merchant framework may introduce nominal MDR on select transactions."
+      },
+      {
+        "type": "context",
+        "text": "All Miles Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "TMC Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a benefit that UPI remains free for consumers, with a possible nominal MDR on select transactions."
+    }
+  },
+  {
+    "id": "hdfc-bank-indianoil-hdfc-bank-credit-card",
+    "cardName": "IndianOil HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/indianoil-hdfc-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-03T08:08:01.845Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fuel Credit Card - Apply for Indianoil Credit Card Online | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Premium 8"
+      },
+      {
+        "type": "added",
+        "text": "Others 12"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Auto Loan"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Two Wheeler Loan"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Gold Loan"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Two Wheeler Loan"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Gold Loan"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Auto Loan"
+      },
+      {
+        "type": "added",
+        "text": "GIGA Health Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Call an Expert"
+      },
+      {
+        "type": "added",
+        "text": "M-Kisan"
+      },
+      {
+        "type": "added",
+        "text": "Export & Import Documents"
+      },
+      {
+        "type": "added",
+        "text": "UPI remains free for consumers, while a future merchant framework may introduce nominal MDR on select transactions."
+      },
+      {
+        "type": "added",
+        "text": "UPI remains free for consumers, while a future merchant framework may introduce nominal MDR on select transactions."
+      },
+      {
+        "type": "context",
+        "text": "Indianoil Hdfc Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Earn up to 50 Litres of Free fuel annually"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Fuel Points are valid for a period of 2 years."
+      },
+      {
+        "type": "context",
+        "text": "Redemption of Reward Points to CashBack and Travel categories will be capped at 50,000 points per month per customer"
+      },
+      {
+        "type": "removed",
+        "text": "Accrual of Reward Points on Grocery Spends will be capped at 1000 points per month per customer"
+      },
+      {
+        "type": "added",
+        "text": "Accrual of Reward Points on grocery spends will be capped at 100 points per month per customer"
+      },
+      {
+        "type": "context",
+        "text": "There will be no Reward Points accrual on Spends made on Rental and Government category payments"
+      },
+      {
+        "type": "context",
+        "text": "Points plus Pay - A maximum of 70% can be paid using Reward Points and the other 30% to be made by payment modes (Cash/Cards/UPI etc.)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1% fuel surcharge off"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "HDB Financial Services"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Reward points cap on grocery spends reduced to 100 per month per customer"
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-card",
+    "cardName": "American Express® Platinum Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
+    "status": "Active",
+    "detectedAt": "2026-09-03T08:03:01.748Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "The best part? Your points never expire."
+      },
+      {
+        "type": "context",
+        "text": "Choose to Pay with points or redeem your points for over 500 options across travel, dining, accessories and more"
+      },
+      {
+        "type": "removed",
+        "text": "Earn up to 5X rewards on 200+ brands with Shopwise || Gift voucher category"
+      },
+      {
+        "type": "added",
+        "text": "Earn 5X Membership Rewards ® on e-Vouchers from 200+ leading brands with Shopwise , including Tata CLiQ Luxury, Tanishq, MakeMyTrip, Swiggy, Uber and Nykaa. T&Cs Apply*"
+      },
+      {
+        "type": "context",
+        "text": "Platinum Experiences"
+      },
+      {
+        "type": "context",
+        "text": "Get on a gastronomical discovery with a power-packed dining programme from EazyDiner."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added 5X Membership Rewards on e-Vouchers from 200+ brands"
+    }
+  },
+  {
     "id": "icici-bank-parakram-select-credit-card",
     "cardName": "Parakram Select Credit Card",
     "issuerName": "ICICI Bank",
@@ -525,150 +1121,6 @@
       "via": "google"
     },
     "summary": "Updated lounge access benefit wording and added annual frequency."
-  },
-  {
-    "id": "icici-bank-sapphiro-credit-card",
-    "cardName": "Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
-    "status": "Active",
-    "detectedAt": "2026-09-02T07:59:11.551Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank Sapphiro Credit Card: Travel and Lifestyle Rewards"
-      },
-      {
-        "type": "removed",
-        "text": "ICICI Bank"
-      },
-      {
-        "type": "removed",
-        "text": "Open NRE/NRO accounts to manage your banking"
-      },
-      {
-        "type": "removed",
-        "text": "FDs offer stable returns for your dreams"
-      },
-      {
-        "type": "removed",
-        "text": "Portfolio Investment Scheme"
-      },
-      {
-        "type": "removed",
-        "text": "Enables NRIs to purchase and sell shares"
-      },
-      {
-        "type": "removed",
-        "text": "Cost-effective online money transfer service"
-      },
-      {
-        "type": "removed",
-        "text": "Transfer now"
-      },
-      {
-        "type": "removed",
-        "text": "Avail digital sanction in 5 simple steps"
-      },
-      {
-        "type": "removed",
-        "text": "Get complete control of your bank account"
-      },
-      {
-        "type": "removed",
-        "text": "Login now"
-      },
-      {
-        "type": "removed",
-        "text": "A one-stop knowledge hub"
-      },
-      {
-        "type": "removed",
-        "text": "Visit now"
-      },
-      {
-        "type": "context",
-        "text": "Best for"
-      },
-      {
-        "type": "context",
-        "text": "Maximum benefits"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get Welcome Vouchers from Tata CLiQ, EazyDiner, Da Milano, EaseMyTrip & Tata Croma. To know more, click here"
-      },
-      {
-        "type": "context",
-        "text": "Annually"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 complimentary International airport lounge access,  Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 complimentary International airport lounge access"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 4 Domestic airport lounge access  Click here  for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 4 Domestic airport lounge access.  Click here  for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Twice every month"
-      },
-      {
-        "type": "context",
-        "text": "Buy one ticket & get up to ₹500 off on the second ticket through BookMyShow"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Check your Booking History to view all bookings and details."
-      },
-      {
-        "type": "context",
-        "text": "You may also call i-Assist, our 24X7 concierge service on 1800 26 70731 (toll free for MTNL/BSNL lines) or 022 6787 2016 (standard call charges applicable), for assistance with online booking. An authorisation amount of ₹2 shall be taken for each eligible Card."
-      },
-      {
-        "type": "removed",
-        "text": "For step-by-step instructions on the booking process, click here"
-      },
-      {
-        "type": "context",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Lounge access benefit wording updated for the Sapphiro Credit Card."
-    }
   },
   {
     "id": "hsbc-india-hsbc-taj-credit-card",
@@ -2524,142 +2976,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated lounge access benefit wording for the Primary Cardholder"
-    }
-  },
-  {
-    "id": "icici-bank-times-black-credit-card",
-    "cardName": "Times Black Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/times-black-icici-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-01T08:45:48.401Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Times Black ICICI Bank Credit Card | Perks and Rewards"
-      },
-      {
-        "type": "added",
-        "text": "ICICI Bank"
-      },
-      {
-        "type": "added",
-        "text": "Open NRE/NRO accounts to manage your banking"
-      },
-      {
-        "type": "added",
-        "text": "FDs offer stable returns for your dreams"
-      },
-      {
-        "type": "added",
-        "text": "Portfolio Investment Scheme"
-      },
-      {
-        "type": "added",
-        "text": "Enables NRIs to purchase and sell shares"
-      },
-      {
-        "type": "added",
-        "text": "Cost-effective online money transfer service"
-      },
-      {
-        "type": "added",
-        "text": "Transfer now"
-      },
-      {
-        "type": "added",
-        "text": "Avail digital sanction in 5 simple steps"
-      },
-      {
-        "type": "added",
-        "text": "Get complete control of your bank account"
-      },
-      {
-        "type": "added",
-        "text": "Login now"
-      },
-      {
-        "type": "added",
-        "text": "A one-stop knowledge hub"
-      },
-      {
-        "type": "added",
-        "text": "Visit now"
-      },
-      {
-        "type": "context",
-        "text": "Fees and Charges"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Parakram Select Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Curated Luxury Services"
-      },
-      {
-        "type": "context",
-        "text": "Get lifestyle management services from CribLife with 6 exclusive offerings."
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited Domestic Lounge Access"
-      },
-      {
-        "type": "removed",
-        "text": "Relax in style with unlimited complimentary lounge access at domestic airports."
-      },
-      {
-        "type": "removed",
-        "text": "Click here for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited International Lounge Access"
-      },
-      {
-        "type": "removed",
-        "text": "Experience luxury worldwide with complimentary lounge access"
-      },
-      {
-        "type": "added",
-        "text": "Unlimited Access"
-      },
-      {
-        "type": "added",
-        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Unlimited Access"
-      },
-      {
-        "type": "added",
-        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Gourmet Indulgence"
-      },
-      {
-        "type": "context",
-        "text": "Annual membership of Zomato Gold for exclusive dining privileges"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Lounge access benefit updated to specify domestic and international access for the primary cardholder."
     }
   },
   {
@@ -7292,58 +7608,6 @@
     }
   },
   {
-    "id": "amex-american-express-platinum-card",
-    "cardName": "American Express® Platinum Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
-    "status": "Active",
-    "detectedAt": "2026-08-28T15:22:31.618Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Platinum Charge Card| American Express India"
-      },
-      {
-        "type": "added",
-        "text": "The American Express ®"
-      },
-      {
-        "type": "added",
-        "text": "Platinum Card"
-      },
-      {
-        "type": "added",
-        "text": "Welcome gift worth up to INR 60,000 * with option to choose from Taj Hotels, Luxe Gift Card, The Postcard Hotels & Resorts"
-      },
-      {
-        "type": "added",
-        "text": "Annual Fee: INR 66,000 plus applicable taxes"
-      },
-      {
-        "type": "added",
-        "text": "Scroll down to learn more"
-      },
-      {
-        "type": "context",
-        "text": "1/4 Travel with Platinum Learn More"
-      },
-      {
-        "type": "context",
-        "text": "2/4 World Class Service Learn More"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Annual fee now INR 66,000 plus taxes and a welcome gift up to INR 60,000."
-    }
-  },
-  {
     "id": "hsbc-india-hsbc-travelone-credit-card",
     "cardName": "HSBC TravelOne Credit Card",
     "issuerName": "HSBC India",
@@ -11547,151 +11811,6 @@
       "status": "unverified",
       "candidateSummary": "Added 1:1 burn rates on Reward Points for selected E Gift Card Vouchers"
     }
-  },
-  {
-    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
-    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-18T04:02:11.101Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "₹0"
-      },
-      {
-        "type": "context",
-        "text": "₹2L"
-      },
-      {
-        "type": "removed",
-        "text": "Monthly spends on Insurance, Fuel, Utilities, Rent & Wallets?"
-      },
-      {
-        "type": "added",
-        "text": "Monthly spends on Insurance, Fuel, Utility, Rent, Wallet, Government, Education, Railways, Tolls & Transit"
-      },
-      {
-        "type": "context",
-        "text": "Earn 0.5 IndiGo BluChips per ₹100*"
-      },
-      {
-        "type": "context",
-        "text": "p.m"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "8 **"
-      },
-      {
-        "type": "context",
-        "text": "Approx. No of free flights earned annually"
-      },
-      {
-        "type": "removed",
-        "text": "Redeem your IndiGo BluChips"
-      },
-      {
-        "type": "removed",
-        "text": "Unlock flight bookings using your IndiGo BluChips – all seamlessly on Indigo Website or on the IndiGo App"
-      },
-      {
-        "type": "removed",
-        "text": "Instant flights, domestic or international!"
-      },
-      {
-        "type": "removed",
-        "text": "No blackout date restrictions for redemption"
-      },
-      {
-        "type": "removed",
-        "text": "Flexible part payment – book tickets using a mix of card & IndiGo BluChips"
-      },
-      {
-        "type": "removed",
-        "text": "How To Redeem"
-      },
-      {
-        "type": "removed",
-        "text": "Don’t have a IndiGo BluChip membership yet? Register here before applying for the card to link your rewards"
-      },
-      {
-        "type": "removed",
-        "text": "seamlessly."
-      },
-      {
-        "type": "context",
-        "text": "Two Cards. One Rewards Pool."
-      },
-      {
-        "type": "context",
-        "text": "Limitless Ways to Earn"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "(2nd year onwards)"
-      },
-      {
-        "type": "context",
-        "text": "For more details refer MITC"
-      },
-      {
-        "type": "added",
-        "text": "Redeem your IndiGo BluChips"
-      },
-      {
-        "type": "added",
-        "text": "Unlock flight bookings using your IndiGo BluChips – all seamlessly on Indigo Website or on the IndiGo App"
-      },
-      {
-        "type": "added",
-        "text": "Instant flights, domestic or international!"
-      },
-      {
-        "type": "added",
-        "text": "No blackout date restrictions for redemption"
-      },
-      {
-        "type": "added",
-        "text": "Flexible part payment – book tickets using a mix of card & IndiGo BluChips"
-      },
-      {
-        "type": "added",
-        "text": "How To Redeem"
-      },
-      {
-        "type": "added",
-        "text": "Don’t have a IndiGo BluChip membership yet? Register here before applying for the card to link your rewards"
-      },
-      {
-        "type": "added",
-        "text": "seamlessly."
-      },
-      {
-        "type": "context",
-        "text": "Steps to Apply for IndiGo IDFC FIRST Dual Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "5 mins to apply"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added and expanded IndiGo BluChips flight booking and redemption benefits for the IndiGo IDFC FIRST Dual Credit Card."
   },
   {
     "id": "rbl-bank-world-prime-credit-card",

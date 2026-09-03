@@ -11,11 +11,18 @@
 // those items upgrade to "verified" once that evidence exists, instead of
 // staying stuck at whatever was known the moment the newsletter shipped.
 //
+// Also syncs docs/data/auto-verified-changes.json (see
+// lib/auto-verified-changes.mjs) and merges it into every by-issuer feed
+// alongside newsletter items, so a verified change reaches its issuer
+// feed as soon as it's detected and grounded - not gated on a newsletter
+// ever being written about it.
+//
 // Safe to run standalone too: `node scripts/regenerate-newsletter-tags.mjs`
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { resolveItemVerification, flattenItemsByIssuer } from "./lib/newsletter-verification.mjs";
+import { syncAutoVerifiedChanges, readAutoVerifiedChanges } from "./lib/auto-verified-changes.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = path.join(__dirname, "..");
@@ -74,9 +81,6 @@ export async function regenerateNewsletterTags() {
   };
 
   const newsletters = readJson(NEWSLETTERS_PATH, []);
-  if (newsletters.length === 0) {
-    return { editionsChecked: 0, itemsChecked: 0, upgraded: 0 };
-  }
 
   let itemsChecked = 0;
   let totalUpgraded = 0;
@@ -98,9 +102,20 @@ export async function regenerateNewsletterTags() {
     return { ...entry, items: retagged };
   });
 
-  writeJson(NEWSLETTERS_PATH, retaggedNewsletters);
+  if (newsletters.length > 0) {
+    writeJson(NEWSLETTERS_PATH, retaggedNewsletters);
+  }
 
-  const byIssuer = flattenItemsByIssuer(retaggedNewsletters);
+  // Verified Tier 1 changes get pushed into auto-verified-changes.json as
+  // soon as they're detected and grounded, independent of whether a
+  // newsletter edition ever gets written about them - see
+  // lib/auto-verified-changes.mjs. Always run this (and always regenerate
+  // by-issuer below) even when there are zero newsletters yet, so
+  // by-issuer feeds aren't silently skipped just because no edition has
+  // ever been published.
+  const autoAdded = syncAutoVerifiedChanges();
+
+  const byIssuer = flattenItemsByIssuer(retaggedNewsletters, readAutoVerifiedChanges());
   const issuersWritten = [];
   byIssuer.forEach((items, issuer) => {
     writeJson(path.join(BY_ISSUER_DIR, issuer + ".json"), items);
@@ -111,6 +126,7 @@ export async function regenerateNewsletterTags() {
     editionsChecked: newsletters.length,
     itemsChecked,
     upgraded: totalUpgraded,
+    autoAdded,
     issuersWritten
   };
 }
@@ -119,7 +135,7 @@ async function main() {
   const result = await regenerateNewsletterTags();
   console.log(
     `Re-tagged ${result.itemsChecked} item(s) across ${result.editionsChecked} edition(s): ` +
-      `${result.upgraded} upgraded to verified.`
+      `${result.upgraded} upgraded to verified. ${result.autoAdded} verified change(s) auto-pushed without a newsletter.`
   );
   if (result.issuersWritten?.length) {
     console.log(`Issuer feeds rewritten: ${result.issuersWritten.sort().join(", ")}`);

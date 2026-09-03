@@ -1,5 +1,47 @@
 [
   {
+    "card_slug": "parakram-credit-card",
+    "card_name": "Parakram Credit Card",
+    "issuer": "icici",
+    "change_type": "benefit-change",
+    "summary": "Changed lounge benefit to domestic only, adding a link to lounge list",
+    "status": "verified",
+    "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/parakram-cards/parakram",
+    "verification_link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyD-mEg79GZC8W7UETBaY4MQspgwS53-oJeSwf668IaM8C_Ibrof7f14W6ohoQgc3ugF8DHLrvO_1uGf_wawt7ksch0G2K1p_IVriaj1asirb5IUV8z45-TqSPM1i0ewQATwjbiCUdDpcb7rJ8sjHd4K3q1mY_9zfDEw==",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-09-02",
+    "edition_permalink": null
+  },
+  {
+    "card_slug": "expression-credit-card",
+    "card_name": "Expression Credit Card",
+    "issuer": "icici",
+    "change_type": "benefit-change",
+    "summary": "Added a link to the lounge list for the domestic lounge access benefit",
+    "status": "verified",
+    "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card",
+    "verification_link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuk29mNtea1MkJqr9a5YvLiba2z8vqpgfcxjg0fnITwhIDU-MiA5o29llCHo_2Cyu9ocR9_58LSpr-Hs_WSD5DJeFBy5ncz5YyQnIqxpj7zUokHUtz0jGcxffEPcLoxbzW3F8fu2vB",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-09-02",
+    "edition_permalink": null
+  },
+  {
+    "card_slug": "emirates-sapphiro-credit-card",
+    "card_name": "Emirates Sapphiro Credit Card",
+    "issuer": "icici",
+    "change_type": "benefit-change",
+    "summary": "Updated lounge access benefit wording and added annual frequency.",
+    "status": "verified",
+    "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
+    "verification_link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJsjtIzHeI58K4WbYoQR9V3PbCk_p9UOax4sj2pxoueIku8kj5TdqJN9EODukUzfoDvqjQofOBqyVV2PlzMsOwyRsfS8JF3iSLHEdfqpX8AzdBdyqoKpDu5TVIvZBBC7Bk_L_e1K5nWewrwiysNTuQAikth02R2ZGmsenGTMBJdJTxQjQOKhYY_w==",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-09-02",
+    "edition_permalink": null
+  },
+  {
     "card_slug": "icici-times-black",
     "card_name": "ICICI Bank Times Black Credit Card",
     "issuer": "icici",
@@ -8,6 +50,7 @@
     "status": "unverified",
     "official_link": null,
     "verification_link": null,
+    "source": "newsletter",
     "edition_number": 6,
     "edition_date": "2026-08-25",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25#icici-times-black"
@@ -21,6 +64,7 @@
     "status": "unverified",
     "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
     "verification_link": null,
+    "source": "newsletter",
     "edition_number": 3,
     "edition_date": "2026-08-21",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-21#icici-amazon-pay"
@@ -34,6 +78,7 @@
     "status": "unverified",
     "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
     "verification_link": null,
+    "source": "newsletter",
     "edition_number": 1,
     "edition_date": "2026-08-19",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-19#icici-emirates-emeralde"

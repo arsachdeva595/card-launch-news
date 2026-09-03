@@ -128,13 +128,29 @@ export function resolveItemVerification(item, { changes, launches, trackedCards 
  * inlined - the shape scripts/publish-edition.js,
  * scripts/regenerate-issuer-feeds.js, and scripts/regenerate-newsletter-tags.mjs
  * all need to produce identically.
+ *
+ * `autoVerifiedItems` (see lib/auto-verified-changes.mjs) are verified
+ * Tier 1 changes pushed here directly from changes.json, without waiting
+ * for a newsletter edition to be written about them - included alongside
+ * newsletter items unless a newsletter entry already covers the same
+ * card/issuer on the same day (a human-written newsletter entry is the
+ * better version once it exists; checked here too, not just at sync time,
+ * so it stays correct even if that newsletter edition was published
+ * *after* the auto item was already recorded).
  */
-export function flattenItemsByIssuer(newsletters) {
+export function flattenItemsByIssuer(newsletters, autoVerifiedItems = []) {
   const byIssuer = new Map();
+  const newsletterDayKeys = new Set();
+
+  function push(issuer, flatItem) {
+    if (!byIssuer.has(issuer)) byIssuer.set(issuer, []);
+    byIssuer.get(issuer).push(flatItem);
+  }
 
   newsletters.forEach((entry) => {
     (entry.items || []).forEach((item) => {
-      const flatItem = {
+      newsletterDayKeys.add(`${item.issuer}::${normalizeCardName(item.card_name)}::${entry.date}`);
+      push(item.issuer, {
         card_slug: item.card_slug,
         card_name: item.card_name,
         issuer: item.issuer,
@@ -143,15 +159,30 @@ export function flattenItemsByIssuer(newsletters) {
         status: item.status,
         official_link: item.official_link ?? null,
         verification_link: item.verification_link ?? null,
+        source: "newsletter",
         edition_number: entry.number,
         edition_date: entry.date,
         edition_permalink: entry.permalink + "#" + item.card_slug
-      };
+      });
+    });
+  });
 
-      if (!byIssuer.has(item.issuer)) {
-        byIssuer.set(item.issuer, []);
-      }
-      byIssuer.get(item.issuer).push(flatItem);
+  autoVerifiedItems.forEach((item) => {
+    const dayKey = `${item.issuer}::${normalizeCardName(item.card_name)}::${String(item.detected_at).slice(0, 10)}`;
+    if (newsletterDayKeys.has(dayKey)) return;
+    push(item.issuer, {
+      card_slug: item.card_slug,
+      card_name: item.card_name,
+      issuer: item.issuer,
+      change_type: item.change_type,
+      summary: item.summary,
+      status: item.status,
+      official_link: item.official_link ?? null,
+      verification_link: item.verification_link ?? null,
+      source: "auto-detected",
+      edition_number: null,
+      edition_date: String(item.detected_at).slice(0, 10),
+      edition_permalink: null
     });
   });
 

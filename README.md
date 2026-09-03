@@ -547,6 +547,11 @@ a small static viewer page.
   full.
 - `docs/data/editions/{YYYY-MM-DD}.json`: one file per edition, the full
   record including `body_html` (and `body_markdown` when available).
+- `docs/data/auto-verified-changes.json`: verified Tier 1 changes pushed
+  here directly from `changes.json`, independent of whether any newsletter
+  edition covers them — see "Auto-pushed verified changes" below. Merged
+  into `by-issuer` feeds alongside newsletter items; not meant to be read
+  on its own.
 - `docs/data/by-issuer/{issuer-slug}.json`: a flat array of every item
   (card mention) across all editions that named this issuer, newest first
   by `edition_date`. Each item carries its parent edition's number, date,
@@ -565,6 +570,12 @@ a small static viewer page.
     citation) that corroborated the claim — only set when `status` is
     `"verified"` and something more specific than the official page itself
     backs it.
+  - `source`: `"newsletter"` (came from a published edition, carries
+    `edition_number`/`edition_date`/`edition_permalink`) or
+    `"auto-detected"` (pushed straight from `changes.json` once verified,
+    with no newsletter written about it yet — see "Auto-pushed verified
+    changes" below; `edition_number`/`edition_permalink` are `null` for
+    these).
 
   Issuer slugs are the canonical short form, one per issuer in
   `config/issuers.json`:
@@ -651,6 +662,37 @@ the run. Safe to run standalone too:
 ```bash
 node scripts/regenerate-newsletter-tags.mjs
 ```
+
+### Auto-pushed verified changes (no newsletter required)
+
+`by-issuer` feeds depend entirely on a newsletter edition being published —
+before this, a card's verified Tier 1 change was invisible to `by-issuer`
+consumers for as long as the newsletter routine (Cowork, on its own
+schedule outside this repo) happened not to run, even though
+`docs/data/changes.json` already had it, grounded and everything.
+`scripts/lib/auto-verified-changes.mjs` closes that gap: every run of
+`scripts/regenerate-newsletter-tags.mjs` (so once a day, automatically,
+via `run.mjs`) scans `changes.json` for entries with
+`summaryVerification.status === "verified"` and upserts a corresponding
+item into `docs/data/auto-verified-changes.json`, keyed by
+(issuer, card name, detected date) so reruns never duplicate. `change_type`
+is inferred with a best-effort regex classifier over the summary text
+(fee/reward/benefit/eligibility/discontinued keywords, defaulting to
+`"other"`) — a newsletter item's `change_type` is a human/Cowork judgment
+call, this is an approximation, not a replacement for it.
+
+`flattenItemsByIssuer()` merges this list into every by-issuer feed
+alongside newsletter-derived items, distinguished by a `source` field
+(`"auto-detected"` vs `"newsletter"`). An auto-pushed item has no edition
+to point at, so `official_link` (the card's own product page) is what it
+links to instead of an `edition_permalink`; `edition_number` and
+`edition_permalink` are `null` for these. If a newsletter edition later
+covers the same card/issuer on the same day the auto item was recorded
+for, the newsletter version is what shows — the auto item for that
+specific day is dropped in favor of it (checked at merge time, not just
+when the auto item was first added, so this stays correct even if the
+newsletter is published afterward). A different day's change for the same
+card is unaffected and still shows on its own.
 
 ### Edition viewer
 

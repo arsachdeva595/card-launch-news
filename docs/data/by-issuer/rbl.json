@@ -8,6 +8,7 @@
     "status": "verified",
     "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
     "verification_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
+    "source": "newsletter",
     "edition_number": 7,
     "edition_date": "2026-08-26",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-26#rbl-shoppers-stop-black"
@@ -21,6 +22,7 @@
     "status": "verified",
     "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
     "verification_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
+    "source": "newsletter",
     "edition_number": 7,
     "edition_date": "2026-08-26",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-26#rbl-shoppers-stop-gold"
@@ -34,6 +36,7 @@
     "status": "verified",
     "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
     "verification_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
+    "source": "newsletter",
     "edition_number": 7,
     "edition_date": "2026-08-26",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-26#rbl-shoppers-stop-platinum"
@@ -47,6 +50,7 @@
     "status": "unverified",
     "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-play-credit-card",
     "verification_link": null,
+    "source": "newsletter",
     "edition_number": 6,
     "edition_date": "2026-08-25",
     "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-08-25#rbl-bank-play"

@@ -1,5 +1,47 @@
 [
   {
+    "card_slug": "axis-bank-flipkart-axis-bank-credit-card",
+    "card_name": "FLIPKART AXIS BANK Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Joining fee dropped from ₹500 to Nil as a limited period offer; annual fee terms unchanged.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+    "verification_link": null,
+    "source": "newsletter",
+    "edition_number": 13,
+    "edition_date": "2026-09-02",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-02#axis-bank-flipkart-axis-bank-credit-card"
+  },
+  {
+    "card_slug": "axis-bank-axis-bank-privilege-credit-card",
+    "card_name": "AXIS BANK PRIVILEGE Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Standard annual fee from year 2 onwards waived from ₹1,500 to Nil as a limited period offer, for a card no longer open to new applicants.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "verification_link": null,
+    "source": "newsletter",
+    "edition_number": 13,
+    "edition_date": "2026-09-02",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-02#axis-bank-axis-bank-privilege-credit-card"
+  },
+  {
+    "card_slug": "axis-bank-axis-bank-vistara-credit-card",
+    "card_name": "AXIS BANK VISTARA Credit Card",
+    "issuer": "axis",
+    "change_type": "discontinuation",
+    "summary": "Card will stop working for spends after 31 October 2026 due to the Vistara-Air India merger; new applicants already couldn't get this card.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-credit-card",
+    "verification_link": null,
+    "source": "newsletter",
+    "edition_number": 12,
+    "edition_date": "2026-09-01",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-01#axis-bank-axis-bank-vistara-credit-card"
+  },
+  {
     "card_slug": "axis-vistara-infinite",
     "card_name": "Axis Bank Vistara Infinite Credit Card",
     "issuer": "axis",

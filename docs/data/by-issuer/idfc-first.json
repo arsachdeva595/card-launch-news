@@ -1,0 +1,41 @@
+[
+  {
+    "card_slug": "idfc-first-bank-purchase-credit-card",
+    "card_name": "Purchase Credit Card",
+    "issuer": "idfc-first",
+    "change_type": "reward-change",
+    "summary": "Rewards-or-rebate choice replaced with a flat up to 150bps rebate, and a long list of merchant categories (fuel, utilities, government, etc.) now earn nothing.",
+    "status": "unverified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/purchase-credit-card",
+    "verification_link": null,
+    "edition_number": 12,
+    "edition_date": "2026-09-01",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-01#idfc-first-bank-purchase-credit-card"
+  },
+  {
+    "card_slug": "idfc-first-bank-lic-select",
+    "card_name": "LIC Select",
+    "issuer": "idfc-first",
+    "change_type": "reward-change",
+    "summary": "Accelerated reward points on LIC premium payments now capped at the first 5 payments per statement cycle.",
+    "status": "unverified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/lic-credit-card",
+    "verification_link": null,
+    "edition_number": 12,
+    "edition_date": "2026-09-01",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-01#idfc-first-bank-lic-select"
+  },
+  {
+    "card_slug": "idfc-first-bank-lic-classic",
+    "card_name": "LIC Classic",
+    "issuer": "idfc-first",
+    "change_type": "reward-change",
+    "summary": "Same accelerated-points cap as LIC Select: first 5 LIC premium payments per statement cycle only.",
+    "status": "unverified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/lic-classic-credit-card",
+    "verification_link": null,
+    "edition_number": 12,
+    "edition_date": "2026-09-01",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-01#idfc-first-bank-lic-classic"
+  }
+]

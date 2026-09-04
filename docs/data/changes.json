@@ -7,155 +7,195 @@
     "officialUrl": "https://www.idfcfirst.bank.in/",
     "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
     "status": "Active",
-    "detectedAt": "2026-09-03T08:09:11.516Z",
+    "detectedAt": "2026-09-04T08:04:28.721Z",
     "diffHunks": [
+      {
+        "type": "context",
+        "text": "Statement"
+      },
+      {
+        "type": "context",
+        "text": "Reward Pool"
+      },
+      {
+        "type": "removed",
+        "text": "Why choose IndiGo IDFC FIRST Dual Credit Cards?"
+      },
+      {
+        "type": "added",
+        "text": "Why choose IndiGo IDFC FIRST Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "A Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "for Everyone"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Don’t have a IndiGo BluChip membership yet? Register here before applying for the card to link your rewards"
+      },
       {
         "type": "context",
         "text": "seamlessly."
       },
       {
-        "type": "context",
+        "type": "removed",
         "text": "Steps to Apply for IndiGo IDFC FIRST Dual Credit Card"
       },
       {
-        "type": "added",
+        "type": "removed",
         "text": "Eligibility for the Indigo Dual Credit Card"
       },
       {
-        "type": "context",
+        "type": "removed",
         "text": "5 mins to apply"
       },
       {
-        "type": "context",
+        "type": "removed",
         "text": "100% Digital KYC"
       },
       {
-        "type": "ellipsis",
-        "text": "…"
+        "type": "removed",
+        "text": "Instant Approval"
+      },
+      {
+        "type": "added",
+        "text": "Steps to Apply for IndiGo IDFC FIRST Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Eligibility for the Indigo Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "18 years of age or above"
+      },
+      {
+        "type": "added",
+        "text": "Resident of India"
       },
       {
         "type": "context",
-        "text": "Approval"
+        "text": "Apply with ₹4999 Joining Fee"
       },
       {
         "type": "context",
-        "text": "Get Card Instantly"
+        "text": "Apply with ₹0 Joining fee with FD"
       },
       {
         "type": "removed",
-        "text": "Experience convenience like never before with 100% digital application process"
-      },
-      {
-        "type": "removed",
-        "text": "Instant approval"
-      },
-      {
-        "type": "removed",
-        "text": "engine"
-      },
-      {
-        "type": "removed",
-        "text": "Secure Aadhar"
-      },
-      {
-        "type": "removed",
-        "text": "e-KYC + Video-KYC"
-      },
-      {
-        "type": "removed",
-        "text": "Get Card Instantly"
-      },
-      {
-        "type": "removed",
-        "text": "Track in Real time"
-      },
-      {
-        "type": "removed",
-        "text": "Card approved"
-      },
-      {
-        "type": "removed",
-        "text": "Card issued"
-      },
-      {
-        "type": "removed",
-        "text": "All in 5 minutes"
-      },
-      {
-        "type": "removed",
-        "text": "Your IndiGo IDFC FIRST Credit Card could be live in 5 minutes – why wait?"
-      },
-      {
-        "type": "removed",
-        "text": "PRO TIP : To make your application smoother, ensure that you’re a registered member of the IndiGo BluChip Loyalty Program."
-      },
-      {
-        "type": "context",
         "text": "Start"
       },
       {
-        "type": "context",
+        "type": "removed",
         "text": "Mobile OTP"
       },
       {
-        "type": "ellipsis",
-        "text": "…"
+        "type": "removed",
+        "text": "PAN + Income"
       },
       {
-        "type": "context",
+        "type": "removed",
+        "text": "Video-KYC"
+      },
+      {
+        "type": "removed",
         "text": "Approval"
       },
       {
-        "type": "context",
-        "text": "Get Card Instantly"
-      },
-      {
-        "type": "removed",
-        "text": "Experience convenience like never before with 100% digital application process"
-      },
-      {
-        "type": "removed",
-        "text": "Instant approval"
-      },
-      {
-        "type": "removed",
-        "text": "engine"
-      },
-      {
-        "type": "removed",
-        "text": "Secure Aadhar"
-      },
-      {
-        "type": "removed",
-        "text": "e-KYC + Video-KYC"
-      },
-      {
         "type": "removed",
         "text": "Get Card Instantly"
       },
       {
         "type": "removed",
-        "text": "Track in Real time"
+        "text": "Start"
       },
       {
         "type": "removed",
-        "text": "Card approved"
+        "text": "Mobile OTP"
       },
       {
         "type": "removed",
-        "text": "Card issued"
+        "text": "PAN + Income"
       },
       {
         "type": "removed",
-        "text": "All in 5 minutes"
+        "text": "Create FD"
+      },
+      {
+        "type": "removed",
+        "text": "Video-KYC"
+      },
+      {
+        "type": "removed",
+        "text": "Approval"
+      },
+      {
+        "type": "removed",
+        "text": "Get Card Instantly"
+      },
+      {
+        "type": "added",
+        "text": "Enter basic details"
+      },
+      {
+        "type": "added",
+        "text": "Video KYC"
+      },
+      {
+        "type": "added",
+        "text": "Joining fee payment"
+      },
+      {
+        "type": "added",
+        "text": "Virtual card issued instantly"
+      },
+      {
+        "type": "added",
+        "text": "Enter personal details"
+      },
+      {
+        "type": "added",
+        "text": "FD is created online"
+      },
+      {
+        "type": "added",
+        "text": "Video KYC"
+      },
+      {
+        "type": "added",
+        "text": "Virtual card issued instantly"
       },
       {
         "type": "context",
         "text": "Your IndiGo IDFC FIRST Credit Card could be live in 5 minutes – why wait?"
       },
       {
-        "type": "removed",
-        "text": "PRO TIP : To make your application smoother, ensure that you’re a registered member of the IndiGo BluChip Loyalty Program."
+        "type": "added",
+        "text": "What documents will you need to apply?"
+      },
+      {
+        "type": "added",
+        "text": "Documents and essentials required for the IndiGo IDFC FIRST Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Aadhaar number"
+      },
+      {
+        "type": "added",
+        "text": "Physical PAN Card for video KYC"
+      },
+      {
+        "type": "added",
+        "text": "Minimum Fixed Deposit of ₹1,00,000 for ₹0 Joining fee card"
       },
       {
         "type": "context",
@@ -172,7 +212,91 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Eligibility criteria for the IndiGo IDFC FIRST Dual Credit Card added."
+      "candidateSummary": "Joining fee reduced to ₹0 with a minimum ₹1,00,000 fixed deposit requirement"
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-card",
+    "cardName": "American Express® Platinum Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
+    "status": "Active",
+    "detectedAt": "2026-09-04T07:59:05.236Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Benefits worth INR 44,300 * every time you book at one of the 1000+ properties at one of the 1000+ properties under the Fine Hotels & Resorts collection."
+      },
+      {
+        "type": "context",
+        "text": "The Hotel Collection offers you a world of luxurious comfort, which includes a US$100 experience credit and a room upgrade"
+      },
+      {
+        "type": "added",
+        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
+      },
+      {
+        "type": "context",
+        "text": "STAY PROTECTED WITH EMERGENCY SERVICES AND INSURANCE."
+      },
+      {
+        "type": "context",
+        "text": "Go places with complete peace of mind, knowing you are protected with these benefits -"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Travel benefits for those constantly on the move"
+      },
+      {
+        "type": "context",
+        "text": "As a Platinum Cardmember, enjoy exclusive deals on some of the world’s finest airlines like Air India, Etihad, Qatar Airways, Virgin Atlantic, Air France, KLM, Lufthansa, United Airlines and more"
+      },
+      {
+        "type": "added",
+        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
+      },
+      {
+        "type": "context",
+        "text": "Unwind at FINE HOTELS & RESORTS worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary benefits worth INR 44,300 *  at iconic 5-star properties that include guaranteed 4pm late check-out, room upgrades at check in when available 5 , daily breakfast for two, WiFi or a special amenity * at each property worth US$100."
+      },
+      {
+        "type": "context",
+        "text": "The hotels included are The Ritz- Carlton, The Vanderbilt, Hyatt, Hilton and many more……"
+      },
+      {
+        "type": "context",
+        "text": "Explore more"
+      },
+      {
+        "type": "added",
+        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
+      },
+      {
+        "type": "context",
+        "text": "Enjoy seamless upgrades to Elite Tier Memberships"
+      },
+      {
+        "type": "context",
+        "text": "Your American Express Platinum Card fast-tracks you to the higher tiers of leading hotel loyalty programs around the world, without having to fulfil the usual qualifying criteria."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added blackout dates for new travel bookings on the card."
     }
   },
   {
@@ -549,50 +673,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Reward points cap on grocery spends reduced to 100 per month per customer"
-    }
-  },
-  {
-    "id": "amex-american-express-platinum-card",
-    "cardName": "American Express® Platinum Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
-    "status": "Active",
-    "detectedAt": "2026-09-03T08:03:01.748Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "The best part? Your points never expire."
-      },
-      {
-        "type": "context",
-        "text": "Choose to Pay with points or redeem your points for over 500 options across travel, dining, accessories and more"
-      },
-      {
-        "type": "removed",
-        "text": "Earn up to 5X rewards on 200+ brands with Shopwise || Gift voucher category"
-      },
-      {
-        "type": "added",
-        "text": "Earn 5X Membership Rewards ® on e-Vouchers from 200+ leading brands with Shopwise , including Tata CLiQ Luxury, Tanishq, MakeMyTrip, Swiggy, Uber and Nykaa. T&Cs Apply*"
-      },
-      {
-        "type": "context",
-        "text": "Platinum Experiences"
-      },
-      {
-        "type": "context",
-        "text": "Get on a gastronomical discovery with a power-packed dining programme from EazyDiner."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added 5X Membership Rewards on e-Vouchers from 200+ brands"
     }
   },
   {

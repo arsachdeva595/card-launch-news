@@ -26429,11 +26429,6 @@
     "https://www.icici.bank.in/nri-banking/investment/pis-investment/portfolio-investment-scheme-faqs",
     "https://www.icici.bank.in/nri-banking/investment/icici-direct",
     "https://www.icici.bank.in/nri-banking/investment/mutual-fund",
-    "https://www.icici.bank.in/nri-banking/investment/investments-nri-pdp-pages",
-    "https://www.icici.bank.in/nri-banking/investment/investments-nri-pdp-pages/equities-page",
-    "https://www.icici.bank.in/nri-banking/investment/investments-nri-pdp-pages/mutual-funds-test-page",
-    "https://www.icici.bank.in/nri-banking/investment/investments-nri-pdp-pages/ipos-test-page",
-    "https://www.icici.bank.in/nri-banking/investment/investments-nri-pdp-pages/tax-saver-fd-test-page",
     "https://www.icici.bank.in/nri-banking/service-channels",
     "https://www.icici.bank.in/nri-banking/accounts",
     "https://www.icici.bank.in/nri-banking/accounts/student-account",
@@ -26461,12 +26456,6 @@
     "https://www.icici.bank.in/nri-banking/accounts/nri-private-banking",
     "https://www.icici.bank.in/nri-banking/accounts/how-to-apply",
     "https://www.icici.bank.in/nri-banking/accounts/capital-gains-account-scheme",
-    "https://www.icici.bank.in/nri-banking/accounts/accounts-nri-pdp-pages",
-    "https://www.icici.bank.in/nri-banking/accounts/accounts-nri-pdp-pages/nri-premium-account",
-    "https://www.icici.bank.in/nri-banking/accounts/accounts-nri-pdp-pages/select-banking",
-    "https://www.icici.bank.in/nri-banking/accounts/accounts-nri-pdp-pages/nri-student-account",
-    "https://www.icici.bank.in/nri-banking/accounts/accounts-nri-pdp-pages/rfc-savings-account",
-    "https://www.icici.bank.in/nri-banking/accounts/accounts-nri-pdp-pages/nri-premium-account1",
     "https://www.icici.bank.in/nri-banking/contact-us",
     "https://www.icici.bank.in/nri-banking/contact-us/nri-affinity-branches",
     "https://www.icici.bank.in/nri-banking/contact-us/email",
@@ -27774,6 +27763,10 @@
     "https://www.icici.bank.in/business-banking/trade-solutions/remittances",
     "https://www.icici.bank.in/business-banking/trade-solutions/inland-trade",
     "https://www.icici.bank.in/business-banking/trade-solutions/eefc-account",
+    "https://www.icici.bank.in/business-banking/trade-solutions/global-business-collections",
+    "https://www.icici.bank.in/business-banking/trade-solutions/global-business-collections/facilitating-ecommerce",
+    "https://www.icici.bank.in/business-banking/trade-solutions/global-business-collections/fast-seamless-cost-effective",
+    "https://www.icici.bank.in/business-banking/trade-solutions/global-business-collections/dashboard",
     "https://www.icici.bank.in/business-banking/terms-conditions",
     "https://www.icici.bank.in/business-banking/ways-to-bank/instabiz",
     "https://www.icici.bank.in/business-banking/ways-to-bank/corporate-internet-banking",
@@ -27941,5 +27934,5 @@
     "https://www.icici.bank.in/personal-banking/ways-to-bank/mobile-banking/mobile-web",
     "https://www.icici.bank.in/personal-banking/ways-to-bank/mobile-banking/mobile-services"
   ],
-  "updatedAt": "2026-09-03T08:01:32.648Z"
+  "updatedAt": "2026-09-04T07:57:50.138Z"
 }

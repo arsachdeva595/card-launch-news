@@ -1,5 +1,33 @@
 [
   {
+    "card_slug": "hdfc-bank-titanium-times-card",
+    "card_name": "Titanium Times Card",
+    "issuer": "hdfc",
+    "change_type": "benefit-change",
+    "summary": "Fuel surcharge waiver transaction ceiling raised from ₹4,000 to ₹5,000; the 1% rate and ₹250/month cap are unchanged.",
+    "status": "unverified",
+    "official_link": "https://www.hdfc.bank.in/credit-cards/titanium-times-card",
+    "verification_link": null,
+    "source": "newsletter",
+    "edition_number": 14,
+    "edition_date": "2026-09-05",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-05#hdfc-bank-titanium-times-card"
+  },
+  {
+    "card_slug": "hdfc-bank-platinum-times-credit-card",
+    "card_name": "Platinum Times Credit Card",
+    "issuer": "hdfc",
+    "change_type": "benefit-change",
+    "summary": "New Other Perks block added: up to 5% cashback on utility/shopping, 1% fuel surcharge waiver (₹400-5,000, capped at ₹500/month), renewal fee waiver at ₹2.5L annual spend, and post-purchase EMI conversion.",
+    "status": "unverified",
+    "official_link": "https://www.hdfc.bank.in/credit-cards/platinum-times-credit-card",
+    "verification_link": null,
+    "source": "newsletter",
+    "edition_number": 14,
+    "edition_date": "2026-09-05",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-05#hdfc-bank-platinum-times-credit-card"
+  },
+  {
     "card_slug": "hdfc-pine-labs-pro",
     "card_name": "Pine Labs HDFC Bank Pro Credit Card",
     "issuer": "hdfc",

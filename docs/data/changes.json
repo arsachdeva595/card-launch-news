@@ -1,5 +1,177 @@
 [
   {
+    "id": "hdfc-bank-titanium-times-card-alt-url",
+    "cardName": "Titanium Times Card (alt URL)",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/titanium-times-card-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-05T07:45:51.435Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Other Perks"
+      },
+      {
+        "type": "context",
+        "text": "Up to 5% ​CashBack on utility bills/shopping."
+      },
+      {
+        "type": "removed",
+        "text": "1% Fuel surcharge waiver on transactions between ₹400 and ₹4,000."
+      },
+      {
+        "type": "added",
+        "text": "1% Fuel surcharge waiver on transactions between ₹ 400 and ₹ 5000."
+      },
+      {
+        "type": "context",
+        "text": "Maximum waiver of ₹250 per month"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹1.5 lakh in a year and get a waiver of the renewal membership fee."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Fuel surcharge waiver threshold increased to ₹5,000."
+    }
+  },
+  {
+    "id": "hdfc-bank-titanium-times-card",
+    "cardName": "Titanium Times Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/titanium-times-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-05T07:45:51.421Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Other Perks"
+      },
+      {
+        "type": "context",
+        "text": "Up to 5% ​CashBack on utility bills/shopping."
+      },
+      {
+        "type": "removed",
+        "text": "1% Fuel surcharge waiver on transactions between ₹400 and ₹4,000."
+      },
+      {
+        "type": "added",
+        "text": "1% Fuel surcharge waiver on transactions between ₹ 400 and ₹ 5000."
+      },
+      {
+        "type": "context",
+        "text": "Maximum waiver of ₹250 per month"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹1.5 lakh in a year and get a waiver of the renewal membership fee."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Fuel surcharge waiver threshold increased from ₹4,000 to ₹5,000."
+    }
+  },
+  {
+    "id": "hdfc-bank-platinum-times-credit-card",
+    "cardName": "Platinum Times Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/platinum-times-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-05T07:45:51.414Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Option to convert big spends into EMI after purchase. Click here to learn more."
+      },
+      {
+        "type": "context",
+        "text": "Reward Redemption"
+      },
+      {
+        "type": "added",
+        "text": "Other Perks"
+      },
+      {
+        "type": "context",
+        "text": "More rewards with PayZapp"
+      },
+      {
+        "type": "context",
+        "text": "Credit and Safety"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reward Points accrued for Insurance transactions will have a maximum cap of 2,000 per day."
+      },
+      {
+        "type": "context",
+        "text": "Rewards Points will not be accrued for fuel transactions."
+      },
+      {
+        "type": "added",
+        "text": "Other Perks"
+      },
+      {
+        "type": "added",
+        "text": "Up to 5% ​CashBack on utility bills/shopping."
+      },
+      {
+        "type": "added",
+        "text": "1% Fuel surcharge waiver on transactions between ₹400 and ₹5,000."
+      },
+      {
+        "type": "added",
+        "text": "Maximum waiver of ₹500 per month"
+      },
+      {
+        "type": "added",
+        "text": "Spend ₹2.5 lakh in a year and get a waiver of the renewal membership fee."
+      },
+      {
+        "type": "added",
+        "text": "Convert your big spending into EMI after purchase. Click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "More rewards with PayZapp"
+      },
+      {
+        "type": "context",
+        "text": "Link your HDFC Bank Platinum Times Credit Card on PayZapp."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added cashback on utility bills/shopping and waived renewal fee after spending ₹2.5 lakh in a year."
+    }
+  },
+  {
     "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
     "cardName": "IndiGo IDFC FIRST Dual Credit Card",
     "issuerName": "IDFC First Bank",

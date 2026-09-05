@@ -234,11 +234,6 @@
     "https://equitas.bank.in/nri-banking/save/nri-recurring-deposits/nre-recurring-deposits/",
     "https://equitas.bank.in/nri-banking/save/nri-recurring-deposits/nro-recurring-deposits/",
     "https://equitas.bank.in/nri-banking/save/nri-recurring-deposits/recurring-deposits/",
-    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/equi-remit-1/",
-    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/equi-remit/",
-    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/money-to-overseas/",
-    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/money-transfer/",
-    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/retail-forex-rates/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/elite-epic/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/equitas-explore-savings-nre/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/equitas-explore-savings-nro/",
@@ -246,6 +241,11 @@
     "https://equitas.bank.in/nri-banking/save/nri-savings/eva-nro-savings-account/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/nre-rupee-savings-account/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/nro-rupee-savings-account/",
+    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/equi-remit-1/",
+    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/equi-remit/",
+    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/money-to-overseas/",
+    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/money-transfer/",
+    "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/retail-forex-rates/",
     "https://equitas.bank.in/personal-banking/borrow/loan/gold-loan/",
     "https://equitas.bank.in/personal-banking/borrow/loan/home-finance/",
     "https://equitas.bank.in/personal-banking/borrow/loan/loan-against-property/",
@@ -294,5 +294,5 @@
     "https://equitas.bank.in/personal-banking/insure/insurance/government-schemes/pradhan-mantri-suraksha-bima-yojana/",
     "https://equitas.bank.in/personal-banking/invest/all-investments/government-schemes/atal-pension-yojna/"
   ],
-  "updatedAt": "2026-09-04T07:57:44.862Z"
+  "updatedAt": "2026-09-05T07:39:33.399Z"
 }

@@ -1,5 +1,101 @@
 [
   {
+    "id": "icici-bank-chennai-super-kings-credit-card",
+    "cardName": "Chennai Super Kings Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/csk-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-06T08:00:55.926Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Autographed merchandise"
+      },
+      {
+        "type": "context",
+        "text": "Monthly top spenders will receive a marquee player's autographed memorabilia"
+      },
+      {
+        "type": "removed",
+        "text": "Annually"
+      },
+      {
+        "type": "removed",
+        "text": "Get 4 domestic airport lounge accesses per year"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get 1 domestic airport lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "25% off up to ₹100"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹100 on BookMyShow & INOX, twice every month"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Lounge access changed from 4 per year to 1 per quarter."
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-credit-card",
+    "cardName": "MakeMyTrip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-06T08:00:55.924Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Complimentary MMTBLACK Gold membership (Except myCash benefit of MMTBLACK)"
+      },
+      {
+        "type": "context",
+        "text": "Annually"
+      },
+      {
+        "type": "removed",
+        "text": "Get 1 complimentary International Airport Lounge Access"
+      },
+      {
+        "type": "added",
+        "text": "Get 1 complimentary International Airport Lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "context",
+        "text": "Get 2 complimentary Domestic Airport Lounge Access.  Click here  for lounge list"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a link to view the lounge list for the complimentary International Airport Lounge access benefit"
+    }
+  },
+  {
     "id": "hdfc-bank-titanium-times-card-alt-url",
     "cardName": "Titanium Times Card (alt URL)",
     "issuerName": "HDFC Bank",
@@ -13569,438 +13665,6 @@
       "youtube": null
     },
     "summary": "Movie benefits eligibility and cashback revocation for the Emirates Skywards Rubyx Credit Card were updated."
-  },
-  {
-    "id": "icici-bank-makemytrip-credit-card",
-    "cardName": "MakeMyTrip Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-15T04:00:38.303Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "MakeMyTrip ICICI Bank Credit Card: Travel Rewards & Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Maximum benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Fees & Charges"
-      },
-      {
-        "type": "added",
-        "text": "Best for"
-      },
-      {
-        "type": "added",
-        "text": "Rewards and offers"
-      },
-      {
-        "type": "added",
-        "text": "Fees and charges"
-      },
-      {
-        "type": "context",
-        "text": "MakeMyTrip ICICI Bank Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "MakeMyTrip ICICI Bank Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Unlimited myCash Rewards that never expire"
-      },
-      {
-        "type": "context",
-        "text": "1-year MMTBLACK Gold membership"
-      },
-      {
-        "type": "removed",
-        "text": "MakeMyTrip ICICI Bank Credit Card Rewards & Offers"
-      },
-      {
-        "type": "added",
-        "text": "MakeMyTrip ICICI Bank Credit Card: Maximum benefits"
-      },
-      {
-        "type": "context",
-        "text": "One year"
-      },
-      {
-        "type": "context",
-        "text": "Complimentary MMTBLACK Gold membership (Except myCash benefit of MMTBLACK)"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get 1 complimentary International Airport Lounge Access"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 complimentary Domestic Airport Lounge Access.  Click here (PDF, 373 KB) for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 complimentary Domestic Airport Lounge Access.  Click here  for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "25% off up to ₹150"
-      },
-      {
-        "type": "context",
-        "text": "Get 2 monthly discounts on movie tickets through INOX & BookMyShow"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get dining discounts with Culinary Treats Programme. For more details,  Click Here"
-      },
-      {
-        "type": "context",
-        "text": "Collect reward points, enjoy benefits."
-      },
-      {
-        "type": "removed",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "6"
-      },
-      {
-        "type": "context",
-        "text": "On Hotel Booking"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "MakeMyTrip ICICI Bank Credit Card: Fees and Charges"
-      },
-      {
-        "type": "context",
-        "text": "Joining fee & Annual fee"
-      },
-      {
-        "type": "removed",
-        "text": "Joining fee- ₹999 &#43; GST"
-      },
-      {
-        "type": "added",
-        "text": "Joining fee- ₹999 &#43; GST"
-      },
-      {
-        "type": "context",
-        "text": "Annual fee- ₹999 &#43; GST (Spend over ₹3 lakh in one year and get your annual fee waived off for the next year)"
-      },
-      {
-        "type": "context",
-        "text": "0.99 %"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "For Late Bill Payment"
-      },
-      {
-        "type": "context",
-        "text": "Ranging from ₹100 to ₹1300"
-      },
-      {
-        "type": "removed",
-        "text": "Please refer to the  Most Important Terms & Conditions (MITC) (PDF, 855 KB)  for other charges."
-      },
-      {
-        "type": "removed",
-        "text": "Click here (PDF, 295 KB) for applicable Terms & Conditions (T&Cs)"
-      },
-      {
-        "type": "added",
-        "text": "Please refer to the  Most Important Terms & Conditions (MITC)   for other charges."
-      },
-      {
-        "type": "added",
-        "text": "Click here  for applicable Terms & Conditions (T&Cs)"
-      },
-      {
-        "type": "context",
-        "text": "APPLY NOW"
-      },
-      {
-        "type": "context",
-        "text": "A salaried individual with a monthly income of ₹20,000"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Extend Benefits To Your Loved Ones"
-      },
-      {
-        "type": "context",
-        "text": "MakeMyTrip ICICI Bank Credit Card FAQs"
-      },
-      {
-        "type": "added",
-        "text": "Is there a joining fee and Annual fee for the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes. The MakeMyTrip ICICI Bank Credit Card has a joining fee and annual fee of ₹999 + GST."
-      },
-      {
-        "type": "context",
-        "text": "Are there any foreign transaction fees on the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, foreign transaction fees may apply when you use the Card for international purchases. However, the forex markup is only 0.99% + GST."
-      },
-      {
-        "type": "removed",
-        "text": "Which transactions do not qualify for earning myCash on the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Rent payments, cash advances, late payment costs, joining / annual fees, EMI transactions, Balance Transfers and Personal Loan transactions on the Card are not eligible for myCash Rewards."
-      },
-      {
-        "type": "context",
-        "text": "How to avail Complimentary International Airport lounge access?"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 1 complimentary accesses to international airport lounges with MakeMyTrip ICICI Bank Credit Card. Complimentary benefits are applicable only for the primary cardholder."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      },
-      {
-        "type": "context",
-        "text": "For complete list of international airport lounges visit https://www.prioritypass.com/airport-lounges"
-      },
-      {
-        "type": "added",
-        "text": "What are the criteria for availing domestic airport lounge access?"
-      },
-      {
-        "type": "added",
-        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your MakeMyTrip ICICI Bank Credit Card in a calendar quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
-      },
-      {
-        "type": "added",
-        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
-      },
-      {
-        "type": "added",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "added",
-        "text": "Spends period offer -  eligibility period"
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "added",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
-      },
-      {
-        "type": "added",
-        "text": "Plus (Add-On) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "added",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "added",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "added",
-        "text": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "What are some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card are unlimited myCash Rewards that never expire, exclusive MakeMyTrip vouchers and complimentary lounge access for the primary Cardholder. You’ll also enjoy the flexibility of two payment networks - MasterCard and RuPay, making this Card a versatile and rewarding choice for frequent travellers."
-      },
-      {
-        "type": "context",
-        "text": "How can I redeem myCash earned through the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "You can redeem your myCash on the MakeMyTrip website, mobile site or app during checkout. Select 'myCash & Gift Cards' on the payments page, choose the ‘myCash’ option, enter the amount to redeem, click 'Use & Apply' and then click 'Complete Payment' to complete the transaction."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Who can claim the lounge access benefit of the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The MakeMyTrip ICICI Bank Credit Card lounge access benefit is available to the primary Cardholder. With this benefit, you can enjoy complimentary entry to select airport lounges, offering a premium travel experience before your flight."
-      },
-      {
-        "type": "removed",
-        "text": "What is the criteria for being eligible for the movie benefits offer with BookMyShow?"
-      },
-      {
-        "type": "removed",
-        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
-      },
-      {
-        "type": "removed",
-        "text": "Please go through the below illustration to understand the spends period along with the lounge eligibility period:"
-      },
-      {
-        "type": "removed",
-        "text": "Spends period offer -  eligibility period"
-      },
-      {
-        "type": "removed",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "removed",
-        "text": "Spend ₹25,000 between Mar 26, 2026 and June 25, 2026 - Get movie offer benefit between July 01, 2026 and Sep 30, 2026."
-      },
-      {
-        "type": "removed",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
-      },
-      {
-        "type": "removed",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "removed",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "removed",
-        "text": "Cashback offers on the Amex variant have been revoked effective from 01 Jan 2025."
-      },
-      {
-        "type": "removed",
-        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
-      },
-      {
-        "type": "removed",
-        "text": "Navigate to ‘Apply Offers’ section"
-      },
-      {
-        "type": "removed",
-        "text": "Click on the tab - Credit/ Debit/ Net Banking"
-      },
-      {
-        "type": "removed",
-        "text": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Enter the Card Number and click ‘Apply Offer’"
-      },
-      {
-        "type": "removed",
-        "text": "Once the success message shows up, the offer will be applied on the billing page."
-      },
-      {
-        "type": "removed",
-        "text": "What are some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card are unlimited myCash Rewards that never expire, exclusive MakeMyTrip vouchers and complimentary lounge access for the primary Cardholder. You’ll also enjoy the flexibility of two payment networks - MasterCard and RuPay, making this Card a versatile and rewarding choice for frequent travellers."
-      },
-      {
-        "type": "context",
-        "text": "Is DigiLocker sufficient for applying for the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, DigiLocker can be used to submit your documents when applying for the MakeMyTrip ICICI Bank Credit Card. It provides a secure and digital platform to store and share essential documents, such as proofs of identity, address and income, making the application process faster and more convenient. Simply upload the required documents to DigiLocker and share them during your application."
-      },
-      {
-        "type": "removed",
-        "text": "View all FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "R"
-      },
-      {
-        "type": "removed",
-        "text": "Rishab Jain"
-      },
-      {
-        "type": "added",
-        "text": "Which transactions do not qualify for earning myCash on the MakeMyTrip ICICI Bank Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Rent payments, cash advances, late payment costs, joining / annual fees, EMI transactions, Balance Transfers and Personal Loan transactions on the Card are not eligible for myCash Rewards."
-      },
-      {
-        "type": "context",
-        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added new lounge and movie offer eligibility criteria for the MakeMyTrip ICICI Bank Credit Card."
-    }
   },
   {
     "id": "icici-bank-platinum-chip-credit-card",

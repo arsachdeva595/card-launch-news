@@ -12267,7 +12267,6 @@
     "https://www.icici.bank.in/branch/maharashtra/mumbai/icic0000004",
     "https://www.icici.bank.in/branch/maharashtra/mumbai/icic0000011",
     "https://www.icici.bank.in/branch/maharashtra/mumbai/icic0000018",
-    "https://www.icici.bank.in/branch/maharashtra/mumbai/icic0000026",
     "https://www.icici.bank.in/branch/maharashtra/mumbai/icic0000032",
     "https://www.icici.bank.in/branch/maharashtra/mumbai/icic0000038",
     "https://www.icici.bank.in/branch/maharashtra/mumbai/icic0000057",
@@ -14004,7 +14003,6 @@
     "https://www.icici.bank.in/branch/haryana/gurugram/icic0005887",
     "https://www.icici.bank.in/branch/haryana/gurugram/icic0005886",
     "https://www.icici.bank.in/branch/haryana/gurugram/icic0001147",
-    "https://www.icici.bank.in/branch/haryana/gurugram/icic0005973",
     "https://www.icici.bank.in/branch/haryana/gurugram/icic0005894",
     "https://www.icici.bank.in/branch/haryana/gurugram/icic0005396",
     "https://www.icici.bank.in/branch/haryana/gurugram/icic0005885",
@@ -14985,7 +14983,6 @@
     "https://www.icici.bank.in/branch/telangana/adilabad/icic0006648",
     "https://www.icici.bank.in/branch/telangana/amsanpalle/icic0002230",
     "https://www.icici.bank.in/branch/telangana/armur/icic0000695",
-    "https://www.icici.bank.in/branch/telangana/asifabad/icic0002307",
     "https://www.icici.bank.in/branch/telangana/aswaraopeta/icic0008294",
     "https://www.icici.bank.in/branch/telangana/bachpalle/icic0002799",
     "https://www.icici.bank.in/branch/telangana/bachpalle/icic0005768",
@@ -26376,6 +26373,7 @@
     "https://www.icici.bank.in/nri-banking/videos/linking-of-accounts-demo",
     "https://www.icici.bank.in/nri-banking/videos/update-your-visa-details-via-net-banking",
     "https://www.icici.bank.in/nri-banking/videos/update-your-visa-details-via-imobile",
+    "https://www.icici.bank.in/nri-banking/videos/upi-for-nri-on-imobile",
     "https://www.icici.bank.in/nri-banking/digital-banking",
     "https://www.icici.bank.in/nri-banking/digital-banking/tnc",
     "https://www.icici.bank.in/nri-banking/nriindia-branchbanking",
@@ -27942,5 +27940,5 @@
     "https://www.icici.bank.in/personal-banking/ways-to-bank/mobile-banking/mobile-web",
     "https://www.icici.bank.in/personal-banking/ways-to-bank/mobile-banking/mobile-services"
   ],
-  "updatedAt": "2026-09-05T07:39:39.581Z"
+  "updatedAt": "2026-09-06T07:53:38.895Z"
 }

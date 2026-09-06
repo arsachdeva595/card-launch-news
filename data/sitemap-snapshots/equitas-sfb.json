@@ -275,9 +275,6 @@
     "https://equitas.bank.in/personal-banking/pay/offers/digilocker/",
     "https://equitas.bank.in/personal-banking/pay/prepaid-cards/gift-cards/",
     "https://equitas.bank.in/personal-banking/pay/prepaid-cards/gpr-cards/",
-    "https://equitas.bank.in/personal-banking/save/fixed-deposits/fixed-deposit/",
-    "https://equitas.bank.in/personal-banking/save/fixed-deposits/maxima-fixed-deposit/",
-    "https://equitas.bank.in/personal-banking/save/fixed-deposits/recurring-deposits/",
     "https://equitas.bank.in/personal-banking/save/savings-account/elite-artha/",
     "https://equitas.bank.in/personal-banking/save/savings-account/elite-lite/",
     "https://equitas.bank.in/personal-banking/save/savings-account/elite/",
@@ -287,6 +284,9 @@
     "https://equitas.bank.in/personal-banking/save/savings-account/locker/",
     "https://equitas.bank.in/personal-banking/save/savings-account/regular-savings/",
     "https://equitas.bank.in/personal-banking/save/savings-account/wings-savings-account/",
+    "https://equitas.bank.in/personal-banking/save/fixed-deposits/fixed-deposit/",
+    "https://equitas.bank.in/personal-banking/save/fixed-deposits/maxima-fixed-deposit/",
+    "https://equitas.bank.in/personal-banking/save/fixed-deposits/recurring-deposits/",
     "https://equitas.bank.in/personal-banking/ways-to-bank/ePaperless/deposit/",
     "https://equitas.bank.in/personal-banking/ways-to-bank/ePaperless/withdrawal-with-cheque/",
     "https://equitas.bank.in/personal-banking/ways-to-bank/ePaperless/withdrawal-without-cheque/",
@@ -294,5 +294,5 @@
     "https://equitas.bank.in/personal-banking/insure/insurance/government-schemes/pradhan-mantri-suraksha-bima-yojana/",
     "https://equitas.bank.in/personal-banking/invest/all-investments/government-schemes/atal-pension-yojna/"
   ],
-  "updatedAt": "2026-09-05T07:39:33.399Z"
+  "updatedAt": "2026-09-06T07:53:24.149Z"
 }

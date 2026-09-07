@@ -21384,7 +21384,6 @@
     "https://www.icici.bank.in/offers/the-sleep-company",
     "https://www.icici.bank.in/offers/get-your-joining-fee-back",
     "https://www.icici.bank.in/offers/exciting-offers-at-gap-exclusive-stores",
-    "https://www.icici.bank.in/offers/utility-bill-payments",
     "https://www.icici.bank.in/offers/coal-clean-beauty-product",
     "https://www.icici.bank.in/offers/rupay-spends-milestone",
     "https://www.icici.bank.in/offers/delhi-duty-free-services",
@@ -27700,6 +27699,7 @@
     "https://www.icici.bank.in/business-banking/cms/corporate-api-suite/other-services-api",
     "https://www.icici.bank.in/business-banking/cms/payment-solutions",
     "https://www.icici.bank.in/business-banking/cms/payment-solutions/bulk-payments",
+    "https://www.icici.bank.in/business-banking/cms/payment-solutions/bulk-payments/bizpay360",
     "https://www.icici.bank.in/business-banking/cms/payment-solutions/bill-payments",
     "https://www.icici.bank.in/business-banking/cms/collection-solutions",
     "https://www.icici.bank.in/business-banking/cms/collection-solutions/cheque-collection",
@@ -27940,5 +27940,5 @@
     "https://www.icici.bank.in/personal-banking/ways-to-bank/mobile-banking/mobile-web",
     "https://www.icici.bank.in/personal-banking/ways-to-bank/mobile-banking/mobile-services"
   ],
-  "updatedAt": "2026-09-06T07:53:38.895Z"
+  "updatedAt": "2026-09-07T08:15:50.890Z"
 }

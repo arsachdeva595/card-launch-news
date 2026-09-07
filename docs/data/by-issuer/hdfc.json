@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "pixel-play-credit-card",
+    "card_name": "Pixel Play Credit Card",
+    "issuer": "hdfc",
+    "change_type": "fee-change",
+    "summary": "Joining/renewal fee changed to ₹500/- plus taxes, with spend thresholds for waiver",
+    "status": "verified",
+    "official_link": "https://www.hdfc.bank.in/credit-cards/pixel-play-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vt7gze/how_can_i_realistically_get_hdfc_dcb_metal/",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-09-07",
+    "edition_permalink": null
+  },
+  {
     "card_slug": "hdfc-bank-titanium-times-card",
     "card_name": "Titanium Times Card",
     "issuer": "hdfc",

@@ -1,5 +1,443 @@
 [
   {
+    "id": "indusind-bank-contactless-corporate-card",
+    "cardName": "Contactless Corporate Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/commercial-cards/contactless-corporate-card.html",
+    "status": "Active",
+    "detectedAt": "2026-09-07T08:24:49.794Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Indulge Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "A first of its kind credit card in the Indian sub-continent that comes with a pure 22K Gold inlay and absolutely no preset spending limit."
+      },
+      {
+        "type": "removed",
+        "text": "Crest Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Inspired by your lifestyle, your refined tastes and more, we bring you the uber-exclusive IndusInd Bank Crest Credit Card. It is made with precision, passion, and panache to match your stylish lifestyle."
+      },
+      {
+        "type": "context",
+        "text": "Celesta Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "indusind-bank-cred-indusind-bank-rupay-credit-card",
+    "cardName": "CRED IndusInd Bank RuPay Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/CRED-IndusInd-Bank-ruPay-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-09-07T08:24:49.783Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Modes"
+      },
+      {
+        "type": "context",
+        "text": "Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "E-commerce"
+      },
+      {
+        "type": "added",
+        "text": "Online"
+      },
+      {
+        "type": "context",
+        "text": "Earn 5% back as CRED Reward Points ****"
+      },
+      {
+        "type": "context",
+        "text": "CRED"
+      },
+      {
+        "type": "context",
+        "text": "CRED pay, CRED travel , CRED store and Gift Cards on CRED"
+      },
+      {
+        "type": "context",
+        "text": "Earn 5% back as CRED Reward Points****"
+      },
+      {
+        "type": "removed",
+        "text": "CRED UPI"
+      },
+      {
+        "type": "added",
+        "text": "CRED UPI Online"
+      },
+      {
+        "type": "context",
+        "text": "Earn 5% back as CRED Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "CRED UPI Scan & Pay"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "* Terms & Conditions apply"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1% back as CRED Reward Points on all international transactions ."
+      },
+      {
+        "type": "removed",
+        "text": "**Scan and Pay transactions done outside CRED will not earn any CRED Reward Points. Not more than 500 CRED Points can be earned in a statement cycle."
+      },
+      {
+        "type": "added",
+        "text": "**Scan and Pay transactions done outside CRED will not earn any CRED Reward Points. No capping on CRED Reward Points on Scan and Pay ( applicable 11th Aug onwards)."
+      },
+      {
+        "type": "context",
+        "text": "***Transactions done on Utility and Insurance outside CRED will not earn any CRED Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "***Transactions done on Gift Cards and Travel outside CRED will earn 1% reward points."
+      },
+      {
+        "type": "added",
+        "text": "No reward points will be earned on spends done on :transportation & tolls, fuel, loan and EMI, and online education payments, payments to government institutions/services/charges, wallet loads, rent, and jewellery."
+      },
+      {
+        "type": "added",
+        "text": "Minimum transaction value for earning rewards is Rs. 100."
+      },
+      {
+        "type": "context",
+        "text": "Not more than 5000 CRED Points can be earned at the accelerated reward run rate of 5% in a statement cycle."
+      },
+      {
+        "type": "context",
+        "text": "****Not more than 5000 CRED Reward Points can be earned at the accelerated reward run rate of 5% in a statement cycle."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1 CRED Reward Points = ₹1"
+      },
+      {
+        "type": "context",
+        "text": "Applicable on:"
+      },
+      {
+        "type": "removed",
+        "text": "Flight and hotel bookings via the CRED app"
+      },
+      {
+        "type": "added",
+        "text": "Flights and Hotel bookings made on CRED flights & CRED hotels"
+      },
+      {
+        "type": "context",
+        "text": "CRED Store purchases"
+      },
+      {
+        "type": "removed",
+        "text": "Transactions on select CRED Pay merchants"
+      },
+      {
+        "type": "added",
+        "text": "Transactions on eligible CRED Pay merchants."
+      },
+      {
+        "type": "context",
+        "text": "1 CRED Reward Points = ₹0.50"
+      },
+      {
+        "type": "context",
+        "text": "Applicable on:"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card bill payments and utility bill payments made within the CRED app (via cashback balance)"
+      },
+      {
+        "type": "added",
+        "text": "Card Bill Payments with CRED Cashback as a separate point."
+      },
+      {
+        "type": "added",
+        "text": "Utility Bill Payments made within the CRED App."
+      },
+      {
+        "type": "context",
+        "text": "Terms & Conditions:"
+      },
+      {
+        "type": "context",
+        "text": "Redemptions are governed by the terms and conditions of CRED."
+      },
+      {
+        "type": "context",
+        "text": "Reward points earned during a billing cycle will be transferred to the CRED app within 2–3 days of statement generation."
+      },
+      {
+        "type": "context",
+        "text": "Customers can use up to 70% of their available points per transaction for redemptions on:"
+      },
+      {
+        "type": "removed",
+        "text": "Flights and hotels via the CRED app"
+      },
+      {
+        "type": "added",
+        "text": "Flights and Hotel bookings made on CRED flights & CRED hotels"
+      },
+      {
+        "type": "context",
+        "text": "CRED Store"
+      },
+      {
+        "type": "removed",
+        "text": "CRED Pay merchants"
+      },
+      {
+        "type": "added",
+        "text": "Transactions on eligible CRED Pay merchants. (Kindly reach out to CRED to know eligible merchants)"
+      },
+      {
+        "type": "context",
+        "text": "For Credit Card bill payment and utility bill payments made within the CRED app, up to 100% of the available points can be used per transaction."
+      },
+      {
+        "type": "context",
+        "text": "Reward Points will expire after 2 years from date of issuance"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated reward point rules for Scan & Pay, Gift Cards, and travel, adding caps and new exclusions."
+    }
+  },
+  {
+    "id": "hdfc-bank-pixel-go-credit-card",
+    "cardName": "Pixel Go Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-go-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-07T08:23:02.066Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "PIXEL Go Credit Card - Get Customised Credit Card | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Digital-first card with rewards & easy EMIs"
+      },
+      {
+        "type": "removed",
+        "text": "Earn cashback, dine smart & pay flexibly"
+      },
+      {
+        "type": "removed",
+        "text": "Seamless payments with full digital control"
+      },
+      {
+        "type": "added",
+        "text": "Get your PIXEL Go Credit Card LIFETIME FREE only when you apply online"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility Criteria"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "If your query isn’t listed, select \"My query is not listed\" to raise a ticket."
+      },
+      {
+        "type": "context",
+        "text": "Joining/Renewal Membership Fee: ₹250/- + Applicable Taxes"
+      },
+      {
+        "type": "removed",
+        "text": "Spend ₹90,000 in the first 90 days and get Joining fee waiver"
+      },
+      {
+        "type": "added",
+        "text": "Spend ₹10,000 in the first 90 days and get Joining fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹50,000 or more in a year, before your Credit Card renewal date and get your renewal fee waived off."
+      },
+      {
+        "type": "removed",
+        "text": "Click here to view details of HDFC Bank PIXEL Go Credit Card Fees and Charges."
+      },
+      {
+        "type": "added",
+        "text": "Click here to view details of HDFC Bank PIXEL Go Credit Card Fees and Charges."
+      },
+      {
+        "type": "context",
+        "text": "*The Most Important Terms and Conditions  for each of our banking offerings features all the specific terms and conditions that govern their use. You must go through it thoroughly to fully understand the terms and conditions applicable to any banking product you choose."
+      },
+      {
+        "type": "context",
+        "text": "Click here for the card member agreement"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-pixel-play-credit-card",
+    "cardName": "Pixel Play Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-play-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-07T08:23:02.063Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "PIXEL Play Credit Card - Get Customised Offers | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Get your PIXEL Play Credit Card LIFETIME FREE  only when you apply"
+      },
+      {
+        "type": "added",
+        "text": "online"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Step Into The Exclusive FIFA World Cup™ Experience"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Scan and Pay"
+      },
+      {
+        "type": "context",
+        "text": "Through the PIXEL RuPay Credit Card, customers will be able to make payment to a merchant by scanning the QR code for unified Payment Interface (UPI) Payments."
+      },
+      {
+        "type": "removed",
+        "text": "The HDFC Bank PIXEL Play Credit Card is lifetime free with no joining or renewal fees"
+      },
+      {
+        "type": "added",
+        "text": "Joining/Renewal Membership Fee: ₹500/- + Applicable Taxes"
+      },
+      {
+        "type": "added",
+        "text": "Spend ₹20,000 in the first 90 days and get Joining fee waiver"
+      },
+      {
+        "type": "added",
+        "text": "Spend ₹1,00,000 or more in a year, before your Credit Card renewal date and get your renewal fee waived off."
+      },
+      {
+        "type": "added",
+        "text": "Click here to view details of HDFC Bank PIXEL Play Credit Card Fees and Charges."
+      },
+      {
+        "type": "context",
+        "text": "*The Most Important Terms and Conditions  for each of our banking offerings features all the specific terms and conditions that govern their use. You must go through it thoroughly to fully understand the terms and conditions applicable to any banking product you choose."
+      },
+      {
+        "type": "context",
+        "text": "Click here for product specific T&C"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Subscribe"
+      },
+      {
+        "type": "context",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  commodo consequat. Lorem ipsum dolor? Click here"
+      },
+      {
+        "type": "removed",
+        "text": "Get Your Lifetime Free PIXEL Play Credit Card Now!"
+      },
+      {
+        "type": "added",
+        "text": "Get Your PIXEL Play Credit Card Now!"
+      },
+      {
+        "type": "context",
+        "text": "Check Eligibility"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Joining/renewal fee changed to ₹500/- plus taxes, with spend thresholds for waiver",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "How can I realistically get HDFC DCB Metal? Looking for genuine advice",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vt7gze/how_can_i_realistically_get_hdfc_dcb_metal/",
+        "description": "I’m really keen on getting HDFC DCB Metal and would love to hear from people who recently got it through an upgrade or RM. My profile: HDFC Preferred customer Salary account with HDFC ~₹2.29L monthly net salary Good relationship with HDFC I"
+      },
+      "via": "reddit"
+    }
+  },
+  {
     "id": "icici-bank-chennai-super-kings-credit-card",
     "cardName": "Chennai Super Kings Credit Card",
     "issuerName": "ICICI Bank",
@@ -14636,274 +15074,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added 5% annual cashback for early payment within 7 days of statement generation."
-    }
-  },
-  {
-    "id": "indusind-bank-cred-indusind-bank-rupay-credit-card",
-    "cardName": "CRED IndusInd Bank RuPay Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/CRED-IndusInd-Bank-ruPay-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-07-17T05:57:48.832Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Premium"
-      },
-      {
-        "type": "removed",
-        "text": "5% back as CRED Points on E-commerce transactions*"
-      },
-      {
-        "type": "removed",
-        "text": "5% back as CRED Points on transactions done on CRED*"
-      },
-      {
-        "type": "removed",
-        "text": "1% back as CRED Points on Scan & Pay transactions through CRED"
-      },
-      {
-        "type": "removed",
-        "text": "1% back as CRED Points on Insurance and Utility bills paid via CRED*"
-      },
-      {
-        "type": "removed",
-        "text": "1% back as CRED Points on all other transactions*"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 5% back as CRED Points on E-commerce and CRED transactions*"
-      },
-      {
-        "type": "removed",
-        "text": "Redeem your CRED Points for rewards of your choice"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 5% back as CRED Points ****"
-      },
-      {
-        "type": "removed",
-        "text": "CRED pay, CRED travel and CRED store"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 5% back as CRED Points****"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 5% back as CRED Points"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 1% back as CRED Points**"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 1% back as CRED Points***"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 1% back as CRED Points on all other transactions."
-      },
-      {
-        "type": "removed",
-        "text": "Earn 1% back as CRED Points on all international transactions ."
-      },
-      {
-        "type": "removed",
-        "text": "*Select merchant categories will not accrue any CRED Points on transactions done on School & Education Services, Govt Institutions, Wallet Load, Rent, Jewellery, Fuel, and Quasi Cash / Cash Withdrawal. Applicable on all transactions."
-      },
-      {
-        "type": "removed",
-        "text": "**Scan and Pay transactions done outside CRED will not earn any CRED Points. Not more than 500 CRED Points can be earned in a statement cycle."
-      },
-      {
-        "type": "removed",
-        "text": "***Transactions done on Utility and Insurance outside CRED will not earn any CRED Points."
-      },
-      {
-        "type": "removed",
-        "text": "****Not more than 5000 CRED Points can be earned at the accelerated reward run rate of 5% in a statement cycle."
-      },
-      {
-        "type": "removed",
-        "text": "CRED points will be valid for 24 months."
-      },
-      {
-        "type": "removed",
-        "text": "1 CRED Point = ₹1"
-      },
-      {
-        "type": "removed",
-        "text": "1 CRED Point = ₹0.50"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card bill payments and Utility bill payments made within the CRED app"
-      },
-      {
-        "type": "removed",
-        "text": "Customers can use up to 70% of their available points per transaction for redemptions on:\\"
-      },
-      {
-        "type": "removed",
-        "text": "For Credit card bill payment and Utility bill payments made within the CRED app, up to 100% of the available points can be used per transaction."
-      },
-      {
-        "type": "removed",
-        "text": "LIFETIME FREE"
-      },
-      {
-        "type": "removed",
-        "text": "LIFETIME FREE"
-      },
-      {
-        "type": "added",
-        "text": "Forex Card"
-      },
-      {
-        "type": "added",
-        "text": "5% back as CRED Reward Points on E-commerce transactions*"
-      },
-      {
-        "type": "added",
-        "text": "5% back as CRED Reward Points on transactions done on CRED*"
-      },
-      {
-        "type": "added",
-        "text": "1% back as CRED Reward Points on Scan & Pay transactions through CRED"
-      },
-      {
-        "type": "added",
-        "text": "1% back as CRED Reward Points on Insurance and Utility bills paid via CRED*"
-      },
-      {
-        "type": "added",
-        "text": "1% back as CRED Reward Points on all other transactions*"
-      },
-      {
-        "type": "added",
-        "text": "Earn 5% back as CRED Reward Points on E-commerce and CRED transactions*"
-      },
-      {
-        "type": "added",
-        "text": "Redeem your CRED Reward Points for rewards of your choice"
-      },
-      {
-        "type": "added",
-        "text": "Earn 5% back as CRED Reward Points ****"
-      },
-      {
-        "type": "added",
-        "text": "CRED pay, CRED travel , CRED store and Gift Cards on CRED"
-      },
-      {
-        "type": "added",
-        "text": "Earn 5% back as CRED Reward Points****"
-      },
-      {
-        "type": "added",
-        "text": "Earn 5% back as CRED Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Earn 1% back as CRED Reward Points**"
-      },
-      {
-        "type": "added",
-        "text": "Earn 1% back as CRED Reward Points***"
-      },
-      {
-        "type": "added",
-        "text": "Earn 1% back as CRED Reward Points on all other transactions."
-      },
-      {
-        "type": "added",
-        "text": "Earn 1% back as CRED Reward Points on all international transactions ."
-      },
-      {
-        "type": "added",
-        "text": "**Scan and Pay transactions done outside CRED will not earn any CRED Reward Points. Not more than 500 CRED Points can be earned in a statement cycle."
-      },
-      {
-        "type": "added",
-        "text": "***Transactions done on Utility and Insurance outside CRED will not earn any CRED Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "Not more than 5000 CRED Points can be earned at the accelerated reward run rate of 5% in a statement cycle."
-      },
-      {
-        "type": "added",
-        "text": "****Not more than 5000 CRED Reward Points can be earned at the accelerated reward run rate of 5% in a statement cycle."
-      },
-      {
-        "type": "added",
-        "text": "CRED Reward Points will be valid for 24 months."
-      },
-      {
-        "type": "added",
-        "text": "Click here to know more about the exclusion."
-      },
-      {
-        "type": "added",
-        "text": "Redeem your CRED Reward Points on the CRED app."
-      },
-      {
-        "type": "added",
-        "text": "1 CRED Reward Points = ₹1"
-      },
-      {
-        "type": "added",
-        "text": "1 CRED Reward Points = ₹0.50"
-      },
-      {
-        "type": "added",
-        "text": "Credit Card bill payments and utility bill payments made within the CRED app (via cashback balance)"
-      },
-      {
-        "type": "added",
-        "text": "Customers can use up to 70% of their available points per transaction for redemptions on:"
-      },
-      {
-        "type": "added",
-        "text": "For Credit Card bill payment and utility bill payments made within the CRED app, up to 100% of the available points can be used per transaction."
-      },
-      {
-        "type": "added",
-        "text": "Buy prepaid Forex Cards and reload them as and when needed, buy and sell foreign currency cash and send money abroad."
-      },
-      {
-        "type": "added",
-        "text": "Key Feature and Benefits"
-      },
-      {
-        "type": "added",
-        "text": "A name you can trust"
-      },
-      {
-        "type": "added",
-        "text": "Easy Delivery Options"
-      },
-      {
-        "type": "added",
-        "text": "Forex Card at Zero Currency Conversion Charges"
-      },
-      {
-        "type": "added",
-        "text": "Hassle-Free Faster Online Process"
-      },
-      {
-        "type": "added",
-        "text": "I am interested"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {

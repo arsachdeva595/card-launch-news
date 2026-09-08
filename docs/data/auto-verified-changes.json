@@ -46,5 +46,17 @@
     "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vt7gze/how_can_i_realistically_get_hdfc_dcb_metal/",
     "source": "auto-detected",
     "detected_at": "2026-09-07T08:23:02.063Z"
+  },
+  {
+    "card_slug": "irctc-credit-card",
+    "card_name": "IRCTC Credit Card",
+    "issuer": "hdfc",
+    "change_type": "reward-change",
+    "summary": "Reward structure and welcome benefit updated for IRCTC Credit Card.",
+    "status": "verified",
+    "official_link": "https://www.hdfc.bank.in/credit-cards/irctc-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1wacnw5/hdfc_irctc_credit_card_smartbuy_train_ticket/",
+    "source": "auto-detected",
+    "detected_at": "2026-09-08T08:08:42.249Z"
   }
 ]

@@ -1,5 +1,183 @@
 [
   {
+    "id": "idfc-first-bank-apply-for-quantum-credit-card",
+    "cardName": "Apply for Quantum+ Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-08T08:09:48.539Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Eligibility & Documentation"
+      },
+      {
+        "type": "context",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "What is the Quantum+ Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "The Quantum+ Credit Card by IDFC FIRST Bank is a lifetime free, FD-backed credit card starting at just ₹10,000​ FD. Earn up to 2% cashback on everyday spends while building your credit profile.​"
+      },
+      {
+        "type": "added",
+        "text": "Quantum+ Credit Card - Lifetime Free, FD-Backed"
+      },
+      {
+        "type": "added",
+        "text": "The Quantum+ Credit Card by IDFC FIRST Bank is a lifetime free, FD-backed credit card starting at just ₹5,000​ FD. Earn up to 2% cashback on everyday spends while building your credit profile.​"
+      },
+      {
+        "type": "context",
+        "text": "Your credit limit equals 100% of your FD value. Use it online, offline or via UPI Scan & Pay to earn cashback on every eligible transaction, from Day 1."
+      },
+      {
+        "type": "context",
+        "text": "Whether you are student, homemaker, freelancer, retired employee, or a young professional, the Quantum+ gets you started with no income proof or credit history required."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Be a resident of India​"
+      },
+      {
+        "type": "context",
+        "text": "Have a valid Aadhaar and a physical PAN card for Video KYC​"
+      },
+      {
+        "type": "removed",
+        "text": "Open a Fixed Deposit (FD) of at least ₹10,000 with IDFC FIRST Bank or already have an eligible FD with the Bank​"
+      },
+      {
+        "type": "added",
+        "text": "Open a Fixed Deposit (FD) of at least ₹5,000 with IDFC FIRST Bank or already have an eligible FD with the Bank​"
+      },
+      {
+        "type": "context",
+        "text": "​ Note: The Bank reserves the right to issue a Credit Card to the applicant based on an assessment of his/her credentials. The final decision is at the Bank’s solediscretion, in line with the mentioned internal policies, and notwithstanding the applicant meeting above Credit Card criteria"
+      },
+      {
+        "type": "context",
+        "text": "Do I require a credit history or income proof to apply for the Quantum+ Credit Card?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-irctc-credit-card",
+    "cardName": "IRCTC Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/irctc-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-08T08:08:42.249Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "IRCTC Credit Card - Apply for IRCTC Card Online | HDFC Bank"
+      },
+      {
+        "type": "context",
+        "text": "IRCTC Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary access to select IRCTC lounges*"
+      },
+      {
+        "type": "removed",
+        "text": "5 Reward Points for every ₹100 spent via IRCTC*"
+      },
+      {
+        "type": "removed",
+        "text": "1 Reward Point for every ₹100 on other spends*"
+      },
+      {
+        "type": "added",
+        "text": "5X Reward Points on ticket booking via IRCTC app/ website"
+      },
+      {
+        "type": "added",
+        "text": "Additional 5% CashBack on IRCTC spends via SmartBuy"
+      },
+      {
+        "type": "added",
+        "text": "₹500 worth Gift Voucher* as Welcome Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility Criteria"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Reward structure and welcome benefit updated for IRCTC Credit Card.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "HDFC IRCTC Credit Card - SmartBuy Train Ticket Bookings Help",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1wacnw5/hdfc_irctc_credit_card_smartbuy_train_ticket/",
+        "description": "Hello Everyone, Recently, I applied for the HDFC IRCTC Credit Card. I got it as LTF, and it will be delivered in a few days. I wanted to know how train ticket booking on SmartBuy works. Last I heard, ConfirmTKT was the 3rd Party partner on "
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-signet-credit-card",
+    "cardName": "Mastercard Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-08T08:07:52.319Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 2c6aa404-e42i-4ada-8dd4-e05a52e0fd77"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: a818f717-e42i-48c9-8935-6729b6b6678c"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "September 07 2026, 08:21:32 UTC"
+      },
+      {
+        "type": "added",
+        "text": "September 08 2026, 08:07:49 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "indusind-bank-contactless-corporate-card",
     "cardName": "Contactless Corporate Card",
     "issuerName": "IndusInd Bank",

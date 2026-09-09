@@ -3638,5 +3638,29 @@
     "issuerSlug": "idfc-first-bank",
     "url": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
     "status": "Active"
+  },
+  {
+    "cardName": "Credit Card Bill Payment Online",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+    "status": "Active"
+  },
+  {
+    "cardName": "Apply for Lifestyle Credit Cards Online",
+    "issuerSlug": "idfc-first-bank",
+    "url": "https://www.idfcfirst.bank.in/credit-card/lifestyle-credit-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Apply for Rewards Credit Card",
+    "issuerSlug": "idfc-first-bank",
+    "url": "https://www.idfcfirst.bank.in/credit-card/reward-credit-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Credit Card Balance to EMI Conversion",
+    "issuerSlug": "idfc-first-bank",
+    "url": "https://www.idfcfirst.bank.in/credit-card/credit-card-balance-conversion",
+    "status": "Active"
   }
 ]

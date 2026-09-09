@@ -598,12 +598,16 @@
     "https://www.rbl.bank.in/personal-banking/loans/car-loan/pre-owned-car-loan",
     "https://www.rbl.bank.in/personal-banking/loans/loan-against-gold-ornaments",
     "https://www.rbl.bank.in/personal-banking/loans/two-wheeler-loan",
-    "https://www.rbl.bank.in/personal-banking/loans/rural-vehicle-finance",
     "https://www.rbl.bank.in/personal-banking/loans/easygain-overdraft",
     "https://www.rbl.bank.in/personal-banking/loans/small-and-micro-loan-against-property",
     "https://www.rbl.bank.in/personal-banking/loans/car-loan/loan-against-car",
     "https://www.rbl.bank.in/personal-banking/loans/car-loan/new-car-loan",
     "https://www.rbl.bank.in/personal-banking/loans/loan-against-securities",
+    "https://www.rbl.bank.in/personal-banking/loans/rural-vehicle-finance/new-tractor-loan",
+    "https://www.rbl.bank.in/personal-banking/loans/rural-vehicle-finance/used-tractor-loan",
+    "https://www.rbl.bank.in/personal-banking/loans/rural-vehicle-finance/new-harvester-loan",
+    "https://www.rbl.bank.in/personal-banking/loans/rural-vehicle-finance/used-harvester-loan",
+    "https://www.rbl.bank.in/personal-banking/loans/rural-vehicle-finance/implement-loans",
     "https://www.rbl.bank.in/personal-banking/loans",
     "https://www.rbl.bank.in/locate-us/madhapur-telangana-atm",
     "https://www.rbl.bank.in/locate-us/visakhapatnam-atm",
@@ -1923,6 +1927,8 @@
     "https://www.rbl.bank.in/rbl-mybizbank-demo",
     "https://www.rbl.bank.in/rbl-bank-shoppers-stop-credit-cards",
     "https://www.rbl.bank.in/sion-branch-relocation",
+    "https://www.rbl.bank.in/south-bopal-branch-relocation",
+    "https://www.rbl.bank.in/deesa-branch-relocation",
     "https://www.rbl.bank.in/homepage",
     "https://www.rbl.bank.in/chatbot",
     "https://www.rbl.bank.in/personal-banking/ways-to-bank",
@@ -1964,5 +1970,5 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/financial-markets-and-treasury/forex-and-bullion",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/wholesale-client-services"
   ],
-  "updatedAt": "2026-09-08T08:04:22.181Z"
+  "updatedAt": "2026-09-09T08:08:48.521Z"
 }

@@ -1,5 +1,85 @@
 [
   {
+    "id": "idfc-first-bank-apply-for-lifestyle-credit-cards-online",
+    "cardName": "Apply for Lifestyle Credit Cards Online",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/lifestyle-credit-card",
+    "discoveredAt": "2026-09-09T08:07:38.615Z",
+    "lastmod": "2026-09-09",
+    "announcement": {
+      "title": "Apply for Lifestyle Credit Cards Online",
+      "url": "https://www.idfcfirst.bank.in/credit-card/lifestyle-credit-card",
+      "description": "Official product page on IDFC First Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "idfc-first-bank-apply-for-rewards-credit-card",
+    "cardName": "Apply for Rewards Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/reward-credit-card",
+    "discoveredAt": "2026-09-09T08:07:38.615Z",
+    "lastmod": "2026-09-09",
+    "announcement": {
+      "title": "Apply for Rewards Credit Card",
+      "url": "https://www.idfcfirst.bank.in/credit-card/reward-credit-card",
+      "description": "Official product page on IDFC First Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "idfc-first-bank-credit-card-balance-to-emi-conversion",
+    "cardName": "Credit Card Balance to EMI Conversion",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/credit-card-balance-conversion",
+    "discoveredAt": "2026-09-09T08:07:38.615Z",
+    "lastmod": "2026-09-09",
+    "announcement": {
+      "title": "Credit Card Balance to EMI Conversion",
+      "url": "https://www.idfcfirst.bank.in/credit-card/credit-card-balance-conversion",
+      "description": "Official product page on IDFC First Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-credit-card-bill-payment-online",
+    "cardName": "Credit Card Bill Payment Online",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+    "discoveredAt": "2026-09-09T08:07:36.279Z",
+    "lastmod": "2026-07-09",
+    "announcement": {
+      "title": "Credit Card Bill Payment Online",
+      "url": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "idfc-first-bank-credit-card-travel-rewards",
     "cardName": "Credit Card Travel Rewards",
     "issuerName": "IDFC First Bank",

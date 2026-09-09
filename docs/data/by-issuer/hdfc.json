@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "hdfc-bank-irctc-credit-card",
+    "card_name": "IRCTC Credit Card",
+    "issuer": "hdfc",
+    "change_type": "eligibility-change",
+    "summary": "Minimum monthly income requirement lowered from ₹25,000 to ₹12,000, widening who can apply.",
+    "status": "unverified",
+    "official_link": "https://www.hdfc.bank.in/credit-cards/irctc-credit-card",
+    "verification_link": null,
+    "source": "newsletter",
+    "edition_number": 15,
+    "edition_date": "2026-09-09",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-09#hdfc-bank-irctc-credit-card"
+  },
+  {
     "card_slug": "irctc-credit-card",
     "card_name": "IRCTC Credit Card",
     "issuer": "hdfc",

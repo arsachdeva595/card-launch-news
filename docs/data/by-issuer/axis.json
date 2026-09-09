@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "axis-bank-axis-bank-rewards-credit-card",
+    "card_name": "Axis Bank REWARDS Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "New 1% fees added on rent, wallet loads, fuel, education, utility, and online gaming transactions.",
+    "status": "unverified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+    "verification_link": null,
+    "source": "newsletter",
+    "edition_number": 15,
+    "edition_date": "2026-09-09",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-09#axis-bank-axis-bank-rewards-credit-card"
+  },
+  {
     "card_slug": "axis-bank-flipkart-axis-bank-credit-card",
     "card_name": "FLIPKART AXIS BANK Credit Card",
     "issuer": "axis",

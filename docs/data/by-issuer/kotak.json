@@ -1,5 +1,33 @@
 [
   {
+    "card_slug": "kotak-mahindra-bank-royale-signature-credit-card",
+    "card_name": "Royale Signature Credit Card",
+    "issuer": "kotak",
+    "change_type": "devaluation",
+    "summary": "International spends dropped from the accelerated 4X reward category, now earning only the base 2X rate.",
+    "status": "unverified",
+    "official_link": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/royale-signature-credit-card.html",
+    "verification_link": null,
+    "source": "newsletter",
+    "edition_number": 15,
+    "edition_date": "2026-09-09",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-09#kotak-mahindra-bank-royale-signature-credit-card"
+  },
+  {
+    "card_slug": "kotak-mahindra-bank-kotak-cashback-credit-card",
+    "card_name": "Kotak Cashback+ Credit Card",
+    "issuer": "kotak",
+    "change_type": "benefit-change",
+    "summary": "Minimum cashback redemption threshold rising from 100 to 500 points effective 16 October 2026.",
+    "status": "unverified",
+    "official_link": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-cashback-plus-credit-card.html",
+    "verification_link": null,
+    "source": "newsletter",
+    "edition_number": 15,
+    "edition_date": "2026-09-09",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-09#kotak-mahindra-bank-kotak-cashback-credit-card"
+  },
+  {
     "card_slug": "kotak-nri-royale-signature",
     "card_name": "Kotak NRI Royale Signature Credit Card",
     "issuer": "kotak",

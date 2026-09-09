@@ -1,5 +1,229 @@
 [
   {
+    "number": 15,
+    "date": "2026-09-09",
+    "subject": "What Changed to Your Credit Card Today? Edition 15",
+    "summary": "IDFC FIRST Bank drops forex markup to zero across fourteen cards but ends reward points on international spends from 26 October, Axis Bank adds six new 1% fees to its REWARDS card, and HDFC halves the income bar on its IRCTC card.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-09-09",
+    "issuers": [
+      "axis",
+      "hdfc",
+      "idfc-first",
+      "kotak"
+    ],
+    "items": [
+      {
+        "card_slug": "axis-bank-axis-bank-rewards-credit-card",
+        "card_name": "Axis Bank REWARDS Credit Card",
+        "issuer": "axis",
+        "change_type": "fee-change",
+        "summary": "New 1% fees added on rent, wallet loads, fuel, education, utility, and online gaming transactions.",
+        "status": "unverified",
+        "official_link": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+        "verification_link": null,
+        "anchor": "axis-bank-axis-bank-rewards-credit-card"
+      },
+      {
+        "card_slug": "hdfc-bank-irctc-credit-card",
+        "card_name": "IRCTC Credit Card",
+        "issuer": "hdfc",
+        "change_type": "eligibility-change",
+        "summary": "Minimum monthly income requirement lowered from ₹25,000 to ₹12,000, widening who can apply.",
+        "status": "unverified",
+        "official_link": "https://www.hdfc.bank.in/credit-cards/irctc-credit-card",
+        "verification_link": null,
+        "anchor": "hdfc-bank-irctc-credit-card"
+      },
+      {
+        "card_slug": "kotak-mahindra-bank-royale-signature-credit-card",
+        "card_name": "Royale Signature Credit Card",
+        "issuer": "kotak",
+        "change_type": "devaluation",
+        "summary": "International spends dropped from the accelerated 4X reward category, now earning only the base 2X rate.",
+        "status": "unverified",
+        "official_link": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/royale-signature-credit-card.html",
+        "verification_link": null,
+        "anchor": "kotak-mahindra-bank-royale-signature-credit-card"
+      },
+      {
+        "card_slug": "kotak-mahindra-bank-kotak-cashback-credit-card",
+        "card_name": "Kotak Cashback+ Credit Card",
+        "issuer": "kotak",
+        "change_type": "benefit-change",
+        "summary": "Minimum cashback redemption threshold rising from 100 to 500 points effective 16 October 2026.",
+        "status": "unverified",
+        "official_link": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-cashback-plus-credit-card.html",
+        "verification_link": null,
+        "anchor": "kotak-mahindra-bank-kotak-cashback-credit-card"
+      },
+      {
+        "card_slug": "idfc-first-bank-first-millennia",
+        "card_name": "FIRST Millennia",
+        "issuer": "idfc-first",
+        "change_type": "reward-change",
+        "summary": "Zero forex markup highlighted, but international spends will earn zero reward points from 26 October 2026.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/millennia",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-first-millennia"
+      },
+      {
+        "card_slug": "idfc-first-bank-first-classic",
+        "card_name": "FIRST Classic",
+        "issuer": "idfc-first",
+        "change_type": "reward-change",
+        "summary": "Same forex-for-rewards trade as FIRST Millennia: zero forex markup, but no reward points on international spends from 26 October 2026.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/classic",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-first-classic"
+      },
+      {
+        "card_slug": "idfc-first-bank-first-select",
+        "card_name": "FIRST Select",
+        "issuer": "idfc-first",
+        "change_type": "reward-change",
+        "summary": "Forex markup cut from 1.99% to 0%; international spends stop earning reward points from 26 October 2026.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/select",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-first-select"
+      },
+      {
+        "card_slug": "idfc-first-bank-first-wealth",
+        "card_name": "FIRST Wealth",
+        "issuer": "idfc-first",
+        "change_type": "reward-change",
+        "summary": "Forex markup cut from 1.5% to 0%; international spends lose reward points from 26 October 2026 and drop out of the birthday 10X category.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/wealth",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-first-wealth"
+      },
+      {
+        "card_slug": "idfc-first-bank-ashva-metal-card",
+        "card_name": "Ashva Metal Card",
+        "issuer": "idfc-first",
+        "change_type": "reward-change",
+        "summary": "Forex markup cut from 1% to 0%, while international spend rewards are cut from 5X to 2X from 26 October 2026.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/ashva",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-ashva-metal-card"
+      },
+      {
+        "card_slug": "idfc-first-bank-business-credit-card-sme",
+        "card_name": "Business Credit Card (SME)",
+        "issuer": "idfc-first",
+        "change_type": "reward-change",
+        "summary": "Forex markup cut to zero, but the high-reward variant's business-expense multiplier drops from 10X to 4X and the foreign-currency reward category is removed.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/business-credit-card-sme",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-business-credit-card-sme"
+      },
+      {
+        "card_slug": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
+        "card_name": "IndiGo IDFC FIRST Dual Credit Card",
+        "issuer": "idfc-first",
+        "change_type": "reward-change",
+        "summary": "Forex markup cut from 1.49% to 0%, and international spends will newly earn 1 IndiGo BluChip point per ₹100 from 26 October 2026.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-indigo-idfc-first-dual-credit-card"
+      },
+      {
+        "card_slug": "idfc-first-bank-first-digital-virtual-upi",
+        "card_name": "FIRST Digital (Virtual UPI)",
+        "issuer": "idfc-first",
+        "change_type": "reward-change",
+        "summary": "UPI reward rate of 3X now applies only via the IDFC FIRST Bank app; other UPI apps drop to 1X, and international spends earn zero.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/rupay-credit-card",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-first-digital-virtual-upi"
+      },
+      {
+        "card_slug": "idfc-first-bank-first-swyp",
+        "card_name": "FIRST SWYP",
+        "issuer": "idfc-first",
+        "change_type": "benefit-change",
+        "summary": "Welcome offer stripped of its Amazon voucher, EMI reward points, and ₹2,100 EaseMyTrip coupons, replaced with a flat ₹500 gift voucher.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/swyp-emi-credit-card",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-first-swyp"
+      },
+      {
+        "card_slug": "idfc-first-bank-lic-select",
+        "card_name": "LIC Select",
+        "issuer": "idfc-first",
+        "change_type": "fee-change",
+        "summary": "Zero forex markup added; no other changes detected.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/lic-credit-card",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-lic-select"
+      },
+      {
+        "card_slug": "idfc-first-bank-lic-classic",
+        "card_name": "LIC Classic",
+        "issuer": "idfc-first",
+        "change_type": "fee-change",
+        "summary": "Zero forex markup added; no other changes detected.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/lic-classic-credit-card",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-lic-classic"
+      },
+      {
+        "card_slug": "idfc-first-bank-first-ea-n",
+        "card_name": "FIRST EA₹N",
+        "issuer": "idfc-first",
+        "change_type": "fee-change",
+        "summary": "Zero forex markup added to this entry-level RuPay card.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/secured-rupay-credit-card",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-first-ea-n"
+      },
+      {
+        "card_slug": "idfc-first-bank-first-power",
+        "card_name": "FIRST Power+",
+        "issuer": "idfc-first",
+        "change_type": "fee-change",
+        "summary": "Zero forex markup added to this fuel co-branded card.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-first-power"
+      },
+      {
+        "card_slug": "idfc-first-bank-apply-for-quantum-credit-card",
+        "card_name": "Apply for Quantum+ Credit Card",
+        "issuer": "idfc-first",
+        "change_type": "fee-change",
+        "summary": "Zero forex markup added.",
+        "status": "verified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
+        "verification_link": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
+        "anchor": "idfc-first-bank-apply-for-quantum-credit-card"
+      },
+      {
+        "card_slug": "idfc-first-bank-corporate-credit-card",
+        "card_name": "Corporate Credit Card",
+        "issuer": "idfc-first",
+        "change_type": "fee-change",
+        "summary": "Confirms the bank-wide announcement: all IDFC FIRST Bank credit cards now carry zero forex markup.",
+        "status": "unverified",
+        "official_link": "https://www.idfcfirst.bank.in/credit-card/corporate-credit-card",
+        "verification_link": null,
+        "anchor": "idfc-first-bank-corporate-credit-card"
+      }
+    ]
+  },
+  {
     "number": 14,
     "date": "2026-09-05",
     "subject": "What Changed to Your Credit Card Today? Edition 14",

@@ -129,8 +129,8 @@
     "https://equitas.bank.in/policies/fastag-application-privacy-policy/",
     "https://equitas.bank.in/policies/mobile-banking-privacy-policy/",
     "https://equitas.bank.in/policies/whistle-blower/",
-    "https://equitas.bank.in/referral-employee-credit-card/thank-you/",
     "https://equitas.bank.in/referral-customer-credit-card/thank-you/",
+    "https://equitas.bank.in/referral-employee-credit-card/thank-you/",
     "https://equitas.bank.in/rekyc/thank-you/",
     "https://equitas.bank.in/selfe-membership/thank-you/",
     "https://equitas.bank.in/terms-and-conditions/door-step-banking/",
@@ -154,9 +154,9 @@
     "https://equitas.bank.in/business-banking/ways-to-bank/fraud-prevention-and-security-awareness/",
     "https://equitas.bank.in/business-banking/ways-to-bank/internet-banking/",
     "https://equitas.bank.in/business-banking/ways-to-bank/mobile-banking/",
-    "https://equitas.bank.in/important-information-for-customers/unclaimed-accounts-to-deaf/search/",
     "https://equitas.bank.in/nri-banking/current-accounts/nre-current-account/",
     "https://equitas.bank.in/nri-banking/current-accounts/nro-current-account/",
+    "https://equitas.bank.in/important-information-for-customers/unclaimed-accounts-to-deaf/search/",
     "https://equitas.bank.in/nri-banking/save/nri-fixed-deposits/",
     "https://equitas.bank.in/nri-banking/save/nri-recurring-deposits/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/",
@@ -191,6 +191,7 @@
     "https://equitas.bank.in/business-banking/business/current-accounts/advance-current/",
     "https://equitas.bank.in/business-banking/business/current-accounts/business-prime/",
     "https://equitas.bank.in/business-banking/business/current-accounts/current-account/",
+    "https://equitas.bank.in/business-banking/business/current-accounts/elite-current-account/",
     "https://equitas.bank.in/business-banking/business/current-accounts/my-current-account/",
     "https://equitas.bank.in/business-banking/business/current-accounts/overdraft-against-deposit/",
     "https://equitas.bank.in/business-banking/business/current-accounts/trade-in-current/",
@@ -224,6 +225,7 @@
     "https://equitas.bank.in/nri-banking/pay/make-payments/fastag/",
     "https://equitas.bank.in/nri-banking/pay/make-payments/payment-cut-off-timing/",
     "https://equitas.bank.in/nri-banking/pay/make-payments/upi/",
+    "https://equitas.bank.in/nri-banking/pay/offers/digilocker/",
     "https://equitas.bank.in/nri-banking/save/nri-fixed-deposits/fcnr-b-fd/",
     "https://equitas.bank.in/nri-banking/save/nri-fixed-deposits/fcnr-nr/",
     "https://equitas.bank.in/nri-banking/save/nri-fixed-deposits/nre-ca/",
@@ -240,7 +242,6 @@
     "https://equitas.bank.in/nri-banking/save/nri-savings/eva-nro-savings-account/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/nre-rupee-savings-account/",
     "https://equitas.bank.in/nri-banking/save/nri-savings/nro-rupee-savings-account/",
-    "https://equitas.bank.in/nri-banking/pay/offers/digilocker/",
     "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/equi-remit-1/",
     "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/equi-remit/",
     "https://equitas.bank.in/nri-banking/transfer-funds-to-india/seamless-transfers/money-to-overseas/",
@@ -294,5 +295,5 @@
     "https://equitas.bank.in/personal-banking/insure/insurance/government-schemes/pradhan-mantri-suraksha-bima-yojana/",
     "https://equitas.bank.in/personal-banking/invest/all-investments/government-schemes/atal-pension-yojna/"
   ],
-  "updatedAt": "2026-09-10T08:06:35.909Z"
+  "updatedAt": "2026-09-11T08:01:59.986Z"
 }

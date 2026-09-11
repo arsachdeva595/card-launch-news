@@ -58,5 +58,17 @@
     "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1wacnw5/hdfc_irctc_credit_card_smartbuy_train_ticket/",
     "source": "auto-detected",
     "detected_at": "2026-09-08T08:08:42.249Z"
+  },
+  {
+    "card_slug": "first-wealth",
+    "card_name": "FIRST Wealth",
+    "issuer": "idfc-first",
+    "change_type": "fee-change",
+    "summary": "Forex markup fee removed, card now has zero forex markup.",
+    "status": "verified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/wealth",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vx6lr6/help_me_optimize_my_credit_card_setup_or_tell_me/",
+    "source": "auto-detected",
+    "detected_at": "2026-09-11T08:08:34.403Z"
   }
 ]

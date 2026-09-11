@@ -3662,5 +3662,11 @@
     "issuerSlug": "idfc-first-bank",
     "url": "https://www.idfcfirst.bank.in/credit-card/credit-card-balance-conversion",
     "status": "Active"
+  },
+  {
+    "cardName": "Jalsa Credit Card",
+    "issuerSlug": "rbl-bank",
+    "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/jalsa-credit-card",
+    "status": "Active"
   }
 ]

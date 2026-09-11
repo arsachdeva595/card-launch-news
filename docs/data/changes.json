@@ -1,5 +1,387 @@
 [
   {
+    "id": "sbi-card-sbi-corporate-purchase-card",
+    "cardName": "SBI Corporate Purchase Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/corporate-purchase-cards/sbi-corporate-purchase-card.page",
+    "status": "Active",
+    "detectedAt": "2026-09-11T08:11:46.909Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Purchase Cards"
+      },
+      {
+        "type": "context",
+        "text": "Virtual Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Quick Actions"
+      },
+      {
+        "type": "context",
+        "text": "Enquire"
+      },
+      {
+        "type": "removed",
+        "text": "Most Important Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Signature Corporate Card"
+      },
+      {
+        "type": "removed",
+        "text": "Experience Unmatched Privileges"
+      },
+      {
+        "type": "removed",
+        "text": "Know more"
+      },
+      {
+        "type": "removed",
+        "text": "Enquire"
+      },
+      {
+        "type": "context",
+        "text": "Track Application"
+      },
+      {
+        "type": "context",
+        "text": "New User?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Business"
+      },
+      {
+        "type": "context",
+        "text": "Digitized Membership Kit"
+      },
+      {
+        "type": "removed",
+        "text": "Help me find a card"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Product Videos"
+      },
+      {
+        "type": "context",
+        "text": "Benefits Home"
+      },
+      {
+        "type": "context",
+        "text": "Lower Interest Option"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Other benefits"
+      },
+      {
+        "type": "context",
+        "text": "Contactless Payments"
+      },
+      {
+        "type": "removed",
+        "text": "Download SBI Card Mobile App"
+      },
+      {
+        "type": "removed",
+        "text": "Add-on Card"
+      },
+      {
+        "type": "removed",
+        "text": "Top Up & Recharge"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Video for New Users"
+      },
+      {
+        "type": "context",
+        "text": "Pay"
+      },
+      {
+        "type": "context",
+        "text": "Pay Home"
+      },
+      {
+        "type": "context",
+        "text": "Pay Online"
+      },
+      {
+        "type": "context",
+        "text": "Pay Offline"
+      },
+      {
+        "type": "removed",
+        "text": "Download Form"
+      },
+      {
+        "type": "removed",
+        "text": "PAYNET-Pay Online"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "removed",
+        "text": "Payment Posting TAT"
+      },
+      {
+        "type": "context",
+        "text": "Offers Home"
+      },
+      {
+        "type": "context",
+        "text": "All offers"
+      },
+      {
+        "type": "context",
+        "text": "Offers this week"
+      },
+      {
+        "type": "context",
+        "text": "Convert to EMI"
+      },
+      {
+        "type": "removed",
+        "text": "Download Mobile App"
+      },
+      {
+        "type": "removed",
+        "text": "FAQ"
+      },
+      {
+        "type": "added",
+        "text": "All offers"
+      },
+      {
+        "type": "added",
+        "text": "Offers this week"
+      },
+      {
+        "type": "added",
+        "text": "Convert to EMI"
+      },
+      {
+        "type": "context",
+        "text": "Rewards Home"
+      },
+      {
+        "type": "context",
+        "text": "Know your Reward Points"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "idfc-first-bank-apply-for-quantum-credit-card",
+    "cardName": "Apply for Quantum+ Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-11T08:08:34.413Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Quantum+ Credit Card - Lifetime Free, FD-Backed"
+      },
+      {
+        "type": "removed",
+        "text": "The Quantum+ Credit Card by IDFC FIRST Bank is a lifetime free, FD-backed credit card starting at just ₹5,000​ FD. Earn up to 2% cashback on everyday spends while building your credit profile.​"
+      },
+      {
+        "type": "added",
+        "text": "The Quantum+ Credit Card by IDFC FIRST Bank is a lifetime free, FD-backed credit card starting at FD of just ₹5,000. Earn up to 2% cashback on everyday spends while building your credit profile.​"
+      },
+      {
+        "type": "context",
+        "text": "Your credit limit equals 100% of your FD value. Use it online, offline or via UPI Scan & Pay to earn cashback on every eligible transaction, from Day 1."
+      },
+      {
+        "type": "context",
+        "text": "Whether you are student, homemaker, freelancer, retired employee, or a young professional, the Quantum+ gets you started with no income proof or credit history required."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Your FD earns interest while your credit card earns cashback."
+      },
+      {
+        "type": "context",
+        "text": "View More"
+      },
+      {
+        "type": "added",
+        "text": "Total cashback is capped at ₹500 per statement cycle across all categories combined​"
+      },
+      {
+        "type": "context",
+        "text": "Online spends on select categories and EMI transactions will not count towards the ₹10,000 online spends milestone."
+      },
+      {
+        "type": "context",
+        "text": "No cashback on EMI, ATM cash withdrawals, and UPI spends made through third-party UPI payment apps."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a new cashback cap of ₹500 per statement cycle across all categories."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-wealth",
+    "cardName": "FIRST Wealth",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
+    "status": "Active",
+    "detectedAt": "2026-09-11T08:08:34.403Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Apply for FIRST Wealth - Low Forex Markup Credit Card | IDFC FIRST Bank"
+      },
+      {
+        "type": "added",
+        "text": "Apply for FIRST Wealth Credit Card - Zero Forex Markup | IDFC FIRST Bank"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility"
+      },
+      {
+        "type": "context",
+        "text": "Convenience"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Forex markup fee removed, card now has zero forex markup.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Help me optimize my credit card setup or tell me I have FOMO 😅",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vx6lr6/help_me_optimize_my_credit_card_setup_or_tell_me/",
+        "description": "I think I may be overthinking my credit cards and would love some advice from people who actually optimize their cards. My profile - Age: 32 - Salary: ~₹2L/month - CIBIL: 780 - Total annual card spend: ~₹10L (including my wife&#39;s card) -"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "federal-bank-visa-signet-credit-card",
+    "cardName": "Visa Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-11T08:06:38.926Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: c338400e-e42i-42de-b675-30bf0d917b4a"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 76a4b1a0-e42i-4cea-bf22-86cd52328f58"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "September 10 2026, 08:12:00 UTC"
+      },
+      {
+        "type": "added",
+        "text": "September 11 2026, 08:06:33 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-celesta-credit-card",
+    "cardName": "Visa Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-11T08:06:38.925Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: da1505ad-e42i-4013-88b4-7a8586281bd4"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 83c254b3-e42i-4b32-84b2-9004efc2f760"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "September 10 2026, 08:11:59 UTC"
+      },
+      {
+        "type": "added",
+        "text": "September 11 2026, 08:06:32 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "idfc-first-bank-apply-for-lifestyle-credit-cards-online",
     "cardName": "Apply for Lifestyle Credit Cards Online",
     "issuerName": "IDFC First Bank",
@@ -401,42 +783,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated BookMyShow BOGO offer wording and added a click link."
-    }
-  },
-  {
-    "id": "federal-bank-visa-signet-credit-card",
-    "cardName": "Visa Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-10T08:12:06.157Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 798ba38d-e42i-4289-9e36-032259766b3c"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: c338400e-e42i-42de-b675-30bf0d917b4a"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "September 09 2026, 08:13:39 UTC"
-      },
-      {
-        "type": "added",
-        "text": "September 10 2026, 08:12:00 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -904,550 +1250,6 @@
     }
   },
   {
-    "id": "sbi-card-sbi-corporate-purchase-card",
-    "cardName": "SBI Corporate Purchase Card",
-    "issuerName": "SBI Card",
-    "issuerSlug": "sbi-card",
-    "officialUrl": "https://www.sbicard.com/",
-    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/corporate-purchase-cards/sbi-corporate-purchase-card.page",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:19:26.027Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Offers this week"
-      },
-      {
-        "type": "context",
-        "text": "Convert to EMI"
-      },
-      {
-        "type": "removed",
-        "text": "Download Mobile App"
-      },
-      {
-        "type": "removed",
-        "text": "FAQ"
-      },
-      {
-        "type": "context",
-        "text": "Rewards Home"
-      },
-      {
-        "type": "context",
-        "text": "Know your Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Earning Reward"
-      },
-      {
-        "type": "added",
-        "text": "Points"
-      },
-      {
-        "type": "added",
-        "text": "Redeeming Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Apply"
-      },
-      {
-        "type": "added",
-        "text": "Apply Home"
-      },
-      {
-        "type": "added",
-        "text": "Help me find a card"
-      },
-      {
-        "type": "added",
-        "text": "Track my Application"
-      },
-      {
-        "type": "added",
-        "text": "Retrieve my Application"
-      },
-      {
-        "type": "added",
-        "text": "Apply now"
-      },
-      {
-        "type": "added",
-        "text": "FAQ"
-      },
-      {
-        "type": "added",
-        "text": "Corporate Corporate Home"
-      },
-      {
-        "type": "added",
-        "text": "Customized Solution"
-      },
-      {
-        "type": "added",
-        "text": "Customized Solution Home"
-      },
-      {
-        "type": "added",
-        "text": "Corporate Web Servicing"
-      },
-      {
-        "type": "added",
-        "text": "Digital On-Boarding"
-      },
-      {
-        "type": "added",
-        "text": "Business Expertise"
-      },
-      {
-        "type": "added",
-        "text": "Global Acceptance"
-      },
-      {
-        "type": "added",
-        "text": "Technology Innovation"
-      },
-      {
-        "type": "added",
-        "text": "Security & Control"
-      },
-      {
-        "type": "added",
-        "text": "Best in Class Servicing"
-      },
-      {
-        "type": "added",
-        "text": "Solutions for You"
-      },
-      {
-        "type": "added",
-        "text": "Cards"
-      },
-      {
-        "type": "added",
-        "text": "Cards Home"
-      },
-      {
-        "type": "added",
-        "text": "Corporate Cards"
-      },
-      {
-        "type": "added",
-        "text": "Central Travel Cards"
-      },
-      {
-        "type": "added",
-        "text": "Utility Cards"
-      },
-      {
-        "type": "added",
-        "text": "Purchase Cards"
-      },
-      {
-        "type": "added",
-        "text": "Virtual Cards"
-      },
-      {
-        "type": "added",
-        "text": "Enquire"
-      },
-      {
-        "type": "added",
-        "text": "Most Important Terms and Conditions"
-      },
-      {
-        "type": "added",
-        "text": "Enquire"
-      },
-      {
-        "type": "added",
-        "text": "Track Application"
-      },
-      {
-        "type": "added",
-        "text": "Who We Are Who We Are Home"
-      },
-      {
-        "type": "added",
-        "text": "About Us"
-      },
-      {
-        "type": "added",
-        "text": "Media"
-      },
-      {
-        "type": "added",
-        "text": "Investor Relations"
-      },
-      {
-        "type": "added",
-        "text": "Careers"
-      },
-      {
-        "type": "added",
-        "text": "Analyst Investor Meeting"
-      },
-      {
-        "type": "added",
-        "text": "Annual Report"
-      },
-      {
-        "type": "added",
-        "text": "Business Presentations"
-      },
-      {
-        "type": "added",
-        "text": "Financial Results"
-      },
-      {
-        "type": "added",
-        "text": "General Meeting Information"
-      },
-      {
-        "type": "added",
-        "text": "Investor Contact Points"
-      },
-      {
-        "type": "added",
-        "text": "Other Disclosures"
-      },
-      {
-        "type": "added",
-        "text": "Policies and Codes"
-      },
-      {
-        "type": "added",
-        "text": "Corporate Announcements"
-      },
-      {
-        "type": "added",
-        "text": "Program Manager Login"
-      },
-      {
-        "type": "added",
-        "text": "Search"
-      },
-      {
-        "type": "added",
-        "text": "Get In Touch"
-      },
-      {
-        "type": "added",
-        "text": "Home > Corporate > Cards > Purchase Cards > SBI Corporate Purchase Card"
-      },
-      {
-        "type": "added",
-        "text": "Privileges on SBI Corporate Purchase Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "SBI Corporate Purchase Credit Card brings you a set of privileges"
-      },
-      {
-        "type": "added",
-        "text": "Features"
-      },
-      {
-        "type": "added",
-        "text": "Fees and Charges"
-      },
-      {
-        "type": "added",
-        "text": "Spend Category Control"
-      },
-      {
-        "type": "added",
-        "text": "Restrict employees spends at non-permitted merchant categories"
-      },
-      {
-        "type": "added",
-        "text": "Put spending limits on select merchant categories as per daily, weekly or monthly expenses"
-      },
-      {
-        "type": "added",
-        "text": "We help you in keeping your card usage within permitted entitlement limits"
-      },
-      {
-        "type": "added",
-        "text": "Get more protection and reduced chances of misuse, fraud or skimming on your cards"
-      },
-      {
-        "type": "added",
-        "text": "Spend Analysis"
-      },
-      {
-        "type": "added",
-        "text": "Restrict employees spends at non-permitted merchant categories"
-      },
-      {
-        "type": "added",
-        "text": "Put spending limits on select merchant categories as per daily, weekly or monthly expenses"
-      },
-      {
-        "type": "added",
-        "text": "Monitor the category-wise expenses by giving a better insight about the expenditure-trends"
-      },
-      {
-        "type": "added",
-        "text": "It is a web-based interface and does not demand any changes in existing system"
-      },
-      {
-        "type": "added",
-        "text": "Easy review expenses to check policy breaches & ensure compliance"
-      },
-      {
-        "type": "added",
-        "text": "Category-wise tracking to leverage and negotiate better rates & terms with vendors & suppliers"
-      },
-      {
-        "type": "added",
-        "text": "Smarter Expense Management"
-      },
-      {
-        "type": "added",
-        "text": "Track and control organisation&rsquo;s expenses"
-      },
-      {
-        "type": "added",
-        "text": "Easy review of expenses to check policy breaches and ensure compliance"
-      },
-      {
-        "type": "added",
-        "text": "Get email alerts for key events, such as approvals, availability of reports or statements and program thresholds"
-      },
-      {
-        "type": "added",
-        "text": "Use self-service interactive reports with multiple filters, sort options and drill-down capability for accurate spending information"
-      },
-      {
-        "type": "added",
-        "text": "With VISA Intellilink, control expenses better, rather than resort to budget cuts"
-      },
-      {
-        "type": "added",
-        "text": "Deep dive ability to analyze cardholder transactions globally"
-      },
-      {
-        "type": "added",
-        "text": "It is a web-based interface and does not demand any changes in existing system"
-      },
-      {
-        "type": "added",
-        "text": "Dashboards for quick snapshots of key information"
-      },
-      {
-        "type": "added",
-        "text": "Email alerts signal key events&mdash;approvals, availability of reports or statements, and program thresholds"
-      },
-      {
-        "type": "added",
-        "text": "Protection against Employee Fraud with Fidelity Guarantee Insurance which covers organization&rsquo;s liability against frauds by with Corporate Cardholder"
-      },
-      {
-        "type": "added",
-        "text": "The insurance stays valid on international and online transactions, as well"
-      },
-      {
-        "type": "added",
-        "text": "E-statement"
-      },
-      {
-        "type": "added",
-        "text": "Get hassle free monthly e-statements delivered directly to the inbox and stay stress free from postal delays, lost statements or late payments"
-      },
-      {
-        "type": "added",
-        "text": "24x7 Services"
-      },
-      {
-        "type": "added",
-        "text": "A dedicated team of Service Desk Executives and Relationship Managers for assistance and support."
-      },
-      {
-        "type": "added",
-        "text": "For any assistance, please call: 1860 180 1290 / 39 02 02 02 (prefix local STD code)."
-      },
-      {
-        "type": "added",
-        "text": "Fee"
-      },
-      {
-        "type": "added",
-        "text": "Joining fee: Nil"
-      },
-      {
-        "type": "added",
-        "text": "Annual fee: Nil"
-      },
-      {
-        "type": "added",
-        "text": "Extended Credit"
-      },
-      {
-        "type": "added",
-        "text": "Interest free credit period: 20-50 days, applicable only on retail purchases and if previous month&rsquo;s outstanding balance is paid"
-      },
-      {
-        "type": "added",
-        "text": "Total amount payable: total outstanding dues"
-      },
-      {
-        "type": "added",
-        "text": "Cash advance limit (If Applicable)"
-      },
-      {
-        "type": "added",
-        "text": "Cash advance limit: Variable"
-      },
-      {
-        "type": "added",
-        "text": "Free Credit Period: Nil"
-      },
-      {
-        "type": "added",
-        "text": "Finance charges#: Up to 3.35% per month, accounting to 40.2% per annum from the date of withdrawal"
-      },
-      {
-        "type": "added",
-        "text": "Cash Advance Fee (If Applicable)"
-      },
-      {
-        "type": "added",
-        "text": "SBI ATMs / Other Domestic ATMs: Upto 2.5% of withdrawal amount or upto Rs. 450, whichever is higher, per transaction"
-      },
-      {
-        "type": "added",
-        "text": "International ATMs: Upto 3% of withdrawal amount or upto Rs. 450, whichever is higher, per transaction"
-      },
-      {
-        "type": "added",
-        "text": "Other charges (If Applicable)"
-      },
-      {
-        "type": "added",
-        "text": "Payment Dishonor Fee: 2% of payment Amount (subject to a minimum of Rs. 450)"
-      },
-      {
-        "type": "added",
-        "text": "Late Payment Charges: NIL for Total Amount due from Rs. 0 - Rs. 200;"
-      },
-      {
-        "type": "added",
-        "text": "Rs. 100 for Total Amount due greater than Rs. 200 & up to Rs. 500;"
-      },
-      {
-        "type": "added",
-        "text": "Rs. 400 for Total Amount due greater than Rs. 500 & up to Rs. 1000;"
-      },
-      {
-        "type": "added",
-        "text": "Rs. 500 for Total Amount due greater than Rs. 1000 & up to Rs. 10,000;"
-      },
-      {
-        "type": "added",
-        "text": "Rs. 750 for Total Amount due greater than Rs. 10,000"
-      },
-      {
-        "type": "added",
-        "text": "Overlimit fees: Not Applicable on Corporate Cards"
-      },
-      {
-        "type": "added",
-        "text": "Emergency card replacement (when abroad): Complimentary"
-      },
-      {
-        "type": "added",
-        "text": "Foreign currency transaction: Conversion mark upto 3.5%"
-      },
-      {
-        "type": "added",
-        "text": "Rewards redemption fee: Rs. 99"
-      },
-      {
-        "type": "added",
-        "text": "Annual Priority Pass Fee: Rs. 180"
-      },
-      {
-        "type": "added",
-        "text": "Annual Reward Fee: Upto Rs. 300"
-      },
-      {
-        "type": "added",
-        "text": "OTC Cash Payment Fees: Rs. 100 + applicable taxes"
-      },
-      {
-        "type": "added",
-        "text": "Surcharge (If Applicable)"
-      },
-      {
-        "type": "added",
-        "text": "Railway tickets through railway counters: Rs. 30 + 2.5% of transaction fee"
-      },
-      {
-        "type": "added",
-        "text": "Railway tickets through irctc.co.in : 1.8% of transaction amount + service charge, as applicable"
-      },
-      {
-        "type": "added",
-        "text": "Petrol & all products/services:"
-      },
-      {
-        "type": "added",
-        "text": "&bull;1% of transactional value (excluding all applicable taxes wherever applicable + other charges) for single transaction spends between Rs. 500 and Rs. 4000 for Signature & Platinum Cards; Rs. 500 and Rs. 3,000 for all other cards"
-      },
-      {
-        "type": "added",
-        "text": "Maximum surcharge waiver of Rs. 250 per statement cycle per corporate card account for signature & platinum cards; Rs. 100 per corporate card account for all other cards"
-      },
-      {
-        "type": "added",
-        "text": "Order of payment settlement"
-      },
-      {
-        "type": "added",
-        "text": "Total amount due (which is inclusive of applicable taxes), followed by fees and other charges, Interest charges, retail outstanding and cash advance."
-      },
-      {
-        "type": "added",
-        "text": "Things to know"
-      },
-      {
-        "type": "added",
-        "text": "#Cheques payable outside clearing zones not accepted. We accept payment through local or drafts payable in Delhi only."
-      },
-      {
-        "type": "added",
-        "text": "All taxes would be charged as applicable on all the above Fees, Interest & Charges."
-      },
-      {
-        "type": "added",
-        "text": "\"Applicable Taxes&rdquo; (for Statements issued on or after 1st July, 2017) means:"
-      },
-      {
-        "type": "added",
-        "text": "-For the cardholders having state of residence in the records of SBI Card on the statement date as&ldquo;Haryana&rdquo; - Central Tax @ 9% and State Tax @ 9%"
-      },
-      {
-        "type": "added",
-        "text": "-For the cardholders having state of residence in the records of SBI Card on the statement date as other than &ldquo;Haryana&rdquo; - Integrated Tax @ 18%"
-      },
-      {
-        "type": "context",
-        "text": "#Card Finance charge is dynamic and will be based on the cardholder's usage and payment patterns and is subject to periodic review."
-      },
-      {
-        "type": "context",
-        "text": "*Any changes in schedule of charges will be communicated via email and will be available on our website www.sbicard.com"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "kotak-mahindra-bank-royale-signature-credit-card",
     "cardName": "Royale Signature Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -1725,50 +1527,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Reward points threshold reduced to ₹40,000 per statement cycle"
-    }
-  },
-  {
-    "id": "idfc-first-bank-apply-for-quantum-credit-card",
-    "cardName": "Apply for Quantum+ Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.710Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Lost card? You're covered"
-      },
-      {
-        "type": "context",
-        "text": "If your card is lost or stolen, you're protected against fraud up to ₹25,000"
-      },
-      {
-        "type": "added",
-        "text": "0 Forex Markup on global spends"
-      },
-      {
-        "type": "added",
-        "text": "Experience the best the world has to offer with Zero forex markup on international spends."
-      },
-      {
-        "type": "context",
-        "text": "Your Money Just"
-      },
-      {
-        "type": "context",
-        "text": "Got a Promotion"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added zero forex markup on international spends."
     }
   },
   {
@@ -4049,438 +3807,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-wealth",
-    "cardName": "FIRST Wealth",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.693Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Lifetime-free card with premium benefits"
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "removed",
-        "text": "Low forex markup at just 1.5%"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "context",
-        "text": "on international transactions"
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Already have the FIRST Wealth Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Activate UPI Now"
-      },
-      {
-        "type": "removed",
-        "text": "FIRST Wealth Credit Card – Low forex, global lounges & up to 25% reward points"
-      },
-      {
-        "type": "removed",
-        "text": "Experience a lifetime of privileges with the FIRST Wealth Credit Card — your gateway to a world of unmatched luxury and rewards. Indulge in premium lifestyle benefits including exclusive golf privileges, elite hotel experiences, and curated fine dining offers. Enjoy the finer things in life with complimentary movie tickets, fuel surcharge waivers, bespoke merchant offers, and up to 25% reward points. Travel seamlessly with complimentary access to Indian and global airport lounges, low forex markup, trip cancellation cover, and 24x7 concierge assistance designed to cater to your every need. With the FIRST Wealth Credit Card, luxury isn’t an exception, it’s the standard."
-      },
-      {
-        "type": "added",
-        "text": "FIRST Wealth Credit Card – Zero forex, global lounges & up to 25% reward points"
-      },
-      {
-        "type": "added",
-        "text": "Experience a lifetime of privileges with the FIRST Wealth Credit Card — your gateway to a world of unmatched luxury and rewards. Indulge in premium lifestyle benefits including exclusive golf privileges, elite hotel experiences, and curated fine dining offers. Enjoy the finer things in life with complimentary movie tickets, fuel surcharge waivers, bespoke merchant offers, and up to 25% reward points. Travel seamlessly with complimentary access to Indian and global airport lounges, Zero forex markup, trip cancellation cover, and 24x7 concierge assistance designed to cater to your every need. With the FIRST Wealth Credit Card, luxury isn’t an exception, it’s the standard."
-      },
-      {
-        "type": "context",
-        "text": "Eligibility: Annual income of ₹36 lakhs or more"
-      },
-      {
-        "type": "context",
-        "text": "Exciting joining benefits"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Comprehensive insurance"
-      },
-      {
-        "type": "context",
-        "text": "VISA Infinite Privileges"
-      },
-      {
-        "type": "removed",
-        "text": "Low forex markup at just 1.5%"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "context",
-        "text": "Complimentary airport lounge privileges"
-      },
-      {
-        "type": "context",
-        "text": "Free trip cancellation cover of up to ₹10,000"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Airport transfer discounts"
-      },
-      {
-        "type": "context",
-        "text": "Luxury hotel benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Low forex markup at just 1.5%"
-      },
-      {
-        "type": "removed",
-        "text": "Experience the best the world has to offer with a forex markup of just 1.5% (+GST) on your international spends."
-      },
-      {
-        "type": "removed",
-        "text": "This fee also applies to international transactions done in Indian currency."
-      },
-      {
-        "type": "context",
-        "text": "Complimentary airport lounge privileges"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 1 complimentary visit to Indian Airport lounge, and 1 complimentary visit to Global Airport lounge every quarter."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy exclusive benefits and discounts at 900+ luxury hotels around the world."
-      },
-      {
-        "type": "context",
-        "text": "Access to over 900 luxury hotels around the world with premium benefits such as automatic room upgrade upon arrival, complimentary in-room Wi-Fi, complimentary continental breakfast, VIP Guest status, 3PM check-out upon request and others"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy Zero Forex Markup on all international spends."
-      },
-      {
-        "type": "added",
-        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local currency of the country you are in."
-      },
-      {
-        "type": "added",
-        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
-      },
-      {
-        "type": "added",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
-      },
-      {
-        "type": "added",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
-      },
-      {
-        "type": "context",
-        "text": "Convenience at your fingertips"
-      },
-      {
-        "type": "context",
-        "text": "Convert payments into affordable EMIs"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Interest-free* cash withdrawals"
-      },
-      {
-        "type": "context",
-        "text": "*Cash withdrawal fee of ₹199 + GST applicable per transaction"
-      },
-      {
-        "type": "removed",
-        "text": "Activate UPI at just ₹199"
-      },
-      {
-        "type": "added",
-        "text": "Activate UPI on FIRST Wealth Credit Card at just ₹199"
-      },
-      {
-        "type": "context",
-        "text": "Joining and Annual fee (2nd year onwards) of just ₹199 + GST"
-      },
-      {
-        "type": "context",
-        "text": "Limited period offer: 100% cashback up to ₹200 i.e. ₹50 each on the first 4 UPI transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Earn up to 3X reward points on your spends"
-      },
-      {
-        "type": "added",
-        "text": "Earn up to 3X reward points* on your UPI spends​"
-      },
-      {
-        "type": "context",
-        "text": "Elevate spends with Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on all online and offline eligible spends"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "from your first eligible transaction on Dining, Travel, and International purchases and on your birthday."
-      },
-      {
-        "type": "added",
-        "text": "from your first eligible transaction on Dining, Travel and purchases and on your birthday."
-      },
-      {
-        "type": "context",
-        "text": "20% Bonus Travel Rewards"
-      },
-      {
-        "type": "context",
-        "text": "every month on flight and hotel bookings via the IDFC FIRST Mobile App."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "T&C Apply"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "• Earn 10X rewards starting from your very first transaction, with no minimum spend required - on Dining, Travel, and International purchases, effective 18th June 2026."
-      },
-      {
-        "type": "added",
-        "text": "• Earn 10X rewards starting form your very first transaction, with no minimum spends required – on Dining, Travel and spends done on your Birthday."
-      },
-      {
-        "type": "added",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "• 1X = 1 Reward Points per ₹200 spent | 1 Reward Point = ₹0.25"
-      },
-      {
-        "type": "removed",
-        "text": "*Effective 18th June 2026:​"
-      },
-      {
-        "type": "removed",
-        "text": "- You will earn 10X Reward Points starting from very first eligible transaction - on Dining, Travel, and International purchases and spends done on your birthday. Earlier, 10X Reward Points were only unlocked after spending ₹20,000 in a billing cycle. Now, every eligible transaction in these categories gets you accelerated Reward Points right away.​"
-      },
-      {
-        "type": "context",
-        "text": "- Reward Points will be valid for 24 months, giving you ample time to redeem them at your convenience i.e. Reward Points earned from July 2026 statement cycle will be valid for 24 months from the date they are credited.​"
-      },
-      {
-        "type": "removed",
-        "text": "- Reward Points will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points. Click here for further details.​"
-      },
-      {
-        "type": "added",
-        "text": "- Reward Points will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points. Click here for further details."
-      },
-      {
-        "type": "context",
-        "text": "T&C Apply"
-      },
-      {
-        "type": "context",
-        "text": "20% Bonus Travel Rewards"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Forex Markup"
-      },
-      {
-        "type": "context",
-        "text": "on international transactions"
-      },
-      {
-        "type": "removed",
-        "text": "1.5%"
-      },
-      {
-        "type": "added",
-        "text": "Zero"
-      },
-      {
-        "type": "context",
-        "text": "Cash Withdrawals"
-      },
-      {
-        "type": "context",
-        "text": "Across domestic and international ATMs"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Credit Limit"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "Effective 18th June 2026, what changes are being made to the FIRST Wealth Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "There will be revisions to select features and the applicable Terms & Conditions of the FIRST Wealth Credit Card.  Click here  for detailed information."
-      },
-      {
-        "type": "removed",
-        "text": "What changes are made to the FIRST Wealth Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Effective 1 st April 2026, the Airport Lounge Access & Golf benefit will be revised. Click here for details."
-      },
-      {
-        "type": "context",
-        "text": "Is there a Joining/ Membership/ Annual fee on the IDFC FIRST Wealth Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "No, there is no joining fee or annual fee for the IDFC FIRST Wealth Credit Card. It is a lifetime-free Visa Infinite card that provides premium benefits at zero cost, making it an attractive option for customers. To apply, click here ."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "For brand offers, please visit https://idfcfirstrewards.poshvine.com/offers"
-      },
-      {
-        "type": "context",
-        "text": "What is the forex mark-up on the FIRST Wealth Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "The card levies a low forex markup of just 1.5% (+GST) on international transactions. This rate is applicable even when international purchases are made in INR, making it a cost-efficient companion for overseas shopping and travel."
-      },
-      {
-        "type": "added",
-        "text": "The FIRST Wealth Credit Card provides ZERO forex markup. Spend without paying extra fees while travelling abroad as well as on international purchases made from India.​"
-      },
-      {
-        "type": "context",
-        "text": "Does the spend criteria also apply to railway lounge access?"
-      },
-      {
-        "type": "context",
-        "text": "Yes. Cardholders must spend ₹20,000 in the current calendar month to qualify for complimentary railway lounge access in the following month. You are eligible for 4 complimentary visits annually at select Indian railway terminals."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Will I earn reward points for every spend?"
-      },
-      {
-        "type": "context",
-        "text": "Yes. You will earn:"
-      },
-      {
-        "type": "removed",
-        "text": "- 10X reward points on Dining, Travel and International transactions only"
-      },
-      {
-        "type": "added",
-        "text": "- 10X reward points on Dining, Travel and *International transactions only"
-      },
-      {
-        "type": "added",
-        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "- 3X reward points on all eligible spends (online/offline)"
-      },
-      {
-        "type": "context",
-        "text": "- 1 reward point on Utilities, Insurance, Railway and Fastag transactions"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Forex markup changed from 1.5% to Zero"
     }
   },
   {

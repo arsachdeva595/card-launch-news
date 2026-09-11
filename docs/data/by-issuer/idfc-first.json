@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "first-wealth",
+    "card_name": "FIRST Wealth",
+    "issuer": "idfc-first",
+    "change_type": "fee-change",
+    "summary": "Forex markup fee removed, card now has zero forex markup.",
+    "status": "verified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/wealth",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vx6lr6/help_me_optimize_my_credit_card_setup_or_tell_me/",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-09-11",
+    "edition_permalink": null
+  },
+  {
     "card_slug": "idfc-first-bank-first-millennia",
     "card_name": "FIRST Millennia",
     "issuer": "idfc-first",
@@ -47,9 +61,9 @@
     "issuer": "idfc-first",
     "change_type": "reward-change",
     "summary": "Forex markup cut from 1.5% to 0%; international spends lose reward points from 26 October 2026 and drop out of the birthday 10X category.",
-    "status": "unverified",
+    "status": "verified",
     "official_link": "https://www.idfcfirst.bank.in/credit-card/wealth",
-    "verification_link": null,
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vx6lr6/help_me_optimize_my_credit_card_setup_or_tell_me/",
     "source": "newsletter",
     "edition_number": 15,
     "edition_date": "2026-09-09",

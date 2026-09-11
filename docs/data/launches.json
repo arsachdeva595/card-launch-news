@@ -1,5 +1,25 @@
 [
   {
+    "id": "rbl-bank-jalsa-credit-card",
+    "cardName": "Jalsa Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/jalsa-credit-card",
+    "discoveredAt": "2026-09-11T08:02:52.857Z",
+    "lastmod": "2026-09-10T10:41:03+05:30",
+    "announcement": {
+      "title": "Jalsa Credit Card",
+      "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/jalsa-credit-card",
+      "description": "Official product page on RBL Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "idfc-first-bank-apply-for-lifestyle-credit-cards-online",
     "cardName": "Apply for Lifestyle Credit Cards Online",
     "issuerName": "IDFC First Bank",

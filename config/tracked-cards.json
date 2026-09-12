@@ -3668,5 +3668,47 @@
     "issuerSlug": "rbl-bank",
     "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/jalsa-credit-card",
     "status": "Active"
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/surat-money-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/surat-money-card/issuance-locations",
+    "status": "Active"
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/janmitra-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/janmitra-card/existing-card-replacement",
+    "status": "Active"
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/odyssey-card",
+    "status": "Active"
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/odyssey-card/issuance-from-branches",
+    "status": "Active"
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/odyssey-card/issuance-locations",
+    "status": "Active"
   }
 ]

@@ -1,5 +1,153 @@
 [
   {
+    "id": "idfc-first-bank-first-digital-virtual-upi",
+    "cardName": "FIRST Digital (Virtual UPI)",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/rupay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-12T08:01:31.822Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Explore smart credit card features—rewards, zero fees, EMI options, and more."
+      },
+      {
+        "type": "context",
+        "text": "Read More"
+      },
+      {
+        "type": "removed",
+        "text": "Frequently Asked Questions,Frequently Asked Questions"
+      },
+      {
+        "type": "added",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "type": "context",
+        "text": "What is a FIRST Digital RuPay Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "The FIRST Digital RuPay Credit Card is a new digital credit card issued against your existing IDFC FIRST Bank credit cards for enabling UPI transactions."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reward structure for FIRST Digital UPI Cards linked to FIRST SWYP Credit Card:"
+      },
+      {
+        "type": "context",
+        "text": "• 100 Reward points on UPI spends of ₹5,000 or more every statement."
+      },
+      {
+        "type": "removed",
+        "text": "Rewards on international spends through UPI shall be same as primary credit card's rewards structure for international spends."
+      },
+      {
+        "type": "added",
+        "text": "Rewards structure for FIRST Digital UPI Card linked to Gaj: Credit Card :"
+      },
+      {
+        "type": "context",
+        "text": "• 1X Reward point on UPI spends, i.e. Earn 1 Reward Point per ₹150 UPI Spends"
+      },
+      {
+        "type": "context",
+        "text": "1 Reward point = ₹ 0.25"
+      },
+      {
+        "type": "added",
+        "text": "Rewards on international spends through UPI shall be same as primary credit card's rewards structure for international spends."
+      },
+      {
+        "type": "context",
+        "text": "For all Credit Cards, please note."
+      },
+      {
+        "type": "context",
+        "text": "• Reward program is not applicable on Fuel (MCC 5172, 5541, 5542, 5983), Cash (MCC 6010, 6011,7280) & EMI transactions."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a heading for the rewards structure of the FIRST Digital UPI Card linked to Gaj: Credit Card, including the same reward clause."
+    }
+  },
+  {
+    "id": "hdfc-bank-platinum-times-credit-card",
+    "cardName": "Platinum Times Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/platinum-times-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-12T08:00:24.118Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Platinum Times Card - Best Entertainment Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "context",
+        "text": "Platinum Times Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Times Platinum Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Up to 5% CashBack on shopping via SmartBuy."
+      },
+      {
+        "type": "context",
+        "text": "Get up to 10% CashBack on flight and hotel bookings, gift vouchers and more via SmartBuy ."
+      },
+      {
+        "type": "removed",
+        "text": "1% fuel surcharge waiver on ₹400-₹4,000 transactions, max ₹500 cashback per cycle. With Times Prime annual membership, benefit from Gaana Plus, SonyLIV, TOI plus, Chaayos, Uber, Myntra and more."
+      },
+      {
+        "type": "added",
+        "text": "1% fuel surcharge waiver on ₹400-₹5,000 transactions, max ₹500 cashback per cycle. With Times Prime annual membership, benefit from Gaana Plus, SonyLIV, TOI plus, Chaayos, Uber, Myntra and more."
+      },
+      {
+        "type": "context",
+        "text": "Offers are active on completing just one transaction per calendar quarter."
+      },
+      {
+        "type": "context",
+        "text": "Click here to view the subscriptions and offers."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Fuel surcharge waiver threshold increased to ₹5,000 per transaction."
+    }
+  },
+  {
     "id": "sbi-card-sbi-corporate-purchase-card",
     "cardName": "SBI Corporate Purchase Card",
     "issuerName": "SBI Card",
@@ -2131,830 +2279,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added 0% Forex Markup on all global spends for the card"
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-digital-virtual-upi",
-    "cardName": "FIRST Digital (Virtual UPI)",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/rupay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.700Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Introductory offer - 100% cashback of up to ₹200*"
-      },
-      {
-        "type": "context",
-        "text": "Digital RuPay Credit Card for UPI: Credit Meets Daily UPI Payments"
-      },
-      {
-        "type": "removed",
-        "text": "Embrace the power of digital payments with the FIRST Digital RuPay Credit Card. Linked directly to UPI, this virtual card lets you enjoy effortless scan-and-pay transactions, online purchases, and instant rewards. With the card being entirely digital, it offers 3X reward points on every UPI transaction and comes pooled with your existing IDFC FIRST Bank Credit Cards in terms of credit limit and rewards. Perfect for trend-savvy users, it ensures that your payments are faster, smarter, and more rewarding."
-      },
-      {
-        "type": "added",
-        "text": "Embrace the power of digital payments with the FIRST Digital RuPay Credit Card. Linked directly to UPI, this virtual card lets you enjoy effortless scan-and-pay transactions, online purchases, and instant rewards. With the card being entirely digital, it offers upto 3X reward point on selected UPI payments and comes pooled with your existing IDFC FIRST Bank Credit Cards in terms of credit limit and rewards. Perfect for trend-savvy users, it ensures that your payments are faster, smarter, and more rewarding."
-      },
-      {
-        "type": "context",
-        "text": "Features of FIRST Digital RuPay Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Here’s what makes it unique"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "(no physical card will be issued)"
-      },
-      {
-        "type": "context",
-        "text": "Earn Rewards on UPI transactions with our RuPay Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "3X rewards on UPI spends above ₹2,000"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 1X rewards"
-      },
-      {
-        "type": "removed",
-        "text": "on UPI spends less than or equal to ₹2,000"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 1X rewards"
-      },
-      {
-        "type": "removed",
-        "text": "on all utility* and insurance payments"
-      },
-      {
-        "type": "removed",
-        "text": "Common Rewards Account for your digital credit card and existing IDFC FIRST Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Earn up to 3X Rewards on eligible UPI spends via IDFC FIRST Bank Mobile app#"
-      },
-      {
-        "type": "added",
-        "text": "1X Reward"
-      },
-      {
-        "type": "added",
-        "text": "on UPI Spends via any other app"
-      },
-      {
-        "type": "added",
-        "text": "1X Reward"
-      },
-      {
-        "type": "added",
-        "text": "on all utility*, insurance, FASTag recharge and railway spends"
-      },
-      {
-        "type": "added",
-        "text": "0 forex markup"
-      },
-      {
-        "type": "added",
-        "text": "on international transactions"
-      },
-      {
-        "type": "added",
-        "text": "#Reward structure for UPI spends via IDFC FIRST Bank Mobile app"
-      },
-      {
-        "type": "added",
-        "text": "3X Reward Points on UPI spends above ₹2,000"
-      },
-      {
-        "type": "added",
-        "text": "1X Reward Point on UPI spends of up to ₹2,000."
-      },
-      {
-        "type": "context",
-        "text": "Reward structure for FIRST Digital RuPay Credit Card linked to FIRST SWYP Credit Card:"
-      },
-      {
-        "type": "context",
-        "text": "100 Reward Points on every UPI spend of ₹5,000 in a statement month."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "1 Reward Point per ₹150 UPI Spends"
-      },
-      {
-        "type": "context",
-        "text": "How to Apply for FIRST Digital RuPay Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Click on"
-      },
-      {
-        "type": "removed",
-        "text": "‘Apply Now’"
-      },
-      {
-        "type": "removed",
-        "text": "Complete your"
-      },
-      {
-        "type": "removed",
-        "text": "verification with"
-      },
-      {
-        "type": "removed",
-        "text": "the OTP"
-      },
-      {
-        "type": "removed",
-        "text": "Fill the digital form"
-      },
-      {
-        "type": "removed",
-        "text": "and give consent to"
-      },
-      {
-        "type": "removed",
-        "text": "activate UPI"
-      },
-      {
-        "type": "removed",
-        "text": "Proceed to"
-      },
-      {
-        "type": "removed",
-        "text": "complete your"
-      },
-      {
-        "type": "removed",
-        "text": "application"
-      },
-      {
-        "type": "removed",
-        "text": "FIRST Digital Rupay"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card will be"
-      },
-      {
-        "type": "removed",
-        "text": "generated instantly"
-      },
-      {
-        "type": "removed",
-        "text": "Step-by-Step Guide to link your RuPay credit card to UPI"
-      },
-      {
-        "type": "added",
-        "text": "Click on ‘Activate UPI’ tab below​"
-      },
-      {
-        "type": "added",
-        "text": "Complete Quick Verification with OTP consent​"
-      },
-      {
-        "type": "added",
-        "text": "Review the details​"
-      },
-      {
-        "type": "added",
-        "text": "Proceed to complete the application​"
-      },
-      {
-        "type": "added",
-        "text": "FIRST Digital RuPay Credit Card will be generated instantly​"
-      },
-      {
-        "type": "added",
-        "text": "How to check your Card details ?​"
-      },
-      {
-        "type": "context",
-        "text": "Download the IDFC FIRST Mobile Banking app ( Google Play | App Store )"
-      },
-      {
-        "type": "context",
-        "text": "01"
-      },
-      {
-        "type": "removed",
-        "text": "Go to the Credit cards section and select your RuPay Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Go to the Credit cards section and select your Digital RuPay Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "02"
-      },
-      {
-        "type": "context",
-        "text": "Tap on ‘Click for card details’ on the card face to access your card details"
-      },
-      {
-        "type": "context",
-        "text": "03"
-      },
-      {
-        "type": "removed",
-        "text": "Note the last 6 digits and expiry of your FIRST Digital RuPay Credit card"
-      },
-      {
-        "type": "removed",
-        "text": "Please note: The mobile number registered on UPI should be same as the one linked to your IDFC FIRST Bank Credit Card."
-      },
-      {
-        "type": "added",
-        "text": "Note the last 6 digits and expiry of your FIRST Digital RuPay Credit Card for setting UPI PIN on your favourite UPI App"
-      },
-      {
-        "type": "added",
-        "text": "Your card is ready for UPI payment through IDFC FIRST Bank Mobile app. Go to Scan > Select RuPay Card > Enter PIN > Payment done!. Please note: The mobile number registered on UPI should be same as the one linked to your IDFC FIRST Bank Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Link your RuPay Credit Card to any UPI app in just one click!"
-      },
-      {
-        "type": "context",
-        "text": "IDFC FIRST Bank App"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Card Linking?"
-      },
-      {
-        "type": "context",
-        "text": "Done For You."
-      },
-      {
-        "type": "removed",
-        "text": "Once your card is generated, it will be linked automatically to your IDFC FIRST Mobile App. Scan to open the app and start paying at your favourite merchants."
-      },
-      {
-        "type": "added",
-        "text": "Once your card is generated, it will be linked automatically to your IDFC FIRST Mobile App. Earn up to 3X reward points on UPI payments done via IDFC FIRST Bank app."
-      },
-      {
-        "type": "context",
-        "text": "Card"
-      },
-      {
-        "type": "context",
-        "text": "Linking?"
-      },
-      {
-        "type": "context",
-        "text": "Done"
-      },
-      {
-        "type": "context",
-        "text": "For You."
-      },
-      {
-        "type": "removed",
-        "text": "Once your card is generated, it will be linked automatically to your IDFC FIRST Mobile App. Tap on 'Pay now' and start paying at your favourite merchants."
-      },
-      {
-        "type": "added",
-        "text": "Once your card is generated, it will be linked automatically to your IDFC FIRST Mobile App. Earn up to 3X reward points on UPI payments done via IDFC FIRST Bank app."
-      },
-      {
-        "type": "context",
-        "text": "Scan the QR code to open the app"
-      },
-      {
-        "type": "context",
-        "text": "Pay Now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Payment Successful"
-      },
-      {
-        "type": "context",
-        "text": "Scan. Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Once your card is generated, Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "context",
-        "text": "Tap."
-      },
-      {
-        "type": "context",
-        "text": "Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Once your card is generated, Tap 'Link now' to instantly link your RuPay Credit Card and start making UPI payments."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "context",
-        "text": "Scan the QR code to open PhonePe"
-      },
-      {
-        "type": "context",
-        "text": "Link Now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Payment Successful"
-      },
-      {
-        "type": "context",
-        "text": "Scan. Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Once your card is generated, Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "context",
-        "text": "Tap."
-      },
-      {
-        "type": "context",
-        "text": "Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Once your card is generated, Tap 'Link now' to instantly link your RuPay Credit Card and start making UPI payments."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "context",
-        "text": "Scan the QR code to open GPay"
-      },
-      {
-        "type": "context",
-        "text": "Link Now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Payment Successful"
-      },
-      {
-        "type": "context",
-        "text": "Scan. Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Once your card is generated, Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "context",
-        "text": "Tap."
-      },
-      {
-        "type": "context",
-        "text": "Link. Pay. ."
-      },
-      {
-        "type": "removed",
-        "text": "Once your card is generated, Tap 'Link now' to instantly link your RuPay Credit Card and start making UPI payments."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "context",
-        "text": "Scan the QR code to open Paytm"
-      },
-      {
-        "type": "context",
-        "text": "Link Now"
-      },
-      {
-        "type": "context",
-        "text": "Joining Perks of FIRST Digital RuPay Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Now earn rewards on UPI transactions"
-      },
-      {
-        "type": "added",
-        "text": "Earn up to ₹200 cashback on UPI spends ​"
-      },
-      {
-        "type": "context",
-        "text": "100% cashback up to ₹200 on the first 4 UPI transactions"
-      },
-      {
-        "type": "context",
-        "text": "Welcome offer of Rs.200 Cashback is not applicable for FIRST Digital RuPay Credit Cards issued without joining fee."
-      },
-      {
-        "type": "context",
-        "text": "Applicable on transactions done within 15 days of card generation"
-      },
-      {
-        "type": "context",
-        "text": "Cashback will be credited within 60 days of card generation date"
-      },
-      {
-        "type": "removed",
-        "text": "Pay using UPI"
-      },
-      {
-        "type": "added",
-        "text": "FIRST Digital RuPay Credit Card - Enabled with UPI"
-      },
-      {
-        "type": "context",
-        "text": "Once you’ve set up your RuPay credit card on UPI,"
-      },
-      {
-        "type": "context",
-        "text": "you’re ready to make payments in just 3 simple steps"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enter UPI PIN"
-      },
-      {
-        "type": "context",
-        "text": "Testimonials"
-      },
-      {
-        "type": "removed",
-        "text": "I'm very happy with the entire credit card process, finding all the features to my liking. The interaction with the executive is excellent, and the card delivery and packaging are impressive. Thank you for a smooth experience; I look forward to a continued positive relationship."
-      },
-      {
-        "type": "removed",
-        "text": "Sanket Jangate"
-      },
-      {
-        "type": "removed",
-        "text": "FIRST Digital Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "March 26, 2025"
-      },
-      {
-        "type": "context",
-        "text": "Interaction with IDFC FIRST Bank's team was very positive; unlike other banks, there was no harassment for more documents or frequent calls from various teams for details. The entire application approval process felt simple and crisp."
-      },
-      {
-        "type": "context",
-        "text": "G Krishnan"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Explore smart credit card features—rewards, zero fees, EMI options, and more."
-      },
-      {
-        "type": "context",
-        "text": "Read More"
-      },
-      {
-        "type": "removed",
-        "text": "Frequently Asked Questions"
-      },
-      {
-        "type": "added",
-        "text": "Frequently Asked Questions,Frequently Asked Questions"
-      },
-      {
-        "type": "context",
-        "text": "What is a FIRST Digital RuPay Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The FIRST Digital RuPay Credit Card is a new digital credit card issued against your existing IDFC FIRST Bank credit cards for enabling UPI transactions."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Do I earn reward points for UPI transactions with a Digital RuPay card?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, you'll earn reward points based on the Credit Card type and transaction amount. Some exceptions apply, such as fuel, cash and EMI transactions. Reward points can be redeemed only through the primary Credit Card."
-      },
-      {
-        "type": "removed",
-        "text": "Reward structure for FIRST Digital UPI Card linked to FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW!, FIRST WOW! Black, FIRST Private, Ashva, Mayura, Diamond Reserve, FIRST Business & Business Multiplier Credit Card:"
-      },
-      {
-        "type": "removed",
-        "text": "• 3X rewards on UPI purchases greater than ₹2,000."
-      },
-      {
-        "type": "removed",
-        "text": "• 1X rewards on all UPI purchases less than or equal to ₹2,000"
-      },
-      {
-        "type": "removed",
-        "text": "• 1X on Insurance & Utility spends irrespective of transaction amount"
-      },
-      {
-        "type": "removed",
-        "text": "1X = 1 reward point per X* spend | where X is ₹200 for FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW!, FIRST WOW! Black & Business Multiplier Credit Card."
-      },
-      {
-        "type": "removed",
-        "text": "For FIRST Private, Ashva , Mayura , Diamond Reserve  & FIRST Business Credit Card X is ₹150"
-      },
-      {
-        "type": "added",
-        "text": "Reward structure for FIRST Digital UPI Card linked to FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW!, FIRST Private, Ashva, Mayura, Diamond Reserve, FIRST Business & Business Multiplier Credit Card:"
-      },
-      {
-        "type": "added",
-        "text": "Reward on eligible UPI spends via IDFC FIRST Bank Mobile app (Excl SWYP & Gaj:) :​​"
-      },
-      {
-        "type": "added",
-        "text": "3X Reward Points on UPI transaction > ₹2,000​"
-      },
-      {
-        "type": "added",
-        "text": "1X Reward Point on UPI transaction <= ₹2,000​"
-      },
-      {
-        "type": "added",
-        "text": "​Reward on UPI via any other UPI app:​"
-      },
-      {
-        "type": "added",
-        "text": "1X Reward Point on UPI transaction​"
-      },
-      {
-        "type": "added",
-        "text": "​1X Reward on Insurance, Utility, FASTag recharge & Railway spends.​"
-      },
-      {
-        "type": "added",
-        "text": "​*3X reward on Utility spends via IDFC FIRST Bank Mobile app on FIRST Private Credit Card​"
-      },
-      {
-        "type": "added",
-        "text": "1X = 1 reward point per X* spend | where X is ₹200 for FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW! & Business Multiplier Credit Card."
-      },
-      {
-        "type": "added",
-        "text": "For FIRST Private, Ashva , Mayura , Diamond Reserve, FIRST WOW! Black  & FIRST Business Credit Card X is ₹150"
-      },
-      {
-        "type": "context",
-        "text": "1 Reward point = ₹ 0.25 (for FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW! , FIRST WOW! Black, FIRST Private, Ashva , Mayura , Diamond Reserve, FIRST Business & Business Multiplier Credit Card. )"
-      },
-      {
-        "type": "context",
-        "text": "Reward structure for FIRST Digital UPI Cards linked to FIRST SWYP Credit Card:"
-      },
-      {
-        "type": "context",
-        "text": "• 100 Reward points on UPI spends of ₹5,000 or more every statement."
-      },
-      {
-        "type": "removed",
-        "text": "Reward structure for FIRST Digital UPI Card linked to Gaj: Credit Card :"
-      },
-      {
-        "type": "removed",
-        "text": "• 1X Reward point on UPI spends, i.e. Earn 1 Reward Point per ₹150 UPI Spends"
-      },
-      {
-        "type": "added",
-        "text": "Rewards on international spends through UPI shall be same as primary credit card's rewards structure for international spends."
-      },
-      {
-        "type": "added",
-        "text": "• 1X Reward point on UPI spends, i.e. Earn 1 Reward Point per ₹150 UPI Spends"
-      },
-      {
-        "type": "context",
-        "text": "1 Reward point = ₹ 0.25"
-      },
-      {
-        "type": "context",
-        "text": "For all Credit Cards, please note."
-      },
-      {
-        "type": "context",
-        "text": "• Reward program is not applicable on Fuel (MCC 5172, 5541, 5542, 5983), Cash (MCC 6010, 6011,7280) & EMI transactions."
-      },
-      {
-        "type": "context",
-        "text": "• UPI transactions will not be a part of 10X rewards programme and 10X threshold calculations for all cards (Except Ashva and Mayura) and Monthly Milestone rewards for FIRST SWYP Credit Card."
-      },
-      {
-        "type": "removed",
-        "text": "• Reward account for primary Credit Card and Digital Card will be same. Rewards redemption to be done from primary account only."
-      },
-      {
-        "type": "added",
-        "text": "• Reward earned on FIRST Digital Credit Card is added to linked Primary Credit Card Reward account. Reward redemption to be done through the same Primary account only."
-      },
-      {
-        "type": "added",
-        "text": "• Zero rewards on International Spends through FIRST Digital RuPay Credit Card​"
-      },
-      {
-        "type": "context",
-        "text": "On which UPI apps can I register my FIRST Digital RuPay Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "You can link your FIRST Digital RuPay Credit Card on all UPI apps such as:"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Complete your UPI app registration journey with your registered mobile number and follow."
-      },
-      {
-        "type": "context",
-        "text": "3 simple steps to enable your FIRST Digital RuPay Credit Card for payments."
-      },
-      {
-        "type": "removed",
-        "text": "Open UPI app and choose \"Add RuPay credit card”."
-      },
-      {
-        "type": "removed",
-        "text": "IDFC FIRST Bank, and your eligible IDFC FIRST Bank Credit Cards will be displayed"
-      },
-      {
-        "type": "removed",
-        "text": "Select your card, enter last 6 digit of your card, card expiry and OTP to complete your registration!"
-      },
-      {
-        "type": "removed",
-        "text": "Link your RuPay Credit Card to UPI"
-      },
-      {
-        "type": "added",
-        "text": "Open UPI app and choose “Add RuPay Credit Card”​"
-      },
-      {
-        "type": "added",
-        "text": "Select IDFC FIRST Bank and your eligible IDFC RuPay Credit Card will bedisplayed and it will be added to the UPI app.​"
-      },
-      {
-        "type": "added",
-        "text": "For setting up UPI PIN, enter last 6 digit of your Digital RuPay Card and expiry date. ​Choose UPI PIN and enter OTP to complete."
-      },
-      {
-        "type": "context",
-        "text": "I changed my mobile number. How can I link my card on the UPI app?"
-      },
-      {
-        "type": "context",
-        "text": "Update your new number on your FIRST Digital RuPay Credit Card profile. Once updated, you can re-link your card on UPI apps."
-      },
-      {
-        "type": "context",
-        "text": "Is my credit card PIN and UPI PIN same?"
-      },
-      {
-        "type": "removed",
-        "text": "No, you need to generate a new UPI PIN to perform UPI payments."
-      },
-      {
-        "type": "removed",
-        "text": "To know, how to generate your UPI PIN click here"
-      },
-      {
-        "type": "added",
-        "text": "No, you need to generate a new UPI PIN to perform UPI payment on any UPI app. For payment throughIDFC FIRST Bank Mobile app your existing MPIN will be your UPI PIN.​"
-      },
-      {
-        "type": "context",
-        "text": "Can I change my UPI Pin?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, you can modify your UPI pin through the 'Change UPI Pin' option in your UPI apps."
-      },
-      {
-        "type": "removed",
-        "text": "To know, how to generate your UPI PIN click here"
-      },
-      {
-        "type": "removed",
-        "text": "Is there any limit on UPI transactions?"
-      },
-      {
-        "type": "removed",
-        "text": "For first 24 hours of your FIRST Digital RuPay Credit Card post UPI PIN generation, you can do transaction up to ₹5,000."
-      },
-      {
-        "type": "removed",
-        "text": "Post that, your daily limit will be as per your credit card."
-      },
-      {
-        "type": "context",
-        "text": "How to make payments using my FIRST Digital RuPay Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Follow below these steps to pay using your FIRST Digital RuPay Credit Card –"
-      },
-      {
-        "type": "removed",
-        "text": "Open UPI app and click Scan the merchant QR"
-      },
-      {
-        "type": "removed",
-        "text": "Enter the amount to be paid to the merchant"
-      },
-      {
-        "type": "removed",
-        "text": "Select the FIRST Digital RuPay Credit Card from the dropdown under ‘choose account to pay with’"
-      },
-      {
-        "type": "removed",
-        "text": "Click on ‘Pay’ and authenticate with your UPI PIN"
-      },
-      {
-        "type": "ellipsis",
-        "text": "… diff truncated (85 more lines) …"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added 0 forex markup and updated UPI reward structure to up to 3X points on eligible spends"
     }
   },
   {
@@ -6209,90 +5533,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Fuel surcharge waiver threshold increased from ₹4,000 to ₹5,000."
-    }
-  },
-  {
-    "id": "hdfc-bank-platinum-times-credit-card",
-    "cardName": "Platinum Times Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/platinum-times-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-09-05T07:45:51.414Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Option to convert big spends into EMI after purchase. Click here to learn more."
-      },
-      {
-        "type": "context",
-        "text": "Reward Redemption"
-      },
-      {
-        "type": "added",
-        "text": "Other Perks"
-      },
-      {
-        "type": "context",
-        "text": "More rewards with PayZapp"
-      },
-      {
-        "type": "context",
-        "text": "Credit and Safety"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points accrued for Insurance transactions will have a maximum cap of 2,000 per day."
-      },
-      {
-        "type": "context",
-        "text": "Rewards Points will not be accrued for fuel transactions."
-      },
-      {
-        "type": "added",
-        "text": "Other Perks"
-      },
-      {
-        "type": "added",
-        "text": "Up to 5% ​CashBack on utility bills/shopping."
-      },
-      {
-        "type": "added",
-        "text": "1% Fuel surcharge waiver on transactions between ₹400 and ₹5,000."
-      },
-      {
-        "type": "added",
-        "text": "Maximum waiver of ₹500 per month"
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹2.5 lakh in a year and get a waiver of the renewal membership fee."
-      },
-      {
-        "type": "added",
-        "text": "Convert your big spending into EMI after purchase. Click here to know more."
-      },
-      {
-        "type": "context",
-        "text": "More rewards with PayZapp"
-      },
-      {
-        "type": "context",
-        "text": "Link your HDFC Bank Platinum Times Credit Card on PayZapp."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added cashback on utility bills/shopping and waived renewal fee after spending ₹2.5 lakh in a year."
     }
   },
   {

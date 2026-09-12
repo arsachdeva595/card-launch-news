@@ -4886,5 +4886,61 @@
     "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/jalsa-credit-card",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/surat-money-card",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/surat-money-card/issuance-locations",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/janmitra-card",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/janmitra-card/existing-card-replacement",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/odyssey-card",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/odyssey-card/issuance-from-branches",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/odyssey-card/issuance-locations",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

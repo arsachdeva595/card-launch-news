@@ -453,7 +453,7 @@
     "https://www.rbl.bank.in/personal-banking/cards/debit-cards/rupay-debit-card",
     "https://www.rbl.bank.in/personal-banking/cards/debit-cards/rupay-kisan-debit-card",
     "https://www.rbl.bank.in/personal-banking/cards/debit-cards/go-debit-card",
-    "https://www.rbl.bank.in/personal-banking/cards/debit-cards/next-debit-card",
+    "https://www.rbl.bank.in/personal-banking/cards/debit-cards/next-plus-debit-card",
     "https://www.rbl.bank.in/personal-banking/cards/debit-cards/business-first-debit-card-for-maestro-account",
     "https://www.rbl.bank.in/personal-banking/cards/debit-cards/finja-debit-card",
     "https://www.rbl.bank.in/personal-banking/cards/debit-cards/rbl-bank-rupay-pmjdy-debit-card",
@@ -1720,7 +1720,7 @@
     "https://www.rbl.bank.in/nri-banking/seafarer-account",
     "https://www.rbl.bank.in/nri-banking/deposits/nro-tax-saver-fixed-deposits",
     "https://www.rbl.bank.in/personal-banking/accounts/salary-account/executive-salary-account",
-    "https://www.rbl.bank.in/personal-banking/accounts/salary-account/next-salary-account",
+    "https://www.rbl.bank.in/personal-banking/accounts/salary-account/next-plus-salary-account",
     "https://www.rbl.bank.in/personal-banking/accounts/savings-accounts/plus-savings-account",
     "https://www.rbl.bank.in/nri-banking/deposits/rfc-deposits",
     "https://www.rbl.bank.in/personal-banking/accounts/savings-accounts/savings-account-for-loan-against-gold",
@@ -1974,5 +1974,5 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/financial-markets-and-treasury/forex-and-bullion",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/wholesale-client-services"
   ],
-  "updatedAt": "2026-09-11T08:02:52.857Z"
+  "updatedAt": "2026-09-12T07:55:00.483Z"
 }

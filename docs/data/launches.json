@@ -1,5 +1,45 @@
 [
   {
+    "id": "icici-bank-icici-bank",
+    "cardName": "ICICI Bank",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/manchester-platinum-card",
+    "discoveredAt": "2026-09-12T07:54:23.800Z",
+    "lastmod": "2026-06-19",
+    "announcement": {
+      "title": "ICICI Bank",
+      "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/manchester-platinum-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-apply-for-icici-bank-prepaid-card",
+    "cardName": "Apply for ICICI Bank Prepaid Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/odyssey-card/issuance-locations",
+    "discoveredAt": "2026-09-12T07:54:23.800Z",
+    "lastmod": "2026-03-24",
+    "announcement": {
+      "title": "Apply for ICICI Bank Prepaid Card",
+      "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/odyssey-card/issuance-locations",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "rbl-bank-jalsa-credit-card",
     "cardName": "Jalsa Credit Card",
     "issuerName": "RBL Bank",

@@ -1,5 +1,643 @@
 [
   {
+    "id": "idfc-first-bank-first-millennia",
+    "cardName": "FIRST Millennia",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/millennia",
+    "status": "Active",
+    "detectedAt": "2026-09-13T08:23:25.276Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local currency of the country you are in."
+      },
+      {
+        "type": "context",
+        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
+      },
+      {
+        "type": "removed",
+        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
+      },
+      {
+        "type": "removed",
+        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
+      },
+      {
+        "type": "added",
+        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup.​​"
+      },
+      {
+        "type": "context",
+        "text": "Experience convenience like never before"
+      },
+      {
+        "type": "context",
+        "text": "Instant EMI conversion for all online transactions"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Elevate spends with Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "10X Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "on Dining, Travel and spends done on your birthday."
+      },
+      {
+        "type": "added",
+        "text": "on Dining, Travel and International purchases and spends done on your birthday."
+      },
+      {
+        "type": "context",
+        "text": "3X Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "on eligible spends."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "10X Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "on Dining, Travel, and International purchases and spends done on your birthday.​"
+      },
+      {
+        "type": "removed",
+        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "context",
+        "text": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
+      },
+      {
+        "type": "context",
+        "text": "Reward program not applicable on Fuel, EMI transactions and Cash withdrawals."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Will I earn reward points for every spend?"
+      },
+      {
+        "type": "context",
+        "text": "Yes. You will earn:​​"
+      },
+      {
+        "type": "removed",
+        "text": "- 10X Reward Points on Dining, Travel, and *International purchases and spends done on your birthday.​​"
+      },
+      {
+        "type": "removed",
+        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "- 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​​"
+      },
+      {
+        "type": "context",
+        "text": "- 3X Reward points on all spend categories except insurance, utilities, railways, FASTag recharges, dining, travel, international purchases, fuel, EMI transactions & cash withdrawals.​"
+      },
+      {
+        "type": "context",
+        "text": "- 1X Reward Points on Utilities, Insurance, FASTag and Railways spends. ​"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Reward points increased to 10X for Dining, Travel, and International purchases on birthday."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-classic",
+    "cardName": "FIRST Classic",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/classic",
+    "status": "Active",
+    "detectedAt": "2026-09-13T08:23:25.274Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
+      },
+      {
+        "type": "context",
+        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
+      },
+      {
+        "type": "removed",
+        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
+      },
+      {
+        "type": "context",
+        "text": "Convenience at your fingertips"
+      },
+      {
+        "type": "context",
+        "text": "Instant EMI conversion for all online transactions*"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Elevate spends with Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "10X Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "on Dining, Travel, purchases and spends done on your birthday."
+      },
+      {
+        "type": "added",
+        "text": "on Dining, Travel and International purchases and spends done on your birthday."
+      },
+      {
+        "type": "context",
+        "text": "3X Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "on eligible spends​"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "10X Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "On Dining, Travel, and International purchases and spends done on your birthday.​"
+      },
+      {
+        "type": "removed",
+        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "context",
+        "text": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
+      },
+      {
+        "type": "context",
+        "text": "Reward program not applicable on Fuel, EMI transactions and Cash withdrawals."
+      },
+      {
+        "type": "context",
+        "text": "Reward redemption will attract a small convenience charge of ₹99 plus GST per redemption."
+      },
+      {
+        "type": "context",
+        "text": "Reward Points are valid for 24 months from the date they are credited."
+      },
+      {
+        "type": "removed",
+        "text": "Reward Points are earned only on spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "Reward Points are earned only on spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points.​​"
+      },
+      {
+        "type": "context",
+        "text": "3X Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "on eligible spends​"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Will I earn reward points for every spend?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, you will earn:​"
+      },
+      {
+        "type": "removed",
+        "text": "- 10X Reward Points on Dining, Travel, and *International purchases and spends done on your birthday.​"
+      },
+      {
+        "type": "removed",
+        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "- 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​"
+      },
+      {
+        "type": "context",
+        "text": "- 3X Reward Points on eligible spend categories​"
+      },
+      {
+        "type": "context",
+        "text": "- 1X Reward Points on Insurance premium payments, Utility bill payments, Railway spends and FASTag recharges. ​"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "- 1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
+      },
+      {
+        "type": "context",
+        "text": "Are there any exclusions for earning 10X reward points?"
+      },
+      {
+        "type": "removed",
+        "text": "You can earn 10X Reward Points on Dining, Travel and *International purchases. However, the following transactions are excluded​"
+      },
+      {
+        "type": "removed",
+        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "You can earn 10X Reward Points on Dining, Travel and  International purchases. However, the following transactions are excluded​"
+      },
+      {
+        "type": "context",
+        "text": "- Fuel, EMI, and Cash withdrawals​"
+      },
+      {
+        "type": "context",
+        "text": "- Rental & Property Management, Government Services, Education, Wallet Load transactions, Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated reward points wording for dining, travel and international purchases on birthday"
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-wealth",
+    "cardName": "FIRST Wealth",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
+    "status": "Active",
+    "detectedAt": "2026-09-13T08:23:25.267Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local currency of the country you are in."
+      },
+      {
+        "type": "context",
+        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
+      },
+      {
+        "type": "removed",
+        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
+      },
+      {
+        "type": "removed",
+        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
+      },
+      {
+        "type": "added",
+        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup.​​"
+      },
+      {
+        "type": "context",
+        "text": "Convenience at your fingertips"
+      },
+      {
+        "type": "context",
+        "text": "Convert payments into affordable EMIs"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "on all online and offline eligible spends"
+      },
+      {
+        "type": "context",
+        "text": "10X Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "from your first eligible transaction on Dining, Travel and purchases and on your birthday."
+      },
+      {
+        "type": "added",
+        "text": "from your first eligible transaction on Dining, Travel and International purchases and on your birthday."
+      },
+      {
+        "type": "context",
+        "text": "20% Bonus Travel Rewards"
+      },
+      {
+        "type": "context",
+        "text": "every month on flight and hotel bookings via the IDFC FIRST Mobile App."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "T&C Apply"
+      },
+      {
+        "type": "context",
+        "text": "10X Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "• Earn 10X rewards starting form your very first transaction, with no minimum spends required – on Dining, Travel and spends done on your Birthday."
+      },
+      {
+        "type": "removed",
+        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "• Earn 10X rewards starting form your very first transaction, with no minimum spends required – on Dining, Travel and international spends done on your Birthday."
+      },
+      {
+        "type": "context",
+        "text": "• 1X = 1 Reward Points per ₹200 spent | 1 Reward Point = ₹0.25"
+      },
+      {
+        "type": "context",
+        "text": "- Reward Points will be valid for 24 months, giving you ample time to redeem them at your convenience i.e. Reward Points earned from July 2026 statement cycle will be valid for 24 months from the date they are credited.​"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Will I earn reward points for every spend?"
+      },
+      {
+        "type": "context",
+        "text": "Yes. You will earn:"
+      },
+      {
+        "type": "removed",
+        "text": "- 10X reward points on Dining, Travel and *International transactions only"
+      },
+      {
+        "type": "removed",
+        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "- 10X reward points on Dining, Travel and International transactions only"
+      },
+      {
+        "type": "context",
+        "text": "- 3X reward points on all eligible spends (online/offline)"
+      },
+      {
+        "type": "context",
+        "text": "- 1 reward point on Utilities, Insurance, Railway and Fastag transactions"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Reward points now include international purchases, expanding 10X rewards to international spends on birthday.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Help me optimize my credit card setup or tell me I have FOMO 😅",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vx6lr6/help_me_optimize_my_credit_card_setup_or_tell_me/",
+        "description": "I think I may be overthinking my credit cards and would love some advice from people who actually optimize their cards. My profile - Age: 32 - Salary: ~₹2L/month - CIBIL: 780 - Total annual card spend: ~₹10L (including my wife&#39;s card) -"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-select",
+    "cardName": "FIRST Select",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/select",
+    "status": "Active",
+    "detectedAt": "2026-09-13T08:23:25.264Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "•Click on the welcome benefit banner to pick a voucher of your choice. The voucher will be available for redemption up to 90 days of receiving the SMS/email."
+      },
+      {
+        "type": "context",
+        "text": "Exclusion"
+      },
+      {
+        "type": "removed",
+        "text": "•Not applicable on UPI, Add-on card transactions, wallet load, International spends, EMI converted transactions & ATM cash withdrawal.​"
+      },
+      {
+        "type": "added",
+        "text": "•Not applicable on UPI, Add-on card transactions, wallet load, EMI converted transactions & ATM cash withdrawal.​"
+      },
+      {
+        "type": "context",
+        "text": "•If any of the transactions are reversed/cancelled/ disputed by the cardholder or merchant, that transaction will be excluded."
+      },
+      {
+        "type": "context",
+        "text": "Up to ₹1,000 cashback on your first EMI"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
+      },
+      {
+        "type": "context",
+        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
+      },
+      {
+        "type": "removed",
+        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
+      },
+      {
+        "type": "context",
+        "text": "Free trip cancellation cover up to ₹10,000"
+      },
+      {
+        "type": "context",
+        "text": "Last-minute change of plans? Get reimbursed up to ₹10,000 on non-refundable hotel and flight cancellations"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Elevate spends with Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "10X Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "on Dining, Travel and purchases and spends done on your birthday"
+      },
+      {
+        "type": "added",
+        "text": "on Dining, Travel and international purchases and spends done on your birthday"
+      },
+      {
+        "type": "context",
+        "text": "3X Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "on eligible spends​"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "10X Reward points"
+      },
+      {
+        "type": "context",
+        "text": "On Dining, Travel, and International purchases and spends done on your birthday.​"
+      },
+      {
+        "type": "removed",
+        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "context",
+        "text": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
+      },
+      {
+        "type": "context",
+        "text": "Reward program not applicable on Fuel, EMI transactions and Cash withdrawals."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Will I earn reward points for every spend?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, you will earn:​"
+      },
+      {
+        "type": "removed",
+        "text": "- 10X Reward Points on Dining, Travel, and *International purchases and spends done on your birthday.​"
+      },
+      {
+        "type": "removed",
+        "text": "​Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "- 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​"
+      },
+      {
+        "type": "context",
+        "text": "- 3X Reward Points on eligible spend categories​"
+      },
+      {
+        "type": "context",
+        "text": "- 1X Reward Points on Insurance premium payments, Utility bill payments, Railway spends and FASTag recharges. ​"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "If you already have an IDFC FIRST Bank unsecured credit card, your new credit card will also have the same credit limit. However, the limit will be shared across all unsecured credit cards."
+      },
+      {
+        "type": "context",
+        "text": "Are there any exclusions for earning 10X reward points?"
+      },
+      {
+        "type": "removed",
+        "text": "You can earn 10X Reward Points on Dining, Travel and *International purchases. However, the following transactions are excluded​"
+      },
+      {
+        "type": "removed",
+        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "You can earn 10X Reward Points on Dining, Travel and International purchases. However, the following transactions are excluded​"
+      },
+      {
+        "type": "context",
+        "text": "- Fuel, EMI, and Cash withdrawals​"
+      },
+      {
+        "type": "context",
+        "text": "- Rental & Property Management, Government Services, Education, Wallet Load transactions, Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "idfc-first-bank-first-digital-virtual-upi",
     "cardName": "FIRST Digital (Virtual UPI)",
     "issuerName": "IDFC First Bank",
@@ -413,48 +1051,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a new cashback cap of ₹500 per statement cycle across all categories."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-wealth",
-    "cardName": "FIRST Wealth",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
-    "status": "Active",
-    "detectedAt": "2026-09-11T08:08:34.403Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Apply for FIRST Wealth - Low Forex Markup Credit Card | IDFC FIRST Bank"
-      },
-      {
-        "type": "added",
-        "text": "Apply for FIRST Wealth Credit Card - Zero Forex Markup | IDFC FIRST Bank"
-      },
-      {
-        "type": "context",
-        "text": "Eligibility"
-      },
-      {
-        "type": "context",
-        "text": "Convenience"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Forex markup fee removed, card now has zero forex markup.",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Help me optimize my credit card setup or tell me I have FOMO 😅",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vx6lr6/help_me_optimize_my_credit_card_setup_or_tell_me/",
-        "description": "I think I may be overthinking my credit cards and would love some advice from people who actually optimize their cards. My profile - Age: 32 - Salary: ~₹2L/month - CIBIL: 780 - Total annual card spend: ~₹10L (including my wife&#39;s card) -"
-      },
-      "via": "reddit"
     }
   },
   {
@@ -2367,1318 +2963,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added zero forex markup on international spends"
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-millennia",
-    "cardName": "FIRST Millennia",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/millennia",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.697Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "FIRST Millennia Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Comprehensive insurance"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary railway lounge access"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary"
-      },
-      {
-        "type": "added",
-        "text": "Earn bonus reward points on flight bookings"
-      },
-      {
-        "type": "added",
-        "text": "Earn bonus reward points on hotel bookings"
-      },
-      {
-        "type": "context",
-        "text": "25% off on movie tickets"
-      },
-      {
-        "type": "context",
-        "text": "Discounted"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Merchant offers, all year long!"
-      },
-      {
-        "type": "context",
-        "text": "All year round"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary railway lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary"
-      },
-      {
-        "type": "removed",
-        "text": "Earn bonus reward points on flight bookings"
-      },
-      {
-        "type": "removed",
-        "text": "Earn bonus reward points on hotel bookings"
-      },
-      {
-        "type": "context",
-        "text": "Accident and lost card liability cover"
-      },
-      {
-        "type": "context",
-        "text": "24/7 Roadside assistance"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Earn bonus reward points on hotel bookings"
-      },
-      {
-        "type": "context",
-        "text": "Earn 20% Bonus Reward Points on your hotel booking done through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy Zero Forex Markup on all international spends."
-      },
-      {
-        "type": "added",
-        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local currency of the country you are in."
-      },
-      {
-        "type": "added",
-        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
-      },
-      {
-        "type": "added",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
-      },
-      {
-        "type": "added",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
-      },
-      {
-        "type": "context",
-        "text": "Experience convenience like never before"
-      },
-      {
-        "type": "context",
-        "text": "Instant EMI conversion for all online transactions"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Joining and Annual fee (2nd year onwards) of just ₹199 + GST"
-      },
-      {
-        "type": "context",
-        "text": "Limited period offer: 100% cashback up to ₹200 i.e. ₹50 each on the first 4 UPI transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Earn up to 3X reward points on your spends"
-      },
-      {
-        "type": "added",
-        "text": "Earn up to 3X reward points* on your UPI spends​"
-      },
-      {
-        "type": "context",
-        "text": "This card is perfect for you because..."
-      },
-      {
-        "type": "context",
-        "text": "No annual fees"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Elevate spends with Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "on Dining, Travel, and International purchases and spends done on your birthday."
-      },
-      {
-        "type": "added",
-        "text": "on Dining, Travel and spends done on your birthday."
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on eligible spends."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "on Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "on Dining, Travel, and International purchases and spends done on your birthday."
-      },
-      {
-        "type": "added",
-        "text": "on Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "added",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
-      },
-      {
-        "type": "context",
-        "text": "Reward program not applicable on Fuel, EMI transactions and Cash withdrawals."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points are valid for 24 months from the date they are credited."
-      },
-      {
-        "type": "context",
-        "text": "Reward Points are earned only on spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
-      },
-      {
-        "type": "removed",
-        "text": "Till 18th June 2026:"
-      },
-      {
-        "type": "removed",
-        "text": "- Earn 10X Reward Points on incremental spends above ₹20,000 per statement cycle and spends done on your birthday​"
-      },
-      {
-        "type": "removed",
-        "text": "- Rental and Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway Spends will not be counted towards 10X spends."
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "On eligible spends*"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "Credit Limit"
-      },
-      {
-        "type": "added",
-        "text": "What is the forex mark-up on the FIRST Millennia Credit Card?​"
-      },
-      {
-        "type": "added",
-        "text": "The FIRST Millennia Credit Card provides ZERO forex markup. Spend without paying extra fees while travelling abroad as well as on international purchases made from India.​"
-      },
-      {
-        "type": "context",
-        "text": "Is there a Joining/Membership/Annual fee on IDFC FIRST Bank Millennia Credit Cards?"
-      },
-      {
-        "type": "context",
-        "text": "No, the IDFC FIRST Bank Millennia Credit Card is lifetime-free. There are no joining, membership, or annual fees, making it a cost-effective choice for cardholders seeking premium benefits without recurring charges."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Up to 10X Reward Points, valid for 24 months​"
-      },
-      {
-        "type": "context",
-        "text": "25% discount on movie tickets up to ₹100 on District by Zomato mobile app, valid once per month with a minimum transaction in the previous calendar month​​"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex markup on all international spends ​"
-      },
-      {
-        "type": "context",
-        "text": "Will I earn reward points for every spend?"
-      },
-      {
-        "type": "context",
-        "text": "Yes. You will earn:​​"
-      },
-      {
-        "type": "removed",
-        "text": "- 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​​"
-      },
-      {
-        "type": "added",
-        "text": "- 10X Reward Points on Dining, Travel, and *International purchases and spends done on your birthday.​​"
-      },
-      {
-        "type": "added",
-        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "- 3X Reward points on all spend categories except insurance, utilities, railways, FASTag recharges, dining, travel, international purchases, fuel, EMI transactions & cash withdrawals.​"
-      },
-      {
-        "type": "context",
-        "text": "- 1X Reward Points on Utilities, Insurance, FASTag and Railways spends. ​"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added Zero Forex Markup and updated reward point structure, including 10X on birthday and a note that international transactions will not earn points from 26 Oct 2026."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-classic",
-    "cardName": "FIRST Classic",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/classic",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.696Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Enjoy life’s simple pleasures with the FIRST Classic Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Comprehensive insurance"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary railway lounge visits"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary"
-      },
-      {
-        "type": "added",
-        "text": "Earn bonus reward points on flight & hotel bookings"
-      },
-      {
-        "type": "context",
-        "text": "25% off on movie tickets"
-      },
-      {
-        "type": "context",
-        "text": "Discounted"
-      },
-      {
-        "type": "context",
-        "text": "1% Fuel surcharge waiver"
-      },
-      {
-        "type": "context",
-        "text": "Over 300+ merchant offers"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary railway lounge visits"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary"
-      },
-      {
-        "type": "removed",
-        "text": "Earn bonus reward points on flight & hotel bookings"
-      },
-      {
-        "type": "context",
-        "text": "Accident and lost card liability cover"
-      },
-      {
-        "type": "context",
-        "text": "24/7 Roadside assistance"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Earn bonus reward points on flight & hotel bookings"
-      },
-      {
-        "type": "context",
-        "text": "Earn Bonus Reward Points on booking flights and hotels via 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy Zero Forex Markup on all international spends."
-      },
-      {
-        "type": "added",
-        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local currency of the country you are in."
-      },
-      {
-        "type": "added",
-        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
-      },
-      {
-        "type": "added",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
-      },
-      {
-        "type": "added",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
-      },
-      {
-        "type": "context",
-        "text": "Convenience at your fingertips"
-      },
-      {
-        "type": "context",
-        "text": "Instant EMI conversion for all online transactions*"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Joining and Annual fee (2nd year onwards) of just ₹199 + GST"
-      },
-      {
-        "type": "context",
-        "text": "Limited period offer: 100% cashback up to ₹200 i.e. ₹50 each on the first 4 UPI transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Earn up to 3X reward points on your spends"
-      },
-      {
-        "type": "added",
-        "text": "Earn up to 3X reward points* on your UPI spends​"
-      },
-      {
-        "type": "context",
-        "text": "Elevate spends with Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "on Dining, Travel, and International purchases and spends done on your birthday."
-      },
-      {
-        "type": "added",
-        "text": "on Dining, Travel, purchases and spends done on your birthday."
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on eligible spends​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "on Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges​"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "on Dining, Travel, and International purchases and spends done on your birthday"
-      },
-      {
-        "type": "added",
-        "text": "On Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "added",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
-      },
-      {
-        "type": "removed",
-        "text": "Reward redemption will attract a small convenience charge of ₹99 (+GST) per redemption."
-      },
-      {
-        "type": "removed",
-        "text": "Reward Points will be valid for 24 months from the date they are credited."
-      },
-      {
-        "type": "removed",
-        "text": "Reward Points will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
-      },
-      {
-        "type": "removed",
-        "text": "Reward program not applicable on Fuel, EMI transactions & Cash withdrawals."
-      },
-      {
-        "type": "removed",
-        "text": "Till 18th June 2026:"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 10X Reward Points on incremental spends above ₹20,000 per statement cycle and spends done on your birthday."
-      },
-      {
-        "type": "removed",
-        "text": "Rental and Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway Spends will not be counted towards 10X spends."
-      },
-      {
-        "type": "added",
-        "text": "Reward program not applicable on Fuel, EMI transactions and Cash withdrawals."
-      },
-      {
-        "type": "added",
-        "text": "Reward redemption will attract a small convenience charge of ₹99 plus GST per redemption."
-      },
-      {
-        "type": "added",
-        "text": "Reward Points are valid for 24 months from the date they are credited."
-      },
-      {
-        "type": "added",
-        "text": "Reward Points are earned only on spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on eligible spends​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points will be valid for 24 months from the date they are credited.​"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points. ​"
-      },
-      {
-        "type": "removed",
-        "text": "Reward program not applicable on Fuel, EMI transactions & Cash withdrawals.​"
-      },
-      {
-        "type": "removed",
-        "text": "Till 18th June 2026: ​"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 3X Reward Points on spends up to ₹20,000 per statement cycle ​"
-      },
-      {
-        "type": "removed",
-        "text": "Rental & Property Management, Government Services, Education and Wallet Load transactions will earn 3X reward points​"
-      },
-      {
-        "type": "added",
-        "text": "Reward program not applicable on Fuel, EMI transactions & Cash withdrawals."
-      },
-      {
-        "type": "context",
-        "text": "1X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Redeem your Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "for flight & hotel bookings​"
-      },
-      {
-        "type": "removed",
-        "text": "Till 18 th June 2026, earn 33% Bonus Reward Points on hotel bookings and 13% Bonus Reward Points on flights, over and above your usual Credit Card Reward Points​"
-      },
-      {
-        "type": "context",
-        "text": "Read terms and conditions"
-      },
-      {
-        "type": "context",
-        "text": "Download the app"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Credit Limit"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "Effective 18th June 2026, what changes are being made to the FIRST Classic Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "There will be revisions to select features and the applicable Terms & Conditions of the FIRST Classic Credit Card.  Click here  for detailed information."
-      },
-      {
-        "type": "context",
-        "text": "Is there a joining, membership, or annual fee on the IDFC FIRST Classic Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "No, there is no joining fee or annual fee on the IDFC FIRST Classic Credit Card. It is a lifetime-free card, ensuring cost-free ownership while enjoying a suite of valuable benefits Click here to apply now ."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Will I earn reward points for every spend?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, you will earn:​"
-      },
-      {
-        "type": "removed",
-        "text": "- 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "added",
-        "text": "- 10X Reward Points on Dining, Travel, and *International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "added",
-        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "- 3X Reward Points on eligible spend categories​"
-      },
-      {
-        "type": "context",
-        "text": "- 1X Reward Points on Insurance premium payments, Utility bill payments, Railway spends and FASTag recharges. ​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "- 1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
-      },
-      {
-        "type": "context",
-        "text": "Are there any exclusions for earning 10X reward points?"
-      },
-      {
-        "type": "removed",
-        "text": "You can earn 10X Reward Points on Dining, Travel and International purchases. However, the following transactions are excluded​"
-      },
-      {
-        "type": "added",
-        "text": "You can earn 10X Reward Points on Dining, Travel and *International purchases. However, the following transactions are excluded​"
-      },
-      {
-        "type": "added",
-        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "- Fuel, EMI, and Cash withdrawals​"
-      },
-      {
-        "type": "context",
-        "text": "- Rental & Property Management, Government Services, Education, Wallet Load transactions, Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "How do I check if my credit card is lifetime-free?"
-      },
-      {
-        "type": "context",
-        "text": "To verify if your card is lifetime-free, review the credit card agreement, check the ‘Fees and Charges’ section on the official IDFC FIRST Bank website. You can also contact customer care or use the IDFC FIRST Bank mobile app. For the IDFC FIRST Classic Credit Card, both the joining fee and annual fee are NIL."
-      },
-      {
-        "type": "added",
-        "text": "What is the forex mark-up on the FIRST Classic Credit Card?​"
-      },
-      {
-        "type": "added",
-        "text": "The FIRST Classic Credit Card provides ZERO forex markup. Spend without paying extra fees while travelling abroad as well as on international purchases made from India.​"
-      },
-      {
-        "type": "context",
-        "text": "more"
-      },
-      {
-        "type": "context",
-        "text": "Important documents"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-select",
-    "cardName": "FIRST Select",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/select",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.691Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "FIRST Select - Lounge Access Credit Card Online"
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "removed",
-        "text": "Low Forex Markup of 1.99%"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "context",
-        "text": "on international transactions"
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Activate UPI now"
-      },
-      {
-        "type": "context",
-        "text": "FIRST Select Credit Card – Premium travel benefits and 10X rewards"
-      },
-      {
-        "type": "removed",
-        "text": "The FIRST Select Credit Card is designed for individuals who appreciate balance—premium privileges without any fees. This lifetime-free card comes with up to 10X reward points, easy EMI options and exciting merchant offers. Enjoy a host of travel privileges with complimentary domestic airport and railway lounge access, low forex markup fee and free trip cancellation protection"
-      },
-      {
-        "type": "added",
-        "text": "The FIRST Select Credit Card is designed for individuals who appreciate balance—premium privileges without any fees. This lifetime-free card comes with up to 10X reward points, easy EMI options and exciting merchant offers. Enjoy a host of travel privileges with complimentary domestic airport and railway lounge access, Zero Forex Markup fee and free trip cancellation protection"
-      },
-      {
-        "type": "context",
-        "text": "Eligibility: Annual income of ₹12 lakhs or more"
-      },
-      {
-        "type": "context",
-        "text": "Exclusive joining benefits"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "•Click on the welcome benefit banner to pick a voucher of your choice. The voucher will be available for redemption up to 90 days of receiving the SMS/email."
-      },
-      {
-        "type": "context",
-        "text": "Exclusion"
-      },
-      {
-        "type": "removed",
-        "text": "•Not applicable on UPI, Add-on card transactions, wallet load, EMI converted transactions & ATM cash withdrawal."
-      },
-      {
-        "type": "added",
-        "text": "•Not applicable on UPI, Add-on card transactions, wallet load, International spends, EMI converted transactions & ATM cash withdrawal.​"
-      },
-      {
-        "type": "context",
-        "text": "•If any of the transactions are reversed/cancelled/ disputed by the cardholder or merchant, that transaction will be excluded."
-      },
-      {
-        "type": "context",
-        "text": "Up to ₹1,000 cashback on your first EMI"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Comprehensive Insurance"
-      },
-      {
-        "type": "context",
-        "text": "Complimentary airport lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "Low forex markup fee at just 1.99%"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "context",
-        "text": "Free trip cancellation cover up to ₹10,000"
-      },
-      {
-        "type": "context",
-        "text": "Complimentary railway lounge visits"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Disclaimer: Spend ₹20,000 in the current calendar month to avail the benefit in the next month."
-      },
-      {
-        "type": "context",
-        "text": "T&C Apply"
-      },
-      {
-        "type": "removed",
-        "text": "Low forex markup fee at just 1.99%"
-      },
-      {
-        "type": "removed",
-        "text": "Take advantage of lower fees for international transactions with a forex markup of just 1.99% + GST."
-      },
-      {
-        "type": "removed",
-        "text": "This fee is also applicable for international transactions conducted in Indian rupees."
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy Zero Forex Markup on all international spends."
-      },
-      {
-        "type": "added",
-        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local currency of the country you are in."
-      },
-      {
-        "type": "added",
-        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
-      },
-      {
-        "type": "added",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
-      },
-      {
-        "type": "added",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
-      },
-      {
-        "type": "context",
-        "text": "Free trip cancellation cover up to ₹10,000"
-      },
-      {
-        "type": "context",
-        "text": "Last-minute change of plans? Get reimbursed up to ₹10,000 on non-refundable hotel and flight cancellations"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Joining and Annual fee (2nd year onwards) of just ₹199 + GST"
-      },
-      {
-        "type": "context",
-        "text": "Limited period offer: 100% cashback up to ₹200 i.e. ₹50 each on the first 4 UPI transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Earn up to 3X reward points on your spends"
-      },
-      {
-        "type": "added",
-        "text": "Earn up to 3X reward points* on your UPI spends​"
-      },
-      {
-        "type": "context",
-        "text": "Elevate spends with Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "on Dining, Travel, and International purchases and spends done on your birthday"
-      },
-      {
-        "type": "added",
-        "text": "on Dining, Travel and purchases and spends done on your birthday"
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on eligible spends​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "on Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward points"
-      },
-      {
-        "type": "removed",
-        "text": "on Dining, Travel, and International purchases and spends done on your birthday"
-      },
-      {
-        "type": "added",
-        "text": "On Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "added",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
-      },
-      {
-        "type": "removed",
-        "text": "Reward redemption will attract a small convenience charge of ₹99 (+GST) per redemption."
-      },
-      {
-        "type": "removed",
-        "text": "Reward Points will be valid for 24 months from the date they are credited."
-      },
-      {
-        "type": "removed",
-        "text": "Reward Points will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
-      },
-      {
-        "type": "removed",
-        "text": "Reward program not applicable on Fuel, EMI transactions & Cash withdrawals."
-      },
-      {
-        "type": "removed",
-        "text": "Till 18th June 2026:"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 10X Reward Points on incremental spends above ₹20,000 per statement cycle and spends done on your birthday"
-      },
-      {
-        "type": "removed",
-        "text": "Rental and Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway Spends will not be counted towards 10X spends."
-      },
-      {
-        "type": "added",
-        "text": "Reward program not applicable on Fuel, EMI transactions and Cash withdrawals."
-      },
-      {
-        "type": "added",
-        "text": "Reward redemption will attract a small convenience charge of ₹99 plus GST per redemption.​"
-      },
-      {
-        "type": "added",
-        "text": "Reward Points are valid for 24 months from the date they are credited.​"
-      },
-      {
-        "type": "added",
-        "text": "Reward Points are earned only on spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on eligible spends"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "Reward program not applicable on Fuel, EMI transactions & Cash withdrawals."
-      },
-      {
-        "type": "removed",
-        "text": "Till 18th June 2026:"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 3X Reward Points on spends up to ₹20,000 per statement cycle"
-      },
-      {
-        "type": "removed",
-        "text": "Rental & Property Management, Government Services, Education and Wallet Load transactions will earn 3X reward points"
-      },
-      {
-        "type": "context",
-        "text": "1X Reward points"
-      },
-      {
-        "type": "context",
-        "text": "on Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Forex Markup"
-      },
-      {
-        "type": "context",
-        "text": "on international transactions"
-      },
-      {
-        "type": "removed",
-        "text": "1.99%"
-      },
-      {
-        "type": "added",
-        "text": "0%"
-      },
-      {
-        "type": "context",
-        "text": "Cash Withdrawals"
-      },
-      {
-        "type": "context",
-        "text": "Across domestic and international ATMs"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Redeem your Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "for flight & hotel bookings​"
-      },
-      {
-        "type": "removed",
-        "text": "Till 18 th June 2026, earn 33% Bonus Reward Points on hotel bookings and 13% Bonus Reward Points on flights, over and above your usual Credit Card Reward Points​"
-      },
-      {
-        "type": "context",
-        "text": "Read terms and conditions"
-      },
-      {
-        "type": "context",
-        "text": "Download the app"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "In addition, get railway lounge visits, travel insurance, wellness benefits, and in-app offers on your favourite brands—all year long."
-      },
-      {
-        "type": "context",
-        "text": "What is the forex mark-up on the FIRST Select Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "The IDFC FIRST Select Credit Card charges a low forex markup of just 1.99% on international transactions. This makes overseas travel and foreign online purchases more affordable."
-      },
-      {
-        "type": "removed",
-        "text": "Whether you’re spending abroad or shopping on international platforms from India, you enjoy minimal currency conversion charges with this premium credit card."
-      },
-      {
-        "type": "added",
-        "text": "The IDFC FIRST Select Credit Card charges a zero forex markup on international transactions helping you save more on overseas travel and foreign currency purchases.​"
-      },
-      {
-        "type": "added",
-        "text": "Whether you’re spending abroad or shopping on international platforms from India, enjoy 0% forex markup on international transactions with this premium credit card."
-      },
-      {
-        "type": "context",
-        "text": "What movie offers are available on the IDFC FIRST Select Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Buy 1 Get 1 movie ticket offer every month, with spends of ₹20,000 or more in the previous calendar month on your card.​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Will I earn reward points for every spend?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, you will earn:​"
-      },
-      {
-        "type": "removed",
-        "text": "- 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "added",
-        "text": "- 10X Reward Points on Dining, Travel, and *International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "added",
-        "text": "​Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "- 3X Reward Points on eligible spend categories​"
-      },
-      {
-        "type": "context",
-        "text": "- 1X Reward Points on Insurance premium payments, Utility bill payments, Railway spends and FASTag recharges. ​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "If you already have an IDFC FIRST Bank unsecured credit card, your new credit card will also have the same credit limit. However, the limit will be shared across all unsecured credit cards."
-      },
-      {
-        "type": "context",
-        "text": "Are there any exclusions for earning 10X reward points?"
-      },
-      {
-        "type": "removed",
-        "text": "You can earn 10X Reward Points on Dining, Travel and International purchases. However, the following transactions are excluded​"
-      },
-      {
-        "type": "added",
-        "text": "You can earn 10X Reward Points on Dining, Travel and *International purchases. However, the following transactions are excluded​"
-      },
-      {
-        "type": "added",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "- Fuel, EMI, and Cash withdrawals​"
-      },
-      {
-        "type": "context",
-        "text": "- Rental & Property Management, Government Services, Education, Wallet Load transactions, Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "The reward points will get credited upon statement generation. Reward points will be posted in Card Account only when the Minimum Amount Due (MAD) has been realised on or before the Payment Due Date (PDD)."
-      },
-      {
-        "type": "context",
-        "text": "Besides lounge access, what are the other travel-related benefits of the IDFC FIRST Select Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Apart from complimentary lounge access, the IDFC FIRST Select Credit Card offers several travel-related benefits. Cardholders can enjoy a low 1.99% forex markup on international transactions, making it ideal for overseas travel. Additionally,  you get CFAR (Cancellation for Any Reason) trip cancellation benefit of up to ₹10,000 for hotel & flight bookings, covering your last-minute change in plans. You can access exclusive travel deals and discounts on platforms like EaseMyTrip, Goibibo, and Ixigo. Complimentary travel insurance coverage further enhances the card’s value for frequent travellers, offering convenience  during international trips."
-      },
-      {
-        "type": "added",
-        "text": "Apart from complimentary lounge access, the IDFC FIRST Select Credit Card offers several travel-related benefits. Cardholders can enjoy a low 0% forex markup on international transactions, making it ideal for overseas travel. Additionally,  you get CFAR (Cancellation for Any Reason) trip cancellation benefit of up to ₹10,000 for hotel & flight bookings, covering your last-minute change in plans. You can access exclusive travel deals and discounts on platforms like EaseMyTrip, Goibibo, and Ixigo. Complimentary travel insurance coverage further enhances the card’s value for frequent travellers, offering convenience  during international trips."
-      },
-      {
-        "type": "context",
-        "text": "What kind of insurance cover is included with the IDFC FIRST Select Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The IDFC FIRST Select Credit Card includes a comprehensive suite of insurance benefits. These include an air accident cover, personal accident cover  , CFAR (Cancellation for Any Reason) trip cancellation benefit, purchase protection, credit shield, and lost card liability cover to protect against unauthorised transactions, and comprehensive travel insurance for added peace of mind during international travel. Additionally, it offers 24/7 roadside assistance to ensure help is available in case of vehicle breakdowns, making it a well-rounded card for safety and convenience on the go."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Do I need to pay extra for lounge access with the IDFC FIRST Select Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The IDFC FIRST Select Credit Card offers 1 complimentary domestic airport lounge access per quarter (four annually) on a minimum spend of ₹20,000 in the previous calendar month. Additional visits beyond the complimentary quota will incur charges, which are billed to your card. To access the lounge, present your card and a valid boarding pass for travel on the same or next day."
-      },
-      {
-        "type": "added",
-        "text": "What is the forex mark-up on the FIRST Select Credit Card?​"
-      },
-      {
-        "type": "added",
-        "text": "The FIRST Select Credit Card provides ZERO forex markup. Spend without paying extra fees while travelling abroad as well as on international purchases made from India.​"
-      },
-      {
-        "type": "context",
-        "text": "more"
-      },
-      {
-        "type": "context",
-        "text": "Important documents"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "The card’s foreign currency conversion fee changed from 1.99% to zero on all international spends."
     }
   },
   {

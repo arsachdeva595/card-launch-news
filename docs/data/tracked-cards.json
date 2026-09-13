@@ -4942,5 +4942,45 @@
     "url": "https://www.icici.bank.in/personal-banking/cards/prepaid-card/odyssey-card/issuance-locations",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/AMD/The-Lounge-International-Terminal-h7vyvYpfyL/",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Caral VIP Lounge at Comandante FAP Germán Arias Graziani Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/ATA/Caral-VIP-Lounge-Hauptterminal-sy5fiRfJGv/",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Caral VIP Lounge at Capitán FAP José A. Quiñones González International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/CIX/CARAL-VIP-LOUNGE---pz7INMorAL/",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "The Infinity Lounge at Nice International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/NCE/---2-uERQqLh5Ae/",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Caral VIP Lounge at Capitán FAP Pedro Canga Rodríguez Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/TBP/Caral-VIP-Lounge-Hauptterminal-lgfUwAfxPM/",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

@@ -1,5 +1,105 @@
 [
   {
+    "id": "amex-the-lounge-adani-lounge-at-sardar-vallabhbhai-patel-international-airport",
+    "cardName": "The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/AMD/The-Lounge-International-Terminal-h7vyvYpfyL/",
+    "discoveredAt": "2026-09-13T08:16:51.979Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/AMD/The-Lounge-International-Terminal-h7vyvYpfyL/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-caral-vip-lounge-at-comandante-fap-germ-n-arias-graziani-airport",
+    "cardName": "Caral VIP Lounge at Comandante FAP Germán Arias Graziani Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/ATA/Caral-VIP-Lounge-Hauptterminal-sy5fiRfJGv/",
+    "discoveredAt": "2026-09-13T08:16:51.979Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Caral VIP Lounge at Comandante FAP Germán Arias Graziani Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/ATA/Caral-VIP-Lounge-Hauptterminal-sy5fiRfJGv/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-caral-vip-lounge-at-capit-n-fap-jos-a-qui-ones-gonz-lez-international-airport",
+    "cardName": "Caral VIP Lounge at Capitán FAP José A. Quiñones González International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/CIX/CARAL-VIP-LOUNGE---pz7INMorAL/",
+    "discoveredAt": "2026-09-13T08:16:51.979Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Caral VIP Lounge at Capitán FAP José A. Quiñones González International Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/CIX/CARAL-VIP-LOUNGE---pz7INMorAL/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-the-infinity-lounge-at-nice-international-airport",
+    "cardName": "The Infinity Lounge at Nice International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/NCE/---2-uERQqLh5Ae/",
+    "discoveredAt": "2026-09-13T08:16:51.979Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "The Infinity Lounge at Nice International Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/NCE/---2-uERQqLh5Ae/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-caral-vip-lounge-at-capit-n-fap-pedro-canga-rodr-guez-airport",
+    "cardName": "Caral VIP Lounge at Capitán FAP Pedro Canga Rodríguez Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/TBP/Caral-VIP-Lounge-Hauptterminal-lgfUwAfxPM/",
+    "discoveredAt": "2026-09-13T08:16:51.979Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Caral VIP Lounge at Capitán FAP Pedro Canga Rodríguez Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/TBP/Caral-VIP-Lounge-Hauptterminal-lgfUwAfxPM/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-icici-bank",
     "cardName": "ICICI Bank",
     "issuerName": "ICICI Bank",

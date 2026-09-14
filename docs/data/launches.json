@@ -1,5 +1,25 @@
 [
   {
+    "id": "amex-caral-vip-lounge-at-capit-n-fap-david-abenzur-rengifo-international-airport",
+    "cardName": "Caral VIP Lounge at Capitán FAP David Abenzur Rengifo International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/PCL/CARAL-VIP-LOUNGE---Uf68INWKCh/",
+    "discoveredAt": "2026-09-14T08:52:22.224Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Caral VIP Lounge at Capitán FAP David Abenzur Rengifo International Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/PCL/CARAL-VIP-LOUNGE---Uf68INWKCh/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "amex-the-lounge-adani-lounge-at-sardar-vallabhbhai-patel-international-airport",
     "cardName": "The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport",
     "issuerName": "American Express (India)",

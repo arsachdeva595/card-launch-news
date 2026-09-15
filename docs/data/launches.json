@@ -1,5 +1,45 @@
 [
   {
+    "id": "amex-platinum-upgrade",
+    "cardName": "Platinum Upgrade",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/business/corporate-card/platinum-upgrade/",
+    "discoveredAt": "2026-09-15T08:38:44.987Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Platinum Upgrade",
+      "url": "https://www.americanexpress.com/en-in/business/corporate-card/platinum-upgrade/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-the-club-bwi-at-baltimore",
+    "cardName": "The Club BWI at Baltimore",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/BWI/The-Club-BWI-D--GuwkmjxsKB/",
+    "discoveredAt": "2026-09-15T08:38:44.987Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "The Club BWI at Baltimore",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/BWI/The-Club-BWI-D--GuwkmjxsKB/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "amex-caral-vip-lounge-at-capit-n-fap-david-abenzur-rengifo-international-airport",
     "cardName": "Caral VIP Lounge at Capitán FAP David Abenzur Rengifo International Airport",
     "issuerName": "American Express (India)",

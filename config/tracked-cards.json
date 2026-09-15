@@ -3746,5 +3746,17 @@
     "issuerSlug": "amex",
     "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/PCL/CARAL-VIP-LOUNGE---Uf68INWKCh/",
     "status": "Active"
+  },
+  {
+    "cardName": "Platinum Upgrade",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/business/corporate-card/platinum-upgrade/",
+    "status": "Active"
+  },
+  {
+    "cardName": "The Club BWI at Baltimore",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/BWI/The-Club-BWI-D--GuwkmjxsKB/",
+    "status": "Active"
   }
 ]

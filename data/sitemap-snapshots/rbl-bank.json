@@ -536,6 +536,7 @@
     "https://www.rbl.bank.in/business-banking/government-sponsored-scheme/pm-vishwakarma-scheme",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/transaction-banking/escrow-and-capital-markets",
     "https://www.rbl.bank.in/corporate-banking/rbl-mybizbank-app",
+    "https://www.rbl.bank.in/personal-banking/cards/forex-cards/voyedge-forex-card",
     "https://www.rbl.bank.in/personal-banking/term-deposits",
     "https://www.rbl.bank.in/personal-banking/term-deposits/flexi-sure-fixed-deposits",
     "https://www.rbl.bank.in/personal-banking/term-deposits/regular-fixed-deposits",
@@ -583,6 +584,7 @@
     "https://www.rbl.bank.in/personal-banking/cards/commercial-cards/corporate-t-and-e-cards",
     "https://www.rbl.bank.in/personal-banking/cards/commercial-cards",
     "https://www.rbl.bank.in/personal-banking/cards/commercial-cards/rbl-bank-razorpayx-corporate-cards",
+    "https://www.rbl.bank.in/personal-banking/cards/forex-cards",
     "https://www.rbl.bank.in/personal-banking/insurance/general-insurance/pradhan-mantri-suraksha-bima-yojana",
     "https://www.rbl.bank.in/personal-banking/insurance/general-insurance/pradhan-mantri-jeevan-jyoti-bima-yojana-plan",
     "https://www.rbl.bank.in/personal-banking/insurance/general-insurance/atal-pension-yojana",
@@ -1974,5 +1976,5 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/financial-markets-and-treasury/forex-and-bullion",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/wholesale-client-services"
   ],
-  "updatedAt": "2026-09-15T08:40:08.387Z"
+  "updatedAt": "2026-09-16T08:34:12.786Z"
 }

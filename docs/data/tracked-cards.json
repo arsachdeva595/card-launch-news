@@ -5006,5 +5006,13 @@
     "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/BWI/The-Club-BWI-D--GuwkmjxsKB/",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "World Safari Plus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "url": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-safari-plus-credit-card",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

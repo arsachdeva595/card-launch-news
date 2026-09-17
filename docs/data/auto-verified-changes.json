@@ -82,5 +82,17 @@
     "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vx6lr6/help_me_optimize_my_credit_card_setup_or_tell_me/",
     "source": "auto-detected",
     "detected_at": "2026-09-13T08:23:25.267Z"
+  },
+  {
+    "card_slug": "axis-bank-ace-credit-card",
+    "card_name": "Axis Bank ACE Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Added nil fees for add‑on card joining, annual fee and hot listing charges.",
+    "status": "verified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/",
+    "source": "auto-detected",
+    "detected_at": "2026-09-17T08:40:45.411Z"
   }
 ]

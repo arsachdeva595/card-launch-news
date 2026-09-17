@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "axis-bank-ace-credit-card",
+    "card_name": "Axis Bank ACE Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Added nil fees for add‑on card joining, annual fee and hot listing charges.",
+    "status": "verified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-09-17",
+    "edition_permalink": null
+  },
+  {
     "card_slug": "axis-bank-axis-bank-rewards-credit-card",
     "card_name": "Axis Bank REWARDS Credit Card",
     "issuer": "axis",
@@ -453,9 +467,9 @@
     "issuer": "axis",
     "change_type": "fee-change",
     "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
-    "status": "unverified",
+    "status": "verified",
     "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
-    "verification_link": null,
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/",
     "source": "newsletter",
     "edition_number": 8,
     "edition_date": "2026-08-27",

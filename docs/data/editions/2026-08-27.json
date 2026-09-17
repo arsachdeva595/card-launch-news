@@ -167,9 +167,9 @@
       "change_type": "fee-change",
       "summary": "Late fee tiers restructured to ₹1,200 (₹10,001-50,000) and ₹1,300 (above ₹50,000); DCC markup raised to 3.5%.",
       "anchor": "axis-ace",
-      "status": "unverified",
+      "status": "verified",
       "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
-      "verification_link": null
+      "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/"
     },
     {
       "card_slug": "axis-my-zone",

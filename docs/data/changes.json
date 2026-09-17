@@ -1,5 +1,299 @@
 [
   {
+    "id": "indusind-bank-cred-indusind-bank-rupay-credit-card",
+    "cardName": "CRED IndusInd Bank RuPay Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/CRED-IndusInd-Bank-ruPay-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-09-17T08:45:12.210Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 1% back as CRED Reward Points on all other transactions."
+      },
+      {
+        "type": "context",
+        "text": "* Terms & Conditions apply"
+      },
+      {
+        "type": "removed",
+        "text": "Earn 1% back as CRED Reward Points on all international transactions ."
+      },
+      {
+        "type": "removed",
+        "text": "**Scan and Pay transactions done outside CRED will not earn any CRED Reward Points. No capping on CRED Reward Points on Scan and Pay ( applicable 11th Aug onwards)."
+      },
+      {
+        "type": "removed",
+        "text": "***Transactions done on Utility and Insurance outside CRED will not earn any CRED Reward Points."
+      },
+      {
+        "type": "removed",
+        "text": "***Transactions done on Gift Cards and Travel outside CRED will earn 1% reward points."
+      },
+      {
+        "type": "removed",
+        "text": "No reward points will be earned on spends done on :transportation & tolls, fuel, loan and EMI, and online education payments, payments to government institutions/services/charges, wallet loads, rent, and jewellery."
+      },
+      {
+        "type": "context",
+        "text": "Minimum transaction value for earning rewards is Rs. 100."
+      },
+      {
+        "type": "removed",
+        "text": "Not more than 5000 CRED Points can be earned at the accelerated reward run rate of 5% in a statement cycle."
+      },
+      {
+        "type": "added",
+        "text": "Earn 1% back as CRED Reward Points on all international transactions."
+      },
+      {
+        "type": "added",
+        "text": "**No capping on CRED Reward Points on Scan and Pay (applicable 11th Aug onwards)."
+      },
+      {
+        "type": "context",
+        "text": "****Not more than 5000 CRED Reward Points can be earned at the accelerated reward run rate of 5% in a statement cycle."
+      },
+      {
+        "type": "added",
+        "text": "***Transactions done on Utility and Insurance outside CRED will not earn any CRED Reward Points."
+      },
+      {
+        "type": "added",
+        "text": "****Transactions done on Gift Cards and Travel outside CRED will earn 1% reward points."
+      },
+      {
+        "type": "added",
+        "text": "No reward points will be earned on spends done on transportation & tolls, fuel, loan and EMI, and online education payments, payments to government institutions/services/charges, wallet loads, rent, and jewellery."
+      },
+      {
+        "type": "context",
+        "text": "CRED Reward Points will be valid for 24 months."
+      },
+      {
+        "type": "removed",
+        "text": "Click here to know more about the exclusion."
+      },
+      {
+        "type": "added",
+        "text": "Click here  to know more about the exclusion."
+      },
+      {
+        "type": "context",
+        "text": "Redeem your CRED Reward Points on the CRED app."
+      },
+      {
+        "type": "context",
+        "text": "1 CRED Reward Points = ₹1"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1 CRED Reward Points = ₹0.50"
+      },
+      {
+        "type": "context",
+        "text": "Applicable on:"
+      },
+      {
+        "type": "removed",
+        "text": "Card Bill Payments with CRED Cashback as a separate point."
+      },
+      {
+        "type": "added",
+        "text": "Card Bill Payments with CRED Cashback."
+      },
+      {
+        "type": "context",
+        "text": "Utility Bill Payments made within the CRED App."
+      },
+      {
+        "type": "context",
+        "text": "Terms & Conditions:"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Reward points on international transactions and specific categories updated; scan and pay now have no capping."
+    }
+  },
+  {
+    "id": "hdfc-bank-corporate-platinum-credit-card",
+    "cardName": "Corporate Platinum Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/corporate-platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-17T08:43:05.287Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Corporate Platinum Credit Card - Apply for Corporate Platinum Credit Card | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "context",
+        "text": "Attractive Rewards on Business Spends*"
+      },
+      {
+        "type": "context",
+        "text": "Specifically Tailored for Corporates"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed cross‑border transaction framework section."
+    }
+  },
+  {
+    "id": "hdfc-bank-freedom-credit-card",
+    "cardName": "Freedom Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/freedom-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-17T08:43:05.266Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Freedom Credit Card - Get Reward Points on Every Transactions | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "context",
+        "text": "Most Rewarding card for your Everyday Spends"
+      },
+      {
+        "type": "context",
+        "text": "Up to 50 days of interest free period"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reward Point Benefits"
+      },
+      {
+        "type": "context",
+        "text": "10X Reward Points on your favourite merchants- Big Basket, BookMyShow, OYO, Swiggy & Uber"
+      },
+      {
+        "type": "removed",
+        "text": "1 Reward Points for every ₹200 spent on other spends"
+      },
+      {
+        "type": "added",
+        "text": "1 Reward Point for every ₹200 spent on other spends"
+      },
+      {
+        "type": "context",
+        "text": "Interest Free Credit Period: Up to 50 days of interest free period from the date of purchase (subject to the submission of the charge by the Merchant)"
+      },
+      {
+        "type": "context",
+        "text": "Contactless Payment: Facilitating fast, convenient and secure payments at retail outlets"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Reward rate changed to 1 point per ₹200 on other spends"
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-ace-credit-card",
+    "cardName": "Axis Bank ACE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-17T08:40:45.411Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Reward redemption fee"
+      },
+      {
+        "type": "context",
+        "text": "No"
+      },
+      {
+        "type": "added",
+        "text": "Add-On Card Joining Fee"
+      },
+      {
+        "type": "added",
+        "text": "Nil"
+      },
+      {
+        "type": "added",
+        "text": "Add-On Card Annual Fee"
+      },
+      {
+        "type": "added",
+        "text": "Nil"
+      },
+      {
+        "type": "added",
+        "text": "Hot Listing Charges"
+      },
+      {
+        "type": "added",
+        "text": "Nil"
+      },
+      {
+        "type": "context",
+        "text": "Rent transaction fee (applicable from 5th March 2023)"
+      },
+      {
+        "type": "context",
+        "text": "1% fee per transaction will be applicable on rental transactions. GST will be applicable."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added nil fees for add‑on card joining, annual fee and hot listing charges.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Axis Bank Credit Cards — A Guide to the Lineup & Support Channels (from Axis Bank's official site) - READ DISCLAIMER FIRST",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/",
+        "description": "Disclaimer I&#39;m not affiliated with Axis Bank, and this isn&#39;t official communication from them. I&#39;m not a financial advisor, so treat this as informational only. Importantly: I could not verify exact joining fees, annual fees, or"
+      },
+      "via": "reddit"
+    }
+  },
+  {
     "id": "idfc-first-bank-first-ea-n",
     "cardName": "FIRST EA₹N",
     "issuerName": "IDFC First Bank",
@@ -4231,214 +4525,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "indusind-bank-cred-indusind-bank-rupay-credit-card",
-    "cardName": "CRED IndusInd Bank RuPay Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/CRED-IndusInd-Bank-ruPay-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-09-07T08:24:49.783Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Modes"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "E-commerce"
-      },
-      {
-        "type": "added",
-        "text": "Online"
-      },
-      {
-        "type": "context",
-        "text": "Earn 5% back as CRED Reward Points ****"
-      },
-      {
-        "type": "context",
-        "text": "CRED"
-      },
-      {
-        "type": "context",
-        "text": "CRED pay, CRED travel , CRED store and Gift Cards on CRED"
-      },
-      {
-        "type": "context",
-        "text": "Earn 5% back as CRED Reward Points****"
-      },
-      {
-        "type": "removed",
-        "text": "CRED UPI"
-      },
-      {
-        "type": "added",
-        "text": "CRED UPI Online"
-      },
-      {
-        "type": "context",
-        "text": "Earn 5% back as CRED Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "CRED UPI Scan & Pay"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "* Terms & Conditions apply"
-      },
-      {
-        "type": "context",
-        "text": "Earn 1% back as CRED Reward Points on all international transactions ."
-      },
-      {
-        "type": "removed",
-        "text": "**Scan and Pay transactions done outside CRED will not earn any CRED Reward Points. Not more than 500 CRED Points can be earned in a statement cycle."
-      },
-      {
-        "type": "added",
-        "text": "**Scan and Pay transactions done outside CRED will not earn any CRED Reward Points. No capping on CRED Reward Points on Scan and Pay ( applicable 11th Aug onwards)."
-      },
-      {
-        "type": "context",
-        "text": "***Transactions done on Utility and Insurance outside CRED will not earn any CRED Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "***Transactions done on Gift Cards and Travel outside CRED will earn 1% reward points."
-      },
-      {
-        "type": "added",
-        "text": "No reward points will be earned on spends done on :transportation & tolls, fuel, loan and EMI, and online education payments, payments to government institutions/services/charges, wallet loads, rent, and jewellery."
-      },
-      {
-        "type": "added",
-        "text": "Minimum transaction value for earning rewards is Rs. 100."
-      },
-      {
-        "type": "context",
-        "text": "Not more than 5000 CRED Points can be earned at the accelerated reward run rate of 5% in a statement cycle."
-      },
-      {
-        "type": "context",
-        "text": "****Not more than 5000 CRED Reward Points can be earned at the accelerated reward run rate of 5% in a statement cycle."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "1 CRED Reward Points = ₹1"
-      },
-      {
-        "type": "context",
-        "text": "Applicable on:"
-      },
-      {
-        "type": "removed",
-        "text": "Flight and hotel bookings via the CRED app"
-      },
-      {
-        "type": "added",
-        "text": "Flights and Hotel bookings made on CRED flights & CRED hotels"
-      },
-      {
-        "type": "context",
-        "text": "CRED Store purchases"
-      },
-      {
-        "type": "removed",
-        "text": "Transactions on select CRED Pay merchants"
-      },
-      {
-        "type": "added",
-        "text": "Transactions on eligible CRED Pay merchants."
-      },
-      {
-        "type": "context",
-        "text": "1 CRED Reward Points = ₹0.50"
-      },
-      {
-        "type": "context",
-        "text": "Applicable on:"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card bill payments and utility bill payments made within the CRED app (via cashback balance)"
-      },
-      {
-        "type": "added",
-        "text": "Card Bill Payments with CRED Cashback as a separate point."
-      },
-      {
-        "type": "added",
-        "text": "Utility Bill Payments made within the CRED App."
-      },
-      {
-        "type": "context",
-        "text": "Terms & Conditions:"
-      },
-      {
-        "type": "context",
-        "text": "Redemptions are governed by the terms and conditions of CRED."
-      },
-      {
-        "type": "context",
-        "text": "Reward points earned during a billing cycle will be transferred to the CRED app within 2–3 days of statement generation."
-      },
-      {
-        "type": "context",
-        "text": "Customers can use up to 70% of their available points per transaction for redemptions on:"
-      },
-      {
-        "type": "removed",
-        "text": "Flights and hotels via the CRED app"
-      },
-      {
-        "type": "added",
-        "text": "Flights and Hotel bookings made on CRED flights & CRED hotels"
-      },
-      {
-        "type": "context",
-        "text": "CRED Store"
-      },
-      {
-        "type": "removed",
-        "text": "CRED Pay merchants"
-      },
-      {
-        "type": "added",
-        "text": "Transactions on eligible CRED Pay merchants. (Kindly reach out to CRED to know eligible merchants)"
-      },
-      {
-        "type": "context",
-        "text": "For Credit Card bill payment and utility bill payments made within the CRED app, up to 100% of the available points can be used per transaction."
-      },
-      {
-        "type": "context",
-        "text": "Reward Points will expire after 2 years from date of issuance"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated reward point rules for Scan & Pay, Gift Cards, and travel, adding caps and new exclusions."
     }
   },
   {
@@ -13403,102 +13489,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Foreign currency conversion markup increased to 3.5% and payment due thresholds updated."
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-ace-credit-card",
-    "cardName": "Axis Bank ACE Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.217Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Cash withdrawal Fee 2.5% (min. ₹500) of the cash amount"
-      },
-      {
-        "type": "context",
-        "text": "Overdue penalty or Late payment fees"
-      },
-      {
-        "type": "removed",
-        "text": "Nil if total payment due is upto ₹500"
-      },
-      {
-        "type": "removed",
-        "text": "₹500 if total payment due is between ₹501 - ₹5000"
-      },
-      {
-        "type": "added",
-        "text": "Nil if total payment due is up to ₹500"
-      },
-      {
-        "type": "added",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is ₹10,001 and above"
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is ₹10,001 to ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1300 if total payment due is ₹50,000 and above"
-      },
-      {
-        "type": "context",
-        "text": "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Over limit penalty 2.5% of the over limit amount (Min ₹500)"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "1% fee per transaction will be applicable on rental transactions. GST will be applicable."
-      },
-      {
-        "type": "context",
-        "text": "Dynamic currency conversion markup"
-      },
-      {
-        "type": "removed",
-        "text": "1.5% will be applicable on each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
-      },
-      {
-        "type": "added",
-        "text": "3.5% will be applicable on each Internation transaction performed in Indian Currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
-      },
-      {
-        "type": "context",
-        "text": "Education transaction fee (applicable from 20th Dec, 2024)"
-      },
-      {
-        "type": "context",
-        "text": "1% fee per transaction will be applicable on education payments made via third party apps."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and increased foreign transaction fee to 3.5%."
     }
   },
   {

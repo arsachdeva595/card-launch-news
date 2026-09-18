@@ -1,5 +1,493 @@
 [
   {
+    "id": "rbl-bank-jalsa-credit-card",
+    "cardName": "Jalsa Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/jalsa-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-18T08:28:16.616Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get 7X Value Back of the annual fees"
+      },
+      {
+        "type": "context",
+        "text": "5% Cashback on your favourite go-to-apps!"
+      },
+      {
+        "type": "removed",
+        "text": "5,000 Reward Points as welcome benefit"
+      },
+      {
+        "type": "added",
+        "text": "INR 1000 Quick Commerce voucher as a welcome benefit"
+      },
+      {
+        "type": "context",
+        "text": "Shop Your Favorite Apps, Earn Every Time"
+      },
+      {
+        "type": "context",
+        "text": "In a world where everything is just a tap away, this card is designed for those who live in the now. Whether you’re restocking the pantry, shopping scrolls to planning spontaneous getaways - this card rewards you at every step!"
+      },
+      {
+        "type": "context",
+        "text": "Rewarding start"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy a grand welcome with 5,000 Reward Points!"
+      },
+      {
+        "type": "removed",
+        "text": "Redeem voucher worth INR 1,000 on your favorite apps."
+      },
+      {
+        "type": "removed",
+        "text": "Avail the welcome benefit in two simple steps: Swipe and use your card within 30 days of card issuance."
+      },
+      {
+        "type": "removed",
+        "text": "Pay the annual membership fee by the payment due date."
+      },
+      {
+        "type": "removed",
+        "text": "Upon eligibility 'Claim 5,000 Reward Points as Welcome Benefit' banner will appear on MyBank App. Cardmember shall click on the banner to claim the benefit within 60 days of card issuance."
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Benefit will be credited to the Cardmember’s Account within 60 days from the date of the Card issuance."
+      },
+      {
+        "type": "added",
+        "text": "Enjoy a INR 1,000 Quick Commerce Voucher on joining"
+      },
+      {
+        "type": "added",
+        "text": "How to Avail:"
+      },
+      {
+        "type": "added",
+        "text": "Make your first transaction within 30 days of card issuance"
+      },
+      {
+        "type": "added",
+        "text": "Pay your membership fee within first membership cycle"
+      },
+      {
+        "type": "added",
+        "text": "A Voucher redemption link will be sent to your registered email within 30 days of meeting eligibility"
+      },
+      {
+        "type": "context",
+        "text": "5% Cashback on your favourite Go-to-apps!"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 5% Cashback on Blinkit / Zepto / Myntra / Swiggy / Zomato / Meesho / Urban Company / Flipkart / AJIO (upto INR 500 per month)."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Milestone benefit reward points will be credited to your account within 45 days from the date of benefit claimed."
+      },
+      {
+        "type": "context",
+        "text": "Click here to to know more."
+      },
+      {
+        "type": "removed",
+        "text": "Purchases made on select Merchant Categories (MCC) will be excluded from annual milestone benefits including Fuel & Auto, Utilities, Insurance, Quasi-Cash, Railways, Real Estate/Rental, Education, Wallet/Service Providers, Government Services, Contracted Services, Cash, Bills2Pay, Miscellaneous and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "added",
+        "text": "Note : Purchases made under below mentioned merchant categories will be excluded from reward point benefit and quarterly milestone benefit: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Real Estate/Rental, Education, Wallets/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "added",
+        "text": "Categories/MCCs will be defined as per Network guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Railways: 0066, 4011, 4112; Fuel & Auto: 0032, 2541, 4001, 5542, 5541, 5172; Utilities: 4900; Wallet / Service Providers: 6540; Quasi-Cash: 6050, 6051, 4829; Real Estate / Rental: 6513; Insurance: 6300, 6310; Education: 8220, 8244, 8249, 8211, 8241, 8299; Government Services: 9400, 1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223; Contracted Services: 1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780; Cash: 6011, 6010; Miscellaneous: 5960"
+      },
+      {
+        "type": "context",
+        "text": "Click here for detailed terms and conditions."
+      },
+      {
+        "type": "context",
+        "text": "Jalsa Credit Card is available on RuPay network."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Experience the ultimate convenience and flexibility with Jalsa Credit Card at an annual membership fee of INR 999 + GST."
+      },
+      {
+        "type": "context",
+        "text": "Reward redemption fee of INR 99 + GST is applicable on the redemption of your available reward points earned on RBL Bank Credit Cards. Reward redemption fee will be levied one time for redemptions made in a single day."
+      },
+      {
+        "type": "removed",
+        "text": "Product Terms & Conditions"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "rbl-bank-apex-credit-card",
+    "cardName": "Apex Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/apex-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-18T08:28:16.615Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Buy 1 Movie ticket & Get 1 Free on purchase of 2 or more Movie Tickets on BookMyShow every month (up to INR 100)."
+      },
+      {
+        "type": "context",
+        "text": "For more details, click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Select Categories/MCCs (as defined by Visa/Mastercard/RuPay) which are excluded for Cashback, Milestone Benefits & Lounge Benefits –"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel, Utilities, Insurance, Quasi-Cash, Railways, Real Estate/Rental, Education, Wallet/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay, EMI conversion of retail transactions."
+      },
+      {
+        "type": "removed",
+        "text": "(This includes converting retail transactions to EMI, Split-N-Pay, EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App)"
+      },
+      {
+        "type": "added",
+        "text": "Note : Purchases made under below mentioned merchant categories will be excluded from reward point benefit and quarterly milestone benefit: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Real Estate/Rental, Education, Wallets/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "added",
+        "text": "Categories/MCCs will be defined as per Network guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Railways: 0066, 4011, 4112; Fuel & Auto: 0032, 2541, 4001, 5542, 5541, 5172; Utilities: 4900; Wallet/Service Providers: 6540; Quasi-Cash: 6050, 6051, 4829; Real Estate/Rental: 6513; Insurance: 6300, 6310; Education: 8220, 8244, 8249, 8211, 8241, 8299; Government Services: 9400, 1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223; Contracted Services: 1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780; Cash: 6011, 6010; Miscellaneous: 5960."
+      },
+      {
+        "type": "context",
+        "text": "Refer Product T&C for all exclusions."
+      },
+      {
+        "type": "context",
+        "text": "This card comes with an annual membership fee of INR 1,000."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated the list of merchant categories excluded from reward points and milestone benefits."
+    }
+  },
+  {
+    "id": "rbl-bank-world-plus-credit-card",
+    "cardName": "World Plus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-18T08:28:16.611Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "1+1 ticket free up to INR 200 on BookMyShow"
+      },
+      {
+        "type": "context",
+        "text": "10x Reward Points on dining and international spends"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel surcharge waiver of up to INR 150 per"
+      },
+      {
+        "type": "added",
+        "text": "Fuel surcharge waiver of up to INR 150 per month"
+      },
+      {
+        "type": "context",
+        "text": "World Plus Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Experience privileges like never before with your World Plus Credit Card. Enjoy benefits on Movies and Dining, get complimentary access to major domestic airport lounge and avail our 24*7 concierge service. In addition plan your spends and earn unparalleled rewards."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Fuel surcharge waiver now applies each month"
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-maxima-credit-card",
+    "cardName": "Platinum Maxima Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-maxima-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-18T08:28:16.610Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "To know the complete list of lounges within India, click here ."
+      },
+      {
+        "type": "context",
+        "text": "Purchases made on select categories will not be eligible for lounge benefits. Refer Product T&C for details, click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Select Categories/MCCs (as defined by Visa/Mastercard/RuPay) which are excluded for Reward Points, Milestone Benefits & Lounge Benefits –"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel, Utilities, Insurance, Quasi-Cash, Railways, Real Estate/Rental, Education, Wallet/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay, EMI conversion of retail transactions."
+      },
+      {
+        "type": "removed",
+        "text": "(This includes converting retail transactions to EMI, Split-N-Pay, EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App)"
+      },
+      {
+        "type": "added",
+        "text": "Note: Purchases made under below mentioned merchant categories will be excluded from reward point benefit and quarterly milestone benefit: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Real Estate/Rental, Education, Wallets/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "added",
+        "text": "Categories/MCCs will be defined as per Network guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Railways: 0066, 4011, 4112; Fuel & Auto: 0032, 2541, 4001, 5542, 5541, 5172; Utilities: 4900; Wallet / Service Providers: 6540; Quasi-Cash: 6050, 6051, 4829; Real Estate / Rental: 6513; Insurance: 6300, 6310; Education: 8220, 8244, 8249, 8211, 8241, 8299; Government Services: 9400, 1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223; Contracted Services: 1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780; Cash: 6011, 6010; Miscellaneous: 5960"
+      },
+      {
+        "type": "context",
+        "text": "Refer Product T&C for all exclusions."
+      },
+      {
+        "type": "context",
+        "text": "Fees and Charges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated list of merchant categories excluded from reward and milestone benefits."
+    }
+  },
+  {
+    "id": "rbl-bank-platinum-maxima-plus-credit-card",
+    "cardName": "Platinum Maxima Plus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-maxima-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-18T08:28:16.609Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "To know the complete list of lounges within India, click here ."
+      },
+      {
+        "type": "context",
+        "text": "Purchases made on select categories will not be eligible for lounge benefits. Refer Product T&C for details, click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Select Categories/MCCs (as defined by Visa/Mastercard/RuPay) which are excluded for Reward Points, Milestone Benefits & Lounge Benefits –"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel, Utilities, Insurance, Quasi-Cash, Railways, Real Estate/Rental, Education, Wallet/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay, EMI conversion of retail transactions."
+      },
+      {
+        "type": "removed",
+        "text": "(This includes converting retail transactions to EMI, Split-N-Pay, EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App)"
+      },
+      {
+        "type": "added",
+        "text": "Note : Purchases made under below mentioned merchant categories will be excluded from reward point benefit and quarterly milestone benefit: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Real Estate/Rental, Education, Wallets/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "added",
+        "text": "Categories/MCCs will be defined as per Network guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Railways: 0066, 4011, 4112; Fuel & Auto: 0032, 2541, 4001, 5542, 5541, 5172; Utilities: 4900; Wallet/Service Providers: 6540; Quasi-Cash: 6050, 6051, 4829; Real Estate/Rental: 6513; Insurance: 6300, 6310; Education: 8220, 8244, 8249, 8211, 8241, 8299; Government Services: 9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223; Contracted Services: 711, 1740, 0763, 1520, 0742, 1761, 1799,1750, 1731, 1771, 0780; Cash: 6011, 6010; Miscellaneous: 5960"
+      },
+      {
+        "type": "context",
+        "text": "Refer Product T&C for all exclusions."
+      },
+      {
+        "type": "context",
+        "text": "Fees and Charges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated excluded merchant categories for reward points and milestone benefits, adding specific MCC codes."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-swyp",
+    "cardName": "FIRST SWYP",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/swyp-emi-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-18T08:21:21.581Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Managing expenses is easier than ever with the FIRST SWYP Credit Card, convert big-ticket purchases into stress-free EMIs instantly with a simple monthly EMI conversion fee and no interest charges, while earning benefits worth ₹60,000+ every year through year-round discounts on feature partner and rewards."
+      },
+      {
+        "type": "context",
+        "text": "Read less"
+      },
+      {
+        "type": "removed",
+        "text": "Get started with Amaze"
+      },
+      {
+        "type": "removed",
+        "text": "welcome offers worth ₹5000+"
+      },
+      {
+        "type": "added",
+        "text": "Get started with ₹500 gift voucher"
+      },
+      {
+        "type": "added",
+        "text": "and more welcome benefits"
+      },
+      {
+        "type": "context",
+        "text": "Instant discount worth ₹1,500 on hotel and flight bookings"
+      },
+      {
+        "type": "context",
+        "text": "Gift Voucher worth ₹500 on spends of ₹5000 and above in first 30 days"
+      },
+      {
+        "type": "context",
+        "text": "Lenskart Gold Max Membership for 1 year"
+      },
+      {
+        "type": "context",
+        "text": "Instant discount of up to ₹2100 (₹700 per month) on flight or hotel bookings, every month, for first 3 months"
+      },
+      {
+        "type": "removed",
+        "text": "Get started with ₹500 gift voucher and more welcome benefits​"
+      },
+      {
+        "type": "context",
+        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
+      },
+      {
+        "type": "context",
+        "text": "Instant discount worth ₹1,500 on hotel and flight bookings"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Lenskart Gold Max Membership for 1 year"
+      },
+      {
+        "type": "context",
+        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
+      },
+      {
+        "type": "removed",
+        "text": "Get started with ₹500 gift voucher and more welcome benefits​"
+      },
+      {
+        "type": "context",
+        "text": "View more"
+      },
+      {
+        "type": "context",
+        "text": "Make My Trip Details"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Benefit:"
+      },
+      {
+        "type": "context",
+        "text": "Earn voucher of up to 8,000 IndiGo BluChips in the first year"
+      },
+      {
+        "type": "removed",
+        "text": "Your application is one scan away"
+      },
+      {
+        "type": "removed",
+        "text": "Scan to continue on mobile and finish your application securely."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Welcome benefit changed to a ₹500 gift voucher and additional benefits."
+    }
+  },
+  {
     "id": "indusind-bank-cred-indusind-bank-rupay-credit-card",
     "cardName": "CRED IndusInd Bank RuPay Credit Card",
     "issuerName": "IndusInd Bank",
@@ -3257,398 +3745,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added 0% Forex Markup on all global spends for the card"
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-swyp",
-    "cardName": "FIRST SWYP",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/swyp-emi-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.689Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Lenskart Gold Max Membership for 1 year"
-      },
-      {
-        "type": "context",
-        "text": "Instant discount of up to ₹2100 (₹700 per month) on flight or hotel bookings, every month, for first 3 months"
-      },
-      {
-        "type": "removed",
-        "text": "1000"
-      },
-      {
-        "type": "removed",
-        "text": "Reward points worth ₹250, unlocked on your first EMI transaction done within 30 days"
-      },
-      {
-        "type": "added",
-        "text": "Get started with ₹500 gift voucher and more welcome benefits​"
-      },
-      {
-        "type": "context",
-        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
-      },
-      {
-        "type": "context",
-        "text": "Instant discount worth ₹1,500 on hotel and flight bookings"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Lenskart Gold Max Membership for 1 year"
-      },
-      {
-        "type": "context",
-        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
-      },
-      {
-        "type": "removed",
-        "text": "Reward points worth ₹250, unlocked on your first EMI transaction done within 30 days"
-      },
-      {
-        "type": "added",
-        "text": "Get started with ₹500 gift voucher and more welcome benefits​"
-      },
-      {
-        "type": "context",
-        "text": "View more"
-      },
-      {
-        "type": "context",
-        "text": "Make My Trip Details"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Up to ₹100, once a month"
-      },
-      {
-        "type": "context",
-        "text": "10% off"
-      },
-      {
-        "type": "removed",
-        "text": "Up to ₹500 on flight and hotel bookings above ₹5000, once a month"
-      },
-      {
-        "type": "removed",
-        "text": "10% off"
-      },
-      {
-        "type": "context",
-        "text": "On Domestic Flights up to ₹500, on orders above ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "Flat 10% off"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "• Check for available offer from FIRST SWYP Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "• Enter the coupon code as ‘IDFCSWYP’ and make payment using FIRST SWYP Credit Card only"
-      },
-      {
-        "type": "removed",
-        "text": "Get 10% off"
-      },
-      {
-        "type": "removed",
-        "text": "10% off on Flights or Hotels, up to ₹500, on transactions above ₹5,000"
-      },
-      {
-        "type": "removed",
-        "text": "Valid: Once in a calendar month"
-      },
-      {
-        "type": "removed",
-        "text": "Redeem Now"
-      },
-      {
-        "type": "removed",
-        "text": "How to avail the offer​"
-      },
-      {
-        "type": "removed",
-        "text": "•  Select the product/ service you need on EaseMyTrip platform​"
-      },
-      {
-        "type": "removed",
-        "text": "•  Move to payment/ checkout page​"
-      },
-      {
-        "type": "removed",
-        "text": "•  Check for available offer from FIRST SWYP Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "•  Enter the coupon code as ‘IDFCSWYP’ and make payment using FIRST SWYP Credit Card only"
-      },
-      {
-        "type": "context",
-        "text": "Up to 20% discount"
-      },
-      {
-        "type": "context",
-        "text": "Get up to ₹500 off on flight & hotel bookings"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Perceived Value (in ₹)"
-      },
-      {
-        "type": "context",
-        "text": "Year-round discounts on FIRST SWYP Feature Partners :"
-      },
-      {
-        "type": "removed",
-        "text": "Assuming max discount utilised on all partners : Zomato, Goibibo, Domino’s, Zepto, Nykaa, EaseMyTrip and TATA CliQ Fashion."
-      },
-      {
-        "type": "added",
-        "text": "Assuming max discount utilised on all partners : Zomato, Goibibo, Zepto, Nykaa and TATA CliQ Fashion."
-      },
-      {
-        "type": "context",
-        "text": "32,000"
-      },
-      {
-        "type": "context",
-        "text": "Other Merchant Offers:"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Welcome Offer Benefits:"
-      },
-      {
-        "type": "context",
-        "text": "Instant discount worth ₹1500 on flights and hotel bookings on MakeMyTrip on fee payment"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Discount coupons worth ₹2,100 from EaseMyTrip on fee payment"
-      },
-      {
-        "type": "context",
-        "text": "Complimentary Lenskart Gold Max Membership on fee payment"
-      },
-      {
-        "type": "removed",
-        "text": "Amazon voucher worth ₹500 on spends of ₹5,000 or more within 30 days of payment of joining fee"
-      },
-      {
-        "type": "added",
-        "text": "Gift voucher worth ₹500 on spends of ₹5,000 or more within 30 days of payment of joining fee"
-      },
-      {
-        "type": "context",
-        "text": "1000 Reward Points on first EMI transaction done within 30 days"
-      },
-      {
-        "type": "context",
-        "text": "Get flat 10% discount on all orders sitewide at mokobara.com"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "All this and more"
-      },
-      {
-        "type": "context",
-        "text": "Comprehensive Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "context",
-        "text": "25% discount on movie tickets"
-      },
-      {
-        "type": "context",
-        "text": "1% fuel surcharge waiver up to ₹200 p.m."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "24/7 roadside assistance for any emergencies while traveling worth ₹1,399"
-      },
-      {
-        "type": "context",
-        "text": "Lost Card Liability protection of up to ₹25,000"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy Zero Forex Markup on all international spends."
-      },
-      {
-        "type": "added",
-        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local currency of the country you are in."
-      },
-      {
-        "type": "added",
-        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
-      },
-      {
-        "type": "added",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 25% off on Movie Tickets"
-      },
-      {
-        "type": "context",
-        "text": "Get 25% off up to ₹100 on movie tickets* booked through District by Zomato, once every month​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Joining fees"
-      },
-      {
-        "type": "context",
-        "text": "₹499+GST"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome Offer: Amazon gift voucher worth ₹500 on spending ₹5,000 within 30 days of joining fee payment"
-      },
-      {
-        "type": "added",
-        "text": "Welcome Offer: Gift voucher worth ₹500 on spending ₹5,000 within 30 days of joining fee payment"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fees"
-      },
-      {
-        "type": "context",
-        "text": "₹499+GST"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Referral Program"
-      },
-      {
-        "type": "context",
-        "text": "Card Usage"
-      },
-      {
-        "type": "added",
-        "text": "What is the forex mark-up on the FIRST SWYP Credit Card?​"
-      },
-      {
-        "type": "added",
-        "text": "The FIRST SWYP Credit Card provides ZERO forex markup. Spend without paying extra fees while travelling abroad as well as on international purchases made from India.​"
-      },
-      {
-        "type": "context",
-        "text": "What is the Joining/Annual Fee on FIRST SWYP Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The FIRST SWYP Credit Card comes with a Joining Fee of ₹499 + GST and an Annual Fee (applicable from the second card anniversary year) of ₹499 + GST. The Joining Fee will be levied on credit card application approval."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Food Delivery & QSR"
-      },
-      {
-        "type": "context",
-        "text": "Zomato"
-      },
-      {
-        "type": "removed",
-        "text": "Domino’s Pizza"
-      },
-      {
-        "type": "context",
-        "text": "₹0"
-      },
-      {
-        "type": "context",
-        "text": "₹5L+"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "mthly"
-      },
-      {
-        "type": "context",
-        "text": "Goibibo"
-      },
-      {
-        "type": "removed",
-        "text": "EaseMyTrip"
-      },
-      {
-        "type": "context",
-        "text": "₹0"
-      },
-      {
-        "type": "context",
-        "text": "₹5L+"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added zero forex markup benefit and updated welcome gift voucher wording."
     }
   },
   {

@@ -1,5 +1,1709 @@
 [
   {
+    "id": "idfc-first-bank-club-vistara-credit-card",
+    "cardName": "Club Vistara Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/vistara-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-19T08:07:19.151Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Tee Off In Opulence"
+      },
+      {
+        "type": "context",
+        "text": "Explore exclusive Golf Courses"
+      },
+      {
+        "type": "removed",
+        "text": "Thank you for your interest in Club Vistara IDFC FIRST Credit Card."
+      },
+      {
+        "type": "removed",
+        "text": "We are no longer accepting new applications for  Club Vistara IDFC FIRST  credit card."
+      },
+      {
+        "type": "removed",
+        "text": "However, we would like to invite you to apply for our one-of-a-kind IndiGo IDFC FIRST Dual Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "Thank you for your association with the Club Vistara IDFC FIRST Credit Card.​"
+      },
+      {
+        "type": "added",
+        "text": "The Club Vistara IDFC FIRST Credit Card programme will end on 30 th September 2026 and will no longer be available for transactions from 1 st October 2026."
+      },
+      {
+        "type": "context",
+        "text": "Overview"
+      },
+      {
+        "type": "context",
+        "text": "Joining benefit"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Detailed Fees & Charg e s"
+      },
+      {
+        "type": "context",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "type": "removed",
+        "text": "Effective 18th June 2026, what changes are being made to the Vistara Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "There will be revisions to select features and the applicable Terms & Conditions of the Vistara Credit Card.  Click here  for detailed information."
+      },
+      {
+        "type": "removed",
+        "text": "Is there Joining/ Membership/ Annual fee on Club Vistara IDFC FIRST Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, there is a Joining fee on the Club Vistara IDFC FIRST Credit Card. The card comes with a joining fee (1st year) of Rs. 4,999 + GST and an annual fee (2nd year onwards) of Rs. 4,999 + GST."
+      },
+      {
+        "type": "removed",
+        "text": "What will I get on paying Joining Fee or Annual fee?"
+      },
+      {
+        "type": "removed",
+        "text": "Paying the Joining Fee or Annual fee for the Club Vistara IDFC FIRST Credit Card comes with several benefits. These include:"
+      },
+      {
+        "type": "removed",
+        "text": "Joining fee payment benefits:"
+      },
+      {
+        "type": "removed",
+        "text": "·  1 complimentary premium economy ticket voucher"
+      },
+      {
+        "type": "removed",
+        "text": "·  1 one-class Upgrade voucher"
+      },
+      {
+        "type": "removed",
+        "text": "·  Maharaja Club Silver Membership"
+      },
+      {
+        "type": "removed",
+        "text": "·  3 months complimentary EazyDiner Prime membership"
+      },
+      {
+        "type": "removed",
+        "text": "Annually recurring fee payment benefits:"
+      },
+      {
+        "type": "removed",
+        "text": "· 1 complimentary premium economy ticket voucher"
+      },
+      {
+        "type": "removed",
+        "text": "·  1 one-class upgrade voucher"
+      },
+      {
+        "type": "removed",
+        "text": "·  Maharaja Club Silver Membership will be renewed"
+      },
+      {
+        "type": "removed",
+        "text": "When will I get the Joining benefits?"
+      },
+      {
+        "type": "removed",
+        "text": "You will receive the joining benefits within 5 working days after paying the joining fee."
+      },
+      {
+        "type": "removed",
+        "text": "I have an existing IDFC FIRST Bank Credit Card, what will be the limit offered if I also apply for a Club Vistara IDFC FIRST Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "If you have an existing IDFC FIRST Bank Credit Card  you will be able to apply for Club Vistara IDFC FIRST Credit Card. In this case, the credit limit from your existing card will be the overall credit limit across your multiple IDFC FIRST Bank Credit Cards."
+      },
+      {
+        "type": "removed",
+        "text": "When will the annual fee be charged and when will I have to pay the annual Fee?"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee of Rs. 4,999 + GST will be levied exactly after 12 months (365 days) from the day of card issuance, but customer will be expected to pay the same within the 12 th statements due date to avoid any late payment or interest charges."
+      },
+      {
+        "type": "removed",
+        "text": "For example, if the card is issued on 5 th July 2023. Annual fee of Rs. 4999 + GST will be charged on 5 th July 2024. This fee will reflect in the 12 th month statement which will be generated on 17 th July 2024 (statement date for Club Vistara IDFC FIRST Credit Card) having a due date after 18 days which will be 4 th August 2024. Customer can pay the annual fee anytime between 5 th July to 4 th August 2024."
+      },
+      {
+        "type": "removed",
+        "text": "How many complimentary tickets will I get in a year?"
+      },
+      {
+        "type": "removed",
+        "text": "You can receive up to 6 premium economy class ticket vouchers in a year. This includes 1 complimentary ticket as a joining benefit and 5 additional tickets as an annual spend milestone benefit."
+      },
+      {
+        "type": "removed",
+        "text": "Will I earn Maharaja Points for every spend?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, you will earn Maharaja Points on every transaction using the Club Vistara IDFC FIRST Credit Card. Here's how the points are calculated:"
+      },
+      {
+        "type": "removed",
+        "text": "-    6 Maharaja points on spends up to Rs. 1,00,000 in a billing cycle and 4 Maharaja points for all spends above Rs. 1,00,000."
+      },
+      {
+        "type": "removed",
+        "text": "-    1 Maharaja point on every transaction done on Fuel, Utility, Insurance, Wallet Load and Rent."
+      },
+      {
+        "type": "removed",
+        "text": "-  Maharaja points will not be given on transactions converted to EMI, Balance Transfer and on Cash Withdrawals."
+      },
+      {
+        "type": "removed",
+        "text": "-   Earn of Maharaja point will be calculated per Rs. 200."
+      },
+      {
+        "type": "removed",
+        "text": "-   Maharaja points will be calculated every billing cycle."
+      },
+      {
+        "type": "removed",
+        "text": "Will I receive regular Maharaja points in addition to the Bonus 2000 Maharaja points received on qualifying for monthly milestones in 2nd, 3rd and 4th billing cycle?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, in addition to the Bonus 2000 Maharaja points received for qualifying monthly spend milestones in the 2nd, 3rd, and 4th billing cycles, you will also earn regular Maharaja points on every transaction made using the credit card."
+      },
+      {
+        "type": "removed",
+        "text": "Will I receive the Bonus 2000 Maharaja points on qualifying for monthly milestones every year?"
+      },
+      {
+        "type": "removed",
+        "text": "The Bonus 2000 Maharaja points for qualifying monthly spend milestones in the 2nd, 3rd, and 4th billing cycles are only applicable for the first year of card membership. Subsequent years will not have this specific bonus point offer."
+      },
+      {
+        "type": "removed",
+        "text": "What is the forex mark-up on Club Vistara IDFC FIRST Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "The forex mark-up fee on the Club Vistara IDFC FIRST Credit Card is competitively set at 2.99%."
+      },
+      {
+        "type": "added",
+        "text": "Effective 1st October 2026, what changes are being made to the Vistara Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "The Club Vistara IDFC FIRST Credit Card programme will end on 30th September 2026. Click here for detailed information."
+      },
+      {
+        "type": "added",
+        "text": "Why is the Club Vistara IDFC FIRST Credit Card being discontinued?"
+      },
+      {
+        "type": "added",
+        "text": "The Club Vistara IDFC FIRST Credit Card programme will end on 30 September 2026, following the Vistara–Air India transition."
+      },
+      {
+        "type": "added",
+        "text": "Till when can I use my card?"
+      },
+      {
+        "type": "added",
+        "text": "You can continue using your card until 30 September 2026, subject to the existing terms and conditions and your available credit limit."
+      },
+      {
+        "type": "added",
+        "text": "What happens from 1 October 2026?"
+      },
+      {
+        "type": "added",
+        "text": "From 1 October 2026, the Club Vistara Credit Card will no longer be available for transactions. This applies to all spends on the card, including online and international transactions, cash withdrawals and any standing instructions registered on the card."
+      },
+      {
+        "type": "added",
+        "text": "Will my card be closed?"
+      },
+      {
+        "type": "added",
+        "text": "If there are no dues on your card, your account will be closed with effect from 1 October 2026."
+      },
+      {
+        "type": "added",
+        "text": "If you have an outstanding balance or a running EMI, your account will remain open for statements and repayments until everything is cleared and will be closed thereafter."
+      },
+      {
+        "type": "context",
+        "text": "Can I avail airport lounges on Club Vistara IDFC FIRST Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "Yes. You are entitled to 2 complimentary domestic airport lounge visits and 1 complimentary international airport lounge visit per quarter on monthly spends of Rs.20,000. This will become applicable w.e.f 1 st  May 2024. Please spend min Rs. 20,000 in April 2024 to get access in May 2024."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "·   Discounted golf services at 50% of the green fee beyond complimentary sessions"
+      },
+      {
+        "type": "context",
+        "text": "For bookings, queries, or complaints, please call Mastercard toll free helpline no. 1800-102-6263"
+      },
+      {
+        "type": "removed",
+        "text": "Can I gift an Add-on Club Vistara IDFC FIRST Credit Card? And what are the benefits?"
+      },
+      {
+        "type": "removed",
+        "text": "You can gift an Add -on Club Vistara IDFC FIRST Credit card to a loved one."
+      },
+      {
+        "type": "removed",
+        "text": "· The add-on card comes without any joining or annual fees."
+      },
+      {
+        "type": "removed",
+        "text": "· While the add-on member does not receive a separate Maharaja Club ID, Maharaja Club, Maharaja points, or complimentary flight tickets, all spends made by the add-on customer contribute towards helping the primary cardholder reach their milestones faster to unlock free tickets and earn more Maharaja points."
+      },
+      {
+        "type": "removed",
+        "text": "· The add-on customer can also enjoy airport lounge access, as it is fungible between both the primary and add-on cardholders."
+      },
+      {
+        "type": "context",
+        "text": "Do I need to spend ₹20,000 every month to activate my lounge benefits?"
+      },
+      {
+        "type": "context",
+        "text": "You can activate your complimentary lounge visits in the next month by spending a minimum of ₹20,000 in the current calendar month."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Has Club Vistara (Vistara’s loyalty programme) been discontinued?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, Club Vistara has merged with Air India’s Flying Returns to become Maharaja Club. Members can log-in with their Maharaja Club ID to view their account summary."
+      },
+      {
+        "type": "removed",
+        "text": "Have I been transferred to Maharaja Club?"
+      },
+      {
+        "type": "removed",
+        "text": "If you had an existing Air India account and had authorized Vistara to migrate your Club Vistara account data to Maharaja Club by not choosing to opt-out, then the membership has been automatically transferred, and you would have received e-mail confirmation regarding the same."
+      },
+      {
+        "type": "removed",
+        "text": "If you did not have an existing Maharaja Club account, a new account would have been created for you, the details of which would have been communicated to you on your registered e-mail ID."
+      },
+      {
+        "type": "removed",
+        "text": "Will my Club Vistara IDFC FIRST Credit Card continue to work?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, your Club Vistara IDFC FIRST Credit Card will continue to function as usual. You can continue using it for transactions and all existing benefits will remain unchanged. You will earn Maharaja Points and Vouchers instead of Club Vistara Points and Vouchers."
+      },
+      {
+        "type": "removed",
+        "text": "What happens to my Club Vistara Points and benefits?"
+      },
+      {
+        "type": "removed",
+        "text": "All your CV Points, Tier Points, and Vouchers have been automatically transferred to your linked Maharaja Club account from 12th November 2024 onwards. The CV Points have been transferred to Maharaja Points in a 1:1 ratio. These points will remain valid for at least 1 year, even if they are due to expire sooner. For example, if you had 500 CV Points, then these would have moved to your Maharaja Club account as 500 Maharaja Points."
+      },
+      {
+        "type": "removed",
+        "text": "What happens to my Silver Membership in Club Vistara account?"
+      },
+      {
+        "type": "removed",
+        "text": "Your existing Silver tier membership has been extended till November 2025 in your Maharaja Club account and for Club Vistara IDFC FIRST Credit Cards getting renewed after November 2024, the silver memberships will get the extended in Maharaja Club accounts for a period of 1 year aligned with the renewal date."
+      },
+      {
+        "type": "context",
+        "text": "Will Air India honour all my existing tickets and vouchers?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, Air India will honour all your valid/active tickets and vouchers issued by Club Vistara. These have been transferred to your Maharaja Club Account, ensuring that you can continue to use them as planned."
+      },
+      {
+        "type": "removed",
+        "text": "What benefits will I receive as a Silver Tier member with Maharaja Club?"
+      },
+      {
+        "type": "removed",
+        "text": "Maharaja Club members get multiple benefits such as Cabin Upgrade vouchers, Excess Baggage Allowance, Priority Check in etc. For more details, please click here ."
+      },
+      {
+        "type": "context",
+        "text": "How long are my vouchers valid for?"
+      },
+      {
+        "type": "context",
+        "text": "All Cabin Upgrade Vouchers issued by Maharaja Club are valid for 6 months from the date of issuance for Silver Tier members, 9 months for Gold Tier members and 12 months for Platinum Tier members. All Complimentary Ticket Vouchers will have a fixed validity of 9 months, irrespective of the tier. For more details, please click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Can I still renew my Club Vistara IDFC FIRST Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, you can renew your Club Vistara IDFC FIRST Credit Card until March 2025. Upon renewal, all card benefits and features will be honoured for 1 year from the renewal date."
+      },
+      {
+        "type": "removed",
+        "text": "I have renewed card membership this year. How will my benefits be affected?"
+      },
+      {
+        "type": "removed",
+        "text": "The benefits earned on the card i.e. Points as well as Ticket Vouchers shall remain the same which means you will receive 1 Complimentary Premium Economy Ticket Voucher, 1 Cabin Upgrade Voucher and Silver Tier Status as part of renewal benefits on payment of annual fee. You will also continue to earn up to 5 Premium Economy Ticket Vouchers based on your spends. Instead of CV Points, you will earn Maharaja Points that can be used to book Award Flights and Cabin Upgrades with Air India and the 24 Star Alliance Partner Airlines."
+      },
+      {
+        "type": "removed",
+        "text": "How can I use my co-brand Vistara Premium Economy Ticket Vouchers at Air India?"
+      },
+      {
+        "type": "removed",
+        "text": "Members can use the Premium Economy Ticket Vouchers for bookings via the Air India website or app or reach out to the Customer Service team to get a booking made."
+      },
+      {
+        "type": "removed",
+        "text": "How can I use my Cabin Upgrade Voucher?"
+      },
+      {
+        "type": "removed",
+        "text": "Once you arrive at the airport check-in counter, you can request the Airport Executive for an upgrade (as per booked cabin class and subject to seat availability). You can show the active voucher in your Maharaja Club Account from the Air India app or website. After confirmation of seat availability, you can validate the voucher using the OTP received on your registered mobile number and e-mail ID. Once the OTP is verified, the executive will hand over the boarding pass for the upgraded cabin class."
+      },
+      {
+        "type": "removed",
+        "text": "Can I use my voucher for friends and family?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, you can use your vouchers for friends and family as well. Please note, all benefits are subject to terms & conditions. For more details, please click here ."
+      },
+      {
+        "type": "removed",
+        "text": "How do I know the required number of Maharaja Points required to book a flight?"
+      },
+      {
+        "type": "removed",
+        "text": "You can calculate the number of Maharaja Points required to book a flight to your preferred destination using the Points Calculator ."
+      },
+      {
+        "type": "context",
+        "text": "How do I contact the Bank when I’m travelling outside India?"
+      },
+      {
+        "type": "context",
+        "text": "In case of any questions regarding your credit card while abroad, please contact us at  +91 22 6248 5152"
+      },
+      {
+        "type": "removed",
+        "text": "Will my Club Vistara IDFC FIRST Credit Card be renewed?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, your Club Vistara IDFC FIRST Credit Card will be renewed on its renewal date and will remain active until March 31, 2026. However, the benefits associated with the card will be modified."
+      },
+      {
+        "type": "removed",
+        "text": "Will I be charged an annual fee upon renewal?"
+      },
+      {
+        "type": "removed",
+        "text": "No, annual fee will not be charged when your Club Vistara IDFC FIRST Credit Card is renewed on or after 1 st April’25."
+      },
+      {
+        "type": "removed",
+        "text": "What is changing for Club Vistara IDFC FIRST Credit Card holders?"
+      },
+      {
+        "type": "removed",
+        "text": "Following the merger of Vistara with Air India, Club Vistara was integrated into Maharaja Club on November 12, 2024. As part of this transition, Club Vistara IDFC FIRST Credit Cards will not be renewed beyond March 31, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "What changes will be made to my card benefits if my card is renewing on or after 1st April’25 ?"
+      },
+      {
+        "type": "removed",
+        "text": "While you can continue using your card until March 31, 2026, the following changes will apply post-renewal:"
+      },
+      {
+        "type": "removed",
+        "text": "• Since the annual fee will not be levied, the renewal benefits including 1 premium economy ticket voucher, 1 cabin upgrade voucher and silver membership will not be provided."
+      },
+      {
+        "type": "removed",
+        "text": "• Flight ticket vouchers based on spending milestones will not be issued after your renewal date."
+      },
+      {
+        "type": "removed",
+        "text": "• Earning of Maharaja Points remains unchanged: You will continue to earn Maharaja Points on your eligible transactions, which will be credited to your linked Maharaja Club account."
+      },
+      {
+        "type": "removed",
+        "text": "Will my existing Maharaja Points remain valid?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, all Maharaja Points earned before and after renewal will continue to be credited to your linked Maharaja Club account, and you can redeem them as per Air India’s policies."
+      },
+      {
+        "type": "removed",
+        "text": "Can I continue using my card for regular transactions after renewal?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, your Club Vistara IDFC FIRST Credit Card will remain functional for all transactions until March 31, 2026. However, after this date, the card will be discontinued, and you will not be able to use it."
+      },
+      {
+        "type": "added",
+        "text": "Do I need to do anything as my Club Vistara IDFC FIRST Credit Card is getting closed?"
+      },
+      {
+        "type": "added",
+        "text": "Please continue paying your dues by the respective due dates, and move any standing instructions, auto-debits, subscriptions or recurring payments registered on this card to an alternate card or bank account before 30 September 2026."
+      },
+      {
+        "type": "added",
+        "text": "You may also wish to confirm that your registered email ID, mobile number and address with us are up to date."
+      },
+      {
+        "type": "added",
+        "text": "I have an outstanding balance on my card. What happens to it?"
+      },
+      {
+        "type": "added",
+        "text": "Any outstanding balance, along with applicable fees and charges, will continue to appear in your statements and remains payable by the respective due dates until fully settled."
+      },
+      {
+        "type": "added",
+        "text": "What happens to my EMIs?"
+      },
+      {
+        "type": "added",
+        "text": "Your EMIs continue on the same terms and tenure. Statements on your Club Vistara Credit Card account will continue to be generated until all your instalments have been fully paid."
+      },
+      {
+        "type": "added",
+        "text": "Will I continue to receive statements after 1 October 2026?"
+      },
+      {
+        "type": "added",
+        "text": "Yes. As long as there is any balance or running EMI on your account, statements will continue to be generated on your usual statement date until everything is cleared."
+      },
+      {
+        "type": "added",
+        "text": "How do I make payments after my card is blocked?"
+      },
+      {
+        "type": "added",
+        "text": "All your existing payment options continue to work. The block applies only to new transactions on the card and does not affect your ability to make payments."
+      },
+      {
+        "type": "added",
+        "text": "I have an auto-debit instruction for my card bill. Will it continue?"
+      },
+      {
+        "type": "added",
+        "text": "Your auto-debit instruction for the payment of your card dues will continue to operate. Please refer to the communication sent to you for the details applicable to your account."
+      },
+      {
+        "type": "added",
+        "text": "What happens to my standing instructions and subscriptions?"
+      },
+      {
+        "type": "added",
+        "text": "Any standing instructions, auto-debit mandates, subscriptions or recurring payments registered on your Club Vistara Credit Card will stop working from 1 October 2026. We request you to register these on an alternate card or bank account before 30 September 2026 so that your payments are not disrupted."
+      },
+      {
+        "type": "added",
+        "text": "What happens to my add-on card and FIRST Digital Card?"
+      },
+      {
+        "type": "added",
+        "text": "Add-on cards and FIRST Digital Cards linked to your Club Vistara Credit Card account will also stop working from 1 October 2026."
+      },
+      {
+        "type": "added",
+        "text": "Can I raise a dispute after 1 October 2026 for a transaction made earlier?"
+      },
+      {
+        "type": "added",
+        "text": "Yes. Disputes and chargebacks for transactions made on or before 30 September 2026 will be processed as per the normal timelines applicable to that transaction."
+      },
+      {
+        "type": "added",
+        "text": "What happens to the points I have earned on my card?"
+      },
+      {
+        "type": "added",
+        "text": "Maharaja Points earned on eligible spends up to 30 September 2026 will be transferred to your linked Maharaja Club account as per the existing process. No points lapse on account of the card closure."
+      },
+      {
+        "type": "added",
+        "text": "Do I need to redeem my points before the card closes?"
+      },
+      {
+        "type": "added",
+        "text": "No. Your points are credited to your Maharaja Club account and not held on the card. Redemption, validity and usage of these points are governed by Air India's Maharaja Club programme rules."
+      },
+      {
+        "type": "added",
+        "text": "Is my Maharaja Club membership affected?"
+      },
+      {
+        "type": "added",
+        "text": "No. Your Maharaja Club membership is with Air India and is separate from your credit card. Your membership, tier and accumulated points are not affected by the closure of the card. For any query relating to your membership or your points after they are credited, please contact Air India's Maharaja Club."
+      },
+      {
+        "type": "added",
+        "text": "What happens to my credit limit?"
+      },
+      {
+        "type": "added",
+        "text": "Credit limits are shared across your IDFC FIRST Bank Credit Cards. Once your Club Vistara Credit Card is closed and there are no dues on it, the limit associated with it continues to be available to you on your other IDFC FIRST Bank Credit Cards, if any."
+      },
+      {
+        "type": "added",
+        "text": "Will this affect my credit score?"
+      },
+      {
+        "type": "added",
+        "text": "This is a bank-initiated closure of a discontinued card programme, and the account will be reported to the credit bureaus as a closed account. It is not reported as a default or an adverse closure. Your repayment behaviour on any outstanding dues continues to be reported until the account is closed, so please continue to pay by the due dates."
+      },
+      {
+        "type": "added",
+        "text": "Whom do I contact for any assistance?"
+      },
+      {
+        "type": "added",
+        "text": "You can reach us at 1800 10 888 or visit idfcfirstbank.com. You may also manage your card account through the IDFC FIRST Bank Mobile Banking App."
+      },
+      {
+        "type": "added",
+        "text": "Effective 18th June 2026, what changes are being made to the Vistara Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "There will be revisions to select features and the applicable Terms & Conditions of the Vistara Credit Card.  Click here  for detailed information."
+      },
+      {
+        "type": "added",
+        "text": "I have an existing IDFC FIRST Bank Credit Card, what will be the limit offered if I also apply for a Club Vistara IDFC FIRST Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "If you have an existing IDFC FIRST Bank Credit Card  you will be able to apply for Club Vistara IDFC FIRST Credit Card. In this case, the credit limit from your existing card will be the overall credit limit across your multiple IDFC FIRST Bank Credit Cards."
+      },
+      {
+        "type": "added",
+        "text": "Will I earn Maharaja Points for every spend?"
+      },
+      {
+        "type": "added",
+        "text": "Yes, you will earn Maharaja Points on every transaction using the Club Vistara IDFC FIRST Credit Card. Here's how the points are calculated:"
+      },
+      {
+        "type": "added",
+        "text": "-    6 Maharaja points on spends up to Rs. 1,00,000 in a billing cycle and 4 Maharaja points for all spends above Rs. 1,00,000."
+      },
+      {
+        "type": "added",
+        "text": "-    1 Maharaja point on every transaction done on Fuel, Utility, Insurance, Wallet Load and Rent."
+      },
+      {
+        "type": "added",
+        "text": "-  Maharaja points will not be given on transactions converted to EMI, Balance Transfer and on Cash Withdrawals."
+      },
+      {
+        "type": "added",
+        "text": "-   Earn of Maharaja point will be calculated per Rs. 200."
+      },
+      {
+        "type": "added",
+        "text": "-   Maharaja points will be calculated every billing cycle."
+      },
+      {
+        "type": "added",
+        "text": "What is the forex mark-up on Club Vistara IDFC FIRST Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "The forex mark-up fee on the Club Vistara IDFC FIRST Credit Card is competitively set at 2.99%."
+      },
+      {
+        "type": "context",
+        "text": "More FAQs"
+      },
+      {
+        "type": "context",
+        "text": "Most Important Terms & Condition"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-emeralde-credit-card",
+    "cardName": "Emirates Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:06:51.711Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Soumy Dhawan"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Credit Cards are surely one of the best cards out there with an unbeatable reward system. The best part, the quick services they provide."
+      },
+      {
+        "type": "added",
+        "text": "Deceased Claim Settlement"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a deceased claim settlement benefit to the card."
+    }
+  },
+  {
+    "id": "icici-bank-platinum-chip-credit-card",
+    "cardName": "Platinum Chip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:06:51.710Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Soumy Dhawan"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Credit Cards are surely one of the best cards out there with an unbeatable reward system. The best part, the quick services they provide."
+      },
+      {
+        "type": "added",
+        "text": "Deceased Claim Settlement"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added Deceased Claim Settlement benefit."
+    }
+  },
+  {
+    "id": "equitas-sfb-selfe-credit-card",
+    "cardName": "Selfe Credit Card",
+    "issuerName": "Equitas Small Finance Bank",
+    "issuerSlug": "equitas-sfb",
+    "officialUrl": "https://equitas.bank.in/",
+    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/selfe-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:05:03.113Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 5X rewards on 2 out of 5 categories that matter to you: Apparel, Dining, Grocery, Utility and Taxi"
+      },
+      {
+        "type": "context",
+        "text": "Choice of Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Choose 2 complimentary memberships from top platforms like Amazon Prime, Jio Hotstar, Sony Liv, Zee5, or Discovery+"
+      },
+      {
+        "type": "added",
+        "text": "Choose 2 complimentary memberships from top platforms like Amazon Prime, Jio Hotstar, Sony Liv, or Zee5"
+      },
+      {
+        "type": "context",
+        "text": "Choice of Card Style"
+      },
+      {
+        "type": "context",
+        "text": "Personalize your card style by choosing from regular, eco-friendly or sleek metal"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated the complimentary membership options by removing Discovery+ from the list."
+    }
+  },
+  {
+    "id": "axis-bank-dining-credit-card",
+    "cardName": "Dining Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:03:24.198Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "context",
+        "text": "Entertainment"
+      },
+      {
+        "type": "added",
+        "text": "Axis Bank My Zone Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Sony LIV Premium subscription for 1 Year worth ₹1499"
+      },
+      {
+        "type": "added",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "Axis Bank REWARDS Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
+      },
+      {
+        "type": "added",
+        "text": "Milestone benefit of 1500 EDGE REWARD Points"
+      },
+      {
+        "type": "added",
+        "text": "₹150 instant discount on Swiggy"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "added",
+        "text": "UPI card"
+      },
+      {
+        "type": "added",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "added",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "added",
+        "text": "Entertainment"
+      },
+      {
+        "type": "context",
+        "text": "Neo Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome benefit of up to ₹300* on Utility bill payment"
+      },
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
+      },
+      {
+        "type": "removed",
+        "text": "Axis Bank REWARDS Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone benefit of 1,500 EDGE REWARD Points"
+      },
+      {
+        "type": "removed",
+        "text": "Bouquet of membership up to ₹1,000 every anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "₹150 instant discount on Swiggy."
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "FLIPKART AXIS BANK Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently First Year Free)"
+      },
+      {
+        "type": "removed",
+        "text": "UPI card"
+      },
+      {
+        "type": "removed",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "removed",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "removed",
+        "text": "Entertainment"
+      },
+      {
+        "type": "removed",
+        "text": "Axis Bank My Zone Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Sony LIV Premium subscription for 1 Year worth ₹1499"
+      },
+      {
+        "type": "removed",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "context",
+        "text": "Dining Credit Cards eligibility criteria"
+      },
+      {
+        "type": "context",
+        "text": "Banks assess applicants carefully before issuing a Dining Credit Card to ensure responsible usage."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "context",
+        "text": "Entertainment"
+      },
+      {
+        "type": "added",
+        "text": "Axis Bank My Zone Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Sony LIV Premium subscription for 1 Year worth ₹1499"
+      },
+      {
+        "type": "added",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "UPI card"
+      },
+      {
+        "type": "added",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "added",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "added",
+        "text": "Entertainment"
+      },
+      {
+        "type": "context",
+        "text": "Neo Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome benefit of up to ₹300* on Utility bill payment"
+      },
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
+      },
+      {
+        "type": "removed",
+        "text": "UPI card"
+      },
+      {
+        "type": "removed",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "removed",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "removed",
+        "text": "Entertainment"
+      },
+      {
+        "type": "removed",
+        "text": "Axis Bank My Zone Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Sony LIV Premium subscription for 1 Year worth ₹1499"
+      },
+      {
+        "type": "removed",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "context",
+        "text": "Your Axis Credit Card awaits you!"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added new benefits such as Sony LIV subscription, Swiggy discount, lounge access, and removed previous joining and annual fee details."
+    }
+  },
+  {
+    "id": "axis-bank-miles-and-more-axis-bank-credit-card",
+    "cardName": "Miles and More Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:03:24.188Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Please click here to know more about Miles & More Axis Bank World Select Credit Card and click here to know more about Miles & More Axis Bank World Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank REWARDS Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone benefit of 1,500 EDGE REWARD Points"
+      },
+      {
+        "type": "removed",
+        "text": "Bouquet of membership up to ₹1,000 every anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "₹150 instant discount on Swiggy."
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "added",
+        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
+      },
+      {
+        "type": "added",
+        "text": "Milestone benefit of 1500 EDGE REWARD Points"
+      },
+      {
+        "type": "added",
+        "text": "₹150 instant discount on Swiggy"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "FLIPKART AXIS BANK Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently First Year Free)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added new reward points, Swiggy discount, lifetime free Amex, and removed joining fee"
+    }
+  },
+  {
+    "id": "axis-bank-titanium-smart-traveler-credit-card",
+    "cardName": "Titanium Smart Traveler Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:03:24.182Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently First Year Free)"
+      },
+      {
+        "type": "context",
+        "text": "Samsung Axis Bank Signature Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on Amex network)"
+      },
+      {
+        "type": "context",
+        "text": "Nov 18, 2025"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-platinum-credit-card",
+    "cardName": "Platinum Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:03:24.181Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently First Year Free)"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Vistara Infinite Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2 EDGE REWARD Points per ₹200 spent"
+      },
+      {
+        "type": "context",
+        "text": "1% fuel surcharge waiver"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "added",
+        "text": "Got more questions?"
+      },
+      {
+        "type": "added",
+        "text": "Locate the nearest branch for best assessment."
+      },
+      {
+        "type": "added",
+        "text": "Locate Branches"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining fee and annual fee removed from card terms"
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-pride-signature-credit-card",
+    "cardName": "Axis Bank Pride Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/pride-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:03:24.180Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Annual fee waiver on spends of ₹50,000 in preceding card anniversary year"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: ₹350"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "Food & Dining"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Annual fee information removed."
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-my-zone-easy-credit-card",
+    "cardName": "Axis Bank MY Zone Easy Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/my-zone-easy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:03:24.175Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Annual fee waiver on spends of ₹50,000 in preceding card anniversary year"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: ₹350"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "Food & Dining"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Annual fee removed from the card"
+    }
+  },
+  {
+    "id": "axis-bank-google-pay-flex-axis-bank-credit-card",
+    "cardName": "Google Pay Flex Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/google-pay-flex-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:03:24.170Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Your Google Pay Flex Axis Bank Credit Card awaits you!"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank REWARDS Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone benefit of 1,500 EDGE REWARD Points"
+      },
+      {
+        "type": "removed",
+        "text": "Bouquet of membership up to ₹1,000 every anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "₹150 instant discount on Swiggy."
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "added",
+        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
+      },
+      {
+        "type": "added",
+        "text": "Milestone benefit of 1500 EDGE REWARD Points"
+      },
+      {
+        "type": "added",
+        "text": "₹150 instant discount on Swiggy"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "LIC Axis Bank Signature Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2X Rewards on LIC premium payments & foreign currency transactions"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1X Reward on every spend except fuel, wallet & EMI"
+      },
+      {
+        "type": "context",
+        "text": "Up to 8 complimentary domestic airport lounge access per year 1% fuel surcharge waiver"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Fibe Axis Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Up to 3% cashback on every transaction*"
+      },
+      {
+        "type": "context",
+        "text": "CC on UPI enabled credit card for seamless transactions"
+      },
+      {
+        "type": "context",
+        "text": "Complimentary domestic lounge access basis spends*"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining and annual fees removed; new reward points and instant discount added."
+    }
+  },
+  {
+    "id": "axis-bank-indianoil-axis-bank-credit-card",
+    "cardName": "INDIANOIL AXIS BANK Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:03:24.167Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "The terms and conditions of IndianOil Axis Bank credit card will be updated w.e.f 20th June'25. Please click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank REWARDS Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone benefit of 1,500 EDGE REWARD Points"
+      },
+      {
+        "type": "removed",
+        "text": "Bouquet of membership up to ₹1,000 every anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "₹150 instant discount on Swiggy."
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "added",
+        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
+      },
+      {
+        "type": "added",
+        "text": "Milestone benefit of 1500 EDGE REWARD Points"
+      },
+      {
+        "type": "added",
+        "text": "₹150 instant discount on Swiggy"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "LIC Axis Bank Signature Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2X Rewards on LIC premium payments & foreign currency transactions"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1X Reward on every spend except fuel, wallet & EMI"
+      },
+      {
+        "type": "context",
+        "text": "Up to 8 complimentary domestic airport lounge access per year 1% fuel surcharge waiver"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Fibe Axis Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Up to 3% cashback on every transaction*"
+      },
+      {
+        "type": "context",
+        "text": "CC on UPI enabled credit card for seamless transactions"
+      },
+      {
+        "type": "context",
+        "text": "Complimentary domestic lounge access basis spends*"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Your Axis Indianoil Credit Card awaits you!"
+      },
+      {
+        "type": "context",
+        "text": "Check Eligibility"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining and annual fees removed; reward points increased to 20 per INR125 and milestone 1500 points."
+    }
+  },
+  {
+    "id": "axis-bank-neo-credit-card",
+    "cardName": "Neo Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-19T08:03:24.166Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "CC on UPI enabled credit card for seamless transactions"
+      },
+      {
+        "type": "context",
+        "text": "Complimentary domestic lounge access basis spends*"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank MY Zone Easy Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Points with every ₹200 spent"
+      },
+      {
+        "type": "context",
+        "text": "25% cashback on movies"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: Nil"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: Nil"
+      },
+      {
+        "type": "context",
+        "text": "Add-On Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining and annual fees removed from card terms."
+    }
+  },
+  {
     "id": "rbl-bank-jalsa-credit-card",
     "cardName": "Jalsa Credit Card",
     "issuerName": "RBL Bank",
@@ -2629,50 +4333,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-titanium-smart-traveler-credit-card",
-    "cardName": "Titanium Smart Traveler Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-10T08:08:54.482Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "removed",
-        "text": "(This card is currently Lifetime Free)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on Amex network)"
-      },
-      {
-        "type": "context",
-        "text": "Nov 18, 2025"
-      },
-      {
-        "type": "context",
-        "text": "How to increase your CIBIL score?"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Lifetime free benefit now specified for Amex network."
     }
   },
   {
@@ -5750,103 +7410,6 @@
     "summary": "Added a link to the lounge list for the domestic lounge access benefit"
   },
   {
-    "id": "icici-bank-emirates-emeralde-credit-card",
-    "cardName": "Emirates Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-02T07:59:11.553Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Annual Benefit"
-      },
-      {
-        "type": "context",
-        "text": "Get 10,000 Skywards Miles on Annual renewal"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited"
-      },
-      {
-        "type": "removed",
-        "text": "Get access to international and domestic airport lounges for the primary Cardholder"
-      },
-      {
-        "type": "added",
-        "text": "Unlimited Access"
-      },
-      {
-        "type": "added",
-        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Unlimited Access"
-      },
-      {
-        "type": "added",
-        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Promo Code"
-      },
-      {
-        "type": "context",
-        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com,  Click here  to know more"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Buy one ticket and get up to ₹750 off on the second ticket through BookMyShow"
-      },
-      {
-        "type": "context",
-        "text": "Milestone Reward"
-      },
-      {
-        "type": "removed",
-        "text": "Emirates Gold Tier Membership after a spend of ₹15 lakh (including minimum ₹50,000 on Emirates.com) in the anniversary year."
-      },
-      {
-        "type": "added",
-        "text": "Emirates Gold Tier Membership after a spend of ₹15 lakh (including minimum ₹50,000 on Emirates.com) in the anniversary year."
-      },
-      {
-        "type": "context",
-        "text": "1% Fuel Surcharge"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel surcharge on all fuel transactions of up to ₹4,000 at any fuel outlet"
-      },
-      {
-        "type": "added",
-        "text": "Fuel surcharge on all fuel transactions of up to ₹4,000 at any fuel outlet"
-      },
-      {
-        "type": "context",
-        "text": "Earn Emirates Skywards miles on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "2"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added lounge list links, clarified lounge access wording, and updated wording for Emirates Gold Tier and fuel surcharge."
-  },
-  {
     "id": "hsbc-india-hsbc-taj-credit-card",
     "cardName": "HSBC Taj Credit Card",
     "issuerName": "HSBC India",
@@ -5928,90 +7491,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-platinum-credit-card",
-    "cardName": "Platinum Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-02T07:55:44.693Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fee waiver"
-      },
-      {
-        "type": "context",
-        "text": "FLIPKART AXIS BANK Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome benefits worth ₹350 upon card activation."
-      },
-      {
-        "type": "added",
-        "text": "Welcome benefits worth ₹350 upon card activation (not applicable on First Year Free offer)"
-      },
-      {
-        "type": "context",
-        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
-      },
-      {
-        "type": "context",
-        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently First Year Free)"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank Vistara Infinite Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Welcome benefit &ndash; 1 complimentary business class ticket on fee payment"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "added",
-        "text": "Got more questions?"
-      },
-      {
-        "type": "added",
-        "text": "Locate the nearest branch for best assessment."
-      },
-      {
-        "type": "added",
-        "text": "Locate Branches"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Joining fee removed (now Nil) and First Year Free benefit added"
     }
   },
   {
@@ -11256,82 +12735,6 @@
     }
   },
   {
-    "id": "axis-bank-axis-bank-pride-signature-credit-card",
-    "cardName": "Axis Bank Pride Signature Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/pride-signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-28T15:23:42.972Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is greater than ₹10,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1,200 if total payment due is between ₹10,001 and ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1,300 if total payment due is greater than ₹50,000."
-      },
-      {
-        "type": "context",
-        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared"
-      },
-      {
-        "type": "context",
-        "text": "Over limit penalty"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India."
-      },
-      {
-        "type": "context",
-        "text": "Dynamic Currency Conversion markup"
-      },
-      {
-        "type": "removed",
-        "text": "1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup will not be applicable on Burgundy Private Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup will not be applicable on Burgundy Private Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Education Payment Charges"
-      },
-      {
-        "type": "context",
-        "text": "1% fee per transaction will be applicable on education payments made via third party apps"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "International transaction fee increased to 3.5% plus taxes."
-    }
-  },
-  {
     "id": "axis-bank-axis-bank-aura-credit-card",
     "cardName": "Axis Bank AURA Credit Card",
     "issuerName": "Axis Bank",
@@ -11849,170 +13252,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Dynamic Currency Conversion markup increased to 3.5% for international transactions in Indian currency."
-    }
-  },
-  {
-    "id": "axis-bank-miles-and-more-axis-bank-credit-card",
-    "cardName": "Miles and More Axis Bank Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.235Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000 ₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000 ₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is greater than ₹10,000 ₹1200 if total payment due is greater than ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared. Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000 ₹1200 if total payment due is between ₹10,001 - ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1300 if total payment due is greater than ₹50,000 ₹1300 if total payment due is greater than ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared. An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Over Limit Penalty 2.5% of the overlimit amount (Min. ₹500) 2.5% of the overlimit amount (Min. ₹500)"
-      },
-      {
-        "type": "context",
-        "text": "Chargeslip Retrieval Fee or Copy Request Fee Waived Waived"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period"
-      },
-      {
-        "type": "context",
-        "text": "Dynamic Currency Conversion"
-      },
-      {
-        "type": "removed",
-        "text": "markup (Applicable from 5th"
-      },
-      {
-        "type": "removed",
-        "text": "March 2023)"
-      },
-      {
-        "type": "removed",
-        "text": "1.5% on International"
-      },
-      {
-        "type": "removed",
-        "text": "transaction performed in"
-      },
-      {
-        "type": "removed",
-        "text": "Indian currency at"
-      },
-      {
-        "type": "removed",
-        "text": "International location or"
-      },
-      {
-        "type": "removed",
-        "text": "transactions performed in"
-      },
-      {
-        "type": "removed",
-        "text": "Indian currency with"
-      },
-      {
-        "type": "removed",
-        "text": "merchants located in Indian"
-      },
-      {
-        "type": "removed",
-        "text": "but registered in foreign"
-      },
-      {
-        "type": "removed",
-        "text": "nation"
-      },
-      {
-        "type": "removed",
-        "text": "1.5% on International"
-      },
-      {
-        "type": "removed",
-        "text": "transaction performed in"
-      },
-      {
-        "type": "removed",
-        "text": "Indian currency at"
-      },
-      {
-        "type": "removed",
-        "text": "International location or"
-      },
-      {
-        "type": "removed",
-        "text": "transactions performed in"
-      },
-      {
-        "type": "removed",
-        "text": "Indian currency with"
-      },
-      {
-        "type": "removed",
-        "text": "merchants located in Indian"
-      },
-      {
-        "type": "removed",
-        "text": "but registered in foreign"
-      },
-      {
-        "type": "removed",
-        "text": "nation"
-      },
-      {
-        "type": "added",
-        "text": "markup"
-      },
-      {
-        "type": "added",
-        "text": "3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. 3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
-      },
-      {
-        "type": "context",
-        "text": "Service Tax, as notified by the Government of India, is applicable on all fees, interest & other charges, and is subject to change as per relevant regulations of the Government of India."
-      },
-      {
-        "type": "context",
-        "text": "The joining fee and the annual fee are waived for HON and Senator Status members, where the status will be defined as per the status for Miles & More membership account."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Late payment fee structure updated with new thresholds and increased foreign transaction markup to 3.5% plus taxes"
     }
   },
   {
@@ -13496,98 +14735,6 @@
     }
   },
   {
-    "id": "axis-bank-google-pay-flex-axis-bank-credit-card",
-    "cardName": "Google Pay Flex Axis Bank Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/google-pay-flex-axis-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.219Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Finance charges (retail purchases and cash) 3.75% per month (55.54% per annum)"
-      },
-      {
-        "type": "context",
-        "text": "Late payment fees"
-      },
-      {
-        "type": "removed",
-        "text": "Nil if Total Payment Due is less than ₹500"
-      },
-      {
-        "type": "added",
-        "text": "Nil if total payment due is up to ₹500"
-      },
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is greater than ₹10,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is ₹10,001 to ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1300 if total payment due is ₹50,000 and above"
-      },
-      {
-        "type": "context",
-        "text": "Surcharge on purchase or cancellation of railway tickets As prescribed by IRCTC/Indian Railways"
-      },
-      {
-        "type": "context",
-        "text": "Cheque return or dishonour fee or auto-debit reversal 2% of the payment amount subject to Min ₹500"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward redemption fee No"
-      },
-      {
-        "type": "context",
-        "text": "Rent transaction fee 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India."
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic currency conversion markup 1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
-      },
-      {
-        "type": "added",
-        "text": "Dynamic currency conversion markup 3.5% will be applicable on each Internation transaction performed in Indian Currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
-      },
-      {
-        "type": "context",
-        "text": "To apply for this card, please visit Google Pay platform."
-      },
-      {
-        "type": "context",
-        "text": "Eligibility criteria for the Google Pay Flex Axis Bank Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Foreign currency conversion markup increased to 3.5% and payment due thresholds updated."
-    }
-  },
-  {
     "id": "axis-bank-axis-bank-my-zone-credit-card",
     "cardName": "Axis Bank My Zone Credit Card",
     "issuerName": "Axis Bank",
@@ -13629,194 +14776,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Foreign currency conversion markup increased to 3.5%."
-    }
-  },
-  {
-    "id": "axis-bank-indianoil-axis-bank-credit-card",
-    "cardName": "INDIANOIL AXIS BANK Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.215Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Accelerated reward points at any IOCL fuel outlets"
-      },
-      {
-        "type": "context",
-        "text": "IndianOil Axis Bank Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "With your IndianOil Axis Bank Credit Card, you may unlock a world of advantages and benefits. The purpose of this card is to link you to rewards and loyalty points. It offers a plethora of value back benefits on fuel transactions, spend based waiver, discounts on movie tickets, and more."
-      },
-      {
-        "type": "removed",
-        "text": "The Terms & Conditions of IndianOil Axis Bank Credit Card have been updated w.e.f 28th August'26. Please click here to know more."
-      },
-      {
-        "type": "added",
-        "text": "With your IndianOil Axis Bank Credit Card, you may unlock a world of advantages and benefits. The purpose of this card is to link you to rewards and loyalty points. It offers a plethora of value back benefits on fuel transactions, spend based waiver, discounts on movie tickets, and more. Read More The Terms & Conditions of IndianOil Axis Bank Credit Card have been updated w.e.f 28th August'26. Please click here to know more."
-      },
-      {
-        "type": "context",
-        "text": "Value Chart"
-      },
-      {
-        "type": "context",
-        "text": "Welcome benefit - Earn 100% valueback on fuel"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is greater than ₹10,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is greater than ₹10001 - ₹50000"
-      },
-      {
-        "type": "added",
-        "text": "₹1300 if total payment due is greater than ₹50000"
-      },
-      {
-        "type": "context",
-        "text": "An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Over limit penalty 2.5% of the over limit amount (Min ₹500)"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward Redemption fee ₹99 per transaction on the EDGE REWARDS platform"
-      },
-      {
-        "type": "context",
-        "text": "Rent Transaction fee 1% plus taxes will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India."
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion markup 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in"
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion markup 3.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in"
-      },
-      {
-        "type": "context",
-        "text": "Indian but registered in foreign nation."
-      },
-      {
-        "type": "context",
-        "text": "Transaction fee - 1% will be applicable on education payments made via third-party apps. However, payments and transactions made directly through education institutional websites, or their POS machines will not incur this fees."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated DCC markup to 3.5% and revised payment due fee thresholds to ₹1200 and ₹1300."
-    }
-  },
-  {
-    "id": "axis-bank-neo-credit-card",
-    "cardName": "Neo Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.213Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is greater"
-      },
-      {
-        "type": "removed",
-        "text": "than ₹10,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1,200 if total payment due is between ₹10,001 and ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1,300 if total payment due is greater than ₹50,00."
-      },
-      {
-        "type": "context",
-        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Over Limit Penalty 2.5% of over the limit amount (Min. ₹500)"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward Redemption fee Yes"
-      },
-      {
-        "type": "context",
-        "text": "Rent Transaction fee 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India."
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion markup 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion markup 3.50% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
-      },
-      {
-        "type": "context",
-        "text": "Fuel Transaction Surcharge 1% of transaction amount"
-      },
-      {
-        "type": "context",
-        "text": "Education Payment Charges 1% fee per transaction will be applicable on education payments made via third party apps"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Foreign currency markup increased to 3.50% and late payment fee adjusted to ₹1,200 for ₹10,001–₹50,000 spend."
     }
   },
   {
@@ -16979,46 +17938,6 @@
     "summary": "Movie benefits eligibility and cashback revocation for the Emirates Skywards Rubyx Credit Card were updated."
   },
   {
-    "id": "icici-bank-platinum-chip-credit-card",
-    "cardName": "Platinum Chip Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-15T04:00:38.302Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Redeem reward points"
-      },
-      {
-        "type": "context",
-        "text": "Redeem reward points across multiple categories"
-      },
-      {
-        "type": "removed",
-        "text": "Earn Points on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "2"
-      },
-      {
-        "type": "context",
-        "text": "On Retail"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Earn Points on every ₹100 spend removed."
-    }
-  },
-  {
     "id": "hsbc-india-hsbc-rupay-cashback-credit-card",
     "cardName": "HSBC RuPay Cashback Credit Card",
     "issuerName": "HSBC India",
@@ -18463,826 +19382,6 @@
       {
         "type": "context",
         "text": "Know More"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "equitas-sfb-selfe-credit-card",
-    "cardName": "Selfe Credit Card",
-    "issuerName": "Equitas Small Finance Bank",
-    "issuerSlug": "equitas-sfb",
-    "officialUrl": "https://equitas.bank.in/",
-    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/selfe-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-07-17T05:55:38.123Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Card Activation Most Important Terms & Conditions Card Member Agreement Key Fact Statement Payment options Complimentary Insurance Policy Selfe T&C Privilege Program Credit Cards Closure Fair Practice Credit Card Operations Data Privacy Policy"
-      },
-      {
-        "type": "context",
-        "text": "FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "What are the main credit card types? -"
-      },
-      {
-        "type": "removed",
-        "text": "SELFE Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Category: Customizable Rewards Card"
-      },
-      {
-        "type": "removed",
-        "text": "Best for: Users who want choice & entertainment benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Key Highlights:"
-      },
-      {
-        "type": "removed",
-        "text": "• Choice of Memberships: Pick 2 premium memberships from popular brands (e.g., Amazon Prime, Jio, Hotstar, Sony LIV, Zee5, Discovery+) — as part of your joining benefits."
-      },
-      {
-        "type": "removed",
-        "text": "• Choice of Accelerated Rewards: Get 5X rewards on any 2 categories of your choice from Apparels, Dining, Utility, Grocery & Taxi."
-      },
-      {
-        "type": "removed",
-        "text": "• Choice of Card Style: Personalize your card design. Choose between Regular, Green (Eco Friendly) & Sleek Metal Card."
-      },
-      {
-        "type": "removed",
-        "text": "• Choice of billing cycle: Enjoy flexible billing cycle. Choose a billing cycle that works best for you – 12th, 16th or 20th of every month."
-      },
-      {
-        "type": "removed",
-        "text": "• Choice of network: Choose your network between VISA & Rupay"
-      },
-      {
-        "type": "removed",
-        "text": "• Travel Benefits: Enjoy one complimentary domestic lounge per calendar quarter."
-      },
-      {
-        "type": "removed",
-        "text": "• Annual Fee: First Year Free (conditions apply)."
-      },
-      {
-        "type": "removed",
-        "text": "• Customizable Experience: You choose what benefits matter most to you."
-      },
-      {
-        "type": "removed",
-        "text": "Ideal For:"
-      },
-      {
-        "type": "removed",
-        "text": "Those who like personalization, digital subscriptions, and flexible reward categories to maximize value."
-      },
-      {
-        "type": "removed",
-        "text": "Features:"
-      },
-      {
-        "type": "removed",
-        "text": "Focus: Selfe - Customizable Rewards & Memberships"
-      },
-      {
-        "type": "removed",
-        "text": "Special Benefit: Selfe - Choice of 2 Premium Memberships"
-      },
-      {
-        "type": "removed",
-        "text": "Reward Type: Selfe - Choose Reward Category"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: Selfe - 1st Year Free"
-      },
-      {
-        "type": "removed",
-        "text": "Ideal For: Selfe - Lifestyle / OTT Users"
-      },
-      {
-        "type": "removed",
-        "text": "How can I redeem Credit Card points for rewards? +"
-      },
-      {
-        "type": "removed",
-        "text": "Equitas uses a rewards portal called Xchange (xchange.equitasbank.com) for redeeming reward points."
-      },
-      {
-        "type": "removed",
-        "text": "You can redeem for products, vouchers, flight / hotel booking, etc. The card’s Terms & Conditions / MITC specifies the catalogue, valuation, and conditions for redemption."
-      },
-      {
-        "type": "removed",
-        "text": "The exact value per point / the minimum points required / where you can redeem depends on which card you have and which redemption option (product, voucher, travel) you select."
-      },
-      {
-        "type": "removed",
-        "text": "How do I apply for a Credit Card online? +"
-      },
-      {
-        "type": "removed",
-        "text": "Visit the Equitas Bank Website’s Credit Cards section."
-      },
-      {
-        "type": "removed",
-        "text": "Choose the variant (TIGA, SELFE or PowerMiles) and click “Apply Now.” Or by giving missed call 1800 103 2977"
-      },
-      {
-        "type": "removed",
-        "text": "You will be asked to provide KYC, identity, address, income proofs, etc., to complete an online / offline application form. (Standard card application flow implied)"
-      },
-      {
-        "type": "removed",
-        "text": "The bank will verify your eligibility and documents and, if approved, dispatch the card. (You may also need to activate it with first transaction or PIN setup)"
-      },
-      {
-        "type": "removed",
-        "text": "The application flow and decisioning may be instantaneous or take some time depending on internal checks."
-      },
-      {
-        "type": "removed",
-        "text": "What are the advantages of using Equitas Credit Cards? +"
-      },
-      {
-        "type": "removed",
-        "text": "Here are the main benefits per card, plus general advantages:"
-      },
-      {
-        "type": "removed",
-        "text": "SELFE Card Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "• Choice of 2 memberships (Amazon Prime, Jio/Hotstar, Zee5, Sony LIV, etc.) as part of your benefits. Choice of 2 reward categories out of five (Apparel, Dining, Grocery, Utility, Taxi) where you’ll earn 5× points"
-      },
-      {
-        "type": "removed",
-        "text": "• Standard rewards on all other spends"
-      },
-      {
-        "type": "removed",
-        "text": "• Up to 50 days interest-free credit on regular purchases"
-      },
-      {
-        "type": "removed",
-        "text": "• Fuel surcharge waiver, insurance covers, and domestic lounge (1 per quarter) benefit for SELFE"
-      },
-      {
-        "type": "removed",
-        "text": "General Advantages"
-      },
-      {
-        "type": "removed",
-        "text": "• Flexibility of interest-free credit period (if you pay full within due date)"
-      },
-      {
-        "type": "removed",
-        "text": "• Rewards / points for your everyday spending"
-      },
-      {
-        "type": "removed",
-        "text": "• Perks like fuel surcharge waiver, insurance, lounge access (for premium)"
-      },
-      {
-        "type": "removed",
-        "text": "• Ability to convert large purchases into EMIs (for TIGA)"
-      },
-      {
-        "type": "removed",
-        "text": "• Multiple redemption options via Equitas’s rewards portal"
-      },
-      {
-        "type": "removed",
-        "text": "Are there any charges for redemption of reward points? +"
-      },
-      {
-        "type": "removed",
-        "text": "Yes, the Equitas “Most Important Terms & Conditions (MITC)” document lists several fees, and redemption governed by reward programme rules."
-      },
-      {
-        "type": "removed",
-        "text": "Key points:"
-      },
-      {
-        "type": "removed",
-        "text": "• Joining / Annual Fees"
-      },
-      {
-        "type": "removed",
-        "text": "• SELFE: ₹1,000 joining + ₹1,000 annual"
-      },
-      {
-        "type": "removed",
-        "text": "• Cash Advance / ATM Withdrawal Charges"
-      },
-      {
-        "type": "removed",
-        "text": "2.5% of the amount withdrawn (or ₹250, whichever is higher). Also, finance charges apply from day of withdrawal till full repayment."
-      },
-      {
-        "type": "removed",
-        "text": "• Other Charges / Fees"
-      },
-      {
-        "type": "removed",
-        "text": "• The bank may levy other charges (late payment, over limit, return of payment, etc.) as per the Schedule of Charges in the Card Agreement / MITC."
-      },
-      {
-        "type": "removed",
-        "text": "• Redemption handling / administrative charges (if any) would be specified in the rewards programme terms (the MITC / catalogue) — it is possible that some redemptions may carry a small fee or conversion cost. (I didn’t find a publicly explicit “redemption fee” in the MITC I reviewed, so you will need to check the latest catalogue or rewards terms)"
-      },
-      {
-        "type": "removed",
-        "text": "• Waiver of Annual Fee"
-      },
-      {
-        "type": "removed",
-        "text": "• SELFE: Similarly, waiver if you cross a spending threshold (e.g., ₹2,40,000) in the year."
-      },
-      {
-        "type": "removed",
-        "text": "So yes — while redemption may not always incur a direct separate fee (depending on the option), there are various fees built into the cards’ terms, and you must see the “Schedule of Charges / rewards programme” for your card variant."
-      },
-      {
-        "type": "removed",
-        "text": "How to register complaints related to my credit card? +"
-      },
-      {
-        "type": "removed",
-        "text": "Register a complaint through the following ways:-"
-      },
-      {
-        "type": "removed",
-        "text": "Selfe loan app"
-      },
-      {
-        "type": "removed",
-        "text": "Customer care helpline number 18001032977"
-      },
-      {
-        "type": "removed",
-        "text": "Write to customerservice@equitas.bank.in from your registered mail id"
-      },
-      {
-        "type": "removed",
-        "text": "You can also lodge a complaint at RBI’s Sachet Portal"
-      },
-      {
-        "type": "added",
-        "text": "Membership Redemption -"
-      },
-      {
-        "type": "added",
-        "text": "How do rewards work in Selfe Card?"
-      },
-      {
-        "type": "added",
-        "text": "You can earn 5X reward points on the categories selected by you, while all other eligible transactions will earn base reward points."
-      },
-      {
-        "type": "added",
-        "text": "When will Selfe Card memberships be available?"
-      },
-      {
-        "type": "added",
-        "text": "Your selected memberships will be available for claim after your card is activated and will reflect on the portal within T+3 working days."
-      },
-      {
-        "type": "added",
-        "text": "How do I claim my membership?"
-      },
-      {
-        "type": "added",
-        "text": "You can claim your membership by logging into the Xchange portal, selecting your eligible membership, and completing the claim process in a few simple steps."
-      },
-      {
-        "type": "added",
-        "text": "Is there a deadline to claim memberships?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, all memberships must be claimed within 90 days from the card issuance date, failing which they will expire."
-      },
-      {
-        "type": "added",
-        "text": "What happens if I fail to claim in time?"
-      },
-      {
-        "type": "added",
-        "text": "If the membership is not claimed within the specified timeline, it will expire automatically and cannot be renewed or reinstated later."
-      },
-      {
-        "type": "added",
-        "text": "Can I transfer or exchange my membership?"
-      },
-      {
-        "type": "added",
-        "text": "No, all memberships are non-transferable and cannot be exchanged for cash or any other benefit, and can only be used by the eligible cardholder."
-      },
-      {
-        "type": "added",
-        "text": "What is the Selfe Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "The Selfe Credit Card is a customizable credit card that allows you to personalize your card experience by selecting your preferred benefits, accelerated reward categories, memberships, and even the card design."
-      },
-      {
-        "type": "added",
-        "text": "What customization options are available with Selfe Card?"
-      },
-      {
-        "type": "added",
-        "text": "With the Selfe Credit Card, you can customize billing cycle, card design and material type, OTT memberships, reward categories, and card network, giving you flexibility and control."
-      },
-      {
-        "type": "added",
-        "text": "Benefits +"
-      },
-      {
-        "type": "added",
-        "text": "What happens if I do not select any preferences while applying for the Selfe Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "If you do not choose any preferences during the application process, the system will automatically assign default options as per the bank’s predefined configuration to ensure your card is issued without delay."
-      },
-      {
-        "type": "added",
-        "text": "What are the default options assigned to my Selfe Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "In case no selections are made, the default options will be assigned as follows: Billing Cycle – 12th, Card Design – Regular, Memberships – Amazon Prime and Jio Hotstar, 5X Reward Categories – Apparel and Dining, and Card Network – RuPay"
-      },
-      {
-        "type": "added",
-        "text": "Will I still receive full benefits if defaults are assigned?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, even with default selections, customers will continue to enjoy all applicable benefits, rewards, and memberships linked to their Selfe Credit Card."
-      },
-      {
-        "type": "added",
-        "text": "Billing Cycle +"
-      },
-      {
-        "type": "added",
-        "text": "Can I change my billing cycle for my credit card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, you have the option to change your billing cycle for your credit card, allowing you to better align your billing and payment due dates with your financial planning needs."
-      },
-      {
-        "type": "added",
-        "text": "How many times can I change my billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "You can request a billing cycle change only once per credit card, so it is important to carefully choose the most suitable option before confirming your request."
-      },
-      {
-        "type": "added",
-        "text": "How can I request a billing cycle change?"
-      },
-      {
-        "type": "added",
-        "text": "You can request a billing cycle change through the Mobile Banking (MB) App or by contacting the Customer Care Centre (CCC), making the process simple and convenient."
-      },
-      {
-        "type": "added",
-        "text": "What billing cycle dates are available for selection?"
-      },
-      {
-        "type": "added",
-        "text": "You can choose from the available billing cycle dates which include the 5th, 12th, 13th, 14th, 15th, 16th, 18th, 20th, and 25th of the month."
-      },
-      {
-        "type": "added",
-        "text": "Can I select a billing cycle date outside the available options?"
-      },
-      {
-        "type": "added",
-        "text": "No, you can only select from the predefined billing cycle dates provided by the bank, and requests for any other dates will not be accepted."
-      },
-      {
-        "type": "added",
-        "text": "When will the new billing cycle be applied?"
-      },
-      {
-        "type": "added",
-        "text": "The revised billing cycle will typically be implemented in the next billing period after your request is processed, depending on system timelines."
-      },
-      {
-        "type": "added",
-        "text": "Can I change my billing cycle again later?"
-      },
-      {
-        "type": "added",
-        "text": "No, as per policy, only one billing cycle change is allowed per credit card, and further changes will not be permitted once it has been updated."
-      },
-      {
-        "type": "added",
-        "text": "Will my payment due date change if I update my billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, your payment due date will change accordingly since it is directly linked to your selected billing cycle."
-      },
-      {
-        "type": "added",
-        "text": "Is there any fee for changing the billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "Currently, there is no specific fee mentioned for changing the billing cycle, but customers are advised to check the latest terms and conditions or confirm during the request."
-      },
-      {
-        "type": "added",
-        "text": "What factors should I consider before changing my billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "You should consider your salary credit date, repayment capacity, and existing financial commitments before selecting a new billing cycle, to ensure it aligns with your repayment convenience."
-      },
-      {
-        "type": "added",
-        "text": "MCC Codes +"
-      },
-      {
-        "type": "added",
-        "text": "How are reward points calculated for my transactions?"
-      },
-      {
-        "type": "added",
-        "text": "Reward points, including accelerated rewards, are calculated based on the Merchant Category Code (MCC) assigned to the merchant where the transaction is made, which determines the applicable reward category."
-      },
-      {
-        "type": "added",
-        "text": "What is a Merchant Category Code (MCC)?"
-      },
-      {
-        "type": "added",
-        "text": "An MCC is a four-digit code assigned to merchants based on their primary business activity, which helps the bank classify transactions and determine rewards eligibility."
-      },
-      {
-        "type": "added",
-        "text": "Why is MCC important for earning rewards?"
-      },
-      {
-        "type": "added",
-        "text": "The MCC helps determine whether your transaction qualifies for accelerated rewards, as reward categories are mapped to specific MCC codes defined by the bank."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Dining category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be classified under Dining if the merchant falls under MCCs 5462, 5812, or 5814, as defined by the bank for reward eligibility."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Apparel category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be considered under Apparel if they fall under MCCs 5311, 5611, 5621, 5641, 5651, 5691, 5655, 5631, or 5699."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Grocery category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be categorized as Grocery if they fall under MCCs 5399, 5411, 5441, 5499, 5311, 5331, 5422, or 5451 as per the defined criteria."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Utility category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be considered under Utility if the merchant falls under MCCs 4814 or 4900."
-      },
-      {
-        "type": "added",
-        "text": "Which MCC is applicable for Taxi category?"
-      },
-      {
-        "type": "added",
-        "text": "Taxi-related transactions will be classified under MCC 4121 for rewards eligibility."
-      },
-      {
-        "type": "added",
-        "text": "Will all transactions in a category always earn accelerated rewards?"
-      },
-      {
-        "type": "added",
-        "text": "Not necessarily, as rewards are based on the MCC assigned to the merchant and not solely on the type of product or service purchased."
-      },
-      {
-        "type": "added",
-        "text": "What if a transaction is classified under a different MCC?"
-      },
-      {
-        "type": "added",
-        "text": "If a transaction is tagged under a different MCC by the merchant’s acquiring bank, it may not qualify for accelerated rewards even if it appears to belong to a selected category."
-      },
-      {
-        "type": "added",
-        "text": "Can the bank change the MCC of a transaction?"
-      },
-      {
-        "type": "added",
-        "text": "No, the MCC is assigned by the merchant’s acquiring bank or payment network and cannot be modified by the card-issuing bank."
-      },
-      {
-        "type": "added",
-        "text": "What happens if a transaction does not match selected categories?"
-      },
-      {
-        "type": "added",
-        "text": "If a transaction does not fall under the selected categories based on MCC mapping, it will still earn base reward points but not accelerated rewards."
-      },
-      {
-        "type": "added",
-        "text": "Spend Waiver +"
-      },
-      {
-        "type": "added",
-        "text": "Is there a joining fee for the credit card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, a joining fee will be charged to the cardholder at the time of card issuance; however, this fee is eligible for reversal if the required spend condition is fulfilled within the specified timeline."
-      },
-      {
-        "type": "added",
-        "text": "How can I get my joining fee reversed for Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "The joining fee will be reversed if you spend ₹1,20,000 within 90 days from the date of card activation, as per the defined eligibility criteria."
-      },
-      {
-        "type": "added",
-        "text": "How will the joining fee be reversed?"
-      },
-      {
-        "type": "added",
-        "text": "The joining fee will be reversed in the form of cashback in the subsequent billing cycle after meeting the spend criteria, excluding applicable GST charges."
-      },
-      {
-        "type": "added",
-        "text": "Will GST on the joining fee also be reversed?"
-      },
-      {
-        "type": "added",
-        "text": "No, GST applicable on the joining fee will not be reversed and will have to be borne by the cardholder as per government regulations."
-      },
-      {
-        "type": "added",
-        "text": "What is the annual fee waiver condition for Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "The annual fee will be waived if you achieve a total spend of ₹4,80,000 in the preceding anniversary year of your credit card."
-      },
-      {
-        "type": "added",
-        "text": "When will the annual fee waiver be applied?"
-      },
-      {
-        "type": "added",
-        "text": "The annual fee waiver will be evaluated based on your spending in the previous card anniversary year and will be applied accordingly in the subsequent cycle."
-      },
-      {
-        "type": "added",
-        "text": "Will GST be reversed in case of annual fee waiver?"
-      },
-      {
-        "type": "added",
-        "text": "No, even if the annual fee is waived or reversed, the GST component will not be reversed and will continue to be payable by the cardholder."
-      },
-      {
-        "type": "added",
-        "text": "What happens if I do not meet the spend criteria for fee reversal?"
-      },
-      {
-        "type": "added",
-        "text": "If the required spend criteria is not met within the given timeframe, the joining or annual fee will not be reversed and will be charged as applicable."
-      },
-      {
-        "type": "added",
-        "text": "What is the annual fee waiver condition for Selfe credit card?"
-      },
-      {
-        "type": "added",
-        "text": "The annual fee for the credit card will be waived if the customer achieves a total spend of ₹2,40,000 in the preceding anniversary year of the card."
-      },
-      {
-        "type": "added",
-        "text": "What does &#x27;preceding anniversary year&#x27; mean?"
-      },
-      {
-        "type": "added",
-        "text": "The preceding anniversary year refers to the 12-month period immediately before your card renewal date, during which your total spends are evaluated for waiver eligibility."
-      },
-      {
-        "type": "added",
-        "text": "What happens if I do not reach ₹2,40,000 spend?"
-      },
-      {
-        "type": "added",
-        "text": "If your total eligible spends do not reach ₹2,40,000 in the preceding year, the annual fee will be charged as applicable and will not be waived."
-      },
-      {
-        "type": "added",
-        "text": "Do all transactions count towards the annual fee waiver spend?"
-      },
-      {
-        "type": "added",
-        "text": "Only eligible transactions as defined by the bank will be considered for calculating the total spend required for the annual fee waiver."
-      },
-      {
-        "type": "added",
-        "text": "Insurance +"
-      },
-      {
-        "type": "added",
-        "text": "What insurance benefit is available on my credit card?"
-      },
-      {
-        "type": "added",
-        "text": "Your credit card offers a Lost Card Liability cover of up to ₹10 lakhs(varies basis credit card ), protecting you against unauthorized transactions in case your card is lost or stolen, subject to policy terms."
-      },
-      {
-        "type": "added",
-        "text": "Who is eligible for this insurance coverage?"
-      },
-      {
-        "type": "added",
-        "text": "This insurance benefit is applicable only to the primary cardholder and is not available for add-on or supplementary cardholders."
-      },
-      {
-        "type": "added",
-        "text": "What is covered under the Lost Card Liability policy?"
-      },
-      {
-        "type": "added",
-        "text": "The policy covers unauthorized transactions made using your lost or stolen card, up to the specified coverage limit, as per the policy terms and conditions."
-      },
-      {
-        "type": "added",
-        "text": "When does the insurance coverage become active?"
-      },
-      {
-        "type": "added",
-        "text": "The insurance coverage becomes active only after you complete either your first card transaction, PIN setup, or card activation."
-      },
-      {
-        "type": "added",
-        "text": "Will I be covered if I have not activated or used my card?"
-      },
-      {
-        "type": "added",
-        "text": "No, the insurance benefit will not be active until the card is activated, PIN is set, or the first transaction is completed."
-      },
-      {
-        "type": "added",
-        "text": "Is there a maximum coverage limit under this policy?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, the Lost Card Liability coverage is available up to a maximum of ₹10,00,000 as per the policy terms."
-      },
-      {
-        "type": "added",
-        "text": "Where can I check the detailed policy terms and conditions?"
-      },
-      {
-        "type": "added",
-        "text": "You can refer to the policy document provided by the bank at https://equitas.bank.in/complimentary-insurance-policy/ to understand detailed coverage, exclusions, and claim process."
-      },
-      {
-        "type": "added",
-        "text": "What should I do if my card is lost or stolen?"
-      },
-      {
-        "type": "added",
-        "text": "In case your card is lost or stolen, you should immediately block your card through the mobile banking app or contact customer care and follow the claim process as per the policy."
-      },
-      {
-        "type": "added",
-        "text": "Reward Redemption +"
-      },
-      {
-        "type": "added",
-        "text": "How can I redeem my reward points?"
-      },
-      {
-        "type": "added",
-        "text": "You can redeem your reward points for travel bookings, gift vouchers, catalogue purchases, cashback against your card statement, or instant redemption at partner merchants."
-      },
-      {
-        "type": "added",
-        "text": "What is the value of each reward point for a Selfe Card?"
-      },
-      {
-        "type": "added",
-        "text": "The value of each reward point varies by redemption type, with travel, vouchers, and catalogue redemptions valuing ₹0.35 per point, while cashback and instant redemption value ₹0.15 per point."
-      },
-      {
-        "type": "added",
-        "text": "Is the reward point value the same for all redemption options?"
-      },
-      {
-        "type": "added",
-        "text": "No, the reward point value differs depending on the redemption option selected, with higher value typically available for travel and vouchers."
-      },
-      {
-        "type": "added",
-        "text": "Is there a minimum number of points required for redemption?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, a minimum of 500 reward points is required for redeeming points as cashback against your card statement."
-      },
-      {
-        "type": "added",
-        "text": "Do reward points expire for Tiga and Selfe Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, reward points expire after 24 months from the date they are earned if they are not redeemed within this period."
-      },
-      {
-        "type": "added",
-        "text": "Do reward points expire for Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, reward points expire after 36 months from the date they are earned if they are not redeemed within this period."
-      },
-      {
-        "type": "added",
-        "text": "Is there any fee for redeeming reward points?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, a redemption fee of ₹99 per transaction will be charged whenever reward points are redeemed."
-      },
-      {
-        "type": "added",
-        "text": "Can redeemed reward points be reversed?"
-      },
-      {
-        "type": "added",
-        "text": "No, once reward points are redeemed, they cannot be reversed, cancelled, or reissued."
-      },
-      {
-        "type": "added",
-        "text": "Can I use reward points instantly while making a purchase?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, you can use reward points for instant redemption at select partner merchants during transactions."
-      },
-      {
-        "type": "added",
-        "text": "What happens if my reward points expire?"
-      },
-      {
-        "type": "added",
-        "text": "If reward points expire after 24 months for Tiga & Selfe and 36 months for Powermiles, they will be forfeited and cannot be reinstated or used later."
-      },
-      {
-        "type": "added",
-        "text": "How do I earn reward points on my Powermiles credit card?"
-      },
-      {
-        "type": "added",
-        "text": "You will earn 3 reward points for every ₹100 spent on eligible retail transactions, helping you accumulate points on your everyday spending."
-      },
-      {
-        "type": "ellipsis",
-        "text": "… diff truncated (42 more lines) …"
       }
     ],
     "community": {

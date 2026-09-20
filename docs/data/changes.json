@@ -1,5 +1,53 @@
 [
   {
+    "id": "idfc-first-bank-first-power",
+    "cardName": "FIRST Power+",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-20T08:41:57.559Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Yes, there is. If you have a FIRST Power+ Credit Card, you will receive a ₹500 Gift Voucher on your first HPCL fuel transaction of ₹500 or more, made within 30 days of card generation."
+      },
+      {
+        "type": "removed",
+        "text": "For the FIRST Power Credit Card, you will get a ₹250  Gift Voucher on your first HPCL fuel transaction of ₹250 or more, made within 30 days of card generation."
+      },
+      {
+        "type": "removed",
+        "text": "Please note: The joining offer is valid only if the joining fee has been paid in full."
+      },
+      {
+        "type": "added",
+        "text": "Yes, there is. If you have a FIRST Power+ Credit Card, you will receive a ₹500 Gift Voucher on your first HPCL fuel transaction* of ₹500 or more, made within 30 days of card generation."
+      },
+      {
+        "type": "added",
+        "text": "For the FIRST Power Credit Card, you will get a ₹250  Gift Voucher on your first HPCL fuel transaction of ₹250* or more, made within 30 days of card generation.​"
+      },
+      {
+        "type": "added",
+        "text": "Please note: The joining offer is valid only if the joining fee has been paid in full. ​"
+      },
+      {
+        "type": "added",
+        "text": "*HPCL fuel transaction will be eligible for gift voucher only if settled within 30 days​"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added condition that HPCL fuel transaction must be settled within 30 days to qualify for gift voucher"
+    }
+  },
+  {
     "id": "idfc-first-bank-club-vistara-credit-card",
     "cardName": "Club Vistara Credit Card",
     "issuerName": "IDFC First Bank",
@@ -5365,46 +5413,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added zero forex markup on all global spends."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-power",
-    "cardName": "FIRST Power+",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.706Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Effective 18th June 2026, what changes are being made to the FIRST Power/ FIRST Power+ Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "There will be revisions to select features and the applicable Terms & Conditions of the FIRST Power Credit Card.  Click here  for detailed information on FIRST Power Credit Card."
-      },
-      {
-        "type": "removed",
-        "text": "Click here  for detailed information on FIRST Power+ Credit Card."
-      },
-      {
-        "type": "added",
-        "text": "0% Forex Markup on all global spends​"
-      },
-      {
-        "type": "added",
-        "text": "0% Forex Markup on all global spends​"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added 0% Forex Markup on all global spends for the card"
     }
   },
   {

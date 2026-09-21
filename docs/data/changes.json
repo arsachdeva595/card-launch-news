@@ -1,5 +1,821 @@
 [
   {
+    "id": "idfc-first-bank-first-digital-virtual-upi",
+    "cardName": "FIRST Digital (Virtual UPI)",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/rupay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-21T09:00:43.629Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Introductory offer - 100% cashback of up to ₹200*"
+      },
+      {
+        "type": "context",
+        "text": "Digital RuPay Credit Card for UPI: Credit Meets Daily UPI Payments"
+      },
+      {
+        "type": "removed",
+        "text": "Embrace the power of digital payments with the FIRST Digital RuPay Credit Card. Linked directly to UPI, this virtual card lets you enjoy effortless scan-and-pay transactions, online purchases, and instant rewards. With the card being entirely digital, it offers upto 3X reward point on selected UPI payments and comes pooled with your existing IDFC FIRST Bank Credit Cards in terms of credit limit and rewards. Perfect for trend-savvy users, it ensures that your payments are faster, smarter, and more rewarding."
+      },
+      {
+        "type": "added",
+        "text": "Embrace the power of digital payments with the FIRST Digital RuPay Credit Card. Linked directly to UPI, this virtual card lets you enjoy effortless scan-and-pay transactions, online purchases, and instant rewards. With the card being entirely digital, it offers upto 3X reward point on UPI payments and comes pooled with your existing IDFC FIRST Bank Credit Cards in terms of credit limit and rewards. Perfect for trend-savvy users, it ensures that your payments are faster, smarter, and more rewarding."
+      },
+      {
+        "type": "context",
+        "text": "Features of FIRST Digital RuPay Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Here’s what makes it unique"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "(no physical card will be issued)"
+      },
+      {
+        "type": "context",
+        "text": "Earn Rewards on UPI transactions with our RuPay Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Earn up to 3X Rewards on eligible UPI spends via IDFC FIRST Bank Mobile app#"
+      },
+      {
+        "type": "removed",
+        "text": "1X Reward"
+      },
+      {
+        "type": "removed",
+        "text": "on UPI Spends via any other app"
+      },
+      {
+        "type": "added",
+        "text": "Earn 3X Rewards on UPI spends above ₹2000"
+      },
+      {
+        "type": "added",
+        "text": "Earn 1X Rewards on UPI spends less than or equal to ₹2000"
+      },
+      {
+        "type": "context",
+        "text": "1X Reward"
+      },
+      {
+        "type": "context",
+        "text": "on all utility*, insurance, FASTag recharge and railway spends"
+      },
+      {
+        "type": "context",
+        "text": "0 forex markup"
+      },
+      {
+        "type": "context",
+        "text": "on international transactions"
+      },
+      {
+        "type": "removed",
+        "text": "#Reward structure for UPI spends via IDFC FIRST Bank Mobile app"
+      },
+      {
+        "type": "removed",
+        "text": "3X Reward Points on UPI spends above ₹2,000"
+      },
+      {
+        "type": "removed",
+        "text": "1X Reward Point on UPI spends of up to ₹2,000."
+      },
+      {
+        "type": "context",
+        "text": "Reward structure for FIRST Digital RuPay Credit Card linked to FIRST SWYP Credit Card:"
+      },
+      {
+        "type": "context",
+        "text": "100 Reward Points on every UPI spend of ₹5,000 in a statement month."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Payment Successful"
+      },
+      {
+        "type": "context",
+        "text": "Scan. Link. Pay."
+      },
+      {
+        "type": "removed",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
+      },
+      {
+        "type": "added",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
+      },
+      {
+        "type": "context",
+        "text": "Tap."
+      },
+      {
+        "type": "context",
+        "text": "Link. Pay."
+      },
+      {
+        "type": "removed",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
+      },
+      {
+        "type": "added",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to open PhonePe"
+      },
+      {
+        "type": "context",
+        "text": "Link Now"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Payment Successful"
+      },
+      {
+        "type": "context",
+        "text": "Scan. Link. Pay."
+      },
+      {
+        "type": "removed",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
+      },
+      {
+        "type": "added",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
+      },
+      {
+        "type": "context",
+        "text": "Tap."
+      },
+      {
+        "type": "context",
+        "text": "Link. Pay."
+      },
+      {
+        "type": "removed",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
+      },
+      {
+        "type": "added",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward point​s."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to open GPay"
+      },
+      {
+        "type": "context",
+        "text": "Link Now"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Payment Successful"
+      },
+      {
+        "type": "context",
+        "text": "Scan. Link. Pay."
+      },
+      {
+        "type": "removed",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
+      },
+      {
+        "type": "added",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward point​s."
+      },
+      {
+        "type": "context",
+        "text": "Tap."
+      },
+      {
+        "type": "context",
+        "text": "Link. Pay. ."
+      },
+      {
+        "type": "removed",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
+      },
+      {
+        "type": "added",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to open Paytm"
+      },
+      {
+        "type": "context",
+        "text": "Link Now"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Explore smart credit card features—rewards, zero fees, EMI options, and more."
+      },
+      {
+        "type": "context",
+        "text": "Read More"
+      },
+      {
+        "type": "removed",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "type": "added",
+        "text": "Frequently Asked Questions,Frequently Asked Questions"
+      },
+      {
+        "type": "context",
+        "text": "What is a FIRST Digital RuPay Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "The FIRST Digital RuPay Credit Card is a new digital credit card issued against your existing IDFC FIRST Bank credit cards for enabling UPI transactions."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Yes, you'll earn reward points based on the Credit Card type and transaction amount. Some exceptions apply, such as fuel, cash and EMI transactions. Reward points can be redeemed only through the primary Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Reward structure for FIRST Digital UPI Card linked to FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW!, FIRST Private, Ashva, Mayura, Diamond Reserve, FIRST Business & Business Multiplier Credit Card:"
+      },
+      {
+        "type": "removed",
+        "text": "Reward on eligible UPI spends via IDFC FIRST Bank Mobile app (Excl SWYP & Gaj:) :​​"
+      },
+      {
+        "type": "removed",
+        "text": "3X Reward Points on UPI transaction > ₹2,000​"
+      },
+      {
+        "type": "removed",
+        "text": "1X Reward Point on UPI transaction <= ₹2,000​"
+      },
+      {
+        "type": "removed",
+        "text": "​Reward on UPI via any other UPI app:​"
+      },
+      {
+        "type": "removed",
+        "text": "1X Reward Point on UPI transaction​"
+      },
+      {
+        "type": "removed",
+        "text": "​1X Reward on Insurance, Utility, FASTag recharge & Railway spends.​"
+      },
+      {
+        "type": "added",
+        "text": "• 3X rewards on UPI purchases greater than ₹2,000.​"
+      },
+      {
+        "type": "added",
+        "text": "• 1X Reward on all UPI purchases less than or equal to ₹2,000​​"
+      },
+      {
+        "type": "added",
+        "text": "• 1X Reward on Insurance, Utility, FASTag recharge & Railway spends.​"
+      },
+      {
+        "type": "context",
+        "text": "​*3X reward on Utility spends via IDFC FIRST Bank Mobile app on FIRST Private Credit Card​"
+      },
+      {
+        "type": "context",
+        "text": "1X = 1 reward point per X* spend | where X is ₹200 for FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW! & Business Multiplier Credit Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "• 1X Reward point on UPI spends, i.e. Earn 1 Reward Point per ₹150 UPI Spends"
+      },
+      {
+        "type": "context",
+        "text": "1 Reward point = ₹ 0.25"
+      },
+      {
+        "type": "removed",
+        "text": "Rewards on international spends through UPI shall be same as primary credit card's rewards structure for international spends."
+      },
+      {
+        "type": "context",
+        "text": "For all Credit Cards, please note."
+      },
+      {
+        "type": "context",
+        "text": "• Reward program is not applicable on Fuel (MCC 5172, 5541, 5542, 5983), Cash (MCC 6010, 6011,7280) & EMI transactions."
+      },
+      {
+        "type": "context",
+        "text": "• UPI transactions will not be a part of 10X rewards programme and 10X threshold calculations for all cards (Except Ashva and Mayura) and Monthly Milestone rewards for FIRST SWYP Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "• Reward earned on FIRST Digital Credit Card is added to linked Primary Credit Card Reward account. Reward redemption to be done through the same Primary account only."
+      },
+      {
+        "type": "removed",
+        "text": "• Zero rewards on International Spends through FIRST Digital RuPay Credit Card​"
+      },
+      {
+        "type": "context",
+        "text": "On which UPI apps can I register my FIRST Digital RuPay Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "You can link your FIRST Digital RuPay Credit Card on all UPI apps such as:"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "The daily UPI transaction limit for RuPay credit cards is ₹1,00,000, as per NPCI guidelines. However, IDFC FIRST Bank may set specific internal limits based on your credit profile. Additionally, some UPI apps may impose their own transaction limits for credit card usage via UPI. Always refer to your card’s terms and your app settings for the most accurate information."
+      },
+      {
+        "type": "context",
+        "text": "What are the cashback offers on the FIRST Digital RuPay credit card?"
+      },
+      {
+        "type": "removed",
+        "text": "The FIRST Digital RuPay Credit Card by IDFC FIRST Bank offers attractive cashback and reward benefits. The RuPay credit card provides up to 3X reward points on eligible UPI spends via the IDFC FIRST Bank mobile app.​"
+      },
+      {
+        "type": "added",
+        "text": "The FIRST Digital RuPay Credit Card by IDFC FIRST Bank offers attractive cashback and reward benefits. The RuPay credit card provides up to 3X reward points on eligible UPI spends.​"
+      },
+      {
+        "type": "context",
+        "text": "What is a digital-only RuPay credit card?"
+      },
+      {
+        "type": "context",
+        "text": "A digital-only RuPay credit card exists in a completely virtual format. Upon approval, users receive their card details via secure channels without physical card delivery. These cards are designed for use on mobile wallets, UPI apps, and online platforms. The IDFC FIRST Bank Digital RuPay Credit Card is a prime example, offering full functionality across UPI, POS, and contactless ecosystems without requiring a physical card."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Reward rates for UPI spends updated to 3X above ₹2000 and 1X below or equal ₹2000"
+    }
+  },
+  {
+    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
+    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-21T09:00:43.622Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
+      },
+      {
+        "type": "context",
+        "text": "on spends of ₹15K in the first 30 days of card generation."
+      },
+      {
+        "type": "removed",
+        "text": "Offer Period:1 st June 2026 to 31 st August 2026"
+      },
+      {
+        "type": "added",
+        "text": "Offer Period:1 st June 2026 to 30 th September 2026"
+      },
+      {
+        "type": "context",
+        "text": "T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "Earn IndiGo BluChips on"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
+      },
+      {
+        "type": "context",
+        "text": "on spends of ₹15,000 in the first 30 days of card generation."
+      },
+      {
+        "type": "removed",
+        "text": "Offer Period: 1 st June 2026 to 31 st August 2026"
+      },
+      {
+        "type": "added",
+        "text": "Offer Period: 1 st June 2026 to 30 th September 2026"
+      },
+      {
+        "type": "context",
+        "text": "T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "Global reach + UPI with ease"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-emeralde-credit-card",
+    "cardName": "ICICI Bank Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/article/news-icici-bank-launches-new-superpremium-credit-card-emeralde-with-host-of-exclusive-features-annual-benefits-estimated-to-be-around-rs-3-lakh-20192802121546057",
+    "status": "Active",
+    "detectedAt": "2026-09-21T09:00:10.955Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "For other terms and conditions,  click here ."
+      },
+      {
+        "type": "context",
+        "text": "How can I claim my Birthday benefit vouchers?"
+      },
+      {
+        "type": "removed",
+        "text": "Step 1: Log into ICICI Bank Rewards"
+      },
+      {
+        "type": "context",
+        "text": "iMobile App:"
+      },
+      {
+        "type": "removed",
+        "text": "Login🡪 Cards & Forex🡪 Select Credit Card🡪 Redeem 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Joining/Milestone/Annual"
+      },
+      {
+        "type": "added",
+        "text": "Login🡪 Cards & Forex🡪 Select Credit Card🡪 Redeem 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Birthday benefits"
+      },
+      {
+        "type": "context",
+        "text": "Internet Banking:"
+      },
+      {
+        "type": "removed",
+        "text": "Login🡪 Cards 🡪 Credit cards 🡪 Select Credit Card 🡪 Reward points 🡪 Redeem Now 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Joining/Milestone/Annual"
+      },
+      {
+        "type": "added",
+        "text": "Login🡪 Cards 🡪 Credit cards 🡪 Select Credit Card 🡪 Reward points 🡪 Redeem Now 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Birthday benefits"
+      },
+      {
+        "type": "context",
+        "text": "How to avail Complimentary International Airport lounge access?"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Credit Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Apoorv Gupta"
+      },
+      {
+        "type": "context",
+        "text": "The ICICI Bank Platinum Credit Card is a true gem. The lifestyle benefits, including complimentary airport lounge access and travel vouchers."
+      },
+      {
+        "type": "removed",
+        "text": "Deceased Claim Settlement"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Birthday benefits added to the rewards redemption path."
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-signature-credit-card",
+    "cardName": "MakeMyTrip Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-21T09:00:10.951Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "2 mins"
+      },
+      {
+        "type": "context",
+        "text": "Read |"
+      },
+      {
+        "type": "removed",
+        "text": "3 Years 1 Month Ago"
+      },
+      {
+        "type": "added",
+        "text": "3 Years 2 Months Ago"
+      },
+      {
+        "type": "context",
+        "text": "READ NOW"
+      },
+      {
+        "type": "context",
+        "text": "What is a Credit Card: Meaning, Uses and How It Works"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "2 mins"
+      },
+      {
+        "type": "context",
+        "text": "Read |"
+      },
+      {
+        "type": "removed",
+        "text": "1 Year 5 Months Ago"
+      },
+      {
+        "type": "added",
+        "text": "1 Year 6 Months Ago"
+      },
+      {
+        "type": "context",
+        "text": "READ NOW"
+      },
+      {
+        "type": "context",
+        "text": "Explore more blogs"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated the card’s age thresholds for certain benefits to longer periods."
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-credit-card",
+    "cardName": "Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-21T09:00:10.948Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "For other terms and conditions,  click here ."
+      },
+      {
+        "type": "context",
+        "text": "How can I claim my Birthday benefit vouchers?"
+      },
+      {
+        "type": "removed",
+        "text": "Step 1: Log into ICICI Bank Rewards"
+      },
+      {
+        "type": "context",
+        "text": "iMobile App:"
+      },
+      {
+        "type": "removed",
+        "text": "Login🡪 Cards & Forex🡪 Select Credit Card🡪 Redeem 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Joining/Milestone/Annual"
+      },
+      {
+        "type": "added",
+        "text": "Login🡪 Cards & Forex🡪 Select Credit Card🡪 Redeem 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Birthday benefits"
+      },
+      {
+        "type": "context",
+        "text": "Internet Banking:"
+      },
+      {
+        "type": "removed",
+        "text": "Login🡪 Cards 🡪 Credit cards 🡪 Select Credit Card 🡪 Reward points 🡪 Redeem Now 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Joining/Milestone/Annual"
+      },
+      {
+        "type": "added",
+        "text": "Login🡪 Cards 🡪 Credit cards 🡪 Select Credit Card 🡪 Reward points 🡪 Redeem Now 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Birthday benefits"
+      },
+      {
+        "type": "context",
+        "text": "How to avail Complimentary International Airport lounge access?"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Credit Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Apoorv Gupta"
+      },
+      {
+        "type": "context",
+        "text": "The ICICI Bank Platinum Credit Card is a true gem. The lifestyle benefits, including complimentary airport lounge access and travel vouchers."
+      },
+      {
+        "type": "removed",
+        "text": "Deceased Claim Settlement"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added Birthday benefits to reward redemption."
+    }
+  },
+  {
+    "id": "hdfc-bank-regalia-activ-credit-card",
+    "cardName": "Regalia Activ Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/regalia-activ-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-21T08:58:34.175Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Regalia Activ Credit Card – Premium Rewards & Travel Benefits | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "context",
+        "text": "Regalia Activ Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Regalia Activ Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Airmiles conversion through netbanking at a value of 1RP = ₹0.5 airmile"
+      },
+      {
+        "type": "context",
+        "text": "Products and Vouchers via Netbanking or SmartBuy at a value of 1 RP = up to ₹0.35"
+      },
+      {
+        "type": "removed",
+        "text": "CashBack at a value of 1 RP = ₹0.20"
+      },
+      {
+        "type": "added",
+        "text": "CashBack at a value of 1 RP = ₹0.15"
+      },
+      {
+        "type": "context",
+        "text": "Click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Contactless Payment"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "In case of multiple Priority Passes, how will lounge access be assigned to all respective persons?"
+      },
+      {
+        "type": "context",
+        "text": "Priority pass will have name printed on the card to differentiate."
+      },
+      {
+        "type": "added",
+        "text": "Electronics"
+      },
+      {
+        "type": "added",
+        "text": "Travel"
+      },
+      {
+        "type": "added",
+        "text": "Apparel and Accessories"
+      },
+      {
+        "type": "added",
+        "text": "Retail Stores"
+      },
+      {
+        "type": "added",
+        "text": "Entertainment"
+      },
+      {
+        "type": "added",
+        "text": "Dining"
+      },
+      {
+        "type": "added",
+        "text": "Jewellery"
+      },
+      {
+        "type": "added",
+        "text": "Home and Decor"
+      },
+      {
+        "type": "added",
+        "text": "Personal Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Miscellaneous Stores"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Cashback reward rate changed to ₹0.15 per RP"
+    }
+  },
+  {
     "id": "idfc-first-bank-first-power",
     "cardName": "FIRST Power+",
     "issuerName": "IDFC First Bank",
@@ -3332,90 +4148,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-first-digital-virtual-upi",
-    "cardName": "FIRST Digital (Virtual UPI)",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/rupay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-12T08:01:31.822Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Explore smart credit card features—rewards, zero fees, EMI options, and more."
-      },
-      {
-        "type": "context",
-        "text": "Read More"
-      },
-      {
-        "type": "removed",
-        "text": "Frequently Asked Questions,Frequently Asked Questions"
-      },
-      {
-        "type": "added",
-        "text": "Frequently Asked Questions"
-      },
-      {
-        "type": "context",
-        "text": "What is a FIRST Digital RuPay Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The FIRST Digital RuPay Credit Card is a new digital credit card issued against your existing IDFC FIRST Bank credit cards for enabling UPI transactions."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward structure for FIRST Digital UPI Cards linked to FIRST SWYP Credit Card:"
-      },
-      {
-        "type": "context",
-        "text": "• 100 Reward points on UPI spends of ₹5,000 or more every statement."
-      },
-      {
-        "type": "removed",
-        "text": "Rewards on international spends through UPI shall be same as primary credit card's rewards structure for international spends."
-      },
-      {
-        "type": "added",
-        "text": "Rewards structure for FIRST Digital UPI Card linked to Gaj: Credit Card :"
-      },
-      {
-        "type": "context",
-        "text": "• 1X Reward point on UPI spends, i.e. Earn 1 Reward Point per ₹150 UPI Spends"
-      },
-      {
-        "type": "context",
-        "text": "1 Reward point = ₹ 0.25"
-      },
-      {
-        "type": "added",
-        "text": "Rewards on international spends through UPI shall be same as primary credit card's rewards structure for international spends."
-      },
-      {
-        "type": "context",
-        "text": "For all Credit Cards, please note."
-      },
-      {
-        "type": "context",
-        "text": "• Reward program is not applicable on Fuel (MCC 5172, 5541, 5542, 5983), Cash (MCC 6010, 6011,7280) & EMI transactions."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a heading for the rewards structure of the FIRST Digital UPI Card linked to Gaj: Credit Card, including the same reward clause."
-    }
-  },
-  {
     "id": "hdfc-bank-platinum-times-credit-card",
     "cardName": "Platinum Times Credit Card",
     "issuerName": "HDFC Bank",
@@ -5416,210 +6148,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
-    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.685Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Acceptance"
-      },
-      {
-        "type": "context",
-        "text": "Domestic and international acceptance for payments with dual-network flexibility"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy seamless international"
-      },
-      {
-        "type": "removed",
-        "text": "spending"
-      },
-      {
-        "type": "removed",
-        "text": "With a low forex markup of just 1.49%"
-      },
-      {
-        "type": "added",
-        "text": "0% Forex Markup on global spends"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy seamless international spending with zero forex markup​"
-      },
-      {
-        "type": "context",
-        "text": "Compare your options"
-      },
-      {
-        "type": "context",
-        "text": "₹4,999 Joining fee"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Vouchers of up 25,000 BluChips, every year"
-      },
-      {
-        "type": "context",
-        "text": "Forex markup"
-      },
-      {
-        "type": "removed",
-        "text": "1.49%"
-      },
-      {
-        "type": "added",
-        "text": "0%"
-      },
-      {
-        "type": "context",
-        "text": "Trip cancellation cover"
-      },
-      {
-        "type": "context",
-        "text": "See More"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "IndiGo Flights"
-      },
-      {
-        "type": "context",
-        "text": "Use IndiGo BluChips for flight tickets."
-      },
-      {
-        "type": "removed",
-        "text": "1.49% Forex"
-      },
-      {
-        "type": "removed",
-        "text": "Markup"
-      },
-      {
-        "type": "removed",
-        "text": "Travel abroad and spend affordably with a low Forex Markup of just 1.49%"
-      },
-      {
-        "type": "added",
-        "text": "0% Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Travel abroad and spend affordably with zero forex markup​"
-      },
-      {
-        "type": "context",
-        "text": "Trip Cancellation"
-      },
-      {
-        "type": "context",
-        "text": "Cover"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "What is unique about the IndiGo IDFC FIRST Dual Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The IndiGo IDFC FIRST Credit Card stands out as a unique airline co-brand travel proposition, where customers can either apply traditionally or pledge a fixed deposit of ₹1 lakh to get started."
-      },
-      {
-        "type": "removed",
-        "text": "What makes this card truly unique is its dual card advantage: it combines the global acceptance of Mastercard with a low forex markup of just 1.49%, alongside the convenience of RuPay for seamless UPI transactions."
-      },
-      {
-        "type": "added",
-        "text": "What makes this card truly unique is its dual card advantage: it combines the global acceptance of Mastercard with a zero forex markup of just 1.49%, alongside the convenience of RuPay for seamless UPI transactions."
-      },
-      {
-        "type": "context",
-        "text": "The unified rewards program allows customers to earn accelerated 6E Rewards (IndiGo BluChips) across all spends, which can be redeemed for flights."
-      },
-      {
-        "type": "context",
-        "text": "Additionally, customers can boost their rewards further through early activation bonuses and annual milestone benefits, making it a powerful, travel-friendly card tailored to a range of spending styles."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Know more:  https://www.goindigo.in/loyalty/terms-and-conditions.html ​"
-      },
-      {
-        "type": "context",
-        "text": "Please Note: No IndiGo BluChips will be rewarded on cash transactions and transactions converted to EMI"
-      },
-      {
-        "type": "added",
-        "text": "Effective26th October 2026, earn 1IndiGo BluChip on every ₹100spent on internationalpurchases"
-      },
-      {
-        "type": "context",
-        "text": "Are there any exclusions on earning IndiGo BluChips?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, IndiGo BluChips will not be rewarded on cash transactions and transactions converted to EMI"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "No, there is no difference in the benefits of earning IndiGo BluChips except for, joining fee benefits for which FD backed card holders would not be eligible."
-      },
-      {
-        "type": "context",
-        "text": "What is the forex mark-up on IndiGo IDFC FIRST Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "The forex mark-up fee on the IndiGo IDFC FIRST Credit Card is competitively set at 1.49%"
-      },
-      {
-        "type": "added",
-        "text": "You enjoy 0% forex markup with the IndiGo IDFC FIRST Credit Card​"
-      },
-      {
-        "type": "context",
-        "text": "Can I avail Golf benefit on IndiGo IDFC FIRST Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, as part of the Mastercard Network benefits, you can avail golf offers with your IndiGo IDFC FIRST Credit Card. This includes:"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "The card’s foreign‑currency markup was reduced from 1.49% to 0%."
-    }
-  },
-  {
     "id": "idfc-first-bank-ashva-metal-card",
     "cardName": "Ashva Metal Card",
     "issuerName": "IDFC First Bank",
@@ -7192,102 +7720,6 @@
     "summary": "Changed lounge benefit to domestic only, adding a link to lounge list"
   },
   {
-    "id": "icici-bank-makemytrip-signature-credit-card",
-    "cardName": "MakeMyTrip Signature Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/signature-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-09-02T07:59:11.555Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Membership"
-      },
-      {
-        "type": "context",
-        "text": "MMTBLACK Platinum Tier Membership"
-      },
-      {
-        "type": "removed",
-        "text": "International Airport Lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "Get 1 Complimentary International Airport Lounge Access Annually"
-      },
-      {
-        "type": "removed",
-        "text": "Domestic Airport Lounge Access"
-      },
-      {
-        "type": "removed",
-        "text": "Get 8 Domestic Airport Lounge Access"
-      },
-      {
-        "type": "added",
-        "text": "Annually"
-      },
-      {
-        "type": "added",
-        "text": "Get 1 Complimentary International Airport Lounge Access,  Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Annually"
-      },
-      {
-        "type": "added",
-        "text": "Get 8 Domestic Airport Lounge Access,  Click here for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Railway Lounge Access"
-      },
-      {
-        "type": "context",
-        "text": "Get 1 complimentary Railway Lounge Access quarterly,  Click here for lounge list"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "2 mins"
-      },
-      {
-        "type": "context",
-        "text": "Read |"
-      },
-      {
-        "type": "removed",
-        "text": "1 Year 4 Months Ago"
-      },
-      {
-        "type": "added",
-        "text": "1 Year 5 Months Ago"
-      },
-      {
-        "type": "context",
-        "text": "READ NOW"
-      },
-      {
-        "type": "context",
-        "text": "Explore more blogs"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a link to the lounge list for the International and Domestic Airport Lounge Access benefit."
-    }
-  },
-  {
     "id": "icici-bank-hpcl-super-saver-credit-card",
     "cardName": "HPCL Super Saver Credit Card",
     "issuerName": "ICICI Bank",
@@ -8499,146 +8931,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated lounge access benefit wording to include a link to the lounge list"
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-credit-card",
-    "cardName": "Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-01T08:45:48.402Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank Emeralde Credit Card - Experience Premium Privileges"
-      },
-      {
-        "type": "added",
-        "text": "ICICI Bank"
-      },
-      {
-        "type": "added",
-        "text": "Open NRE/NRO accounts to manage your banking"
-      },
-      {
-        "type": "added",
-        "text": "FDs offer stable returns for your dreams"
-      },
-      {
-        "type": "added",
-        "text": "Portfolio Investment Scheme"
-      },
-      {
-        "type": "added",
-        "text": "Enables NRIs to purchase and sell shares"
-      },
-      {
-        "type": "added",
-        "text": "Cost-effective online money transfer service"
-      },
-      {
-        "type": "added",
-        "text": "Transfer now"
-      },
-      {
-        "type": "added",
-        "text": "Avail digital sanction in 5 simple steps"
-      },
-      {
-        "type": "added",
-        "text": "Get complete control of your bank account"
-      },
-      {
-        "type": "added",
-        "text": "Login now"
-      },
-      {
-        "type": "added",
-        "text": "A one-stop knowledge hub"
-      },
-      {
-        "type": "added",
-        "text": "Visit now"
-      },
-      {
-        "type": "context",
-        "text": "Fees and Chargs"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Parakram Select Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Credit Card: Maximum Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Unlimited access"
-      },
-      {
-        "type": "removed",
-        "text": "Get access to international and domestic airport lounges for the primary Cardholder. Click here for domestic lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Unlimited access"
-      },
-      {
-        "type": "added",
-        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Up to 4 rounds"
-      },
-      {
-        "type": "context",
-        "text": "Get complimentary golf rounds every month basis eligible spends,  Click here for list of Golf Courses"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Check your Booking History to view all bookings and details."
-      },
-      {
-        "type": "context",
-        "text": "You may also call i-Assist, our 24X7 concierge service on 1800 26 70731 (toll free for MTNL/BSNL lines) or 022 6787 2016 (standard call charges applicable), for assistance with online booking. An authorisation amount of ₹2 shall be taken for each eligible Card."
-      },
-      {
-        "type": "added",
-        "text": "For step-by-step instructions on the booking process, click here"
-      },
-      {
-        "type": "context",
-        "text": "How to redeem Credit Card points for rewards?"
-      },
-      {
-        "type": "context",
-        "text": "You can experience seamless redemption of reward points with ICICI Bank. First, log into ICICI Bank Net Banking > Cards > Credit Cards > Redeem or the ICICI Bank's iMobile app iMobile > cards & forex > Select Credit Cards > Redeem, you can redeem your ICICI Bank reward points across multiple categories such as electronics, lifestyle, luxury, shopping and travel."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated lounge access benefit wording for the Primary Cardholder"
     }
   },
   {

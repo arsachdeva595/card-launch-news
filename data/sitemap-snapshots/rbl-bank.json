@@ -631,7 +631,6 @@
     "https://www.rbl.bank.in/locate-us/chandigarh-atm",
     "https://www.rbl.bank.in/locate-us/raipur-atm",
     "https://www.rbl.bank.in/locate-us/silvassa-atm",
-    "https://www.rbl.bank.in/locate-us/mahipalpur-atm",
     "https://www.rbl.bank.in/locate-us/punjabi-baug-atm",
     "https://www.rbl.bank.in/locate-us/janakpuri-atm",
     "https://www.rbl.bank.in/locate-us/mayur-vihar-phase-ii-atm",
@@ -1662,6 +1661,8 @@
     "https://www.rbl.bank.in/locate-us/paota-jodhpur-atm",
     "https://www.rbl.bank.in/locate-us/noida-sector-110-atm",
     "https://www.rbl.bank.in/locate-us/vidhdhydhar-nagar-jaipur-atm",
+    "https://www.rbl.bank.in/locate-us/sonipat-atm",
+    "https://www.rbl.bank.in/locate-us/lashkar-gwalior-atm",
     "https://www.rbl.bank.in/locate-us",
     "https://www.rbl.bank.in/about-us/leadership-team",
     "https://www.rbl.bank.in/nri-banking",
@@ -1978,5 +1979,5 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/financial-markets-and-treasury/forex-and-bullion",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/wholesale-client-services"
   ],
-  "updatedAt": "2026-09-21T08:55:01.884Z"
+  "updatedAt": "2026-09-22T08:31:45.247Z"
 }

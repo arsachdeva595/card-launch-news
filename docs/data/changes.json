@@ -7,310 +7,18 @@
     "officialUrl": "https://www.idfcfirst.bank.in/",
     "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/rupay-credit-card",
     "status": "Active",
-    "detectedAt": "2026-09-21T09:00:43.629Z",
+    "detectedAt": "2026-09-22T08:38:35.600Z",
     "diffHunks": [
       {
         "type": "context",
-        "text": "Introductory offer - 100% cashback of up to ₹200*"
-      },
-      {
-        "type": "context",
-        "text": "Digital RuPay Credit Card for UPI: Credit Meets Daily UPI Payments"
-      },
-      {
-        "type": "removed",
-        "text": "Embrace the power of digital payments with the FIRST Digital RuPay Credit Card. Linked directly to UPI, this virtual card lets you enjoy effortless scan-and-pay transactions, online purchases, and instant rewards. With the card being entirely digital, it offers upto 3X reward point on selected UPI payments and comes pooled with your existing IDFC FIRST Bank Credit Cards in terms of credit limit and rewards. Perfect for trend-savvy users, it ensures that your payments are faster, smarter, and more rewarding."
-      },
-      {
-        "type": "added",
-        "text": "Embrace the power of digital payments with the FIRST Digital RuPay Credit Card. Linked directly to UPI, this virtual card lets you enjoy effortless scan-and-pay transactions, online purchases, and instant rewards. With the card being entirely digital, it offers upto 3X reward point on UPI payments and comes pooled with your existing IDFC FIRST Bank Credit Cards in terms of credit limit and rewards. Perfect for trend-savvy users, it ensures that your payments are faster, smarter, and more rewarding."
-      },
-      {
-        "type": "context",
-        "text": "Features of FIRST Digital RuPay Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Here’s what makes it unique"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "(no physical card will be issued)"
-      },
-      {
-        "type": "context",
-        "text": "Earn Rewards on UPI transactions with our RuPay Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Earn up to 3X Rewards on eligible UPI spends via IDFC FIRST Bank Mobile app#"
-      },
-      {
-        "type": "removed",
-        "text": "1X Reward"
-      },
-      {
-        "type": "removed",
-        "text": "on UPI Spends via any other app"
-      },
-      {
-        "type": "added",
-        "text": "Earn 3X Rewards on UPI spends above ₹2000"
-      },
-      {
-        "type": "added",
-        "text": "Earn 1X Rewards on UPI spends less than or equal to ₹2000"
-      },
-      {
-        "type": "context",
-        "text": "1X Reward"
-      },
-      {
-        "type": "context",
-        "text": "on all utility*, insurance, FASTag recharge and railway spends"
-      },
-      {
-        "type": "context",
-        "text": "0 forex markup"
-      },
-      {
-        "type": "context",
-        "text": "on international transactions"
-      },
-      {
-        "type": "removed",
-        "text": "#Reward structure for UPI spends via IDFC FIRST Bank Mobile app"
-      },
-      {
-        "type": "removed",
-        "text": "3X Reward Points on UPI spends above ₹2,000"
-      },
-      {
-        "type": "removed",
-        "text": "1X Reward Point on UPI spends of up to ₹2,000."
-      },
-      {
-        "type": "context",
-        "text": "Reward structure for FIRST Digital RuPay Credit Card linked to FIRST SWYP Credit Card:"
-      },
-      {
-        "type": "context",
-        "text": "100 Reward Points on every UPI spend of ₹5,000 in a statement month."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Payment Successful"
-      },
-      {
-        "type": "context",
-        "text": "Scan. Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
-      },
-      {
-        "type": "context",
-        "text": "Tap."
-      },
-      {
-        "type": "context",
-        "text": "Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
-      },
-      {
-        "type": "context",
-        "text": "Scan the QR code to open PhonePe"
-      },
-      {
-        "type": "context",
-        "text": "Link Now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Payment Successful"
-      },
-      {
-        "type": "context",
-        "text": "Scan. Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
-      },
-      {
-        "type": "context",
-        "text": "Tap."
-      },
-      {
-        "type": "context",
-        "text": "Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward point​s."
-      },
-      {
-        "type": "context",
-        "text": "Scan the QR code to open GPay"
-      },
-      {
-        "type": "context",
-        "text": "Link Now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Payment Successful"
-      },
-      {
-        "type": "context",
-        "text": "Scan. Link. Pay."
-      },
-      {
-        "type": "removed",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward point​s."
-      },
-      {
-        "type": "context",
-        "text": "Tap."
-      },
-      {
-        "type": "context",
-        "text": "Link. Pay. ."
-      },
-      {
-        "type": "removed",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 1X reward point​."
-      },
-      {
-        "type": "added",
-        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
-      },
-      {
-        "type": "context",
-        "text": "Scan the QR code to open Paytm"
-      },
-      {
-        "type": "context",
-        "text": "Link Now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Explore smart credit card features—rewards, zero fees, EMI options, and more."
-      },
-      {
-        "type": "context",
-        "text": "Read More"
-      },
-      {
-        "type": "removed",
-        "text": "Frequently Asked Questions"
-      },
-      {
-        "type": "added",
-        "text": "Frequently Asked Questions,Frequently Asked Questions"
-      },
-      {
-        "type": "context",
-        "text": "What is a FIRST Digital RuPay Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The FIRST Digital RuPay Credit Card is a new digital credit card issued against your existing IDFC FIRST Bank credit cards for enabling UPI transactions."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Yes, you'll earn reward points based on the Credit Card type and transaction amount. Some exceptions apply, such as fuel, cash and EMI transactions. Reward points can be redeemed only through the primary Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Reward structure for FIRST Digital UPI Card linked to FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW!, FIRST Private, Ashva, Mayura, Diamond Reserve, FIRST Business & Business Multiplier Credit Card:"
-      },
-      {
-        "type": "removed",
-        "text": "Reward on eligible UPI spends via IDFC FIRST Bank Mobile app (Excl SWYP & Gaj:) :​​"
-      },
-      {
-        "type": "removed",
-        "text": "3X Reward Points on UPI transaction > ₹2,000​"
-      },
-      {
-        "type": "removed",
-        "text": "1X Reward Point on UPI transaction <= ₹2,000​"
-      },
-      {
-        "type": "removed",
-        "text": "​Reward on UPI via any other UPI app:​"
-      },
-      {
-        "type": "removed",
-        "text": "1X Reward Point on UPI transaction​"
-      },
-      {
-        "type": "removed",
-        "text": "​1X Reward on Insurance, Utility, FASTag recharge & Railway spends.​"
-      },
-      {
-        "type": "added",
-        "text": "• 3X rewards on UPI purchases greater than ₹2,000.​"
-      },
-      {
-        "type": "added",
         "text": "• 1X Reward on all UPI purchases less than or equal to ₹2,000​​"
       },
       {
-        "type": "added",
+        "type": "context",
         "text": "• 1X Reward on Insurance, Utility, FASTag recharge & Railway spends.​"
       },
       {
-        "type": "context",
+        "type": "removed",
         "text": "​*3X reward on Utility spends via IDFC FIRST Bank Mobile app on FIRST Private Credit Card​"
       },
       {
@@ -318,76 +26,8 @@
         "text": "1X = 1 reward point per X* spend | where X is ₹200 for FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW! & Business Multiplier Credit Card."
       },
       {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
         "type": "context",
-        "text": "• 1X Reward point on UPI spends, i.e. Earn 1 Reward Point per ₹150 UPI Spends"
-      },
-      {
-        "type": "context",
-        "text": "1 Reward point = ₹ 0.25"
-      },
-      {
-        "type": "removed",
-        "text": "Rewards on international spends through UPI shall be same as primary credit card's rewards structure for international spends."
-      },
-      {
-        "type": "context",
-        "text": "For all Credit Cards, please note."
-      },
-      {
-        "type": "context",
-        "text": "• Reward program is not applicable on Fuel (MCC 5172, 5541, 5542, 5983), Cash (MCC 6010, 6011,7280) & EMI transactions."
-      },
-      {
-        "type": "context",
-        "text": "• UPI transactions will not be a part of 10X rewards programme and 10X threshold calculations for all cards (Except Ashva and Mayura) and Monthly Milestone rewards for FIRST SWYP Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "• Reward earned on FIRST Digital Credit Card is added to linked Primary Credit Card Reward account. Reward redemption to be done through the same Primary account only."
-      },
-      {
-        "type": "removed",
-        "text": "• Zero rewards on International Spends through FIRST Digital RuPay Credit Card​"
-      },
-      {
-        "type": "context",
-        "text": "On which UPI apps can I register my FIRST Digital RuPay Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "You can link your FIRST Digital RuPay Credit Card on all UPI apps such as:"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "The daily UPI transaction limit for RuPay credit cards is ₹1,00,000, as per NPCI guidelines. However, IDFC FIRST Bank may set specific internal limits based on your credit profile. Additionally, some UPI apps may impose their own transaction limits for credit card usage via UPI. Always refer to your card’s terms and your app settings for the most accurate information."
-      },
-      {
-        "type": "context",
-        "text": "What are the cashback offers on the FIRST Digital RuPay credit card?"
-      },
-      {
-        "type": "removed",
-        "text": "The FIRST Digital RuPay Credit Card by IDFC FIRST Bank offers attractive cashback and reward benefits. The RuPay credit card provides up to 3X reward points on eligible UPI spends via the IDFC FIRST Bank mobile app.​"
-      },
-      {
-        "type": "added",
-        "text": "The FIRST Digital RuPay Credit Card by IDFC FIRST Bank offers attractive cashback and reward benefits. The RuPay credit card provides up to 3X reward points on eligible UPI spends.​"
-      },
-      {
-        "type": "context",
-        "text": "What is a digital-only RuPay credit card?"
-      },
-      {
-        "type": "context",
-        "text": "A digital-only RuPay credit card exists in a completely virtual format. Upon approval, users receive their card details via secure channels without physical card delivery. These cards are designed for use on mobile wallets, UPI apps, and online platforms. The IDFC FIRST Bank Digital RuPay Credit Card is a prime example, offering full functionality across UPI, POS, and contactless ecosystems without requiring a physical card."
+        "text": "For FIRST Private, Ashva , Mayura , Diamond Reserve, FIRST WOW! Black  & FIRST Business Credit Card X is ₹150"
       }
     ],
     "community": {
@@ -396,7 +36,491 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Reward rates for UPI spends updated to 3X above ₹2000 and 1X below or equal ₹2000"
+      "candidateSummary": "3X reward on Utility spends via IDFC FIRST Bank Mobile app on FIRST Private Credit Card removed."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-swyp",
+    "cardName": "FIRST SWYP",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/swyp-emi-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-22T08:38:35.595Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Gift Voucher worth ₹500 on spends of ₹5000 and above in first 30 days"
+      },
+      {
+        "type": "context",
+        "text": "Lenskart Gold Max Membership for 1 year"
+      },
+      {
+        "type": "removed",
+        "text": "Instant discount of up to ₹2100 (₹700 per month) on flight or hotel bookings, every month, for first 3 months"
+      },
+      {
+        "type": "added",
+        "text": "Reward points worth ₹250 , unlocked on your first EMI Transaction done within 30 days​"
+      },
+      {
+        "type": "context",
+        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
+      },
+      {
+        "type": "context",
+        "text": "Instant discount worth ₹1,500 on hotel and flight bookings"
+      },
+      {
+        "type": "context",
+        "text": "Gift Voucher worth ₹500 on spends of ₹5000 and above in first 30 days"
+      },
+      {
+        "type": "removed",
+        "text": "Instant discount of up to ₹2100 (₹700 per month) on flight or hotel bookings, every month, for first 3 months"
+      },
+      {
+        "type": "added",
+        "text": "Reward points worth ₹250 , unlocked on your first EMI Transaction done within 30 days​"
+      },
+      {
+        "type": "context",
+        "text": "Lenskart Gold Max Membership for 1 year"
+      },
+      {
+        "type": "context",
+        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a ₹250 reward points welcome benefit unlocked on first EMI transaction within 30 days"
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-rupay-cashback-credit-card",
+    "cardName": "HSBC RuPay Cashback Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/rupay-cashback-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-09-22T08:36:52.953Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Choose our RuPay Cashback Credit Card to enjoy"
+      },
+      {
+        "type": "context",
+        "text": "0% forex mark-up"
+      },
+      {
+        "type": "removed",
+        "text": "Save when you spend abroad, with 0% FX mark-up on your transactions until 31 August 2026. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "added",
+        "text": "Save when you spend abroad, with 0% FX mark-up on your transactions until 31 December 2026. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "context",
+        "text": "UPI integration"
+      },
+      {
+        "type": "context",
+        "text": "Link your credit card to UPI apps and enjoy easy direct payments with your card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get exclusive discounts and offers with RuPay"
+      },
+      {
+        "type": "context",
+        "text": "Save on shopping, dinning and more with a range of offers and discounts exclusively for RuPay cardholders. Learn more about RuPay offers ."
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy money off your bills with Paytm"
+      },
+      {
+        "type": "removed",
+        "text": "Use promo code HSBCRUPAY to get 5% off transactions of INR299 or more on mobile (prepaid and postpaid), broadband, DTH, water bills, gas cylinders, piped gas bills, FASTag and electricity bills (max discount INR150). T&Cs apply (PDF) ."
+      },
+      {
+        "type": "context",
+        "text": "Enjoy discounts and ofers around the world with the JCB network"
+      },
+      {
+        "type": "context",
+        "text": "Access global discounts, offers and experiences with your JCB network-enabled RuPay credit card. View JCB network offers ."
+      },
+      {
+        "type": "removed",
+        "text": "Cleartrip"
+      },
+      {
+        "type": "removed",
+        "text": "Get discounts up to INR6,000 on flights and hotels via Cleartrip. Use coupon code HSBCRPCC for full swipe transactions and HSBCRPEMI for EMI transactions. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "context",
+        "text": "What you need to know"
+      },
+      {
+        "type": "context",
+        "text": "To apply, you must:"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-taj-credit-card",
+    "cardName": "HSBC Taj Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
+    "status": "Active",
+    "detectedAt": "2026-09-22T08:36:52.952Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Your HSBC Taj Credit Card also gives you"
+      },
+      {
+        "type": "context",
+        "text": "Get 14X Points at Unicorn"
+      },
+      {
+        "type": "removed",
+        "text": "Earn 21 Points per INR100 on Apple purchases via the HSBC Unicorn portal. T&Cs apply (PDF)"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 6X reward points on newly launched apple products and 14X reward points on existing Apple product purchases via the HSBC Unicorn portal. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Save up to 19% on EMI purchases"
+      },
+      {
+        "type": "context",
+        "text": "Get up to 19% off on EMI Apple purchases via the HSBC Unicorn portal. T&Cs apply (PDF)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
+      },
+      {
+        "type": "context",
+        "text": "T&Cs apply (PDF)"
+      },
+      {
+        "type": "removed",
+        "text": "Offer valid until 31 August 2026."
+      },
+      {
+        "type": "added",
+        "text": "Offer valid until 30 September 2026."
+      },
+      {
+        "type": "context",
+        "text": "Ready to apply for your HSBC Taj Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "To apply for an HSBC Taj Credit Card, complete a callback form and our team will be in touch soon."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added higher reward points for Apple purchases and extended offer validity to 30 September 2026"
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-travelone-credit-card",
+    "cardName": "HSBC TravelOne Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/travelone/",
+    "status": "Active",
+    "detectedAt": "2026-09-22T08:36:52.952Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
+      },
+      {
+        "type": "context",
+        "text": "T&Cs apply (PDF)"
+      },
+      {
+        "type": "removed",
+        "text": "Offer valid until 31 August 2026."
+      },
+      {
+        "type": "added",
+        "text": "Offer valid until 30 September 2026."
+      },
+      {
+        "type": "context",
+        "text": "Apply online"
+      },
+      {
+        "type": "context",
+        "text": "When you apply online and complete your application with video self-verification, you'll be eligible for an Amazon eGift Voucher worth INR250. T&Cs apply ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hsbc-india-visa-platinum-credit-card",
+    "cardName": "Visa Platinum Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/visa-platinum/",
+    "status": "Active",
+    "detectedAt": "2026-09-22T08:36:52.950Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Our welcome gifts to you"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2,000 reward points when you download and log on to the HSBC India Mobile Banking app and spend at least INR5,000 in the first 30 days of having your card. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "removed",
+        "text": "Get a complimentary 3-month Swiggy One membership once you've activated your card. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "context",
+        "text": "Receive a voucher worth up to INR500 for Amazon Pay, Zomato and Swiggy when you activate your card with a single transaction of INR300 or more.[@visa-signature-subject-to-change] T&Cs apply ."
+      },
+      {
+        "type": "context",
+        "text": "Plus, get an INR250 Amazon eGift Card when you apply online, verify yourself by video and receive your credit card. T&Cs apply ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Complimentary 3-month Swiggy One membership benefit removed."
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-premium-credit-card",
+    "cardName": "Purchase Premium Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-22T08:36:30.641Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Purchase Premium Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "context",
+        "text": "Interest-free Credit Period of up to 50 Days"
+      },
+      {
+        "type": "context",
+        "text": "4 Reward Points on your Spends"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "The corporate can revolve 30%(MAD) of Total Amount Due (TAD). While calculating the MAD, other charges such as interest, fee, GST, etc. are excluded"
+      },
+      {
+        "type": "context",
+        "text": "Is the customer eligible for cashback?"
+      },
+      {
+        "type": "removed",
+        "text": "The customer is eligible for 5% CashBack on business essential spends, subject to minimum overall statement spends of ₹1,00,000/-.  Apart from this corporate will not be eligible for any other form of CashBack."
+      },
+      {
+        "type": "added",
+        "text": "Yes. The customer is eligible for 5% CashBack on Business Essential Spends, subject to a minimum overall statement spend of ₹1,00,000 as per posting date. Apart from this benefit, the corporate will not be eligible for any other form of CashBack."
+      },
+      {
+        "type": "context",
+        "text": "What are the merchant categories considered under Business Essential?"
+      },
+      {
+        "type": "context",
+        "text": "Hotels, Rail, Road, Taxi, Utility, Taxes & Telecom are part of business essential spends."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Can a Corporate restrict usage of cards on certain merchants?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, Merchant Category Code (MCC) wise restriction is possible on Purchase Premium Card, relevant MCC group/promo id needs to be selected by corporate on the MID while submitting application"
+      },
+      {
+        "type": "added",
+        "text": "Electronics"
+      },
+      {
+        "type": "added",
+        "text": "Travel"
+      },
+      {
+        "type": "added",
+        "text": "Apparel and Accessories"
+      },
+      {
+        "type": "added",
+        "text": "Retail Stores"
+      },
+      {
+        "type": "added",
+        "text": "Entertainment"
+      },
+      {
+        "type": "added",
+        "text": "Dining"
+      },
+      {
+        "type": "added",
+        "text": "Jewellery"
+      },
+      {
+        "type": "added",
+        "text": "Home and Decor"
+      },
+      {
+        "type": "added",
+        "text": "Personal Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Miscellaneous Stores"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "equitas-sfb-powermiles-credit-card",
+    "cardName": "Powermiles Credit Card",
+    "issuerName": "Equitas Small Finance Bank",
+    "issuerSlug": "equitas-sfb",
+    "officialUrl": "https://equitas.bank.in/",
+    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-09-22T08:34:36.990Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Complimentary airport lounge access* with 2 domestic visits & 1 international visit per quarter"
+      },
+      {
+        "type": "context",
+        "text": "1:1 Xchange"
+      },
+      {
+        "type": "removed",
+        "text": "Redeem your reward points at a 1:1 ratio (1RP = 1 Miles/Points) for Miles transfer across select Airlines/Hotels (Feature to go live from Sep’26) & on our exclusive luxury catalogue"
+      },
+      {
+        "type": "added",
+        "text": "Redeem your reward points at a 1:1 ratio (1RP = 1 Miles/Points) on our exclusive luxury catalogue and Miles/Points transfer across select Airlines/Hotels (Feature to go live from Mar’27)"
+      },
+      {
+        "type": "context",
+        "text": "Premium Metal Card"
+      },
+      {
+        "type": "context",
+        "text": "Luxury Memberships"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Redeem your reward points at 1:1 ratio (1Rs.= ₹1) for luxury brands & experiences"
+      },
+      {
+        "type": "context",
+        "text": "1:1 Xchange Miles"
+      },
+      {
+        "type": "removed",
+        "text": "Convert your reward points at 1:1 ratio to select Airlines/Hotels (Feature to be available from Sep’26)"
+      },
+      {
+        "type": "added",
+        "text": "Convert your reward points at 1:1 ratio to select Airlines/Hotels (Feature to be available from Mar’27)"
+      },
+      {
+        "type": "context",
+        "text": "Unlock More with your Card!"
+      },
+      {
+        "type": "context",
+        "text": "Take advantage of global personal concierge services & comprehensive insurance benefits."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated the launch dates for miles transfer and airline conversion features to March 2027."
     }
   },
   {
@@ -2937,122 +3061,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated excluded merchant categories for reward points and milestone benefits, adding specific MCC codes."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-swyp",
-    "cardName": "FIRST SWYP",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/swyp-emi-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-18T08:21:21.581Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Managing expenses is easier than ever with the FIRST SWYP Credit Card, convert big-ticket purchases into stress-free EMIs instantly with a simple monthly EMI conversion fee and no interest charges, while earning benefits worth ₹60,000+ every year through year-round discounts on feature partner and rewards."
-      },
-      {
-        "type": "context",
-        "text": "Read less"
-      },
-      {
-        "type": "removed",
-        "text": "Get started with Amaze"
-      },
-      {
-        "type": "removed",
-        "text": "welcome offers worth ₹5000+"
-      },
-      {
-        "type": "added",
-        "text": "Get started with ₹500 gift voucher"
-      },
-      {
-        "type": "added",
-        "text": "and more welcome benefits"
-      },
-      {
-        "type": "context",
-        "text": "Instant discount worth ₹1,500 on hotel and flight bookings"
-      },
-      {
-        "type": "context",
-        "text": "Gift Voucher worth ₹500 on spends of ₹5000 and above in first 30 days"
-      },
-      {
-        "type": "context",
-        "text": "Lenskart Gold Max Membership for 1 year"
-      },
-      {
-        "type": "context",
-        "text": "Instant discount of up to ₹2100 (₹700 per month) on flight or hotel bookings, every month, for first 3 months"
-      },
-      {
-        "type": "removed",
-        "text": "Get started with ₹500 gift voucher and more welcome benefits​"
-      },
-      {
-        "type": "context",
-        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
-      },
-      {
-        "type": "context",
-        "text": "Instant discount worth ₹1,500 on hotel and flight bookings"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Lenskart Gold Max Membership for 1 year"
-      },
-      {
-        "type": "context",
-        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
-      },
-      {
-        "type": "removed",
-        "text": "Get started with ₹500 gift voucher and more welcome benefits​"
-      },
-      {
-        "type": "context",
-        "text": "View more"
-      },
-      {
-        "type": "context",
-        "text": "Make My Trip Details"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Welcome Benefit:"
-      },
-      {
-        "type": "context",
-        "text": "Earn voucher of up to 8,000 IndiGo BluChips in the first year"
-      },
-      {
-        "type": "removed",
-        "text": "Your application is one scan away"
-      },
-      {
-        "type": "removed",
-        "text": "Scan to continue on mobile and finish your application securely."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Welcome benefit changed to a ₹500 gift voucher and additional benefits."
     }
   },
   {
@@ -7848,50 +7856,6 @@
       "via": "google"
     },
     "summary": "Added a link to the lounge list for the domestic lounge access benefit"
-  },
-  {
-    "id": "hsbc-india-hsbc-taj-credit-card",
-    "cardName": "HSBC Taj Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
-    "status": "Active",
-    "detectedAt": "2026-09-02T07:58:36.137Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Enjoy 4 domestic + 4 international chauffer-driven airport transfers in a year. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy up to 20% off up to INR20,000 on business class travel when you book with MakeMyTrip. T&Cs apply (PDF)"
-      },
-      {
-        "type": "removed",
-        "text": "Save 20%, up to INR10,500, on domestic and international flights with Yatra. T&Cs apply (PDF)"
-      },
-      {
-        "type": "added",
-        "text": "Save 20%, up to INR10,000, on domestic and international flights with Yatra. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Rare rewards"
-      },
-      {
-        "type": "context",
-        "text": "Earn reward points with your card and use them towards stays, food and beverages, and spa treatments at Taj and other participating IHCL hotels."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Reduced flight savings cap to INR10,000 from INR10,500."
-    }
   },
   {
     "id": "hsbc-india-live-credit-card",
@@ -13343,58 +13307,6 @@
     }
   },
   {
-    "id": "hsbc-india-hsbc-travelone-credit-card",
-    "cardName": "HSBC TravelOne Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/travelone/",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:17:21.298Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Introductory Offer Terms and Conditions (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Introductory Offer Terms and Conditions (PDF) Download"
-      },
-      {
-        "type": "added",
-        "text": "Get INR1,000 cashback"
-      },
-      {
-        "type": "added",
-        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
-      },
-      {
-        "type": "added",
-        "text": "T&Cs apply (PDF)"
-      },
-      {
-        "type": "added",
-        "text": "Offer valid until 31 August 2026."
-      },
-      {
-        "type": "context",
-        "text": "Apply online"
-      },
-      {
-        "type": "context",
-        "text": "When you apply online and complete your application with video self-verification, you'll be eligible for an Amazon eGift Voucher worth INR250. T&Cs apply ."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added INR1,000 cashback for spending INR1,000 within 30 days after income submission."
-    }
-  },
-  {
     "id": "hsbc-india-premier-credit-card",
     "cardName": "Premier Credit Card",
     "issuerName": "HSBC India",
@@ -13444,70 +13356,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a welcome reward of INR1,000 cashback for spending INR1,000 within 30 days of card activation."
-    }
-  },
-  {
-    "id": "hsbc-india-visa-platinum-credit-card",
-    "cardName": "Visa Platinum Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/visa-platinum/",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:17:21.295Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fresh new look. Same great card"
-      },
-      {
-        "type": "context",
-        "text": "Our Platinum Credit Card has had a makeover, with a cool, teal-coloured card replacing the old silver one. It still comes with an excellent selection of benefits, plus you now have access to some fantastic Visa Signature perks."
-      },
-      {
-        "type": "removed",
-        "text": "Close"
-      },
-      {
-        "type": "context",
-        "text": "HSBC Visa Platinum Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Share"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Receive a voucher worth up to INR500 for Amazon Pay, Zomato and Swiggy when you activate your card with a single transaction of INR300 or more.[@visa-signature-subject-to-change] T&Cs apply ."
-      },
-      {
-        "type": "context",
-        "text": "Plus, get an INR250 Amazon eGift Card when you apply online, verify yourself by video and receive your credit card. T&Cs apply ."
-      },
-      {
-        "type": "added",
-        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Here's what you get with an HSBC Visa Platinum Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "No joining or annual fees"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added INR1,000 cashback for spending INR1,000 within 30 days after income documents submission"
     }
   },
   {
@@ -16692,46 +16540,6 @@
     }
   },
   {
-    "id": "equitas-sfb-powermiles-credit-card",
-    "cardName": "Powermiles Credit Card",
-    "issuerName": "Equitas Small Finance Bank",
-    "issuerSlug": "equitas-sfb",
-    "officialUrl": "https://equitas.bank.in/",
-    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-08-19T04:02:47.976Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fuel Surcharge Waiver: Save more with a 1% waiver on fuel transactions across India (Up to Rs. 450 per statement cycle on transactions between Rs. 500 and Rs. 3,000)."
-      },
-      {
-        "type": "context",
-        "text": "Earn 3X rewards on international transactions. Earn 3RP on every Rs.100 spent. 1 RP= 0.50"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy 1:1 burn rates on your accumulated Reward Points exclusively for these E Gift Card Vouchers of 5 Brands – Imagine Apple Premium | Tanishq Jewellery | Taj Hotels | Marks & Spencer | The Body Shop"
-      },
-      {
-        "type": "context",
-        "text": "Xchange Program: Redeem your reward points against Products/ Vouchers/ Flight Booking and more. https://xchange.equitas.bank.in/. A video guide for claiming PowerMiles Credit Card membership Xchange Rewards"
-      },
-      {
-        "type": "context",
-        "text": "The Memberships offered for PowerMiles Credit Card customer will be available once the card is activated by the customer. These memberships should be claimed within 90 days from the card issuance date. Please note that the membership details will be made available for claim on T+1 date from the card activation date. Customers can visit xchange.equitas.bank.in to claim their membership vouchers. If Membership benefits (complimentary offer) is not claimed before the said timeline, then such benefits will get expired and cannot be renewed. Please refer T&C for more information."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added 1:1 burn rates on Reward Points for selected E Gift Card Vouchers"
-    }
-  },
-  {
     "id": "rbl-bank-world-prime-credit-card",
     "cardName": "World Prime Credit Card",
     "issuerName": "RBL Bank",
@@ -18236,46 +18044,6 @@
       "youtube": null
     },
     "summary": "Movie benefits eligibility and cashback revocation for the Emirates Skywards Rubyx Credit Card were updated."
-  },
-  {
-    "id": "hsbc-india-hsbc-rupay-cashback-credit-card",
-    "cardName": "HSBC RuPay Cashback Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/rupay-cashback-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-08-15T04:00:19.409Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Choose our RuPay Cashback Credit Card to enjoy"
-      },
-      {
-        "type": "context",
-        "text": "0% forex mark-up"
-      },
-      {
-        "type": "removed",
-        "text": "Save when you spend abroad, with 0% FX mark-up on your transactions until 31 July 2026. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "added",
-        "text": "Save when you spend abroad, with 0% FX mark-up on your transactions until 31 August 2026. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "context",
-        "text": "UPI integration"
-      },
-      {
-        "type": "context",
-        "text": "Link your credit card to UPI apps and enjoy easy direct payments with your card."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
   },
   {
     "id": "hdfc-bank-intermiles-hdfc-bank-diners-club-credit-card",

@@ -1,5 +1,625 @@
 [
   {
+    "id": "rbl-bank-world-safari-plus-credit-card",
+    "cardName": "World Safari Plus Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-safari-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-23T08:45:32.649Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "World Safari Plus Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "World Safari Plus Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Travel - Refined"
+      },
+      {
+        "type": "added",
+        "text": "Travel, Refined"
+      },
+      {
+        "type": "context",
+        "text": "Lounge access - within and outside India"
+      },
+      {
+        "type": "context",
+        "text": "Earn accelerated rewards on travel spends"
+      },
+      {
+        "type": "context",
+        "text": "0% Forex markup on all foreign transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Your Passport to a World of Privilege"
+      },
+      {
+        "type": "removed",
+        "text": "Designed for those who expect more from every journey, this card delivers elevated experiences from day one. Begin your first year with Reward Points redeemable on flights and hotels worldwide, enjoy international travel with no forex markups, and access exclusive privileges across a premium global partner network."
+      },
+      {
+        "type": "removed",
+        "text": "Earn rewards effortlessly with every purchase, relax with complimentary airport lounge access from your very first trip, and travel confidently with international travel insurance included. Wherever you go, comfort and privilege come standard."
+      },
+      {
+        "type": "removed",
+        "text": "Start Your Journey with a INR 6,000 Welcome Bonus"
+      },
+      {
+        "type": "removed",
+        "text": "Begin your travel adventures on a rewarding note. Get 6,000 Reward Points right out of the gate where 1 Reward Point = INR 1 - as a welcome gift only on your World Safari Plus Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "How to Unlock Your Welcome Points"
+      },
+      {
+        "type": "removed",
+        "text": "Step 1: Activate : Make your first card transaction within 30 days of card issuance."
+      },
+      {
+        "type": "removed",
+        "text": "Step 2: Pay : Clear your first-year membership fee by the payment due date."
+      },
+      {
+        "type": "removed",
+        "text": "Step 3: Earn : Receive 6,000 Reward Points credited to your account within 60 days of issuance."
+      },
+      {
+        "type": "added",
+        "text": "Your Passport to Premium Travel"
+      },
+      {
+        "type": "added",
+        "text": "The World Safari Plus Credit Card is designed for modern travelers who expect more from every journey. Enjoy Reward Points on everyday spends, zero forex markup on international transactions, complimentary airport lounge access, and travel insurance coverage, all backed by a range of exclusive travel privileges."
+      },
+      {
+        "type": "added",
+        "text": "Start Strong with 6,000 Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Activate your World Safari Plus Credit Card, complete your first transaction within 30 days, and pay the first-year fee on time to earn 6,000 Reward Points worth INR 6,000 ."
+      },
+      {
+        "type": "added",
+        "text": "World Safari Plus Credit Card Features:"
+      },
+      {
+        "type": "context",
+        "text": "Zero Forex Charges on International Spends"
+      },
+      {
+        "type": "context",
+        "text": "Shop, dine, or travel anywhere in the world and pay in INR—with no foreign currency markup, ever."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Welcome bonus description updated to new wording for 6,000 Reward Points"
+    }
+  },
+  {
+    "id": "idfc-first-bank-corporate-credit-card",
+    "cardName": "Corporate Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/corporate-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-23T08:40:23.096Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Turn interest costs into rebate earnings with IDFC FIRST Bank’s dynamic rebate program"
+      },
+      {
+        "type": "context",
+        "text": "Elevated Travel Perks"
+      },
+      {
+        "type": "removed",
+        "text": "Competitive cross-currency markup rate of just 3.5%"
+      },
+      {
+        "type": "added",
+        "text": "Save more with Zero forex markup"
+      },
+      {
+        "type": "context",
+        "text": "Access to worldwide lounges- 2 complimentary lounge access per quarter (domestic and/or international)"
+      },
+      {
+        "type": "context",
+        "text": "Get free roadside assistance worth ₹1,499"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn higher rebates of up to 150bps on your spends"
+      },
+      {
+        "type": "context",
+        "text": "Turn interest costs into rebate earnings with IDFC FIRST Bank’s dynamic rebate program"
+      },
+      {
+        "type": "removed",
+        "text": "Competitive cross-currency markup rate of just 3.5%"
+      },
+      {
+        "type": "added",
+        "text": "Save more with Zero forex markup"
+      },
+      {
+        "type": "context",
+        "text": "Access to worldwide lounges- 2 complimentary lounge access per quarter (domestic and/or international)"
+      },
+      {
+        "type": "context",
+        "text": "Get free roadside assistance worth ₹1,499"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Foreign currency markup removed, now zero."
+    }
+  },
+  {
+    "id": "idfc-first-bank-purchase-credit-card",
+    "cardName": "Purchase Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/purchase-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-23T08:40:23.096Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy Cost Savings"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy up to 45 days of interest-free credit"
+      },
+      {
+        "type": "removed",
+        "text": "Save more with competitive forex rates of just 3.5%"
+      },
+      {
+        "type": "added",
+        "text": "Save more with Zero forex markup"
+      },
+      {
+        "type": "context",
+        "text": "Earn higher rebates of up to 150bps on your spends (competition – no rebate on purchase card)"
+      },
+      {
+        "type": "context",
+        "text": "Streamlined Expense Management"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Hassle-free sync with ERPs to drive real-time visibility"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy up to 45 days of interest-free credit"
+      },
+      {
+        "type": "removed",
+        "text": "Save more with competitive forex rates of just 3.5%"
+      },
+      {
+        "type": "added",
+        "text": "Save more with Zero forex markup"
+      },
+      {
+        "type": "context",
+        "text": "Earn higher rebates of up to 150bps on your spends (competition – no rebate on purchase card)"
+      },
+      {
+        "type": "context",
+        "text": "Spends done on these Merchant Categories Codes (MCCs) would not be eligible for reward points."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Foreign currency markup removed, now zero."
+    }
+  },
+  {
+    "id": "idfc-first-bank-business-credit-card-sme",
+    "cardName": "Business Credit Card (SME)",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/business-credit-card-sme",
+    "status": "Active",
+    "detectedAt": "2026-09-23T08:40:23.095Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Yes. You get access to 2 international and/or domestic Airport Lounges per quarter on minimum spends of ₹20,000 on the previous month."
+      },
+      {
+        "type": "context",
+        "text": "What is the Forex mark-up fees on the FIRST Business Credit Card? If my business has a lot of expenses in foreign currencies, how can I benefit with the FIRST Business Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "You get a low forex markup of 1.99%. This rate is very low compared to the market rates, which is generally around 3-3.5%. You can also benefit from your business spends in foreign currency with up to 10X Reward Points. (depending on the variant chosen)"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy Zero forex markup on your international business spends which saves ~₹4,130 on international spends of ₹1,00,000."
+      },
+      {
+        "type": "context",
+        "text": "Does the FIRST Business Credit Card offer any complimentary insurance?"
+      },
+      {
+        "type": "context",
+        "text": "Absolutely! You get the following insurance benefits with the FIRST Business Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "There is no limit on the number of cards, as long as they collectively do not exceed the overall Credit Limit given to the Corporate/ Business."
+      },
+      {
+        "type": "context",
+        "text": "Yes. You get access to 2 international and/or domestic Airport Lounges per quarter on minimum spends of ₹20,000 on the previous month."
+      },
+      {
+        "type": "removed",
+        "text": "You get a low forex markup of 1.99%. This rate is very low compared to the market rates, which is generally around 3-3.5%. You can also benefit from your business spends in foreign currency with up to 10X Reward Points. (depending on the variant chosen)"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy Zero forex markup on your international business spends which saves ~₹4,130 on international spends of ₹1,00,000."
+      },
+      {
+        "type": "context",
+        "text": "Absolutely! You get the following insurance benefits with the FIRST Business Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "- Free Road Side Assistance worth ₹1,499"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Forex markup removed, replaced with zero markup on international business spends."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-millennia",
+    "cardName": "FIRST Millennia",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/millennia",
+    "status": "Active",
+    "detectedAt": "2026-09-23T08:40:23.091Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Reward Points are valid for 24 months from the date they are credited."
+      },
+      {
+        "type": "context",
+        "text": "Reward Points are earned only on spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
+      },
+      {
+        "type": "removed",
+        "text": "Till 18th June 2026:"
+      },
+      {
+        "type": "removed",
+        "text": "- Earn 3X Reward Points on spends up to ₹20,000 per statement cycle and spends done on your birthday"
+      },
+      {
+        "type": "removed",
+        "text": "- Rental & Property Management, Government Services, Education and Wallet Load transactions will earn 3X reward points"
+      },
+      {
+        "type": "context",
+        "text": "1X Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "on Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed 3X reward points on up to ₹20,000 spend and on birthday, plus specific categories."
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-moneyback-credit-card",
+    "cardName": "Purchase MoneyBack Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-moneyback-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-23T08:38:43.265Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Purchase MoneyBack Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "context",
+        "text": "Purchase MoneyBack Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Purchase MoneyBack Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Spends other than the above-mentioned merchants will be classified as General MCC spends."
+      },
+      {
+        "type": "context",
+        "text": "What type of spends will be eligible for cashback?"
+      },
+      {
+        "type": "removed",
+        "text": "All general spends above 5 lakhs and utility payments above 10 lakhs will be eligible for cashback excluding EMI spends, BBPS Spends and Fuel Spends."
+      },
+      {
+        "type": "added",
+        "text": "The following spends will be eligible for CashBack:"
+      },
+      {
+        "type": "added",
+        "text": "All General MCC spends above ₹5 lakh in calendar month basis posting date"
+      },
+      {
+        "type": "added",
+        "text": "All Special MCC spends above ₹10 lakh in calendar month basis posting date"
+      },
+      {
+        "type": "added",
+        "text": "The following transactions are not eligible for CashBack:"
+      },
+      {
+        "type": "added",
+        "text": "EMI spends"
+      },
+      {
+        "type": "added",
+        "text": "BBPS spends"
+      },
+      {
+        "type": "added",
+        "text": "Fuel spends"
+      },
+      {
+        "type": "context",
+        "text": "Will the customer qualify for Cashback if it falls under bank wide delinquency list?"
+      },
+      {
+        "type": "context",
+        "text": "No, If the Customer is delinquent for any product within the bank, they will not receive cashback for their Purchase card spends in delinquent month."
+      },
+      {
+        "type": "context",
+        "text": "Additionally, any missed cashback due to delinquency will not be processed or paid in subsequent months."
+      },
+      {
+        "type": "added",
+        "text": "Electronics"
+      },
+      {
+        "type": "added",
+        "text": "Travel"
+      },
+      {
+        "type": "added",
+        "text": "Apparel and Accessories"
+      },
+      {
+        "type": "added",
+        "text": "Retail Stores"
+      },
+      {
+        "type": "added",
+        "text": "Entertainment"
+      },
+      {
+        "type": "added",
+        "text": "Dining"
+      },
+      {
+        "type": "added",
+        "text": "Jewellery"
+      },
+      {
+        "type": "added",
+        "text": "Home and Decor"
+      },
+      {
+        "type": "added",
+        "text": "Personal Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Miscellaneous Stores"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated cashback eligibility thresholds and exclusions for the Purchase MoneyBack Credit Card."
+    }
+  },
+  {
+    "id": "hdfc-bank-corporate-premium-credit-card",
+    "cardName": "Corporate Premium Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/corporate-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-23T08:38:43.262Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Corporate Card: Apply for Corporate Credit Card Online | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "context",
+        "text": "Comprehensive Insurance Protection"
+      },
+      {
+        "type": "context",
+        "text": "Reward Points on your Spends*"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed the cross‑border transaction framework section from the card page."
+    }
+  },
+  {
+    "id": "amex-platinum-upgrade",
+    "cardName": "Platinum Upgrade",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/business/corporate-card/platinum-upgrade/",
+    "status": "Active",
+    "detectedAt": "2026-09-23T08:34:14.748Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "and enjoy a Welcome Gift of ₹35,000*. Also, get a"
+      },
+      {
+        "type": "context",
+        "text": "spend based voucher of ₹10,000*."
+      },
+      {
+        "type": "removed",
+        "text": "Offer valid till 31 December 2025."
+      },
+      {
+        "type": "context",
+        "text": "Upgrade Now"
+      },
+      {
+        "type": "context",
+        "text": "Benefits made greater, now in Metal."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1 point for every ₹40* spent on all business expenses and 1 point for every ₹100* spent on select categories."
+      },
+      {
+        "type": "context",
+        "text": "Boost Your Rewards"
+      },
+      {
+        "type": "removed",
+        "text": "Earn 5X* Rewards at 50+ brands"
+      },
+      {
+        "type": "removed",
+        "text": "<Click here to shop through Reward Multiplier>"
+      },
+      {
+        "type": "added",
+        "text": "Earn 5X* Membership Rewards ® points on purchasing vouchers through Shopwise."
+      },
+      {
+        "type": "added",
+        "text": "Click here to know more."
+      },
+      {
+        "type": "context",
+        "text": "Up to 20% off on leading airlines"
+      },
+      {
+        "type": "context",
+        "text": "Exclusive Business Travel and Experiences"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated reward redemption to earn 5X Membership Rewards points on vouchers via Shopwise."
+    }
+  },
+  {
     "id": "idfc-first-bank-first-digital-virtual-upi",
     "cardName": "FIRST Digital (Virtual UPI)",
     "issuerName": "IDFC First Bank",
@@ -3518,138 +4138,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-first-millennia",
-    "cardName": "FIRST Millennia",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/millennia",
-    "status": "Active",
-    "detectedAt": "2026-09-13T08:23:25.276Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local currency of the country you are in."
-      },
-      {
-        "type": "context",
-        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
-      },
-      {
-        "type": "removed",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
-      },
-      {
-        "type": "removed",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
-      },
-      {
-        "type": "added",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup.​​"
-      },
-      {
-        "type": "context",
-        "text": "Experience convenience like never before"
-      },
-      {
-        "type": "context",
-        "text": "Instant EMI conversion for all online transactions"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Elevate spends with Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "on Dining, Travel and spends done on your birthday."
-      },
-      {
-        "type": "added",
-        "text": "on Dining, Travel and International purchases and spends done on your birthday."
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on eligible spends."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "removed",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
-      },
-      {
-        "type": "context",
-        "text": "Reward program not applicable on Fuel, EMI transactions and Cash withdrawals."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Will I earn reward points for every spend?"
-      },
-      {
-        "type": "context",
-        "text": "Yes. You will earn:​​"
-      },
-      {
-        "type": "removed",
-        "text": "- 10X Reward Points on Dining, Travel, and *International purchases and spends done on your birthday.​​"
-      },
-      {
-        "type": "removed",
-        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "- 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​​"
-      },
-      {
-        "type": "context",
-        "text": "- 3X Reward points on all spend categories except insurance, utilities, railways, FASTag recharges, dining, travel, international purchases, fuel, EMI transactions & cash withdrawals.​"
-      },
-      {
-        "type": "context",
-        "text": "- 1X Reward Points on Utilities, Insurance, FASTag and Railways spends. ​"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Reward points increased to 10X for Dining, Travel, and International purchases on birthday."
-    }
-  },
-  {
     "id": "idfc-first-bank-first-classic",
     "cardName": "FIRST Classic",
     "issuerName": "IDFC First Bank",
@@ -5592,46 +6080,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-corporate-credit-card",
-    "cardName": "Corporate Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/corporate-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.709Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Joining & Annual Fee: ₹0"
-      },
-      {
-        "type": "context",
-        "text": "APR: 36% per annum (Industry standard: 40%)"
-      },
-      {
-        "type": "added",
-        "text": "All IDFC FIRST Bank Credit cards now come with Zero forex markup"
-      },
-      {
-        "type": "context",
-        "text": "Diverse card offerings"
-      },
-      {
-        "type": "context",
-        "text": "Elevate your business spending with unparalleled benefits"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added zero forex markup fee for all IDFC FIRST Bank Credit cards"
-    }
-  },
-  {
     "id": "idfc-first-bank-lic-select",
     "cardName": "LIC Select",
     "issuerName": "IDFC First Bank",
@@ -5741,294 +6189,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Adds zero forex markup on all global spends."
-    }
-  },
-  {
-    "id": "idfc-first-bank-business-credit-card-sme",
-    "cardName": "Business Credit Card (SME)",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/business-credit-card-sme",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.708Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Year 2 onwards: 2% p.m."
-      },
-      {
-        "type": "context",
-        "text": "Industry average: 2% - 3% p.m."
-      },
-      {
-        "type": "removed",
-        "text": "Rewards on foreign currency transactions"
-      },
-      {
-        "type": "context",
-        "text": "Rewards on Business Utility & Digital Advertising"
-      },
-      {
-        "type": "context",
-        "text": "Rewards on Rentals, Restaurants & Utility"
-      },
-      {
-        "type": "context",
-        "text": "Earn high rewards"
-      },
-      {
-        "type": "removed",
-        "text": "Rewards on foreign currency transactions"
-      },
-      {
-        "type": "context",
-        "text": "Rewards on Business Utility & Digital Advertising"
-      },
-      {
-        "type": "context",
-        "text": "Rewards on Rentals, Restaurants & Utility"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Elevate your travel"
-      },
-      {
-        "type": "removed",
-        "text": "Low forex mark-up at just 1.99%"
-      },
-      {
-        "type": "added",
-        "text": "ZeroForex Markup"
-      },
-      {
-        "type": "context",
-        "text": "2 complimentary airport lounge visits per quarter*"
-      },
-      {
-        "type": "context",
-        "text": "Personal and travel insurance cover of up to ₹10 Lakh"
-      },
-      {
-        "type": "context",
-        "text": "*For more information refer to FAQs"
-      },
-      {
-        "type": "context",
-        "text": "To know more about Insurance coverages click here"
-      },
-      {
-        "type": "removed",
-        "text": "Effective 18th June 2026, what changes are being made to the FIRST Business Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "There will be revisions to select features and the applicable Terms & Conditions of the FIRST Business Credit Card.  Click here  for detailed information."
-      },
-      {
-        "type": "context",
-        "text": "How do I apply for a FIRST Business Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "If you do not hold any Current Account with IDFC FIRST Bank, you can click here to start the Do-It-Yourself digital application journey."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Variant 1: With Low Interest Rate (APR) – starting at 1.5% p.m."
-      },
-      {
-        "type": "context",
-        "text": "If your business needs instant working capital, more flexibility in payment and cash-flow management solutions, this card is for you!"
-      },
-      {
-        "type": "removed",
-        "text": "Variant 2 – With higher rewards on business expenses –up to 10X Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Variant 2 – With higher rewards on business expenses – up to 4X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "If your business incurs higher expenses, in rent & utilities, and if you regularly spend on digital advertising or make payments in foreign currency this is the card for you!"
-      },
-      {
-        "type": "context",
-        "text": "What is the interest rate levied on delay / non-payment of dues on the FIRST Business Credit Card?"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "How many Reward Points do I get with the FIRST Business Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "If you choose the Low Interest Variant , you enjoy the following Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "5X Reward Points on business spends in foreign currency transactions"
-      },
-      {
-        "type": "context",
-        "text": "2X Reward Points on business utility & digital advertising"
-      },
-      {
-        "type": "context",
-        "text": "1X Reward Points on rentals, restaurants & utility"
-      },
-      {
-        "type": "context",
-        "text": "If you choose the High Reward Points Variant , you enjoy the following Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "10X Reward Points on business spends in foreign currency transactions"
-      },
-      {
-        "type": "context",
-        "text": "4X Reward Points on business utility & digital advertising"
-      },
-      {
-        "type": "context",
-        "text": "2X Reward Points on rentals, restaurants & utility"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "d. Delay in Flight- USD 300"
-      },
-      {
-        "type": "context",
-        "text": "e. Air Accident Cover of ₹1,00,00,000"
-      },
-      {
-        "type": "removed",
-        "text": "There will be revisions to select features and the applicable Terms & Conditions of the FIRST Business Credit Card.  Click here  for detailed information."
-      },
-      {
-        "type": "context",
-        "text": "If you do not hold any Current Account with IDFC FIRST Bank, you can click here to start the Do-It-Yourself digital application journey."
-      },
-      {
-        "type": "context",
-        "text": "Yes. The card comes with a Joining Fee (1st year) of ₹499 + GST and an Annual Fee (2nd year onwards) of ₹999 + GST"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Variant 1: With Low Interest Rate (APR) – starting at 1.5% p.m."
-      },
-      {
-        "type": "context",
-        "text": "If your business needs instant working capital, more flexibility in payment and cash-flow management solutions, this card is for you!"
-      },
-      {
-        "type": "removed",
-        "text": "Variant 2 – With higher rewards on business expenses –up to 10X Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Variant 2 – With higher rewards on business expenses – up to 4X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "If your business incurs higher expenses, in rent & utilities, and if you regularly spend on digital advertising or make payments in foreign currency this is the card for you!"
-      },
-      {
-        "type": "context",
-        "text": "If you choose the Low Interest Rate variant, you get the following interest rates."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "For both variants, on paying any amount less than Minimum amount due interest will be charged at Monthly Rate 3.99% Annual Rate 47.88%"
-      },
-      {
-        "type": "context",
-        "text": "If you choose the  Low Interest Variant , you enjoy the following Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "5X Reward Points on business spends in foreign currency transactions"
-      },
-      {
-        "type": "context",
-        "text": "2X Reward Points on business utility & digital advertising"
-      },
-      {
-        "type": "context",
-        "text": "1X Reward Points on rentals, restaurants & utility"
-      },
-      {
-        "type": "context",
-        "text": "If you choose the  High Reward Points Variant , you enjoy the following Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "10X Reward Points on business spends in foreign currency transactions"
-      },
-      {
-        "type": "context",
-        "text": "4X Reward Points on business utility & digital advertising"
-      },
-      {
-        "type": "context",
-        "text": "2X Reward Points on rentals, restaurants & utility"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Product guide"
-      },
-      {
-        "type": "context",
-        "text": "Airport Lounge List"
-      },
-      {
-        "type": "added",
-        "text": "Your application is one scan away"
-      },
-      {
-        "type": "added",
-        "text": "Scan to continue on mobile and finish your application securely."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Reward rate for Variant 2 business expenses reduced to 4X points."
     }
   },
   {
@@ -8395,398 +8555,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Reward point system renamed and redemption process updated."
-    }
-  },
-  {
-    "id": "idfc-first-bank-purchase-credit-card",
-    "cardName": "Purchase Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/purchase-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-01T08:46:16.754Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "FIRST Purchases Credit Card - Card for Business Purchases | IDFC FIRST Bank"
-      },
-      {
-        "type": "added",
-        "text": "Apply for FIRST Purchases Card - Manage Business Spends | IDFC FIRST Bank"
-      },
-      {
-        "type": "context",
-        "text": "Flex the spending power"
-      },
-      {
-        "type": "context",
-        "text": "of your business"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Diverse card offerings"
-      },
-      {
-        "type": "context",
-        "text": "Manage your Business purchases with unparalleled benefits"
-      },
-      {
-        "type": "removed",
-        "text": "10X Reward Points on international transactions"
-      },
-      {
-        "type": "removed",
-        "text": "3X Reward Points on domestic transactions"
-      },
-      {
-        "type": "removed",
-        "text": "2 airport lounge visits per quarter"
-      },
-      {
-        "type": "removed",
-        "text": "3.5% Forex markup"
-      },
-      {
-        "type": "added",
-        "text": "Optimize business purchases, procurement and statutory payments"
-      },
-      {
-        "type": "added",
-        "text": "Track and control your daily and monthly spendings"
-      },
-      {
-        "type": "added",
-        "text": "Reduce payment processing expenses (both interest and transaction costs)"
-      },
-      {
-        "type": "added",
-        "text": "Improved visibility by managing spend patterns to negotiate supplier discounts"
-      },
-      {
-        "type": "context",
-        "text": "Suitable for sales executives, etc."
-      },
-      {
-        "type": "context",
-        "text": "Users receive two lounge accesses per quarter, both for domestic and international lounges, providing comfort and convenience during travel."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Users benefit from personal accident and travel insurance coverage."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy a 1% waiver on fuel surcharge, up to ₹500 per statement."
-      },
-      {
-        "type": "removed",
-        "text": "Streamline your business purchases with the FIRST Purchase Credit Card."
-      },
-      {
-        "type": "added",
-        "text": "Streamline your business purchases with the FIRST Purchase Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Streamlined Expense Management"
-      },
-      {
-        "type": "context",
-        "text": "Restrict card usage on a transaction and vendor category"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Improve Process Efficiencies"
-      },
-      {
-        "type": "context",
-        "text": "Account for all direct expenses through a central dashboard"
-      },
-      {
-        "type": "removed",
-        "text": "Virtual cards for ad-hoc payments"
-      },
-      {
-        "type": "removed",
-        "text": "Unified payment system to streamline your multiple payment mode"
-      },
-      {
-        "type": "added",
-        "text": "Seamless, digital applications and card management for your teams"
-      },
-      {
-        "type": "added",
-        "text": "Hassle-free sync with ERPs to drive real-time visibility"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy Cost Savings"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy up to 45 days of interest-free credit"
-      },
-      {
-        "type": "context",
-        "text": "Save more with competitive forex rates of just 3.5%"
-      },
-      {
-        "type": "removed",
-        "text": "Choose between rewards and rebates on card usage"
-      },
-      {
-        "type": "added",
-        "text": "Earn higher rebates of up to 150bps on your spends (competition – no rebate on purchase card)"
-      },
-      {
-        "type": "context",
-        "text": "Streamlined Expense Management"
-      },
-      {
-        "type": "context",
-        "text": "Improve Process Efficiencies"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Improve workforce productivity through paperless processes"
-      },
-      {
-        "type": "context",
-        "text": "Account for all direct expenses through a central dashboard"
-      },
-      {
-        "type": "removed",
-        "text": "Virtual cards for ad-hoc payments"
-      },
-      {
-        "type": "removed",
-        "text": "Unified payment system to streamline your multiple payment mode"
-      },
-      {
-        "type": "added",
-        "text": "Seamless, digital applications and card management for your teams"
-      },
-      {
-        "type": "added",
-        "text": "Hassle-free sync with ERPs to drive real-time visibility"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy up to 45 days of interest-free credit"
-      },
-      {
-        "type": "context",
-        "text": "Save more with competitive forex rates of just 3.5%"
-      },
-      {
-        "type": "removed",
-        "text": "Choose between rewards and rebates on card usage"
-      },
-      {
-        "type": "removed",
-        "text": "Interested?"
-      },
-      {
-        "type": "removed",
-        "text": "Share your details, and we will get in touch with you"
-      },
-      {
-        "type": "removed",
-        "text": "Name*"
-      },
-      {
-        "type": "removed",
-        "text": "Company Name*"
-      },
-      {
-        "type": "removed",
-        "text": "Mobile Number*"
-      },
-      {
-        "type": "removed",
-        "text": "OTP*"
-      },
-      {
-        "type": "removed",
-        "text": "Resend"
-      },
-      {
-        "type": "removed",
-        "text": "OTP"
-      },
-      {
-        "type": "removed",
-        "text": "Email Address*"
-      },
-      {
-        "type": "removed",
-        "text": "Submit"
-      },
-      {
-        "type": "removed",
-        "text": "Thank You!"
-      },
-      {
-        "type": "removed",
-        "text": "Thank you for showing interest in IDFC FIRST Bank."
-      },
-      {
-        "type": "removed",
-        "text": "We will get back to you shortly."
-      },
-      {
-        "type": "removed",
-        "text": "Submit"
-      },
-      {
-        "type": "added",
-        "text": "Earn higher rebates of up to 150bps on your spends (competition – no rebate on purchase card)"
-      },
-      {
-        "type": "added",
-        "text": "Spends done on these Merchant Categories Codes (MCCs) would not be eligible for reward points."
-      },
-      {
-        "type": "added",
-        "text": "To know more about Insurance coverages click here ."
-      },
-      {
-        "type": "added",
-        "text": "Spends done on the following Merchant Categories would not be eligible for reward points:"
-      },
-      {
-        "type": "added",
-        "text": "Category Name"
-      },
-      {
-        "type": "added",
-        "text": "MCC Code"
-      },
-      {
-        "type": "added",
-        "text": "Utilities"
-      },
-      {
-        "type": "added",
-        "text": "4900"
-      },
-      {
-        "type": "added",
-        "text": "Government"
-      },
-      {
-        "type": "added",
-        "text": "9211, 9222, 9311, 9399, 9405"
-      },
-      {
-        "type": "added",
-        "text": "Schools"
-      },
-      {
-        "type": "added",
-        "text": "8211, 8220, 8241, 8244, 8249, 8299"
-      },
-      {
-        "type": "added",
-        "text": "Post Office"
-      },
-      {
-        "type": "added",
-        "text": "9402"
-      },
-      {
-        "type": "added",
-        "text": "5960, 6300"
-      },
-      {
-        "type": "added",
-        "text": "Fuel"
-      },
-      {
-        "type": "added",
-        "text": "5541, 5542"
-      },
-      {
-        "type": "added",
-        "text": "Agricultural Services"
-      },
-      {
-        "type": "added",
-        "text": "0763, 0780, 5261"
-      },
-      {
-        "type": "added",
-        "text": "Property Management"
-      },
-      {
-        "type": "added",
-        "text": "7349, 6513"
-      },
-      {
-        "type": "added",
-        "text": "Transportation"
-      },
-      {
-        "type": "added",
-        "text": "4112, 4111, 4784"
-      },
-      {
-        "type": "added",
-        "text": "Contractor"
-      },
-      {
-        "type": "added",
-        "text": "1520, 1711, 1731, 1740, 1750, 1761, 1771, 1799"
-      },
-      {
-        "type": "added",
-        "text": "Supermarket"
-      },
-      {
-        "type": "added",
-        "text": "5411"
-      },
-      {
-        "type": "added",
-        "text": "Government Healthcare Fee Program"
-      },
-      {
-        "type": "added",
-        "text": "8062, 8011"
-      },
-      {
-        "type": "added",
-        "text": "Product guide"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card Basics"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Reward points replaced with up to 150bps rebates; certain MCCs no longer earn points."
     }
   },
   {

@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "icon-credit-card",
+    "card_name": "Icon Credit Card",
+    "issuer": "rbl",
+    "change_type": "reward-change",
+    "summary": "Added exclusions for reward points on specific merchant categories.",
+    "status": "verified",
+    "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/icon-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vbmfqr/need_advice_on_optimizing_my_credit_card/",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-09-24",
+    "edition_permalink": null
+  },
+  {
     "card_slug": "rbl-shoppers-stop-black",
     "card_name": "RBL Bank Shoppers Stop Black Credit Card",
     "issuer": "rbl",

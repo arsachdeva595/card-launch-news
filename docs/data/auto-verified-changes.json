@@ -94,5 +94,41 @@
     "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/",
     "source": "auto-detected",
     "detected_at": "2026-09-17T08:40:45.411Z"
+  },
+  {
+    "card_slug": "icon-credit-card",
+    "card_name": "Icon Credit Card",
+    "issuer": "rbl",
+    "change_type": "reward-change",
+    "summary": "Added exclusions for reward points on specific merchant categories.",
+    "status": "verified",
+    "official_link": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/icon-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vbmfqr/need_advice_on_optimizing_my_credit_card/",
+    "source": "auto-detected",
+    "detected_at": "2026-09-24T08:38:04.451Z"
+  },
+  {
+    "card_slug": "first-power",
+    "card_name": "FIRST Power+",
+    "issuer": "idfc-first",
+    "change_type": "fee-change",
+    "summary": "Added Zero Forex Markup and reward points on international spends.",
+    "status": "verified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1w7udfa/help_me_simplify_my_credit_card_portfolio_too/",
+    "source": "auto-detected",
+    "detected_at": "2026-09-24T08:32:19.101Z"
+  },
+  {
+    "card_slug": "first-select",
+    "card_name": "FIRST Select",
+    "issuer": "idfc-first",
+    "change_type": "fee-change",
+    "summary": "Added 10X reward points on international spends and zero forex markup for the card.",
+    "status": "verified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/select",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vxs85g/idfc_first_select_credit_card_nerfed/",
+    "source": "auto-detected",
+    "detected_at": "2026-09-24T08:32:19.087Z"
   }
 ]

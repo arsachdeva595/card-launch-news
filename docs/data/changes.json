@@ -1,5 +1,1567 @@
 [
   {
+    "id": "rbl-bank-rbl-bank-quick-pay-credit-card",
+    "cardName": "RBL Bank Quick Pay Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-quick-pay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:38:04.460Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy the convenience of UPI payments and earn rewards, such as cashback, reward points, or discounts. Offline UPI transactions under INR 2,000 done at small merchants will not be eligible for product benefits as mentioned in Product T&C."
+      },
+      {
+        "type": "context",
+        "text": "Cardmember will earn reward points as defined in respective product terms & conditions. However, offline UPI transactions under INR 2000 done at small merchants on RBL Bank RuPay Credit Card will not be eligible for rewards points, voucher benefits, milestone benefits or any other product benefits, unless stated otherwise. For clarity, small merchants in this case means merchants with turnover of not more than INR 20 lakh during the previous financial year."
+      },
+      {
+        "type": "removed",
+        "text": "*Purchases made on select merchant categories: Fuel & Auto, Utilities, Insurance, Railways, Real Estate/Rental, Wallet/Service Providers & Miscellaneous do not earn reward points."
+      },
+      {
+        "type": "context",
+        "text": "W.e.f. October 15, 2024, purchases made on select merchant categories: Quasi-Cash, Education, Government Services, Contracted Services, Cash & Bills2Pay will also not earn reward points."
+      },
+      {
+        "type": "context",
+        "text": "# W.e.f. October 15, 2024, waiver of annual fees on achieving the annual spends will not include purchases made on select merchant categories: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Railways, Real Estate/Rental, Education, Wallet/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous & Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "removed",
+        "text": "Categories/MCCs will be defined as per Mastercard/RuPay/VISA guidelines: Grocery (5411, 5422, 5441, 5451, 5499), Fuel & Auto (0032,2541,4001,5542,5541,5172), Utilities (4900), Insurance (6300,6310), Quasi-Cash (6050, 6051, 4829), Railways (0066, 4011, 4112), Real Estate/Rental (6513), Education (8220,8244, 8249, 8211, 8241, 8299), Wallet/Service Providers (6540), Government Services (9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223), Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780), Cash (6011, 6010) and Miscellaneous (5960)"
+      },
+      {
+        "type": "added",
+        "text": "Note: Purchases made under below mentioned merchant categories will be excluded from reward point benefit and quarterly milestone benefit: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Real Estate/Rental, Education, Wallets/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "added",
+        "text": "Categories/MCCs will be defined as per Network guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Railways MCC: 0066, 4011, 4112, Fuel & Auto: 0032, 2541, 4001, 5542, 5541, 5172, Utilities: 4900, Wallet/Service Providers: 6540, Quasi-Cash: 6050, 6051, 4829, Real Estate/Rental: 6513, Insurance: 6300, 6310, Education: 8220, 8244, 8249, 8211, 8241, 8299, Government Services: 9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223, Contracted Services: 1711, 1740, 0763, 1520, 0742, 1761, 1799,1750, 1731, 1771, 0780, Cash: 6011, 6010, Miscellaneous: 5960"
+      },
+      {
+        "type": "context",
+        "text": "Bills2Pay is a facility provided by RBL Bank where Cardmembers can pay various utility bills via RBL MyBank App/Internet banking channel"
+      },
+      {
+        "type": "context",
+        "text": "Click here for detailed terms and conditions."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated the list of merchant categories excluded from reward points and quarterly milestones."
+    }
+  },
+  {
+    "id": "rbl-bank-titanium-delight-credit-card",
+    "cardName": "Titanium Delight Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/titanium-delight-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-24T08:38:04.454Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Avail annual fee waiver # by making purchases worth INR 1.5 lakhs or more in a membership year."
+      },
+      {
+        "type": "context",
+        "text": "^W.e.f. October 15, 2024, Additional bonus reward points benefit on achieving an annual spends will not be included on purchases/spends for select merchant categories: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Railways, Real Estate/Rental, Education, Wallet/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "removed",
+        "text": "*Purchases made on select merchant categories: Fuel & Auto, Utilities, Insurance, Railways, Real Estate/Rental, Wallet/Service Providers & Miscellaneous do not earn reward points. W.e.f. October 15, 2024, purchases made on select merchant categories: Quasi-Cash, Education, Government Services, Contracted Services, Cash & Bills2Pay will also not earn reward points."
+      },
+      {
+        "type": "context",
+        "text": "# W.e.f. October 15, 2024, waiver of annual fees on achieving the annual spends will not include purchases made on select merchant categories: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Railways, Real Estate/Rental, Education, Wallet/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous & Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "removed",
+        "text": "Categories/MCCs will be defined as per Mastercard/RuPay/VISA guidelines: Grocery (5411, 5422, 5441, 5451, 5499), Fuel & Auto (0032,2541,4001,5542,5541,5172), Utilities (4900), Insurance (6300,6310), Quasi-Cash (6050, 6051, 4829), Railways (0066, 4011, 4112), Real Estate/Rental (6513), Education (8220,8244, 8249, 8211, 8241, 8299), Wallet/Service Providers (6540), Government Services (9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223), Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780), Cash (6011, 6010) and Miscellaneous (5960)"
+      },
+      {
+        "type": "added",
+        "text": "Note: Purchases made under below mentioned merchant categories will be excluded from reward point benefit and quarterly milestone benefit: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Real Estate/Rental, Education, Wallets/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "added",
+        "text": "Categories/MCCs will be defined as per Network guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Grocery: 5411, 5422, 5441, 5451, 5499; Fuel & Auto: 0032, 2541, 4001, 5542, 5541, 5172; Utilities: 4900; Insurance: 6300, 6310; Quasi-Cash: 6050, 6051, 4829; Railways: 0066, 4011, 4112; Real Estate/Rental: 6513; Education: 8220, 8244, 8249, 8211, 8241, 8299; Wallet/Service Providers: 6540; Government Services: 9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223; Contracted Services: 1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780; Cash: 6011, 6010; Miscellaneous:5960"
+      },
+      {
+        "type": "context",
+        "text": "Bills2Pay is a facility provided by RBL Bank where Cardmembers can pay various utility bills via RBL MyBank App/Internet banking channel"
+      },
+      {
+        "type": "context",
+        "text": "Titanium Delight Credit Card comes with an annual membership fee of INR 750 + GST."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated excluded merchant categories for reward points."
+    }
+  },
+  {
+    "id": "rbl-bank-world-safari-credit-card",
+    "cardName": "World Safari Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/world-safari-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:38:04.452Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Click here to go through the steps to redeem and Terms & Conditions of your welcome gift."
+      },
+      {
+        "type": "context",
+        "text": "Refer Product T&C for more details."
+      },
+      {
+        "type": "added",
+        "text": "Eligible but yet to receive your voucher? Click here link to redeem your voucher."
+      },
+      {
+        "type": "context",
+        "text": "Product Benefits"
+      },
+      {
+        "type": "context",
+        "text": "A seasoned reward is due to a travel lover like you."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Voucher shall be mailed to you within 45 days from the date of crossing the corresponding ‘Milestone Benefit’."
+      },
+      {
+        "type": "context",
+        "text": "To view the instructions for redeeming your World Safari Gift Card and its Terms & Conditions, click here"
+      },
+      {
+        "type": "added",
+        "text": "Eligible but yet to receive your milestone gift voucher? Click here link to redeem your voucher."
+      },
+      {
+        "type": "context",
+        "text": "Complimentary Lounge Access"
+      },
+      {
+        "type": "context",
+        "text": "Lounge Access at airports in India: Primary cardmembers will be eligible for 2 complimentary airport lounge accesses within India in a quarter if they spend INR 35,000 or more in the previous calendar quarter."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 1% fuel surcharge waiver across all fuel stations."
+      },
+      {
+        "type": "context",
+        "text": "Valid for fuel transactions between INR 500 and INR 4,000. Get a maximum waiver of INR 250 per month."
+      },
+      {
+        "type": "added",
+        "text": "*Purchases made under below mentioned merchant categories will be excluded from reward point benefits. Excluded Categories/MCCs are defined as per VISA & Mastercard guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Category and MCC SN. Category MCC"
+      },
+      {
+        "type": "added",
+        "text": "1 Fuel & Auto 0032, 2541, 4001, 5542, 5541, 5172"
+      },
+      {
+        "type": "added",
+        "text": "2 Utilities 4900"
+      },
+      {
+        "type": "added",
+        "text": "3 Insurance 6300, 6310"
+      },
+      {
+        "type": "added",
+        "text": "4 Railways 0066, 4011, 4112"
+      },
+      {
+        "type": "added",
+        "text": "5 Real Estate/ Rental 6513"
+      },
+      {
+        "type": "added",
+        "text": "6 Wallet/ Service Providers 6540"
+      },
+      {
+        "type": "added",
+        "text": "7 Miscellaneous 5960"
+      },
+      {
+        "type": "context",
+        "text": "Refer Product T&C for more details."
+      },
+      {
+        "type": "context",
+        "text": "Fees and Charges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added list of merchant categories excluded from reward points."
+    }
+  },
+  {
+    "id": "rbl-bank-icon-credit-card",
+    "cardName": "Icon Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/icon-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:38:04.451Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Valid for fuel transactions between INR 500 and INR 4,000. Maximum waiver of INR 200 per month."
+      },
+      {
+        "type": "context",
+        "text": "Benefit will be reflected in your monthly credit card statement."
+      },
+      {
+        "type": "added",
+        "text": "Purchases made under below mentioned merchant categories will be excluded from reward point benefits. Excluded Categories/MCCs are defined as per VISA & Mastercard guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Category and MCC SN. Category MCC"
+      },
+      {
+        "type": "added",
+        "text": "1 Railways 0066, 4011, 4112"
+      },
+      {
+        "type": "added",
+        "text": "2 Real Estate/ Rental 6513"
+      },
+      {
+        "type": "added",
+        "text": "3 Miscellaneous 5960"
+      },
+      {
+        "type": "context",
+        "text": "Fees and Charges"
+      },
+      {
+        "type": "context",
+        "text": "Annual Membership Fee: INR 5,000 + GST"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added exclusions for reward points on specific merchant categories.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Need advice on optimizing my credit card portfolio – which cards to keep, close, upgrade or add?",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vbmfqr/need_advice_on_optimizing_my_credit_card/",
+        "description": "Hi everyone, I currently have the following credit cards and I’m trying to optimize my overall portfolio. I feel I have too many cards with overlapping benefits and would like advice on whether I should shuffle my usage, close some cards, u"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "rbl-bank-shoprite-credit-card",
+    "cardName": "ShopRite Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/shoprite-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:38:04.451Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "For Credit Cards issued on RuPay network, enjoy the features of National Common Mobility Card (NCMC) and RuPay Credit Card on Unified Payment Interface (UPI). Know More ."
+      },
+      {
+        "type": "context",
+        "text": "In case of RuPay Credit Card, Cardmember will earn reward points as defined in respective product terms & conditions. However, offline UPI transactions under INR 2000 done at small merchants on RBL Bank RuPay Credit Card will not be eligible for rewards points, voucher benefits, milestone benefits or any other product benefits, unless stated otherwise. For clarity, small merchants in this case means merchants with turnover of not more than INR 20 lakh during the previous financial year."
+      },
+      {
+        "type": "removed",
+        "text": "*Purchases made on select merchant categories: Fuel & Auto, Utilities, Insurance, Railways, Real Estate/Rental, Wallet/Service Providers & Miscellaneous do not earn reward points."
+      },
+      {
+        "type": "context",
+        "text": "W.e.f. October 15, 2024, purchases made on select merchant categories: Quasi-Cash, Education, Government Services, Contracted Services, Cash & Bills2Pay will also not earn reward points."
+      },
+      {
+        "type": "context",
+        "text": "# W.e.f. October 15, 2024, waiver of annual fees on achieving the annual spends will not include purchases made on select merchant categories: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Railways, Real Estate/Rental, Education, Wallet/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous & Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "removed",
+        "text": "Categories/MCCs will be defined as per Mastercard/RuPay/VISA guidelines: Grocery (5411, 5422, 5441, 5451, 5499), Fuel & Auto (0032,2541,4001,5542,5541,5172), Utilities (4900), Insurance (6300,6310), Quasi-Cash (6050, 6051, 4829), Railways (0066, 4011, 4112), Real Estate/Rental (6513), Education (8220,8244, 8249, 8211, 8241, 8299), Wallet/Service Providers (6540), Government Services (9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223), Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780), Cash (6011, 6010) and Miscellaneous (5960)"
+      },
+      {
+        "type": "added",
+        "text": "Note: Purchases made under below mentioned merchant categories will be excluded from reward point benefit and quarterly milestone benefit: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Real Estate/Rental, Education, Wallets/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "added",
+        "text": "Categories/MCCs will be defined as per Network guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Railways: MCC 0066, 4011, 4112, Fuel & Auto: 0032, 2541, 4001, 5542, 5541, 5172, Utilities: 4900, Wallet/Service Providers: 6540, Quasi-Cash: 6050, 6051, 4829, Real Estate/Rental: 6513, Insurance: 6300, 6310, Education: 8220, 8244, 8249, 8211, 8241, 8299, Government Services: 9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223, Contracted Services: 1711, 1740, 0763, 1520, 0742, 1761, 1799,1750, 1731, 1771, 0780, Cash: 6011, 6010, Miscellaneous: 5960"
+      },
+      {
+        "type": "context",
+        "text": "Bills2Pay is a facility provided by RBL Bank where Cardmembers can pay various utility bills via RBL MyBank App/Internet banking channel"
+      },
+      {
+        "type": "context",
+        "text": "Click here for detailed terms and conditions."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added exclusion of specific merchant categories from reward points and milestone benefits."
+    }
+  },
+  {
+    "id": "rbl-bank-cookies-credit-card",
+    "cardName": "Cookies Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/cookies-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:38:04.450Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Did you know there's a surcharge attached to your fuel spends? For your fuel spends between INR 500 and INR 4,000, get a waiver of fuel surcharge."
+      },
+      {
+        "type": "context",
+        "text": "Fuel surcharge reversal is done monthly, up to INR 150 per month. Surcharge reversal will reflect in your monthly statement."
+      },
+      {
+        "type": "removed",
+        "text": "*Effective October 15, 2024, Transactions made on select Merchant Category Codes (MCCs) Fuel & Auto (0032,2541,4001,5542,5541,5172) , Utilities (4900), Insurance (6300,6310), Quasi-Cash (6050,6051,4829), Railways (0066, 4011, 4112), Real Estate/Rental (6513), Education (8220,8244, 8249, 8211, 8241, 8299), Wallet/Service Providers (6540), Government Services (9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223), Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780), Miscellaneous (5960), Cash (6011, 6010) EMI (Split-N-Pay & EMI done during making transaction) and Bills2Pay will not be considered eligible for the benefit. Please refer T&C (Clause 2.12) for more details."
+      },
+      {
+        "type": "added",
+        "text": "Note: Purchases made under below mentioned merchant categories will be excluded from reward point benefit and quarterly milestone benefit: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Real Estate/Rental, Education, Wallets/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
+      },
+      {
+        "type": "added",
+        "text": "Categories/MCCs will be defined as per Network guidelines:"
+      },
+      {
+        "type": "added",
+        "text": "Railways: MCC 0066, 4011, 4112, Fuel & Auto: 0032, 2541, 4001, 5542, 5541, 5172, Utilities: 4900, Wallet/Service Providers: 6540, Quasi-Cash: 6050, 6051, 4829, Real Estate/Rental: 6513, Insurance: 6300, 6310, Education: 8220, 8244, 8249, 8211, 8241, 8299, Government Services: 9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223, Contracted Services: 1711, 1740, 0763, 1520, 0742, 1761, 1799,1750, 1731, 1771, 0780, Cash: 6011, 6010, Miscellaneous: 5960"
+      },
+      {
+        "type": "context",
+        "text": "Bills2Pay - Cardmembers can pay various utility bills via RBL MyBank App/Internet banking channel."
+      },
+      {
+        "type": "context",
+        "text": "Fees and Charges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "idfc-first-bank-apply-for-quantum-credit-card",
+    "cardName": "Apply for Quantum+ Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.107Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Whether you are student, homemaker, freelancer, retired employee, or a young professional, the Quantum+ gets you started with no income proof or credit history required."
+      },
+      {
+        "type": "context",
+        "text": "Read more"
+      },
+      {
+        "type": "added",
+        "text": "Quantum+ Credit Card now comes with Zero Forex Markup​"
+      },
+      {
+        "type": "added",
+        "text": "Earn up to 2% Cashback on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Experience the Quantum+ Advantage"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy cashback on everyday spends while your FD earns interest"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "ON A MISSION TO BUILD THE WORLD’S MOST"
+      },
+      {
+        "type": "context",
+        "text": "CUSTOMER FRIENDLY BANK"
+      },
+      {
+        "type": "added",
+        "text": "With up to 2% cashback on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Your application is one scan away"
+      },
+      {
+        "type": "context",
+        "text": "Scan to continue on mobile and finish your application securely."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added zero forex markup and up to 2% cashback on international spends."
+    }
+  },
+  {
+    "id": "idfc-first-bank-lic-select",
+    "cardName": "LIC Select",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/lic-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.104Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "LIC Select"
+      },
+      {
+        "type": "context",
+        "text": "A credit card that secures your tomorrow, while rewarding your today. This credit card offers supersized rewards on LIC premium payments and other daily spends. These rewards can be redeemed anywhere online, even to fund your next LIC premium payment. That’s not all, there are lifestyle privileges like airport & railway lounge access, road-side assistance and insurance covers."
+      },
+      {
+        "type": "added",
+        "text": "LIC IDFC FIRST Credit Card now comes with Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "Earn Reward Points on international spends as per the credit card’s reward programme​"
+      },
+      {
+        "type": "context",
+        "text": "At A Glance"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Onboard"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Existing IDFC FIRST Bank Credit Cardholders are not eligible to apply for LIC IDFC FIRST Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "No Joining Fee | No Annual Fee"
+      },
+      {
+        "type": "removed",
+        "text": "on all IDFC FIRST BANK Credit Cards"
+      },
+      {
+        "type": "added",
+        "text": "With Reward Points on international spends"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added Zero Forex Markup fee and reward points on international spends for the LIC IDFC FIRST Credit Card."
+    }
+  },
+  {
+    "id": "idfc-first-bank-lic-classic",
+    "cardName": "LIC Classic",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/lic-classic-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.103Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "LIC Select"
+      },
+      {
+        "type": "context",
+        "text": "A credit card that secures your tomorrow, while rewarding your today. This credit card offers supersized rewards on LIC premium payments and other daily spends. These rewards can be redeemed anywhere online, even to fund your next LIC premium payment. That’s not all, there are lifestyle privileges like airport & railway lounge access, road-side assistance and insurance covers."
+      },
+      {
+        "type": "added",
+        "text": "LIC IDFC FIRST Credit Card now comes with Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "Earn Reward Points on international spends as per the credit card’s reward programme​"
+      },
+      {
+        "type": "context",
+        "text": "At A Glance"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Onboard"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Existing IDFC FIRST Bank Credit Cardholders are not eligible to apply for LIC IDFC FIRST Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "No Joining Fee | No Annual Fee"
+      },
+      {
+        "type": "added",
+        "text": "With Reward Points on international spends"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added zero forex markup and reward points on international spends for the card."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-power",
+    "cardName": "FIRST Power+",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.101Z",
+    "diffHunks": [
+      {
+        "type": "added",
+        "text": "FIRST Power+ Credit Card now comes with Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "Earn Reward Points on international spends as per the credit card’s reward programme​"
+      },
+      {
+        "type": "added",
+        "text": "Earn Reward Points on international spends as per the credit card’s reward programme​"
+      },
+      {
+        "type": "added",
+        "text": "FIRST Power Credit Card now comes with Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "With Reward Points on international spends"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added Zero Forex Markup and reward points on international spends.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Help me simplify my credit card portfolio — too many cards! 😅",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1w7udfa/help_me_simplify_my_credit_card_portfolio_too/",
+        "description": "I’ve accumulated way too many cards over the years and want to get down to 10 cards max . With the recent devaluations of HDFC Infinia and ICICI Emeralde Private Metal , especially around Amazon Pay vouchers, I’m rethinking my entire setup."
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-ea-n",
+    "cardName": "FIRST EA₹N",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/secured-rupay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.096Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "FIRST EARN Credit Card: Digital, Secured, and Rewards on Everyday Spending"
+      },
+      {
+        "type": "context",
+        "text": "Redefine your spending experience with IDFC FIRST Bank’s FIRST EA₹N Credit Card. This UPI-ready credit card, backed by your fixed deposit, guarantees approval while offering up to 1% cashback on UPI spends via the IDFC FIRST Bank mobile app and 0.5% cashback on all other UPI app transactions. With the added convenience of UPI integration and instant virtual card issuance, it’s built for customers seeking digital-first solutions. Beyond easy payments, this card offers a discount on movie bookings, up to 8% bonus cashback on travel bookings, and also supports credit score building. Apply today to enjoy a credit card that rewards on everyday spending."
+      },
+      {
+        "type": "added",
+        "text": "FIRST EA₹N Credit Card now comes with Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "Earn 0.5% Cashback on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Earn Cashback Every Time You Make a Payment!"
+      },
+      {
+        "type": "context",
+        "text": "1% Cashback*"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Important Docs"
+      },
+      {
+        "type": "context",
+        "text": "Know your Privileges"
+      },
+      {
+        "type": "added",
+        "text": "With 0.5% cashback on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Your application is one scan away"
+      },
+      {
+        "type": "context",
+        "text": "Scan to continue on mobile and finish your application securely."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added zero forex markup and 0.5% cashback on international spends."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-millennia",
+    "cardName": "FIRST Millennia",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/millennia",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.094Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "FIRST Millennia Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "#UnlockTheNewAge"
+      },
+      {
+        "type": "added",
+        "text": "Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "Earn 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "FIRST Millennia - Low Interest Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "• If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer"
+      },
+      {
+        "type": "context",
+        "text": "• If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded"
+      },
+      {
+        "type": "added",
+        "text": "FIRST Millennia Credit Card now comes with Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "Earn 10X Reward Points on international spends ​"
+      },
+      {
+        "type": "context",
+        "text": "Exclusive privileges with the"
+      },
+      {
+        "type": "context",
+        "text": "FIRST Millennia Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "ON A MISSION TO BUILD THE WORLD’S MOST"
+      },
+      {
+        "type": "context",
+        "text": "CUSTOMER FRIENDLY BANK"
+      },
+      {
+        "type": "added",
+        "text": "With 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Your application is one scan away"
+      },
+      {
+        "type": "context",
+        "text": "Scan to continue on mobile and finish your application securely."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added Zero Forex Markup and 10X Reward Points on international spends."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-classic",
+    "cardName": "FIRST Classic",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/classic",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.092Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "FIRST Classic Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "#IndulgeMore"
+      },
+      {
+        "type": "added",
+        "text": "Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "Earn 10X Reward Points on international spends​"
+      },
+      {
+        "type": "context",
+        "text": "A lifetime-free card packed with valuable benefits"
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "•If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer"
+      },
+      {
+        "type": "context",
+        "text": "•If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded"
+      },
+      {
+        "type": "added",
+        "text": "FIRST Classic Credit Card now comes with Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "Earn 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy life’s simple pleasures with the FIRST Classic Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Comprehensive insurance"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "ON A MISSION TO BUILD THE WORLD’S MOST"
+      },
+      {
+        "type": "context",
+        "text": "CUSTOMER FRIENDLY BANK"
+      },
+      {
+        "type": "added",
+        "text": "With 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Your application is one scan away"
+      },
+      {
+        "type": "context",
+        "text": "Scan to continue on mobile and finish your application securely."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added Zero Forex Markup and 10X Reward Points on international spends for the card."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-wealth",
+    "cardName": "FIRST Wealth",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.089Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "#SeizeTheMoment"
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "removed",
+        "text": "Lifetime-free card with premium benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Apply now"
+      },
+      {
+        "type": "context",
+        "text": "Zero Forex Markup"
+      },
+      {
+        "type": "removed",
+        "text": "on international transactions"
+      },
+      {
+        "type": "added",
+        "text": "Earn 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime-free card with premium benefits"
+      },
+      {
+        "type": "added",
+        "text": "Apply now"
+      },
+      {
+        "type": "context",
+        "text": "Earn up to 3X"
+      },
+      {
+        "type": "context",
+        "text": "Reward Points on UPI Spends"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "•If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer"
+      },
+      {
+        "type": "context",
+        "text": "•If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded"
+      },
+      {
+        "type": "added",
+        "text": "FIRST Wealth Credit Card now comes with Zero Forex Markup"
+      },
+      {
+        "type": "added",
+        "text": "Earn 10X Reward Points on international spends ​"
+      },
+      {
+        "type": "context",
+        "text": "Indulge in finer experiences"
+      },
+      {
+        "type": "context",
+        "text": "Comprehensive insurance"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "ON A MISSION TO BUILD THE WORLD’S MOST"
+      },
+      {
+        "type": "context",
+        "text": "CUSTOMER FRIENDLY BANK"
+      },
+      {
+        "type": "added",
+        "text": "With 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Your application is one scan away"
+      },
+      {
+        "type": "context",
+        "text": "Scan to continue on mobile and finish your application securely."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added Zero Forex Markup fee and 10X Reward Points on international spends"
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-select",
+    "cardName": "FIRST Select",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/select",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.087Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "FIRST Select Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "#MakeMomentsCount"
+      },
+      {
+        "type": "removed",
+        "text": "FIRST Select - Lounge Access Credit Card Online"
+      },
+      {
+        "type": "removed",
+        "text": "Apply now"
+      },
+      {
+        "type": "context",
+        "text": "Zero Forex Markup"
+      },
+      {
+        "type": "removed",
+        "text": "on international transactions"
+      },
+      {
+        "type": "added",
+        "text": "Earn 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "added",
+        "text": "FIRST Select - Lounge Access Credit Card Online"
+      },
+      {
+        "type": "added",
+        "text": "Apply now"
+      },
+      {
+        "type": "context",
+        "text": "Earn up to 3X"
+      },
+      {
+        "type": "context",
+        "text": "Reward Points"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "•If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer"
+      },
+      {
+        "type": "context",
+        "text": "•If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded"
+      },
+      {
+        "type": "added",
+        "text": "FIRST Select Credit Card now comes with Zero Forex Markup​"
+      },
+      {
+        "type": "added",
+        "text": "Earn 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Maximise your lifestyle with the"
+      },
+      {
+        "type": "context",
+        "text": "FIRST Select Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "ON A MISSION TO BUILD THE WORLD’S MOST"
+      },
+      {
+        "type": "context",
+        "text": "CUSTOMER FRIENDLY BANK"
+      },
+      {
+        "type": "added",
+        "text": "With 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Your application is one scan away"
+      },
+      {
+        "type": "context",
+        "text": "Scan to continue on mobile and finish your application securely."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added 10X reward points on international spends and zero forex markup for the card.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Idfc first select credit card nerfed",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vxs85g/idfc_first_select_credit_card_nerfed/",
+        "description": "It used to offer 10x reward points on purchases more than 20k. I used to make gold scheme payments from it (almost 70k per month) and got handsome reward points. Now they have limited 10x for dining and international spends thereby limiting"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
+    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:32:19.082Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Regardless of how you apply, whether by paying a joining fee or with a Fixed Deposit (FD), You will receive two physical cards — Mastercard and RuPay in one kit. All transactions will reflect in a single statement. Your credit limit will be shared between both cards, and all spending on both cards will contribute towards your IndiGo BluChip earnings, activation, and milestone benefits"
+      },
+      {
+        "type": "context",
+        "text": "Read less"
+      },
+      {
+        "type": "added",
+        "text": "IndiGo IDFC FIRST Credit Card now comes with Zero Forex Markup​"
+      },
+      {
+        "type": "added",
+        "text": "Earn 1 IndiGo BluChip on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Key Benefits of IndiGo IDFC FIRST Dual Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Product Information Kit"
+      },
+      {
+        "type": "context",
+        "text": "Product Privileges"
+      },
+      {
+        "type": "added",
+        "text": "With 1 IndiGo BluChip on international spends"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added zero forex markup fee and new international spend reward of 1 IndiGo BluChip."
+    }
+  },
+  {
+    "id": "federal-bank-visa-celesta-credit-card",
+    "cardName": "Visa Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:29:30.010Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: d82b8ec3-e42i-4518-9c8b-4eaa493c2151"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: ccbb7c15-e42i-46b0-9229-d2bac61de528"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "September 23 2026, 08:37:49 UTC"
+      },
+      {
+        "type": "added",
+        "text": "September 24 2026, 08:29:22 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-travel-credit-card",
+    "cardName": "Travel Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:28:16.852Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "removed",
+        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
+      },
+      {
+        "type": "context",
+        "text": "Your Axis Credit Card awaits you!"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Lifetime free offer removed for existing customers."
+    }
+  },
+  {
+    "id": "axis-bank-dining-credit-card",
+    "cardName": "Dining Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:28:16.851Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "removed",
+        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "FLIPKART AXIS BANK Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "removed",
+        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
+      },
+      {
+        "type": "context",
+        "text": "Your Axis Credit Card awaits you!"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Lifetime free offer for existing Axis Bank Credit Card customers removed."
+    }
+  },
+  {
+    "id": "axis-bank-lic-axis-bank-signature-credit-card",
+    "cardName": "LIC Axis Bank Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:28:16.843Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "removed",
+        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed a lifetime free offer that was not valid for existing Axis Bank Credit Card customers"
+    }
+  },
+  {
+    "id": "axis-bank-samsung-axis-bank-signature-credit-card",
+    "cardName": "Samsung Axis Bank Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:28:16.840Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Joining Fee: ₹499"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹499"
+      },
+      {
+        "type": "removed",
+        "text": "Got more questions?"
+      },
+      {
+        "type": "removed",
+        "text": "Locate the nearest branch for best assessment."
+      },
+      {
+        "type": "removed",
+        "text": "Locate Branches"
+      },
+      {
+        "type": "context",
+        "text": "Nov 18, 2025"
+      },
+      {
+        "type": "context",
+        "text": "How to increase your CIBIL score?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-rewards-credit-card",
+    "cardName": "Axis Bank REWARDS Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-24T08:28:16.828Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Click here to avail the offers"
+      },
+      {
+        "type": "context",
+        "text": "Fees Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee ₹1000"
+      },
+      {
+        "type": "removed",
+        "text": "Standard annual Fee (2nd year Onwards) ₹1000"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee ₹NIL (Limited period offer on Amex Network)"
+      },
+      {
+        "type": "added",
+        "text": "Standard annual Fee (2nd year Onwards) ₹NIL (Limited period offer on Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "Add-on card joining fee Nil"
+      },
+      {
+        "type": "context",
+        "text": "Add-on card annual fee Nil"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "How much time it takes to improve CIBIL score?"
+      },
+      {
+        "type": "context",
+        "text": "Learn how long it takes to improve CIBIL score. Your credit score is a critical..."
+      },
+      {
+        "type": "removed",
+        "text": "Got more questions?"
+      },
+      {
+        "type": "removed",
+        "text": "Locate the nearest branch for best assessment."
+      },
+      {
+        "type": "removed",
+        "text": "Locate Branches"
+      },
+      {
+        "type": "context",
+        "text": "Your Axis Rewards Credit Card awaits you!"
+      },
+      {
+        "type": "context",
+        "text": "Check Eligibility"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining and standard annual fees removed, now NIL under limited Amex Network offer"
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-privilege-credit-card",
+    "cardName": "AXIS BANK PRIVILEGE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "status": "Discontinued",
+    "detectedAt": "2026-09-24T08:28:16.823Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "In Privilege Credit Card fees, overdue penalty, fee on cash payment, etc. are applicable as per terms and conditions. However, fees and charges for Privilege Credit Card are waived for services like mobile alerts. The detailed fee structure is provided below."
+      },
+      {
+        "type": "context",
+        "text": "Description Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Joining Fee ₹NIL (Limited period offer)"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer)"
+      },
+      {
+        "type": "added",
+        "text": "Standard Joining Fee ₹NIL (Limited period offer on Amex Network)"
+      },
+      {
+        "type": "added",
+        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer on Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "Standard Add-on Card Joining Fee Nil"
+      },
+      {
+        "type": "context",
+        "text": "Standard Add-on Card Annual Fee Nil"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "rbl-bank-world-safari-plus-credit-card",
     "cardName": "World Safari Plus Credit Card",
     "issuerName": "RBL Bank",
@@ -325,54 +1887,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Forex markup removed, replaced with zero markup on international business spends."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-millennia",
-    "cardName": "FIRST Millennia",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/millennia",
-    "status": "Active",
-    "detectedAt": "2026-09-23T08:40:23.091Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Reward Points are valid for 24 months from the date they are credited."
-      },
-      {
-        "type": "context",
-        "text": "Reward Points are earned only on spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
-      },
-      {
-        "type": "removed",
-        "text": "Till 18th June 2026:"
-      },
-      {
-        "type": "removed",
-        "text": "- Earn 3X Reward Points on spends up to ₹20,000 per statement cycle and spends done on your birthday"
-      },
-      {
-        "type": "removed",
-        "text": "- Rental & Property Management, Government Services, Education and Wallet Load transactions will earn 3X reward points"
-      },
-      {
-        "type": "context",
-        "text": "1X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Removed 3X reward points on up to ₹20,000 spend and on birthday, plus specific categories."
     }
   },
   {
@@ -1144,74 +2658,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
-    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-21T09:00:43.622Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
-      },
-      {
-        "type": "context",
-        "text": "on spends of ₹15K in the first 30 days of card generation."
-      },
-      {
-        "type": "removed",
-        "text": "Offer Period:1 st June 2026 to 31 st August 2026"
-      },
-      {
-        "type": "added",
-        "text": "Offer Period:1 st June 2026 to 30 th September 2026"
-      },
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Earn IndiGo BluChips on"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
-      },
-      {
-        "type": "context",
-        "text": "on spends of ₹15,000 in the first 30 days of card generation."
-      },
-      {
-        "type": "removed",
-        "text": "Offer Period: 1 st June 2026 to 31 st August 2026"
-      },
-      {
-        "type": "added",
-        "text": "Offer Period: 1 st June 2026 to 30 th September 2026"
-      },
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Global reach + UPI with ease"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "icici-bank-icici-bank-emeralde-credit-card",
     "cardName": "ICICI Bank Emeralde Credit Card",
     "issuerName": "ICICI Bank",
@@ -1557,54 +3003,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Cashback reward rate changed to ₹0.15 per RP"
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-power",
-    "cardName": "FIRST Power+",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-20T08:41:57.559Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Yes, there is. If you have a FIRST Power+ Credit Card, you will receive a ₹500 Gift Voucher on your first HPCL fuel transaction of ₹500 or more, made within 30 days of card generation."
-      },
-      {
-        "type": "removed",
-        "text": "For the FIRST Power Credit Card, you will get a ₹250  Gift Voucher on your first HPCL fuel transaction of ₹250 or more, made within 30 days of card generation."
-      },
-      {
-        "type": "removed",
-        "text": "Please note: The joining offer is valid only if the joining fee has been paid in full."
-      },
-      {
-        "type": "added",
-        "text": "Yes, there is. If you have a FIRST Power+ Credit Card, you will receive a ₹500 Gift Voucher on your first HPCL fuel transaction* of ₹500 or more, made within 30 days of card generation."
-      },
-      {
-        "type": "added",
-        "text": "For the FIRST Power Credit Card, you will get a ₹250  Gift Voucher on your first HPCL fuel transaction of ₹250* or more, made within 30 days of card generation.​"
-      },
-      {
-        "type": "added",
-        "text": "Please note: The joining offer is valid only if the joining fee has been paid in full. ​"
-      },
-      {
-        "type": "added",
-        "text": "*HPCL fuel transaction will be eligible for gift voucher only if settled within 30 days​"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added condition that HPCL fuel transaction must be settled within 30 days to qualify for gift voucher"
     }
   },
   {
@@ -2389,314 +3787,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated the complimentary membership options by removing Discovery+ from the list."
-    }
-  },
-  {
-    "id": "axis-bank-dining-credit-card",
-    "cardName": "Dining Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-19T08:03:24.198Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Food & Dining"
-      },
-      {
-        "type": "context",
-        "text": "Entertainment"
-      },
-      {
-        "type": "added",
-        "text": "Axis Bank My Zone Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Sony LIV Premium subscription for 1 Year worth ₹1499"
-      },
-      {
-        "type": "added",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "added",
-        "text": "Axis Bank REWARDS Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
-      },
-      {
-        "type": "added",
-        "text": "Milestone benefit of 1500 EDGE REWARD Points"
-      },
-      {
-        "type": "added",
-        "text": "₹150 instant discount on Swiggy"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on the Amex Network)"
-      },
-      {
-        "type": "added",
-        "text": "UPI card"
-      },
-      {
-        "type": "added",
-        "text": "Fee waiver"
-      },
-      {
-        "type": "added",
-        "text": "Food & Dining"
-      },
-      {
-        "type": "added",
-        "text": "Entertainment"
-      },
-      {
-        "type": "context",
-        "text": "Neo Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Welcome benefit of up to ₹300* on Utility bill payment"
-      },
-      {
-        "type": "context",
-        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
-      },
-      {
-        "type": "context",
-        "text": "10%* off on Blinkit and BookMyShow"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
-      },
-      {
-        "type": "removed",
-        "text": "Axis Bank REWARDS Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Milestone benefit of 1,500 EDGE REWARD Points"
-      },
-      {
-        "type": "removed",
-        "text": "Bouquet of membership up to ₹1,000 every anniversary year"
-      },
-      {
-        "type": "removed",
-        "text": "₹150 instant discount on Swiggy."
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: ₹1000"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: ₹1000"
-      },
-      {
-        "type": "context",
-        "text": "Fee waiver"
-      },
-      {
-        "type": "context",
-        "text": "FLIPKART AXIS BANK Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
-      },
-      {
-        "type": "context",
-        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently First Year Free)"
-      },
-      {
-        "type": "removed",
-        "text": "UPI card"
-      },
-      {
-        "type": "removed",
-        "text": "Fee waiver"
-      },
-      {
-        "type": "removed",
-        "text": "Food & Dining"
-      },
-      {
-        "type": "removed",
-        "text": "Entertainment"
-      },
-      {
-        "type": "removed",
-        "text": "Axis Bank My Zone Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Sony LIV Premium subscription for 1 Year worth ₹1499"
-      },
-      {
-        "type": "removed",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "context",
-        "text": "Dining Credit Cards eligibility criteria"
-      },
-      {
-        "type": "context",
-        "text": "Banks assess applicants carefully before issuing a Dining Credit Card to ensure responsible usage."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Food & Dining"
-      },
-      {
-        "type": "context",
-        "text": "Entertainment"
-      },
-      {
-        "type": "added",
-        "text": "Axis Bank My Zone Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Sony LIV Premium subscription for 1 Year worth ₹1499"
-      },
-      {
-        "type": "added",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "added",
-        "text": "UPI card"
-      },
-      {
-        "type": "added",
-        "text": "Fee waiver"
-      },
-      {
-        "type": "added",
-        "text": "Food & Dining"
-      },
-      {
-        "type": "added",
-        "text": "Entertainment"
-      },
-      {
-        "type": "context",
-        "text": "Neo Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Welcome benefit of up to ₹300* on Utility bill payment"
-      },
-      {
-        "type": "context",
-        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
-      },
-      {
-        "type": "context",
-        "text": "10%* off on Blinkit and BookMyShow"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
-      },
-      {
-        "type": "removed",
-        "text": "UPI card"
-      },
-      {
-        "type": "removed",
-        "text": "Fee waiver"
-      },
-      {
-        "type": "removed",
-        "text": "Food & Dining"
-      },
-      {
-        "type": "removed",
-        "text": "Entertainment"
-      },
-      {
-        "type": "removed",
-        "text": "Axis Bank My Zone Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Sony LIV Premium subscription for 1 Year worth ₹1499"
-      },
-      {
-        "type": "removed",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "context",
-        "text": "Your Axis Credit Card awaits you!"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added new benefits such as Sony LIV subscription, Swiggy discount, lounge access, and removed previous joining and annual fee details."
     }
   },
   {
@@ -3978,50 +5068,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-first-ea-n",
-    "cardName": "FIRST EA₹N",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/secured-rupay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-15T08:45:54.482Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Interest Rate (APR) Starting from 8.5% - 46.2% per annum."
-      },
-      {
-        "type": "context",
-        "text": "Surcharge of 1% on payment for Rent and Property Management, subject to a minimum of ₹249 (+GST) per transaction"
-      },
-      {
-        "type": "removed",
-        "text": "Forex Markup at 3.5% for all international transactions"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup on all international transactions​"
-      },
-      {
-        "type": "context",
-        "text": "Utility spends (Electricity, Gas, Telecom etc.) above ₹20,000 will attract 1% surcharge (+GST) on the aggregate utility spends in a statement cycle"
-      },
-      {
-        "type": "context",
-        "text": "Show More"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Foreign currency markup removed, now zero on all international transactions."
-    }
-  },
-  {
     "id": "icici-bank-rubyx-credit-card",
     "cardName": "Rubyx Credit Card",
     "issuerName": "ICICI Bank",
@@ -4094,548 +5140,6 @@
       {
         "type": "added",
         "text": "September 15 2026, 08:43:35 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-celesta-credit-card",
-    "cardName": "Visa Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-15T08:43:41.247Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 8672d3f5-e42i-41f8-8312-d1182d857980"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: cfee2b10-e42i-45eb-ac43-190507239ff9"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "September 14 2026, 08:56:56 UTC"
-      },
-      {
-        "type": "added",
-        "text": "September 15 2026, 08:43:34 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-classic",
-    "cardName": "FIRST Classic",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/classic",
-    "status": "Active",
-    "detectedAt": "2026-09-13T08:23:25.274Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
-      },
-      {
-        "type": "context",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
-      },
-      {
-        "type": "removed",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
-      },
-      {
-        "type": "context",
-        "text": "Convenience at your fingertips"
-      },
-      {
-        "type": "context",
-        "text": "Instant EMI conversion for all online transactions*"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Elevate spends with Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "on Dining, Travel, purchases and spends done on your birthday."
-      },
-      {
-        "type": "added",
-        "text": "on Dining, Travel and International purchases and spends done on your birthday."
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on eligible spends​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "On Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "removed",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
-      },
-      {
-        "type": "context",
-        "text": "Reward program not applicable on Fuel, EMI transactions and Cash withdrawals."
-      },
-      {
-        "type": "context",
-        "text": "Reward redemption will attract a small convenience charge of ₹99 plus GST per redemption."
-      },
-      {
-        "type": "context",
-        "text": "Reward Points are valid for 24 months from the date they are credited."
-      },
-      {
-        "type": "removed",
-        "text": "Reward Points are earned only on spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "Reward Points are earned only on spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points.​​"
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on eligible spends​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Will I earn reward points for every spend?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, you will earn:​"
-      },
-      {
-        "type": "removed",
-        "text": "- 10X Reward Points on Dining, Travel, and *International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "removed",
-        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "- 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "context",
-        "text": "- 3X Reward Points on eligible spend categories​"
-      },
-      {
-        "type": "context",
-        "text": "- 1X Reward Points on Insurance premium payments, Utility bill payments, Railway spends and FASTag recharges. ​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "- 1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
-      },
-      {
-        "type": "context",
-        "text": "Are there any exclusions for earning 10X reward points?"
-      },
-      {
-        "type": "removed",
-        "text": "You can earn 10X Reward Points on Dining, Travel and *International purchases. However, the following transactions are excluded​"
-      },
-      {
-        "type": "removed",
-        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "You can earn 10X Reward Points on Dining, Travel and  International purchases. However, the following transactions are excluded​"
-      },
-      {
-        "type": "context",
-        "text": "- Fuel, EMI, and Cash withdrawals​"
-      },
-      {
-        "type": "context",
-        "text": "- Rental & Property Management, Government Services, Education, Wallet Load transactions, Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated reward points wording for dining, travel and international purchases on birthday"
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-wealth",
-    "cardName": "FIRST Wealth",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
-    "status": "Active",
-    "detectedAt": "2026-09-13T08:23:25.267Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local currency of the country you are in."
-      },
-      {
-        "type": "context",
-        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
-      },
-      {
-        "type": "removed",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
-      },
-      {
-        "type": "removed",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
-      },
-      {
-        "type": "added",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup.​​"
-      },
-      {
-        "type": "context",
-        "text": "Convenience at your fingertips"
-      },
-      {
-        "type": "context",
-        "text": "Convert payments into affordable EMIs"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "on all online and offline eligible spends"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "from your first eligible transaction on Dining, Travel and purchases and on your birthday."
-      },
-      {
-        "type": "added",
-        "text": "from your first eligible transaction on Dining, Travel and International purchases and on your birthday."
-      },
-      {
-        "type": "context",
-        "text": "20% Bonus Travel Rewards"
-      },
-      {
-        "type": "context",
-        "text": "every month on flight and hotel bookings via the IDFC FIRST Mobile App."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "T&C Apply"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "• Earn 10X rewards starting form your very first transaction, with no minimum spends required – on Dining, Travel and spends done on your Birthday."
-      },
-      {
-        "type": "removed",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "• Earn 10X rewards starting form your very first transaction, with no minimum spends required – on Dining, Travel and international spends done on your Birthday."
-      },
-      {
-        "type": "context",
-        "text": "• 1X = 1 Reward Points per ₹200 spent | 1 Reward Point = ₹0.25"
-      },
-      {
-        "type": "context",
-        "text": "- Reward Points will be valid for 24 months, giving you ample time to redeem them at your convenience i.e. Reward Points earned from July 2026 statement cycle will be valid for 24 months from the date they are credited.​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Will I earn reward points for every spend?"
-      },
-      {
-        "type": "context",
-        "text": "Yes. You will earn:"
-      },
-      {
-        "type": "removed",
-        "text": "- 10X reward points on Dining, Travel and *International transactions only"
-      },
-      {
-        "type": "removed",
-        "text": "*Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "- 10X reward points on Dining, Travel and International transactions only"
-      },
-      {
-        "type": "context",
-        "text": "- 3X reward points on all eligible spends (online/offline)"
-      },
-      {
-        "type": "context",
-        "text": "- 1 reward point on Utilities, Insurance, Railway and Fastag transactions"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Reward points now include international purchases, expanding 10X rewards to international spends on birthday.",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Help me optimize my credit card setup or tell me I have FOMO 😅",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vx6lr6/help_me_optimize_my_credit_card_setup_or_tell_me/",
-        "description": "I think I may be overthinking my credit cards and would love some advice from people who actually optimize their cards. My profile - Age: 32 - Salary: ~₹2L/month - CIBIL: 780 - Total annual card spend: ~₹10L (including my wife&#39;s card) -"
-      },
-      "via": "reddit"
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-select",
-    "cardName": "FIRST Select",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/select",
-    "status": "Active",
-    "detectedAt": "2026-09-13T08:23:25.264Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "•Click on the welcome benefit banner to pick a voucher of your choice. The voucher will be available for redemption up to 90 days of receiving the SMS/email."
-      },
-      {
-        "type": "context",
-        "text": "Exclusion"
-      },
-      {
-        "type": "removed",
-        "text": "•Not applicable on UPI, Add-on card transactions, wallet load, International spends, EMI converted transactions & ATM cash withdrawal.​"
-      },
-      {
-        "type": "added",
-        "text": "•Not applicable on UPI, Add-on card transactions, wallet load, EMI converted transactions & ATM cash withdrawal.​"
-      },
-      {
-        "type": "context",
-        "text": "•If any of the transactions are reversed/cancelled/ disputed by the cardholder or merchant, that transaction will be excluded."
-      },
-      {
-        "type": "context",
-        "text": "Up to ₹1,000 cashback on your first EMI"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you choose INR, the merchant or ATM may apply its own conversion rate and a separate charge called Dynamic Currency Conversion (DCC)."
-      },
-      {
-        "type": "context",
-        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
-      },
-      {
-        "type": "removed",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points. ​​"
-      },
-      {
-        "type": "context",
-        "text": "Free trip cancellation cover up to ₹10,000"
-      },
-      {
-        "type": "context",
-        "text": "Last-minute change of plans? Get reimbursed up to ₹10,000 on non-refundable hotel and flight cancellations"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Elevate spends with Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "on Dining, Travel and purchases and spends done on your birthday"
-      },
-      {
-        "type": "added",
-        "text": "on Dining, Travel and international purchases and spends done on your birthday"
-      },
-      {
-        "type": "context",
-        "text": "3X Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "on eligible spends​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "10X Reward points"
-      },
-      {
-        "type": "context",
-        "text": "On Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "removed",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "context",
-        "text": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25"
-      },
-      {
-        "type": "context",
-        "text": "Reward program not applicable on Fuel, EMI transactions and Cash withdrawals."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Will I earn reward points for every spend?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, you will earn:​"
-      },
-      {
-        "type": "removed",
-        "text": "- 10X Reward Points on Dining, Travel, and *International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "removed",
-        "text": "​Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "- 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​"
-      },
-      {
-        "type": "context",
-        "text": "- 3X Reward Points on eligible spend categories​"
-      },
-      {
-        "type": "context",
-        "text": "- 1X Reward Points on Insurance premium payments, Utility bill payments, Railway spends and FASTag recharges. ​"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "If you already have an IDFC FIRST Bank unsecured credit card, your new credit card will also have the same credit limit. However, the limit will be shared across all unsecured credit cards."
-      },
-      {
-        "type": "context",
-        "text": "Are there any exclusions for earning 10X reward points?"
-      },
-      {
-        "type": "removed",
-        "text": "You can earn 10X Reward Points on Dining, Travel and *International purchases. However, the following transactions are excluded​"
-      },
-      {
-        "type": "removed",
-        "text": "Please note: Effective 26th October 2026 International transactions will not earn Reward Points."
-      },
-      {
-        "type": "added",
-        "text": "You can earn 10X Reward Points on Dining, Travel and International purchases. However, the following transactions are excluded​"
-      },
-      {
-        "type": "context",
-        "text": "- Fuel, EMI, and Cash withdrawals​"
-      },
-      {
-        "type": "context",
-        "text": "- Rental & Property Management, Government Services, Education, Wallet Load transactions, Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges"
       }
     ],
     "community": {
@@ -4905,74 +5409,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "idfc-first-bank-apply-for-quantum-credit-card",
-    "cardName": "Apply for Quantum+ Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/quantum-plus-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-11T08:08:34.413Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fees & Charges"
-      },
-      {
-        "type": "context",
-        "text": "Quantum+ Credit Card - Lifetime Free, FD-Backed"
-      },
-      {
-        "type": "removed",
-        "text": "The Quantum+ Credit Card by IDFC FIRST Bank is a lifetime free, FD-backed credit card starting at just ₹5,000​ FD. Earn up to 2% cashback on everyday spends while building your credit profile.​"
-      },
-      {
-        "type": "added",
-        "text": "The Quantum+ Credit Card by IDFC FIRST Bank is a lifetime free, FD-backed credit card starting at FD of just ₹5,000. Earn up to 2% cashback on everyday spends while building your credit profile.​"
-      },
-      {
-        "type": "context",
-        "text": "Your credit limit equals 100% of your FD value. Use it online, offline or via UPI Scan & Pay to earn cashback on every eligible transaction, from Day 1."
-      },
-      {
-        "type": "context",
-        "text": "Whether you are student, homemaker, freelancer, retired employee, or a young professional, the Quantum+ gets you started with no income proof or credit history required."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Your FD earns interest while your credit card earns cashback."
-      },
-      {
-        "type": "context",
-        "text": "View More"
-      },
-      {
-        "type": "added",
-        "text": "Total cashback is capped at ₹500 per statement cycle across all categories combined​"
-      },
-      {
-        "type": "context",
-        "text": "Online spends on select categories and EMI transactions will not count towards the ₹10,000 online spends milestone."
-      },
-      {
-        "type": "context",
-        "text": "No cashback on EMI, ATM cash withdrawals, and UPI spends made through third-party UPI payment apps."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a new cashback cap of ₹500 per statement cycle across all categories."
     }
   },
   {
@@ -5449,78 +5885,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-travel-credit-card",
-    "cardName": "Travel Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-10T08:08:54.496Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Earn EDGE Miles as a welcome benefit & renewal benefit"
-      },
-      {
-        "type": "context",
-        "text": "5 EDGE Miles on every ₹100 spent on Axis Bank Travel EDGE portal & airline website"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy complimentary international & domestic lounge access"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy free international & domestic lounge access"
-      },
-      {
-        "type": "context",
-        "text": "Joining Fee: ₹3,000"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee: ₹3,000"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "removed",
-        "text": "(This card is currently Lifetime Free)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on Amex network)"
-      },
-      {
-        "type": "context",
-        "text": "A Travel Credit Card focuses on rewarding travel spending while offering convenience, safety, and global usability. These features are especially valuable for frequent flyers and international travellers."
-      },
-      {
-        "type": "context",
-        "text": "Airport lounge access"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Lounge access wording changed and lifetime free now specified for Amex network."
     }
   },
   {
@@ -6080,242 +6444,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-lic-select",
-    "cardName": "LIC Select",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/lic-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.708Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "By booking through IDFC First Mobile app, earn 45/₹125 Bonus Reward Points on hotel bookings & 20/₹125 Bonus Reward Points over and above your base rewards"
-      },
-      {
-        "type": "context",
-        "text": "Privileges"
-      },
-      {
-        "type": "added",
-        "text": "Zero forex markup on all global spends​"
-      },
-      {
-        "type": "context",
-        "text": "2 complimentary Domestic Airport Lounge access per quarter List of Lounges"
-      },
-      {
-        "type": "context",
-        "text": "4 complimentary Railway Lounge access per quarter Know more"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Card PIN"
-      },
-      {
-        "type": "context",
-        "text": "Other FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "Effective 18th June 2026, what changes are being made to the LIC Select Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "There will be revisions to select features and the applicable Terms & Conditions of the LIC Select Credit Card.  Click here  for detailed information."
-      },
-      {
-        "type": "context",
-        "text": "Is there a Joining/ Membership/ Annual fee on LIC IDFC FIRST Bank Credit Cards?"
-      },
-      {
-        "type": "context",
-        "text": "There is absolutely no Joining/ Membership/ Annual fee applicable on LIC IDFC FIRST Bank Credit Cards. Your card is free for life."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Is there an expiry date on the reward points accrued on my LIC IDFC FIRST Bank Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Your reward points have a validity of 3 years from the date when reward points are earned."
-      },
-      {
-        "type": "added",
-        "text": "What is the forex mark-up on LIC IDFC FIRST Bank Credit Cards?​"
-      },
-      {
-        "type": "added",
-        "text": "The LIC IDFC FIRST Bank Credit Cards provide ZERO forex markup. Spend without paying extra fees while travelling abroad as well as on international purchases made from India."
-      },
-      {
-        "type": "context",
-        "text": "What are the offers available on LIC IDFC FIRST Bank Credit Cards?"
-      },
-      {
-        "type": "context",
-        "text": "LIC IDFC FIRST Bank Credit Cards are loaded with a host of benefits, offers and features. Depending on the card variant, IDFC FIRST Bank credit cards offer Lifestyle benefits like discounts on shopping, dining or movies and complimentary rounds of golf every month; travel benefits like complimentary airport lounge access; and other benefits like in-app online discounts, and discounts at health and wellness outlets."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Existing IDFC FIRST Bank Credit Cardholders are not eligible to apply for LIC IDFC FIRST Bank Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "No Joining Fee | No Annual Fee"
-      },
-      {
-        "type": "added",
-        "text": "on all IDFC FIRST BANK Credit Cards"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Adds zero forex markup on all global spends."
-    }
-  },
-  {
-    "id": "idfc-first-bank-lic-classic",
-    "cardName": "LIC Classic",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/lic-classic-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.707Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "LIC CLASSIC"
-      },
-      {
-        "type": "context",
-        "text": "LIC CLASSIC"
-      },
-      {
-        "type": "removed",
-        "text": "LIC IDFC FIRST Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "LIC Classic IDFC FIRST Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Secure your tomorrow, Live today"
-      },
-      {
-        "type": "context",
-        "text": "Accelerated rewards on LIC Premium payments, online and offline spends; Domestic airport lounge access and more!"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "By booking through IDFC First Mobile app, earn 45/₹125 Bonus Reward Points on hotel bookings & 20/₹125 Bonus Reward Points over and above your base rewards"
-      },
-      {
-        "type": "context",
-        "text": "Privileges"
-      },
-      {
-        "type": "added",
-        "text": "Zero forex markup on all global spends​"
-      },
-      {
-        "type": "context",
-        "text": "1 complimentary Domestic Airport Lounge access per quarter List of Lounges"
-      },
-      {
-        "type": "context",
-        "text": "2 complimentary Railway Lounge access per quarter Know more"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Card PIN"
-      },
-      {
-        "type": "context",
-        "text": "Other FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "Effective 18th June 2026, what changes are being made to the LIC Classic Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "There will be revisions to select features and the applicable Terms & Conditions of the LIC Classic Credit Card.  Click here  for detailed information."
-      },
-      {
-        "type": "context",
-        "text": "Is there a Joining/ Membership/ Annual fee on LIC IDFC FIRST Bank Credit Cards?"
-      },
-      {
-        "type": "context",
-        "text": "There is absolutely no Joining/ Membership/ Annual fee applicable on LIC IDFC FIRST Bank Credit Cards. Your card is free for life."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Is there an expiry date on the reward points accrued on my LIC IDFC FIRST Bank Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Your reward points have a validity of 3 years from the date when reward points are earned."
-      },
-      {
-        "type": "added",
-        "text": "What is the forex mark-up on LIC IDFC FIRST Bank Credit Cards?​"
-      },
-      {
-        "type": "added",
-        "text": "The LIC IDFC FIRST Bank Credit Cards provide ZERO forex markup. Spend without paying extra fees while travelling abroad as well as on international purchases made from India.​"
-      },
-      {
-        "type": "context",
-        "text": "What are the offers available on LIC IDFC FIRST Bank Credit Cards?"
-      },
-      {
-        "type": "context",
-        "text": "LIC IDFC FIRST Bank Credit Cards are loaded with a host of benefits, offers and features. Depending on the card variant, IDFC FIRST Bank credit cards offer Lifestyle benefits like discounts on shopping, dining or movies and complimentary rounds of golf every month; travel benefits like complimentary airport lounge access; and other benefits like in-app online discounts, and discounts at health and wellness outlets."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added zero forex markup on all global spends."
-    }
-  },
-  {
     "id": "idfc-first-bank-ashva-metal-card",
     "cardName": "Ashva Metal Card",
     "issuerName": "IDFC First Bank",
@@ -6781,138 +6909,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Eligibility monthly income requirement lowered to ₹12,000*"
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-rewards-credit-card",
-    "cardName": "Axis Bank REWARDS Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:10:31.233Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Mobile alerts for transactions Waived"
-      },
-      {
-        "type": "context",
-        "text": "Balance enquiry charges Waived"
-      },
-      {
-        "type": "removed",
-        "text": "Reward redemption fee No"
-      },
-      {
-        "type": "added",
-        "text": "Reward redemption fee Waived"
-      },
-      {
-        "type": "added",
-        "text": "Rent Transaction Fee 1% fee per transaction will be applicable on each rental transaction."
-      },
-      {
-        "type": "added",
-        "text": "Taxes will be applicable as notified by the Government of India."
-      },
-      {
-        "type": "added",
-        "text": "Wallet Load Transaction Fee 1% fee will be applicable on cumulative spends of ₹10,000 or more on"
-      },
-      {
-        "type": "added",
-        "text": "wallet loads per statement cycle."
-      },
-      {
-        "type": "added",
-        "text": "Fuel Transaction Fee 1% fee will be applicable on cumulative spends of ₹50,000 or more on fuel"
-      },
-      {
-        "type": "added",
-        "text": "transactions per statement cycle."
-      },
-      {
-        "type": "added",
-        "text": "Education Transaction Fee 1% fee per transaction will be applicable on education payments made via"
-      },
-      {
-        "type": "added",
-        "text": "third-party apps."
-      },
-      {
-        "type": "added",
-        "text": "Utility Transaction Fee 1% fee will be applicable on cumulative spends of ₹25,000 or more on"
-      },
-      {
-        "type": "added",
-        "text": "utility transactions per statement cycle."
-      },
-      {
-        "type": "added",
-        "text": "Online Skill-Based Gaming Transaction Fee 1% fee will be applicable on cumulative spends of ₹10,000 or more on"
-      },
-      {
-        "type": "added",
-        "text": "online skill-based gaming platforms in a statement cycle."
-      },
-      {
-        "type": "added",
-        "text": "For detailed information, please refer to the Most Important Terms & Conditions (MITC):"
-      },
-      {
-        "type": "added",
-        "text": "click here to view the MITC."
-      },
-      {
-        "type": "context",
-        "text": "Eligibility for REWARDS Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Primary cardholder should be between 18 to 70 years of age"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "How much time it takes to improve CIBIL score?"
-      },
-      {
-        "type": "context",
-        "text": "Learn how long it takes to improve CIBIL score. Your credit score is a critical..."
-      },
-      {
-        "type": "removed",
-        "text": "Got more questions?"
-      },
-      {
-        "type": "removed",
-        "text": "Locate the nearest branch for best assessment."
-      },
-      {
-        "type": "removed",
-        "text": "Locate Branches"
-      },
-      {
-        "type": "context",
-        "text": "Your Axis Rewards Credit Card awaits you!"
-      },
-      {
-        "type": "context",
-        "text": "Check Eligibility"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added multiple transaction fees for rent, wallet load, fuel, education, utility, and online gaming transactions."
     }
   },
   {
@@ -8050,46 +8046,6 @@
       {
         "type": "context",
         "text": "Enjoy a complimentary 3rd night for every 2 consecutive paid nights, or stay for 2 nights and get 50% off the 2nd night with ITC Hotels.[@visa-infinite-subject-to-change] Know more"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-privilege-credit-card",
-    "cardName": "AXIS BANK PRIVILEGE Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
-    "status": "Discontinued",
-    "detectedAt": "2026-09-02T07:55:44.681Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Description Charges"
-      },
-      {
-        "type": "context",
-        "text": "Standard Joining Fee ₹NIL (Limited period offer)"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Annual Fee (2nd year onwards) ₹1500"
-      },
-      {
-        "type": "added",
-        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer)"
-      },
-      {
-        "type": "context",
-        "text": "Standard Add-on Card Joining Fee Nil"
-      },
-      {
-        "type": "context",
-        "text": "Standard Add-on Card Annual Fee Nil"
       }
     ],
     "community": {
@@ -12407,58 +12363,6 @@
     }
   },
   {
-    "id": "axis-bank-lic-axis-bank-signature-credit-card",
-    "cardName": "LIC Axis Bank Signature Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-28T15:23:42.980Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Rent Transaction fee (Applicable from 5th March 2023)"
-      },
-      {
-        "type": "context",
-        "text": "1% fee per transaction will be applicable on rental transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion markup (Applicable from 5th March 2023)"
-      },
-      {
-        "type": "removed",
-        "text": "1.5% will be applicable on International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation Websites"
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion markup"
-      },
-      {
-        "type": "added",
-        "text": "3.5% will be applicable on International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation Websites"
-      },
-      {
-        "type": "context",
-        "text": "Education Transaction Fee (Applicable from 20th Dec, 2024)"
-      },
-      {
-        "type": "context",
-        "text": "1% fee per transaction will be applicable on education payments made via third party apps"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Foreign currency conversion markup increased from 1.5% to 3.5% on international transactions in Indian currency."
-    }
-  },
-  {
     "id": "axis-bank-fibe-axis-bank-credit-card",
     "cardName": "Fibe Axis Bank Credit Card",
     "issuerName": "Axis Bank",
@@ -13168,130 +13072,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Dynamic Currency Conversion markup increased to 3.5% for international transactions in Indian currency."
-    }
-  },
-  {
-    "id": "axis-bank-samsung-axis-bank-signature-credit-card",
-    "cardName": "Samsung Axis Bank Signature Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.234Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is greater than ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "An additional ₹100 charge will be"
-      },
-      {
-        "type": "removed",
-        "text": "levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will"
-      },
-      {
-        "type": "removed",
-        "text": "apply until the MAD is cleared."
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1300 if total payment due is greater than ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Cash withdrawal fees 2.5% (Min. ₹500) of the cash amount"
-      },
-      {
-        "type": "context",
-        "text": "Over limit penalty 2.5% of the over limit amount (Min ₹500)"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "GST As per existing Government norms"
-      },
-      {
-        "type": "context",
-        "text": "Rent Transaction Fee Rent Transaction fee of 1% per transaction will be applicable on each rental transaction done on Samsung Axis Bank Signature Credit Card. GST will be applicable as notified by Government of India. The Rent transactions will be identified through Merchant Category Code 6513."
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion Dynamic Currency Conversion markup of 1.5% plus taxes will be applicable on Samsung Axis Bank Signature Credit Card for each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion Dynamic Currency Conversion markup of 3.5% plus taxes will be applicable on Samsung Axis Bank Signature Credit Card for each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation."
-      },
-      {
-        "type": "context",
-        "text": "Edge Rewards Fees A redemption fee of ₹99 will apply per transaction on the EDGE REWARDS platform. A"
-      },
-      {
-        "type": "context",
-        "text": "fee of ₹199 will be charged per transaction for converting or transferring EDGE"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Joining Fee: ₹499"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee: ₹499"
-      },
-      {
-        "type": "added",
-        "text": "Got more questions?"
-      },
-      {
-        "type": "added",
-        "text": "Locate the nearest branch for best assessment."
-      },
-      {
-        "type": "added",
-        "text": "Locate Branches"
-      },
-      {
-        "type": "context",
-        "text": "Nov 18, 2025"
-      },
-      {
-        "type": "context",
-        "text": "How to increase your CIBIL score?"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds increased and DCC markup raised."
     }
   },
   {

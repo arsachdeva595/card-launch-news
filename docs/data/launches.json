@@ -1,5 +1,25 @@
 [
   {
+    "id": "federal-bank-radware-captcha-page",
+    "cardName": "Radware Captcha Page",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
+    "discoveredAt": "2026-09-25T08:47:42.082Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Radware Captcha Page",
+      "url": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
+      "description": "Official product page on Federal Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-icici-bank-introduces-upi-payments-via-rupay-credit-cards",
     "cardName": "ICICI Bank introduces UPI payments via RuPay Credit Cards",
     "issuerName": "ICICI Bank",

@@ -3854,5 +3854,11 @@
     "issuerSlug": "icici-bank",
     "url": "https://www.icici.bank.in/about-us/article/icici-bank-and-times-internet-jointly-launch-a-super-premium-credit-card",
     "status": "Active"
+  },
+  {
+    "cardName": "Radware Captcha Page",
+    "issuerSlug": "federal-bank",
+    "url": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
+    "status": "Active"
   }
 ]

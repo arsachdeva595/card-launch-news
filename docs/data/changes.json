@@ -1,5 +1,77 @@
 [
   {
+    "id": "amex-american-express-gold-card",
+    "cardName": "American Express® Gold Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/gold-card/?linknav=in-amex-cardshop-allcards-learn-AmericanExpressGold-carousel",
+    "status": "Active",
+    "detectedAt": "2026-09-29T09:49:13.758Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Effective 12 June 2025, you will not earn Membership Rewards ® point on Fuel payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs)."
+      },
+      {
+        "type": "context",
+        "text": "Your Points are worth their weight in Gold with a range of exciting rewards to choose from."
+      },
+      {
+        "type": "removed",
+        "text": "Earn 5X Membership Reward points on every purchase through Reward Multiplier 3"
+      },
+      {
+        "type": "added",
+        "text": "Earn 5X Membership Reward points on every purchase through ShopWise 3"
+      },
+      {
+        "type": "context",
+        "text": "24,000 MR points / 24 Karat Gold Collection: (you can choose any of them)"
+      },
+      {
+        "type": "context",
+        "text": "Taj voucher worth Rs. 14,000"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Dining offer"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy up to 20% off every time you dine at select restaurant partners. To Know More, Click Here"
+      },
+      {
+        "type": "added",
+        "text": "Renewal Benefit"
+      },
+      {
+        "type": "added",
+        "text": "Earn 5,000 Membership Rewards ® points when you renew your Card in the first year and pay the annual membership fee. Your points will be credited within 90 days of your Card renewal."
+      },
+      {
+        "type": "context",
+        "text": "Gold Services"
+      },
+      {
+        "type": "context",
+        "text": "24X7 Card Related Assistance"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a renewal points benefit and changed the reward multiplier wording to ShopWise 3."
+    }
+  },
+  {
     "id": "icici-bank-icici-bank-emeralde-credit-card",
     "cardName": "ICICI Bank Emeralde Credit Card",
     "issuerName": "ICICI Bank",
@@ -14740,46 +14812,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated reward point earning description for business expenses."
-    }
-  },
-  {
-    "id": "amex-american-express-gold-card",
-    "cardName": "American Express® Gold Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/gold-card/?linknav=in-amex-cardshop-allcards-learn-AmericanExpressGold-carousel",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:11:19.904Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "I/We confirm that I / supplementary card applicant/s is a Resident Indian as defined under the Income Tax Act of India and hereby declare that I/We will notify American Express Banking Corp. if there is a change in the residential status"
-      },
-      {
-        "type": "context",
-        "text": "I understand American Express Cards are currently issued to residents of Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Kolkata, Indore, Coimbatore, Chandigarh/Tricity, Ahmedabad, Surat, Vadodra, Bhopal, Bhubaneshwar, Ernakulam, Vijaywada, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum , Mysuru , Cuttack & Vizag  subject to condition"
-      },
-      {
-        "type": "added",
-        "text": "Welcome Gift of 4,000 Bonus Membership Rewards® Points"
-      },
-      {
-        "type": "context",
-        "text": "1. With effect from 1 July 2021, Cardmembers will earn 1 Membership Rewards ® Points on every ₹50 Spent on Utility (electricity, water and gas bills) payments capped at 10,000 Membership Rewards ® points in a calendar month. Utility services include providers of household/domestic electricity, gas and water. These providers can be government departments and/or agencies including local, state, municipal organizations, public housing societies and/or apartment associations. You will not earn any Membership reward points on Insurance and Cash Withdrawals. Telecommunications includes providers of landline phones, mobile phones, internet services, cable, and other pay TV services, and calling cards."
-      },
-      {
-        "type": "context",
-        "text": "Effective 12 June 2025, Cardmembers will not earn Membership Rewards ® point on Fuel payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs)."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a welcome gift of 4,000 Bonus Membership Rewards® Points"
     }
   },
   {

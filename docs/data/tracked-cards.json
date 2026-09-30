@@ -5142,5 +5142,13 @@
     "url": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "Business Micro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/business-banking/cards/business-credit-card/micro-business-credit-card",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "icici-bank-business-micro-credit-card",
+    "cardName": "Business Micro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/business-banking/cards/business-credit-card/micro-business-credit-card",
+    "discoveredAt": "2026-09-30T09:40:21.520Z",
+    "lastmod": "2026-09-28",
+    "announcement": {
+      "title": "Business Micro Credit Card",
+      "url": "https://www.icici.bank.in/business-banking/cards/business-credit-card/micro-business-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-credit-card-bill-payment-online",
     "cardName": "Credit Card Bill Payment Online",
     "issuerName": "ICICI Bank",

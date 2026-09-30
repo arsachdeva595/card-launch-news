@@ -1,5 +1,613 @@
 [
   {
+    "id": "icici-bank-icici-bank-emeralde-credit-card",
+    "cardName": "ICICI Bank Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/article/news-icici-bank-launches-new-superpremium-credit-card-emeralde-with-host-of-exclusive-features-annual-benefits-estimated-to-be-around-rs-3-lakh-20192802121546057",
+    "status": "Active",
+    "detectedAt": "2026-09-30T09:48:11.643Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Shopping voucher from TATA CLiQ worth ₹5,000 (American Express Cardholders)"
+      },
+      {
+        "type": "added",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "added",
+        "text": "Voucher from PostCard Hotels worth ₹5,000 for Mastercard Cardholders (Birthday Benefit)"
+      },
+      {
+        "type": "context",
+        "text": "Twice every year"
+      },
+      {
+        "type": "context",
+        "text": "No cancellation charges on domestic flight and hotel bookings, up to ₹12,000. Click here"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Up to 4 golf rounds every month, basis spends on the Card"
+      },
+      {
+        "type": "context",
+        "text": "What birthday benefits are offered with the Emeralde Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Eligible Emeralde Credit Card customers can receive a ₹5000 birthday benefits voucher on eligible American Express variant cards, subject to the applicable terms and conditions."
+      },
+      {
+        "type": "added",
+        "text": "Eligible Emeralde Credit Card customers can receive a ₹5000 birthday benefits vouchers on eligible American Express and Mastercard variant cards, subject to the applicable terms and conditions"
+      },
+      {
+        "type": "context",
+        "text": "For other terms and conditions,  click here ."
+      },
+      {
+        "type": "context",
+        "text": "How can I claim my Birthday benefit vouchers?"
+      },
+      {
+        "type": "added",
+        "text": "Log into ICICI Bank Rewards"
+      },
+      {
+        "type": "context",
+        "text": "iMobile App:"
+      },
+      {
+        "type": "context",
+        "text": "Login🡪 Cards & Forex🡪 Select Credit Card🡪 Redeem 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Birthday benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emeralde Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Access 1,900+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Birthday voucher now available for both American Express and Mastercard variants of the Emeralde Credit Card"
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-credit-card",
+    "cardName": "Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-30T09:48:11.635Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Shopping voucher from TATA CLiQ worth ₹5,000 (American Express Cardholders)"
+      },
+      {
+        "type": "added",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "added",
+        "text": "Voucher from PostCard Hotels worth ₹5,000 for Mastercard Cardholders (Birthday Benefit)"
+      },
+      {
+        "type": "context",
+        "text": "Twice every year"
+      },
+      {
+        "type": "context",
+        "text": "No cancellation charges on domestic flight and hotel bookings, up to ₹12,000. Click here"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Up to 4 golf rounds every month, basis spends on the Card"
+      },
+      {
+        "type": "context",
+        "text": "What birthday benefits are offered with the Emeralde Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Eligible Emeralde Credit Card customers can receive a ₹5000 birthday benefits voucher on eligible American Express variant cards, subject to the applicable terms and conditions."
+      },
+      {
+        "type": "added",
+        "text": "Eligible Emeralde Credit Card customers can receive a ₹5000 birthday benefits vouchers on eligible American Express and Mastercard variant cards, subject to the applicable terms and conditions"
+      },
+      {
+        "type": "context",
+        "text": "For other terms and conditions,  click here ."
+      },
+      {
+        "type": "context",
+        "text": "How can I claim my Birthday benefit vouchers?"
+      },
+      {
+        "type": "added",
+        "text": "Log into ICICI Bank Rewards"
+      },
+      {
+        "type": "context",
+        "text": "iMobile App:"
+      },
+      {
+        "type": "context",
+        "text": "Login🡪 Cards & Forex🡪 Select Credit Card🡪 Redeem 🡪 Redirected to ICICI Bank Reward site 🡪 View Benefits 🡪 Birthday benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emeralde Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Access 1,900+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added ₹5000 Mastercard birthday voucher benefit for Emeralde Credit Card holders."
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-taj-credit-card",
+    "cardName": "HSBC Taj Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
+    "status": "Active",
+    "detectedAt": "2026-09-30T09:46:49.278Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get 33X Points at Dyson"
+      },
+      {
+        "type": "context",
+        "text": "Earn 50 Points per INR100 on direct Dyson purchases. T&Cs apply (PDF)"
+      },
+      {
+        "type": "removed",
+        "text": "Save 20% at Amazon"
+      },
+      {
+        "type": "removed",
+        "text": "Get 20% off, up to INR5,000, when you spend INR10,000 or more once every month. T&Cs apply (PDF)"
+      },
+      {
+        "type": "added",
+        "text": "Save 20% at Reliance Brand outlets"
+      },
+      {
+        "type": "added",
+        "text": "Get up to INR10,000 off when you spend INR20,000 or more. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "VISA Infinite Benefits"
+      },
+      {
+        "type": "context",
+        "text": "For all the VISA benefits, please refer to VISA website ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Reward benefit changed from Amazon 20% off to Reliance Brand outlets up to INR10,000 off."
+    }
+  },
+  {
+    "id": "hdfc-bank-marriott-bonvoy-hdfc-bank-credit-card",
+    "cardName": "Marriott Bonvoy HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/marriott-bonvoy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-30T09:46:31.780Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Marriott Bonvoy Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "context",
+        "text": "Marriott Bonvoy Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Marriott Bonvoy® HDFC Bank Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "More benefits than ever before"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "In a single minimum transaction of Rs. 500 within 90 days of card open date or on card fee levy the customers would receive the following benefits*:"
+      },
+      {
+        "type": "added",
+        "text": "Cardholders onboarded until 30th September 2026 would receive the below mentioned benefits* on levy of card fee or on carrying out a single minimum transaction of Rs. 500 within 90 days of card open date, whichever is earlier."
+      },
+      {
+        "type": "context",
+        "text": "- 1 Free Night Award (valued at 15,000 Marriott Bonvoy Points)"
+      },
+      {
+        "type": "context",
+        "text": "- 10 Elite Night Credits*"
+      },
+      {
+        "type": "context",
+        "text": "- Silver Elite Status"
+      },
+      {
+        "type": "added",
+        "text": "Cardholders onboarded on or after 1st October 2026 would receive the below mentioned benefits* on levy of card fee."
+      },
+      {
+        "type": "added",
+        "text": "- 1 Free Night Award (valued at 15,000 Marriott Bonvoy Points)"
+      },
+      {
+        "type": "added",
+        "text": "- 10 Elite Night Credits*"
+      },
+      {
+        "type": "added",
+        "text": "- Silver Elite Status"
+      },
+      {
+        "type": "context",
+        "text": "Marriott Bonvoy Reward Points Benefit / Reward Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Earn 8 Marriott Bonvoy Points per Rs. 150 spent at hotels participating in Marriott Bonvoy*"
+      },
+      {
+        "type": "context",
+        "text": "- Earn 4 Marriott Bonvoy Points per Rs. 150 spent on Travel, Dining & Entertainment*"
+      },
+      {
+        "type": "context",
+        "text": "- Earn 2 Marriott Bonvoy® Points per Rs. 150 spent on all other applicable purchases*"
+      },
+      {
+        "type": "added",
+        "text": "Anniversary Special Offer 2026"
+      },
+      {
+        "type": "added",
+        "text": "From 01st October 2026 through 30th November 2026 (the “Offer Period”), Primary Marriott Bonvoy HDFC Bank Cardmembers are eligible for either of the following:"
+      },
+      {
+        "type": "added",
+        "text": "- 15,000 Marriott Bonvoy points on achieving an Eligible Spend milestone of Rs.1,50,000 (Rupees One Lakh Fifty Thousand only) within the Offer Period"
+      },
+      {
+        "type": "added",
+        "text": "or"
+      },
+      {
+        "type": "added",
+        "text": "- 30,000 Marriott Bonvoy points on achieving an Eligible Spend milestone of Rs.2,50,000 (Rupees Two Lakh Fifty Thousand only) within the Offer Period."
+      },
+      {
+        "type": "added",
+        "text": "Key Offer Terms"
+      },
+      {
+        "type": "added",
+        "text": "- This offer will strictly be enrollment-based."
+      },
+      {
+        "type": "added",
+        "text": "- Cardholders can enroll for this offer until 10th November 2026"
+      },
+      {
+        "type": "added",
+        "text": "- Only primary cardholders can enroll for this offer"
+      },
+      {
+        "type": "added",
+        "text": "- For customers enrolling before or on 1st October 2026 for the offer, eligible spends from 01st October 2026 to 30th November 2026 will be taken into consideration."
+      },
+      {
+        "type": "added",
+        "text": "- For customers enrolling after 1st October 2026 for the offer, only eligible spends from such respective enrolment date to 30th November 2026 will be taken into consideration."
+      },
+      {
+        "type": "added",
+        "text": "- Customers will be notified via SMS or email on successful registration maximum within 5 working days"
+      },
+      {
+        "type": "added",
+        "text": "To enroll for the offer, click here"
+      },
+      {
+        "type": "added",
+        "text": "For detailed offer T&Cs, click here"
+      },
+      {
+        "type": "context",
+        "text": "Credit Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Up to 50 days of interest-free Credit from the date of purchase*"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1 Free Night Award on Eligible Spend of INR 9 lakhs in an Anniversary Year*"
+      },
+      {
+        "type": "context",
+        "text": "1 Free Night Award on Eligible Spend of INR 15 lakhs in an Anniversary Year*"
+      },
+      {
+        "type": "removed",
+        "text": "1 Free Night Award and 10 Elite Night Credits on eligible spend transaction of Rs.500 or fee levy on the card"
+      },
+      {
+        "type": "context",
+        "text": "Note:"
+      },
+      {
+        "type": "context",
+        "text": "Each Free Night Award (valid for 12months) can be redeemed for a one-night stay, inclusive of room rate and applicable taxes, at hotels participating in Marriott Bonvoy® with a redemption level up to 15,000 Marriott Bonvoy® Points."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "When will cardmember’s Marriott Bonvoy Membership Number be generated?"
+      },
+      {
+        "type": "context",
+        "text": "Once the Marriott Bonvoy HDFC Bank Credit Card is approved, Membership Number will be generated within 10 working days. On successful Membership Number generation, cardmember will receive communication from Marriott on their registered Email ID within 72hours."
+      },
+      {
+        "type": "added",
+        "text": "Electronics"
+      },
+      {
+        "type": "added",
+        "text": "Travel"
+      },
+      {
+        "type": "added",
+        "text": "Apparel and Accessories"
+      },
+      {
+        "type": "added",
+        "text": "Retail Stores"
+      },
+      {
+        "type": "added",
+        "text": "Entertainment"
+      },
+      {
+        "type": "added",
+        "text": "Dining"
+      },
+      {
+        "type": "added",
+        "text": "Jewellery"
+      },
+      {
+        "type": "added",
+        "text": "Home and Decor"
+      },
+      {
+        "type": "added",
+        "text": "Personal Service Providers"
+      },
+      {
+        "type": "added",
+        "text": "Miscellaneous Stores"
+      },
+      {
+        "type": "added",
+        "text": "SiteMap"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added new anniversary offer with point bonuses and updated eligibility dates for Marriott Bonvoy HDFC Bank Credit Card"
+    }
+  },
+  {
+    "id": "canara-bank-mastercard-gold-secured-credit-card",
+    "cardName": "Mastercard Gold Secured Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/mastercard-gold-secured-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-09-30T09:44:41.329Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Mastercard Gold Secured Credit Card | Canara Bank"
+      },
+      {
+        "type": "context",
+        "text": "Online Complaint registration link"
+      },
+      {
+        "type": "added",
+        "text": "MDR on UPI Transactions"
+      },
+      {
+        "type": "added",
+        "text": "MDR on RuPay Credit Card Transactions through UPI"
+      },
+      {
+        "type": "context",
+        "text": "Member Banks Information Hub"
+      },
+      {
+        "type": "context",
+        "text": "Exchange Rates"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added MDR fee for UPI and RuPay Credit Card UPI transactions"
+    }
+  },
+  {
+    "id": "canara-bank-rupay-select-credit-card",
+    "cardName": "Rupay Select Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
+    "status": "Active",
+    "detectedAt": "2026-09-30T09:44:41.325Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "RuPay Select Credit Card | Canara Bank"
+      },
+      {
+        "type": "context",
+        "text": "Online Complaint registration link"
+      },
+      {
+        "type": "added",
+        "text": "MDR on UPI Transactions"
+      },
+      {
+        "type": "added",
+        "text": "MDR on RuPay Credit Card Transactions through UPI"
+      },
+      {
+        "type": "context",
+        "text": "Member Banks Information Hub"
+      },
+      {
+        "type": "context",
+        "text": "Exchange Rates"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added MDR fee for UPI and RuPay credit card transactions"
+    }
+  },
+  {
     "id": "amex-american-express-gold-card",
     "cardName": "American Express® Gold Card",
     "issuerName": "American Express (India)",
@@ -69,142 +677,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a renewal points benefit and changed the reward multiplier wording to ShopWise 3."
-    }
-  },
-  {
-    "id": "icici-bank-icici-bank-emeralde-credit-card",
-    "cardName": "ICICI Bank Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/about-us/article/news-icici-bank-launches-new-superpremium-credit-card-emeralde-with-host-of-exclusive-features-annual-benefits-estimated-to-be-around-rs-3-lakh-20192802121546057",
-    "status": "Active",
-    "detectedAt": "2026-09-25T08:53:46.321Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank Corporate Gold Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Corporate Platinum Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "ICICI Bank Business Micro Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emeralde Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added complimentary Priority Pass membership for the primary cardholder of the ICICI Bank Emeralde Credit Card."
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-credit-card",
-    "cardName": "Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-25T08:53:46.314Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank Corporate Gold Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Corporate Platinum Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "ICICI Bank Business Micro Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Emeralde Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added complimentary Priority Pass Membership for primary cardholder of ICICI Bank Emeralde Credit Card"
     }
   },
   {
@@ -2955,78 +3427,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "hsbc-india-hsbc-taj-credit-card",
-    "cardName": "HSBC Taj Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
-    "status": "Active",
-    "detectedAt": "2026-09-22T08:36:52.952Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Your HSBC Taj Credit Card also gives you"
-      },
-      {
-        "type": "context",
-        "text": "Get 14X Points at Unicorn"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 21 Points per INR100 on Apple purchases via the HSBC Unicorn portal. T&Cs apply (PDF)"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy 6X reward points on newly launched apple products and 14X reward points on existing Apple product purchases via the HSBC Unicorn portal. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Save up to 19% on EMI purchases"
-      },
-      {
-        "type": "context",
-        "text": "Get up to 19% off on EMI Apple purchases via the HSBC Unicorn portal. T&Cs apply (PDF)"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
-      },
-      {
-        "type": "context",
-        "text": "T&Cs apply (PDF)"
-      },
-      {
-        "type": "removed",
-        "text": "Offer valid until 31 August 2026."
-      },
-      {
-        "type": "added",
-        "text": "Offer valid until 30 September 2026."
-      },
-      {
-        "type": "context",
-        "text": "Ready to apply for your HSBC Taj Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To apply for an HSBC Taj Credit Card, complete a callback form and our team will be in touch soon."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added higher reward points for Apple purchases and extended offer validity to 30 September 2026"
     }
   },
   {
@@ -17899,210 +18299,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-marriott-bonvoy-hdfc-bank-credit-card",
-    "cardName": "Marriott Bonvoy HDFC Bank Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/marriott-bonvoy-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-14T05:07:30.313Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "4. Marriott Bonvoy Website"
-      },
-      {
-        "type": "context",
-        "text": "You can apply online through Marriott Bonvoy Website by clicking here"
-      },
-      {
-        "type": "added",
-        "text": "Is Marriott Bonvoy Credit Card free?"
-      },
-      {
-        "type": "added",
-        "text": "Marriott Bonvoy Credit Card has an annual fee of ₹500 (GST as applicable). For more information on the fees and charges, click  here ."
-      },
-      {
-        "type": "added",
-        "text": "What are the documents required for the Marriott Bonvoy Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Identity Proof: Aadhaar Card, PAN Card."
-      },
-      {
-        "type": "added",
-        "text": "Address Proof: Latest utility bill, Passport."
-      },
-      {
-        "type": "added",
-        "text": "Income Proof: Latest salary slips (salaried), Income tax returns (self-employed)."
-      },
-      {
-        "type": "added",
-        "text": "Click here to read more FAQs"
-      },
-      {
-        "type": "added",
-        "text": "How do you apply for a Marriott Bonvoy Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Existing HDFC Bank Account holders:"
-      },
-      {
-        "type": "added",
-        "text": "Download the application form"
-      },
-      {
-        "type": "added",
-        "text": "Fill in your details and drop it off at your local HDFC Bank branch"
-      },
-      {
-        "type": "added",
-        "text": "You can also Apply for Marriott Bonvoy Credit Card Online"
-      },
-      {
-        "type": "added",
-        "text": "Once it has been processed, we will send the card to your mailing address."
-      },
-      {
-        "type": "added",
-        "text": "Non-HDFC Bank Account holders:"
-      },
-      {
-        "type": "added",
-        "text": "Download the Account Opening form"
-      },
-      {
-        "type": "added",
-        "text": "Fill it out, including the Marriott Bonvoy Credit Card application"
-      },
-      {
-        "type": "added",
-        "text": "Submit it to your nearest HDFC Bank branch, and we'll assist with the rest"
-      },
-      {
-        "type": "added",
-        "text": "What is the HDFC Bank Marriott Bonvoy Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Marriott Bonvoy Credit Card is a premium Credit Card that offers exclusive reward points, benefits, and privileges to enhance your travel experience. Earn InterMiles, enjoy discounts on flight bookings, and access various lifestyle benefits."
-      },
-      {
-        "type": "added",
-        "text": "What are the Benefits of the Marriott Bonvoy Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "With the Marriott Bonvoy Credit Card, you can earn InterMiles on all your retail expenses and flight bookings. Avail discounts on return flights booked at www.intermiles.com and enjoy renewal fee waivers. The card also provides comprehensive insurance protection and access to exclusive offers."
-      },
-      {
-        "type": "added",
-        "text": "What are the Fees and Charges applicable for Marriott Bonvoy HDFC Bank Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Joining/ Annual Fee – Rs. 3,000/- + Applicable Taxes"
-      },
-      {
-        "type": "added",
-        "text": "For all the cards issued before 1 st December, 2023: The joining fee on customer’s card is levied on 90th day from card issuance"
-      },
-      {
-        "type": "added",
-        "text": "For all the cards issued on or post 1 st December, 2023: The joining fee on customer’s card is levied on 45th day from card issuance"
-      },
-      {
-        "type": "added",
-        "text": "Renewal Fee: The renewal fee for all the cardholders will be levied on 1 st month of the anniversary year."
-      },
-      {
-        "type": "added",
-        "text": "Interestrate applicable on Marriott Bonvoy HDFC Bank Credit Card is 3.6% per month"
-      },
-      {
-        "type": "added",
-        "text": "For all fees and charges, please refer MITC on HDFC Bank website"
-      },
-      {
-        "type": "added",
-        "text": "Note :"
-      },
-      {
-        "type": "added",
-        "text": "1. In case the card is not activated within 37 days after card issuance, the Bank reserves the right to cancel the card after sending a prior notice on the email address and/or phone number and/or communication address, registered in the records of the Bank"
-      },
-      {
-        "type": "added",
-        "text": "2. In case the card remains inactive and is not used for any transaction for a continuous period of 12 months, the Bank reserves the right to cancel the card after sending a prior notice on the email address and/or phone number and/or communication address, registered in the records of the Bank."
-      },
-      {
-        "type": "added",
-        "text": "What benefits does a cardmember get on availing Fee Waiver/Lifetime Free card?"
-      },
-      {
-        "type": "added",
-        "text": "Under Marriot Bonvoy HDFC Bank Credit Card Program, cardmember is not eligible for Fee waiver. In case the cardmember is issued with a Lifetime Free Card, he would not be eligible for welcome benefits/ annual benefits which includes"
-      },
-      {
-        "type": "added",
-        "text": "- Complimentary Marriott Bonvoy Silver Elite Status"
-      },
-      {
-        "type": "added",
-        "text": "- 10 Elite Night Credits"
-      },
-      {
-        "type": "added",
-        "text": "- 1 Free Night Award (valued at up to 15,000 points) as a welcome/ annual benefit"
-      },
-      {
-        "type": "added",
-        "text": "How long doesit take to get approval forthe Marriott Bonvoy HDFC Bank Credit Card application?"
-      },
-      {
-        "type": "added",
-        "text": "Card approval may take up to 3-5 business days. Upon approval on the application, the card will be delivered in 7 working days. Please note that given timelines are only estimates, time may get extended if application gets rejected and also it depends on type of queries."
-      },
-      {
-        "type": "added",
-        "text": "If the customer already has a HDFC Bank Credit Card, can he/she apply for Marriott Bonvoy HDFC Bank Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, customer can apply for the card but this card will be given as a floater card with a shared limit. To apply for Marriott Bonvoy HDFC Bank Credit Card, his credit limit for the card he already holds in HDFC Bank should be minimum 1L/ month. The card will be issued with a credit limit of Rs 5000 temporarily up to 5-7 working days, the limit of your existing HDFC Bank Credit Card will be updated on this new card as shared limit. A detailed communication will also be sent to explain how the shared limit will function."
-      },
-      {
-        "type": "added",
-        "text": "How can a customer apply for Marriott Bonvoy HDFC Bank Credit Card, if he already has a credit card with HDFC Bank?"
-      },
-      {
-        "type": "added",
-        "text": "Customer can apply through digital application form or can visit the nearest bank branch and apply by filling physical application form and floater declaration form."
-      },
-      {
-        "type": "added",
-        "text": "When will cardmember’s Marriott Bonvoy Membership Number be generated?"
-      },
-      {
-        "type": "added",
-        "text": "Once the Marriott Bonvoy HDFC Bank Credit Card is approved, Membership Number will be generated within 10 working days. On successful Membership Number generation, cardmember will receive communication from Marriott on their registered Email ID within 72hours."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "New annual fee ₹500, joining fee schedule, renewal fee, and 3.6% per month interest rate added."
     }
   },
   {

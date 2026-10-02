@@ -1,5 +1,157 @@
 [
   {
+    "id": "rbl-bank-rbl-bank-quick-pay-credit-card",
+    "cardName": "RBL Bank Quick Pay Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-quick-pay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-02T09:56:49.255Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Experience the power of credit with unmatched convenience and affordability. The RBL Bank QuickPay Credit Card is your digital first companion for online and UPI based transactions."
+      },
+      {
+        "type": "context",
+        "text": "Welcome Benefit"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy 20% cashback on first 2 UPI transactions. Applicable for transaction done within 15 days of card generation. Subject to maximum capping of INR 50"
+      },
+      {
+        "type": "removed",
+        "text": "Avail the welcome benefit in two simple steps: Make two UPI transactions within 15 days of card issuance."
+      },
+      {
+        "type": "removed",
+        "text": "Pay the annual membership fee by the payment due date."
+      },
+      {
+        "type": "removed",
+        "text": "Welcome benefits will be credited to your account within 60 days from the date of the card issuance."
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 20% cashback on your first 2 UPI transactions completed within 15 days of card issuance, subject to a maximum cashback of INR 50."
+      },
+      {
+        "type": "added",
+        "text": "To avail the Welcome Benefit, ensure you complete the following: Make 2 UPI transactions within 15 days of card generation."
+      },
+      {
+        "type": "added",
+        "text": "Pay the annual membership fee within 37 days of account opening."
+      },
+      {
+        "type": "added",
+        "text": "The Welcome Benefit cashback will be credited to your card account within 60 days of card issuance, subject to fulfilment of the above eligibility criteria."
+      },
+      {
+        "type": "context",
+        "text": "Reward Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1 reward point for every INR 200 spent."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Annual membership fee due date extended to 37 days, and cashback terms updated."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-wealth",
+    "cardName": "FIRST Wealth",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
+    "status": "Active",
+    "detectedAt": "2026-10-02T09:52:02.961Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Your browser does not support HTML video."
+      },
+      {
+        "type": "context",
+        "text": "Your browser does not support HTML video."
+      },
+      {
+        "type": "removed",
+        "text": "Low Forex"
+      },
+      {
+        "type": "context",
+        "text": "Lounge Access"
+      },
+      {
+        "type": "context",
+        "text": "Low Forex"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed the “Low Forex” benefit description from the card’s terms"
+    }
+  },
+  {
+    "id": "axis-bank-cashback-credit-card",
+    "cardName": "Cashback Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/cashback-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-02T09:46:18.075Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "1,000"
+      },
+      {
+        "type": "context",
+        "text": "Total Annual Savings^^"
+      },
+      {
+        "type": "removed",
+        "text": "Total spends -4,50,000 Total Annual Savings^^ - 14,150"
+      },
+      {
+        "type": "added",
+        "text": "Total spends - 5,70,000 Total Annual Savings^^ - 14,150"
+      },
+      {
+        "type": "context",
+        "text": "The total annual savings on Axis Bank Cashback Credit Card is more than INR 14,000. (Value Chart is for illustrative purpose only)"
+      },
+      {
+        "type": "context",
+        "text": "*Only applicable for the first year"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated total spend threshold to 5,70,000 for annual savings calculation"
+    }
+  },
+  {
     "id": "rbl-bank-signature-banking-credit-card",
     "cardName": "Signature Banking Credit Card",
     "issuerName": "RBL Bank",
@@ -2480,70 +2632,6 @@
     }
   },
   {
-    "id": "rbl-bank-rbl-bank-quick-pay-credit-card",
-    "cardName": "RBL Bank Quick Pay Credit Card",
-    "issuerName": "RBL Bank",
-    "issuerSlug": "rbl-bank",
-    "officialUrl": "https://www.rbl.bank.in/",
-    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-quick-pay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:38:04.460Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Enjoy the convenience of UPI payments and earn rewards, such as cashback, reward points, or discounts. Offline UPI transactions under INR 2,000 done at small merchants will not be eligible for product benefits as mentioned in Product T&C."
-      },
-      {
-        "type": "context",
-        "text": "Cardmember will earn reward points as defined in respective product terms & conditions. However, offline UPI transactions under INR 2000 done at small merchants on RBL Bank RuPay Credit Card will not be eligible for rewards points, voucher benefits, milestone benefits or any other product benefits, unless stated otherwise. For clarity, small merchants in this case means merchants with turnover of not more than INR 20 lakh during the previous financial year."
-      },
-      {
-        "type": "removed",
-        "text": "*Purchases made on select merchant categories: Fuel & Auto, Utilities, Insurance, Railways, Real Estate/Rental, Wallet/Service Providers & Miscellaneous do not earn reward points."
-      },
-      {
-        "type": "context",
-        "text": "W.e.f. October 15, 2024, purchases made on select merchant categories: Quasi-Cash, Education, Government Services, Contracted Services, Cash & Bills2Pay will also not earn reward points."
-      },
-      {
-        "type": "context",
-        "text": "# W.e.f. October 15, 2024, waiver of annual fees on achieving the annual spends will not include purchases made on select merchant categories: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Railways, Real Estate/Rental, Education, Wallet/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous & Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
-      },
-      {
-        "type": "removed",
-        "text": "Categories/MCCs will be defined as per Mastercard/RuPay/VISA guidelines: Grocery (5411, 5422, 5441, 5451, 5499), Fuel & Auto (0032,2541,4001,5542,5541,5172), Utilities (4900), Insurance (6300,6310), Quasi-Cash (6050, 6051, 4829), Railways (0066, 4011, 4112), Real Estate/Rental (6513), Education (8220,8244, 8249, 8211, 8241, 8299), Wallet/Service Providers (6540), Government Services (9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223), Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780), Cash (6011, 6010) and Miscellaneous (5960)"
-      },
-      {
-        "type": "added",
-        "text": "Note: Purchases made under below mentioned merchant categories will be excluded from reward point benefit and quarterly milestone benefit: Fuel & Auto, Utilities, Insurance, Quasi-Cash, Real Estate/Rental, Education, Wallets/Service Providers, Government Services, Contracted Services, Cash, Miscellaneous, Bills2Pay and EMI conversion of retail transactions (Split-N-Pay & EMI conversion requests placed at the time of making transactions at POS/Web/Mobile App), fees (if any), charges & GST."
-      },
-      {
-        "type": "added",
-        "text": "Categories/MCCs will be defined as per Network guidelines:"
-      },
-      {
-        "type": "added",
-        "text": "Railways MCC: 0066, 4011, 4112, Fuel & Auto: 0032, 2541, 4001, 5542, 5541, 5172, Utilities: 4900, Wallet/Service Providers: 6540, Quasi-Cash: 6050, 6051, 4829, Real Estate/Rental: 6513, Insurance: 6300, 6310, Education: 8220, 8244, 8249, 8211, 8241, 8299, Government Services: 9400,1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223, Contracted Services: 1711, 1740, 0763, 1520, 0742, 1761, 1799,1750, 1731, 1771, 0780, Cash: 6011, 6010, Miscellaneous: 5960"
-      },
-      {
-        "type": "context",
-        "text": "Bills2Pay is a facility provided by RBL Bank where Cardmembers can pay various utility bills via RBL MyBank App/Internet banking channel"
-      },
-      {
-        "type": "context",
-        "text": "Click here for detailed terms and conditions."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated the list of merchant categories excluded from reward points and quarterly milestones."
-    }
-  },
-  {
     "id": "rbl-bank-titanium-delight-credit-card",
     "cardName": "Titanium Delight Credit Card",
     "issuerName": "RBL Bank",
@@ -3393,126 +3481,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added Zero Forex Markup and 10X Reward Points on international spends for the card."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-wealth",
-    "cardName": "FIRST Wealth",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:32:19.089Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "#SeizeTheMoment"
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "removed",
-        "text": "Lifetime-free card with premium benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Apply now"
-      },
-      {
-        "type": "context",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "removed",
-        "text": "on international transactions"
-      },
-      {
-        "type": "added",
-        "text": "Earn 10X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "added",
-        "text": "Lifetime-free card with premium benefits"
-      },
-      {
-        "type": "added",
-        "text": "Apply now"
-      },
-      {
-        "type": "context",
-        "text": "Earn up to 3X"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points on UPI Spends"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "•If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer"
-      },
-      {
-        "type": "context",
-        "text": "•If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded"
-      },
-      {
-        "type": "added",
-        "text": "FIRST Wealth Credit Card now comes with Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Earn 10X Reward Points on international spends ​"
-      },
-      {
-        "type": "context",
-        "text": "Indulge in finer experiences"
-      },
-      {
-        "type": "context",
-        "text": "Comprehensive insurance"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "ON A MISSION TO BUILD THE WORLD’S MOST"
-      },
-      {
-        "type": "context",
-        "text": "CUSTOMER FRIENDLY BANK"
-      },
-      {
-        "type": "added",
-        "text": "With 10X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Your application is one scan away"
-      },
-      {
-        "type": "context",
-        "text": "Scan to continue on mobile and finish your application securely."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added Zero Forex Markup fee and 10X Reward Points on international spends"
     }
   },
   {
@@ -15342,90 +15310,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Dynamic currency conversion markup fee increased to 3.5% of each international transaction plus taxes"
-    }
-  },
-  {
-    "id": "axis-bank-cashback-credit-card",
-    "cardName": "Cashback Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/cashback-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.221Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 and ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 and ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1,200 if total payment due is greater than ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
-      },
-      {
-        "type": "added",
-        "text": "₹1,200 if total payment due is between ₹10,001 and ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1,300 if total payment due is greater than ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "Additional ₹100 will be charged if the Minimum Amount Due (MAD) is not paid by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Charge slip Retrieval Fee or Copy Request Fee Waived"
-      },
-      {
-        "type": "context",
-        "text": "Outstation Cheque Fee Waived"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Fuel Transaction Surcharge 1% of transaction amount (refund not applicable)"
-      },
-      {
-        "type": "context",
-        "text": "Foreign Currency Transaction Fee 3.50% of the transaction value"
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion markup 1.5% plus taxes will be applicable on each international transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion markup 3.5% plus taxes will be applicable on each international transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
-      },
-      {
-        "type": "context",
-        "text": "Rent Transaction Fee 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India."
-      },
-      {
-        "type": "context",
-        "text": "Wallet Load Transaction Fee 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and amounts updated, and DCC markup increased to 3.5%"
     }
   },
   {

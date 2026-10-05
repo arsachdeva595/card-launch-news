@@ -1,5 +1,451 @@
 [
   {
+    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
+    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-05T10:28:55.722Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply with ₹0 and FD"
+      },
+      {
+        "type": "context",
+        "text": "1 /"
+      },
+      {
+        "type": "removed",
+        "text": "1"
+      },
+      {
+        "type": "added",
+        "text": "2"
+      },
+      {
+        "type": "added",
+        "text": "Offer period: 01st Jun to 20th Jun 2026​"
+      },
+      {
+        "type": "added",
+        "text": "Unlock 5,000 Additional IndiGo BluChips"
+      },
+      {
+        "type": "added",
+        "text": "Spend ₹15,000 within 30 days of card generation"
+      },
+      {
+        "type": "added",
+        "text": "Offer period: 01st Jun to 20th Jun 2026​"
+      },
+      {
+        "type": "added",
+        "text": "Unlock 5,000 Additional IndiGo BluChips"
+      },
+      {
+        "type": "added",
+        "text": "Spend ₹15,000 within 30 days of card generation"
+      },
+      {
+        "type": "context",
+        "text": "Apply with ₹4,999+GST"
+      },
+      {
+        "type": "context",
+        "text": "Apply with ₹0 and FD"
+      },
+      {
+        "type": "added",
+        "text": "2 /"
+      },
+      {
+        "type": "added",
+        "text": "2"
+      },
+      {
+        "type": "added",
+        "text": "Apply with ₹4,999+GST"
+      },
+      {
+        "type": "added",
+        "text": "Apply with ₹0 and FD"
+      },
+      {
+        "type": "context",
+        "text": "Two flexible ways to get your cards"
+      },
+      {
+        "type": "context",
+        "text": "Get power of both Mastercard & RuPay through a single application"
+      },
+      {
+        "type": "context",
+        "text": "Option 1: ₹4,999 Joining Fee"
+      },
+      {
+        "type": "context",
+        "text": "Joining fee: ₹4,999 + GST"
+      },
+      {
+        "type": "removed",
+        "text": "Exclusive Offer: Get Additional Voucher of 5,000 IndiGo BluChip on spends of ₹15k in first 30 days*"
+      },
+      {
+        "type": "added",
+        "text": "Exclusive Offer: Get Additional Voucher of 5,000 IndiGo BluChip on joining fee payment*​"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Benefits of 8,000 BluChips"
+      },
+      {
+        "type": "context",
+        "text": "- 5000 IndiGo BluChips voucher on joining fee payment"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Option 2: ₹0 Joining Fee with FD"
+      },
+      {
+        "type": "context",
+        "text": "Free for the 1st year with min ₹50k FD"
+      },
+      {
+        "type": "removed",
+        "text": "Exclusive Offer: Get Additional Voucher of 5,000 IndiGo BluChip on spends of ₹15k in first 30 days*"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Benefits"
+      },
+      {
+        "type": "context",
+        "text": "- 3000 IndiGo BluChips voucher on 1L spends within 90 days"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Key Benefits of IndiGo IDFC FIRST Dual Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
+      },
+      {
+        "type": "removed",
+        "text": "on spends of ₹15K in the first 30 days of card generation."
+      },
+      {
+        "type": "removed",
+        "text": "Offer Period:1 st June 2026 to 30 th September 2026"
+      },
+      {
+        "type": "added",
+        "text": "on payment of joining fees​"
+      },
+      {
+        "type": "added",
+        "text": "Offer Period: 1 st October 2026 – 31 st October 2026​"
+      },
+      {
+        "type": "context",
+        "text": "T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "Earn IndiGo BluChips on"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "No credit history? No problem! Apply with an FD to skip credit check."
+      },
+      {
+        "type": "context",
+        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
+      },
+      {
+        "type": "removed",
+        "text": "on spends of ₹15,000 in the first 30 days of card generation."
+      },
+      {
+        "type": "removed",
+        "text": "Offer Period: 1 st June 2026 to 30 th September 2026"
+      },
+      {
+        "type": "added",
+        "text": "on payment of joining fees​"
+      },
+      {
+        "type": "added",
+        "text": "Offer Period: 1 st October 2026 – 31 st October 2026​"
+      },
+      {
+        "type": "context",
+        "text": "T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "Global reach + UPI with ease"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-amazon-pay-credit-card",
+    "cardName": "Amazon Pay Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-05T10:28:26.237Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy seamless reward points as Amazon Pay balance – with simple and effortless redemption"
+      },
+      {
+        "type": "context",
+        "text": "Fees & Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fees"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee"
+      },
+      {
+        "type": "context",
+        "text": "NIL"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fees"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee"
+      },
+      {
+        "type": "context",
+        "text": "NIL"
+      },
+      {
+        "type": "context",
+        "text": "ATM Withdrawal"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Proof of identity"
+      },
+      {
+        "type": "context",
+        "text": "Proof of address"
+      },
+      {
+        "type": "added",
+        "text": "Extend benefits to your loved ones"
+      },
+      {
+        "type": "context",
+        "text": "Amazon Pay ICICI Bank Credit Card FAQs"
+      },
+      {
+        "type": "context",
+        "text": "What are the benefits of using the Amazon Pay ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Your Amazon Pay ICICI Bank Credit Card comes with no Joining Fee and no Annual Fee. You earn unlimited non-expiring reward points of up to 5% on Amazon.in for Prime members and 3% for non-Prime members, along with 1% rewards on spends outside Amazon at partner merchants. You also get a low forex mark-up of 1.99% on international spends, a 1% fuel surcharge waiver and 3 months of no-cost EMI on eligible Amazon.in transactions."
+      },
+      {
+        "type": "added",
+        "text": "Your Amazon Pay ICICI Bank Credit Card comes with no Joining Fee and no Annual Fee. You earn unlimited non-expiring reward points of up to <5>% on Amazon.in for Prime members and <3>% for non-Prime members, along with <1>% rewards on spends outside Amazon at partner merchants. You also get a low forex mark-up of <1.99>% on international spends, a <1>% fuel surcharge waiver and <3> months of no-cost EMI on eligible Amazon.in transactions."
+      },
+      {
+        "type": "context",
+        "text": "How can I apply for an Amazon Pay ICICI Bank Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "This is an invite-only programme. Please click here to apply for the Amazon Pay ICICI Bank Credit Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Log into the iMobile app and go to ‘Cards and Forex’. Select your Amazon Pay ICICI Bank Credit Card > Card Controls. You can enable or disable transaction types such as international transactions and Tap & Pay transactions. You can also set transaction limits as per your preference."
+      },
+      {
+        "type": "context",
+        "text": "What is the forex markup charge of my Amazon Pay ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Your Amazon Pay ICICI Bank Credit Card comes with a low forex markup charge of 1.99% on international spends made in foreign currencies. The forex markup is applied when your transaction amount is converted from the foreign currency into Indian Rupees (INR). This charge applies each time you use your Card for purchases or payments in a foreign currency. Please refer to the ICICI Bank website for the complete schedule of charges."
+      },
+      {
+        "type": "added",
+        "text": "Your Amazon Pay ICICI Bank Credit Card comes with a low forex markup charge of <1.99>% on international spends made in foreign currencies. The forex markup is applied when your transaction amount is converted from the foreign currency into Indian Rupees (INR). This charge applies each time you use your Card for purchases or payments in a foreign currency. Please refer to the ICICI Bank website for the complete schedule of charges."
+      },
+      {
+        "type": "context",
+        "text": "Intrested to learn more?"
+      },
+      {
+        "type": "context",
+        "text": "The Amazon Pay ICICI Bank card has been a game-changer for my Amazon shopping—no fees (LTF), instant ₹200 cashback upon joining, and up to 5% unlimited cashback on purchases as a Prime member. These benefits along with the benefits of credit cards have helped me to save even more on my purchase."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Forex markup rate updated to 1.99%"
+    }
+  },
+  {
+    "id": "icici-bank-times-black-credit-card",
+    "cardName": "Times Black Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/times-black-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-05T10:28:26.233Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get lifestyle management services from CribLife with 6 exclusive offerings."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get access to International airport lounges for the Primary Cardholder and Plus Cardholders. For lounge list,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get access to Domestic airport lounges for the Primary Cardholder and Plus cardholders. For lounge list, Click here"
+      },
+      {
+        "type": "context",
+        "text": "Gourmet Indulgence"
+      },
+      {
+        "type": "context",
+        "text": "Annual membership of Zomato Gold for exclusive dining privileges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added lounge access for Plus cardholders to international and domestic airport lounges.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "What Debit Cards are you guys using for Lounge Access right now?",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1w2cfgn/what_debit_cards_are_you_guys_using_for_lounge/",
+        "description": "&#x200B; ​Hey folks, ​Since credit cards are constantly devaluing lounge access with high spend criteria, I’ve been relying on debit cards as a solid backup. ​I recently got the ICICI Times Black credit card, so lounge access is pretty much"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-business-supreme-visa",
+    "cardName": "Axis Bank Business Supreme Visa",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-visa-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-05T10:25:07.633Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Card Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "A commercial credit card which is"
+      },
+      {
+        "type": "removed",
+        "text": "easy on your pocket"
+      },
+      {
+        "type": "added",
+        "text": "A Commercial credit card which is"
+      },
+      {
+        "type": "added",
+        "text": "easy on your pocket Tailored options basis your needs!"
+      },
+      {
+        "type": "context",
+        "text": "Before applying for Axis Bank Business Supreme Credit Card &ndash; Visa please read the terms and conditions for Business Supreme Credit Card &ndash; Visa. You can apply for the Credit Card online or visit your nearest Axis Bank branch where our representatives will be happy to help you."
+      },
+      {
+        "type": "context",
+        "text": "Please click here to view the terms and conditions."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a tailored options benefit description for the card"
+    }
+  },
+  {
     "id": "rbl-bank-rbl-bank-quick-pay-credit-card",
     "cardName": "RBL Bank Quick Pay Credit Card",
     "issuerName": "RBL Bank",
@@ -2380,106 +2826,6 @@
     }
   },
   {
-    "id": "axis-bank-axis-bank-business-supreme-visa",
-    "cardName": "Axis Bank Business Supreme Visa",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-visa-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-25T08:49:31.015Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get rewarded for all Domestic spends as"
-      },
-      {
-        "type": "context",
-        "text": "4 reward points for every ₹200 on categories of Travel and Tour Operators & Domestic Airlines, Direct Marketing/Advertising services*"
-      },
-      {
-        "type": "added",
-        "text": "On the retail spends Excluding Fuel,Jewellery,Cash Withdrawal, Wallet Load,Insurance,Education,Govt Service,Rent,EMI, Transactions, Purchases converted to EMI post factor on UPI transactions less than Rs. 2000"
-      },
-      {
-        "type": "context",
-        "text": "1 reward point for every ₹200 on all other spends.*"
-      },
-      {
-        "type": "context",
-        "text": "Avail cash advance facility"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Card Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "A Commercial Credit Card which is"
-      },
-      {
-        "type": "removed",
-        "text": "easy on your pocket"
-      },
-      {
-        "type": "added",
-        "text": "A Commercial credit card which is"
-      },
-      {
-        "type": "added",
-        "text": "easy on your pocket Tailored options basis your needs!"
-      },
-      {
-        "type": "context",
-        "text": "Before applying for Axis Bank Business Supreme Credit Card &ndash; Visa please read the terms and conditions for Business Supreme Credit Card &ndash; Visa. You can apply for the Credit Card online or visit your nearest Axis Bank branch where our representatives will be happy to help you."
-      },
-      {
-        "type": "context",
-        "text": "Please click here to view the terms and conditions."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Customizable reporting for reconciliation"
-      },
-      {
-        "type": "context",
-        "text": "Got more questions?"
-      },
-      {
-        "type": "removed",
-        "text": "Locate the nearest branch for best assessment."
-      },
-      {
-        "type": "added",
-        "text": "For any queries, locate the nearest branch."
-      },
-      {
-        "type": "context",
-        "text": "Locate Branches"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a new retail spend exclusion clause for certain transactions."
-    }
-  },
-  {
     "id": "axis-bank-axis-bank-pride-signature-credit-card",
     "cardName": "Axis Bank Pride Signature Credit Card",
     "issuerName": "Axis Bank",
@@ -3607,66 +3953,6 @@
         "description": "It used to offer 10x reward points on purchases more than 20k. I used to make gold scheme payments from it (almost 70k per month) and got handsome reward points. Now they have limited 10x for dining and international spends thereby limiting"
       },
       "via": "reddit"
-    }
-  },
-  {
-    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
-    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:32:19.082Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Regardless of how you apply, whether by paying a joining fee or with a Fixed Deposit (FD), You will receive two physical cards — Mastercard and RuPay in one kit. All transactions will reflect in a single statement. Your credit limit will be shared between both cards, and all spending on both cards will contribute towards your IndiGo BluChip earnings, activation, and milestone benefits"
-      },
-      {
-        "type": "context",
-        "text": "Read less"
-      },
-      {
-        "type": "added",
-        "text": "IndiGo IDFC FIRST Credit Card now comes with Zero Forex Markup​"
-      },
-      {
-        "type": "added",
-        "text": "Earn 1 IndiGo BluChip on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Key Benefits of IndiGo IDFC FIRST Dual Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Product Information Kit"
-      },
-      {
-        "type": "context",
-        "text": "Product Privileges"
-      },
-      {
-        "type": "added",
-        "text": "With 1 IndiGo BluChip on international spends"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added zero forex markup fee and new international spend reward of 1 IndiGo BluChip."
     }
   },
   {
@@ -8585,78 +8871,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Forex markup fee changed from 1% to 0%, and reward points on international spends now include a 2X rate effective 26 Oct 2026"
-    }
-  },
-  {
-    "id": "icici-bank-times-black-credit-card",
-    "cardName": "Times Black Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/times-black-icici-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:15:36.319Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Curated Luxury Services"
-      },
-      {
-        "type": "context",
-        "text": "Get lifestyle management services from CribLife with 6 exclusive offerings."
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited Domestic Lounge Access"
-      },
-      {
-        "type": "removed",
-        "text": "Relax in style with unlimited complimentary lounge access at domestic airports."
-      },
-      {
-        "type": "removed",
-        "text": "Click here for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited International Lounge Access"
-      },
-      {
-        "type": "removed",
-        "text": "Experience luxury worldwide with complimentary lounge access"
-      },
-      {
-        "type": "added",
-        "text": "Unlimited Access"
-      },
-      {
-        "type": "added",
-        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Unlimited Access"
-      },
-      {
-        "type": "added",
-        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Gourmet Indulgence"
-      },
-      {
-        "type": "context",
-        "text": "Annual membership of Zomato Gold for exclusive dining privileges"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Lounge access benefit restructured to separate international and domestic access."
     }
   },
   {
@@ -16311,50 +16525,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-amazon-pay-credit-card",
-    "cardName": "Amazon Pay Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-21T04:05:07.806Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Click here for applicable Terms & Conditions (T&Cs)"
-      },
-      {
-        "type": "context",
-        "text": "Indian citizen with minimum age of 21"
-      },
-      {
-        "type": "removed",
-        "text": "Salaried employee with a monthly income of at least ₹ 20,000"
-      },
-      {
-        "type": "added",
-        "text": "Salaried employee with a monthly income of at least ₹ 30,000"
-      },
-      {
-        "type": "context",
-        "text": "Self-employed individual with a monthly income of at least ₹ 30,000"
-      },
-      {
-        "type": "context",
-        "text": "It is an Invite Only Program"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Eligibility income threshold increased to ₹30,000 per month"
     }
   },
   {

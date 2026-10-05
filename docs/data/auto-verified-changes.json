@@ -130,5 +130,17 @@
     "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vxs85g/idfc_first_select_credit_card_nerfed/",
     "source": "auto-detected",
     "detected_at": "2026-09-24T08:32:19.087Z"
+  },
+  {
+    "card_slug": "times-black-credit-card",
+    "card_name": "Times Black Credit Card",
+    "issuer": "icici",
+    "change_type": "benefit-change",
+    "summary": "Added lounge access for Plus cardholders to international and domestic airport lounges.",
+    "status": "verified",
+    "official_link": "https://www.icici.bank.in/personal-banking/cards/credit-card/times-black-icici-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1w2cfgn/what_debit_cards_are_you_guys_using_for_lounge/",
+    "source": "auto-detected",
+    "detected_at": "2026-10-05T10:28:26.233Z"
   }
 ]

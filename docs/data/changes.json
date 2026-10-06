@@ -1,5 +1,357 @@
 [
   {
+    "id": "indusind-bank-duo-card",
+    "cardName": "Duo Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html",
+    "status": "Discontinued",
+    "detectedAt": "2026-10-06T10:24:00.984Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Voucher value  - ₹ 3000"
+      },
+      {
+        "type": "context",
+        "text": "Voucher will be of any of the following brands: Louis Philippe, Titan, Aldo, Bata, Fab Hotels, Marks & Spencer"
+      },
+      {
+        "type": "removed",
+        "text": "Gold Debit Card"
+      },
+      {
+        "type": "added",
+        "text": "Visa Gold Debit Card"
+      },
+      {
+        "type": "context",
+        "text": "A power-packed debit card with loads of benefits and convenience of cashless payments"
+      },
+      {
+        "type": "removed",
+        "text": "Account Dependent Issuance/Annual Fee"
+      },
+      {
+        "type": "added",
+        "text": "Get 10% off on Zomato every month"
+      },
+      {
+        "type": "context",
+        "text": "₹ 50,000 ATM Limits"
+      },
+      {
+        "type": "context",
+        "text": "₹ 1,00,000 POS (Point-of-Sale) Limits"
+      },
+      {
+        "type": "added",
+        "text": "₹ 299+Taxes/₹ 299+Taxes Issuance/Annual Fee"
+      },
+      {
+        "type": "context",
+        "text": "VISA Classic Debit Card"
+      },
+      {
+        "type": "context",
+        "text": "A power-packed debit card with loads of benefits and convenience of cashless payments"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Card upgraded to Visa Gold Debit Card with a ₹299 issuance/annual fee and a new 10% off Zomato benefit."
+    }
+  },
+  {
+    "id": "icici-bank-expression-credit-card",
+    "cardName": "Expression Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card",
+    "status": "Active",
+    "detectedAt": "2026-10-06T10:22:57.216Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "175&#43; pre-installed templates"
+      },
+      {
+        "type": "context",
+        "text": "Choose a card image from themes like Zodiac, Sports, Travel and more. Click here"
+      },
+      {
+        "type": "removed",
+        "text": "25% off, up to ₹100"
+      },
+      {
+        "type": "removed",
+        "text": "Get 2 monthly discounts on movie tickets through INOX & BookMyShow"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 1 Domestic Airport Lounge access,  Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Get 25% off up to ₹100 on movie tickets at INOX, twice a month"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get 1 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "context",
+        "text": "Get 1% waiver on fuel transactions worth ₹400 - ₹4,000 at HPCL pumps"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle-free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
+      },
+      {
+        "type": "context",
+        "text": "Extend Benefits To Your Loved Ones"
+      },
+      {
+        "type": "added",
+        "text": "Feedback pop 1"
+      },
+      {
+        "type": "added",
+        "text": "One"
+      },
+      {
+        "type": "added",
+        "text": "May be later"
+      },
+      {
+        "type": "added",
+        "text": "CTA"
+      },
+      {
+        "type": "added",
+        "text": "Want us to call you back?"
+      },
+      {
+        "type": "added",
+        "text": "Give us a few details for us to help you!"
+      },
+      {
+        "type": "added",
+        "text": "Are you an NRI?*"
+      },
+      {
+        "type": "added",
+        "text": "First Name*"
+      },
+      {
+        "type": "added",
+        "text": "Last Name*"
+      },
+      {
+        "type": "added",
+        "text": "Country*"
+      },
+      {
+        "type": "added",
+        "text": "Select your Country"
+      },
+      {
+        "type": "added",
+        "text": "close dropdown"
+      },
+      {
+        "type": "added",
+        "text": "Select your Country"
+      },
+      {
+        "type": "added",
+        "text": "Algeria"
+      },
+      {
+        "type": "added",
+        "text": "Andorra"
+      },
+      {
+        "type": "added",
+        "text": "Afghanistan"
+      },
+      {
+        "type": "added",
+        "text": "Antigua and Barbuda"
+      },
+      {
+        "type": "added",
+        "text": "Anguilla"
+      },
+      {
+        "type": "added",
+        "text": "Albania"
+      },
+      {
+        "type": "added",
+        "text": "Netherlands Antilles"
+      },
+      {
+        "type": "added",
+        "text": "Angola"
+      },
+      {
+        "type": "added",
+        "text": "Argentina"
+      },
+      {
+        "type": "added",
+        "text": "Aruba"
+      },
+      {
+        "type": "added",
+        "text": "American Samoa"
+      },
+      {
+        "type": "added",
+        "text": "Austria"
+      },
+      {
+        "type": "added",
+        "text": "Australia"
+      },
+      {
+        "type": "added",
+        "text": "Azerbaijan"
+      },
+      {
+        "type": "added",
+        "text": "{{! }}"
+      },
+      {
+        "type": "added",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "added",
+        "text": "+"
+      },
+      {
+        "type": "added",
+        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
+      },
+      {
+        "type": "added",
+        "text": "Email*"
+      },
+      {
+        "type": "added",
+        "text": "Product*"
+      },
+      {
+        "type": "added",
+        "text": "Select a Product"
+      },
+      {
+        "type": "added",
+        "text": "close dropdown"
+      },
+      {
+        "type": "added",
+        "text": "Select Product"
+      },
+      {
+        "type": "added",
+        "text": "NRI Home Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Investment Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Property Purchase Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Land Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Investment Home Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Commercial Property Loan"
+      },
+      {
+        "type": "added",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "added",
+        "text": "Email ID*"
+      },
+      {
+        "type": "added",
+        "text": "Product Type"
+      },
+      {
+        "type": "added",
+        "text": "Pincode*"
+      },
+      {
+        "type": "added",
+        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
+      },
+      {
+        "type": "added",
+        "text": "Enter OTP"
+      },
+      {
+        "type": "added",
+        "text": "GET OTP"
+      },
+      {
+        "type": "added",
+        "text": "RESEND OTP in 1:00"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added quarterly movie ticket discount and lounge access with spend thresholds"
+    }
+  },
+  {
     "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
     "cardName": "IndiGo IDFC FIRST Dual Credit Card",
     "issuerName": "IDFC First Bank",
@@ -9584,56 +9936,6 @@
     }
   },
   {
-    "id": "icici-bank-expression-credit-card",
-    "cardName": "Expression Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card",
-    "status": "Active",
-    "detectedAt": "2026-09-02T07:59:11.554Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get 2 monthly discounts on movie tickets through INOX & BookMyShow"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 1 domestic airport lounge access"
-      },
-      {
-        "type": "added",
-        "text": "Get 1 Domestic Airport Lounge access,  Click here for lounge list"
-      },
-      {
-        "type": "context",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Get 1% waiver on fuel transactions worth ₹400 - ₹4,000 at HPCL pumps"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "findmycard.co",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuk29mNtea1MkJqr9a5YvLiba2z8vqpgfcxjg0fnITwhIDU-MiA5o29llCHo_2Cyu9ocR9_58LSpr-Hs_WSD5DJeFBy5ncz5YyQnIqxpj7zUokHUtz0jGcxffEPcLoxbzW3F8fu2vB",
-        "description": "8 independent web source(s) found via Google Search grounding"
-      },
-      "via": "google"
-    },
-    "summary": "Added a link to the lounge list for the domestic lounge access benefit"
-  },
-  {
     "id": "hsbc-india-live-credit-card",
     "cardName": "Live+ Credit Card",
     "issuerName": "HSBC India",
@@ -16525,70 +16827,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "indusind-bank-duo-card",
-    "cardName": "Duo Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/duo-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-20T04:06:12.125Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "IndusInd Bank Duo Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "A single card that’s double the awesome! Get a credit and debit card in one"
-      },
-      {
-        "type": "added",
-        "text": "Duo Card (Discontinued)"
-      },
-      {
-        "type": "context",
-        "text": "The IndusInd Bank Duo Card comes with two Magnetic stripes & EMV Chips. Simply dip/swipe or enter the relevant card details to enjoy the convenience, flexibility and freedom to choose how you pay as well as access cash without carrying multiple cards."
-      },
-      {
-        "type": "context",
-        "text": "What’s more, This first-of-its-kind Card in India brings together a variety of benefits that treat you to the very best of a Credit and Debit Card ."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "*Please visit the 'A Rewarding Life' section for changes in Cash Credit redemption."
-      },
-      {
-        "type": "context",
-        "text": "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month"
-      },
-      {
-        "type": "added",
-        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing, and same is only displayed as a reference for existing IndusInd Bank Duo Credit Cardholders."
-      },
-      {
-        "type": "context",
-        "text": "Notice"
-      },
-      {
-        "type": "context",
-        "text": "Dear Customer, from 30th November 2021, certain product features on your IndusInd DUO Credit Card will be revised. To know more, please click here ."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Card now marked as discontinued for new customers."
     }
   },
   {

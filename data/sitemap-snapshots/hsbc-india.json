@@ -20,6 +20,7 @@
     "https://www.hsbc.bank.in/accounts/products/savings/",
     "https://www.hsbc.bank.in/accounts/products/smart-money/",
     "https://www.hsbc.bank.in/accounts/terms/",
+    "https://www.hsbc.bank.in/auth/tds/",
     "https://www.hsbc.bank.in/branch-finder/",
     "https://www.hsbc.bank.in/branch-list/",
     "https://www.hsbc.bank.in/branch-list/amritsar/",
@@ -89,7 +90,6 @@
     "https://www.hsbc.bank.in/credit-cards/maximise-bogo-credit-card-offers/",
     "https://www.hsbc.bank.in/credit-cards/offers/",
     "https://www.hsbc.bank.in/credit-cards/offers/bookmyshow-saturday/",
-    "https://www.hsbc.bank.in/credit-cards/offers/croma/",
     "https://www.hsbc.bank.in/credit-cards/offers/goibibo/",
     "https://www.hsbc.bank.in/credit-cards/online-banking/",
     "https://www.hsbc.bank.in/credit-cards/pay-income-tax/",
@@ -193,7 +193,6 @@
     "https://www.hsbc.bank.in/help/security-centre/security-device/",
     "https://www.hsbc.bank.in/help/service-requests/",
     "https://www.hsbc.bank.in/hifsl/",
-    "https://www.hsbc.bank.in/hifsl/help/feedback-and-complaints/",
     "https://www.hsbc.bank.in/home-loans/",
     "https://www.hsbc.bank.in/home-loans/calculators/",
     "https://www.hsbc.bank.in/home-loans/fees-and-charges/",
@@ -261,6 +260,7 @@
     "https://www.hsbc.bank.in/international/studying-abroad/education-partners/",
     "https://www.hsbc.bank.in/international/studying-abroad/types-of-post-secondary-education-institutions-in-canada/",
     "https://www.hsbc.bank.in/international/transfer-money-from-usa-to-india/",
+    "https://www.hsbc.bank.in/international/what-is-international-banking/",
     "https://www.hsbc.bank.in/international/what-is-remittance/",
     "https://www.hsbc.bank.in/investments/",
     "https://www.hsbc.bank.in/investments/5-things-to-know-about-sustainable-investing/",
@@ -323,11 +323,8 @@
     "https://www.hsbc.bank.in/nri/what-is-nre-account/",
     "https://www.hsbc.bank.in/nri/what-is-nro-account/",
     "https://www.hsbc.bank.in/nri/what-is-resident-foreign-currency-account/",
-    "https://www.hsbc.bank.in/offers/club-mahindra/",
-    "https://www.hsbc.bank.in/offers/dining/",
     "https://www.hsbc.bank.in/offers/make-my-trip/",
     "https://www.hsbc.bank.in/offers/samsung/",
-    "https://www.hsbc.bank.in/offers/swiggy/",
     "https://www.hsbc.bank.in/personal-banking/",
     "https://www.hsbc.bank.in/premier/",
     "https://www.hsbc.bank.in/premier/family-banking/",
@@ -388,8 +385,7 @@
     "https://www.hsbc.bank.in/ways-to-bank/phone-banking/",
     "https://www.hsbc.bank.in/ways-to-bank/video-kyc/",
     "https://www.hsbc.bank.in/ways-to-bank/video-kyc/faq/",
-    "https://www.hsbc.bank.in/wealth/",
-    "https://www.hsbc.bank.in/wealth/insights/"
+    "https://www.hsbc.bank.in/wealth/"
   ],
-  "updatedAt": "2026-10-05T10:23:22.323Z"
+  "updatedAt": "2026-10-06T10:15:02.498Z"
 }

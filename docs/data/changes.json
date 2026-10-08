@@ -1,5 +1,445 @@
 [
   {
+    "id": "hsbc-india-hsbc-rupay-platinum-credit-card",
+    "cardName": "HSBC RuPay Platinum Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/rupay-platinum-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-10-08T10:38:08.657Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get an INR250 Amazon eGift Voucher when you apply online, verify yourself by video and receive your card. T&Cs apply ."
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 2-months EazyDiner membership when you activate your RuPay credit card. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "removed",
+        "text": "Plus, get INR250 cashback when you link your card to UPI and make 2 transactions of INR250 or more within 30 days of getting your card. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "removed",
+        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Choose our RuPay Platinum Credit Card to enjoy"
+      },
+      {
+        "type": "context",
+        "text": "No joining and annual fees"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed INR250 cashback offer for UPI linking and INR1,000 cashback for income document submission."
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-rupay-cashback-credit-card",
+    "cardName": "HSBC RuPay Cashback Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/rupay-cashback-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-10-08T10:38:08.656Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get an INR250 Amazon eGift Voucher when you apply online, verify yourself by video and receive your card. T&Cs apply ."
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 2-months EazyDiner membership when you activate your RuPay credit card. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "removed",
+        "text": "Plus, get INR250 cashback when you link your card to UPI and make 2 transactions of INR250 or more within 30 days of getting your card. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "removed",
+        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Choose our RuPay Cashback Credit Card to enjoy"
+      },
+      {
+        "type": "context",
+        "text": "0% forex mark-up"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-travelone-credit-card",
+    "cardName": "HSBC TravelOne Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/travelone/",
+    "status": "Active",
+    "detectedAt": "2026-10-08T10:38:08.656Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "15% off international and domestic flights with Cleartrip"
+      },
+      {
+        "type": "context",
+        "text": "Save on international and domestic flights when you book through the ClearTrip app or website. Use promo code: CTHSBCTRAVELONE. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "removed",
+        "text": "Up to 30% off on dining with EazyDiner"
+      },
+      {
+        "type": "removed",
+        "text": "Get unparalleled dining offers with 30% off your bill (up to INR1,000) with EazyDiner. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "added",
+        "text": "Up to 10% off on dining with EazyDiner"
+      },
+      {
+        "type": "added",
+        "text": "Get unparalleled dining offers with 10% off your bill (up to INR1,000) with EazyDiner. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "context",
+        "text": "11% off hotel bookings with StayVista"
+      },
+      {
+        "type": "context",
+        "text": "Stay for less when you make a hotel booking through the StayVista website (max 2 bookings per card per year; max saving per booking INR3,000). Use promo code: HSBCTRAVEL. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "context",
+        "text": "Savings on movies and events with the District app by Zomato"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy up to 10% off events with promo code HSBCTOEVENTS, and dining with promo code HSBCTODINING. Plus, buy 1 movie ticket and get 1 free twice a month with promo code HSBCTOMOV. T&Cs apply(PDF) ."
+      },
+      {
+        "type": "added",
+        "text": "Enjoy up to 10% off events with promo code HSBCTOEVENTS, and dining with promo code HSBCTODINING. Plus, buy 1 movie ticket and get 1 free twice a month with promo code HSBCTOMOV. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "context",
+        "text": "Up to 20% off duty-free with AdaniOne"
+      },
+      {
+        "type": "context",
+        "text": "Save 20%, up to INR3,000, on their app or website when you spend INR8,000 or more, once per card per year. Just use promo code: HSBCTRAVELONE. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Introductory Offer Terms and Conditions (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Introductory Offer Terms and Conditions (PDF) Download"
+      },
+      {
+        "type": "removed",
+        "text": "Get INR1,000 cashback"
+      },
+      {
+        "type": "removed",
+        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
+      },
+      {
+        "type": "removed",
+        "text": "T&Cs apply (PDF)"
+      },
+      {
+        "type": "removed",
+        "text": "Offer valid until 30 September 2026."
+      },
+      {
+        "type": "context",
+        "text": "Apply online"
+      },
+      {
+        "type": "context",
+        "text": "When you apply online and complete your application with video self-verification, you'll be eligible for an Amazon eGift Voucher worth INR250. T&Cs apply ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Dining discount reduced to 10% off"
+    }
+  },
+  {
+    "id": "hsbc-india-visa-platinum-credit-card",
+    "cardName": "Visa Platinum Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/visa-platinum/",
+    "status": "Active",
+    "detectedAt": "2026-10-08T10:38:08.655Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Our welcome gifts to you"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2,000 reward points when you download and log on to the HSBC India Mobile Banking app and spend at least INR5,000 in the first 30 days of having your card. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 2-months EazyDiner membership when you activate your HSBC Visa Platinum credit card. T&Cs Apply (PDF) ."
+      },
+      {
+        "type": "context",
+        "text": "Receive a voucher worth up to INR500 for Amazon Pay, Zomato and Swiggy when you activate your card with a single transaction of INR300 or more.[@visa-signature-subject-to-change] T&Cs apply ."
+      },
+      {
+        "type": "context",
+        "text": "Plus, get an INR250 Amazon eGift Card when you apply online, verify yourself by video and receive your credit card. T&Cs apply ."
+      },
+      {
+        "type": "removed",
+        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Here's what you get with an HSBC Visa Platinum Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "No joining or annual fees"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Welcome benefit changed from INR1,000 cashback to 2‑month EazyDiner membership."
+    }
+  },
+  {
+    "id": "hsbc-india-premier-credit-card",
+    "cardName": "Premier Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/premier/",
+    "status": "Active",
+    "detectedAt": "2026-10-08T10:38:08.655Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get welcome rewards"
+      },
+      {
+        "type": "context",
+        "text": "Earn 20,000 reward points when you start using your HSBC Premier Credit Card. T&Cs apply ."
+      },
+      {
+        "type": "removed",
+        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "What you get with an HSBC Premier Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Go places with your card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed INR1,000 cashback offer for spending INR1,000 within 30 days after account aggregation."
+    }
+  },
+  {
+    "id": "axis-bank-neo-credit-card",
+    "cardName": "Neo Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-08T10:34:50.521Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Neo Credit Card: Lifetime Free with Offers on Zomato, Myntra & More | Axis Bank"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Neo Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Lifetime free Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Activation benefits & rewards"
+      },
+      {
+        "type": "context",
+        "text": "Exclusive offers for big savings"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "10% off on Blinkit &ndash; Up to ₹250 off on min spends of ₹750, valid once per month."
+      },
+      {
+        "type": "context",
+        "text": "10% off on every purchase of movie ticket on BookMyShow with maximum monthly benefits up to ₹100."
+      },
+      {
+        "type": "removed",
+        "text": "₹150 off on Myntra on minimum spends of ₹999 on selected styles - Valid till 31st March'26"
+      },
+      {
+        "type": "context",
+        "text": "For detailed terms and conditions, click here"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program. Valid till 30th July 2026"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-card",
+    "cardName": "American Express® Platinum Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
+    "status": "Active",
+    "detectedAt": "2026-10-08T10:34:00.971Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Benefits worth INR 44,300 * every time you book at one of the 1000+ properties at one of the 1000+ properties under the Fine Hotels & Resorts collection."
+      },
+      {
+        "type": "context",
+        "text": "The Hotel Collection offers you a world of luxurious comfort, which includes a US$100 experience credit and a room upgrade"
+      },
+      {
+        "type": "removed",
+        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
+      },
+      {
+        "type": "added",
+        "text": "New hotel and flight bookings will be unavailable until 15 November, while Lifestyle Services will be unavailable from 9–14 November. Support for existing bookings will continue until 15 November, except on 1–2 November 2026."
+      },
+      {
+        "type": "context",
+        "text": "STAY PROTECTED WITH EMERGENCY SERVICES AND INSURANCE."
+      },
+      {
+        "type": "context",
+        "text": "Go places with complete peace of mind, knowing you are protected with these benefits -"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Travel benefits for those constantly on the move"
+      },
+      {
+        "type": "context",
+        "text": "As a Platinum Cardmember, enjoy exclusive deals on some of the world’s finest airlines like Air India, Etihad, Qatar Airways, Virgin Atlantic, Air France, KLM, Lufthansa, United Airlines and more"
+      },
+      {
+        "type": "removed",
+        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
+      },
+      {
+        "type": "added",
+        "text": "New hotel and flight bookings will be unavailable until 15 November, while Lifestyle Services will be unavailable from 9–14 November. Support for existing bookings will continue until 15 November, except on 1–2 November 2026."
+      },
+      {
+        "type": "context",
+        "text": "Unwind at FINE HOTELS & RESORTS worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary benefits worth INR 44,300 *  at iconic 5-star properties that include guaranteed 4pm late check-out, room upgrades at check in when available 5 , daily breakfast for two, WiFi or a special amenity * at each property worth US$100."
+      },
+      {
+        "type": "context",
+        "text": "The hotels included are The Ritz- Carlton, The Vanderbilt, Hyatt, Hilton and many more……"
+      },
+      {
+        "type": "context",
+        "text": "Explore more"
+      },
+      {
+        "type": "removed",
+        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
+      },
+      {
+        "type": "added",
+        "text": "New hotel and flight bookings will be unavailable until 15 November, while Lifestyle Services will be unavailable from 9–14 November. Support for existing bookings will continue until 15 November, except on 1–2 November 2026."
+      },
+      {
+        "type": "context",
+        "text": "Enjoy seamless upgrades to Elite Tier Memberships"
+      },
+      {
+        "type": "context",
+        "text": "Your American Express Platinum Card fast-tracks you to the higher tiers of leading hotel loyalty programs around the world, without having to fulfil the usual qualifying criteria."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Availability of hotel, flight, and lifestyle service bookings changed."
+    }
+  },
+  {
     "id": "indusind-bank-duo-card",
     "cardName": "Duo Card",
     "issuerName": "IndusInd Bank",
@@ -5324,170 +5764,6 @@
     }
   },
   {
-    "id": "hsbc-india-hsbc-rupay-cashback-credit-card",
-    "cardName": "HSBC RuPay Cashback Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/rupay-cashback-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-09-22T08:36:52.953Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Choose our RuPay Cashback Credit Card to enjoy"
-      },
-      {
-        "type": "context",
-        "text": "0% forex mark-up"
-      },
-      {
-        "type": "removed",
-        "text": "Save when you spend abroad, with 0% FX mark-up on your transactions until 31 August 2026. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "added",
-        "text": "Save when you spend abroad, with 0% FX mark-up on your transactions until 31 December 2026. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "context",
-        "text": "UPI integration"
-      },
-      {
-        "type": "context",
-        "text": "Link your credit card to UPI apps and enjoy easy direct payments with your card."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get exclusive discounts and offers with RuPay"
-      },
-      {
-        "type": "context",
-        "text": "Save on shopping, dinning and more with a range of offers and discounts exclusively for RuPay cardholders. Learn more about RuPay offers ."
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy money off your bills with Paytm"
-      },
-      {
-        "type": "removed",
-        "text": "Use promo code HSBCRUPAY to get 5% off transactions of INR299 or more on mobile (prepaid and postpaid), broadband, DTH, water bills, gas cylinders, piped gas bills, FASTag and electricity bills (max discount INR150). T&Cs apply (PDF) ."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy discounts and ofers around the world with the JCB network"
-      },
-      {
-        "type": "context",
-        "text": "Access global discounts, offers and experiences with your JCB network-enabled RuPay credit card. View JCB network offers ."
-      },
-      {
-        "type": "removed",
-        "text": "Cleartrip"
-      },
-      {
-        "type": "removed",
-        "text": "Get discounts up to INR6,000 on flights and hotels via Cleartrip. Use coupon code HSBCRPCC for full swipe transactions and HSBCRPEMI for EMI transactions. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "context",
-        "text": "What you need to know"
-      },
-      {
-        "type": "context",
-        "text": "To apply, you must:"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hsbc-india-hsbc-travelone-credit-card",
-    "cardName": "HSBC TravelOne Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/travelone/",
-    "status": "Active",
-    "detectedAt": "2026-09-22T08:36:52.952Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
-      },
-      {
-        "type": "context",
-        "text": "T&Cs apply (PDF)"
-      },
-      {
-        "type": "removed",
-        "text": "Offer valid until 31 August 2026."
-      },
-      {
-        "type": "added",
-        "text": "Offer valid until 30 September 2026."
-      },
-      {
-        "type": "context",
-        "text": "Apply online"
-      },
-      {
-        "type": "context",
-        "text": "When you apply online and complete your application with video self-verification, you'll be eligible for an Amazon eGift Voucher worth INR250. T&Cs apply ."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hsbc-india-visa-platinum-credit-card",
-    "cardName": "Visa Platinum Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/visa-platinum/",
-    "status": "Active",
-    "detectedAt": "2026-09-22T08:36:52.950Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Our welcome gifts to you"
-      },
-      {
-        "type": "context",
-        "text": "Earn 2,000 reward points when you download and log on to the HSBC India Mobile Banking app and spend at least INR5,000 in the first 30 days of having your card. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "removed",
-        "text": "Get a complimentary 3-month Swiggy One membership once you've activated your card. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "context",
-        "text": "Receive a voucher worth up to INR500 for Amazon Pay, Zomato and Swiggy when you activate your card with a single transaction of INR300 or more.[@visa-signature-subject-to-change] T&Cs apply ."
-      },
-      {
-        "type": "context",
-        "text": "Plus, get an INR250 Amazon eGift Card when you apply online, verify yourself by video and receive your credit card. T&Cs apply ."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Complimentary 3-month Swiggy One membership benefit removed."
-    }
-  },
-  {
     "id": "hdfc-bank-purchase-premium-credit-card",
     "cardName": "Purchase Premium Credit Card",
     "issuerName": "HDFC Bank",
@@ -7069,78 +7345,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Joining and annual fees removed; reward points increased to 20 per INR125 and milestone 1500 points."
-    }
-  },
-  {
-    "id": "axis-bank-neo-credit-card",
-    "cardName": "Neo Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-19T08:03:24.166Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "CC on UPI enabled credit card for seamless transactions"
-      },
-      {
-        "type": "context",
-        "text": "Complimentary domestic lounge access basis spends*"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "Fee waiver"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank MY Zone Easy Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Points with every ₹200 spent"
-      },
-      {
-        "type": "context",
-        "text": "25% cashback on movies"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "Add-On Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Frequently Asked Questions"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Joining and annual fees removed from card terms."
     }
   },
   {
@@ -9625,90 +9829,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Fuel surcharge waiver threshold increased from ₹4,000 to ₹5,000."
-    }
-  },
-  {
-    "id": "amex-american-express-platinum-card",
-    "cardName": "American Express® Platinum Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
-    "status": "Active",
-    "detectedAt": "2026-09-04T07:59:05.236Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Benefits worth INR 44,300 * every time you book at one of the 1000+ properties at one of the 1000+ properties under the Fine Hotels & Resorts collection."
-      },
-      {
-        "type": "context",
-        "text": "The Hotel Collection offers you a world of luxurious comfort, which includes a US$100 experience credit and a room upgrade"
-      },
-      {
-        "type": "added",
-        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
-      },
-      {
-        "type": "context",
-        "text": "STAY PROTECTED WITH EMERGENCY SERVICES AND INSURANCE."
-      },
-      {
-        "type": "context",
-        "text": "Go places with complete peace of mind, knowing you are protected with these benefits -"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Travel benefits for those constantly on the move"
-      },
-      {
-        "type": "context",
-        "text": "As a Platinum Cardmember, enjoy exclusive deals on some of the world’s finest airlines like Air India, Etihad, Qatar Airways, Virgin Atlantic, Air France, KLM, Lufthansa, United Airlines and more"
-      },
-      {
-        "type": "added",
-        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Unwind at FINE HOTELS & RESORTS worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy complimentary benefits worth INR 44,300 *  at iconic 5-star properties that include guaranteed 4pm late check-out, room upgrades at check in when available 5 , daily breakfast for two, WiFi or a special amenity * at each property worth US$100."
-      },
-      {
-        "type": "context",
-        "text": "The hotels included are The Ritz- Carlton, The Vanderbilt, Hyatt, Hilton and many more……"
-      },
-      {
-        "type": "context",
-        "text": "Explore more"
-      },
-      {
-        "type": "added",
-        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy seamless upgrades to Elite Tier Memberships"
-      },
-      {
-        "type": "context",
-        "text": "Your American Express Platinum Card fast-tracks you to the higher tiers of leading hotel loyalty programs around the world, without having to fulfil the usual qualifying criteria."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added blackout dates for new travel bookings on the card."
     }
   },
   {
@@ -14606,58 +14726,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a welcome gift of 11,000 Bonus Membership Rewards Points"
-    }
-  },
-  {
-    "id": "hsbc-india-premier-credit-card",
-    "cardName": "Premier Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/premier/",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:17:21.296Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Explore our benefit calculator (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Explore our benefit calculator (PDF) Download"
-      },
-      {
-        "type": "removed",
-        "text": "Get a welcome reward"
-      },
-      {
-        "type": "added",
-        "text": "Get welcome rewards"
-      },
-      {
-        "type": "context",
-        "text": "Earn 20,000 reward points when you start using your HSBC Premier Credit Card. T&Cs apply ."
-      },
-      {
-        "type": "added",
-        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "What you get with an HSBC Premier Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Go places with your card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a welcome reward of INR1,000 cashback for spending INR1,000 within 30 days of card activation."
     }
   },
   {

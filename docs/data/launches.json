@@ -1,5 +1,45 @@
 [
   {
+    "id": "indusind-bank-instant-pin-generation",
+    "cardName": "Instant PIN Generation",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/DebitCard/Instant-PIN-Generation.html",
+    "discoveredAt": "2026-10-08T10:32:43.907Z",
+    "lastmod": "2026-03-20",
+    "announcement": {
+      "title": "Instant PIN Generation",
+      "url": "https://www.indusind.bank.in/DebitCard/Instant-PIN-Generation.html",
+      "description": "Official product page on IndusInd Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "indusind-bank-error404",
+    "cardName": "ERROR404",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/microsites/platinum-aura-edge-goverment-credit-card.html",
+    "discoveredAt": "2026-10-08T10:32:43.906Z",
+    "lastmod": "2026-03-20",
+    "announcement": {
+      "title": "ERROR404",
+      "url": "https://www.indusind.bank.in/in/en/microsites/platinum-aura-edge-goverment-credit-card.html",
+      "description": "Official product page on IndusInd Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-business-micro-credit-card",
     "cardName": "Business Micro Credit Card",
     "issuerName": "ICICI Bank",

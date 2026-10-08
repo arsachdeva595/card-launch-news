@@ -3866,5 +3866,23 @@
     "issuerSlug": "icici-bank",
     "url": "https://www.icici.bank.in/business-banking/cards/business-credit-card/micro-business-credit-card",
     "status": "Active"
+  },
+  {
+    "cardName": "ERROR404",
+    "issuerSlug": "indusind-bank",
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/payback-credit-card.html",
+    "status": "Active"
+  },
+  {
+    "cardName": "ERROR404",
+    "issuerSlug": "indusind-bank",
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/crest-credit-card.html",
+    "status": "Active"
+  },
+  {
+    "cardName": "ERROR404",
+    "issuerSlug": "indusind-bank",
+    "url": "https://www.indusind.bank.in/in/en/microsites/platinum-aura-edge-goverment-credit-card.html",
+    "status": "Active"
   }
 ]

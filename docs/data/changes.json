@@ -1,5 +1,631 @@
 [
   {
+    "id": "hsbc-india-hsbc-taj-credit-card",
+    "cardName": "HSBC Taj Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
+    "status": "Active",
+    "detectedAt": "2026-10-09T10:35:58.738Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Unlock access to a world of extraordinary benefits"
+      },
+      {
+        "type": "context",
+        "text": "Get two nights' breakfast-inclusive stays at hotels across India and a one-night stay at Taj Palaces when you activate your card"
+      },
+      {
+        "type": "removed",
+        "text": "Get a voucher for an extra one-night stay at Taj Palaces, valid for 6 months, with every new or renewed card. Offer valid until 30 September 2026"
+      },
+      {
+        "type": "added",
+        "text": "Get a voucher for an extra one-night stay at Taj Palaces, valid for 6 months, with every new or renewed card. Offer valid until 31 December 2026"
+      },
+      {
+        "type": "context",
+        "text": "Access exclusive privileges with NeuPass Taj InnerCircle Platinum Tier membership[@platinum-neupass]"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy priority/early check-ins, late check-outs, access to a dedicated 24/7 Platinum customer care service and more"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy exclusive access to The Chambers Lounge, available up to 12 times a year for you and a guest"
+      },
+      {
+        "type": "context",
+        "text": "Easily manage your bookings by calling HSBC on 1800 569 1111 , or the IHCL concierge desk on 1800 202 5575 [@taj-offer-redemption]"
+      },
+      {
+        "type": "removed",
+        "text": "Terms and conditions apply (PDF, 273KB)"
+      },
+      {
+        "type": "added",
+        "text": "Terms and conditions apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Why choose the HSBC Taj Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "Exquisite stays and dining"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Voucher validity extended to 31 December 2026"
+    }
+  },
+  {
+    "id": "hsbc-india-live-credit-card",
+    "cardName": "Live+ Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/live-plus/",
+    "status": "Active",
+    "detectedAt": "2026-10-09T10:35:58.737Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Receive a voucher worth INR750 for Amazon Pay, Zomato and Swiggy when you activate your card with a single transaction of INR300 or more. T&Cs apply ."
+      },
+      {
+        "type": "context",
+        "text": "Get an INR250 Amazon eGift Voucher when you apply online, verify yourself by video and receive your card. T&Cs apply ."
+      },
+      {
+        "type": "removed",
+        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Get 10% cashback and more"
+      },
+      {
+        "type": "context",
+        "text": "Dine"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed INR1,000 cashback offer for spending INR1,000 within 30 days of card issuance."
+    }
+  },
+  {
+    "id": "hsbc-india-premier-credit-card",
+    "cardName": "Premier Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/premier/",
+    "status": "Active",
+    "detectedAt": "2026-10-09T10:35:58.736Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "EMI options"
+      },
+      {
+        "type": "context",
+        "text": "Convenient EMI options that allow you to pay your credit card dues in Equated Monthly Instalments (EMIs) such as Balance Transfer on EMI, Cash-on-EMI, or Loan-on-Phone."
+      },
+      {
+        "type": "added",
+        "text": "15% off eSIM purchases with Airalo"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy exclusive discounts on all Airalo eSIM purchases and top-ups. Use promo code: MASTERCARD15. Know More ."
+      },
+      {
+        "type": "added",
+        "text": "Save up to 35% on standard rates with Avis Car Rentals"
+      },
+      {
+        "type": "added",
+        "text": "Get complimentary enrollment to Avis Preferred and up to 35% off car rentals. Know More ."
+      },
+      {
+        "type": "context",
+        "text": "Luxury hotel & resorts programme"
+      },
+      {
+        "type": "context",
+        "text": "Get complimentary upgrades, early check-in and late check-out, and exclusive extras at over 3,800 luxury destinations worldwide with Mastercard. Know more"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Online fraud protection and lost card liability"
+      },
+      {
+        "type": "context",
+        "text": "Get insurance coverage for any misuse of your card from 24 hours before reporting it lost, up to INR300,000."
+      },
+      {
+        "type": "added",
+        "text": "Exclusive hotel benefits with Preferred Hotels & Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Stay four nights and pay for only three, plus earn an additional 5,000 I-Prefer points. Use promo code MKTMPE. Know More ."
+      },
+      {
+        "type": "context",
+        "text": "What you need to know"
+      },
+      {
+        "type": "context",
+        "text": "You must be an existing HSBC qualified Premier customer with a Premier relationship in India."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added new partner discounts for eSIM, car rentals, and hotels"
+    }
+  },
+  {
+    "id": "hdfc-bank-swiggy-hdfc-bank-credit-card",
+    "cardName": "Swiggy HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/swiggy-hdfc-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-09T10:35:39.394Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Complimentary 3 Months Swiggy One Membership, on activating your card within first 30 days of card issuance."
+      },
+      {
+        "type": "context",
+        "text": "Swiggy Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "10% CashBack on spends across Swiggy App on Food orders, Instamart, Dineout & Genie."
+      },
+      {
+        "type": "added",
+        "text": "10% CashBack* on spends across Swiggy App on Food orders, Instamart, Dineout."
+      },
+      {
+        "type": "context",
+        "text": "Credit Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Up to 50 days of interest-free Credit from the date of purchase*"
+      },
+      {
+        "type": "context",
+        "text": "Additional Benefits"
+      },
+      {
+        "type": "context",
+        "text": "CashBack Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "5% CashBack on online spends across multiple apps and website."
+      },
+      {
+        "type": "removed",
+        "text": "1% CashBack on other category spends, except for fuel, rent, EMI, wallet, jewellery and Government related transactions*"
+      },
+      {
+        "type": "added",
+        "text": "10% CashBack* on spends across Swiggy App on Food orders, Instamart, Dineout."
+      },
+      {
+        "type": "added",
+        "text": "5% CashBack* on online spends across multiple apps and website."
+      },
+      {
+        "type": "added",
+        "text": "1% CashBack* on other category spends, except for fuel, rent, EMI, wallet, jewellery and Government related transactions."
+      },
+      {
+        "type": "context",
+        "text": "Golf Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Access to golf courses worldwide and 12 free lessons per year"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Prefer a face-to-face interaction? Just visit your nearest  branch  and our staff will help you with the application."
+      },
+      {
+        "type": "context",
+        "text": "What are the key benefits of Swiggy HDFC Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "You are eligible to earn 10% Cashback on Swiggy App transactions (Food ordering, Instamart, Dineout & Genie) up to ₹,1500 per billing cycle. Please note that transactions done using Swiggy Money Wallet, Swiggy Liquor, Swiggy Minis won’t earn you any cashback. Also, any other exclusion category (if any) may be communicated to you from time to time. With Swiggy HDFC Bank Credit Card, you can enjoy 5% Cashback on various online categories up to ₹1,500 per billing cycle. This benefit is applicable on Apparels, Electronics, Dept. Stores, Personal Care, Local Cabs, Home Décor, Pet Stores and Supplies, Pharmacies, Discount Stores and Entertainment. For more information on inclusion categories and MCCs please refer to Swiggy HDFC Bank Credit Card T&Cs available on HDFC Bank website."
+      },
+      {
+        "type": "removed",
+        "text": "Over and above this, you can also enjoy 1% CashBack on other categories up to ₹500 per billing cycle except on Fuel, Rent, EMI, Wallet, Jewelry and Govt. related spends. For more details on key benefits, please refer to Swiggy HDFC Bank Credit Card T&C For information on welcome benefit please refer to Q.4 ."
+      },
+      {
+        "type": "added",
+        "text": "You are eligible to earn 10% Cashback* on Swiggy App transactions (Food ordering, Instamart, Dineout) up to ₹,1500 per billing cycle. Please note that transactions done using Swiggy Money Wallet, Swiggy Liquor, Swiggy Minis won’t earn you any cashback. Also, any other exclusion category (if any) may be communicated to you from time to time. With Swiggy HDFC Bank Credit Card, you can enjoy 5% Cashback* on various online categories up to ₹1,500 per billing cycle. This benefit is applicable on Apparels, Electronics, Dept. Stores, Personal Care, Local Cabs, Home Décor, Pet Stores and Supplies, Pharmacies, Discount Stores and Entertainment. For more information on inclusion categories and MCCs please refer to Swiggy HDFC Bank Credit Card T&Cs available on HDFC Bank website."
+      },
+      {
+        "type": "added",
+        "text": "Over and above this, you can also enjoy 1% CashBack* on other categories up to ₹500 per billing cycle except on Fuel, Rent, EMI, Wallet, Jewelry and Govt. related spends. For more details on key benefits, please refer to Swiggy HDFC Bank Credit Card T&C For information on welcome benefit please refer to Q.4 ."
+      },
+      {
+        "type": "context",
+        "text": "Cashback will not be accrued for the following transactions using Swiggy HDFC Bank Credit Card Wallet Rent Government related transactions Fuel  Jewellery  EMI (all types) Cash advances, Purchase of travelers’ cheques, Purchase of foreign currency and fees, Interest charge and penalties Any other categories as decided from time to time. This will be applicable on Offline spends"
+      },
+      {
+        "type": "context",
+        "text": "What is the customer value that Swiggy HDFC Bank Credit Card provides?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated Swiggy App cashback rates and categories, removing Genie and adding asterisks to indicate terms."
+    }
+  },
+  {
+    "id": "axis-bank-purchase-reward-card",
+    "cardName": "Purchase Reward Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/purchase-reward-card",
+    "status": "Active",
+    "detectedAt": "2026-10-09T10:32:57.989Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 1 point on domestic spends for every 200 spent"
+      },
+      {
+        "type": "context",
+        "text": "Earn 2 point on international Spends for Every 200 Spent"
+      },
+      {
+        "type": "added",
+        "text": "Redeem Plus reward points on our exclusive Reward Redemption Catalogue. Click here for details."
+      },
+      {
+        "type": "context",
+        "text": "Complete Solution of Purchase card"
+      },
+      {
+        "type": "context",
+        "text": "Helps company as well as the suppliers benefit from a streamlined procure-to-pay process."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a new reward redemption catalogue for redeeming Plus reward points."
+    }
+  },
+  {
+    "id": "axis-bank-corporate-credit-card-with-corporate-liability",
+    "cardName": "Corporate Credit Card with Corporate Liability",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/corporate-credit-card-with-corporate-liability",
+    "status": "Active",
+    "detectedAt": "2026-10-09T10:32:57.986Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 1 point on domestic spends for every ₹200 spent."
+      },
+      {
+        "type": "context",
+        "text": "Earn 2 points on international spends for every ₹200 spent."
+      },
+      {
+        "type": "added",
+        "text": "Redeem Plus reward points on our exclusive Reward Redemption Catalogue. Click here for details."
+      },
+      {
+        "type": "context",
+        "text": "Fuel Transaction Surcharge"
+      },
+      {
+        "type": "context",
+        "text": "Swipe your Axis Bank Corporate Card at petrol pumps to get 1% refund for fuel transaction between ₹400 - ₹4000*."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a reward redemption catalogue link for redeeming Plus reward points."
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-my-zone-credit-card",
+    "cardName": "Axis Bank My Zone Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-09T10:32:57.966Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Benefit from one complimentary access per calendar quarter to select"
+      },
+      {
+        "type": "context",
+        "text": "airport lounges in India with your Axis Bank My Zone Credit Card."
+      },
+      {
+        "type": "removed",
+        "text": "Earn EDGE REWARDS"
+      },
+      {
+        "type": "removed",
+        "text": "Earn four EDGE REWARD points for every ₹200 spent using your credit card."
+      },
+      {
+        "type": "added",
+        "text": "Earn EDGE REWARDS Points"
+      },
+      {
+        "type": "added",
+        "text": "Earn EDGE REWARDS points for transactions and use them to redeem 500+ rewards and offers."
+      },
+      {
+        "type": "context",
+        "text": "Rewards on achieving milestone spends"
+      },
+      {
+        "type": "context",
+        "text": "You will be eligible to earn 1,000 EDGE REWARD Points on achieving annual"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "For any transactions exceeding ₹1,500, contact the bank to convert your"
+      },
+      {
+        "type": "context",
+        "text": "large credit card purchases into manageable EMIs."
+      },
+      {
+        "type": "removed",
+        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card fees include cash payment fee, joining fee and an annual fee."
+      },
+      {
+        "type": "removed",
+        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card fees include cash payment fee, joining fee and an annual fee."
+      },
+      {
+        "type": "added",
+        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card comes with various fees and charges, including joining fees, annual fees, cash payment fees, withdrawal fees, and applicable penalties."
+      },
+      {
+        "type": "added",
+        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card comes with various fees and charges, including joining fees, annual fees, cash payment fees, withdrawal fees, and applicable penalties."
+      },
+      {
+        "type": "context",
+        "text": "Description Charges"
+      },
+      {
+        "type": "context",
+        "text": "Joining fee ₹500"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Cash Withdrawal Fees 2.5% (Min. ₹500) of the cash amount"
+      },
+      {
+        "type": "context",
+        "text": "Overdue Penalty or Late Payment Fee Nil if Total Payment Due is less than ₹500"
+      },
+      {
+        "type": "removed",
+        "text": "₹500 if total payment due is between ₹501 - ₹"
+      },
+      {
+        "type": "removed",
+        "text": "5,000"
+      },
+      {
+        "type": "added",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "context",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "₹1200 if total payment due is"
+      },
+      {
+        "type": "removed",
+        "text": "greater"
+      },
+      {
+        "type": "removed",
+        "text": "than ₹10,000"
+      },
+      {
+        "type": "removed",
+        "text": "An additional charge of ₹100 will be levied on missing payment of MAD by the due date for two consecutive cycles. This charge will continue to be levied for every payment cycle until the MAD is cleared"
+      },
+      {
+        "type": "added",
+        "text": "₹1,200 if total payment due is between ₹10,001 and ₹50,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1,300 if total payment due is greater than ₹50,000."
+      },
+      {
+        "type": "added",
+        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
+      },
+      {
+        "type": "context",
+        "text": "Over Limit Penalty 2.5% of the payment amount subject to minimum of ₹500"
+      },
+      {
+        "type": "context",
+        "text": "Cheque Return or Dishonour Fee or Auto-debit Reversal 2% of the payment amount subject to minimum of ₹500"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Benefit unlocked on spends of ₹50,000 in previous 3 months."
+      },
+      {
+        "type": "context",
+        "text": "For more details and terms and condition, please click here For more details and terms and condition ."
+      },
+      {
+        "type": "removed",
+        "text": "Earn EDGE REWARDS"
+      },
+      {
+        "type": "added",
+        "text": "Earn EDGE REWARDS Points"
+      },
+      {
+        "type": "added",
+        "text": "Earn EDGE REWARDS points for transactions and use them to redeem 500+ rewards and offers"
+      },
+      {
+        "type": "context",
+        "text": "Earn four EDGE REWARD points for every ₹200 spent using your credit card."
+      },
+      {
+        "type": "context",
+        "text": "For redemption options, please refer to the EDGE REWARDS Catalogue available on the official website."
+      },
+      {
+        "type": "removed",
+        "text": "No reward points will be credited for Movie, Fuel, Insurance, Wallet, Rent, Utilities, Jewellery, Education, Government Institutions and EMI transactions."
+      },
+      {
+        "type": "added",
+        "text": "Please Note - EDGE Reward Points will not be earned on spends towards Movie, Fuel, Insurance, Wallet, Rent, Utilities, Education, Government Institutions, EMI transactions, Jewellery, Gift Card, Bridge Fees, Road Fees and Tolls."
+      },
+      {
+        "type": "context",
+        "text": "Fuel up and get a waiver on surcharge"
+      },
+      {
+        "type": "context",
+        "text": "1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank MY Zone Credit Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program."
+      },
+      {
+        "type": "context",
+        "text": "Click here for more details and full terms & conditions."
+      },
+      {
+        "type": "removed",
+        "text": "Beat the mid-week blues with exciting offers every Wednesday."
+      },
+      {
+        "type": "removed",
+        "text": "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+      },
+      {
+        "type": "removed",
+        "text": "10% off on orders via Swiggy"
+      },
+      {
+        "type": "removed",
+        "text": "10% off up to ₹1000 on Tira"
+      },
+      {
+        "type": "context",
+        "text": "Please click here to avail the offers."
+      },
+      {
+        "type": "context",
+        "text": "Rewards on achieving milestone spends"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated reward points, fee details, and MAD penalty structure.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Axis Bank Credit Cards — A Guide to the Lineup & Support Channels (from Axis Bank's official site) - READ DISCLAIMER FIRST",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/",
+        "description": "Disclaimer I&#39;m not affiliated with Axis Bank, and this isn&#39;t official communication from them. I&#39;m not a financial advisor, so treat this as informational only. Importantly: I could not verify exact joining fees, annual fees, or"
+      },
+      "via": "reddit"
+    }
+  },
+  {
     "id": "hsbc-india-hsbc-rupay-platinum-credit-card",
     "cardName": "HSBC RuPay Platinum Credit Card",
     "issuerName": "HSBC India",
@@ -241,46 +867,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Welcome benefit changed from INR1,000 cashback to 2‑month EazyDiner membership."
-    }
-  },
-  {
-    "id": "hsbc-india-premier-credit-card",
-    "cardName": "Premier Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/premier/",
-    "status": "Active",
-    "detectedAt": "2026-10-08T10:38:08.655Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get welcome rewards"
-      },
-      {
-        "type": "context",
-        "text": "Earn 20,000 reward points when you start using your HSBC Premier Credit Card. T&Cs apply ."
-      },
-      {
-        "type": "removed",
-        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "What you get with an HSBC Premier Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Go places with your card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Removed INR1,000 cashback offer for spending INR1,000 within 30 days after account aggregation."
     }
   },
   {
@@ -2983,58 +3569,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added ₹5000 Mastercard birthday voucher benefit for Emeralde Credit Card holders."
-    }
-  },
-  {
-    "id": "hsbc-india-hsbc-taj-credit-card",
-    "cardName": "HSBC Taj Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
-    "status": "Active",
-    "detectedAt": "2026-09-30T09:46:49.278Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get 33X Points at Dyson"
-      },
-      {
-        "type": "context",
-        "text": "Earn 50 Points per INR100 on direct Dyson purchases. T&Cs apply (PDF)"
-      },
-      {
-        "type": "removed",
-        "text": "Save 20% at Amazon"
-      },
-      {
-        "type": "removed",
-        "text": "Get 20% off, up to INR5,000, when you spend INR10,000 or more once every month. T&Cs apply (PDF)"
-      },
-      {
-        "type": "added",
-        "text": "Save 20% at Reliance Brand outlets"
-      },
-      {
-        "type": "added",
-        "text": "Get up to INR10,000 off when you spend INR20,000 or more. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "VISA Infinite Benefits"
-      },
-      {
-        "type": "context",
-        "text": "For all the VISA benefits, please refer to VISA website ."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Reward benefit changed from Amazon 20% off to Reliance Brand outlets up to INR10,000 off."
     }
   },
   {
@@ -10056,46 +10590,6 @@
     }
   },
   {
-    "id": "hsbc-india-live-credit-card",
-    "cardName": "Live+ Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/live-plus/",
-    "status": "Active",
-    "detectedAt": "2026-09-02T07:58:36.137Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Elevate your travel experiences"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy travel discounts and extra airport privileges."
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy 2 domestic and 1 international complimentary airport lounge visits per year[@airport-lounge-live-plus]"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy 2 complimentary domestic and 1 international airport lounge visits each year, plus a complimentary 1GB Global eSIM and 20% off for top-ups.[@airport-lounge-live-plus] Know more (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Save more while you travel internationally with a 1.99% forex mark-up fee[@international-cashback-change]"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy a complimentary 3rd night for every 2 consecutive paid nights, or stay for 2 nights and get 50% off the 2nd night with ITC Hotels.[@visa-infinite-subject-to-change] Know more"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "kotak-mahindra-bank-white-credit-card",
     "cardName": "White Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -15970,50 +16464,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "DCC markup increased to 3.5% and a new INR 1,300 fee for high payment due."
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-my-zone-credit-card",
-    "cardName": "Axis Bank My Zone Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.216Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "GST As per existing Government norms"
-      },
-      {
-        "type": "context",
-        "text": "Rent Transaction fee 1% of transaction amount. GST applicable as notified by Government of India"
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion MarkUp 1.5% Of Transaction Amount Applicable On International Transactions Performed In Indian Currency At International Location Or Transactions Performed In Indian Currency With Merchants Located In India But Registered In Foreign Nation. GST applicable as notified by Government of India"
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion MarkUp 3.5% Of Transaction Amount Applicable On International Transactions Performed In Indian Currency At International Location Or Transactions Performed In Indian Currency With Merchants Located In India But Registered In Foreign Nation. GST applicable as notified by Government of India"
-      },
-      {
-        "type": "context",
-        "text": "Education Transaction Fee 1% on each education payments done through third party apps. GST applicable as notified by Government of India"
-      },
-      {
-        "type": "context",
-        "text": "Wallet Load Transaction Fee 1% on cumulative wallet load transactions of ₹10,000 or more in a statement cycle. GST applicable as notified by Government of India"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Foreign currency conversion markup increased to 3.5%."
     }
   },
   {

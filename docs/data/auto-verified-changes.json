@@ -142,5 +142,17 @@
     "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1w2cfgn/what_debit_cards_are_you_guys_using_for_lounge/",
     "source": "auto-detected",
     "detected_at": "2026-10-05T10:28:26.233Z"
+  },
+  {
+    "card_slug": "axis-bank-my-zone-credit-card",
+    "card_name": "Axis Bank My Zone Credit Card",
+    "issuer": "axis",
+    "change_type": "fee-change",
+    "summary": "Updated reward points, fee details, and MAD penalty structure.",
+    "status": "verified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/",
+    "source": "auto-detected",
+    "detected_at": "2026-10-09T10:32:57.966Z"
   }
 ]

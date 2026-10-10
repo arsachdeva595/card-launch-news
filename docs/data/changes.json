@@ -1,5 +1,373 @@
 [
   {
+    "id": "standard-chartered-india-super-value-titanium-credit-card",
+    "cardName": "Super Value Titanium Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/super-value-titanium/",
+    "status": "Active",
+    "detectedAt": "2026-10-10T09:58:09.324Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Benefits of Super Value Titanium credit card"
+      },
+      {
+        "type": "context",
+        "text": "5% cashback on fuel"
+      },
+      {
+        "type": "removed",
+        "text": "You are eligible for a 5% cashback on fuel spends at all fuel stations up to INR 200 per month (Max cashback INR 100 per transaction). All transactions of INR 2,000 or below are eligible for cashback."
+      },
+      {
+        "type": "added",
+        "text": "You are eligible for a 5% cashback on fuel spends at all fuel stations up to INR 200 per statement cycle (Max cashback INR 100 per transaction). All transactions of INR 2,000 or below are eligible for cashback."
+      },
+      {
+        "type": "context",
+        "text": "5% cashback on phone bills"
+      },
+      {
+        "type": "removed",
+        "text": "Get a cool 5% cash back on your telephone bills, for any transaction amount above just INR 750 (Max cashback INR 100 per transaction). The maximum cashback available per month is INR 200."
+      },
+      {
+        "type": "added",
+        "text": "Get a cool 5% cash back on your telephone bills, for any transaction amount above just INR 750 (Max cashback INR 100 per transaction). The maximum cashback available per statement cycle is INR 200."
+      },
+      {
+        "type": "context",
+        "text": "5% cashback on utility bills"
+      },
+      {
+        "type": "removed",
+        "text": "Receive 5% cashback on paying for your utility bills. The minimum transaction amount is just INR 750 (Max cashback INR 100 per transaction) and you can receive a maximum cashback amount of Rs 100 per month."
+      },
+      {
+        "type": "added",
+        "text": "Receive 5% cashback on paying for your utility bills. The minimum transaction amount is just INR 750 (Max cashback INR 100 per transaction) and you can receive a maximum cashback amount of Rs 100 per statement cycle."
+      },
+      {
+        "type": "context",
+        "text": "Rewards on other spends"
+      },
+      {
+        "type": "context",
+        "text": "For every INR 150 you spend on all other expenses using your credit card, you earn 1 reward point. Redeem reward points to indulge yourself with vouchers, discounts and other incredible offers from our catalogue."
+      },
+      {
+        "type": "context",
+        "text": "For Premium Banking Customers"
+      },
+      {
+        "type": "removed",
+        "text": "Our esteemed Premium Banking Customers can enjoy complimentary Super Value Titanium credit card which also comes with a complimentary* Priority Pass membership."
+      },
+      {
+        "type": "added",
+        "text": "Our esteemed Premium Banking Customers can enjoy complimentary Super Value Titanium credit card which also comes with a complimentary Priority Pass membership."
+      },
+      {
+        "type": "context",
+        "text": "No physical interaction required"
+      },
+      {
+        "type": "context",
+        "text": "Get instant approval on your application and also complete your KYC online through a video. Know more"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards program."
+      },
+      {
+        "type": "context",
+        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
+      },
+      {
+        "type": "removed",
+        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
+      },
+      {
+        "type": "context",
+        "text": "Applicant should have a stable monthly income."
+      },
+      {
+        "type": "context",
+        "text": "Applicants should belong to credit cards sourcing cities/locations of the Bank."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-pixel-go-credit-card",
+    "cardName": "Pixel Go Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-go-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-10T09:53:08.867Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "PIXEL Go Credit Card - Get Customised Credit Card | HDFC Bank"
+      },
+      {
+        "type": "context",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Get your PIXEL Go Credit Card LIFETIME FREE only when you apply online"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy your card Lifetime Free"
+      },
+      {
+        "type": "added",
+        "text": "1% CashBack on eligible transactions"
+      },
+      {
+        "type": "added",
+        "text": "5% Cashback on SmartBuy"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility Criteria"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Lifetime free offer now unconditional and new cashback rates added."
+    }
+  },
+  {
+    "id": "hdfc-bank-pixel-play-credit-card",
+    "cardName": "Pixel Play Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-play-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-10T09:53:08.863Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "PIXEL Play Credit Card - Get Customised Offers | HDFC Bank"
+      },
+      {
+        "type": "context",
+        "text": "Framework For Cross Border Transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Get your PIXEL Play Credit Card LIFETIME FREE  only when you apply"
+      },
+      {
+        "type": "removed",
+        "text": "online"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy your card Lifetime Free"
+      },
+      {
+        "type": "added",
+        "text": "Up to 5% CashBack on select categories"
+      },
+      {
+        "type": "added",
+        "text": "Customisable design and billing cycle"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "Step Into The Exclusive FIFA World Cup™ Experience"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added lifetime free card and up to 5% cashback on select categories."
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-executive-corporate-credit-card",
+    "cardName": "Axis Bank Executive Corporate Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/axis-bank-executive-corporate-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-10T09:50:14.470Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy your travel experience to the fullest by using the 24x7 Concierge Services to help you manage all your bookings."
+      },
+      {
+        "type": "context",
+        "text": "International Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "You and your accompanying guests can enjoy complimentary access to over 1,100 airport lounges worldwide up to 8 times in a calendar year"
+      },
+      {
+        "type": "added",
+        "text": "You and your accompanying guests can enjoy complimentary access to over 1800 airport lounges worldwide up to 8 times in a calendar year"
+      },
+      {
+        "type": "context",
+        "text": "Domestic Lounge Access"
+      },
+      {
+        "type": "context",
+        "text": "For airports within India, you can enjoy complimentary lounge access up to 4 times per quarter."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Visit www.extraordinaryweekends.com or call the concierge at 1800 103 4962 to book your experience."
+      },
+      {
+        "type": "context",
+        "text": "International Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "You and your accompanying guests can enjoy complimentary access to over 1,100 airport lounges worldwide up to 8 times in a calendar year"
+      },
+      {
+        "type": "added",
+        "text": "You and your accompanying guests can enjoy complimentary access to over 1800 airport lounges worldwide up to 8 times in a calendar year"
+      },
+      {
+        "type": "context",
+        "text": "Simply present your Axis Bank Executive Corporate Credit Card, Boarding pass and identify yourself as a LoungeKey member at the lounge."
+      },
+      {
+        "type": "context",
+        "text": "A pre-auth of $35 per person is done to authenticate if the card is live and valid"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Currency conversion rate is applicable as on the date of settlement and shall reflect in your next statement"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility for complimentary visits is applicable upon payment of annual fees."
+      },
+      {
+        "type": "removed",
+        "text": "Click Here for the complete list of participating lounges"
+      },
+      {
+        "type": "added",
+        "text": "Click Here for the complete list of participating lounges - Mastercard Users"
+      },
+      {
+        "type": "added",
+        "text": "Click here for complete list of participating lounges - Visa Users"
+      },
+      {
+        "type": "context",
+        "text": "Convert purchases to EMI"
+      },
+      {
+        "type": "context",
+        "text": "For airports within India, you can enjoy complimentary lounge access up to 4 times per quarter."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Increased complimentary lounge access from 1,100 to 1,800 worldwide."
+    }
+  },
+  {
+    "id": "amex-caral-vip-lounge-at-comandante-fap-germ-n-arias-graziani-airport",
+    "cardName": "Caral VIP Lounge at Comandante FAP Germán Arias Graziani Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/ATA/Caral-VIP-Lounge-Hauptterminal-sy5fiRfJGv/",
+    "status": "Active",
+    "detectedAt": "2026-10-10T09:49:28.399Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Caral VIP Lounge at Comandante FAP Germán Arias Graziani Airport | Amex IN"
+      },
+      {
+        "type": "added",
+        "text": "Elemento Lounge at Comandante FAP Germán Arias Graziani Airport | Amex IN"
+      },
+      {
+        "type": "context",
+        "text": "Lounges at ATA"
+      },
+      {
+        "type": "removed",
+        "text": "Caral VIP Lounge"
+      },
+      {
+        "type": "added",
+        "text": "Elemento Lounge"
+      },
+      {
+        "type": "context",
+        "text": "ATA • Domestic Terminal"
+      },
+      {
+        "type": "context",
+        "text": "Domestic Terminal"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated lounge name to Elemento Lounge at the same airport"
+    }
+  },
+  {
     "id": "hsbc-india-hsbc-taj-credit-card",
     "cardName": "HSBC Taj Credit Card",
     "issuerName": "HSBC India",
@@ -10084,200 +10452,6 @@
     }
   },
   {
-    "id": "hdfc-bank-pixel-go-credit-card",
-    "cardName": "Pixel Go Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-go-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-07T08:23:02.066Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "PIXEL Go Credit Card - Get Customised Credit Card | HDFC Bank"
-      },
-      {
-        "type": "removed",
-        "text": "Digital-first card with rewards & easy EMIs"
-      },
-      {
-        "type": "removed",
-        "text": "Earn cashback, dine smart & pay flexibly"
-      },
-      {
-        "type": "removed",
-        "text": "Seamless payments with full digital control"
-      },
-      {
-        "type": "added",
-        "text": "Get your PIXEL Go Credit Card LIFETIME FREE only when you apply online"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "context",
-        "text": "Eligibility Criteria"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "If your query isn’t listed, select \"My query is not listed\" to raise a ticket."
-      },
-      {
-        "type": "context",
-        "text": "Joining/Renewal Membership Fee: ₹250/- + Applicable Taxes"
-      },
-      {
-        "type": "removed",
-        "text": "Spend ₹90,000 in the first 90 days and get Joining fee waiver"
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹10,000 in the first 90 days and get Joining fee waiver"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹50,000 or more in a year, before your Credit Card renewal date and get your renewal fee waived off."
-      },
-      {
-        "type": "removed",
-        "text": "Click here to view details of HDFC Bank PIXEL Go Credit Card Fees and Charges."
-      },
-      {
-        "type": "added",
-        "text": "Click here to view details of HDFC Bank PIXEL Go Credit Card Fees and Charges."
-      },
-      {
-        "type": "context",
-        "text": "*The Most Important Terms and Conditions  for each of our banking offerings features all the specific terms and conditions that govern their use. You must go through it thoroughly to fully understand the terms and conditions applicable to any banking product you choose."
-      },
-      {
-        "type": "context",
-        "text": "Click here for the card member agreement"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-pixel-play-credit-card",
-    "cardName": "Pixel Play Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-play-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-07T08:23:02.063Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "PIXEL Play Credit Card - Get Customised Offers | HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Get your PIXEL Play Credit Card LIFETIME FREE  only when you apply"
-      },
-      {
-        "type": "added",
-        "text": "online"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "context",
-        "text": "Step Into The Exclusive FIFA World Cup™ Experience"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Scan and Pay"
-      },
-      {
-        "type": "context",
-        "text": "Through the PIXEL RuPay Credit Card, customers will be able to make payment to a merchant by scanning the QR code for unified Payment Interface (UPI) Payments."
-      },
-      {
-        "type": "removed",
-        "text": "The HDFC Bank PIXEL Play Credit Card is lifetime free with no joining or renewal fees"
-      },
-      {
-        "type": "added",
-        "text": "Joining/Renewal Membership Fee: ₹500/- + Applicable Taxes"
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹20,000 in the first 90 days and get Joining fee waiver"
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹1,00,000 or more in a year, before your Credit Card renewal date and get your renewal fee waived off."
-      },
-      {
-        "type": "added",
-        "text": "Click here to view details of HDFC Bank PIXEL Play Credit Card Fees and Charges."
-      },
-      {
-        "type": "context",
-        "text": "*The Most Important Terms and Conditions  for each of our banking offerings features all the specific terms and conditions that govern their use. You must go through it thoroughly to fully understand the terms and conditions applicable to any banking product you choose."
-      },
-      {
-        "type": "context",
-        "text": "Click here for product specific T&C"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Subscribe"
-      },
-      {
-        "type": "context",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  commodo consequat. Lorem ipsum dolor? Click here"
-      },
-      {
-        "type": "removed",
-        "text": "Get Your Lifetime Free PIXEL Play Credit Card Now!"
-      },
-      {
-        "type": "added",
-        "text": "Get Your PIXEL Play Credit Card Now!"
-      },
-      {
-        "type": "context",
-        "text": "Check Eligibility"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Joining/renewal fee changed to ₹500/- plus taxes, with spend thresholds for waiver",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "How can I realistically get HDFC DCB Metal? Looking for genuine advice",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vt7gze/how_can_i_realistically_get_hdfc_dcb_metal/",
-        "description": "I’m really keen on getting HDFC DCB Metal and would love to hear from people who recently got it through an upgrade or RM. My profile: HDFC Preferred customer Salary account with HDFC ~₹2.29L monthly net salary Good relationship with HDFC I"
-      },
-      "via": "reddit"
-    }
-  },
-  {
     "id": "hdfc-bank-titanium-times-card-alt-url",
     "cardName": "Titanium Times Card (alt URL)",
     "issuerName": "HDFC Bank",
@@ -11364,402 +11538,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Processing fee introduced for EMI conversion."
-    }
-  },
-  {
-    "id": "standard-chartered-india-super-value-titanium-credit-card",
-    "cardName": "Super Value Titanium Credit Card",
-    "issuerName": "Standard Chartered India",
-    "issuerSlug": "standard-chartered-india",
-    "officialUrl": "https://www.sc.com/in/",
-    "productPageUrl": "https://www.sc.com/in/credit-cards/super-value-titanium/",
-    "status": "Active",
-    "detectedAt": "2026-08-30T09:23:28.903Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Super Value Titanium &#8211; Best Fuel Credit Card &#8211; Standard Chartered India"
-      },
-      {
-        "type": "added",
-        "text": "Super Value Titanium – Best Fuel Credit Card – Standard Chartered India"
-      },
-      {
-        "type": "context",
-        "text": "Welcome to a world of benefits"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 5%* cashback on fuel, telephone and utility bills and 1 reward point per ₹150 on all other spends"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Show More"
-      },
-      {
-        "type": "context",
-        "text": "Show Less"
-      },
-      {
-        "type": "removed",
-        "text": "Features of Super Value Titanium Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Avail a lifetime free supplementary credit card for your loved ones and extend the benefits of your own credit card to the supplementary credit holder."
-      },
-      {
-        "type": "removed",
-        "text": "Simple, secure payments and freedom from cash while transacting. Stay safe with your contactless credit card."
-      },
-      {
-        "type": "removed",
-        "text": "Standard Chartered allows you a wide range of instant payment solutions as UPI payment solutions, BharatQR, Bharat bill payment solution, IMPS and Samsung Pay."
-      },
-      {
-        "type": "added",
-        "text": "Other Credit Card Features"
-      },
-      {
-        "type": "context",
-        "text": "Now no long queues at the bank; with online banking and the SC Mobile app, check your card balance and make instant card payments, no matter where you are!"
-      },
-      {
-        "type": "removed",
-        "text": "Convert all your big spends above INR 2,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy our attractive pricing and flexible tenure options."
-      },
-      {
-        "type": "removed",
-        "text": "Redeem your reward points with the Standard Chartered 360° rewards program. Treat yourself to the vouchers, discounts and fabulous offers."
-      },
-      {
-        "type": "removed",
-        "text": "Instantly avail of loans on your Standard Chartered credit card for up to INR 5,00,000 ranging from 12 to 60 months starting at interest rate of 0.99% p.m."
-      },
-      {
-        "type": "removed",
-        "text": "Now ,you can transfer your other bank credit card balance of up to INR 5,00,000, at an attractive interest rate of just 0.99% per month for the first 6 months!"
-      },
-      {
-        "type": "removed",
-        "text": "Convert your entire outstanding credit card balance of up to INR 5,00,000, into convenient EMIs with zero processing fees charged by Standard Chartered bank"
-      },
-      {
-        "type": "removed",
-        "text": "Eligibility & Documents"
-      },
-      {
-        "type": "removed",
-        "text": "Applicant’s age should be between 21 and 65 years."
-      },
-      {
-        "type": "removed",
-        "text": "Minimum monthly income of INR 55,000 is required."
-      },
-      {
-        "type": "removed",
-        "text": "Fees & Charges"
-      },
-      {
-        "type": "removed",
-        "text": "● First year annual fee &#8211; INR 750"
-      },
-      {
-        "type": "removed",
-        "text": "● Renewal fee from second year &#8211; INR 750"
-      },
-      {
-        "type": "removed",
-        "text": "The renewal fee will be reversed for clients with spends greater than or equal to INR 90,000 in the preceding year."
-      },
-      {
-        "type": "removed",
-        "text": "Sr.No"
-      },
-      {
-        "type": "removed",
-        "text": "ANNUAL BENEFITS BY USING SUPER VALUE TITANIUM CARD"
-      },
-      {
-        "type": "removed",
-        "text": "ANNUAL TOTAL BENEFIT"
-      },
-      {
-        "type": "removed",
-        "text": "1"
-      },
-      {
-        "type": "removed",
-        "text": "Cashback on Fuel , Utility & Telecom Bill Payment* (Avg INR 1,20,000 per Year &ndash; 5 % Cashback)"
-      },
-      {
-        "type": "removed",
-        "text": "INR 6,000"
-      },
-      {
-        "type": "removed",
-        "text": "2"
-      },
-      {
-        "type": "removed",
-        "text": "Rewards Points on Other Annual Spend (Avg INR 1,80,000 per Year &ndash; 1 Reward Point per INR 150)"
-      },
-      {
-        "type": "removed",
-        "text": "INR 300"
-      },
-      {
-        "type": "removed",
-        "text": "3"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee Reversal on meeting INR 90,000 spends"
-      },
-      {
-        "type": "removed",
-        "text": "INR 750"
-      },
-      {
-        "type": "removed",
-        "text": "Total"
-      },
-      {
-        "type": "removed",
-        "text": "INR 7050"
-      },
-      {
-        "type": "added",
-        "text": "Convert all your big spends above INR 2,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options"
-      },
-      {
-        "type": "added",
-        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards program."
-      },
-      {
-        "type": "added",
-        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
-      },
-      {
-        "type": "added",
-        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
-      },
-      {
-        "type": "added",
-        "text": "Applicant should have a stable monthly income."
-      },
-      {
-        "type": "added",
-        "text": "Applicants should belong to credit cards sourcing cities/locations of the Bank."
-      },
-      {
-        "type": "added",
-        "text": "The charges due for each Standard Chartered credit card differs from one another. When looking to apply for a credit card, it is advisable to factor in this information as well. Not only is the Super Value Titanium card the best credit card for fuel purchases, it is also one of the best priced cards available as shown below:"
-      },
-      {
-        "type": "added",
-        "text": "● First year annual fee – INR 750"
-      },
-      {
-        "type": "added",
-        "text": "● Renewal fee from second year – INR 750"
-      },
-      {
-        "type": "added",
-        "text": "Value chart"
-      },
-      {
-        "type": "added",
-        "text": "Category of Spends Monthly Spend Cashback Earned (Per Month) Annual Cashback (Per Annum)"
-      },
-      {
-        "type": "added",
-        "text": "Online Spends INR 50,000 INR 1,000 INR 12,000"
-      },
-      {
-        "type": "added",
-        "text": "Offline Spends INR 50,000 INR 500 INR 6,000"
-      },
-      {
-        "type": "added",
-        "text": "Total INR 1,00,000 INR 1,500 INR 18,000"
-      },
-      {
-        "type": "added",
-        "text": "Super Value Titanium Terms and Conditions"
-      },
-      {
-        "type": "added",
-        "text": "Super Value Titanium Terms and Conditions for Premium Banking Clients"
-      },
-      {
-        "type": "context",
-        "text": "Super Value Titanium Credit Card FAQs"
-      },
-      {
-        "type": "context",
-        "text": "Can I pay for fuel using my credit card?"
-      },
-      {
-        "type": "removed",
-        "text": "There&#8217;s a reason why Standard Chartered’s Super Value Titanium is the best credit card for fuel expenditure; after all, you can pay for fuel at petrol pumps across India and earn 5 % cashback up to INR 200 per month!"
-      },
-      {
-        "type": "added",
-        "text": "There’s a reason why Standard Chartered’s Super Value Titanium is the best credit card for fuel expenditure; after all, you can pay for fuel at petrol pumps across India and earn 5 % cashback up to INR 200 per month!"
-      },
-      {
-        "type": "context",
-        "text": "What is a fuel credit card and is a Super Value Titanium card a fuel credit card?"
-      },
-      {
-        "type": "context",
-        "text": "A fuel credit card is specially designed to offer you benefits when used for purchasing fuel. The Super Value Titanium card is ideal for those who require to spend a lot per month on fuel purchases. It also offers benefits on other expenditure, in the form of cashbacks and reward points."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "● 5% cashback on fuel"
-      },
-      {
-        "type": "context",
-        "text": "● Reward point for every INR 150 spent using your credit card"
-      },
-      {
-        "type": "removed",
-        "text": "● Complimentary Priority Pass providing access to 1000+ airport lounges across the globe for Premium Banking Customers"
-      },
-      {
-        "type": "added",
-        "text": "● Complimentary Priority Pass providing access to 1000&#43; airport lounges across the globe for Premium Banking Customers"
-      },
-      {
-        "type": "context",
-        "text": "How to apply for the cashback credit card online?"
-      },
-      {
-        "type": "context",
-        "text": "You can apply online for the cashback credit card and get an instant in-principle decision regarding its approval. Once you have submitted your application online, our bank representative will get in touch with you to complete the documentation requirements. From there on out, your card will be subject to final policy and verification checks of the bank and you should be able to receive it within 7-15 days from the time you submit your documents and the signed application form. Although it may take longer in some cases."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Super Value Titanium credit cardholders are requested to use the bill pay platforms of Standard Chartered Bank to get cashback on utility and telephone bills."
-      },
-      {
-        "type": "context",
-        "text": "What is a Virtual Super Value Titanium credit card and how to get one?"
-      },
-      {
-        "type": "removed",
-        "text": "A virtual Super Value Titanium credit card is the online replication of the physical card with a unique card number, CVV and expiry date. It can be used instantly from anywhere across the globe without the need of the physical card &#8211; you can simply store the virtual card details on your smartphone."
-      },
-      {
-        "type": "removed",
-        "text": "On issuing a Super Value Titanium credit card, you can easily apply for its virtual card too with a few, uncomplicated select-and-apply steps. On completing the process, you can access your virtual credit card for online shopping immediately with zero waiting time. To know more about the application process, click here ."
-      },
-      {
-        "type": "added",
-        "text": "A virtual Super Value Titanium credit card is the online replication of the physical card with a unique card number, CVV and expiry date. It can be used instantly from anywhere across the globe without the need of the physical card – you can simply store the virtual card details on your smartphone."
-      },
-      {
-        "type": "added",
-        "text": "On issuing a Super Value Titanium credit card, you can easily apply for its virtual card too with a few, uncomplicated select-and-apply steps. On completing the process, you can access your virtual credit card for online shopping immediately with zero waiting time. To know more about the application process, click here."
-      },
-      {
-        "type": "context",
-        "text": "What is VKYC?"
-      },
-      {
-        "type": "context",
-        "text": "VKYC, or simply Video KYC, is a feature that allows you to complete your KYC through a video from the comfort of your home while applying online for a Standard Chartered credit card, personal loan, or savings account. With this feature, our application process becomes even more simpler and completely contactless. Click here to learn more"
-      },
-      {
-        "type": "added",
-        "text": "The processing fee will be levied by 15th of the next calendar month and will have a separate narration in the monthly statement."
-      },
-      {
-        "type": "context",
-        "text": "I am a Premium Banking client holding a Premium Super Value Titanium Credit Card. What lounge access features are offered on my Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Your Premium Super Value Titanium Credit Card makes you eligible for 1 complimentary* international lounge access (outside India) per month using Priority Pass FUM qualification of INR 15 lakhs at an individual account level or having monthly salary credit of INR 1.5 lakhs or above basis Premium Banking programme qualification criteria. There is no domestic lounge access on your credit card."
-      },
-      {
-        "type": "removed",
-        "text": "*Terms And Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card- Terms and conditions"
-      },
-      {
-        "type": "removed",
-        "text": "Super Value Titanium Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "Super Value Titanium Terms and Conditions for Premium Banking Clients"
-      },
-      {
-        "type": "removed",
-        "text": "For Super Value Titanium Most Important Document, click here"
-      },
-      {
-        "type": "removed",
-        "text": "For Premium Super Value Titanium Most Important Document, click here"
-      },
-      {
-        "type": "removed",
-        "text": "Tariffs and Charges"
-      },
-      {
-        "type": "added",
-        "text": "Useful links"
-      },
-      {
-        "type": "context",
-        "text": "FAQ"
-      },
-      {
-        "type": "context",
-        "text": "Documentation required"
-      },
-      {
-        "type": "context",
-        "text": "IVR / OTP generation"
-      },
-      {
-        "type": "added",
-        "text": "FAQ"
-      },
-      {
-        "type": "added",
-        "text": "Documentation required"
-      },
-      {
-        "type": "added",
-        "text": "IVR / OTP generation"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Eligibility criteria and fee structure updated, adding stable income requirement and new processing fee."
     }
   },
   {

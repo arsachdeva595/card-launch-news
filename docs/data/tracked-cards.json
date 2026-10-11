@@ -5174,5 +5174,13 @@
     "url": "https://www.indusind.bank.in/in/en/microsites/platinum-aura-edge-goverment-credit-card.html",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "1838 Reserve ICICI Bank Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/1838-reserve-icici-credit-card",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

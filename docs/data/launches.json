@@ -1,5 +1,25 @@
 [
   {
+    "id": "icici-bank-1838-reserve-icici-bank-credit-card",
+    "cardName": "1838 Reserve ICICI Bank Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/1838-reserve-icici-credit-card",
+    "discoveredAt": "2026-10-11T09:58:54.608Z",
+    "lastmod": "2026-10-10",
+    "announcement": {
+      "title": "1838 Reserve ICICI Bank Credit Card",
+      "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/1838-reserve-icici-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "indusind-bank-instant-pin-generation",
     "cardName": "Instant PIN Generation",
     "issuerName": "IndusInd Bank",

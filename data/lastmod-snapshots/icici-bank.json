@@ -21,7 +21,7 @@
     "https://www.icici.bank.in/personal-banking/iplay/international-usage-credit-card": "2026-09-04",
     "https://www.icici.bank.in/personal-banking/iplay/how-to-convert-credit-card-transactions": "2025-11-03",
     "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment": "2026-07-09",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card": "2026-10-08",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card": "2026-10-12",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-products": "2026-09-21",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-products/balance-transfer": "2026-04-01",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-products/instant-emi": "2026-04-08",
@@ -79,7 +79,7 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/service-requests": "2026-05-08",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-builder-programme": "2026-09-21",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-builder-programme/credit-dictionary": "2026-04-08",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/membership-kits": "2026-10-08",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/membership-kits": "2026-10-12",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/documents": "2026-09-28",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/statement-request-physical": "2026-02-05",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/link-credit-card-to-account": "2026-04-20",
@@ -227,7 +227,7 @@
     "https://www.icici.bank.in/business-banking/cards/business-debit-card/expressions-coral-debit-card": "2026-07-20",
     "https://www.icici.bank.in/business-banking/cards/business-debit-card/peregrine-debit-card": "2026-06-23",
     "https://www.icici.bank.in/business-banking/cards/business-debit-card/world-debit-card": "2026-06-23",
-    "https://www.icici.bank.in/business-banking/cards/business-credit-card": "2026-09-28",
+    "https://www.icici.bank.in/business-banking/cards/business-credit-card": "2026-10-12",
     "https://www.icici.bank.in/business-banking/cards/business-credit-card/insta-business-card": "2026-01-30",
     "https://www.icici.bank.in/business-banking/cards/business-credit-card/business-advantage-black-card": "2026-10-01",
     "https://www.icici.bank.in/business-banking/cards/business-credit-card/business-advantage-blue-card": "2026-10-01",
@@ -1125,5 +1125,5 @@
     "https://www.icici.bank.in/personal-banking/card/credit-card/ferrari-signature": "2023-08-23",
     "https://www.icici.bank.in/personal-banking/card/credit-card/benefits-and-features": "2025-03-19"
   },
-  "updatedAt": "2026-10-12T10:58:30.620Z"
+  "updatedAt": "2026-10-13T10:48:16.737Z"
 }

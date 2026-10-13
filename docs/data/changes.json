@@ -1,5 +1,261 @@
 [
   {
+    "id": "icici-bank-1838-reserve-icici-bank-credit-card",
+    "cardName": "1838 Reserve ICICI Bank Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/1838-reserve-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-13T10:40:35.686Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "1838 Reserve ICICI Bank Credit Card | Benefits & Charges"
+      },
+      {
+        "type": "context",
+        "text": "Personal Banking"
+      },
+      {
+        "type": "removed",
+        "text": "1838 Reserve ICICI Bank Credit Card | Benefits & Charges"
+      },
+      {
+        "type": "added",
+        "text": "1838 Reserve ICICI Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "1838 Reserve"
+      },
+      {
+        "type": "context",
+        "text": "A Collector’s Item by a Living Legend!"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Two Entries"
+      },
+      {
+        "type": "context",
+        "text": "Two entries to fast-track security lanes at select international airports for the primary Cardholder and one guest."
+      },
+      {
+        "type": "removed",
+        "text": "Zero Forex"
+      },
+      {
+        "type": "removed",
+        "text": "Markup"
+      },
+      {
+        "type": "removed",
+        "text": "Zero Forex"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy zero forex markup on all international spends"
+      },
+      {
+        "type": "added",
+        "text": "International Airport"
+      },
+      {
+        "type": "added",
+        "text": "Transfers"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Travel in comfort with a private chauffeur-driven airport transfer at select locations, once every quarter"
+      },
+      {
+        "type": "context",
+        "text": "Harrods- Gold"
+      },
+      {
+        "type": "context",
+        "text": "Tier Status"
+      },
+      {
+        "type": "context",
+        "text": "Worth ₹1,00,000"
+      },
+      {
+        "type": "context",
+        "text": "Get Complimentary Gold Tier at a Harrods world famous luxury store"
+      },
+      {
+        "type": "added",
+        "text": "Business Class"
+      },
+      {
+        "type": "added",
+        "text": "Tickets"
+      },
+      {
+        "type": "added",
+        "text": "Up to ₹50,000 off"
+      },
+      {
+        "type": "added",
+        "text": "Book one Business Class ticket and enjoy 50% off on your companion’s ticket, once every quarter"
+      },
+      {
+        "type": "context",
+        "text": "Accor&#43; Explorer"
+      },
+      {
+        "type": "context",
+        "text": "Membership"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "applicable"
+      },
+      {
+        "type": "context",
+        "text": "Most Important Terms &"
+      },
+      {
+        "type": "removed",
+        "text": "Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Conditions:"
+      },
+      {
+        "type": "context",
+        "text": "Please refer to the Most Important Terms & Conditions (MITC) for other charges"
+      },
+      {
+        "type": "context",
+        "text": "Click here for applicable Terms &"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "View All FAQ’s"
+      },
+      {
+        "type": "context",
+        "text": "Intrested to learn more?"
+      },
+      {
+        "type": "added",
+        "text": "ICICI Life Insurance"
+      },
+      {
+        "type": "added",
+        "text": "ICICI AMC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added quarterly airport transfer and business class ticket discount benefits"
+    }
+  },
+  {
+    "id": "amex-the-lounge-adani-lounge-at-sardar-vallabhbhai-patel-international-airport",
+    "cardName": "The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/AMD/The-Lounge-International-Terminal-h7vyvYpfyL/",
+    "status": "Active",
+    "detectedAt": "2026-10-13T10:34:15.310Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Global Lounge Collection | Amex IN"
+      },
+      {
+        "type": "removed",
+        "text": "Sorry, our systems are not responding. Please try your request again. If you see this message repeatedly please call the number on the back of your Card for assistance."
+      },
+      {
+        "type": "added",
+        "text": "The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport | Amex IN"
+      },
+      {
+        "type": "added",
+        "text": "Lounges at AMD"
+      },
+      {
+        "type": "added",
+        "text": "The Lounge (Adani Lounge)"
+      },
+      {
+        "type": "added",
+        "text": "AMD • International Terminal 2"
+      },
+      {
+        "type": "added",
+        "text": "International Terminal 2"
+      },
+      {
+        "type": "added",
+        "text": "After Security Hold area, 1st Floor, opposite Gate 3."
+      },
+      {
+        "type": "added",
+        "text": "Flight Monitors"
+      },
+      {
+        "type": "added",
+        "text": "Access is limited to a maximum stay of 3 hours."
+      },
+      {
+        "type": "added",
+        "text": "This location is only accessible for passengers departing on international flights."
+      },
+      {
+        "type": "added",
+        "text": "Children under 3 years old are admitted free with an adult."
+      },
+      {
+        "type": "added",
+        "text": "Other Lounges In International Terminal 2"
+      },
+      {
+        "type": "added",
+        "text": "This is the only available lounge in International Terminal 2"
+      },
+      {
+        "type": "added",
+        "text": "View All Lounges at AMD"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added detailed lounge access information for The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport."
+    }
+  },
+  {
     "id": "icici-bank-icici-bank-emeralde-credit-card",
     "cardName": "ICICI Bank Emeralde Credit Card",
     "issuerName": "ICICI Bank",

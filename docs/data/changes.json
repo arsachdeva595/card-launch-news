@@ -1,5 +1,49 @@
 [
   {
+    "id": "hdfc-bank-regalia-first-credit-card",
+    "cardName": "Regalia First Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/regalia-first-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-10-14T08:48:14.329Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "SmartBuy"
+      },
+      {
+        "type": "context",
+        "text": "Airmiles conversion"
+      },
+      {
+        "type": "removed",
+        "text": "0.3 Airmiles"
+      },
+      {
+        "type": "added",
+        "text": "Up to 0.3 Airmiles"
+      },
+      {
+        "type": "context",
+        "text": "Products and"
+      },
+      {
+        "type": "context",
+        "text": "vouchers"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a reward rate of up to 0.3 Airmiles per spend"
+    }
+  },
+  {
     "id": "icici-bank-1838-reserve-icici-bank-credit-card",
     "cardName": "1838 Reserve ICICI Bank Credit Card",
     "issuerName": "ICICI Bank",

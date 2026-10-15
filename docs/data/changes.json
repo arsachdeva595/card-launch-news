@@ -1,49 +1,5 @@
 [
   {
-    "id": "hdfc-bank-regalia-first-credit-card",
-    "cardName": "Regalia First Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/regalia-first-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-10-14T08:48:14.329Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "SmartBuy"
-      },
-      {
-        "type": "context",
-        "text": "Airmiles conversion"
-      },
-      {
-        "type": "removed",
-        "text": "0.3 Airmiles"
-      },
-      {
-        "type": "added",
-        "text": "Up to 0.3 Airmiles"
-      },
-      {
-        "type": "context",
-        "text": "Products and"
-      },
-      {
-        "type": "context",
-        "text": "vouchers"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a reward rate of up to 0.3 Airmiles per spend"
-    }
-  },
-  {
     "id": "icici-bank-1838-reserve-icici-bank-credit-card",
     "cardName": "1838 Reserve ICICI Bank Credit Card",
     "issuerName": "ICICI Bank",
@@ -51,31 +7,31 @@
     "officialUrl": "https://www.icici.bank.in/",
     "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/1838-reserve-icici-credit-card",
     "status": "Active",
-    "detectedAt": "2026-10-13T10:40:35.686Z",
+    "detectedAt": "2026-10-15T08:22:40.889Z",
     "diffHunks": [
       {
         "type": "context",
-        "text": "1838 Reserve ICICI Bank Credit Card | Benefits & Charges"
+        "text": "Complimentary Welcome Gift"
       },
       {
         "type": "context",
-        "text": "Personal Banking"
+        "text": "Worth ₹25,000"
       },
       {
         "type": "removed",
-        "text": "1838 Reserve ICICI Bank Credit Card | Benefits & Charges"
+        "text": "Indulge in a world of luxury with an exclusive selection from Marshall, Smeg or Le Creuset on Tata CliQ Luxury"
       },
       {
         "type": "added",
-        "text": "1838 Reserve ICICI Bank Credit Card"
+        "text": "Indulge in a world of luxury with an exclusive selection from Marshall, Smeg or Le Creuset on Tata CliQ Luxury or gift from Good Earth"
       },
       {
         "type": "context",
-        "text": "1838 Reserve"
+        "text": "Museum"
       },
       {
         "type": "context",
-        "text": "A Collector’s Item by a Living Legend!"
+        "text": "Experience"
       },
       {
         "type": "ellipsis",
@@ -83,131 +39,27 @@
       },
       {
         "type": "context",
-        "text": "Two Entries"
+        "text": "Exclusive Visa"
       },
       {
         "type": "context",
-        "text": "Two entries to fast-track security lanes at select international airports for the primary Cardholder and one guest."
+        "text": "Unlimited Access"
       },
       {
         "type": "removed",
-        "text": "Zero Forex"
-      },
-      {
-        "type": "removed",
-        "text": "Markup"
-      },
-      {
-        "type": "removed",
-        "text": "Zero Forex"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy zero forex markup on all international spends"
+        "text": "From application to delivery, your visa is handled personally and brought to your door. Applicable for primary cardholders"
       },
       {
         "type": "added",
-        "text": "International Airport"
-      },
-      {
-        "type": "added",
-        "text": "Transfers"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Travel in comfort with a private chauffeur-driven airport transfer at select locations, once every quarter"
+        "text": "From application to delivery, your visa is handled personally and brought to your door. Applicable for primary cardholders, spouse and up to 2 children"
       },
       {
         "type": "context",
-        "text": "Harrods- Gold"
+        "text": "Fast Track"
       },
       {
         "type": "context",
-        "text": "Tier Status"
-      },
-      {
-        "type": "context",
-        "text": "Worth ₹1,00,000"
-      },
-      {
-        "type": "context",
-        "text": "Get Complimentary Gold Tier at a Harrods world famous luxury store"
-      },
-      {
-        "type": "added",
-        "text": "Business Class"
-      },
-      {
-        "type": "added",
-        "text": "Tickets"
-      },
-      {
-        "type": "added",
-        "text": "Up to ₹50,000 off"
-      },
-      {
-        "type": "added",
-        "text": "Book one Business Class ticket and enjoy 50% off on your companion’s ticket, once every quarter"
-      },
-      {
-        "type": "context",
-        "text": "Accor&#43; Explorer"
-      },
-      {
-        "type": "context",
-        "text": "Membership"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "applicable"
-      },
-      {
-        "type": "context",
-        "text": "Most Important Terms &"
-      },
-      {
-        "type": "removed",
-        "text": "Conditions"
-      },
-      {
-        "type": "added",
-        "text": "Conditions:"
-      },
-      {
-        "type": "context",
-        "text": "Please refer to the Most Important Terms & Conditions (MITC) for other charges"
-      },
-      {
-        "type": "context",
-        "text": "Click here for applicable Terms &"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "View All FAQ’s"
-      },
-      {
-        "type": "context",
-        "text": "Intrested to learn more?"
-      },
-      {
-        "type": "added",
-        "text": "ICICI Life Insurance"
-      },
-      {
-        "type": "added",
-        "text": "ICICI AMC"
+        "text": "Security"
       }
     ],
     "community": {
@@ -216,7 +68,107 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added quarterly airport transfer and business class ticket discount benefits"
+      "candidateSummary": "Added spouse and up to 2 children to visa delivery benefit."
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-rewards-credit-card",
+    "cardName": "Axis Bank REWARDS Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-15T08:18:00.634Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Reward points will be credited directly to the customer's EDGE account ."
+      },
+      {
+        "type": "context",
+        "text": "For terms and conditions click here ."
+      },
+      {
+        "type": "added",
+        "text": "Welcome benefit"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 5,000 EDGE REWARDPoints on cumulative net spends of ₹1,000 or above within 30 days of card issuance."
+      },
+      {
+        "type": "added",
+        "text": "For terms and conditions click here"
+      },
+      {
+        "type": "added",
+        "text": "Not applicable on Lifetime free and migrated card."
+      },
+      {
+        "type": "context",
+        "text": "Membership benefits"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy a bouquet of memberships up to ₹1,000 every anniversary year."
+      },
+      {
+        "type": "context",
+        "text": "Eligible customers will get the membership link via SMS on registered mobile number within 60 days of becoming eligible."
+      },
+      {
+        "type": "context",
+        "text": "For terms and conditions click here"
+      },
+      {
+        "type": "added",
+        "text": "Not applicable on Lifetime free and migrated card"
+      },
+      {
+        "type": "context",
+        "text": "Milestone Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1,500 EDGE REWARD points on net spends of ₹30,000 per statement cycle."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "**Based on assumption that customer orders from Swiggy twice a month of minimum order value of ₹200"
+      },
+      {
+        "type": "context",
+        "text": "***Based on assumption that milestone benefit of ₹30,000 per month is achieved 3 times a year"
+      },
+      {
+        "type": "removed",
+        "text": "**** Based on assumption that customer transacts ₹1,000 within 30 days of card issuance"
+      },
+      {
+        "type": "added",
+        "text": "**** Based on assumption that customer transacts ₹1,000 within 30 days of card issuance. Not applicable on Lifetime free and migrated card"
+      },
+      {
+        "type": "context",
+        "text": "^^Valid on transactions between ₹400 and ₹5,000 only. GST charged on fuel surcharge is non-refundable."
+      },
+      {
+        "type": "context",
+        "text": "^The Redemption Value of Each EDGE REWARD Point = ₹0.20"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a welcome benefit of 5,000 EDGE REWARDPoints for ₹1,000 cumulative spend within 30 days of issuance."
     }
   },
   {
@@ -227,7 +179,7 @@
     "officialUrl": "https://www.americanexpress.com/en-in/",
     "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/AMD/The-Lounge-International-Terminal-h7vyvYpfyL/",
     "status": "Active",
-    "detectedAt": "2026-10-13T10:34:15.310Z",
+    "detectedAt": "2026-10-15T08:17:20.951Z",
     "diffHunks": [
       {
         "type": "removed",
@@ -296,7 +248,51 @@
     },
     "summaryVerification": {
       "status": "unverified",
-      "candidateSummary": "Added detailed lounge access information for The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport."
+      "candidateSummary": "Added lounge access details for The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport."
+    }
+  },
+  {
+    "id": "hdfc-bank-regalia-first-credit-card",
+    "cardName": "Regalia First Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/regalia-first-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-10-14T08:48:14.329Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "SmartBuy"
+      },
+      {
+        "type": "context",
+        "text": "Airmiles conversion"
+      },
+      {
+        "type": "removed",
+        "text": "0.3 Airmiles"
+      },
+      {
+        "type": "added",
+        "text": "Up to 0.3 Airmiles"
+      },
+      {
+        "type": "context",
+        "text": "Products and"
+      },
+      {
+        "type": "context",
+        "text": "vouchers"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a reward rate of up to 0.3 Airmiles per spend"
     }
   },
   {
@@ -6025,90 +6021,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-rewards-credit-card",
-    "cardName": "Axis Bank REWARDS Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:28:16.828Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Click here to avail the offers"
-      },
-      {
-        "type": "context",
-        "text": "Fees Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee ₹1000"
-      },
-      {
-        "type": "removed",
-        "text": "Standard annual Fee (2nd year Onwards) ₹1000"
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee ₹NIL (Limited period offer on Amex Network)"
-      },
-      {
-        "type": "added",
-        "text": "Standard annual Fee (2nd year Onwards) ₹NIL (Limited period offer on Amex Network)"
-      },
-      {
-        "type": "context",
-        "text": "Add-on card joining fee Nil"
-      },
-      {
-        "type": "context",
-        "text": "Add-on card annual fee Nil"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "How much time it takes to improve CIBIL score?"
-      },
-      {
-        "type": "context",
-        "text": "Learn how long it takes to improve CIBIL score. Your credit score is a critical..."
-      },
-      {
-        "type": "removed",
-        "text": "Got more questions?"
-      },
-      {
-        "type": "removed",
-        "text": "Locate the nearest branch for best assessment."
-      },
-      {
-        "type": "removed",
-        "text": "Locate Branches"
-      },
-      {
-        "type": "context",
-        "text": "Your Axis Rewards Credit Card awaits you!"
-      },
-      {
-        "type": "context",
-        "text": "Check Eligibility"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Joining and standard annual fees removed, now NIL under limited Amex Network offer"
     }
   },
   {

@@ -1,5 +1,49 @@
 [
   {
+    "id": "hsbc-india-hsbc-taj-credit-card",
+    "cardName": "HSBC Taj Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
+    "status": "Active",
+    "detectedAt": "2026-10-16T08:12:44.106Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 50 Points per INR100 on direct Dyson purchases. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "Save 20% at Reliance Brand outlets"
+      },
+      {
+        "type": "removed",
+        "text": "Get up to INR10,000 off when you spend INR20,000 or more. T&Cs apply (PDF)"
+      },
+      {
+        "type": "added",
+        "text": "Get up to INR10,000 off when you spend INR35,000 or more. T&Cs apply (PDF)"
+      },
+      {
+        "type": "context",
+        "text": "VISA Infinite Benefits"
+      },
+      {
+        "type": "context",
+        "text": "For all the VISA benefits, please refer to VISA website ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Benefit threshold increased to INR35,000 spend."
+    }
+  },
+  {
     "id": "icici-bank-1838-reserve-icici-bank-credit-card",
     "cardName": "1838 Reserve ICICI Bank Credit Card",
     "issuerName": "ICICI Bank",
@@ -755,74 +799,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated lounge name to Elemento Lounge at the same airport"
-    }
-  },
-  {
-    "id": "hsbc-india-hsbc-taj-credit-card",
-    "cardName": "HSBC Taj Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
-    "status": "Active",
-    "detectedAt": "2026-10-09T10:35:58.738Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Unlock access to a world of extraordinary benefits"
-      },
-      {
-        "type": "context",
-        "text": "Get two nights' breakfast-inclusive stays at hotels across India and a one-night stay at Taj Palaces when you activate your card"
-      },
-      {
-        "type": "removed",
-        "text": "Get a voucher for an extra one-night stay at Taj Palaces, valid for 6 months, with every new or renewed card. Offer valid until 30 September 2026"
-      },
-      {
-        "type": "added",
-        "text": "Get a voucher for an extra one-night stay at Taj Palaces, valid for 6 months, with every new or renewed card. Offer valid until 31 December 2026"
-      },
-      {
-        "type": "context",
-        "text": "Access exclusive privileges with NeuPass Taj InnerCircle Platinum Tier membership[@platinum-neupass]"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy priority/early check-ins, late check-outs, access to a dedicated 24/7 Platinum customer care service and more"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy exclusive access to The Chambers Lounge, available up to 12 times a year for you and a guest"
-      },
-      {
-        "type": "context",
-        "text": "Easily manage your bookings by calling HSBC on 1800 569 1111 , or the IHCL concierge desk on 1800 202 5575 [@taj-offer-redemption]"
-      },
-      {
-        "type": "removed",
-        "text": "Terms and conditions apply (PDF, 273KB)"
-      },
-      {
-        "type": "added",
-        "text": "Terms and conditions apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Why choose the HSBC Taj Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "Exquisite stays and dining"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Voucher validity extended to 31 December 2026"
     }
   },
   {

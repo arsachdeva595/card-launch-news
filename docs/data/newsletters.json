@@ -1,5 +1,28 @@
 [
   {
+    "number": 16,
+    "date": "2026-10-17",
+    "subject": "What Changed to Your Credit Card Today? Edition 16",
+    "summary": "ICICI Bank raises its branch cash credit card bill payment fee from ₹100 to ₹150 plus GST, and two Canara Bank card pages add an MDR disclosure link that changes nothing for cardholders.",
+    "permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-10-17",
+    "issuers": [
+      "icici"
+    ],
+    "items": [
+      {
+        "card_slug": "icici-bank-credit-card-bill-payment-online",
+        "card_name": "Credit Card Bill Payment Online",
+        "issuer": "icici",
+        "change_type": "fee-change",
+        "summary": "Cash payment fee at ICICI Bank branches rises from ₹100 to ₹150 plus 18% GST per transaction.",
+        "status": "verified",
+        "official_link": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+        "verification_link": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+        "anchor": "icici-bank-credit-card-bill-payment-online"
+      }
+    ]
+  },
+  {
     "number": 15,
     "date": "2026-09-09",
     "subject": "What Changed to Your Credit Card Today? Edition 15",

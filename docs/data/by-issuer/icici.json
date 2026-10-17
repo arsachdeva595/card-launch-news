@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "icici-bank-credit-card-bill-payment-online",
+    "card_name": "Credit Card Bill Payment Online",
+    "issuer": "icici",
+    "change_type": "fee-change",
+    "summary": "Cash payment fee at ICICI Bank branches rises from ₹100 to ₹150 plus 18% GST per transaction.",
+    "status": "verified",
+    "official_link": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+    "verification_link": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+    "source": "newsletter",
+    "edition_number": 16,
+    "edition_date": "2026-10-17",
+    "edition_permalink": "https://arsachdeva595.github.io/card-launch-news/edition/?date=2026-10-17#icici-bank-credit-card-bill-payment-online"
+  },
+  {
     "card_slug": "emeralde-credit-card",
     "card_name": "Emeralde Credit Card",
     "issuer": "icici",

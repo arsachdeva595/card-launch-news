@@ -1,5 +1,45 @@
 [
   {
+    "id": "hdfc-bank-key-fact-statement",
+    "cardName": "Key fact Statement",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/services/key-fact-statement-purchase-cards",
+    "discoveredAt": "2026-10-17T07:45:34.093Z",
+    "lastmod": "2026-09-25T11:55:04+05:30",
+    "announcement": {
+      "title": "Key fact Statement",
+      "url": "https://www.hdfc.bank.in/credit-cards/services/key-fact-statement-purchase-cards",
+      "description": "Official product page on HDFC Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-credit-card-reviews",
+    "cardName": "Credit Card Reviews",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/credit-card-reviews",
+    "discoveredAt": "2026-10-17T07:45:34.092Z",
+    "lastmod": "2026-09-07T17:41:31+05:30",
+    "announcement": {
+      "title": "Credit Card Reviews",
+      "url": "https://www.hdfc.bank.in/credit-cards/credit-card-reviews",
+      "description": "Official product page on HDFC Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-1838-reserve-icici-bank-credit-card",
     "cardName": "1838 Reserve ICICI Bank Credit Card",
     "issuerName": "ICICI Bank",

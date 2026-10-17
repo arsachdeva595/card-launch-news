@@ -5182,5 +5182,29 @@
     "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/1838-reserve-icici-credit-card",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "Credit Card Reviews",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "url": "https://www.hdfc.bank.in/credit-cards/credit-card-reviews",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Key fact Statement",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "url": "https://www.hdfc.bank.in/credit-cards/services/key-fact-statement-corporate-cards",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Key fact Statement",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "url": "https://www.hdfc.bank.in/credit-cards/services/key-fact-statement-purchase-cards",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

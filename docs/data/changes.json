@@ -1,5 +1,157 @@
 [
   {
+    "id": "icici-bank-credit-card-bill-payment-online",
+    "cardName": "Credit Card Bill Payment Online",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+    "status": "Active",
+    "detectedAt": "2026-10-17T07:53:20.973Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Pay your Credit Card dues using the iMobile app"
+      },
+      {
+        "type": "context",
+        "text": "Deposit cash"
+      },
+      {
+        "type": "removed",
+        "text": "Pay at any branch (₹100 fee &#43; GST applicable)."
+      },
+      {
+        "type": "added",
+        "text": "Pay at any branch (₹150 fee &#43; GST applicable)."
+      },
+      {
+        "type": "context",
+        "text": "Pay via UPI"
+      },
+      {
+        "type": "context",
+        "text": "Make UPI payment from any UPI-enabled app/Bharat Interface for Money (BHIM) app to ICICI Bank Virtual Payment Address (VPA) : ccpay.<mobile><last 4 card digits>&#64;icici"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Swipe your ICICI Bank Debit Card at any ICICI Bank ATM. Choose ‘More Options’ to pay your Credit Card bill directly and securely."
+      },
+      {
+        "type": "context",
+        "text": "Cash deposit at branch"
+      },
+      {
+        "type": "removed",
+        "text": "Pay via cash at any ICICI Bank branch. A fee of ₹100 + 18% GST is applicable per payment transaction."
+      },
+      {
+        "type": "added",
+        "text": "Pay via cash at any ICICI Bank branch. A fee of ₹150 + 18% GST is applicable per payment transaction."
+      },
+      {
+        "type": "context",
+        "text": "Secure transactions only"
+      },
+      {
+        "type": "context",
+        "text": "Always use authorised ICICI Bank payment channels for Credit Card dues. Avoid third-party platforms to ensure your payments are secure and correctly credited."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Cash payment fee at ICICI Bank branches increased to ₹150 + 18% GST."
+    }
+  },
+  {
+    "id": "canara-bank-mastercard-gold-secured-credit-card",
+    "cardName": "Mastercard Gold Secured Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/mastercard-gold-secured-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-17T07:50:17.788Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Insurance Grievance Redressal"
+      },
+      {
+        "type": "context",
+        "text": "MDR on UPI Transactions"
+      },
+      {
+        "type": "added",
+        "text": "MDR on RuPay Credit Card Transactions through UPI"
+      },
+      {
+        "type": "context",
+        "text": "Canara Bank Investor/Analyst Interaction Calendar"
+      },
+      {
+        "type": "context",
+        "text": "Member Banks Information Hub"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added MDR benefit on RuPay Credit Card Transactions through UPI"
+    }
+  },
+  {
+    "id": "canara-bank-rupay-select-credit-card",
+    "cardName": "Rupay Select Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
+    "status": "Active",
+    "detectedAt": "2026-10-17T07:50:17.785Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Insurance Grievance Redressal"
+      },
+      {
+        "type": "context",
+        "text": "MDR on UPI Transactions"
+      },
+      {
+        "type": "added",
+        "text": "MDR on RuPay Credit Card Transactions through UPI"
+      },
+      {
+        "type": "context",
+        "text": "Canara Bank Investor/Analyst Interaction Calendar"
+      },
+      {
+        "type": "context",
+        "text": "Member Banks Information Hub"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added MDR fee for RuPay Credit Card transactions via UPI"
+    }
+  },
+  {
     "id": "hsbc-india-hsbc-taj-credit-card",
     "cardName": "HSBC Taj Credit Card",
     "issuerName": "HSBC India",
@@ -4323,94 +4475,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added new anniversary offer with point bonuses and updated eligibility dates for Marriott Bonvoy HDFC Bank Credit Card"
-    }
-  },
-  {
-    "id": "canara-bank-mastercard-gold-secured-credit-card",
-    "cardName": "Mastercard Gold Secured Credit Card",
-    "issuerName": "Canara Bank",
-    "issuerSlug": "canara-bank",
-    "officialUrl": "https://canarabank.com/",
-    "productPageUrl": "https://canarabank.bank.in/pages/mastercard-gold-secured-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-30T09:44:41.329Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Mastercard Gold Secured Credit Card | Canara Bank"
-      },
-      {
-        "type": "context",
-        "text": "Online Complaint registration link"
-      },
-      {
-        "type": "added",
-        "text": "MDR on UPI Transactions"
-      },
-      {
-        "type": "added",
-        "text": "MDR on RuPay Credit Card Transactions through UPI"
-      },
-      {
-        "type": "context",
-        "text": "Member Banks Information Hub"
-      },
-      {
-        "type": "context",
-        "text": "Exchange Rates"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added MDR fee for UPI and RuPay Credit Card UPI transactions"
-    }
-  },
-  {
-    "id": "canara-bank-rupay-select-credit-card",
-    "cardName": "Rupay Select Credit Card",
-    "issuerName": "Canara Bank",
-    "issuerSlug": "canara-bank",
-    "officialUrl": "https://canarabank.com/",
-    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
-    "status": "Active",
-    "detectedAt": "2026-09-30T09:44:41.325Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "RuPay Select Credit Card | Canara Bank"
-      },
-      {
-        "type": "context",
-        "text": "Online Complaint registration link"
-      },
-      {
-        "type": "added",
-        "text": "MDR on UPI Transactions"
-      },
-      {
-        "type": "added",
-        "text": "MDR on RuPay Credit Card Transactions through UPI"
-      },
-      {
-        "type": "context",
-        "text": "Member Banks Information Hub"
-      },
-      {
-        "type": "context",
-        "text": "Exchange Rates"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added MDR fee for UPI and RuPay credit card transactions"
     }
   },
   {

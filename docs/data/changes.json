@@ -1,5 +1,277 @@
 [
   {
+    "id": "rbl-bank-iglobe-credit-card",
+    "cardName": "iGlobe Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/iglobe-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-20T08:43:30.108Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "RBL Bank iGlobe Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "RBL Bank iGlobe Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Get MakeMyTrip Voucher Worth INR 3,000 as Welcome Benefit"
+      },
+      {
+        "type": "added",
+        "text": "Seamless Miles Transfer Across 10+ Travel Partners"
+      },
+      {
+        "type": "context",
+        "text": "5 reward points for every INR 100 spent on domestic purchases"
+      },
+      {
+        "type": "context",
+        "text": "Fly High with Our Complimentary Airport Lounge Visits Across India"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Redeem your reward points at rblrewards.rbl.bank.in . For more details, refer to rblrewards.rbl.bank.in/tnc ."
+      },
+      {
+        "type": "context",
+        "text": "To apply for RBL Bank iGlobe Credit Card, visit your nearest branch or reach out to your Relationship Manager."
+      },
+      {
+        "type": "added",
+        "text": "Miles Transfer"
+      },
+      {
+        "type": "added",
+        "text": "Step into a new era of rewards with RBL Bank’s Miles Transfer Program, an all-new category that lets you unlock more value and convert Reward Points like never before."
+      },
+      {
+        "type": "added",
+        "text": "Easy Conversion: Convert your RBL Bank Reward Points into 10+ partners’ loyalty points seamlessly (e.g.: Air India Airlines, Qatar Airways, ITC Green points and many more)."
+      },
+      {
+        "type": "added",
+        "text": "4 RBL Bank Reward Points = 1 Partner Point."
+      },
+      {
+        "type": "added",
+        "text": "Enhanced Flexibility: Use converted points across a wide range of Partners."
+      },
+      {
+        "type": "added",
+        "text": "Click here to redeem."
+      },
+      {
+        "type": "added",
+        "text": "For detailed terms and conditions Click here ."
+      },
+      {
+        "type": "context",
+        "text": "Reward Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Earn 5 Reward Points for every INR 100 spent on Domestic Purchases."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a new Miles Transfer program for converting reward points to partner loyalty points."
+    }
+  },
+  {
+    "id": "rbl-bank-insignia-preferred-banking-credit-card",
+    "cardName": "Insignia Preferred Banking Credit Card",
+    "issuerName": "RBL Bank",
+    "issuerSlug": "rbl-bank",
+    "officialUrl": "https://www.rbl.bank.in/",
+    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/insignia-preferred-banking-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-20T08:43:30.104Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Insignia Preferred Banking Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Unlock INR 8,000 worth of vouchers from popular brands on INR 8 lacs spent"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy complimentary lounge access at 1,400+ lounges worldwide"
+      },
+      {
+        "type": "added",
+        "text": "Seamless Miles Transfer Across 10+ Travel Partners"
+      },
+      {
+        "type": "context",
+        "text": "Forex Markup of only 1.5% plus 2X reward points on International Spends"
+      },
+      {
+        "type": "context",
+        "text": "(If you are an Insignia Preferred Banking Customer, please connect with your Relationship Manager to get Insignia Preferred Banking Credit Card)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Benefit will be credited to the Cardmember’s Account within 60 days from the date of the Card issuance."
+      },
+      {
+        "type": "context",
+        "text": "Refer Product T&C for more details"
+      },
+      {
+        "type": "added",
+        "text": "Miles Transfer"
+      },
+      {
+        "type": "added",
+        "text": "Step into a new era of rewards with RBL Bank’s Miles Transfer Program, an all-new category that lets you unlock more value and convert Reward Points like never before."
+      },
+      {
+        "type": "added",
+        "text": "Easy Conversion: Convert your RBL Bank Reward Points into 10+ partners’ loyalty points seamlessly (e.g.: Air India Airlines, Qatar Airways, ITC Green points and many more)."
+      },
+      {
+        "type": "added",
+        "text": "3 RBL Bank Reward Points = 1 Partner Point."
+      },
+      {
+        "type": "added",
+        "text": "Enhanced Flexibility: Use converted points across a wide range of Partners."
+      },
+      {
+        "type": "added",
+        "text": "Click here to redeem."
+      },
+      {
+        "type": "added",
+        "text": "For detailed terms and conditions Click here ."
+      },
+      {
+        "type": "context",
+        "text": "Curated Rewards"
+      },
+      {
+        "type": "context",
+        "text": "Every step is a rewarding experience."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a new Miles Transfer program allowing conversion of RBL Bank Reward Points to partner loyalty points."
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-premium-credit-card",
+    "cardName": "Purchase Premium Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-20T08:35:07.509Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "How many reward points can be accrued every month on Purchase Premium?"
+      },
+      {
+        "type": "context",
+        "text": "Maximum of 15,000 reward points can be accrued per statement cycle on Purchase Premium."
+      },
+      {
+        "type": "added",
+        "text": "What is the capping on Cash Redemption of Reward Points?"
+      },
+      {
+        "type": "added",
+        "text": "Redemption of Reward Points against the statement balance (cashback redemption) is capped at 50,000 Reward Points per calendar month ."
+      },
+      {
+        "type": "context",
+        "text": "Is the customer eligible for Fuel surcharge waiver?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, the corporate is eligible 1% fuel surcharge waiver."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a cap of 50,000 Reward Points per month on cashback redemption."
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-ace-credit-card",
+    "cardName": "Axis Bank ACE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-20T08:32:09.431Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Description Charges"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee"
+      },
+      {
+        "type": "removed",
+        "text": "₹499"
+      },
+      {
+        "type": "added",
+        "text": "₹ 499 (Waived on spends of ₹ 10,000 within 45 days of Card set-up)"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee;"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹499 2nd year onward"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Annual fee ₹499 now waived on spends of ₹10,000 within 45 days of card set-up"
+    }
+  },
+  {
     "id": "kotak-mahindra-bank-kotak-cashback-credit-card",
     "cardName": "Kotak Cashback+ Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -7216,118 +7488,6 @@
     }
   },
   {
-    "id": "hdfc-bank-purchase-premium-credit-card",
-    "cardName": "Purchase Premium Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-premium-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-22T08:36:30.641Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Purchase Premium Credit Card | HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Framework For Cross Border Transactions"
-      },
-      {
-        "type": "context",
-        "text": "Interest-free Credit Period of up to 50 Days"
-      },
-      {
-        "type": "context",
-        "text": "4 Reward Points on your Spends"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "The corporate can revolve 30%(MAD) of Total Amount Due (TAD). While calculating the MAD, other charges such as interest, fee, GST, etc. are excluded"
-      },
-      {
-        "type": "context",
-        "text": "Is the customer eligible for cashback?"
-      },
-      {
-        "type": "removed",
-        "text": "The customer is eligible for 5% CashBack on business essential spends, subject to minimum overall statement spends of ₹1,00,000/-.  Apart from this corporate will not be eligible for any other form of CashBack."
-      },
-      {
-        "type": "added",
-        "text": "Yes. The customer is eligible for 5% CashBack on Business Essential Spends, subject to a minimum overall statement spend of ₹1,00,000 as per posting date. Apart from this benefit, the corporate will not be eligible for any other form of CashBack."
-      },
-      {
-        "type": "context",
-        "text": "What are the merchant categories considered under Business Essential?"
-      },
-      {
-        "type": "context",
-        "text": "Hotels, Rail, Road, Taxi, Utility, Taxes & Telecom are part of business essential spends."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Can a Corporate restrict usage of cards on certain merchants?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, Merchant Category Code (MCC) wise restriction is possible on Purchase Premium Card, relevant MCC group/promo id needs to be selected by corporate on the MID while submitting application"
-      },
-      {
-        "type": "added",
-        "text": "Electronics"
-      },
-      {
-        "type": "added",
-        "text": "Travel"
-      },
-      {
-        "type": "added",
-        "text": "Apparel and Accessories"
-      },
-      {
-        "type": "added",
-        "text": "Retail Stores"
-      },
-      {
-        "type": "added",
-        "text": "Entertainment"
-      },
-      {
-        "type": "added",
-        "text": "Dining"
-      },
-      {
-        "type": "added",
-        "text": "Jewellery"
-      },
-      {
-        "type": "added",
-        "text": "Home and Decor"
-      },
-      {
-        "type": "added",
-        "text": "Personal Service Providers"
-      },
-      {
-        "type": "added",
-        "text": "Miscellaneous Stores"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "equitas-sfb-powermiles-credit-card",
     "cardName": "Powermiles Credit Card",
     "issuerName": "Equitas Small Finance Bank",
@@ -9285,72 +9445,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Reward rate changed to 1 point per ₹200 on other spends"
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-ace-credit-card",
-    "cardName": "Axis Bank ACE Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-17T08:40:45.411Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Reward redemption fee"
-      },
-      {
-        "type": "context",
-        "text": "No"
-      },
-      {
-        "type": "added",
-        "text": "Add-On Card Joining Fee"
-      },
-      {
-        "type": "added",
-        "text": "Nil"
-      },
-      {
-        "type": "added",
-        "text": "Add-On Card Annual Fee"
-      },
-      {
-        "type": "added",
-        "text": "Nil"
-      },
-      {
-        "type": "added",
-        "text": "Hot Listing Charges"
-      },
-      {
-        "type": "added",
-        "text": "Nil"
-      },
-      {
-        "type": "context",
-        "text": "Rent transaction fee (applicable from 5th March 2023)"
-      },
-      {
-        "type": "context",
-        "text": "1% fee per transaction will be applicable on rental transactions. GST will be applicable."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added nil fees for add‑on card joining, annual fee and hot listing charges.",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Axis Bank Credit Cards — A Guide to the Lineup & Support Channels (from Axis Bank's official site) - READ DISCLAIMER FIRST",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/",
-        "description": "Disclaimer I&#39;m not affiliated with Axis Bank, and this isn&#39;t official communication from them. I&#39;m not a financial advisor, so treat this as informational only. Importantly: I could not verify exact joining fees, annual fees, or"
-      },
-      "via": "reddit"
     }
   },
   {

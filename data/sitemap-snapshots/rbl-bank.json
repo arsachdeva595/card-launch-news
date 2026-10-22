@@ -467,7 +467,6 @@
     "https://www.rbl.bank.in/personal-banking/cards/debit-cards/platinum-business-debit-card",
     "https://www.rbl.bank.in/personal-banking/cards/debit-cards/signature-business-debit-card",
     "https://www.rbl.bank.in/personal-banking/demat",
-    "https://www.rbl.bank.in/personal-banking/forex-services/borderless-prepaid-forex-card",
     "https://www.rbl.bank.in/personal-banking/forex-services/outward-remittance",
     "https://www.rbl.bank.in/corporate-banking/corporate-internet-banking",
     "https://www.rbl.bank.in/personal-banking/cards/commercial-cards/corporate-t-and-e-cards/t-and-e-gold-card",
@@ -1718,15 +1717,14 @@
     "https://www.rbl.bank.in/offers-and-promotions/haier",
     "https://www.rbl.bank.in/offers-and-promotions/vijay-sales",
     "https://www.rbl.bank.in/offers-and-promotions/croma",
-    "https://www.rbl.bank.in/offers-and-promotions/reliance-digital",
     "https://www.rbl.bank.in/offers-and-promotions/paytm-domestic-flights",
     "https://www.rbl.bank.in/offers-and-promotions/samsung",
+    "https://www.rbl.bank.in/offers-and-promotions/lg",
     "https://www.rbl.bank.in/offers-and-promotions/yatra-emi",
     "https://www.rbl.bank.in/offers-and-promotions/bosch",
     "https://www.rbl.bank.in/offers-and-promotions/easemytrip",
     "https://www.rbl.bank.in/offers-and-promotions/zepto-hs",
     "https://www.rbl.bank.in/offers-and-promotions/makemytrip-mmtrblemi",
-    "https://www.rbl.bank.in/offers-and-promotions/oneplus",
     "https://www.rbl.bank.in/offers-and-promotions/blinkit",
     "https://www.rbl.bank.in/offers-and-promotions/akbar-travels",
     "https://www.rbl.bank.in/offers-and-promotions/add-on-card",
@@ -1866,7 +1864,6 @@
     "https://www.rbl.bank.in/static-pages/gpay",
     "https://www.rbl.bank.in/static-pages/using-your-card",
     "https://www.rbl.bank.in/static-pages/participating-restaurants-for-dining-program",
-    "https://www.rbl.bank.in/static-pages/Details-of-Hotel-Program",
     "https://www.rbl.bank.in/credit-cards/rbl-mycard-app",
     "https://www.rbl.bank.in/product/agri-business/kisan-credit-card",
     "https://www.rbl.bank.in/certificates-issued-by-the-bank",
@@ -2036,5 +2033,5 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/financial-markets-and-treasury/forex-and-bullion",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/wholesale-client-services"
   ],
-  "updatedAt": "2026-10-21T08:33:16.495Z"
+  "updatedAt": "2026-10-22T08:35:38.840Z"
 }

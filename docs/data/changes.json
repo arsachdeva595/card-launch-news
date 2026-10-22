@@ -1,5 +1,113 @@
 [
   {
+    "id": "indusind-bank-indusind-bank-avios-visa-infinite-credit-card",
+    "cardName": "IndusInd Bank Avios Visa Infinite Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/avios-visa-infinite-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-10-22T08:43:17.851Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Redeem your Avios for flight tickets, hotel stays, car rentals and much more."
+      },
+      {
+        "type": "context",
+        "text": "3. Unmatched International Travel Benefits:"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy exemplary experiences with complimentary meet-and-greet services, dedicated concierge, elderly care assist, international travel health insurance, discounted foreign currency markup at preferred international destination and much more."
+      },
+      {
+        "type": "added",
+        "text": "Enjoy exemplary experiences with complimentary meet-and-greet services, dedicated concierge, international travel health insurance, discounted foreign currency markup at preferred international destination and much more."
+      },
+      {
+        "type": "context",
+        "text": "Keep reading to know more about the exciting possibilities that await."
+      },
+      {
+        "type": "context",
+        "text": "Rewards with IndusInd Bank Avios Visa Infinite Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed elderly care assist benefit."
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-card",
+    "cardName": "American Express® Platinum Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
+    "status": "Active",
+    "detectedAt": "2026-10-22T08:36:15.642Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "25% off at Taj, SeleQtions and Vivanta Hotels *"
+      },
+      {
+        "type": "context",
+        "text": "50% off on Suites at Oberoi Hotels and Resorts *"
+      },
+      {
+        "type": "removed",
+        "text": "Additional complimentary * night when you book two or more nights for a club room or suite at The LaLiT in India and enjoy exclusive benefits"
+      },
+      {
+        "type": "context",
+        "text": "Access over 1550+ lounges of the finest Airport Lounges globally"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy access to free WiFi, gourmet cuisines and other exclusive services while you wait between flights in our lounges spread across 140+ countries"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "25% off at Taj, SeleQtions and Vivanta Hotels *"
+      },
+      {
+        "type": "context",
+        "text": "50% off on Suites at Oberoi Hotels and Resorts *"
+      },
+      {
+        "type": "removed",
+        "text": "Additional complimentary * night when you book two or more nights for a club room or suite at The LaLiT in India and enjoy exclusive benefits"
+      },
+      {
+        "type": "context",
+        "text": "Access over 1550+ lounges of the finest Airport Lounges globally"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy access to free WiFi, gourmet cuisines and other exclusive services while you wait between flights in our lounges spread across 140+ countries"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed the complimentary night benefit for booking two or more nights at The LaLiT club rooms or suites."
+    }
+  },
+  {
     "id": "rbl-bank-iglobe-credit-card",
     "cardName": "iGlobe Credit Card",
     "issuerName": "RBL Bank",
@@ -2513,102 +2621,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "amex-american-express-platinum-card",
-    "cardName": "American Express® Platinum Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
-    "status": "Active",
-    "detectedAt": "2026-10-08T10:34:00.971Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Benefits worth INR 44,300 * every time you book at one of the 1000+ properties at one of the 1000+ properties under the Fine Hotels & Resorts collection."
-      },
-      {
-        "type": "context",
-        "text": "The Hotel Collection offers you a world of luxurious comfort, which includes a US$100 experience credit and a room upgrade"
-      },
-      {
-        "type": "removed",
-        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
-      },
-      {
-        "type": "added",
-        "text": "New hotel and flight bookings will be unavailable until 15 November, while Lifestyle Services will be unavailable from 9–14 November. Support for existing bookings will continue until 15 November, except on 1–2 November 2026."
-      },
-      {
-        "type": "context",
-        "text": "STAY PROTECTED WITH EMERGENCY SERVICES AND INSURANCE."
-      },
-      {
-        "type": "context",
-        "text": "Go places with complete peace of mind, knowing you are protected with these benefits -"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Travel benefits for those constantly on the move"
-      },
-      {
-        "type": "context",
-        "text": "As a Platinum Cardmember, enjoy exclusive deals on some of the world’s finest airlines like Air India, Etihad, Qatar Airways, Virgin Atlantic, Air France, KLM, Lufthansa, United Airlines and more"
-      },
-      {
-        "type": "removed",
-        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
-      },
-      {
-        "type": "added",
-        "text": "New hotel and flight bookings will be unavailable until 15 November, while Lifestyle Services will be unavailable from 9–14 November. Support for existing bookings will continue until 15 November, except on 1–2 November 2026."
-      },
-      {
-        "type": "context",
-        "text": "Unwind at FINE HOTELS & RESORTS worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy complimentary benefits worth INR 44,300 *  at iconic 5-star properties that include guaranteed 4pm late check-out, room upgrades at check in when available 5 , daily breakfast for two, WiFi or a special amenity * at each property worth US$100."
-      },
-      {
-        "type": "context",
-        "text": "The hotels included are The Ritz- Carlton, The Vanderbilt, Hyatt, Hilton and many more……"
-      },
-      {
-        "type": "context",
-        "text": "Explore more"
-      },
-      {
-        "type": "removed",
-        "text": "Please note that any new booking for Travel related services will be unavailable from 7 September, 2026 till 10 October, 2026."
-      },
-      {
-        "type": "added",
-        "text": "New hotel and flight bookings will be unavailable until 15 November, while Lifestyle Services will be unavailable from 9–14 November. Support for existing bookings will continue until 15 November, except on 1–2 November 2026."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy seamless upgrades to Elite Tier Memberships"
-      },
-      {
-        "type": "context",
-        "text": "Your American Express Platinum Card fast-tracks you to the higher tiers of leading hotel loyalty programs around the world, without having to fulfil the usual qualifying criteria."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Availability of hotel, flight, and lifestyle service bookings changed."
     }
   },
   {

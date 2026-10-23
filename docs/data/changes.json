@@ -1,5 +1,45 @@
 [
   {
+    "id": "idfc-first-bank-mayura-metal-card",
+    "cardName": "Mayura Metal Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/mayura",
+    "status": "Active",
+    "detectedAt": "2026-10-23T08:39:13.262Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "As a Mayura Credit Card user, you get exclusive access and discounts across over 350 fine-dine restaurants in 16 cities, as part of the Mastercard Culinary Club programme."
+      },
+      {
+        "type": "context",
+        "text": "For more details and to make a reservation, visit www.mastercardculinaryclub.com"
+      },
+      {
+        "type": "removed",
+        "text": "Note: This benefit is powered by Mastercard and is valid until 31st December 2025."
+      },
+      {
+        "type": "context",
+        "text": "Tee-off at spectacular golf courses"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 4 complimentary golf rounds and 12 complimentary golf lessons a year across the globe"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed Mastercard-powered benefit note"
+    }
+  },
+  {
     "id": "indusind-bank-indusind-bank-avios-visa-infinite-credit-card",
     "cardName": "IndusInd Bank Avios Visa Infinite Credit Card",
     "issuerName": "IndusInd Bank",

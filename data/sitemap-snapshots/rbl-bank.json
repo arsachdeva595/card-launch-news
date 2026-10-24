@@ -354,7 +354,6 @@
     "https://www.rbl.bank.in/business-banking/business/convenience",
     "https://www.rbl.bank.in/business-banking/business/specialised-packages",
     "https://www.rbl.bank.in/business-banking/agri-banking/developmental-banking-and-financial-inclusion",
-    "https://www.rbl.bank.in/business-banking/business-banking-group",
     "https://www.rbl.bank.in/business-banking/government-sponsored-scheme/maharashtra-chief-minister-employment-generation-programme",
     "https://www.rbl.bank.in/business-banking/government-sponsored-scheme/pradhan-mantri-formalization-of-micro-food-processing-enterprises-scheme",
     "https://www.rbl.bank.in/business-banking/government-sponsored-scheme/pm-street-vendors-atmanirbhar-nidhi-scheme",
@@ -540,6 +539,7 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/transaction-banking/escrow-and-capital-markets",
     "https://www.rbl.bank.in/corporate-banking/rbl-mybizbank-app",
     "https://www.rbl.bank.in/personal-banking/cards/forex-cards/voyedge-forex-card",
+    "https://www.rbl.bank.in/business-banking/business-banking-group",
     "https://www.rbl.bank.in/personal-banking/term-deposits",
     "https://www.rbl.bank.in/personal-banking/term-deposits/flexi-sure-fixed-deposits",
     "https://www.rbl.bank.in/personal-banking/term-deposits/regular-fixed-deposits",
@@ -1690,6 +1690,7 @@
     "https://www.rbl.bank.in/locate-us/pur-road-bhilwara-branch",
     "https://www.rbl.bank.in/locate-us/rajugari-street-machilipatnam-branch",
     "https://www.rbl.bank.in/locate-us/bhiwandi-kalyan-naka-atm",
+    "https://www.rbl.bank.in/locate-us/vyapar-vihar-bilaspur-atm",
     "https://www.rbl.bank.in/locate-us",
     "https://www.rbl.bank.in/about-us/leadership-team",
     "https://www.rbl.bank.in/nri-banking",
@@ -2033,5 +2034,5 @@
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/financial-markets-and-treasury/forex-and-bullion",
     "https://www.rbl.bank.in/wholesale-banking/products-and-services/wholesale-client-services"
   ],
-  "updatedAt": "2026-10-23T08:31:51.394Z"
+  "updatedAt": "2026-10-24T08:06:22.225Z"
 }

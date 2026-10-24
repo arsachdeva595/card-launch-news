@@ -1,5 +1,345 @@
 [
   {
+    "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
+    "cardName": "Tata Neu Plus HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/tata-neu-plus-hdfc-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-24T08:11:01.866Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Zero Cost Card Liability"
+      },
+      {
+        "type": "context",
+        "text": "Revolving Credit"
+      },
+      {
+        "type": "removed",
+        "text": "NeuCoins Redemption"
+      },
+      {
+        "type": "removed",
+        "text": "NeuCoins Validity"
+      },
+      {
+        "type": "added",
+        "text": "NeuCoins Validity and Redemption"
+      },
+      {
+        "type": "context",
+        "text": "Application Channels"
+      },
+      {
+        "type": "context",
+        "text": "Joining/Renewal Membership Fee – ₹499/- + Applicable Taxes"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Revolving Credit"
+      },
+      {
+        "type": "context",
+        "text": "Available at a nominal interest rate on your Tata Neu Plus HDFC Bank Credit Card. Please refer to Fees and Charges section to know more."
+      },
+      {
+        "type": "removed",
+        "text": "NeuCoins Redemption"
+      },
+      {
+        "type": "removed",
+        "text": "You can use your NeuCoins for purchases on Tata Neu /Website for Brands like:"
+      },
+      {
+        "type": "added",
+        "text": "NeuCoins Validity and Redemption"
+      },
+      {
+        "type": "added",
+        "text": "Tata NeuCoins Claim and Redemption Process on Tata Neu HDFC Bank Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Effective 25-Nov-2026 , to use your Tata NeuCoins earned on Tata Neu HDFC Bank Credit Card spends, primary card holder has to claim them through the Tata Neu App."
+      },
+      {
+        "type": "added",
+        "text": "How to claim your Tata NeuCoins from your Tata Neu HDFC Bank Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "1. Log in to the Tata Neu App using primary card holder’s Bank-registered mobile number"
+      },
+      {
+        "type": "added",
+        "text": "2. Go to NeuCard section"
+      },
+      {
+        "type": "added",
+        "text": "3. Select ‘ Claim NeuCoins’ in NeuCard section . Complete the steps as prompted."
+      },
+      {
+        "type": "added",
+        "text": "Note: - The Closing Tata NeuCoins Balance as per your latest statement will be available for claiming within 7 working days of the statement date, please refer to the example for better understanding."
+      },
+      {
+        "type": "added",
+        "text": "4. Tata NeuCoins earned on your Tata Neu HDFC Bank Credit Card can be claimed within 12 months from the statement date in which it was earned . Unclaimed Tata NeuCoins will expire after this period."
+      },
+      {
+        "type": "added",
+        "text": "Example"
+      },
+      {
+        "type": "added",
+        "text": "If your statement is generated on 15-Dec-26 , any additional Tata NeuCoins earned in the latest statement will be updated in the claimable Tata NeuCoins Balance latest by 22-Dec-26 ."
+      },
+      {
+        "type": "added",
+        "text": "Tata NeuCoins earned in the statement generated on 15-Dec-26 can be claimed until 14-Dec-27 from your credit card account. If the Tata NeuCoins are not claimed by 14-Dec-27 , then the Tata NeuCoins will expire."
+      },
+      {
+        "type": "added",
+        "text": "How to use your Tata NeuCoins post credit to your Tata Neu Membership Account"
+      },
+      {
+        "type": "added",
+        "text": "5. Once your claim is successful, the Tata NeuCoins will be credited to your Tata Neu Membership account . The claimed Tata NeuCoins will be valid for another 12 months from the date of credit of Tata NeuCoins in your Tata Neu Membership Account , after which they will expire as per the Tata Neu Rewards Program Terms & Conditions."
+      },
+      {
+        "type": "added",
+        "text": "Note: - It may take up to 7 working days to credit the Tata NeuCoins in your Tata Neu Membership Account."
+      },
+      {
+        "type": "added",
+        "text": "6. Tata NeuCoins available in your Tata Neu Membership Account can be redeemed across eligible Tata brands within the Tata NeuCoins validity period."
+      },
+      {
+        "type": "added",
+        "text": "7. For details on the redemption and validity of Tata NeuCoins after they are credited to your Tata Neu Membership Account, please click here ."
+      },
+      {
+        "type": "added",
+        "text": "Example"
+      },
+      {
+        "type": "added",
+        "text": "Tata NeuCoins claimed from your credit card account and credited to your Tata Neu Membership Account on 15-Dec-26 , will be valid until 31-Dec-27 in your Tata Neu Membership Account."
+      },
+      {
+        "type": "added",
+        "text": "For another example, if Tata NeuCoins are credited to Tata Neu Membership Account on 27-Dec-26 , they will be valid until  31-Dec-27."
+      },
+      {
+        "type": "added",
+        "text": "For more details kindly click here ."
+      },
+      {
+        "type": "added",
+        "text": "Notes:"
+      },
+      {
+        "type": "added",
+        "text": "1-Effective 25-Nov-2026 , Tata NeuCoins earned on your Tata Neu HDFC Bank Credit Card will no longer be automatically credited to your Tata Neu Membership Account."
+      },
+      {
+        "type": "added",
+        "text": "2- The primary Cardholder can make up to 3 successful requests per day to claim Tata NeuCoins. Each claim must have a minimum value of 100 Tata NeuCoins . The minimum claimable value per claim may be revised downward from time to time. Any revised minimum claimable value will be displayed to the customer at the time of making the claim."
+      },
+      {
+        "type": "added",
+        "text": "3- Tata NeuCoins earned during special promotions or as Welcome Benefit will continue to follow the terms, and the expiry communicated at the time of issuance."
+      },
+      {
+        "type": "added",
+        "text": "How the Tata NeuCoins earned on Tata Neu HDFC Bank Credit Card statement prior to 25-Nov-2026 will be credited to the Tata Neu Membership Account?"
+      },
+      {
+        "type": "added",
+        "text": "As per the existing process the Tata NeuCoins earned on Tata Neu HDFC Bank Credit Card statement prior to/ before 25-Nov-2026 will be credited to the Tata Neu Membership Account within 7 working days of the statement generation and will have a validity of 12 months (including any lock period) from the end of the month in which they're credited to your Tata Neu Membership Account. Example:"
+      },
+      {
+        "type": "added",
+        "text": "If Tata NeuCoins are credited on 05-Aug-26, they will be valid until 31-Aug-27."
+      },
+      {
+        "type": "added",
+        "text": "If Tata NeuCoins are credited on 31-Aug-26, they will be valid until 31-Aug-27."
+      },
+      {
+        "type": "added",
+        "text": "How to redeem Tata NeuCoins from Tata Neu?"
+      },
+      {
+        "type": "added",
+        "text": "Once your Tata NeuCoins are successfully claimed and credited to your Tata Neu Membership Account, you can continue to use them for purchases on the Tata Neu App/Website at 1 Tata NeuCoin = ₹1 savings , just as you do today, across eligible Tata brands, including:"
+      },
+      {
+        "type": "context",
+        "text": "Air India Express"
+      },
+      {
+        "type": "context",
+        "text": "Bigbasket"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Qmin"
+      },
+      {
+        "type": "context",
+        "text": "Titan and Tanishq (only via Tata Neu)"
+      },
+      {
+        "type": "removed",
+        "text": "You can use your NeuCoins by selecting Tata Pay/ NeuCoins /Loyalty Redemption as the payment method."
+      },
+      {
+        "type": "removed",
+        "text": "NeuCoins can only be used on eligible transactions as defined by the individual brands."
+      },
+      {
+        "type": "removed",
+        "text": "For offline redemption of NeuCoins on selected stores kindly refer FAQs"
+      },
+      {
+        "type": "removed",
+        "text": "Note:"
+      },
+      {
+        "type": "removed",
+        "text": "Your monthly statement will give breakup of NeuCoins as following:"
+      },
+      {
+        "type": "removed",
+        "text": "NeuCoins accrued and available with the Bank"
+      },
+      {
+        "type": "removed",
+        "text": "NeuCoins transferred to Tata Neu during the Statement Cycle"
+      },
+      {
+        "type": "removed",
+        "text": "On periodic basis (within 7 working days of the statement generation) the NeuCoins will be transferred to Tata Neu by the Bank."
+      },
+      {
+        "type": "removed",
+        "text": "NeuCoins transferred to Tata Neu will be available for redemption on Tata Neu App."
+      },
+      {
+        "type": "removed",
+        "text": "For detailed Terms and conditions  Click here"
+      },
+      {
+        "type": "removed",
+        "text": "NeuCoins Validity"
+      },
+      {
+        "type": "removed",
+        "text": "Starting 01-Aug-25, NeuCoins earned on your Tata Neu HDFC Bank Credit Card will have a validity of 12 months (including lock period) from the end of the month in which they're credited to your Tata Neu Account."
+      },
+      {
+        "type": "removed",
+        "text": "If NeuCoins are credited on 05-Aug-25, they will be valid until 31-Aug-26."
+      },
+      {
+        "type": "removed",
+        "text": "If NeuCoins are credited on 31-Aug-25, they will be valid until 31-Aug-26."
+      },
+      {
+        "type": "removed",
+        "text": "Validity of Existing NeuCoins balance"
+      },
+      {
+        "type": "removed",
+        "text": "Non-Promotional NeuCoins:  The validity of your existing balance of Non-Promotional NeuCoins (earned before 01-Aug-25) will be set as 31-Jul-26 in your Tata Neu Account, this activity will start from Jul’25 and will be completed by Aug’25 in a phased manner."
+      },
+      {
+        "type": "removed",
+        "text": "Promotional NeuCoins/Welcome Benefit: NeuCoins earned during special promotions or as Welcome Benefit will continue to follow the expiry terms communicated at the time of issuance."
+      },
+      {
+        "type": "removed",
+        "text": "For details on Redemption and Validity on NeuCoins, please  click here"
+      },
+      {
+        "type": "added",
+        "text": "You can use your Tata NeuCoins by selecting Tata NeuCoins /Use my Tata NeuCoins/ Loyalty Redemption on order page/payments page. Tata NeuCoins can only be used on eligible transactions as defined by the individual brands."
+      },
+      {
+        "type": "added",
+        "text": "For offline redemption of Tata NeuCoins on selected stores kindly click here ."
+      },
+      {
+        "type": "context",
+        "text": "Click here to view detailed TERMS & CONDITIONS on Tata Neu Plus HDFC Bank Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Click here  to view details of Fees and Charges/MITC on Tata Neu Plus HDFC Bank Credit Card."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated NeuCoins claim, redemption, and validity rules for Tata Neu HDFC Bank Credit Card."
+    }
+  },
+  {
+    "id": "dbs-bank-dbs-vantage-card",
+    "cardName": "DBS Vantage Card",
+    "issuerName": "DBS Bank India",
+    "issuerSlug": "dbs-bank",
+    "officialUrl": "https://www.dbs.bank.in/in/",
+    "productPageUrl": "https://www.dbs.bank.in/in/credit-cards/vantage.html",
+    "status": "Active",
+    "detectedAt": "2026-10-24T08:10:00.647Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Mutual Funds"
+      },
+      {
+        "type": "context",
+        "text": "digiPortfolio"
+      },
+      {
+        "type": "added",
+        "text": "Insurance"
+      },
+      {
+        "type": "context",
+        "text": "Borrow"
+      },
+      {
+        "type": "context",
+        "text": "Personal Loan"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added an Insurance benefit to the card"
+    }
+  },
+  {
     "id": "idfc-first-bank-mayura-metal-card",
     "cardName": "Mayura Metal Card",
     "issuerName": "IDFC First Bank",
@@ -20779,826 +21119,6 @@
       {
         "type": "context",
         "text": "Know More"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "equitas-sfb-tiga-credit-card",
-    "cardName": "Tiga Credit Card",
-    "issuerName": "Equitas Small Finance Bank",
-    "issuerSlug": "equitas-sfb",
-    "officialUrl": "https://equitas.bank.in/",
-    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/tiga-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-07-17T05:55:37.133Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Card Activation Most Important Terms & Conditions Card Member Agreement Key Fact Statement Payment Options Complimentary Insurance Policy Credit Cards Closure Privilege Program Tiga T&C Fair Practice Credit Card Operations Data Privacy Policy"
-      },
-      {
-        "type": "context",
-        "text": "FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "What are the main credit card types? -"
-      },
-      {
-        "type": "removed",
-        "text": "TIGA Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Category: Lifestyle & Rewards Card"
-      },
-      {
-        "type": "removed",
-        "text": "Best for: Everyday spending, short-term EMI flexibility"
-      },
-      {
-        "type": "removed",
-        "text": "Key Highlights:"
-      },
-      {
-        "type": "removed",
-        "text": "• Pay by Three: Automatically converts eligible transactions on select merchants* into 3-month low cost EMI."
-      },
-      {
-        "type": "removed",
-        "text": "• 3X Rewards on UPI, Contactless payments & Pay by Three merchants — earn faster on everyday spends."
-      },
-      {
-        "type": "removed",
-        "text": "• Annual Fee: First Year Free (subject to bank’s conditions), Rs 500 from subsequent years."
-      },
-      {
-        "type": "removed",
-        "text": "• Joining Perks: Introductory low-rate EMI (0.99% for the 1st three months) & high rewards on initial spends."
-      },
-      {
-        "type": "removed",
-        "text": "• Introductory APR: 0.99% PM for the first 3 months from card open date."
-      },
-      {
-        "type": "removed",
-        "text": "• Pay by three merchants – TATA Cliq, Tony & Guy, Tony & Guy Essentuals, SLAM, Netmeds, Skull Candy, 1% Club, Prashanti Sarees, Wedtree, Lectrix"
-      },
-      {
-        "type": "removed",
-        "text": "• Eligibility Criteria: Annual income of Rs 4.2 – 5 lakhs."
-      },
-      {
-        "type": "removed",
-        "text": "Ideal For:"
-      },
-      {
-        "type": "removed",
-        "text": "People who want flexibility to split purchases into EMIs and earn extra rewards on UPI and tap-to-pay transactions."
-      },
-      {
-        "type": "removed",
-        "text": "Features:"
-      },
-      {
-        "type": "removed",
-        "text": "Focus: Tiga - Everyday EMI & Rewards"
-      },
-      {
-        "type": "removed",
-        "text": "Special Benefit: Tiga - Pay-by-Three EMI"
-      },
-      {
-        "type": "removed",
-        "text": "Reward Type: Tiga - 3X on UPI & Tap"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: Tiga - 1st Year Free"
-      },
-      {
-        "type": "removed",
-        "text": "Ideal For: Tiga - Flexible Spenders"
-      },
-      {
-        "type": "removed",
-        "text": "How can I redeem Credit Card points for rewards? +"
-      },
-      {
-        "type": "removed",
-        "text": "Equitas uses a rewards portal called Xchange (xchange.equitas.bank.in) for redeeming reward points."
-      },
-      {
-        "type": "removed",
-        "text": "You can redeem for products, vouchers, flight / hotel booking, etc. The card’s Terms & Conditions / MITC specifies the catalogue, valuation, and conditions for redemption."
-      },
-      {
-        "type": "removed",
-        "text": "The exact value per point / the minimum points required / where you can redeem depends on which card you have and which redemption option (product, voucher, travel) you select."
-      },
-      {
-        "type": "removed",
-        "text": "How do I apply for a Credit Card online? +"
-      },
-      {
-        "type": "removed",
-        "text": "Visit the Equitas Bank Website’s Credit Cards section."
-      },
-      {
-        "type": "removed",
-        "text": "Choose the variant (TIGA, SELFE or PowerMiles) and click “Apply Now.” Or by giving missed call 1800 103 2977"
-      },
-      {
-        "type": "removed",
-        "text": "You will be asked to provide KYC, identity, address, income proofs, etc., to complete an online / offline application form. (Standard card application flow implied)"
-      },
-      {
-        "type": "removed",
-        "text": "The bank will verify your eligibility and documents and, if approved, dispatch the card. (You may also need to activate it with first transaction or PIN setup)"
-      },
-      {
-        "type": "removed",
-        "text": "The application flow and decisioning may be instantaneous or take some time depending on internal checks."
-      },
-      {
-        "type": "removed",
-        "text": "What are the advantages of using Equitas Credit Cards? +"
-      },
-      {
-        "type": "removed",
-        "text": "Here are the main benefits per card, plus general advantages:"
-      },
-      {
-        "type": "removed",
-        "text": "TIGA Card Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "• 3× rewards on UPI, contactless payments, and on Pay-by-3 merchant spends"
-      },
-      {
-        "type": "removed",
-        "text": "• “Pay by 3” — eligible transactions with select merchants can be auto converted into a 3-month low cost"
-      },
-      {
-        "type": "removed",
-        "text": "EMI"
-      },
-      {
-        "type": "removed",
-        "text": "• Up to 50 days of interest-free credit period for regular purchases"
-      },
-      {
-        "type": "removed",
-        "text": "• Fuel surcharge waiver: 1% waiver on fuel transactions (within certain transaction bands)"
-      },
-      {
-        "type": "removed",
-        "text": "• Insurance / protection covers: air accident, credit shield, lost card liability etc. (for primary cardholder)"
-      },
-      {
-        "type": "removed",
-        "text": "Are there any charges for redemption of reward points? +"
-      },
-      {
-        "type": "removed",
-        "text": "Yes, the Equitas “Most Important Terms & Conditions (MITC)” document lists several fees, and redemption governed by reward programme rules."
-      },
-      {
-        "type": "removed",
-        "text": "Key points:"
-      },
-      {
-        "type": "removed",
-        "text": "• Joining / Annual Fees"
-      },
-      {
-        "type": "removed",
-        "text": "• TIGA: ₹500 (joining) + ₹500 (annual)"
-      },
-      {
-        "type": "removed",
-        "text": "• Cash Advance / ATM Withdrawal Charges"
-      },
-      {
-        "type": "removed",
-        "text": "2.5% of the amount withdrawn (or ₹250, whichever is higher). Also, finance charges apply from day of withdrawal till full repayment."
-      },
-      {
-        "type": "removed",
-        "text": "• Other Charges / Fees"
-      },
-      {
-        "type": "removed",
-        "text": "• The bank may levy other charges (late payment, over limit, return of payment, etc.) as per the Schedule of Charges in the Card Agreement / MITC."
-      },
-      {
-        "type": "removed",
-        "text": "•  Redemption handling / administrative charges (if any) would be specified in the rewards programme terms (the MITC / catalogue) — it is possible that some redemptions may carry a small fee or conversion cost. (I didn’t find a publicly explicit “redemption fee” in the MITC I reviewed, so you will need to check the latest catalogue or rewards terms)"
-      },
-      {
-        "type": "removed",
-        "text": "• Waiver of Annual Fee"
-      },
-      {
-        "type": "removed",
-        "text": "• TIGA: The annual fee may be waived if you spend a certain threshold in the anniversary year (e.g. ₹1,20,000)"
-      },
-      {
-        "type": "removed",
-        "text": "So yes — while redemption may not always incur a direct separate fee (depending on the option), there are various fees built into the cards’ terms, and you must see the “Schedule of Charges / rewards programme” for your card variant."
-      },
-      {
-        "type": "removed",
-        "text": "How to register complaints related to my credit card? +"
-      },
-      {
-        "type": "removed",
-        "text": "Register a complaint through the following ways:-"
-      },
-      {
-        "type": "removed",
-        "text": "Selfe loan app"
-      },
-      {
-        "type": "removed",
-        "text": "Customer care helpline number 18001032977"
-      },
-      {
-        "type": "removed",
-        "text": "Write to customerservice@equitas.bank.in from your registered mail id"
-      },
-      {
-        "type": "removed",
-        "text": "You can also lodge a complaint at RBI’s Sachet Portal"
-      },
-      {
-        "type": "added",
-        "text": "Pay by 3 – Tiga -"
-      },
-      {
-        "type": "added",
-        "text": "What is the Pay by 3 program?"
-      },
-      {
-        "type": "added",
-        "text": "It is a feature for Tiga Card where eligible transactions at select merchants are automatically converted into a 3-month EMI, making payments easier without manual conversion."
-      },
-      {
-        "type": "added",
-        "text": "Which transactions are eligible for Pay by 3?"
-      },
-      {
-        "type": "added",
-        "text": "Only transactions done at partner merchants are eligible. Non-partner and UPI transactions are excluded."
-      },
-      {
-        "type": "added",
-        "text": "What interest is charged under Pay by 3?"
-      },
-      {
-        "type": "added",
-        "text": "It comes with no additional cost from the customer"
-      },
-      {
-        "type": "added",
-        "text": "When are transactions converted into EMI?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions are converted into EMI only on the statement generation date."
-      },
-      {
-        "type": "added",
-        "text": "How is EMI billed in the statement?"
-      },
-      {
-        "type": "added",
-        "text": "Only the EMI instalment is billed, while other transactions are billed in full."
-      },
-      {
-        "type": "added",
-        "text": "Will my credit limit be blocked?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, full transaction amount is blocked and released gradually as EMIs are repaid."
-      },
-      {
-        "type": "added",
-        "text": "Can I pre-close the EMI?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, pre-closure is allowed with applicable charges and reversal of benefits."
-      },
-      {
-        "type": "added",
-        "text": "What happens if a transaction is reversed?"
-      },
-      {
-        "type": "added",
-        "text": "Reversal is adjusted in next statement and affects EMI conversion based on net amount."
-      },
-      {
-        "type": "added",
-        "text": "Will I earn reward points?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, 3X accelerated reward points are credited in the next billing cycle."
-      },
-      {
-        "type": "added",
-        "text": "What is the reward point value?"
-      },
-      {
-        "type": "added",
-        "text": "₹0.15 for travel/vouchers and ₹0.10 for cashback redemption."
-      },
-      {
-        "type": "added",
-        "text": "Are there redemption conditions?"
-      },
-      {
-        "type": "added",
-        "text": "Minimum 500 points required for cashback, validity 24 months, ₹99 redemption fee applicable."
-      },
-      {
-        "type": "added",
-        "text": "Billing Cycle +"
-      },
-      {
-        "type": "added",
-        "text": "Can I change my billing cycle for my credit card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, you have the option to change your billing cycle for your credit card, allowing you to better align your billing and payment due dates with your financial planning needs."
-      },
-      {
-        "type": "added",
-        "text": "How many times can I change my billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "You can request a billing cycle change only once per credit card, so it is important to carefully choose the most suitable option before confirming your request."
-      },
-      {
-        "type": "added",
-        "text": "How can I request a billing cycle change?"
-      },
-      {
-        "type": "added",
-        "text": "You can request a billing cycle change through the Mobile Banking (MB) App or by contacting the Customer Care Centre (CCC), making the process simple and convenient."
-      },
-      {
-        "type": "added",
-        "text": "What billing cycle dates are available for selection?"
-      },
-      {
-        "type": "added",
-        "text": "You can choose from the available billing cycle dates which include the 5th, 12th, 13th, 14th, 15th, 16th, 18th, 20th, and 25th of the month."
-      },
-      {
-        "type": "added",
-        "text": "Can I select a billing cycle date outside the available options?"
-      },
-      {
-        "type": "added",
-        "text": "No, you can only select from the predefined billing cycle dates provided by the bank, and requests for any other dates will not be accepted."
-      },
-      {
-        "type": "added",
-        "text": "When will the new billing cycle be applied?"
-      },
-      {
-        "type": "added",
-        "text": "The revised billing cycle will typically be implemented in the next billing period after your request is processed, depending on system timelines."
-      },
-      {
-        "type": "added",
-        "text": "Can I change my billing cycle again later?"
-      },
-      {
-        "type": "added",
-        "text": "No, as per policy, only one billing cycle change is allowed per credit card, and further changes will not be permitted once it has been updated."
-      },
-      {
-        "type": "added",
-        "text": "Will my payment due date change if I update my billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, your payment due date will change accordingly since it is directly linked to your selected billing cycle."
-      },
-      {
-        "type": "added",
-        "text": "Is there any fee for changing the billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "Currently, there is no specific fee mentioned for changing the billing cycle, but customers are advised to check the latest terms and conditions or confirm during the request."
-      },
-      {
-        "type": "added",
-        "text": "What factors should I consider before changing my billing cycle?"
-      },
-      {
-        "type": "added",
-        "text": "You should consider your salary credit date, repayment capacity, and existing financial commitments before selecting a new billing cycle, to ensure it aligns with your repayment convenience."
-      },
-      {
-        "type": "added",
-        "text": "MCC Codes +"
-      },
-      {
-        "type": "added",
-        "text": "How are reward points calculated for my transactions?"
-      },
-      {
-        "type": "added",
-        "text": "Reward points, including accelerated rewards, are calculated based on the Merchant Category Code (MCC) assigned to the merchant where the transaction is made, which determines the applicable reward category."
-      },
-      {
-        "type": "added",
-        "text": "What is a Merchant Category Code (MCC)?"
-      },
-      {
-        "type": "added",
-        "text": "An MCC is a four-digit code assigned to merchants based on their primary business activity, which helps the bank classify transactions and determine rewards eligibility."
-      },
-      {
-        "type": "added",
-        "text": "Why is MCC important for earning rewards?"
-      },
-      {
-        "type": "added",
-        "text": "The MCC helps determine whether your transaction qualifies for accelerated rewards, as reward categories are mapped to specific MCC codes defined by the bank."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Dining category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be classified under Dining if the merchant falls under MCCs 5462, 5812, or 5814, as defined by the bank for reward eligibility."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Apparel category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be considered under Apparel if they fall under MCCs 5311, 5611, 5621, 5641, 5651, 5691, 5655, 5631, or 5699."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Grocery category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be categorized as Grocery if they fall under MCCs 5399, 5411, 5441, 5499, 5311, 5331, 5422, or 5451 as per the defined criteria."
-      },
-      {
-        "type": "added",
-        "text": "Which MCCs are included in the Utility category?"
-      },
-      {
-        "type": "added",
-        "text": "Transactions will be considered under Utility if the merchant falls under MCCs 4814 or 4900."
-      },
-      {
-        "type": "added",
-        "text": "Which MCC is applicable for Taxi category?"
-      },
-      {
-        "type": "added",
-        "text": "Taxi-related transactions will be classified under MCC 4121 for rewards eligibility."
-      },
-      {
-        "type": "added",
-        "text": "Will all transactions in a category always earn accelerated rewards?"
-      },
-      {
-        "type": "added",
-        "text": "Not necessarily, as rewards are based on the MCC assigned to the merchant and not solely on the type of product or service purchased."
-      },
-      {
-        "type": "added",
-        "text": "What if a transaction is classified under a different MCC?"
-      },
-      {
-        "type": "added",
-        "text": "If a transaction is tagged under a different MCC by the merchant’s acquiring bank, it may not qualify for accelerated rewards even if it appears to belong to a selected category."
-      },
-      {
-        "type": "added",
-        "text": "Can the bank change the MCC of a transaction?"
-      },
-      {
-        "type": "added",
-        "text": "No, the MCC is assigned by the merchant’s acquiring bank or payment network and cannot be modified by the card-issuing bank."
-      },
-      {
-        "type": "added",
-        "text": "What happens if a transaction does not match selected categories?"
-      },
-      {
-        "type": "added",
-        "text": "If a transaction does not fall under the selected categories based on MCC mapping, it will still earn base reward points but not accelerated rewards."
-      },
-      {
-        "type": "added",
-        "text": "Spend Waiver +"
-      },
-      {
-        "type": "added",
-        "text": "Is there a joining fee for the credit card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, a joining fee will be charged to the cardholder at the time of card issuance; however, this fee is eligible for reversal if the required spend condition is fulfilled within the specified timeline."
-      },
-      {
-        "type": "added",
-        "text": "How can I get my joining fee reversed for Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "The joining fee will be reversed if you spend ₹1,20,000 within 90 days from the date of card activation, as per the defined eligibility criteria."
-      },
-      {
-        "type": "added",
-        "text": "How will the joining fee be reversed?"
-      },
-      {
-        "type": "added",
-        "text": "The joining fee will be reversed in the form of cashback in the subsequent billing cycle after meeting the spend criteria, excluding applicable GST charges."
-      },
-      {
-        "type": "added",
-        "text": "Will GST on the joining fee also be reversed?"
-      },
-      {
-        "type": "added",
-        "text": "No, GST applicable on the joining fee will not be reversed and will have to be borne by the cardholder as per government regulations."
-      },
-      {
-        "type": "added",
-        "text": "What is the annual fee waiver condition for Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "The annual fee will be waived if you achieve a total spend of ₹4,80,000 in the preceding anniversary year of your credit card."
-      },
-      {
-        "type": "added",
-        "text": "When will the annual fee waiver be applied?"
-      },
-      {
-        "type": "added",
-        "text": "The annual fee waiver will be evaluated based on your spending in the previous card anniversary year and will be applied accordingly in the subsequent cycle."
-      },
-      {
-        "type": "added",
-        "text": "Will GST be reversed in case of annual fee waiver?"
-      },
-      {
-        "type": "added",
-        "text": "No, even if the annual fee is waived or reversed, the GST component will not be reversed and will continue to be payable by the cardholder."
-      },
-      {
-        "type": "added",
-        "text": "What happens if I do not meet the spend criteria for fee reversal?"
-      },
-      {
-        "type": "added",
-        "text": "If the required spend criteria is not met within the given timeframe, the joining or annual fee will not be reversed and will be charged as applicable."
-      },
-      {
-        "type": "added",
-        "text": "What is the annual fee waiver condition for Selfe credit card?"
-      },
-      {
-        "type": "added",
-        "text": "The annual fee for the credit card will be waived if the customer achieves a total spend of ₹2,40,000 in the preceding anniversary year of the card."
-      },
-      {
-        "type": "added",
-        "text": "What does &#x27;preceding anniversary year&#x27; mean?"
-      },
-      {
-        "type": "added",
-        "text": "The preceding anniversary year refers to the 12-month period immediately before your card renewal date, during which your total spends are evaluated for waiver eligibility."
-      },
-      {
-        "type": "added",
-        "text": "What happens if I do not reach ₹2,40,000 spend?"
-      },
-      {
-        "type": "added",
-        "text": "If your total eligible spends do not reach ₹2,40,000 in the preceding year, the annual fee will be charged as applicable and will not be waived."
-      },
-      {
-        "type": "added",
-        "text": "Do all transactions count towards the annual fee waiver spend?"
-      },
-      {
-        "type": "added",
-        "text": "Only eligible transactions as defined by the bank will be considered for calculating the total spend required for the annual fee waiver."
-      },
-      {
-        "type": "added",
-        "text": "Insurance +"
-      },
-      {
-        "type": "added",
-        "text": "What insurance benefit is available on my credit card?"
-      },
-      {
-        "type": "added",
-        "text": "Your credit card offers a Lost Card Liability cover of up to ₹10 lakhs(varies basis credit card ), protecting you against unauthorized transactions in case your card is lost or stolen, subject to policy terms."
-      },
-      {
-        "type": "added",
-        "text": "Who is eligible for this insurance coverage?"
-      },
-      {
-        "type": "added",
-        "text": "This insurance benefit is applicable only to the primary cardholder and is not available for add-on or supplementary cardholders."
-      },
-      {
-        "type": "added",
-        "text": "What is covered under the Lost Card Liability policy?"
-      },
-      {
-        "type": "added",
-        "text": "The policy covers unauthorized transactions made using your lost or stolen card, up to the specified coverage limit, as per the policy terms and conditions."
-      },
-      {
-        "type": "added",
-        "text": "When does the insurance coverage become active?"
-      },
-      {
-        "type": "added",
-        "text": "The insurance coverage becomes active only after you complete either your first card transaction, PIN setup, or card activation."
-      },
-      {
-        "type": "added",
-        "text": "Will I be covered if I have not activated or used my card?"
-      },
-      {
-        "type": "added",
-        "text": "No, the insurance benefit will not be active until the card is activated, PIN is set, or the first transaction is completed."
-      },
-      {
-        "type": "added",
-        "text": "Is there a maximum coverage limit under this policy?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, the Lost Card Liability coverage is available up to a maximum of ₹10,00,000 as per the policy terms."
-      },
-      {
-        "type": "added",
-        "text": "Where can I check the detailed policy terms and conditions?"
-      },
-      {
-        "type": "added",
-        "text": "You can refer to the policy document provided by the bank at https://equitas.bank.in/complimentary-insurance-policy/ to understand detailed coverage, exclusions, and claim process."
-      },
-      {
-        "type": "added",
-        "text": "What should I do if my card is lost or stolen?"
-      },
-      {
-        "type": "added",
-        "text": "In case your card is lost or stolen, you should immediately block your card through the mobile banking app or contact customer care and follow the claim process as per the policy."
-      },
-      {
-        "type": "added",
-        "text": "Reward Redemption +"
-      },
-      {
-        "type": "added",
-        "text": "How can I redeem my reward points?"
-      },
-      {
-        "type": "added",
-        "text": "You can redeem your reward points for travel bookings, gift vouchers, catalogue purchases, cashback against your card statement, or instant redemption at partner merchants."
-      },
-      {
-        "type": "added",
-        "text": "What is the value of each reward point for a Selfe Card?"
-      },
-      {
-        "type": "added",
-        "text": "The value of each reward point varies by redemption type, with travel, vouchers, and catalogue redemptions valuing ₹0.35 per point, while cashback and instant redemption value ₹0.15 per point."
-      },
-      {
-        "type": "added",
-        "text": "Is the reward point value the same for all redemption options?"
-      },
-      {
-        "type": "added",
-        "text": "No, the reward point value differs depending on the redemption option selected, with higher value typically available for travel and vouchers."
-      },
-      {
-        "type": "added",
-        "text": "Is there a minimum number of points required for redemption?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, a minimum of 500 reward points is required for redeeming points as cashback against your card statement."
-      },
-      {
-        "type": "added",
-        "text": "Do reward points expire for Tiga and Selfe Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, reward points expire after 24 months from the date they are earned if they are not redeemed within this period."
-      },
-      {
-        "type": "added",
-        "text": "Do reward points expire for Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, reward points expire after 36 months from the date they are earned if they are not redeemed within this period."
-      },
-      {
-        "type": "added",
-        "text": "Is there any fee for redeeming reward points?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, a redemption fee of ₹99 per transaction will be charged whenever reward points are redeemed."
-      },
-      {
-        "type": "added",
-        "text": "Can redeemed reward points be reversed?"
-      },
-      {
-        "type": "added",
-        "text": "No, once reward points are redeemed, they cannot be reversed, cancelled, or reissued."
-      },
-      {
-        "type": "added",
-        "text": "Can I use reward points instantly while making a purchase?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, you can use reward points for instant redemption at select partner merchants during transactions."
-      },
-      {
-        "type": "added",
-        "text": "What happens if my reward points expire?"
-      },
-      {
-        "type": "added",
-        "text": "If reward points expire after 24 months for Tiga & Selfe and 36 months for Powermiles, they will be forfeited and cannot be reinstated or used later."
-      },
-      {
-        "type": "added",
-        "text": "How do I earn reward points on my Powermiles credit card?"
-      },
-      {
-        "type": "added",
-        "text": "You will earn 3 reward points for every ₹100 spent on eligible retail transactions, helping you accumulate points on your everyday spending."
-      },
-      {
-        "type": "added",
-        "text": "Do I earn additional rewards on international transactions on my Powermiles card?"
-      },
-      {
-        "type": "added",
-        "text": "Yes, you will earn 3X accelerated reward points on eligible international transactions, allowing you to earn rewards faster compared to domestic spends."
-      },
-      {
-        "type": "added",
-        "text": "Are all transactions eligible for earning reward points?"
-      },
-      {
-        "type": "added",
-        "text": "No, transactions such as fuel, rent, wallet loads, government payments, cash advances, and EMI conversions are excluded from earning reward points unless specified otherwise."
-      },
-      {
-        "type": "added",
-        "text": "What is the value of each reward point for a Powermiles Card?"
-      },
-      {
-        "type": "added",
-        "text": "The value of each reward point depends on redemption type: ₹0.50 per point for travel, vouchers, and catalogue, and ₹0.25 per point for cashback or instant redemption."
-      },
-      {
-        "type": "ellipsis",
-        "text": "… diff truncated (17 more lines) …"
       }
     ],
     "community": {

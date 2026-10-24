@@ -134,8 +134,8 @@
     "https://www.icici.bank.in/personal-banking/cards/debit-card/debit-card-atm-security": "2026-02-04",
     "https://www.icici.bank.in/personal-banking/cards/debit-card/debit-card-online-security": "2026-02-26",
     "https://www.icici.bank.in/personal-banking/cards/debit-card/re-issue-of-lost-atm": "2026-04-09",
-    "https://www.icici.bank.in/personal-banking/cards/travel-card/sapphiro-travel-card": "2026-10-17",
-    "https://www.icici.bank.in/personal-banking/cards/travel-card/insurance-policy": "2026-03-25",
+    "https://www.icici.bank.in/personal-banking/cards/travel-card/sapphiro-travel-card": "2026-10-22",
+    "https://www.icici.bank.in/personal-banking/cards/travel-card/insurance-policy": "2026-10-22",
     "https://www.icici.bank.in/personal-banking/cards/prepaid-card/umang-card": "2026-08-13",
     "https://www.icici.bank.in/personal-banking/cards/prepaid-card/umang-card/services-and-fees": "2026-05-13",
     "https://www.icici.bank.in/personal-banking/cards/prepaid-card/umang-card/features": "2026-03-27",
@@ -175,8 +175,8 @@
     "https://www.icici.bank.in/personal-banking/cards/prepaid-card/companion-card/avail-and-activate": "2026-03-24",
     "https://www.icici.bank.in/personal-banking/cards/prepaid-card/pockets": "2026-09-30",
     "https://www.icici.bank.in/personal-banking/cards/prepaid-card/documents": "2026-04-28",
-    "https://www.icici.bank.in/personal-banking/cards/forex-cards/student-travel-card/online-payments": "2025-04-25",
-    "https://www.icici.bank.in/personal-banking/cards/forex-cards/student-travel-card/payment-at-merchant": "2026-02-13",
+    "https://www.icici.bank.in/personal-banking/cards/forex-cards/student-travel-card/online-payments": "2026-10-22",
+    "https://www.icici.bank.in/personal-banking/cards/forex-cards/student-travel-card/payment-at-merchant": "2026-10-22",
     "https://www.icici.bank.in/personal-banking/loans/kisan-credit-card": "2026-07-13",
     "https://www.icici.bank.in/personal-banking/loans/kisan-credit-card/service-charges": "2026-06-04",
     "https://www.icici.bank.in/nri-banking/nriedge/nri-articles/credit-card-for-nris-all-you-need-to-know": "2026-03-24",
@@ -1125,5 +1125,5 @@
     "https://www.icici.bank.in/personal-banking/card/credit-card/ferrari-signature": "2023-08-23",
     "https://www.icici.bank.in/personal-banking/card/credit-card/benefits-and-features": "2025-03-19"
   },
-  "updatedAt": "2026-10-23T08:47:20.852Z"
+  "updatedAt": "2026-10-24T08:18:33.120Z"
 }

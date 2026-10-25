@@ -1,71 +1,71 @@
 {
   "pages": {
     "https://www.federal.bank.in/visa-celesta-credit-card": {
-      "hash": "84110c2840d1c1dceac7d212d84e53a4715cf940bd1f258498292c704b70cfbf",
-      "text": "Incident ID: 1534ebd5-e42i-4fe4-9bd9-eadb4d86a8a8\nhttps://www.federal.bank.in/visa-celesta-credit-card from\nOctober 23 2026, 08:36:10 UTC",
+      "hash": "f302c18dde9dd32ae18e8b5cd49a336e4f0dca9c5d8527c6becedecc135df4e6",
+      "text": "ed1a8494-e42i-4af2-87b3-fa513b41daf1",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-23T08:36:17.888Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.865Z"
     },
     "https://www.federal.bank.in/visa-imperio-credit-card": {
-      "hash": "8d0e43fdb47b2aeb89965ee254fc7c4592885e482591e72545274cdef56d72e6",
-      "text": "Incident ID: dd5671f5-e42i-4f34-9d39-d6f8aeae98fb\nhttps://www.federal.bank.in/visa-imperio-credit-card from\nOctober 24 2026, 08:10:07 UTC",
+      "hash": "2358939af7dc8d61b5f2cb7fcf3052bc25193b14af7603f4051b6a2746cc0a68",
+      "text": "21bd29f3-e42i-47df-8aa5-51e6af371d67",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-24T08:10:13.925Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     },
     "https://www.federal.bank.in/visa-signet-credit-card": {
-      "hash": "5b43c8044d1622552502ca0d2aef8e82abdda5a647238a2e6cfa275c0e8ac91e",
-      "text": "Incident ID: 64dceca1-e42i-4c38-a54c-39d5530016ef\nhttps://www.federal.bank.in/visa-signet-credit-card from\nOctober 23 2026, 08:36:11 UTC",
+      "hash": "6b235c21eb86cbc35d322c3cab0573fbaade97a071ac14d27b04d3e604ea75d0",
+      "text": "f3d40adb-e42i-474c-b1e3-476527abfe29",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-23T08:36:17.888Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     },
     "https://www.federal.bank.in/fed-starbiz-credit-card-visa": {
-      "hash": "1aeb65b0426f69d4f8e86766c7bf8c591441ff0d3e2fa4556fb7251aa2251690",
-      "text": "Incident ID: d2703cbd-e42i-4963-8bf5-01b076b99a99\nhttps://www.federal.bank.in/fed-starbiz-credit-card-visa from\nOctober 24 2026, 08:10:08 UTC",
+      "hash": "3549819cc51d2fdd454a57af2632a0332c5425505da6e12103681c80b3c0f119",
+      "text": "Incident ID: 70b7f92b-e42i-4386-b003-08b47b4fb050\nhttps://www.federal.bank.in/fed-starbiz-credit-card-visa from\n52.234.41.65 on\nOctober 25 2026, 08:27:25 UTC",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-24T08:10:13.926Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     },
     "https://www.federal.bank.in/celesta-credit-card": {
-      "hash": "b673f2d227c300ad5c13fd5390ec21e5a1ed96c4ffdab825670a7bbbde63f628",
-      "text": "Incident ID: ba941e19-e42i-4a62-abb0-8a79610e73b6\nhttps://www.federal.bank.in/celesta-credit-card from\nOctober 23 2026, 08:36:13 UTC",
+      "hash": "750e1860db1e58451e4db442bd8e9ef999a00ff1b14bb9c4924d4956e7dce673",
+      "text": "d9250666-e42i-47c0-8cbe-1fda6a4811b2",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-23T08:36:17.888Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     },
     "https://www.federal.bank.in/imperio-credit-card": {
-      "hash": "17355622568a74b940c45b56d819709812464362d43d882fa305b6efe00bc36f",
-      "text": "Incident ID: c00fc461-e42i-48b8-8005-86137b8c6a08\nhttps://www.federal.bank.in/imperio-credit-card from\nOctober 24 2026, 08:10:10 UTC",
+      "hash": "a4607e8a5694b8c8520d085397385b98ff5863d22911f4b2490d90bf4c0d2b5f",
+      "text": "98c9464e-e42i-45ae-ac34-f0bee80654dd",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-24T08:10:13.926Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     },
     "https://www.federal.bank.in/signet-credit-card": {
-      "hash": "870d0ce50c3d365af0a8bab1b98e197707fc945ca6a648e4c2539db5aba99ad9",
-      "text": "Incident ID: 55b04e5a-e42i-4c32-aa65-775e5a7e5af2\nhttps://www.federal.bank.in/signet-credit-card from\nOctober 24 2026, 08:10:10 UTC",
+      "hash": "bbf98834c5d2d33f25c223db915dd661224ca55944555deb67b39de5e3a75931",
+      "text": "Incident ID: f6b2a9d7-e42i-4f5c-b547-1c2e02f9bc29\nhttps://www.federal.bank.in/signet-credit-card from\n52.234.41.65 on\nOctober 25 2026, 08:27:28 UTC",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-24T08:10:13.926Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     },
     "https://www.federal.bank.in/rupay-signet-credit-card": {
-      "hash": "f718e8c4cb2bd0dbcb3b22f2e8ddf611d68291179b42960ef2041cb362a06cd2",
-      "text": "Incident ID: 85a2f9bc-e42i-4b37-8fbc-6e06a4a7dc8a\nhttps://www.federal.bank.in/rupay-signet-credit-card from\nOctober 24 2026, 08:10:11 UTC",
+      "hash": "1842deea77969479c5b004d1dcb4548a05ec0e35affe823a14ee141964153ab0",
+      "text": "aee26514-e42i-4374-be59-fdcca58ff328",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-24T08:10:13.926Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     },
     "https://www.federal.bank.in/rupay-wave-credit-card": {
-      "hash": "b22d1223bfce554b66d3c80be31110a6ce257c4b8a63526367db925c9db93aa1",
-      "text": "Incident ID: 980119e9-e42i-46b7-9a94-920679220845\nhttps://www.federal.bank.in/rupay-wave-credit-card from\nOctober 24 2026, 08:10:12 UTC",
+      "hash": "62143800d5983752466f9b2a92b704bee6b1b1ed2efa000f3cb6fc6814ba1ee3",
+      "text": "028d0c3f-e42i-49b8-a8c2-7b4c155c2d88",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-24T08:10:13.926Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     },
     "https://www.federal.bank.in/fed-starbiz-credit-card-rupay": {
-      "hash": "f14744ad2cba1ab0c0b67904534f33d5193355f0e6cab4e5c26dc46736c0ea69",
-      "text": "Incident ID: eebba9a4-e42i-48c4-9f00-85e2e9686836\nhttps://www.federal.bank.in/fed-starbiz-credit-card-rupay from\nOctober 24 2026, 08:10:13 UTC",
+      "hash": "b60a99777dc606b70e18aed6166605d6c96d80a90a2a050b6cf356f9ae7fe25e",
+      "text": "Incident ID: b12e7e35-e42i-4522-a526-45b19707f965\nhttps://www.federal.bank.in/fed-starbiz-credit-card-rupay from\n52.234.41.65 on\nOctober 25 2026, 08:27:31 UTC",
       "firstSeenAt": "2026-08-11T11:07:55.247Z",
-      "lastCheckedAt": "2026-10-24T08:10:13.926Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     },
     "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc": {
-      "hash": "be70062da9914afd79bf0ef3aac81b8129b17ff9a8c6090cd6e0cb10e15520bd",
-      "text": "Incident ID: 13b0a195-e42i-417e-949b-170795dd894b\nhttps://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from\nOctober 24 2026, 08:10:13 UTC",
+      "hash": "bcb6a009705a3d198031f74b223c19ac08f85f976d302592ace925ce0b9261e1",
+      "text": "Incident ID: c70d729e-e42i-4ad6-bf79-2bced68d3976\nhttps://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from\n52.234.41.65 on\nOctober 25 2026, 08:27:31 UTC",
       "firstSeenAt": "2026-09-25T08:51:50.919Z",
-      "lastCheckedAt": "2026-10-24T08:10:13.926Z"
+      "lastCheckedAt": "2026-10-25T08:27:31.866Z"
     }
   },
-  "updatedAt": "2026-10-24T08:10:13.926Z"
+  "updatedAt": "2026-10-25T08:27:31.866Z"
 }

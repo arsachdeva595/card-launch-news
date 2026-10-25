@@ -1,6 +1,6 @@
 {
   "frequencyDays": 1,
-  "lastRunAt": "2026-10-24T08:18:33.756Z",
+  "lastRunAt": "2026-10-25T08:34:53.475Z",
   "siteUrl": "https://arsachdeva595.github.io/card-launch-news/",
   "candidatePatterns": {
     "note": "URL path substrings that suggest a new sitemap entry is a credit card product page rather than an unrelated page (blog, offers, T&Cs, etc). Matching is case-insensitive substring match against the URL path.",

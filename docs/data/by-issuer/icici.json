@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "emeralde-private-metal-credit-card",
+    "card_name": "Emeralde Private Metal Credit Card",
+    "issuer": "icici",
+    "change_type": "benefit-change",
+    "summary": "Updated golf, lounge, and BOGO benefits to monthly/quarterly terms and changed priority pass card name.",
+    "status": "verified",
+    "official_link": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1x32um2/update_on_icici_bank_1838_reserve_credit_card/",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-10-27",
+    "edition_permalink": null
+  },
+  {
     "card_slug": "icici-bank-credit-card-bill-payment-online",
     "card_name": "Credit Card Bill Payment Online",
     "issuer": "icici",

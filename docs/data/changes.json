@@ -1,5 +1,1431 @@
 [
   {
+    "id": "idfc-first-bank-diamond-reserve-credit-card",
+    "cardName": "Diamond Reserve Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/diamond-reserve-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-27T09:05:07.747Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Complimentary memberships and discounts on leading brands on joining fee payment"
+      },
+      {
+        "type": "context",
+        "text": "View Terms & Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "5% Cashback on EMI"
+      },
+      {
+        "type": "removed",
+        "text": "Get up to ₹1,000 cashback on your first"
+      },
+      {
+        "type": "removed",
+        "text": "EMI transaction"
+      },
+      {
+        "type": "removed",
+        "text": "View Terms & Conditions"
+      },
+      {
+        "type": "context",
+        "text": "Surcharge waiver, insurances"
+      },
+      {
+        "type": "context",
+        "text": "and much more"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed 5% cashback on EMI and ₹1,000 first-transaction cashback."
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-emeralde-credit-card",
+    "cardName": "ICICI Bank Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/article/news-icici-bank-launches-new-superpremium-credit-card-emeralde-with-host-of-exclusive-features-annual-benefits-estimated-to-be-around-rs-3-lakh-20192802121546057",
+    "status": "Active",
+    "detectedAt": "2026-10-27T09:04:32.408Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "No cancellation charges on travel and hotel booking"
+      },
+      {
+        "type": "context",
+        "text": "Emeralde Credit Card: Maximum Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "removed",
+        "text": "Up to 4 rounds"
+      },
+      {
+        "type": "removed",
+        "text": "Get complimentary golf rounds every month basis eligible spends,  Click here for list of Golf Courses"
+      },
+      {
+        "type": "removed",
+        "text": "Four times every month"
+      },
+      {
+        "type": "removed",
+        "text": "Buy one ticket and get up to ₹750 off on the second ticket through BookMyShow"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary International airport lounge access for the Primary Cardholders. For lounge list,   Click here"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders. For lounge list,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "added",
+        "text": "Get 4 complimentary Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "added",
+        "text": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Shopping voucher from TATA CLiQ worth ₹5,000 (American Express Cardholders)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Up to ₹3 crore"
+      },
+      {
+        "type": "context",
+        "text": "Get an Air Accident Insurance cover."
+      },
+      {
+        "type": "removed",
+        "text": "Click here  to update your Nominee details. Click here for T&Cs"
+      },
+      {
+        "type": "added",
+        "text": "Click here  to update your Nominee details. For T&C’s     Click here"
+      },
+      {
+        "type": "context",
+        "text": "Earn and use points"
+      },
+      {
+        "type": "context",
+        "text": "4"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Spends period offer - eligibility period"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "removed",
+        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  c lick he re ."
+      },
+      {
+        "type": "added",
+        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  c lick he re ."
+      },
+      {
+        "type": "context",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "context",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Apoorv Gupta"
+      },
+      {
+        "type": "context",
+        "text": "The ICICI Bank Platinum Credit Card is a true gem. The lifestyle benefits, including complimentary airport lounge access and travel vouchers."
+      },
+      {
+        "type": "removed",
+        "text": "Feedback pop 1"
+      },
+      {
+        "type": "removed",
+        "text": "One"
+      },
+      {
+        "type": "removed",
+        "text": "May be later"
+      },
+      {
+        "type": "removed",
+        "text": "CTA"
+      },
+      {
+        "type": "removed",
+        "text": "Want us to call you back?"
+      },
+      {
+        "type": "removed",
+        "text": "Give us a few details for us to help you!"
+      },
+      {
+        "type": "removed",
+        "text": "Are you an NRI?*"
+      },
+      {
+        "type": "removed",
+        "text": "First Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Last Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Country*"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "Algeria"
+      },
+      {
+        "type": "removed",
+        "text": "Andorra"
+      },
+      {
+        "type": "removed",
+        "text": "Afghanistan"
+      },
+      {
+        "type": "removed",
+        "text": "Antigua and Barbuda"
+      },
+      {
+        "type": "removed",
+        "text": "Anguilla"
+      },
+      {
+        "type": "removed",
+        "text": "Albania"
+      },
+      {
+        "type": "removed",
+        "text": "Netherlands Antilles"
+      },
+      {
+        "type": "removed",
+        "text": "Angola"
+      },
+      {
+        "type": "removed",
+        "text": "Argentina"
+      },
+      {
+        "type": "removed",
+        "text": "Aruba"
+      },
+      {
+        "type": "removed",
+        "text": "American Samoa"
+      },
+      {
+        "type": "removed",
+        "text": "Austria"
+      },
+      {
+        "type": "removed",
+        "text": "Australia"
+      },
+      {
+        "type": "removed",
+        "text": "Azerbaijan"
+      },
+      {
+        "type": "removed",
+        "text": "{{! }}"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "+"
+      },
+      {
+        "type": "removed",
+        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
+      },
+      {
+        "type": "removed",
+        "text": "Email*"
+      },
+      {
+        "type": "removed",
+        "text": "Product*"
+      },
+      {
+        "type": "removed",
+        "text": "Select a Product"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select Product"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Property Purchase Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Land Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Commercial Property Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "Email ID*"
+      },
+      {
+        "type": "removed",
+        "text": "Product Type"
+      },
+      {
+        "type": "removed",
+        "text": "Pincode*"
+      },
+      {
+        "type": "removed",
+        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
+      },
+      {
+        "type": "removed",
+        "text": "Enter OTP"
+      },
+      {
+        "type": "removed",
+        "text": "GET OTP"
+      },
+      {
+        "type": "removed",
+        "text": "RESEND OTP in 1:00"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated lounge, golf, and BookMyShow benefits, and nominee link wording."
+    }
+  },
+  {
+    "id": "icici-bank-emirates-emeralde-credit-card",
+    "cardName": "Emirates Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-27T09:04:32.400Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Annual Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Get 10,000 Skywards Miles on Annual renewal"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary International airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list, Click here"
+      },
+      {
+        "type": "context",
+        "text": "Promo Code"
+      },
+      {
+        "type": "removed",
+        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com,  Click here  to know more"
+      },
+      {
+        "type": "removed",
+        "text": "Four times every month"
+      },
+      {
+        "type": "removed",
+        "text": "Buy one ticket and get up to ₹750 off on the second ticket through BookMyShow"
+      },
+      {
+        "type": "added",
+        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com, To know more  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "added",
+        "text": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Milestone Reward"
+      },
+      {
+        "type": "removed",
+        "text": "Emirates Gold Tier Membership after a spend of ₹15 lakh (including minimum ₹50,000 on Emirates.com) in the anniversary year."
+      },
+      {
+        "type": "added",
+        "text": "Emirates Gold Tier Membership after a spend of ₹15 lakh (including minimum ₹50,000 on Emirates.com) in the anniversary year."
+      },
+      {
+        "type": "context",
+        "text": "1% Fuel Surcharge"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel surcharge on all fuel transactions of up to ₹4,000 at any fuel outlet"
+      },
+      {
+        "type": "added",
+        "text": "Fuel surcharge on all fuel transactions of up to ₹4,000 at any fuel outlet"
+      },
+      {
+        "type": "context",
+        "text": "Earn Emirates Skywards miles on every ₹100 spend"
+      },
+      {
+        "type": "context",
+        "text": "2"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Spends period offer - eligibility period"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "removed",
+        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
+      },
+      {
+        "type": "added",
+        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
+      },
+      {
+        "type": "context",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "context",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated lounge access and discount benefit descriptions, adding quarterly and monthly terms."
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-signature-credit-card",
+    "cardName": "Adani One Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-27T09:04:32.398Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Spends period offer - eligibility period"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "removed",
+        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
+      },
+      {
+        "type": "added",
+        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
+      },
+      {
+        "type": "context",
+        "text": "Plus (Add-On) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "context",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed dual-network movie offer benefit."
+    }
+  },
+  {
+    "id": "icici-bank-sapphiro-credit-card",
+    "cardName": "Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
+    "status": "Active",
+    "detectedAt": "2026-10-27T09:04:32.392Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy 2 complimentary international airport lounge access visits with ICICI Bank Sapphiro Credit Card. Complimentary benefits are applicable only for the primary cardholder."
+      },
+      {
+        "type": "context",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Priority Pass Membership for both the primary cardholder with ICICI Bank Sapphiro Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Access 1,900+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added Complimentary Priority Pass Membership for the primary cardholder of the ICICI Bank Sapphiro Credit Card."
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-credit-card",
+    "cardName": "Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-27T09:04:32.390Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "No cancellation charges on travel and hotel booking"
+      },
+      {
+        "type": "context",
+        "text": "Emeralde Credit Card: Maximum Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited access"
+      },
+      {
+        "type": "removed",
+        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
+      },
+      {
+        "type": "removed",
+        "text": "Up to 4 rounds"
+      },
+      {
+        "type": "removed",
+        "text": "Get complimentary golf rounds every month basis eligible spends,  Click here for list of Golf Courses"
+      },
+      {
+        "type": "removed",
+        "text": "Four times every month"
+      },
+      {
+        "type": "removed",
+        "text": "Buy one ticket and get up to ₹750 off on the second ticket through BookMyShow"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary International airport lounge access for the Primary Cardholders. For lounge list,   Click here"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders. For lounge list,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "added",
+        "text": "Get 4 complimentary Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "added",
+        "text": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Shopping voucher from TATA CLiQ worth ₹5,000 (American Express Cardholders)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Up to ₹3 crore"
+      },
+      {
+        "type": "context",
+        "text": "Get an Air Accident Insurance cover."
+      },
+      {
+        "type": "removed",
+        "text": "Click here  to update your Nominee details. Click here for T&Cs"
+      },
+      {
+        "type": "added",
+        "text": "Click here  to update your Nominee details. For T&C’s     Click here"
+      },
+      {
+        "type": "context",
+        "text": "Earn and use points"
+      },
+      {
+        "type": "context",
+        "text": "4"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Spends period offer - eligibility period"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "removed",
+        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  c lick he re ."
+      },
+      {
+        "type": "added",
+        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  c lick he re ."
+      },
+      {
+        "type": "context",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "context",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Apoorv Gupta"
+      },
+      {
+        "type": "context",
+        "text": "The ICICI Bank Platinum Credit Card is a true gem. The lifestyle benefits, including complimentary airport lounge access and travel vouchers."
+      },
+      {
+        "type": "removed",
+        "text": "Feedback pop 1"
+      },
+      {
+        "type": "removed",
+        "text": "One"
+      },
+      {
+        "type": "removed",
+        "text": "May be later"
+      },
+      {
+        "type": "removed",
+        "text": "CTA"
+      },
+      {
+        "type": "removed",
+        "text": "Want us to call you back?"
+      },
+      {
+        "type": "removed",
+        "text": "Give us a few details for us to help you!"
+      },
+      {
+        "type": "removed",
+        "text": "Are you an NRI?*"
+      },
+      {
+        "type": "removed",
+        "text": "First Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Last Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Country*"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "Algeria"
+      },
+      {
+        "type": "removed",
+        "text": "Andorra"
+      },
+      {
+        "type": "removed",
+        "text": "Afghanistan"
+      },
+      {
+        "type": "removed",
+        "text": "Antigua and Barbuda"
+      },
+      {
+        "type": "removed",
+        "text": "Anguilla"
+      },
+      {
+        "type": "removed",
+        "text": "Albania"
+      },
+      {
+        "type": "removed",
+        "text": "Netherlands Antilles"
+      },
+      {
+        "type": "removed",
+        "text": "Angola"
+      },
+      {
+        "type": "removed",
+        "text": "Argentina"
+      },
+      {
+        "type": "removed",
+        "text": "Aruba"
+      },
+      {
+        "type": "removed",
+        "text": "American Samoa"
+      },
+      {
+        "type": "removed",
+        "text": "Austria"
+      },
+      {
+        "type": "removed",
+        "text": "Australia"
+      },
+      {
+        "type": "removed",
+        "text": "Azerbaijan"
+      },
+      {
+        "type": "removed",
+        "text": "{{! }}"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "+"
+      },
+      {
+        "type": "removed",
+        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
+      },
+      {
+        "type": "removed",
+        "text": "Email*"
+      },
+      {
+        "type": "removed",
+        "text": "Product*"
+      },
+      {
+        "type": "removed",
+        "text": "Select a Product"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select Product"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Property Purchase Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Land Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Commercial Property Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "Email ID*"
+      },
+      {
+        "type": "removed",
+        "text": "Product Type"
+      },
+      {
+        "type": "removed",
+        "text": "Pincode*"
+      },
+      {
+        "type": "removed",
+        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
+      },
+      {
+        "type": "removed",
+        "text": "Enter OTP"
+      },
+      {
+        "type": "removed",
+        "text": "GET OTP"
+      },
+      {
+        "type": "removed",
+        "text": "RESEND OTP in 1:00"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Lounge and golf benefits now offered quarterly and monthly instead of unlimited, with new spend thresholds for golf rounds."
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-private-metal-credit-card",
+    "cardName": "Emeralde Private Metal Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-27T09:04:32.389Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Joining Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Get Taj Epicure Plus Membership, EazyDiner Prime Membership and 12,500 Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Golf rounds"
+      },
+      {
+        "type": "removed",
+        "text": "Get unlimited Golf rounds every month,  Click here for list of Golf Courses"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited lounge access"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited International airport lounge access for both Primary and Plus Card members."
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited lounge access"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Domestic airport lounge access for both Primary and Plus Card members."
+      },
+      {
+        "type": "removed",
+        "text": "Click here for lounge list"
+      },
+      {
+        "type": "removed",
+        "text": "Twice a month"
+      },
+      {
+        "type": "removed",
+        "text": "Buy One Get One up to ₹750 off on BookMyShow. To know the steps, Click here"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "added",
+        "text": "Get unlimited Complimentary Golf rounds/ lesson every month for Primary Cardholders, For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary International airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list, Click here"
+      },
+      {
+        "type": "added",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list, Click here"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "added",
+        "text": "Buy One Get One up to ₹750 off twice a month, on BookMyShow. To know the steps,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Vouchers worth up to ₹6,000"
+      },
+      {
+        "type": "context",
+        "text": "Get 2 EaseMyTrip vouchers on annual spends of ₹8 lakh"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Up to ₹3 crore"
+      },
+      {
+        "type": "context",
+        "text": "Get an Air Accident Insurance cover."
+      },
+      {
+        "type": "removed",
+        "text": "Click here  to update your Nominee details. Click here for T&Cs"
+      },
+      {
+        "type": "added",
+        "text": "Click here  to update your Nominee details. For T&C’s     Click here"
+      },
+      {
+        "type": "context",
+        "text": "Refund of ₹12,000"
+      },
+      {
+        "type": "context",
+        "text": "No cancellation charges on domestic flight and hotel bookings, up to ₹12,000.  Click here"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Private Metal Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with ICICI Bank Emeralde Private Metal Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Access 1,900+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Soumy Dhawan"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Credit Cards are surely one of the best cards out there with an unbeatable reward system. The best part, the quick services they provide."
+      },
+      {
+        "type": "removed",
+        "text": "Feedback pop 1"
+      },
+      {
+        "type": "removed",
+        "text": "One"
+      },
+      {
+        "type": "removed",
+        "text": "May be later"
+      },
+      {
+        "type": "removed",
+        "text": "CTA"
+      },
+      {
+        "type": "removed",
+        "text": "Want us to call you back?"
+      },
+      {
+        "type": "removed",
+        "text": "Give us a few details for us to help you!"
+      },
+      {
+        "type": "removed",
+        "text": "Are you an NRI?*"
+      },
+      {
+        "type": "removed",
+        "text": "First Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Last Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Country*"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "Algeria"
+      },
+      {
+        "type": "removed",
+        "text": "Andorra"
+      },
+      {
+        "type": "removed",
+        "text": "Afghanistan"
+      },
+      {
+        "type": "removed",
+        "text": "Antigua and Barbuda"
+      },
+      {
+        "type": "removed",
+        "text": "Anguilla"
+      },
+      {
+        "type": "removed",
+        "text": "Albania"
+      },
+      {
+        "type": "removed",
+        "text": "Netherlands Antilles"
+      },
+      {
+        "type": "removed",
+        "text": "Angola"
+      },
+      {
+        "type": "removed",
+        "text": "Argentina"
+      },
+      {
+        "type": "removed",
+        "text": "Aruba"
+      },
+      {
+        "type": "removed",
+        "text": "American Samoa"
+      },
+      {
+        "type": "removed",
+        "text": "Austria"
+      },
+      {
+        "type": "removed",
+        "text": "Australia"
+      },
+      {
+        "type": "removed",
+        "text": "Azerbaijan"
+      },
+      {
+        "type": "removed",
+        "text": "{{! }}"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "+"
+      },
+      {
+        "type": "removed",
+        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
+      },
+      {
+        "type": "removed",
+        "text": "Email*"
+      },
+      {
+        "type": "removed",
+        "text": "Product*"
+      },
+      {
+        "type": "removed",
+        "text": "Select a Product"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select Product"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Property Purchase Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Land Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Commercial Property Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "Email ID*"
+      },
+      {
+        "type": "removed",
+        "text": "Product Type"
+      },
+      {
+        "type": "removed",
+        "text": "Pincode*"
+      },
+      {
+        "type": "removed",
+        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
+      },
+      {
+        "type": "removed",
+        "text": "Enter OTP"
+      },
+      {
+        "type": "removed",
+        "text": "GET OTP"
+      },
+      {
+        "type": "removed",
+        "text": "RESEND OTP in 1:00"
+      },
+      {
+        "type": "removed",
+        "text": "ICICI Bank Emeralde Private Metal Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "ICICI Bank Parakram Select Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "ICICI Bank Parakram Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "ICICI Bank Corporate Gold Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "ICICI Bank Corporate Platinum Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Bank Business Micro Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated golf, lounge, and BOGO benefits to monthly/quarterly terms and changed priority pass card name.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Update on ICICI Bank 1838 Reserve Credit Card",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x32um2/update_on_icici_bank_1838_reserve_credit_card/",
+        "description": "Looks like ICICI Bank has updated some details about the upcoming 1838 Reserve credit card. Link: https://www.icici.bank.in/managed-assets/docs/personal/cards/mitc_cc.pdf?ITM=nli_documents_cards_creditCard_documents_na_1_na_na_NLI I was exp"
+      },
+      "via": "reddit"
+    }
+  },
+  {
     "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
     "cardName": "Tata Neu Plus HDFC Bank Credit Card",
     "issuerName": "HDFC Bank",
@@ -1677,100 +3103,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a reward rate of up to 0.3 Airmiles per spend"
-    }
-  },
-  {
-    "id": "icici-bank-icici-bank-emeralde-credit-card",
-    "cardName": "ICICI Bank Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/about-us/article/news-icici-bank-launches-new-superpremium-credit-card-emeralde-with-host-of-exclusive-features-annual-benefits-estimated-to-be-around-rs-3-lakh-20192802121546057",
-    "status": "Active",
-    "detectedAt": "2026-10-12T10:51:44.898Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder with ICICI Bank Emeralde Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added Complimentary Priority Pass Membership for the primary cardholder of the ICICI Bank Emeralde Credit Card."
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-credit-card",
-    "cardName": "Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-12T10:51:44.892Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder with ICICI Bank Emeralde Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added complimentary Priority Pass membership for primary cardholder of ICICI Bank Emeralde Credit Card",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Icici emeralde for zero joining fee",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x01vru/icici_emeralde_for_zero_joining_fee/",
-        "description": "From iMobile app, Im getting ICICI Emeralde card for zero joining fee. Im not inclined to pay the annual fee, can I use it for a year and cancel before the annual fee is charged. Maybe I will continue if the one year experience outweighs th"
-      },
-      "via": "reddit"
     }
   },
   {
@@ -5026,138 +6358,6 @@
     }
   },
   {
-    "id": "icici-bank-adani-one-signature-credit-card",
-    "cardName": "Adani One Signature Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-01T10:12:25.933Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "For every ₹1 lakh spent, get 2 porter services, up to 8 porter services in a year"
-      },
-      {
-        "type": "context",
-        "text": "Annually"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 complimentary international airport lounge access,  Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 complimentary International airport lounge access for the Primary Cardholders. For lounge list,  Click here"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 4 Domestic Airport Lounge access. Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 4 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
-      },
-      {
-        "type": "context",
-        "text": "Worth ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "Earn flight vouchers on spends of ₹25,000 within 60 days of card activation."
-      },
-      {
-        "type": "context",
-        "text": "Worth ₹2,000"
-      },
-      {
-        "type": "context",
-        "text": "Get exclusive Hotel vouchers"
-      },
-      {
-        "type": "removed",
-        "text": "Twice every month"
-      },
-      {
-        "type": "removed",
-        "text": "Buy one ticket & get up to ₹500 off on the second ticket through BookMyShow"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
-      },
-      {
-        "type": "context",
-        "text": "Up to ₹4000"
-      },
-      {
-        "type": "context",
-        "text": "Avail 1% fuel surcharge waiver on all fuel transactions at any fuel outlet"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Apoorv Gupta"
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Platinum Credit Card is a true gem. The lifestyle benefits, including complimentary airport lounge access and travel vouchers."
-      },
-      {
-        "type": "added",
-        "text": "We use cookies to enhance your browsing experience; click OK to continue or Manage to change preferences. Learn more"
-      },
-      {
-        "type": "added",
-        "text": "Manage"
-      },
-      {
-        "type": "added",
-        "text": "Accept"
-      },
-      {
-        "type": "added",
-        "text": "Your Cookie Settings"
-      },
-      {
-        "type": "added",
-        "text": "Select and switch on & off the cookie settings you are comfortable with"
-      },
-      {
-        "type": "added",
-        "text": "These cookies are vital for smooth browsing, faster page loading, and ensuring the website works as it should. This feature is always active."
-      },
-      {
-        "type": "added",
-        "text": "Performance & Statistical"
-      },
-      {
-        "type": "added",
-        "text": "These cookies recognize you, remember your preferences, and track site performance, ensuring proper functionality without direct identification."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated lounge and BookMyShow benefits with new spend thresholds and frequency"
-    }
-  },
-  {
     "id": "icici-bank-coral-credit-card",
     "cardName": "Coral Credit Card",
     "issuerName": "ICICI Bank",
@@ -5639,182 +6839,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a renewal points benefit and changed the reward multiplier wording to ShopWise 3."
-    }
-  },
-  {
-    "id": "icici-bank-sapphiro-credit-card",
-    "cardName": "Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
-    "status": "Active",
-    "detectedAt": "2026-09-25T08:53:46.314Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank Sapphiro Credit Card: Travel and Lifestyle Rewards"
-      },
-      {
-        "type": "added",
-        "text": "Trade Solutions"
-      },
-      {
-        "type": "context",
-        "text": "Best for"
-      },
-      {
-        "type": "context",
-        "text": "Maximum benefits"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Gold Business Card (BCCL-M)"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Business Blue Advantage Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "ICICI Bank Business Micro Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Sapphiro Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Sapphiro Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 2 complimentary international airport lounge access visits with ICICI Bank Sapphiro Credit Card. Complimentary benefits are applicable only for the primary cardholder."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Priority Pass Membership for the primary cardholder with ICICI Bank Sapphiro Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added complimentary Priority Pass Membership for the primary cardholder of the ICICI Bank Sapphiro Credit Card."
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-private-metal-credit-card",
-    "cardName": "Emeralde Private Metal Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-25T08:53:46.313Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank Emeralde Private Metal Credit Card - Apply Online"
-      },
-      {
-        "type": "added",
-        "text": "Trade Solutions"
-      },
-      {
-        "type": "context",
-        "text": "Fees & Charges"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Parakram Select Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Corporate Gold Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Corporate Platinum Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "ICICI Bank Business Micro Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Private Metal Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Private Metal Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Private Metal Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with ICICI Bank Emeralde Private Metal Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added complimentary Priority Pass membership for primary and Plus cardholder."
     }
   },
   {
@@ -8741,38 +9765,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "icici-bank-emirates-emeralde-credit-card",
-    "cardName": "Emirates Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-19T08:06:51.711Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Soumy Dhawan"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Credit Cards are surely one of the best cards out there with an unbeatable reward system. The best part, the quick services they provide."
-      },
-      {
-        "type": "added",
-        "text": "Deceased Claim Settlement"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a deceased claim settlement benefit to the card."
     }
   },
   {
@@ -20723,402 +21715,6 @@
       {
         "type": "added",
         "text": "“Founded by a team of experienced restaurateurs and hoteliers, EazyDiner is India’s leading food discovery, table reservation & restaurant payment platform. It helps users discover great restaurants and bars, get guaranteed reservations within 10 seconds at over 15,000+ restaurants and every reservation comes with a deal, enhancing the dining experience. Diners can earn EazyPoints – EazyDiner’s loyalty program reward points – which can be further redeemed for free meals & free hotel stays. EazyDiner Prime is the award winning dining program which gives customers a guaranteed 25% to 50% off at the hottest bars and restaurants. EazyDiner has also partnered with IndusInd Bank to introduce two co-branded credit cards - Signature on Visa and Platinum on Visa & RuPay platform. These cards provide users with additional benefits, offering savings of up to Rs.1000 OFF on dining experiences, further enhancing the allure of indulging through EazyDiner.”"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-private-invite-only",
-    "cardName": "FIRST Private (Invite Only)",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/FIRSTPrivateCreditCard",
-    "status": "Active",
-    "detectedAt": "2026-07-17T05:57:32.399Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Metal with a Heart of Gold"
-      },
-      {
-        "type": "context",
-        "text": "Welcome to a realm of exceptional indulgence and thoughtfully crafted conveniences designed to mirror your benevolence."
-      },
-      {
-        "type": "removed",
-        "text": "Membership benefits"
-      },
-      {
-        "type": "added",
-        "text": "Fees & Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Travel Privileges"
-      },
-      {
-        "type": "context",
-        "text": "Lifestyle Benefits"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "IDFC FIRST Exclusive"
-      },
-      {
-        "type": "context",
-        "text": "Elevate your elite status with this exclusive invitation-only metal Credit Card."
-      },
-      {
-        "type": "removed",
-        "text": "Commencement Fee (1 st Year): Rs. 50,000 + applicable GST"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee (2 nd Year Onwards): Rs. 50,000 + applicable GST"
-      },
-      {
-        "type": "removed",
-        "text": "Commencement Fee Payment benefits: 50,000 Reward Points and Club ITC Culinaire Hotel Membership #"
-      },
-      {
-        "type": "removed",
-        "text": "# Applicable for cards issued on or after June 1, 2025"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee Payment benefit: 25,000 Reward Points*"
-      },
-      {
-        "type": "removed",
-        "text": "*Applicable for cards renewed on or after July 1, 2025"
-      },
-      {
-        "type": "removed",
-        "text": "Spend Milestone Benefit"
-      },
-      {
-        "type": "removed",
-        "text": "Taj Experiences Signature Dining Voucher Awarded on cumulative spends of ₹15 lakh within the first 6 months of card issuance and renewal"
-      },
-      {
-        "type": "removed",
-        "text": "Know more"
-      },
-      {
-        "type": "removed",
-        "text": "Club ITC Culinaire Hotel Membership Renewed annually upon spends exceeding ₹40 lakhs in previous card anniversary year."
-      },
-      {
-        "type": "added",
-        "text": "Commencement Fee (1 st Year): ₹50,000 + applicable GST"
-      },
-      {
-        "type": "added",
-        "text": "Commencement Fee Payment Benefit: 50,000 Reward Points redeemable up to ₹50,000 #"
-      },
-      {
-        "type": "added",
-        "text": "# Applicable for cards issued on or after 17 th July, 2026"
-      },
-      {
-        "type": "added",
-        "text": "Annual Fee (2 nd Year Onwards): ₹25,000 + applicable GST"
-      },
-      {
-        "type": "context",
-        "text": "Know more"
-      },
-      {
-        "type": "removed",
-        "text": "Feel at home while you travel the world."
-      },
-      {
-        "type": "added",
-        "text": "A World of Exclusive Travel Privileges​"
-      },
-      {
-        "type": "context",
-        "text": "0% forex markup"
-      },
-      {
-        "type": "context",
-        "text": "0% interest on cash withdrawal across the globe"
-      },
-      {
-        "type": "context",
-        "text": "Unlimited access to airport lounges globally. Complimentary access to accompanying guests at domestic airport lounges 4 times in a year."
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "context",
-        "text": "Unlimited railway lounge access within India"
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "context",
-        "text": "Trip cancellation cover of up to ₹50,000 twice a year on flight or hotel bookings"
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "context",
-        "text": "Visa Exclusive: Complimentary and Discounted Meet & Greet Services"
-      },
-      {
-        "type": "added",
-        "text": "Travel and Air accident insurance upto ₹2.5 crore and Roadside Assistance"
-      },
-      {
-        "type": "context",
-        "text": "Know more"
-      },
-      {
-        "type": "removed",
-        "text": "Exclusive Global Visa privileges, ensuring seamless luxury wherever you go"
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "removed",
-        "text": "Travel and Air accident insurance upto Rs. 2.5 crore and Roadside Assistance"
-      },
-      {
-        "type": "removed",
-        "text": "know more"
-      },
-      {
-        "type": "removed",
-        "text": "A world of indulgences, for those who do a world of good."
-      },
-      {
-        "type": "added",
-        "text": "Indulge in experiences tailored to your lifestyle"
-      },
-      {
-        "type": "added",
-        "text": "Golfing Privilege: Unlimited complimentary access to golf rounds and lessons across premier Indian courses. One complimentary round per quarter at select international golf destinations"
-      },
-      {
-        "type": "context",
-        "text": "ITC Hotels offer powered by VISA: Pay for 2 consecutive nights and extend your stay with a complimentary 3rd night"
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "removed",
-        "text": "Taj Experiences Signature Dining Voucher : allotted on crossing 15 Lakh spends within first 6 months"
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "context",
-        "text": "The Postcard Hotel & Resorts : Enjoy a flat discount of ₹7,500 on a minimum booking of ₹25,000."
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "added",
-        "text": "Discounts on movie and events bookings on BookMyShow up to ₹1,500 every month"
-      },
-      {
-        "type": "context",
-        "text": "Dine with Visa: Enjoy exclusive access to premium restaurants across India with curated menus and seamless reservations."
-      },
-      {
-        "type": "added",
-        "text": "Milestone Benefits"
-      },
-      {
-        "type": "added",
-        "text": "Effective 17th July 2026,spend based milestones have been"
-      },
-      {
-        "type": "added",
-        "text": "discontinued on FIRST Private Credit Card.​"
-      },
-      {
-        "type": "added",
-        "text": "Club ITC Culinaire Hotel"
-      },
-      {
-        "type": "added",
-        "text": "Membership"
-      },
-      {
-        "type": "context",
-        "text": "Know more"
-      },
-      {
-        "type": "removed",
-        "text": "Discounts on movie and event bookings on BookMyShow up to ₹1,500 every month"
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "removed",
-        "text": "Golfing Privilege: Unlimited complimentary access to golf rounds and lessons across premier Indian courses. One complimentary round per quarter at select international golf destinations"
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "added",
-        "text": "Taj Experiences Signature Dining Voucher"
-      },
-      {
-        "type": "added",
-        "text": "Know more"
-      },
-      {
-        "type": "added",
-        "text": "Know more"
-      },
-      {
-        "type": "context",
-        "text": "A reward program that befits your magnanimity."
-      },
-      {
-        "type": "removed",
-        "text": "10X Reward Points on monthly spends"
-      },
-      {
-        "type": "removed",
-        "text": "3X Reward Points on Rent and Education-related payments"
-      },
-      {
-        "type": "removed",
-        "text": "1X Reward Point on Insurance premium payments"
-      },
-      {
-        "type": "removed",
-        "text": "Reward Points given per ₹150 spent on eligible transactions (w.e.f 17th June 2025)"
-      },
-      {
-        "type": "added",
-        "text": "10X Reward Points on eligible domestic spends"
-      },
-      {
-        "type": "added",
-        "text": "5X Reward Points on eligible international spends"
-      },
-      {
-        "type": "added",
-        "text": "1X Reward Points on all domestic and international spends done on Rent, Education, Utilities, Insurance, Government Services, FasTag, Wallet Loads, Railways, Gift Vouchers, Jewellery"
-      },
-      {
-        "type": "added",
-        "text": "Reward Points are given per ₹150 spent on eligible transactions"
-      },
-      {
-        "type": "context",
-        "text": "Exclusions apply on standard categories"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points Redemption Value"
-      },
-      {
-        "type": "removed",
-        "text": "1 Reward Point = ₹1.00 on travel bookings done via FIRST Rewards Gallery section on IDFC FIRST Bank Mobile App (w.e.f 1st June 2025)"
-      },
-      {
-        "type": "added",
-        "text": "1 Reward Point = ₹1.00 on travel bookings done via IDFC FIRST Bank Mobile App"
-      },
-      {
-        "type": "context",
-        "text": "1 Reward Point = ₹0.25 everywhere else"
-      },
-      {
-        "type": "context",
-        "text": "Accelerated Reward Points Earning Structure on travel bookings via FIRST Rewards Gallery section on IDFC FIRST Bank Mobile App"
-      },
-      {
-        "type": "removed",
-        "text": "Bonus 50 Reward Points on Hotel Bookings"
-      },
-      {
-        "type": "removed",
-        "text": "Bonus 20 Reward Points on Travel Bookings"
-      },
-      {
-        "type": "removed",
-        "text": "Know More"
-      },
-      {
-        "type": "added",
-        "text": "50 Bonus Reward Points on Hotels Bookings"
-      },
-      {
-        "type": "added",
-        "text": "20 Bonus Reward Points on Flight Bookings​"
-      },
-      {
-        "type": "added",
-        "text": "Know more"
-      },
-      {
-        "type": "context",
-        "text": "0 Forex markup"
-      },
-      {
-        "type": "context",
-        "text": "0 Over limit charges"
-      },
-      {
-        "type": "context",
-        "text": "0 Late payment charges"
-      },
-      {
-        "type": "removed",
-        "text": "9% Fixed annual rate of interest"
-      },
-      {
-        "type": "removed",
-        "text": "Never expiring 10X reward Points"
-      },
-      {
-        "type": "added",
-        "text": "9% Onboarding annual rate of interest"
-      },
-      {
-        "type": "added",
-        "text": "Never expiring Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "Karma Points: Earned on spends and available to be donated by the Bank to a charity of your choice"
-      },
-      {
-        "type": "context",
-        "text": "Know More"
       }
     ],
     "community": {

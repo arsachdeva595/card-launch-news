@@ -1,5 +1,297 @@
 [
   {
+    "id": "icici-bank-emirates-emeralde-credit-card",
+    "cardName": "Emirates Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-28T09:45:11.866Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get 10,000 Skywards Miles on Annual renewal"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get Unlimited complimentary International airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary International airport lounge access for the Primary Cardholders. For lounge list,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "removed",
+        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list, Click here"
+      },
+      {
+        "type": "added",
+        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders. For lounge list, Click here"
+      },
+      {
+        "type": "context",
+        "text": "Promo Code"
+      },
+      {
+        "type": "context",
+        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com, To know more  Click here"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed Plus Cardholders from lounge access benefit."
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-premium-credit-card",
+    "cardName": "Purchase Premium Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-28T09:43:47.170Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "4 Reward Points for every ₹150 spent.*"
+      },
+      {
+        "type": "context",
+        "text": "Fuel Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Up to ₹500 savings with a 1% fuel surcharge waiver on business travel expenses.*"
+      },
+      {
+        "type": "added",
+        "text": "Up to ₹500 savings with a 1% fuel surcharge waiver"
+      },
+      {
+        "type": "context",
+        "text": "Additional Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Banking"
+      },
+      {
+        "type": "removed",
+        "text": "5% CashBack on essential business spending. (*Up to ₹1,500 per statement cycle on minimum monthly spends of ₹1,00,000/-)"
+      },
+      {
+        "type": "added",
+        "text": "Earn 5% Cashback on eligible essential business expenses, up to ₹1,500 per statement cycle, on monthly spends of at least ₹1,00,000."
+      },
+      {
+        "type": "added",
+        "text": "4 Reward Points for every ₹150 spent on Eligible Payments"
+      },
+      {
+        "type": "context",
+        "text": "A minimal payment option of just 30% on revolving credit."
+      },
+      {
+        "type": "removed",
+        "text": "Convenience"
+      },
+      {
+        "type": "context",
+        "text": "A low 2.5% currency markup on foreign transactions."
+      },
+      {
+        "type": "added",
+        "text": "Convenience"
+      },
+      {
+        "type": "context",
+        "text": "Digital KYC with minimal paperwork."
+      },
+      {
+        "type": "context",
+        "text": "Up to 50 days of credit period on the Purchase Premium Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "MyCard"
+      },
+      {
+        "type": "context",
+        "text": "Email & CCAP"
+      },
+      {
+        "type": "removed",
+        "text": "To enable Card Controls via Email"
+      },
+      {
+        "type": "removed",
+        "text": "Authorized Signatory can send request for enabling the card control by sending request to email id: corporateassist@hdfcbank.com"
+      },
+      {
+        "type": "removed",
+        "text": "To enable Card Controls via CCAP"
+      },
+      {
+        "type": "removed",
+        "text": "Authorized Signatory can send the request for enabling the card control by sending request through Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "added",
+        "text": "Authorized Signatory can send a request for enabling card controls by:"
+      },
+      {
+        "type": "added",
+        "text": "Email:   corporateassist@hdfc.bank.in   OR"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "context",
+        "text": "Added Delights"
+      },
+      {
+        "type": "context",
+        "text": "SmartBuy BizDeals Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Added Delights"
+      },
+      {
+        "type": "removed",
+        "text": "Fuel surcharge waiver of Up to ₹500."
+      },
+      {
+        "type": "added",
+        "text": "1% Fuel surcharge waiver of Up to ₹500"
+      },
+      {
+        "type": "context",
+        "text": "Lowest foreign currency markup of 2.5% on foreign currency spends."
+      },
+      {
+        "type": "context",
+        "text": "Pay a minimum 30% of the billed amount and get a revolving facility."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated cashback, reward points, and fuel surcharge waiver details."
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-moneyback-credit-card",
+    "cardName": "Purchase MoneyBack Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-moneyback-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-10-28T09:43:47.169Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "MyCard"
+      },
+      {
+        "type": "context",
+        "text": "Email & CCAP"
+      },
+      {
+        "type": "removed",
+        "text": "To enable Card Controls via Email"
+      },
+      {
+        "type": "removed",
+        "text": "Authorized Signatory can send request for enabling the card control by sending request to email id: corporateassist@hdfcbank.com"
+      },
+      {
+        "type": "removed",
+        "text": "To enable Card Controls via CCAP"
+      },
+      {
+        "type": "removed",
+        "text": "Authorized Signatory can send the request for enabling the card control by sending request through Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "added",
+        "text": "Authorized Signatory can send a request for enabling card controls by:"
+      },
+      {
+        "type": "added",
+        "text": "Email:   corporateassist@hdfc.bank.in   OR"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "context",
+        "text": "Added Delights"
+      },
+      {
+        "type": "context",
+        "text": "Contactless Payment"
+      },
+      {
+        "type": "context",
+        "text": "Joining/Renewal Fees: NIL"
+      },
+      {
+        "type": "context",
+        "text": "Cash Processing Fee: All Cash payment of card dues get charged with an additional fee of 1% of the amount"
+      },
+      {
+        "type": "removed",
+        "text": "Reissue of Lost, Stolen or Damaged Card: ₹100/- per card re-issue"
+      },
+      {
+        "type": "added",
+        "text": "Reissue of Lost, Stolen or Damaged Card: ₹199/- per card re-issue"
+      },
+      {
+        "type": "context",
+        "text": "Click here to view the details of the fees and charges"
+      },
+      {
+        "type": "context",
+        "text": "Added Delights"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Reissue fee for lost, stolen or damaged card increased to ₹199 per card."
+    }
+  },
+  {
     "id": "idfc-first-bank-diamond-reserve-credit-card",
     "cardName": "Diamond Reserve Credit Card",
     "issuerName": "IDFC First Bank",
@@ -417,154 +709,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated lounge, golf, and BookMyShow benefits, and nominee link wording."
-    }
-  },
-  {
-    "id": "icici-bank-emirates-emeralde-credit-card",
-    "cardName": "Emirates Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-27T09:04:32.400Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Annual Benefit"
-      },
-      {
-        "type": "context",
-        "text": "Get 10,000 Skywards Miles on Annual renewal"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited Access"
-      },
-      {
-        "type": "removed",
-        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited Access"
-      },
-      {
-        "type": "removed",
-        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get Unlimited complimentary International airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list,  Click here"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list, Click here"
-      },
-      {
-        "type": "context",
-        "text": "Promo Code"
-      },
-      {
-        "type": "removed",
-        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com,  Click here  to know more"
-      },
-      {
-        "type": "removed",
-        "text": "Four times every month"
-      },
-      {
-        "type": "removed",
-        "text": "Buy one ticket and get up to ₹750 off on the second ticket through BookMyShow"
-      },
-      {
-        "type": "added",
-        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com, To know more  Click here"
-      },
-      {
-        "type": "added",
-        "text": "Monthly"
-      },
-      {
-        "type": "added",
-        "text": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
-      },
-      {
-        "type": "context",
-        "text": "Milestone Reward"
-      },
-      {
-        "type": "removed",
-        "text": "Emirates Gold Tier Membership after a spend of ₹15 lakh (including minimum ₹50,000 on Emirates.com) in the anniversary year."
-      },
-      {
-        "type": "added",
-        "text": "Emirates Gold Tier Membership after a spend of ₹15 lakh (including minimum ₹50,000 on Emirates.com) in the anniversary year."
-      },
-      {
-        "type": "context",
-        "text": "1% Fuel Surcharge"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel surcharge on all fuel transactions of up to ₹4,000 at any fuel outlet"
-      },
-      {
-        "type": "added",
-        "text": "Fuel surcharge on all fuel transactions of up to ₹4,000 at any fuel outlet"
-      },
-      {
-        "type": "context",
-        "text": "Earn Emirates Skywards miles on every ₹100 spend"
-      },
-      {
-        "type": "context",
-        "text": "2"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "removed",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "added",
-        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  click here ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated lounge access and discount benefit descriptions, adding quarterly and monthly terms."
     }
   },
   {
@@ -2095,50 +2239,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a new Miles Transfer program allowing conversion of RBL Bank Reward Points to partner loyalty points."
-    }
-  },
-  {
-    "id": "hdfc-bank-purchase-premium-credit-card",
-    "cardName": "Purchase Premium Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-premium-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-20T08:35:07.509Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "How many reward points can be accrued every month on Purchase Premium?"
-      },
-      {
-        "type": "context",
-        "text": "Maximum of 15,000 reward points can be accrued per statement cycle on Purchase Premium."
-      },
-      {
-        "type": "added",
-        "text": "What is the capping on Cash Redemption of Reward Points?"
-      },
-      {
-        "type": "added",
-        "text": "Redemption of Reward Points against the statement balance (cashback redemption) is capped at 50,000 Reward Points per calendar month ."
-      },
-      {
-        "type": "context",
-        "text": "Is the customer eligible for Fuel surcharge waiver?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, the corporate is eligible 1% fuel surcharge waiver."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a cap of 50,000 Reward Points per month on cashback redemption."
     }
   },
   {
@@ -8553,138 +8653,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Forex markup removed, replaced with zero markup on international business spends."
-    }
-  },
-  {
-    "id": "hdfc-bank-purchase-moneyback-credit-card",
-    "cardName": "Purchase MoneyBack Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-moneyback-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-09-23T08:38:43.265Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply for Purchase MoneyBack Credit Card | HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Framework For Cross Border Transactions"
-      },
-      {
-        "type": "context",
-        "text": "Purchase MoneyBack Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Purchase MoneyBack Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Spends other than the above-mentioned merchants will be classified as General MCC spends."
-      },
-      {
-        "type": "context",
-        "text": "What type of spends will be eligible for cashback?"
-      },
-      {
-        "type": "removed",
-        "text": "All general spends above 5 lakhs and utility payments above 10 lakhs will be eligible for cashback excluding EMI spends, BBPS Spends and Fuel Spends."
-      },
-      {
-        "type": "added",
-        "text": "The following spends will be eligible for CashBack:"
-      },
-      {
-        "type": "added",
-        "text": "All General MCC spends above ₹5 lakh in calendar month basis posting date"
-      },
-      {
-        "type": "added",
-        "text": "All Special MCC spends above ₹10 lakh in calendar month basis posting date"
-      },
-      {
-        "type": "added",
-        "text": "The following transactions are not eligible for CashBack:"
-      },
-      {
-        "type": "added",
-        "text": "EMI spends"
-      },
-      {
-        "type": "added",
-        "text": "BBPS spends"
-      },
-      {
-        "type": "added",
-        "text": "Fuel spends"
-      },
-      {
-        "type": "context",
-        "text": "Will the customer qualify for Cashback if it falls under bank wide delinquency list?"
-      },
-      {
-        "type": "context",
-        "text": "No, If the Customer is delinquent for any product within the bank, they will not receive cashback for their Purchase card spends in delinquent month."
-      },
-      {
-        "type": "context",
-        "text": "Additionally, any missed cashback due to delinquency will not be processed or paid in subsequent months."
-      },
-      {
-        "type": "added",
-        "text": "Electronics"
-      },
-      {
-        "type": "added",
-        "text": "Travel"
-      },
-      {
-        "type": "added",
-        "text": "Apparel and Accessories"
-      },
-      {
-        "type": "added",
-        "text": "Retail Stores"
-      },
-      {
-        "type": "added",
-        "text": "Entertainment"
-      },
-      {
-        "type": "added",
-        "text": "Dining"
-      },
-      {
-        "type": "added",
-        "text": "Jewellery"
-      },
-      {
-        "type": "added",
-        "text": "Home and Decor"
-      },
-      {
-        "type": "added",
-        "text": "Personal Service Providers"
-      },
-      {
-        "type": "added",
-        "text": "Miscellaneous Stores"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated cashback eligibility thresholds and exclusions for the Purchase MoneyBack Credit Card."
     }
   },
   {

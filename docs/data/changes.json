@@ -1,5 +1,499 @@
 [
   {
+    "id": "kotak-mahindra-bank-kotak-cashback-credit-card",
+    "cardName": "Kotak Cashback+ Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-cashback-plus-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-10-29T10:05:35.718Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Click here for detailed Cashback Program Guide."
+      },
+      {
+        "type": "context",
+        "text": "Please follow the steps mentioned here to redeem your cashback from the Kotak Unbox platform."
+      },
+      {
+        "type": "removed",
+        "text": "Please note : Accrued points can only be redeemed as cashback against statement outstanding. 1 point = ₹1. Minimum 100 points required for redemption. Effective 16th Oct'26, minimum 500 points will be required for redemption."
+      },
+      {
+        "type": "added",
+        "text": "Please note : Accrued points can only be redeemed as cashback against statement outstanding. 1 point = ₹1. Minimum 100 points required for redemption. Effective 1 st  Dec'26, minimum 500 points will be required for redemption."
+      },
+      {
+        "type": "context",
+        "text": "PVR INOX Buy 1, Get 1 Offer"
+      },
+      {
+        "type": "context",
+        "text": "Your movie nights just got more exciting with this limited time offer on PVR INOX movie tickets."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Redemption date and minimum points requirement updated for cashback redemption."
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-travelone-credit-card",
+    "cardName": "HSBC TravelOne Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/travelone/",
+    "status": "Active",
+    "detectedAt": "2026-10-29T10:03:06.596Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Offer Terms and Conditions ('Offer Terms') are in addition to the amazon.in 'Conditions of Use & Sale' and 'Privacy Notice' to which you agree to, by using amazon.in and Terms and Conditions of HSBC Credit Cards . In the event of any conflict between the Conditions of Use & Sale and these Offer Terms, these Offer Terms will prevail, only for the purposes of this Offer."
+      },
+      {
+        "type": "context",
+        "text": "This Amazon eGift Voucher offer is provided by The Hongkong and Shanghai Banking Corporation Limited, India (HSBC) to Resident Indian customers (hereinafter referred to as 'credit card applicant') who have participated in the offer. Each qualifying credit card applicant who has completed Video KYC (VKYC) and has got the credit card approved and issued is entitled to an Amazon eGift Voucher of INR250 (Offer)."
+      },
+      {
+        "type": "removed",
+        "text": "This offer is valid only on online applications and upon successful completion of the Video KYC (VKYC) and issuance of the credit card, during the offer period from 1 January 2026 to 31 October 2026."
+      },
+      {
+        "type": "added",
+        "text": "This offer is valid only on online applications and upon successful completion of the Video KYC (VKYC) and issuance of the credit card, during the offer period from 1 January 2026 to 31 March 2027."
+      },
+      {
+        "type": "context",
+        "text": "This is a limited period Offer and HSBC in its sole discretion reserves the right to alter, modify, change or vary all or any of these terms and conditions or to replace, wholly or in part, this Offer by another Offer, whether similar to this Offer or not, or to withdraw it altogether at any point in time by providing appropriate intimation to the Cardholder."
+      },
+      {
+        "type": "removed",
+        "text": "The Amazon eGift Voucher (WinPin code) will be sent to your email ID provided in the online credit card application, within 45 days of end of the offer i.e. 15 December 2026."
+      },
+      {
+        "type": "added",
+        "text": "The Amazon eGift Voucher (WinPin code) will be sent to your email ID provided in the online credit card application, within 45 days of end of the offer i.e. 15 May 2027."
+      },
+      {
+        "type": "context",
+        "text": "All decisions with respect to the Offer shall be at the sole discretion of HSBC and the same shall be final, binding and non-contestable. Other than the specific entitlements available to the Cardholders under this Offer, any other claims with regard to this Offer against HSBC are waived."
+      },
+      {
+        "type": "context",
+        "text": "Credit card applicants are not bound in any way to participate in this Offer. Any participation is voluntary and the Offer is being made purely on a best effort basis."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-taj-credit-card",
+    "cardName": "HSBC Taj Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
+    "status": "Active",
+    "detectedAt": "2026-10-29T10:03:06.595Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "The HSBC Taj Credit Card has a joining fee of INR1,10,000, which is paid after you activate your card."
+      },
+      {
+        "type": "context",
+        "text": "There is also an annual fee INR1,10,000, which is paid annually once you've had the card for 12 months."
+      },
+      {
+        "type": "removed",
+        "text": "Get INR1,000 cashback"
+      },
+      {
+        "type": "removed",
+        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
+      },
+      {
+        "type": "removed",
+        "text": "T&Cs apply (PDF)"
+      },
+      {
+        "type": "removed",
+        "text": "Offer valid until 30 September 2026."
+      },
+      {
+        "type": "context",
+        "text": "Ready to apply for your HSBC Taj Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "To apply for an HSBC Taj Credit Card, complete a callback form and our team will be in touch soon."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed INR1,000 cashback offer for spending INR1,000 within 30 days of card issuance."
+    }
+  },
+  {
+    "id": "axis-bank-travel-credit-card",
+    "cardName": "Travel Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-29T09:58:34.178Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently Lifetime Free on Amex network)"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "A Travel Credit Card focuses on rewarding travel spending while offering convenience, safety, and global usability. These features are especially valuable for frequent flyers and international travellers."
+      },
+      {
+        "type": "context",
+        "text": "Airport lounge access"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "UPI card"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Network changed from Amex to Visa, making the card lifetime free on Visa."
+    }
+  },
+  {
+    "id": "axis-bank-dining-credit-card",
+    "cardName": "Dining Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-29T09:58:34.177Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank REWARDS Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "UPI card"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added lifetime free on Visa Network benefit."
+    }
+  },
+  {
+    "id": "axis-bank-titanium-smart-traveler-credit-card",
+    "cardName": "Titanium Smart Traveler Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-29T09:58:34.162Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently Lifetime Free on Amex network)"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "FAQ on Clear existing status in CIC"
+      },
+      {
+        "type": "context",
+        "text": "Sep 9, 2026"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Lifetime free network changed from Amex to Visa"
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-my-zone-credit-card",
+    "cardName": "Axis Bank My Zone Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-29T09:58:34.150Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card comes with various fees and charges, including joining fees, annual fees, cash payment fees, withdrawal fees, and applicable penalties."
+      },
+      {
+        "type": "context",
+        "text": "Description Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Joining fee ₹500"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee ₹500"
+      },
+      {
+        "type": "added",
+        "text": "Joining fee ₹NIL (Limited period offer on Visa Network)"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee ₹NIL (Limited period offer on Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "Add-on Card Joining Fee Nil"
+      },
+      {
+        "type": "context",
+        "text": "Add-on Card Annual Fee Nil"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-flipkart-axis-bank-credit-card",
+    "cardName": "FLIPKART AXIS BANK Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-29T09:58:34.147Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently Lifetime Free on Amex network)"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "A diverse"
+      },
+      {
+        "type": "context",
+        "text": "range of services, including rewards, travel perks, fraud protection & more that add value to your"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Network changed from Amex to Visa for lifetime free usage",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Need advice regarding multiple credit cards, shared limits, EDD verification, and limit enhancement",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x7bqc2/need_advice_regarding_multiple_credit_cards/",
+        "description": "&#x200B; Hello everyone! This is going to be a slightly long post, so I hope you’ll bear with me until the end. I have a few questions regarding my father&#39;s credit cards and would appreciate advice from people with experience. Here is t"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-privilege-credit-card",
+    "cardName": "AXIS BANK PRIVILEGE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "status": "Discontinued",
+    "detectedAt": "2026-10-29T09:58:34.144Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "In Privilege Credit Card fees, overdue penalty, fee on cash payment, etc. are applicable as per terms and conditions. However, fees and charges for Privilege Credit Card are waived for services like mobile alerts. The detailed fee structure is provided below."
+      },
+      {
+        "type": "context",
+        "text": "Description Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Joining Fee ₹NIL (Limited period offer on Amex Network)"
+      },
+      {
+        "type": "removed",
+        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer on Amex Network)"
+      },
+      {
+        "type": "added",
+        "text": "Standard Joining Fee ₹NIL (Limited period offer on Visa Network)"
+      },
+      {
+        "type": "added",
+        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer on Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "Standard Add-on Card Joining Fee Nil"
+      },
+      {
+        "type": "context",
+        "text": "Standard Add-on Card Annual Fee Nil"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank REWARDS Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-emirates-emeralde-credit-card",
     "cardName": "Emirates Emeralde Credit Card",
     "issuerName": "ICICI Bank",
@@ -2286,290 +2780,6 @@
     }
   },
   {
-    "id": "kotak-mahindra-bank-kotak-cashback-credit-card",
-    "cardName": "Kotak Cashback+ Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-cashback-plus-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-10-19T08:57:21.821Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Exclusive Offers"
-      },
-      {
-        "type": "context",
-        "text": "FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "About the Kotak Cashback+ Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Kotak Mahindra Cashback+ Credit Card is designed to capitalise on online grocery shopping, food delivery, entertainment, fuel and other eligible transactions by offering cashback. The earned points are easily converted into cashback, subject to applicable caps, exclusions and card terms."
-      },
-      {
-        "type": "removed",
-        "text": "The Kotak Cashback+ Credit Card offers benefits across eligible categories with a simple reward value structure. ."
-      },
-      {
-        "type": "removed",
-        "text": "Cashback on Everyday Categories"
-      },
-      {
-        "type": "removed",
-        "text": "Get 5% cashback on eligible online food deliveries, groceries, and entertainment spending."
-      },
-      {
-        "type": "removed",
-        "text": "Cashback on Fuel Spending"
-      },
-      {
-        "type": "removed",
-        "text": "3% cashback on all fuel spends, with a 1% fuel surcharge waiver applicable on transactions between ₹500 and ₹4000. The maximum waiver allowed is up to ₹3500 in an anniversary year."
-      },
-      {
-        "type": "removed",
-        "text": "Base Cashback on Other Spending"
-      },
-      {
-        "type": "removed",
-        "text": "Get 0.5% unlimited cashback on other eligible spends. For the RuPay Variant, UPI credit card spends will earn base cashback on all spends, except for excluded Merchant Category Codes (MCCs). Offline grocery, dining, and entertainment purchases will earn base cashback."
-      },
-      {
-        "type": "added",
-        "text": "Kotak Cashback+ Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Maximise your monthly savings while spending with up to 5% cashback on your Cashback+ Credit Card."
-      },
-      {
-        "type": "added",
-        "text": "Big Savings on Essentials"
-      },
-      {
-        "type": "added",
-        "text": "5% cashback on online food deliveries, groceries and entertainment"
-      },
-      {
-        "type": "added",
-        "text": "Fuel Up & Save"
-      },
-      {
-        "type": "added",
-        "text": "3% cashback on all fuel spends + 1% fuel surcharge waiver"
-      },
-      {
-        "type": "added",
-        "text": "Everyday Cashback"
-      },
-      {
-        "type": "added",
-        "text": "0.5% unlimited cashback on other eligible spends"
-      },
-      {
-        "type": "context",
-        "text": "Earn accelerated cashback"
-      },
-      {
-        "type": "removed",
-        "text": "5% on online grocery & food delivery"
-      },
-      {
-        "type": "removed",
-        "text": "5% on online entertainment"
-      },
-      {
-        "type": "removed",
-        "text": "3% on fuel spends across fuel stations"
-      },
-      {
-        "type": "added",
-        "text": "5% on online groceries & food deliveries"
-      },
-      {
-        "type": "added",
-        "text": "5% on online movie tickets and OTT subscriptions"
-      },
-      {
-        "type": "added",
-        "text": "3% on fuel spends across fuel stations"
-      },
-      {
-        "type": "context",
-        "text": "Earn base cashback"
-      },
-      {
-        "type": "context",
-        "text": "Unlimited 0.5% cashback on other eligible spends"
-      },
-      {
-        "type": "removed",
-        "text": "For the RuPay variant, UPI on CC spends will earn unlimited 0.5% cashback"
-      },
-      {
-        "type": "added",
-        "text": "For RuPay variant, UPI on CC spends will earn unlimited 0.5% cashback"
-      },
-      {
-        "type": "context",
-        "text": "UPI on CC spends will earn base cashback on all spends, except excluded Merchant Category Codes (MCCs)"
-      },
-      {
-        "type": "removed",
-        "text": "Offline grocery, dining, and entertainment purchases will earn base cashback."
-      },
-      {
-        "type": "added",
-        "text": "Offline grocery, dining, and entertainment purchases will earn base cashback"
-      },
-      {
-        "type": "context",
-        "text": "Fuel surcharge waiver"
-      },
-      {
-        "type": "removed",
-        "text": "1% fuel surcharge waiver will be available on transactions between ₹500 and ₹4000. Maximum waiver is allowed up to ₹3500 in an anniversary year."
-      },
-      {
-        "type": "removed",
-        "text": "Exclusive Offer"
-      },
-      {
-        "type": "removed",
-        "text": "Get BOGO offer* (Buy 1 Get 1) PVR Inox movie tickets."
-      },
-      {
-        "type": "removed",
-        "text": "Cashback Exclusion"
-      },
-      {
-        "type": "removed",
-        "text": "Cashback does not apply to rent, B2B transactions, Utilities, Insurance, Education and Government payments, Wallet loading, Online skill-based gaming, and EMI transactions. The restrictions will be based on the Merchant Category Codes (MCCs), which are 4-digit numbers assigned to merchants or businesses by card networks such as VISA, MasterCard, and RuPay."
-      },
-      {
-        "type": "added",
-        "text": "1% fuel surcharge waiver will be available on transactions between ₹500 to ₹4000. Maximum waiver is allowed up to ₹3500 in an anniversary year."
-      },
-      {
-        "type": "added",
-        "text": "Cashback not applicable on"
-      },
-      {
-        "type": "added",
-        "text": "Rent, B2B transaction, Utilities, Insurance, Education and Government, Wallet, Online skill-based gaming, and EMI"
-      },
-      {
-        "type": "added",
-        "text": "The restrictions will be based on the Merchant Category Codes (MCCs), which are 4-digit numbers assigned to merchants or businesses by card networks such as VISA, MasterCard, and RuPay."
-      },
-      {
-        "type": "context",
-        "text": "Cashback value, capping, redemption, and expiry"
-      },
-      {
-        "type": "removed",
-        "text": "Cashback earned on accelerated spends (grocery, food delivery, online entertainment, & fuel) will be capped at 750 points per billing cycle. Cashback will be given based on the Merchant Category Code (MCC) on which the spend is made. For more details, please refer to our T&C. ."
-      },
-      {
-        "type": "removed",
-        "text": "1 reward point is equivalent to ₹1 and will be earned only in multiples of ₹."
-      },
-      {
-        "type": "removed",
-        "text": "Unclaimed cashback will expire in 1 year."
-      },
-      {
-        "type": "added",
-        "text": "Cashback earned on accelerated spends will be capped at 750 points per billing cycle"
-      },
-      {
-        "type": "added",
-        "text": "Cashback will be given basis the Merchant Category Code (MCC) on which spends is made. For more details, please refer to our T&C. ."
-      },
-      {
-        "type": "added",
-        "text": "1 reward point is equivalent to ₹1 and will be earned only in multiples of ₹1"
-      },
-      {
-        "type": "added",
-        "text": "Unclaimed cashback will expire in 1 year"
-      },
-      {
-        "type": "context",
-        "text": "Network offers"
-      },
-      {
-        "type": "context",
-        "text": "To explore VISA Rewards offers on your cards, please  click here ."
-      },
-      {
-        "type": "context",
-        "text": "To explore RuPay Select offers on your card, please click here ."
-      },
-      {
-        "type": "removed",
-        "text": "Please note: All network offers are subject to the T&Cs of the merchants."
-      },
-      {
-        "type": "added",
-        "text": "Please note: All network offers are subject to the T&Cs of the merchants and network."
-      },
-      {
-        "type": "context",
-        "text": "Click here for detailed Cashback Program Guide."
-      },
-      {
-        "type": "removed",
-        "text": "How to Apply for the Kotak Cashback+ Credit Card Online"
-      },
-      {
-        "type": "removed",
-        "text": "Follow these steps to apply for the card:"
-      },
-      {
-        "type": "removed",
-        "text": "Step 1: Visit the Kotak Mahindra Bank Credit Card application page."
-      },
-      {
-        "type": "removed",
-        "text": "Step 2: Fill in your personal and employment details."
-      },
-      {
-        "type": "removed",
-        "text": "Step 3: check eligibility and complete KYC"
-      },
-      {
-        "type": "removed",
-        "text": "Step 4: Card approval and delivery"
-      },
-      {
-        "type": "removed",
-        "text": "*Calculation based on the assumption that you spend ₹2,88,000 annually."
-      },
-      {
-        "type": "context",
-        "text": "Please follow the steps mentioned here to redeem your cashback from the Kotak Unbox platform."
-      },
-      {
-        "type": "context",
-        "text": "Please note : Accrued points can only be redeemed as cashback against statement outstanding. 1 point = ₹1. Minimum 100 points required for redemption. Effective 16th Oct'26, minimum 500 points will be required for redemption."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added 5% cashback on online movie tickets and OTT subscriptions."
-    }
-  },
-  {
     "id": "axis-bank-google-pay-flex-axis-bank-credit-card",
     "cardName": "Google Pay Flex Axis Bank Credit Card",
     "issuerName": "Axis Bank",
@@ -2863,50 +3073,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added MDR fee for RuPay Credit Card transactions via UPI"
-    }
-  },
-  {
-    "id": "hsbc-india-hsbc-taj-credit-card",
-    "cardName": "HSBC Taj Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
-    "status": "Active",
-    "detectedAt": "2026-10-16T08:12:44.106Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Earn 50 Points per INR100 on direct Dyson purchases. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Save 20% at Reliance Brand outlets"
-      },
-      {
-        "type": "removed",
-        "text": "Get up to INR10,000 off when you spend INR20,000 or more. T&Cs apply (PDF)"
-      },
-      {
-        "type": "added",
-        "text": "Get up to INR10,000 off when you spend INR35,000 or more. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "VISA Infinite Benefits"
-      },
-      {
-        "type": "context",
-        "text": "For all the VISA benefits, please refer to VISA website ."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Benefit threshold increased to INR35,000 spend."
     }
   },
   {
@@ -3890,248 +4056,6 @@
     }
   },
   {
-    "id": "axis-bank-axis-bank-my-zone-credit-card",
-    "cardName": "Axis Bank My Zone Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-09T10:32:57.966Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Benefit from one complimentary access per calendar quarter to select"
-      },
-      {
-        "type": "context",
-        "text": "airport lounges in India with your Axis Bank My Zone Credit Card."
-      },
-      {
-        "type": "removed",
-        "text": "Earn EDGE REWARDS"
-      },
-      {
-        "type": "removed",
-        "text": "Earn four EDGE REWARD points for every ₹200 spent using your credit card."
-      },
-      {
-        "type": "added",
-        "text": "Earn EDGE REWARDS Points"
-      },
-      {
-        "type": "added",
-        "text": "Earn EDGE REWARDS points for transactions and use them to redeem 500+ rewards and offers."
-      },
-      {
-        "type": "context",
-        "text": "Rewards on achieving milestone spends"
-      },
-      {
-        "type": "context",
-        "text": "You will be eligible to earn 1,000 EDGE REWARD Points on achieving annual"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "For any transactions exceeding ₹1,500, contact the bank to convert your"
-      },
-      {
-        "type": "context",
-        "text": "large credit card purchases into manageable EMIs."
-      },
-      {
-        "type": "removed",
-        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card fees include cash payment fee, joining fee and an annual fee."
-      },
-      {
-        "type": "removed",
-        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card fees include cash payment fee, joining fee and an annual fee."
-      },
-      {
-        "type": "added",
-        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card comes with various fees and charges, including joining fees, annual fees, cash payment fees, withdrawal fees, and applicable penalties."
-      },
-      {
-        "type": "added",
-        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card comes with various fees and charges, including joining fees, annual fees, cash payment fees, withdrawal fees, and applicable penalties."
-      },
-      {
-        "type": "context",
-        "text": "Description Charges"
-      },
-      {
-        "type": "context",
-        "text": "Joining fee ₹500"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Cash Withdrawal Fees 2.5% (Min. ₹500) of the cash amount"
-      },
-      {
-        "type": "context",
-        "text": "Overdue Penalty or Late Payment Fee Nil if Total Payment Due is less than ₹500"
-      },
-      {
-        "type": "removed",
-        "text": "₹500 if total payment due is between ₹501 - ₹"
-      },
-      {
-        "type": "removed",
-        "text": "5,000"
-      },
-      {
-        "type": "added",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is"
-      },
-      {
-        "type": "removed",
-        "text": "greater"
-      },
-      {
-        "type": "removed",
-        "text": "than ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "An additional charge of ₹100 will be levied on missing payment of MAD by the due date for two consecutive cycles. This charge will continue to be levied for every payment cycle until the MAD is cleared"
-      },
-      {
-        "type": "added",
-        "text": "₹1,200 if total payment due is between ₹10,001 and ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1,300 if total payment due is greater than ₹50,000."
-      },
-      {
-        "type": "added",
-        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Over Limit Penalty 2.5% of the payment amount subject to minimum of ₹500"
-      },
-      {
-        "type": "context",
-        "text": "Cheque Return or Dishonour Fee or Auto-debit Reversal 2% of the payment amount subject to minimum of ₹500"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Benefit unlocked on spends of ₹50,000 in previous 3 months."
-      },
-      {
-        "type": "context",
-        "text": "For more details and terms and condition, please click here For more details and terms and condition ."
-      },
-      {
-        "type": "removed",
-        "text": "Earn EDGE REWARDS"
-      },
-      {
-        "type": "added",
-        "text": "Earn EDGE REWARDS Points"
-      },
-      {
-        "type": "added",
-        "text": "Earn EDGE REWARDS points for transactions and use them to redeem 500+ rewards and offers"
-      },
-      {
-        "type": "context",
-        "text": "Earn four EDGE REWARD points for every ₹200 spent using your credit card."
-      },
-      {
-        "type": "context",
-        "text": "For redemption options, please refer to the EDGE REWARDS Catalogue available on the official website."
-      },
-      {
-        "type": "removed",
-        "text": "No reward points will be credited for Movie, Fuel, Insurance, Wallet, Rent, Utilities, Jewellery, Education, Government Institutions and EMI transactions."
-      },
-      {
-        "type": "added",
-        "text": "Please Note - EDGE Reward Points will not be earned on spends towards Movie, Fuel, Insurance, Wallet, Rent, Utilities, Education, Government Institutions, EMI transactions, Jewellery, Gift Card, Bridge Fees, Road Fees and Tolls."
-      },
-      {
-        "type": "context",
-        "text": "Fuel up and get a waiver on surcharge"
-      },
-      {
-        "type": "context",
-        "text": "1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank MY Zone Credit Card."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program."
-      },
-      {
-        "type": "context",
-        "text": "Click here for more details and full terms & conditions."
-      },
-      {
-        "type": "removed",
-        "text": "Beat the mid-week blues with exciting offers every Wednesday."
-      },
-      {
-        "type": "removed",
-        "text": "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
-      },
-      {
-        "type": "removed",
-        "text": "10% off on orders via Swiggy"
-      },
-      {
-        "type": "removed",
-        "text": "10% off up to ₹1000 on Tira"
-      },
-      {
-        "type": "context",
-        "text": "Please click here to avail the offers."
-      },
-      {
-        "type": "context",
-        "text": "Rewards on achieving milestone spends"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Updated reward points, fee details, and MAD penalty structure.",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Axis Bank Credit Cards — A Guide to the Lineup & Support Channels (from Axis Bank's official site) - READ DISCLAIMER FIRST",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vp5asq/axis_bank_credit_cards_a_guide_to_the_lineup/",
-        "description": "Disclaimer I&#39;m not affiliated with Axis Bank, and this isn&#39;t official communication from them. I&#39;m not a financial advisor, so treat this as informational only. Importantly: I could not verify exact joining fees, annual fees, or"
-      },
-      "via": "reddit"
-    }
-  },
-  {
     "id": "hsbc-india-hsbc-rupay-platinum-credit-card",
     "cardName": "HSBC RuPay Platinum Credit Card",
     "issuerName": "HSBC India",
@@ -4213,114 +4137,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "hsbc-india-hsbc-travelone-credit-card",
-    "cardName": "HSBC TravelOne Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/travelone/",
-    "status": "Active",
-    "detectedAt": "2026-10-08T10:38:08.656Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "15% off international and domestic flights with Cleartrip"
-      },
-      {
-        "type": "context",
-        "text": "Save on international and domestic flights when you book through the ClearTrip app or website. Use promo code: CTHSBCTRAVELONE. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "removed",
-        "text": "Up to 30% off on dining with EazyDiner"
-      },
-      {
-        "type": "removed",
-        "text": "Get unparalleled dining offers with 30% off your bill (up to INR1,000) with EazyDiner. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "added",
-        "text": "Up to 10% off on dining with EazyDiner"
-      },
-      {
-        "type": "added",
-        "text": "Get unparalleled dining offers with 10% off your bill (up to INR1,000) with EazyDiner. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "context",
-        "text": "11% off hotel bookings with StayVista"
-      },
-      {
-        "type": "context",
-        "text": "Stay for less when you make a hotel booking through the StayVista website (max 2 bookings per card per year; max saving per booking INR3,000). Use promo code: HSBCTRAVEL. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "context",
-        "text": "Savings on movies and events with the District app by Zomato"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy up to 10% off events with promo code HSBCTOEVENTS, and dining with promo code HSBCTODINING. Plus, buy 1 movie ticket and get 1 free twice a month with promo code HSBCTOMOV. T&Cs apply(PDF) ."
-      },
-      {
-        "type": "added",
-        "text": "Enjoy up to 10% off events with promo code HSBCTOEVENTS, and dining with promo code HSBCTODINING. Plus, buy 1 movie ticket and get 1 free twice a month with promo code HSBCTOMOV. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "context",
-        "text": "Up to 20% off duty-free with AdaniOne"
-      },
-      {
-        "type": "context",
-        "text": "Save 20%, up to INR3,000, on their app or website when you spend INR8,000 or more, once per card per year. Just use promo code: HSBCTRAVELONE. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Introductory Offer Terms and Conditions (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Introductory Offer Terms and Conditions (PDF) Download"
-      },
-      {
-        "type": "removed",
-        "text": "Get INR1,000 cashback"
-      },
-      {
-        "type": "removed",
-        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
-      },
-      {
-        "type": "removed",
-        "text": "T&Cs apply (PDF)"
-      },
-      {
-        "type": "removed",
-        "text": "Offer valid until 30 September 2026."
-      },
-      {
-        "type": "context",
-        "text": "Apply online"
-      },
-      {
-        "type": "context",
-        "text": "When you apply online and complete your application with video self-verification, you'll be eligible for an Amazon eGift Voucher worth INR250. T&Cs apply ."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Dining discount reduced to 10% off"
     }
   },
   {
@@ -8108,102 +7924,6 @@
     }
   },
   {
-    "id": "axis-bank-travel-credit-card",
-    "cardName": "Travel Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:28:16.852Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
-      },
-      {
-        "type": "context",
-        "text": "10%* off on Blinkit and BookMyShow"
-      },
-      {
-        "type": "removed",
-        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
-      },
-      {
-        "type": "context",
-        "text": "Your Axis Credit Card awaits you!"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Lifetime free offer removed for existing customers."
-    }
-  },
-  {
-    "id": "axis-bank-dining-credit-card",
-    "cardName": "Dining Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:28:16.851Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
-      },
-      {
-        "type": "context",
-        "text": "10%* off on Blinkit and BookMyShow"
-      },
-      {
-        "type": "removed",
-        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
-      },
-      {
-        "type": "context",
-        "text": "Fee waiver"
-      },
-      {
-        "type": "context",
-        "text": "FLIPKART AXIS BANK Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
-      },
-      {
-        "type": "context",
-        "text": "10%* off on Blinkit and BookMyShow"
-      },
-      {
-        "type": "removed",
-        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
-      },
-      {
-        "type": "context",
-        "text": "Your Axis Credit Card awaits you!"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Lifetime free offer for existing Axis Bank Credit Card customers removed."
-    }
-  },
-  {
     "id": "axis-bank-lic-axis-bank-signature-credit-card",
     "cardName": "LIC Axis Bank Signature Credit Card",
     "issuerName": "Axis Bank",
@@ -8272,54 +7992,6 @@
       {
         "type": "context",
         "text": "How to increase your CIBIL score?"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-privilege-credit-card",
-    "cardName": "AXIS BANK PRIVILEGE Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
-    "status": "Discontinued",
-    "detectedAt": "2026-09-24T08:28:16.823Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "In Privilege Credit Card fees, overdue penalty, fee on cash payment, etc. are applicable as per terms and conditions. However, fees and charges for Privilege Credit Card are waived for services like mobile alerts. The detailed fee structure is provided below."
-      },
-      {
-        "type": "context",
-        "text": "Description Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Joining Fee ₹NIL (Limited period offer)"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer)"
-      },
-      {
-        "type": "added",
-        "text": "Standard Joining Fee ₹NIL (Limited period offer on Amex Network)"
-      },
-      {
-        "type": "added",
-        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer on Amex Network)"
-      },
-      {
-        "type": "context",
-        "text": "Standard Add-on Card Joining Fee Nil"
-      },
-      {
-        "type": "context",
-        "text": "Standard Add-on Card Annual Fee Nil"
       }
     ],
     "community": {
@@ -9904,70 +9576,6 @@
     }
   },
   {
-    "id": "axis-bank-titanium-smart-traveler-credit-card",
-    "cardName": "Titanium Smart Traveler Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-19T08:03:24.182Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
-      },
-      {
-        "type": "context",
-        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently First Year Free)"
-      },
-      {
-        "type": "context",
-        "text": "Samsung Axis Bank Signature Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
-      },
-      {
-        "type": "context",
-        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently Lifetime Free on Amex network)"
-      },
-      {
-        "type": "context",
-        "text": "Nov 18, 2025"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "axis-bank-platinum-credit-card",
     "cardName": "Platinum Credit Card",
     "issuerName": "Axis Bank",
@@ -11397,50 +11005,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-flipkart-axis-bank-credit-card",
-    "cardName": "FLIPKART AXIS BANK Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-10T08:08:54.471Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "removed",
-        "text": "(This card is currently Lifetime Free)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on Amex network)"
-      },
-      {
-        "type": "context",
-        "text": "A diverse"
-      },
-      {
-        "type": "context",
-        "text": "range of services, including rewards, travel perks, fraud protection & more that add value to your"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Lifetime free fee now applies only on Amex network."
     }
   },
   {

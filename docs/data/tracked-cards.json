@@ -5206,5 +5206,13 @@
     "url": "https://www.hdfc.bank.in/credit-cards/services/key-fact-statement-purchase-cards",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "Apply for Airport Lounge Access Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/airport-lounge-access",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

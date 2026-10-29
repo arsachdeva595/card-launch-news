@@ -178,5 +178,17 @@
     "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1x32um2/update_on_icici_bank_1838_reserve_credit_card/",
     "source": "auto-detected",
     "detected_at": "2026-10-27T09:04:32.389Z"
+  },
+  {
+    "card_slug": "flipkart-axis-bank-credit-card",
+    "card_name": "FLIPKART AXIS BANK Credit Card",
+    "issuer": "axis",
+    "change_type": "other",
+    "summary": "Network changed from Amex to Visa for lifetime free usage",
+    "status": "verified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1x7bqc2/need_advice_regarding_multiple_credit_cards/",
+    "source": "auto-detected",
+    "detected_at": "2026-10-29T09:58:34.147Z"
   }
 ]

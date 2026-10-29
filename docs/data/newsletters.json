@@ -353,9 +353,9 @@
         "issuer": "axis",
         "change_type": "fee-change",
         "summary": "Joining fee dropped from ₹500 to Nil as a limited period offer; annual fee terms unchanged.",
-        "status": "unverified",
+        "status": "verified",
         "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
-        "verification_link": null,
+        "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1x7bqc2/need_advice_regarding_multiple_credit_cards/",
         "anchor": "axis-bank-flipkart-axis-bank-credit-card"
       },
       {
@@ -714,9 +714,9 @@
         "change_type": "fee-change",
         "summary": "Standard fee/DCC hike, plus a clarification that annual fee waiver spend counts by posting date, not purchase date.",
         "anchor": "axis-flipkart",
-        "status": "unverified",
+        "status": "verified",
         "official_link": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
-        "verification_link": null
+        "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1x7bqc2/need_advice_regarding_multiple_credit_cards/"
       },
       {
         "card_slug": "axis-privilege",

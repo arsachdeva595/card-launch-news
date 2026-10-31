@@ -1,5 +1,25 @@
 [
   {
+    "id": "hdfc-bank-credit-card-and-home-loan-collections",
+    "cardName": "Credit Card And Home Loan Collections",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/need-help/credit-card-and-home-loan-collections",
+    "discoveredAt": "2026-10-31T09:36:03.705Z",
+    "lastmod": "2026-10-30T15:39:04+05:30",
+    "announcement": {
+      "title": "Credit Card And Home Loan Collections",
+      "url": "https://www.hdfc.bank.in/need-help/credit-card-and-home-loan-collections",
+      "description": "Official product page on HDFC Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-apply-for-airport-lounge-access-credit-card",
     "cardName": "Apply for Airport Lounge Access Credit Card",
     "issuerName": "ICICI Bank",

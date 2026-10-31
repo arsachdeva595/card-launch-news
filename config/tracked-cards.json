@@ -3914,5 +3914,11 @@
     "issuerSlug": "icici-bank",
     "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/airport-lounge-access",
     "status": "Active"
+  },
+  {
+    "cardName": "Credit Card And Home Loan Collections",
+    "issuerSlug": "hdfc-bank",
+    "url": "https://www.hdfc.bank.in/need-help/credit-card-and-home-loan-collections",
+    "status": "Active"
   }
 ]

@@ -1,5 +1,1093 @@
 [
   {
+    "id": "icici-bank-emeralde-private-metal-credit-card",
+    "cardName": "Emeralde Private Metal Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:43:11.378Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Private Metal Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with ICICI Bank Emeralde Private Metal Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Access 1,900+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added complimentary Priority Pass membership for Emeralde Private Metal Credit Card holders."
+    }
+  },
+  {
+    "id": "axis-bank-travel-credit-card",
+    "cardName": "Travel Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:38:24.363Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Milestone Vouchers worth 1200 IndiGo BluChips on cumulative eligible spends of ₹1.5L & 3L in a card anniversary year"
+      },
+      {
+        "type": "context",
+        "text": "Accelerated rewards up to 2 IndiGo BluChips per ₹100 on IndiGo channels, Grocery & Dining spends"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹799"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹799"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free)"
+      },
+      {
+        "type": "context",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "A Travel Credit Card focuses on rewarding travel spending while offering convenience, safety, and global usability. These features are especially valuable for frequent flyers and international travellers."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining and annual fees updated to ₹799 and ₹1500 respectively"
+    }
+  },
+  {
+    "id": "axis-bank-spicejet-axis-bank-voyage-credit-card",
+    "cardName": "SpiceJet Axis Bank Voyage Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:38:24.349Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Milestone benefit of 1500 EDGE REWARD Points"
+      },
+      {
+        "type": "context",
+        "text": "₹150 instant discount on Swiggy"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "AXIS BANK VISTARA Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹1,500"
+      },
+      {
+        "type": "context",
+        "text": "FAQ on Clear existing status in CIC"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Equifax credit score: Meaning and how to check it?"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "added",
+        "text": "STD full form & meaning in CIBIL report"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "context",
+        "text": "6 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Credit bureau meaning and how it functions?"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Understanding your CRIF score – Meaning, full form, importance and improvement tips"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Experian credit score – Meaning, report details, importance & how to improve it"
+      },
+      {
+        "type": "added",
+        "text": "Commercial CIBIL report - Meaning & features"
+      },
+      {
+        "type": "added",
+        "text": "Sep 28, 2026"
+      },
+      {
+        "type": "added",
+        "text": "6 min read"
+      },
+      {
+        "type": "added",
+        "text": "DBT in CIBIL report: Meaning, impact, and how to fix it"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "added",
+        "text": "776 credit score: Is it good or bad?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a ₹1000 joining fee and a ₹1000 annual fee to the card."
+    }
+  },
+  {
+    "id": "axis-bank-titanium-smart-traveler-credit-card",
+    "cardName": "Titanium Smart Traveler Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:38:24.343Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "FAQ on Clear existing status in CIC"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Equifax credit score: Meaning and how to check it?"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "added",
+        "text": "STD full form & meaning in CIBIL report"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "context",
+        "text": "6 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Credit bureau meaning and how it functions?"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Understanding your CRIF score – Meaning, full form, importance and improvement tips"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Experian credit score – Meaning, report details, importance & how to improve it"
+      },
+      {
+        "type": "added",
+        "text": "Commercial CIBIL report - Meaning & features"
+      },
+      {
+        "type": "added",
+        "text": "Sep 28, 2026"
+      },
+      {
+        "type": "added",
+        "text": "6 min read"
+      },
+      {
+        "type": "added",
+        "text": "DBT in CIBIL report: Meaning, impact, and how to fix it"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "added",
+        "text": "776 credit score: Is it good or bad?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining fee and annual fee of ₹1500 each added to the card."
+    }
+  },
+  {
+    "id": "axis-bank-privilege-easy-credit-card",
+    "cardName": "Privilege Easy Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-easy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:38:24.336Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Loss of Check-In Baggage Cover upto $500"
+      },
+      {
+        "type": "context",
+        "text": "Terms and Conditions apply. Click here for detailed Cover and Claim Procedure."
+      },
+      {
+        "type": "added",
+        "text": "Buy one get one offer on movie tickets"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege credit card"
+      },
+      {
+        "type": "added",
+        "text": "Get up to Rs. 250 off, valid once a month. Applicable on spends of 25K in previous 3 calendar months. For more details, please click here ."
+      },
+      {
+        "type": "added",
+        "text": "Apply the code AXISPRIVILEGE to get this discount."
+      },
+      {
+        "type": "context",
+        "text": "Beat the mid-week blues with exciting offers every Wednesday."
+      },
+      {
+        "type": "context",
+        "text": "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Milestone benefit of 1500 EDGE REWARD Points"
+      },
+      {
+        "type": "context",
+        "text": "₹150 instant discount on Swiggy"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "Kwik Axis Bank Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a ₹1000 joining fee and a ₹1000 annual fee to the card."
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-select-credit-card",
+    "cardName": "Axis Bank Select Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:38:24.333Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply the code AXISSELECT to get this discount"
+      },
+      {
+        "type": "context",
+        "text": "Please click here for detailed terms & conditions."
+      },
+      {
+        "type": "removed",
+        "text": "This offer will be valid wef 20th June 2025"
+      },
+      {
+        "type": "added",
+        "text": "Effective 1st Nov 2026, access to the Movie Offer will be subject to a minimum eligible spend of 25,000 in the preceding 3 calendar months."
+      },
+      {
+        "type": "context",
+        "text": "The Axis Bank SELECT Credit Card fees are listed in the table below."
+      },
+      {
+        "type": "context",
+        "text": "Description Charges"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Movie Offer now requires a minimum spend of 25,000 in the preceding 3 calendar months, effective 1 Nov 2026."
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-rewards-credit-card",
+    "cardName": "Axis Bank REWARDS Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:38:24.329Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Click here to avail the offers"
+      },
+      {
+        "type": "context",
+        "text": "Fees Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee ₹NIL (Limited period offer on Amex Network)"
+      },
+      {
+        "type": "removed",
+        "text": "Standard annual Fee (2nd year Onwards) ₹NIL (Limited period offer on Amex Network)"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee ₹1,000"
+      },
+      {
+        "type": "added",
+        "text": "Standard annual Fee (2nd year Onwards) ₹1,000"
+      },
+      {
+        "type": "context",
+        "text": "Add-on card joining fee Nil"
+      },
+      {
+        "type": "context",
+        "text": "Add-on card annual fee Nil"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹3000"
+      },
+      {
+        "type": "context",
+        "text": "(NIL for Burgundy Customers)"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Equifax credit score: Meaning and how to check it?"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "added",
+        "text": "STD full form & meaning in CIBIL report"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "context",
+        "text": "6 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Credit bureau meaning and how it functions?"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Understanding your CRIF score – Meaning, full form, importance and improvement tips"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Experian credit score – Meaning, report details, importance & how to improve it"
+      },
+      {
+        "type": "added",
+        "text": "Commercial CIBIL report - Meaning & features"
+      },
+      {
+        "type": "added",
+        "text": "Sep 28, 2026"
+      },
+      {
+        "type": "added",
+        "text": "6 min read"
+      },
+      {
+        "type": "added",
+        "text": "DBT in CIBIL report: Meaning, impact, and how to fix it"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "added",
+        "text": "776 credit score: Is it good or bad?"
+      },
+      {
+        "type": "context",
+        "text": "Got more questions?"
+      },
+      {
+        "type": "context",
+        "text": "For any queries, locate the nearest branch."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining fee increased to ₹1,000"
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-my-zone-credit-card",
+    "cardName": "Axis Bank My Zone Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:38:24.328Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Value Chart"
+      },
+      {
+        "type": "context",
+        "text": "Buy One Get One Free on movie tickets"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy 100% discount on your second movie ticket booked via District app"
+      },
+      {
+        "type": "removed",
+        "text": "using your MY ZONE Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Complimentary Sony LIV Premium annual subscription"
+      },
+      {
+        "type": "context",
+        "text": "Receive a SonyLIV premium annual subscription valued at ₹1499 for free"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get up to ₹200 off per month."
+      },
+      {
+        "type": "context",
+        "text": "Remember to apply the coupon code AXIS200 to receive this discount."
+      },
+      {
+        "type": "added",
+        "text": "Benefit is applicable upon achieving ₹25,000 spends in the preceding 3 calendar months."
+      },
+      {
+        "type": "context",
+        "text": "Note: No reward points are earned on movie transactions."
+      },
+      {
+        "type": "added",
+        "text": "Offer Valid once a month."
+      },
+      {
+        "type": "added",
+        "text": "Please Click here for detailed Terms and conditions."
+      },
+      {
+        "type": "context",
+        "text": "Complimentary Sony LIV Premium annual subscription"
+      },
+      {
+        "type": "context",
+        "text": "Receive a SonyLIV premium annual subscription valued at ₹1499 for free with your first purchase within first 30 days of issuance."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Please refer to the offer terms and conditions for more details."
+      },
+      {
+        "type": "context",
+        "text": "Value Chart"
+      },
+      {
+        "type": "removed",
+        "text": "The value chart for MYZONE Credit Card lists the cashback and points earned based on your transactions. You can avail benefits worth upto ₹12,999 using your MYZONE Credit Card annually."
+      },
+      {
+        "type": "added",
+        "text": "The value chart for MYZONE Credit Card highlights the EDGE Reward Points, instant discounts, and exclusive benefits available on your card. You can avail annual benefits worth up to ₹9,739 with your MYZONE Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Details Monthly Benefit (₹) Annual Benefit (₹)"
+      },
+      {
+        "type": "context",
+        "text": "Sony Liv Activation Benefit 1"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Milestone benefit of 1500 EDGE REWARD Points"
+      },
+      {
+        "type": "context",
+        "text": "₹150 instant discount on Swiggy"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "AXIS BANK MAGNUS Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added ₹1000 joining and annual fees, updated reward benefits and discount terms."
+    }
+  },
+  {
+    "id": "axis-bank-neo-credit-card",
+    "cardName": "Neo Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:38:24.326Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy the 'Power of 10'"
+      },
+      {
+        "type": "context",
+        "text": "10% off on Blinkit &ndash; Up to ₹250 off on min spends of ₹750, valid once per month."
+      },
+      {
+        "type": "removed",
+        "text": "10% off on every purchase of movie ticket on BookMyShow with maximum monthly benefits up to ₹100."
+      },
+      {
+        "type": "added",
+        "text": "10% off on every purchase of movie ticket on BookMyShow with maximum monthly benefit up to ₹100. Benefit is applicable upon achieving ₹25,000 spends in the preceding 3 calendar months."
+      },
+      {
+        "type": "context",
+        "text": "For detailed terms and conditions, click here"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program. Valid till 30th July 2026"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added spend threshold requirement for movie ticket discount benefit."
+    }
+  },
+  {
+    "id": "axis-bank-flipkart-axis-bank-credit-card",
+    "cardName": "FLIPKART AXIS BANK Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-10-31T09:38:24.325Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "The Flipkart Axis Bank Credit Card fees and charges are listed in the table below:"
+      },
+      {
+        "type": "context",
+        "text": "Description Charges"
+      },
+      {
+        "type": "removed",
+        "text": "Joining fee ₹NIL (Limited period offer)"
+      },
+      {
+        "type": "added",
+        "text": "Joining fee ₹500"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee 2nd year Onwards: ₹500"
+      },
+      {
+        "type": "context",
+        "text": "Annual fee waived off on annual spends greater than ₹3,50,000."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "A diverse"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining fee changed from NIL to ₹500 and ₹1500, and an annual fee of ₹1500 was introduced."
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-privilege-credit-card",
+    "cardName": "AXIS BANK PRIVILEGE Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
+    "status": "Discontinued",
+    "detectedAt": "2026-10-31T09:38:24.322Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card."
+      },
+      {
+        "type": "removed",
+        "text": "Get up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "Apply the code AXISPRIVILEGE to get this discount. The offer will be valid wef 20th June 2025"
+      },
+      {
+        "type": "added",
+        "text": "Get up to Rs. 250 off, valid once a month. Applicable on spends of 25K in previous 3 calendar months. For more details, please click here ."
+      },
+      {
+        "type": "added",
+        "text": "Apply the code AXISPRIVILEGE to get this discount."
+      },
+      {
+        "type": "context",
+        "text": "Annual fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "Annual fee waiver on achieving spends of ₹5 lakhs in a card anniversary year."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Milestone benefit of 1500 EDGE REWARD Points"
+      },
+      {
+        "type": "context",
+        "text": "₹150 instant discount on Swiggy"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹499"
+      },
+      {
+        "type": "context",
+        "text": "Add-On Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Equifax credit score: Meaning and how to check it?"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "added",
+        "text": "STD full form & meaning in CIBIL report"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "context",
+        "text": "6 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Credit bureau meaning and how it functions?"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Understanding your CRIF score – Meaning, full form, importance and improvement tips"
+      },
+      {
+        "type": "removed",
+        "text": "Sep 9, 2026"
+      },
+      {
+        "type": "removed",
+        "text": "5 min read"
+      },
+      {
+        "type": "removed",
+        "text": "Experian credit score – Meaning, report details, importance & how to improve it"
+      },
+      {
+        "type": "added",
+        "text": "Commercial CIBIL report - Meaning & features"
+      },
+      {
+        "type": "added",
+        "text": "Sep 28, 2026"
+      },
+      {
+        "type": "added",
+        "text": "6 min read"
+      },
+      {
+        "type": "added",
+        "text": "DBT in CIBIL report: Meaning, impact, and how to fix it"
+      },
+      {
+        "type": "added",
+        "text": "Sep 27, 2026"
+      },
+      {
+        "type": "added",
+        "text": "776 credit score: Is it good or bad?"
+      },
+      {
+        "type": "context",
+        "text": "Your Axis Privilege Credit Card awaits you!"
+      },
+      {
+        "type": "context",
+        "text": "Check Eligibility"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a joining fee of ₹1000 and an annual fee of ₹1000 to the card."
+    }
+  },
+  {
     "id": "kotak-mahindra-bank-kotak-cashback-credit-card",
     "cardName": "Kotak Cashback+ Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -148,74 +1236,6 @@
     }
   },
   {
-    "id": "axis-bank-travel-credit-card",
-    "cardName": "Travel Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-29T09:58:34.178Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
-      },
-      {
-        "type": "context",
-        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
-      },
-      {
-        "type": "removed",
-        "text": "(This card is currently Lifetime Free on Amex network)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "A Travel Credit Card focuses on rewarding travel spending while offering convenience, safety, and global usability. These features are especially valuable for frequent flyers and international travellers."
-      },
-      {
-        "type": "context",
-        "text": "Airport lounge access"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "UPI card"
-      },
-      {
-        "type": "context",
-        "text": "Fee waiver"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Network changed from Amex to Visa, making the card lifetime free on Visa."
-    }
-  },
-  {
     "id": "axis-bank-dining-credit-card",
     "cardName": "Dining Credit Card",
     "issuerName": "Axis Bank",
@@ -277,220 +1297,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added lifetime free on Visa Network benefit."
-    }
-  },
-  {
-    "id": "axis-bank-titanium-smart-traveler-credit-card",
-    "cardName": "Titanium Smart Traveler Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-29T09:58:34.162Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
-      },
-      {
-        "type": "context",
-        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
-      },
-      {
-        "type": "removed",
-        "text": "(This card is currently Lifetime Free on Amex network)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "FAQ on Clear existing status in CIC"
-      },
-      {
-        "type": "context",
-        "text": "Sep 9, 2026"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Lifetime free network changed from Amex to Visa"
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-my-zone-credit-card",
-    "cardName": "Axis Bank My Zone Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-29T09:58:34.150Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card comes with various fees and charges, including joining fees, annual fees, cash payment fees, withdrawal fees, and applicable penalties."
-      },
-      {
-        "type": "context",
-        "text": "Description Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Joining fee ₹500"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee ₹500"
-      },
-      {
-        "type": "added",
-        "text": "Joining fee ₹NIL (Limited period offer on Visa Network)"
-      },
-      {
-        "type": "added",
-        "text": "Annual Fee ₹NIL (Limited period offer on Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "Add-on Card Joining Fee Nil"
-      },
-      {
-        "type": "context",
-        "text": "Add-on Card Annual Fee Nil"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-flipkart-axis-bank-credit-card",
-    "cardName": "FLIPKART AXIS BANK Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-29T09:58:34.147Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
-      },
-      {
-        "type": "context",
-        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
-      },
-      {
-        "type": "removed",
-        "text": "(This card is currently Lifetime Free on Amex network)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "A diverse"
-      },
-      {
-        "type": "context",
-        "text": "range of services, including rewards, travel perks, fraud protection & more that add value to your"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Network changed from Amex to Visa for lifetime free usage",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Need advice regarding multiple credit cards, shared limits, EDD verification, and limit enhancement",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x7bqc2/need_advice_regarding_multiple_credit_cards/",
-        "description": "&#x200B; Hello everyone! This is going to be a slightly long post, so I hope you’ll bear with me until the end. I have a few questions regarding my father&#39;s credit cards and would appreciate advice from people with experience. Here is t"
-      },
-      "via": "reddit"
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-privilege-credit-card",
-    "cardName": "AXIS BANK PRIVILEGE Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits",
-    "status": "Discontinued",
-    "detectedAt": "2026-10-29T09:58:34.144Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "In Privilege Credit Card fees, overdue penalty, fee on cash payment, etc. are applicable as per terms and conditions. However, fees and charges for Privilege Credit Card are waived for services like mobile alerts. The detailed fee structure is provided below."
-      },
-      {
-        "type": "context",
-        "text": "Description Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Joining Fee ₹NIL (Limited period offer on Amex Network)"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer on Amex Network)"
-      },
-      {
-        "type": "added",
-        "text": "Standard Joining Fee ₹NIL (Limited period offer on Visa Network)"
-      },
-      {
-        "type": "added",
-        "text": "Standard Annual Fee (2nd year onwards) ₹NIL (Limited period offer on Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "Standard Add-on Card Joining Fee Nil"
-      },
-      {
-        "type": "context",
-        "text": "Standard Add-on Card Annual Fee Nil"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank REWARDS Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -1662,408 +2468,6 @@
     }
   },
   {
-    "id": "icici-bank-emeralde-private-metal-credit-card",
-    "cardName": "Emeralde Private Metal Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icicibank.com/personal-banking/cards/credit-card/emeralde-private-metal-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-27T09:04:32.389Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Joining Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Get Taj Epicure Plus Membership, EazyDiner Prime Membership and 12,500 Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited Golf rounds"
-      },
-      {
-        "type": "removed",
-        "text": "Get unlimited Golf rounds every month,  Click here for list of Golf Courses"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited International airport lounge access for both Primary and Plus Card members."
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited lounge access"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited Domestic airport lounge access for both Primary and Plus Card members."
-      },
-      {
-        "type": "removed",
-        "text": "Click here for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "Twice a month"
-      },
-      {
-        "type": "removed",
-        "text": "Buy One Get One up to ₹750 off on BookMyShow. To know the steps, Click here"
-      },
-      {
-        "type": "added",
-        "text": "Monthly"
-      },
-      {
-        "type": "added",
-        "text": "Get unlimited Complimentary Golf rounds/ lesson every month for Primary Cardholders, For list of Golf Courses,  Click here"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get Unlimited complimentary International airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list, Click here"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders and Plus Cardholders. For lounge list, Click here"
-      },
-      {
-        "type": "added",
-        "text": "Monthly"
-      },
-      {
-        "type": "added",
-        "text": "Buy One Get One up to ₹750 off twice a month, on BookMyShow. To know the steps,  Click here"
-      },
-      {
-        "type": "context",
-        "text": "Vouchers worth up to ₹6,000"
-      },
-      {
-        "type": "context",
-        "text": "Get 2 EaseMyTrip vouchers on annual spends of ₹8 lakh"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Up to ₹3 crore"
-      },
-      {
-        "type": "context",
-        "text": "Get an Air Accident Insurance cover."
-      },
-      {
-        "type": "removed",
-        "text": "Click here  to update your Nominee details. Click here for T&Cs"
-      },
-      {
-        "type": "added",
-        "text": "Click here  to update your Nominee details. For T&C’s     Click here"
-      },
-      {
-        "type": "context",
-        "text": "Refund of ₹12,000"
-      },
-      {
-        "type": "context",
-        "text": "No cancellation charges on domestic flight and hotel bookings, up to ₹12,000.  Click here"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy unlimited complimentary accesses to international airport lounges with ICICI Bank Emeralde Private Metal Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with ICICI Bank Emeralde Private Metal Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Soumy Dhawan"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Credit Cards are surely one of the best cards out there with an unbeatable reward system. The best part, the quick services they provide."
-      },
-      {
-        "type": "removed",
-        "text": "Feedback pop 1"
-      },
-      {
-        "type": "removed",
-        "text": "One"
-      },
-      {
-        "type": "removed",
-        "text": "May be later"
-      },
-      {
-        "type": "removed",
-        "text": "CTA"
-      },
-      {
-        "type": "removed",
-        "text": "Want us to call you back?"
-      },
-      {
-        "type": "removed",
-        "text": "Give us a few details for us to help you!"
-      },
-      {
-        "type": "removed",
-        "text": "Are you an NRI?*"
-      },
-      {
-        "type": "removed",
-        "text": "First Name*"
-      },
-      {
-        "type": "removed",
-        "text": "Last Name*"
-      },
-      {
-        "type": "removed",
-        "text": "Country*"
-      },
-      {
-        "type": "removed",
-        "text": "Select your Country"
-      },
-      {
-        "type": "removed",
-        "text": "close dropdown"
-      },
-      {
-        "type": "removed",
-        "text": "Select your Country"
-      },
-      {
-        "type": "removed",
-        "text": "Algeria"
-      },
-      {
-        "type": "removed",
-        "text": "Andorra"
-      },
-      {
-        "type": "removed",
-        "text": "Afghanistan"
-      },
-      {
-        "type": "removed",
-        "text": "Antigua and Barbuda"
-      },
-      {
-        "type": "removed",
-        "text": "Anguilla"
-      },
-      {
-        "type": "removed",
-        "text": "Albania"
-      },
-      {
-        "type": "removed",
-        "text": "Netherlands Antilles"
-      },
-      {
-        "type": "removed",
-        "text": "Angola"
-      },
-      {
-        "type": "removed",
-        "text": "Argentina"
-      },
-      {
-        "type": "removed",
-        "text": "Aruba"
-      },
-      {
-        "type": "removed",
-        "text": "American Samoa"
-      },
-      {
-        "type": "removed",
-        "text": "Austria"
-      },
-      {
-        "type": "removed",
-        "text": "Australia"
-      },
-      {
-        "type": "removed",
-        "text": "Azerbaijan"
-      },
-      {
-        "type": "removed",
-        "text": "{{! }}"
-      },
-      {
-        "type": "removed",
-        "text": "Mobile Number*"
-      },
-      {
-        "type": "removed",
-        "text": "+"
-      },
-      {
-        "type": "removed",
-        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
-      },
-      {
-        "type": "removed",
-        "text": "Email*"
-      },
-      {
-        "type": "removed",
-        "text": "Product*"
-      },
-      {
-        "type": "removed",
-        "text": "Select a Product"
-      },
-      {
-        "type": "removed",
-        "text": "close dropdown"
-      },
-      {
-        "type": "removed",
-        "text": "Select Product"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Home Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Investment Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Property Purchase Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Land Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Investment Home Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Commercial Property Loan"
-      },
-      {
-        "type": "removed",
-        "text": "Mobile Number*"
-      },
-      {
-        "type": "removed",
-        "text": "Email ID*"
-      },
-      {
-        "type": "removed",
-        "text": "Product Type"
-      },
-      {
-        "type": "removed",
-        "text": "Pincode*"
-      },
-      {
-        "type": "removed",
-        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
-      },
-      {
-        "type": "removed",
-        "text": "Enter OTP"
-      },
-      {
-        "type": "removed",
-        "text": "GET OTP"
-      },
-      {
-        "type": "removed",
-        "text": "RESEND OTP in 1:00"
-      },
-      {
-        "type": "removed",
-        "text": "ICICI Bank Emeralde Private Metal Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "ICICI Bank Parakram Select Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "ICICI Bank Parakram Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "ICICI Bank Corporate Gold Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "ICICI Bank Corporate Platinum Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Business Micro Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Updated golf, lounge, and BOGO benefits to monthly/quarterly terms and changed priority pass card name.",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Update on ICICI Bank 1838 Reserve Credit Card",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x32um2/update_on_icici_bank_1838_reserve_credit_card/",
-        "description": "Looks like ICICI Bank has updated some details about the upcoming 1838 Reserve credit card. Link: https://www.icici.bank.in/managed-assets/docs/personal/cards/mitc_cc.pdf?ITM=nli_documents_cards_creditCard_documents_na_1_na_na_NLI I was exp"
-      },
-      "via": "reddit"
-    }
-  },
-  {
     "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
     "cardName": "Tata Neu Plus HDFC Bank Credit Card",
     "issuerName": "HDFC Bank",
@@ -3148,106 +3552,6 @@
     }
   },
   {
-    "id": "axis-bank-axis-bank-rewards-credit-card",
-    "cardName": "Axis Bank REWARDS Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-15T08:18:00.634Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Reward points will be credited directly to the customer's EDGE account ."
-      },
-      {
-        "type": "context",
-        "text": "For terms and conditions click here ."
-      },
-      {
-        "type": "added",
-        "text": "Welcome benefit"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy 5,000 EDGE REWARDPoints on cumulative net spends of ₹1,000 or above within 30 days of card issuance."
-      },
-      {
-        "type": "added",
-        "text": "For terms and conditions click here"
-      },
-      {
-        "type": "added",
-        "text": "Not applicable on Lifetime free and migrated card."
-      },
-      {
-        "type": "context",
-        "text": "Membership benefits"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy a bouquet of memberships up to ₹1,000 every anniversary year."
-      },
-      {
-        "type": "context",
-        "text": "Eligible customers will get the membership link via SMS on registered mobile number within 60 days of becoming eligible."
-      },
-      {
-        "type": "context",
-        "text": "For terms and conditions click here"
-      },
-      {
-        "type": "added",
-        "text": "Not applicable on Lifetime free and migrated card"
-      },
-      {
-        "type": "context",
-        "text": "Milestone Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Earn 1,500 EDGE REWARD points on net spends of ₹30,000 per statement cycle."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "**Based on assumption that customer orders from Swiggy twice a month of minimum order value of ₹200"
-      },
-      {
-        "type": "context",
-        "text": "***Based on assumption that milestone benefit of ₹30,000 per month is achieved 3 times a year"
-      },
-      {
-        "type": "removed",
-        "text": "**** Based on assumption that customer transacts ₹1,000 within 30 days of card issuance"
-      },
-      {
-        "type": "added",
-        "text": "**** Based on assumption that customer transacts ₹1,000 within 30 days of card issuance. Not applicable on Lifetime free and migrated card"
-      },
-      {
-        "type": "context",
-        "text": "^^Valid on transactions between ₹400 and ₹5,000 only. GST charged on fuel surcharge is non-refundable."
-      },
-      {
-        "type": "context",
-        "text": "^The Redemption Value of Each EDGE REWARD Point = ₹0.20"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a welcome benefit of 5,000 EDGE REWARDPoints for ₹1,000 cumulative spend within 30 days of issuance."
-    }
-  },
-  {
     "id": "amex-the-lounge-adani-lounge-at-sardar-vallabhbhai-patel-international-airport",
     "cardName": "The Lounge (Adani Lounge) at Sardar Vallabhbhai Patel International Airport",
     "issuerName": "American Express (India)",
@@ -4189,66 +4493,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Welcome benefit changed from INR1,000 cashback to 2‑month EazyDiner membership."
-    }
-  },
-  {
-    "id": "axis-bank-neo-credit-card",
-    "cardName": "Neo Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-08T10:34:50.521Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Neo Credit Card: Lifetime Free with Offers on Zomato, Myntra & More | Axis Bank"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank Neo Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Lifetime free Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Activation benefits & rewards"
-      },
-      {
-        "type": "context",
-        "text": "Exclusive offers for big savings"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "10% off on Blinkit &ndash; Up to ₹250 off on min spends of ₹750, valid once per month."
-      },
-      {
-        "type": "context",
-        "text": "10% off on every purchase of movie ticket on BookMyShow with maximum monthly benefits up to ₹100."
-      },
-      {
-        "type": "removed",
-        "text": "₹150 off on Myntra on minimum spends of ₹999 on selected styles - Valid till 31st March'26"
-      },
-      {
-        "type": "context",
-        "text": "For detailed terms and conditions, click here"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program. Valid till 30th July 2026"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -6375,70 +6619,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated lounge and movie ticket discount benefits with new spend thresholds and quarterly eligibility"
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-select-credit-card",
-    "cardName": "Axis Bank Select Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-01T10:08:17.688Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Enjoy 2 complimentary domestic lounge visits per quarter on spending ₹50,000 in the last 3 months. Click here for terms & conditions regarding the domestic lounge."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass will renew automatically upon meeting ₹3 Lakhs Spends in preceding card anniversary year."
-      },
-      {
-        "type": "added",
-        "text": "Effective 1 October 2026, spends on Insurance, Utilities & Telecom, Gold/Jewellery, Education, Government Services, Rent, Fuel, Wallets, and Gift Cards will be excluded from the spend threshold calculation for unlocking 6 additional lounge visits and priority pass renewal."
-      },
-      {
-        "type": "context",
-        "text": "Annual benefits"
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass membership renewal on annual spend of ₹3 lakh."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 6 complimentary Golf rounds per year."
-      },
-      {
-        "type": "context",
-        "text": "Unlock additional 6 complimentary golf rounds wihin the same anniversary year on achieving the spends of ₹3 Lakhs in that anniversary year, the validity for the same will be current anniversary year."
-      },
-      {
-        "type": "added",
-        "text": "Effective 1 October 2026, spends on Insurance, Utilities & Telecom, Gold/Jewellery, Education, Government Services, Rent, Fuel, Wallets, and Gift Cards will be excluded from the spend threshold calculation for unlocking 6 additional golf rounds."
-      },
-      {
-        "type": "context",
-        "text": "Visit www.extraordinaryweekends.com and register for your complimentary golf rounds/lessons."
-      },
-      {
-        "type": "context",
-        "text": "Click here for the terms & conditions regarding Golf Access."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added spend threshold exemption for lounge visits and golf rounds"
     }
   },
   {
@@ -16433,130 +16613,6 @@
     }
   },
   {
-    "id": "axis-bank-spicejet-axis-bank-voyage-credit-card",
-    "cardName": "SpiceJet Axis Bank Voyage Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/spicejet-axis-bank-voyage-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.233Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "10% off on orders via Swiggy"
-      },
-      {
-        "type": "context",
-        "text": "10% off up to ₹ 1000 on Tira"
-      },
-      {
-        "type": "removed",
-        "text": "The fees and charges for SpiceJet Axis Bank Voyage Credit Card are applicable to all card holders. The fees include cash payment fee, joining fee and an annual fee etc."
-      },
-      {
-        "type": "removed",
-        "text": "View Fees and Charges Table"
-      },
-      {
-        "type": "removed",
-        "text": "The fees and charges for SpiceJet Axis Bank Voyage Credit Card are applicable to all card holders. The fees include cash payment fee, joining fee and an annual fee etc."
-      },
-      {
-        "type": "added",
-        "text": "The fees and charges for SpiceJet Axis Bank Voyage Credit Card are applicable to all card holde₹ The fees include cash payment fee, joining fee and an annual fee etc."
-      },
-      {
-        "type": "added",
-        "text": "View Fees and Charges"
-      },
-      {
-        "type": "added",
-        "text": "The fees and charges for SpiceJet Axis Bank Voyage Credit Card are applicable to all card holde₹ The fees include cash payment fee, joining fee and an annual fee etc."
-      },
-      {
-        "type": "context",
-        "text": "Descriptions Charges"
-      },
-      {
-        "type": "context",
-        "text": "Joining Fee ₹ 750"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "₹ 500 if total payment due is between ₹ 501 - ₹ 5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹ 750 if total payment due is between ₹ 5,001 - ₹ 10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹ 1200 if total payment due is greater"
-      },
-      {
-        "type": "removed",
-        "text": "than ₹10,000"
-      },
-      {
-        "type": "added",
-        "text": "₹ 1200 if total payment due is greater than ₹ 10001- ₹ 50000"
-      },
-      {
-        "type": "added",
-        "text": "₹ 1300 if total payment due is greater than ₹ 50000"
-      },
-      {
-        "type": "context",
-        "text": "Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Over Limit Penalty 2.5% of over the limit amount (Min. ₹ 500)"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "GST As per existing Government norms"
-      },
-      {
-        "type": "context",
-        "text": "Rental Transaction Fee 1% transaction will be applicable on rental transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic Currency Conversion Markup 1.5% will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian"
-      },
-      {
-        "type": "added",
-        "text": "Dynamic Currency Conversion Markup 3.5% will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian"
-      },
-      {
-        "type": "context",
-        "text": "but registered in foreign nation."
-      },
-      {
-        "type": "context",
-        "text": "Education Payment Charges 1% fee per transaction will be applicable on education payments made via third party apps"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated late payment fee thresholds and increased DCC markup to 3.5%"
-    }
-  },
-  {
     "id": "axis-bank-flipkart-axis-bank-super-elite-credit-card",
     "cardName": "Flipkart Axis Bank Super Elite Credit Card",
     "issuerName": "Axis Bank",
@@ -17434,126 +17490,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Dynamic currency conversion fee increased to 3.5% for international transactions in Indian currency."
-    }
-  },
-  {
-    "id": "axis-bank-privilege-easy-credit-card",
-    "cardName": "Privilege Easy Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/privilege-easy-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:12:34.223Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Annual benefits"
-      },
-      {
-        "type": "context",
-        "text": "Annual fees of ₹1,500 will be reversed on achieving spends* of ₹5 lakhs in the previous card anniversary year."
-      },
-      {
-        "type": "removed",
-        "text": "Spends threshold for annual fee reversal will exclude rent and wallet transactions. The merchant category code of rent is 6513 and wallet is 6540. This revision is effective from 05-03-2023."
-      },
-      {
-        "type": "added",
-        "text": "Spends threshold for annual fee waiver will exclude transactions made on Utility & Telecom, Rent, Wallet, Government services, Insurance, Gold & Jewelry, Fuel, Education services, Bridge Fees, Road Fees & Tolls."
-      },
-      {
-        "type": "context",
-        "text": "Access numerous airport lounges"
-      },
-      {
-        "type": "context",
-        "text": "Two complimentary access per calendar quarter to select domestic airport lounges with Axis Bank Privilege Easy Credit Card."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Card Replacement (lost or stolen or re-issue) Nil"
-      },
-      {
-        "type": "context",
-        "text": "Duplicate Statement Fee Waived"
-      },
-      {
-        "type": "removed",
-        "text": "Overdue Penalty or Late Payment Fee Nil if Total Payment Due is less than ₹500₹500 if total payment due is between ₹501 - ₹5,000₹750 if total payment due is between ₹5,001 - ₹10,000₹1200 if total payment due is greater than ₹10,000Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared."
-      },
-      {
-        "type": "added",
-        "text": "Overdue Penalty or Late Payment Fee Nil if outstanding amount is less than ₹500"
-      },
-      {
-        "type": "added",
-        "text": "₹500 if outstanding amount is between ₹501 and ₹5,000"
-      },
-      {
-        "type": "added",
-        "text": "₹750 if outstanding amount is between ₹5,001 and ₹10,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is between ₹10001- ₹50000"
-      },
-      {
-        "type": "added",
-        "text": "₹ 1300 if total payment due is greater than ₹50000"
-      },
-      {
-        "type": "added",
-        "text": "Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Over Limit Penalty 2.5% of the overlimit amount (Min. ₹500)"
-      },
-      {
-        "type": "context",
-        "text": "Charge Slip Retrieval Fee or Copy Request Fee Waived"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Reward Redemption fee Waived"
-      },
-      {
-        "type": "context",
-        "text": "Rent surcharge fee 1% of the rental txn amount"
-      },
-      {
-        "type": "removed",
-        "text": "Dynamic currency conversion markup fee 1.5% of each international txn plus taxes"
-      },
-      {
-        "type": "added",
-        "text": "Dynamic currency conversion markup fee 3.5% of each international txn plus taxes"
-      },
-      {
-        "type": "context",
-        "text": "Education Payment Charges 1% fee per transaction will be applicable on education payments made via third party apps"
-      },
-      {
-        "type": "context",
-        "text": "Wallet Load Transaction Fee 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Dynamic currency conversion markup fee increased to 3.5% of each international transaction plus taxes"
     }
   },
   {

@@ -1,5 +1,81 @@
 [
   {
+    "id": "indusind-bank-crest-credit-card",
+    "cardName": "Crest Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/crest-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-11-02T11:08:36.906Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Effective 10th March 2026, your golf benefit will now include 2 complimentary games and 2 complimentary lessons per month , please click here for more details - Click here"
+      },
+      {
+        "type": "context",
+        "text": "Effective 1st April, 2026 spends criteria tracking will be initiated to unlock complimentary domestic lounge access from July, 2026 quarter onwards. click here to know more"
+      },
+      {
+        "type": "added",
+        "text": "Effective 3rd Dec'26, complimentary Golf Program benefits for Crest Credit Cardholders will be subject to a minimum spend of greater than Rs. 50,000 in the last statement generated as per the credit card billing cycle. Please click here for more details - Click here ."
+      },
+      {
+        "type": "context",
+        "text": "With a unique contactless feature and a card design that enables you to make fast, convenient and secure everyday purchases, the Legend Visa Credit Card helps you earn more reward points on your weekend spends as well as Bonus points on your yearly spends!"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1 reward point for every ₹ 100 spent on Weekdays and earn 2 reward points for every ₹ 100 spent on Weekends."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a minimum spend of Rs. 50,000 for Golf Program benefits."
+    }
+  },
+  {
+    "id": "federal-bank-visa-imperio-credit-card",
+    "cardName": "Visa Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-02T11:04:53.767Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 851da1db-e42i-4884-a5e4-ce24b07384ed"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 3d1a47a9-e42i-47e0-b98c-95f3347932e6"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 01 2026, 10:30:03 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 02 2026, 11:04:46 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-emeralde-private-metal-credit-card",
     "cardName": "Emeralde Private Metal Credit Card",
     "issuerName": "ICICI Bank",
@@ -18406,50 +18482,6 @@
     "summary": "Removed Fuel Surcharge Waiver benefit."
   },
   {
-    "id": "indusind-bank-crest-credit-card",
-    "cardName": "Crest Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/crest-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-21T04:05:56.273Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Click Here to know more."
-      },
-      {
-        "type": "context",
-        "text": "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 10000 per calendar month"
-      },
-      {
-        "type": "added",
-        "text": "Effective 5th October 2025, Complimentary ITC Membership which is available with MasterCard variant will be discontinued for existing cardholders and for any new customers boarded on or after 15th September 2025 will not be able to avail this offer."
-      },
-      {
-        "type": "added",
-        "text": "Effective 10th March 2026, your golf benefit will now include 2 complimentary games and 2 complimentary lessons per month , please click here for more details - Click here"
-      },
-      {
-        "type": "added",
-        "text": "Effective 1st April, 2026 spends criteria tracking will be initiated to unlock complimentary domestic lounge access from July, 2026 quarter onwards. click here to know more"
-      },
-      {
-        "type": "context",
-        "text": "With a unique contactless feature and a card design that enables you to make fast, convenient and secure everyday purchases, the Legend Visa Credit Card helps you earn more reward points on your weekend spends as well as Bonus points on your yearly spends!"
-      },
-      {
-        "type": "context",
-        "text": "Earn 1 reward point for every ₹ 100 spent on Weekdays and earn 2 reward points for every ₹ 100 spent on Weekends."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "indusind-bank-intermiles-voyage-amex-credit-card",
     "cardName": "InterMiles Voyage Amex Credit Card",
     "issuerName": "IndusInd Bank",
@@ -21064,130 +21096,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added 5% annual cashback for early payment within 7 days of statement generation."
-    }
-  },
-  {
-    "id": "indusind-bank-eazydiner-indusind-bank-platinum-credit-card",
-    "cardName": "EazyDiner IndusInd Bank Platinum Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/eazydiner-platinum-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-07-17T05:57:47.992Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "“Founded by a team of experienced restaurateurs and hoteliers, EazyDiner is India’s leading food discovery, table reservation & restaurant payment platform. It helps users discover great restaurants and bars, get guaranteed reservations within 10 seconds at over 15,000+ restaurants and every reservation comes with a deal, enhancing the dining experience. Diners can earn EazyPoints – EazyDiner’s loyalty program reward points – which can be further redeemed for free meals & free hotel stays. EazyDiner Prime is the award winning dining program which gives customers a guaranteed 25% to 50% off at the hottest bars and restaurants. EazyDiner has also partnered with IndusInd Bank to introduce two co-branded credit cards - Signature and Platinum, on the Visa platform. These cards provide users with additional benefits, offering savings of up to Rs.1000 OFF on dining experiences, further enhancing the allure of indulging through EazyDiner.”"
-      },
-      {
-        "type": "added",
-        "text": "Credit Card on UPI"
-      },
-      {
-        "type": "added",
-        "text": "Pay Now with UPI on your EazyDiner Platinum Credit Card (RuPay variant)"
-      },
-      {
-        "type": "added",
-        "text": "Credit Card on UPI is applicable only for RuPay variant"
-      },
-      {
-        "type": "added",
-        "text": "Link your EazyDiner Platinum Credit Card (RuPay variant) on UPI in Few Steps"
-      },
-      {
-        "type": "added",
-        "text": "Step 1: Open your UPI app* BHIM, PhonePe, Paytm, Google Pay."
-      },
-      {
-        "type": "added",
-        "text": "Step 2: Select the option \"Add Credit Card/Link Credit Card\""
-      },
-      {
-        "type": "added",
-        "text": "Step 3: Select Credit Card Issuer Bank (IndusInd Bank)"
-      },
-      {
-        "type": "added",
-        "text": "Step 4: Select your IndusInd EazyDiner Platinum Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Step 5: Proceed to generate UPI PIN"
-      },
-      {
-        "type": "added",
-        "text": "*(Download the UPI app from Playstore/App Store if you are not registered on any UPI app yet, verify your mobile no. and continue from Step 2 as shared above)"
-      },
-      {
-        "type": "added",
-        "text": "Set UPI Pin"
-      },
-      {
-        "type": "added",
-        "text": "Step 1: Select Generate PIN option > Select EazyDiner Platinum Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Step 2: Enter EazyDiner Platinum Credit Card Details:"
-      },
-      {
-        "type": "added",
-        "text": "Last 6 digits"
-      },
-      {
-        "type": "added",
-        "text": "Expiry Date"
-      },
-      {
-        "type": "added",
-        "text": "(OTP will be triggered on your registered mobile number)"
-      },
-      {
-        "type": "added",
-        "text": "Step 3: Enter OTP and Set PIN of your choice"
-      },
-      {
-        "type": "added",
-        "text": "Making UPI Payments with your EazyDiner Platinum Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Scan Merchant QR Code or enter Merchant UPI ID"
-      },
-      {
-        "type": "added",
-        "text": "Enter Amount to be paid or pay auto-fetched amount"
-      },
-      {
-        "type": "added",
-        "text": "Select EazyDiner Platinum Credit Card from the list of payment options"
-      },
-      {
-        "type": "added",
-        "text": "Enter UPI PIN of your Credit Card & Click Confirm"
-      },
-      {
-        "type": "added",
-        "text": "(Transaction status can be seen in Transaction History of your UPI App)"
-      },
-      {
-        "type": "added",
-        "text": "Click here for FAQs for UPI on CC"
-      },
-      {
-        "type": "added",
-        "text": "Here Is Why You Should Opt For UPI Payments Via Credit Cards"
-      },
-      {
-        "type": "added",
-        "text": "“Founded by a team of experienced restaurateurs and hoteliers, EazyDiner is India’s leading food discovery, table reservation & restaurant payment platform. It helps users discover great restaurants and bars, get guaranteed reservations within 10 seconds at over 15,000+ restaurants and every reservation comes with a deal, enhancing the dining experience. Diners can earn EazyPoints – EazyDiner’s loyalty program reward points – which can be further redeemed for free meals & free hotel stays. EazyDiner Prime is the award winning dining program which gives customers a guaranteed 25% to 50% off at the hottest bars and restaurants. EazyDiner has also partnered with IndusInd Bank to introduce two co-branded credit cards - Signature on Visa and Platinum on Visa & RuPay platform. These cards provide users with additional benefits, offering savings of up to Rs.1000 OFF on dining experiences, further enhancing the allure of indulging through EazyDiner.”"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   }
 ]

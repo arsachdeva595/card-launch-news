@@ -1,5 +1,33 @@
 [
   {
+    "card_slug": "travel-credit-card",
+    "card_name": "Travel Credit Card",
+    "issuer": "axis",
+    "change_type": "other",
+    "summary": "Rewards increased to 3 IndiGo BluChips per ₹100 spent; joining and annual fees dropped to ₹0, lifetime free offer extended to 31 Dec 2026.",
+    "status": "verified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1x9upfz/best_credit_card_for_domestic_flight_bookings_in/",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-11-03",
+    "edition_permalink": null
+  },
+  {
+    "card_slug": "platinum-credit-card",
+    "card_name": "Platinum Credit Card",
+    "issuer": "axis",
+    "change_type": "benefit-change",
+    "summary": "First Year Free benefit removed from Platinum Credit Card",
+    "status": "verified",
+    "official_link": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1x5muv2/need_clarity_on_indusind_co_branded_card_issuance/",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-11-03",
+    "edition_permalink": null
+  },
+  {
     "card_slug": "flipkart-axis-bank-credit-card",
     "card_name": "FLIPKART AXIS BANK Credit Card",
     "issuer": "axis",

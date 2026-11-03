@@ -1,5 +1,831 @@
 [
   {
+    "id": "indusind-bank-celesta-credit-card",
+    "cardName": "Celesta Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/celesta-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:57:18.758Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Effective 10th March 2026, your golf benefit will now include 1 complimentary game and 1 complimentary lesson per month , please click here for more details - Click here"
+      },
+      {
+        "type": "context",
+        "text": "Effective 1st April, 2026 spends criteria tracking will be initiated to unlock complimentary domestic lounge access from July, 2026 quarter onwards.  click here to know more"
+      },
+      {
+        "type": "added",
+        "text": "Effective 3rd Dec'26, complimentary Golf Program benefits for Celesta Credit Cardholders will be subject to a minimum spend of greater than Rs. 50,000 in the last statement generated as per the credit card billing cycle. Please click here for more details - Click here ."
+      },
+      {
+        "type": "context",
+        "text": "Indulge Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "A first of its kind credit card in the Indian sub-continent that comes with a pure 22K Gold inlay and absolutely no preset spending limit."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a Rs.50,000 minimum spend requirement for Golf Program benefits."
+    }
+  },
+  {
+    "id": "indusind-bank-indulge-credit-card",
+    "cardName": "Indulge Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/indulge-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:57:18.757Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "India."
+      },
+      {
+        "type": "context",
+        "text": "Effective 1st April, 2026 spends criteria tracking will be initiated to unlock complimentary domestic lounge access from July, 2026 quarter onwards.  click here  to know more."
+      },
+      {
+        "type": "added",
+        "text": "Effective 3rd Dec'26, complimentary Golf Program benefits for Indulge Credit Cardholders will be subject to a minimum spend of greater than Rs. 50,000 in the last statement generated as per the credit card billing cycle. Please click here for more details - Click here ."
+      },
+      {
+        "type": "context",
+        "text": "Indulge Credit Card Eligibility"
+      },
+      {
+        "type": "context",
+        "text": "Eligibility"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added a minimum spend requirement for Golf Program benefits.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Why do different Indusind Credit cards have different quaterly spend requirements for lounge access?",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1w77k4f/why_do_different_indusind_credit_cards_have/",
+        "description": "I was looking at Indusind Credit cards, and despite some cards like Indulge being their premium offering, it has a quaterly spend requirement of 5 Lc (per quater) for lounge access, and while other indusind cards like Pinnacle or Celesta ha"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "axis-bank-travel-credit-card",
+    "cardName": "Travel Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:51:26.653Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Activation voucher worth 1200 IndiGo BluChips on ₹1,500 spends within 30 days."
+      },
+      {
+        "type": "context",
+        "text": "Milestone Vouchers worth 1200 IndiGo BluChips on cumulative eligible spends of ₹1.5L & 3L in a card anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "Accelerated rewards up to 2 IndiGo BluChips per ₹100 on IndiGo channels, Grocery & Dining spends"
+      },
+      {
+        "type": "added",
+        "text": "Accelerated rewards up to 3 IndiGo BluChips per ₹100 spent instead of 2"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: ₹799"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹799"
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently Lifetime Free)"
+      },
+      {
+        "type": "context",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Select Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹1500"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹0"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹0"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "A Travel Credit Card focuses on rewarding travel spending while offering convenience, safety, and global usability. These features are especially valuable for frequent flyers and international travellers."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "UPI card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "context",
+        "text": "Your Axis Credit Card awaits you!"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Rewards increased to 3 IndiGo BluChips per ₹100 spent; joining and annual fees dropped to ₹0, lifetime free offer extended to 31 Dec 2026.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Best credit card for domestic flight bookings in India?",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x9upfz/best_credit_card_for_domestic_flight_bookings_in/",
+        "description": "I’m expecting to book at least 25 flight tickets (mostly Indigo since other airlines are not available from my work city to hometown) over the next 12 months for myself and my family, mostly on domestic routes. I’m thinking this might be a "
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "axis-bank-dining-credit-card",
+    "cardName": "Dining Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:51:26.653Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank REWARDS Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "UPI card"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "FLIPKART AXIS BANK Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently First Year Free)"
+      },
+      {
+        "type": "context",
+        "text": "Dining Credit Cards eligibility criteria"
+      },
+      {
+        "type": "context",
+        "text": "Banks assess applicants carefully before issuing a Dining Credit Card to ensure responsible usage."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "UPI card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "context",
+        "text": "Your Axis Credit Card awaits you!"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added lifetime free offer valid till 31st December 2026"
+    }
+  },
+  {
+    "id": "axis-bank-lic-axis-bank-signature-credit-card",
+    "cardName": "LIC Axis Bank Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:51:26.648Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "UPI card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
+      },
+      {
+        "type": "context",
+        "text": "10%* off on Blinkit and BookMyShow"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a lifetime free offer valid until 31st December 2026."
+    }
+  },
+  {
+    "id": "axis-bank-miles-and-more-axis-bank-credit-card",
+    "cardName": "Miles and More Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:51:26.647Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Joining Fee: ₹1000"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹1000"
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently Lifetime Free on the Amex Network)"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "FLIPKART AXIS BANK Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently First Year Free)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed Lifetime Free and First Year Free benefits."
+    }
+  },
+  {
+    "id": "axis-bank-titanium-smart-traveler-credit-card",
+    "cardName": "Titanium Smart Traveler Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:51:26.644Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently First Year Free)"
+      },
+      {
+        "type": "context",
+        "text": "Samsung Axis Bank Signature Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "2,500 EDGE REWARD Points on completing 3 transactions within 30 days"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹1500"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹0"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹0"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "FAQ on Clear existing status in CIC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining and annual fees removed, replaced with lifetime free offer until 31 Dec 2026."
+    }
+  },
+  {
+    "id": "axis-bank-platinum-credit-card",
+    "cardName": "Platinum Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:51:26.643Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently First Year Free)"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Vistara Infinite Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome benefit &ndash; 1 complimentary business class ticket on fee payment"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "First Year Free benefit removed from Platinum Credit Card",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Need clarity on Indusind co branded card issuance policy.",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x5muv2/need_clarity_on_indusind_co_branded_card_issuance/",
+        "description": "I am planning to get both the Tiger and Eazydiner platinum credit card from Indusind but I am not sure about the multiple card policy of Indusind. Does Indusind have only one card policy? I also heard that one can&#39;t get two co branded c"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-select-credit-card",
+    "cardName": "Axis Bank Select Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:51:26.637Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Axis Bank SELECT Credit Card- Apply Online | Axis Bank"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Select Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Minimum Investment of ₹500"
+      },
+      {
+        "type": "removed",
+        "text": "Flexible Tenure"
+      },
+      {
+        "type": "removed",
+        "text": "Save Regularly"
+      },
+      {
+        "type": "removed",
+        "text": "Axis EDGE Rewards"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank Select Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "The Terms & Conditions of Axis Bank Select Credit Card will be updated w.e.f 28th August'26. Please click here to know more."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Flat ₹120 off* on Swiggy; twice a month"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
+      },
+      {
+        "type": "context",
+        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
+      },
+      {
+        "type": "removed",
+        "text": "(This card is currently First Year Free)"
+      },
+      {
+        "type": "context",
+        "text": "Axis Bank AURA Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Get welcome decathlon OMNI Gift Card worth ₹750"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "The card’s free‑year benefit changed from a single first‑year free to a lifetime free offer until 31st December 2026."
+    }
+  },
+  {
+    "id": "axis-bank-flipkart-axis-bank-credit-card",
+    "cardName": "FLIPKART AXIS BANK Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:51:26.633Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
+      },
+      {
+        "type": "context",
+        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
+      },
+      {
+        "type": "removed",
+        "text": "Joining Fee: ₹1500"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Fee: ₹1500"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "added",
+        "text": "Joining Fee: ₹0"
+      },
+      {
+        "type": "added",
+        "text": "Annual Fee: ₹0"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "context",
+        "text": "A diverse"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Joining and annual fees dropped to ₹0, with a lifetime free offer until 31 Dec 2026."
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-travel-credit-card",
+    "cardName": "American Express® Platinum Travel Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-travel-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-03T10:50:38.486Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Spending 9 ₹15,000 within 90 days of Card Membership entitles you to a Welcome Gift1 of 10,000 Membership Rewards ® points."
+      },
+      {
+        "type": "context",
+        "text": "Reaching spend 9 threshold of ₹ 4 Lakhs entitles you to 10,000 Membership Rewards ® points that can be redeemed on Platinum Travel Collection ."
+      },
+      {
+        "type": "removed",
+        "text": "Reaching the spend 9 threshold of ₹ 7 Lakhs in a Card Membership year entitles you to a Tay Stay voucher 3 worth ₹20,000 from Taj, SeleQtions, and Vivanta Hotels * ."
+      },
+      {
+        "type": "added",
+        "text": "Reaching the spend 9 threshold of ₹ 7 Lakhs in a Card Membership year entitles you to a Taj Stay voucher 3 worth ₹20,000 from Taj, SeleQtions, and Vivanta Hotels * ."
+      },
+      {
+        "type": "context",
+        "text": "That’s not all. You can continue to earn Membership Rewards ® points on all your spending 2 with the American Express ® Platinum Travel Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Beginning 3 May 2022, the Membership Rewards ® points that have been accrued onto your American Express Platinum Travel Credit Card will no longer expire till the Card is active and in good standing. In the event of Card cancellation, initiated either by Card Member or American Express, the Membership Rewards ® points will get forfeited within 30 days of the cancellation."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated the voucher name to Taj Stay voucher for the ₹20,000 benefit."
+    }
+  },
+  {
     "id": "indusind-bank-crest-credit-card",
     "cardName": "Crest Credit Card",
     "issuerName": "IndusInd Bank",
@@ -117,78 +943,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added complimentary Priority Pass membership for Emeralde Private Metal Credit Card holders."
-    }
-  },
-  {
-    "id": "axis-bank-travel-credit-card",
-    "cardName": "Travel Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-31T09:38:24.363Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Milestone Vouchers worth 1200 IndiGo BluChips on cumulative eligible spends of ₹1.5L & 3L in a card anniversary year"
-      },
-      {
-        "type": "context",
-        "text": "Accelerated rewards up to 2 IndiGo BluChips per ₹100 on IndiGo channels, Grocery & Dining spends"
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee: ₹799"
-      },
-      {
-        "type": "added",
-        "text": "Annual Fee: ₹799"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently Lifetime Free)"
-      },
-      {
-        "type": "context",
-        "text": "Food & Dining"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
-      },
-      {
-        "type": "context",
-        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee: ₹1500"
-      },
-      {
-        "type": "added",
-        "text": "Annual Fee: ₹1500"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "A Travel Credit Card focuses on rewarding travel spending while offering convenience, safety, and global usability. These features are especially valuable for frequent flyers and international travellers."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Joining and annual fees updated to ₹799 and ₹1500 respectively"
     }
   },
   {
@@ -328,130 +1082,6 @@
     }
   },
   {
-    "id": "axis-bank-titanium-smart-traveler-credit-card",
-    "cardName": "Titanium Smart Traveler Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-31T09:38:24.343Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
-      },
-      {
-        "type": "context",
-        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee: ₹1500"
-      },
-      {
-        "type": "added",
-        "text": "Annual Fee: ₹1500"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "FAQ on Clear existing status in CIC"
-      },
-      {
-        "type": "removed",
-        "text": "Sep 9, 2026"
-      },
-      {
-        "type": "removed",
-        "text": "5 min read"
-      },
-      {
-        "type": "removed",
-        "text": "Equifax credit score: Meaning and how to check it?"
-      },
-      {
-        "type": "removed",
-        "text": "Sep 9, 2026"
-      },
-      {
-        "type": "added",
-        "text": "Sep 27, 2026"
-      },
-      {
-        "type": "added",
-        "text": "STD full form & meaning in CIBIL report"
-      },
-      {
-        "type": "added",
-        "text": "Sep 27, 2026"
-      },
-      {
-        "type": "context",
-        "text": "6 min read"
-      },
-      {
-        "type": "removed",
-        "text": "Credit bureau meaning and how it functions?"
-      },
-      {
-        "type": "removed",
-        "text": "5 min read"
-      },
-      {
-        "type": "removed",
-        "text": "Understanding your CRIF score – Meaning, full form, importance and improvement tips"
-      },
-      {
-        "type": "removed",
-        "text": "Sep 9, 2026"
-      },
-      {
-        "type": "removed",
-        "text": "5 min read"
-      },
-      {
-        "type": "removed",
-        "text": "Experian credit score – Meaning, report details, importance & how to improve it"
-      },
-      {
-        "type": "added",
-        "text": "Commercial CIBIL report - Meaning & features"
-      },
-      {
-        "type": "added",
-        "text": "Sep 28, 2026"
-      },
-      {
-        "type": "added",
-        "text": "6 min read"
-      },
-      {
-        "type": "added",
-        "text": "DBT in CIBIL report: Meaning, impact, and how to fix it"
-      },
-      {
-        "type": "added",
-        "text": "Sep 27, 2026"
-      },
-      {
-        "type": "added",
-        "text": "776 credit score: Is it good or bad?"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Joining fee and annual fee of ₹1500 each added to the card."
-    }
-  },
-  {
     "id": "axis-bank-privilege-easy-credit-card",
     "cardName": "Privilege Easy Credit Card",
     "issuerName": "Axis Bank",
@@ -529,50 +1159,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a ₹1000 joining fee and a ₹1000 annual fee to the card."
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-select-credit-card",
-    "cardName": "Axis Bank Select Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-31T09:38:24.333Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply the code AXISSELECT to get this discount"
-      },
-      {
-        "type": "context",
-        "text": "Please click here for detailed terms & conditions."
-      },
-      {
-        "type": "removed",
-        "text": "This offer will be valid wef 20th June 2025"
-      },
-      {
-        "type": "added",
-        "text": "Effective 1st Nov 2026, access to the Movie Offer will be subject to a minimum eligible spend of 25,000 in the preceding 3 calendar months."
-      },
-      {
-        "type": "context",
-        "text": "The Axis Bank SELECT Credit Card fees are listed in the table below."
-      },
-      {
-        "type": "context",
-        "text": "Description Charges"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Movie Offer now requires a minimum spend of 25,000 in the preceding 3 calendar months, effective 1 Nov 2026."
     }
   },
   {
@@ -912,78 +1498,6 @@
     }
   },
   {
-    "id": "axis-bank-flipkart-axis-bank-credit-card",
-    "cardName": "FLIPKART AXIS BANK Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-31T09:38:24.325Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "The Flipkart Axis Bank Credit Card fees and charges are listed in the table below:"
-      },
-      {
-        "type": "context",
-        "text": "Description Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Joining fee ₹NIL (Limited period offer)"
-      },
-      {
-        "type": "added",
-        "text": "Joining fee ₹500"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee 2nd year Onwards: ₹500"
-      },
-      {
-        "type": "context",
-        "text": "Annual fee waived off on annual spends greater than ₹3,50,000."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
-      },
-      {
-        "type": "context",
-        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee: ₹1500"
-      },
-      {
-        "type": "added",
-        "text": "Annual Fee: ₹1500"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "A diverse"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Joining fee changed from NIL to ₹500 and ₹1500, and an annual fee of ₹1500 was introduced."
-    }
-  },
-  {
     "id": "axis-bank-axis-bank-privilege-credit-card",
     "cardName": "AXIS BANK PRIVILEGE Credit Card",
     "issuerName": "Axis Bank",
@@ -1309,70 +1823,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Removed INR1,000 cashback offer for spending INR1,000 within 30 days of card issuance."
-    }
-  },
-  {
-    "id": "axis-bank-dining-credit-card",
-    "cardName": "Dining Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/dining-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-29T09:58:34.177Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank REWARDS Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "UPI card"
-      },
-      {
-        "type": "context",
-        "text": "Fee waiver"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added lifetime free on Visa Network benefit."
     }
   },
   {
@@ -8180,38 +8630,6 @@
     }
   },
   {
-    "id": "axis-bank-lic-axis-bank-signature-credit-card",
-    "cardName": "LIC Axis Bank Signature Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:28:16.843Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
-      },
-      {
-        "type": "context",
-        "text": "10%* off on Blinkit and BookMyShow"
-      },
-      {
-        "type": "removed",
-        "text": "(Lifetime Free offer not valid for existing Axis Bank Credit Card customers)"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Removed a lifetime free offer that was not valid for existing Axis Bank Credit Card customers"
-    }
-  },
-  {
     "id": "axis-bank-samsung-axis-bank-signature-credit-card",
     "cardName": "Samsung Axis Bank Signature Credit Card",
     "issuerName": "Axis Bank",
@@ -9740,170 +10158,6 @@
     }
   },
   {
-    "id": "axis-bank-miles-and-more-axis-bank-credit-card",
-    "cardName": "Miles and More Axis Bank Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-19T08:03:24.188Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Please click here to know more about Miles & More Axis Bank World Select Credit Card and click here to know more about Miles & More Axis Bank World Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank REWARDS Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Milestone benefit of 1,500 EDGE REWARD Points"
-      },
-      {
-        "type": "removed",
-        "text": "Bouquet of membership up to ₹1,000 every anniversary year"
-      },
-      {
-        "type": "removed",
-        "text": "₹150 instant discount on Swiggy."
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: ₹1000"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: ₹1000"
-      },
-      {
-        "type": "added",
-        "text": "20 EDGE REWARD Points on every INR 125 spent at Apparel & Departmental Stores"
-      },
-      {
-        "type": "added",
-        "text": "Milestone benefit of 1500 EDGE REWARD Points"
-      },
-      {
-        "type": "added",
-        "text": "₹150 instant discount on Swiggy"
-      },
-      {
-        "type": "added",
-        "text": "(This card is currently Lifetime Free on the Amex Network)"
-      },
-      {
-        "type": "context",
-        "text": "Fee waiver"
-      },
-      {
-        "type": "context",
-        "text": "FLIPKART AXIS BANK Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
-      },
-      {
-        "type": "context",
-        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently First Year Free)"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added new reward points, Swiggy discount, lifetime free Amex, and removed joining fee"
-    }
-  },
-  {
-    "id": "axis-bank-platinum-credit-card",
-    "cardName": "Platinum Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-19T08:03:24.181Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
-      },
-      {
-        "type": "context",
-        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently First Year Free)"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank Vistara Infinite Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Earn 2 EDGE REWARD Points per ₹200 spent"
-      },
-      {
-        "type": "context",
-        "text": "1% fuel surcharge waiver"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: Nil"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: Nil"
-      },
-      {
-        "type": "added",
-        "text": "Got more questions?"
-      },
-      {
-        "type": "added",
-        "text": "Locate the nearest branch for best assessment."
-      },
-      {
-        "type": "added",
-        "text": "Locate Branches"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Joining fee and annual fee removed from card terms"
-    }
-  },
-  {
     "id": "axis-bank-axis-bank-my-zone-easy-credit-card",
     "cardName": "Axis Bank MY Zone Easy Credit Card",
     "issuerName": "Axis Bank",
@@ -11261,150 +11515,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "amex-american-express-platinum-travel-credit-card",
-    "cardName": "American Express® Platinum Travel Credit Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-travel-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-09-10T08:08:08.689Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Earn 1 Membership Rewards® Point for every 2 Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale 2 ."
-      },
-      {
-        "type": "context",
-        "text": "TRAVEL VOUCHERS"
-      },
-      {
-        "type": "removed",
-        "text": "Spend 9 Rs 1.9 lakhs in a Cardmembership year 5 and get 7,500 Membership Rewards ® points that can be redeemed on Platinum Travel Collection ."
-      },
-      {
-        "type": "removed",
-        "text": "ADDITIONAL TRAVEL VOUCHERS"
-      },
-      {
-        "type": "removed",
-        "text": "Spend 9 Rs 4 lakhs in a Cardmembership year 5 and get 10,000 Membership Rewards ® points that can be redeemed on Platinum Travel Collection ."
-      },
-      {
-        "type": "removed",
-        "text": "Spend 9 Rs 7 lakhs in a Cardmembership year 5 and get additional 22,500 Membership Rewards ® points that can be redeemed on Platinum Travel Collection ."
-      },
-      {
-        "type": "added",
-        "text": "Spend 9 ₹4 Lakhs in a Card Membership year and get 10,000 Membership Rewards ® points that can be redeemed across the Platinum Travel Collection ."
-      },
-      {
-        "type": "context",
-        "text": "AIRPORT LOUNGES"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy 8 complimentary visits per year (limited to two complimentary visit per quarter) to airport lounges across India."
-      },
-      {
-        "type": "added",
-        "text": "Effective 1 October 2026, enjoy 2 complimentary domestic lounge visits per calendar quarter upon reaching eligible spends in the preceding quarter (₹70,000 in Q3'26 for Q4'26 visits; ₹1 Lakh per quarter from Q4'26 onwards for Q1'27 visits) * ."
-      },
-      {
-        "type": "context",
-        "text": "TAJ EXPERIENCES E-GIFT CARD"
-      },
-      {
-        "type": "removed",
-        "text": "Additionally, Get a Taj Experiences E-Gift Card worth Rs. 10,000 from the Taj, SeleQtions and Vivanta Hotels 3 on spending Rs 7 lakhs."
-      },
-      {
-        "type": "added",
-        "text": "Get a Taj Experiences E-Gift Card worth ₹20,000 from Taj, SeleQtions, and Vivanta Hotels on reaching eligible spends of ₹7 Lakhs in a Card Membership year * ."
-      },
-      {
-        "type": "context",
-        "text": "American Express Platinum Travel Credit Card rewards you in the following ways:"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 1 Membership Rewards Point for every 2 Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale 2 ."
-      },
-      {
-        "type": "removed",
-        "text": "You earn Milestone Bonus Membership Rewards Points on the following three Milestones as defined below:"
-      },
-      {
-        "type": "removed",
-        "text": "Spending 9 Rs. 15,000 within 90 days of Cardmembership entitles you to a Welcome Gift 1 of 10,000 * Membership Reward ® points"
-      },
-      {
-        "type": "removed",
-        "text": "Reaching spend 9 threshold of Rs. 1.9 Lakhs every membership year 5 and get 7,500 * bonus Membership Rewards ® points that can be redeemed on Platinum Travel Collection ."
-      },
-      {
-        "type": "removed",
-        "text": "Reaching spend 9 threshold of Rs. 4 Lakhs every membership year 5 and get 10,000 * bonus Membership Rewards ® points that can be redeemed on Platinum Travel Collection ."
-      },
-      {
-        "type": "removed",
-        "text": "Reaching spend 9 threshold of Rs. 7 Lakhs every membership year 5 and get additional 22,500 * bonus Membership Rewards ® points that can be redeemed on Platinum Travel Collection and a Taj Stay voucher 3 worth Rs. 10,000 from Taj, SeleQtions and Vivanta Hotels."
-      },
-      {
-        "type": "removed",
-        "text": "That's not all. You can continue to earn Membership Reward points on all your spending 2 with the American Express ® Platinum Travel Credit Card."
-      },
-      {
-        "type": "removed",
-        "text": "Beginning 3 May, 2022, the Membership Rewards Points that have been accrued onto your American Express Platinum Travel Credit Card will no longer expire till the card is active and in good standing . In the event of Card cancellation, initiated by either the Cardmember or American Express, the Membership Rewards Points will get forfeited within 30 days of the cancellation."
-      },
-      {
-        "type": "added",
-        "text": "Earn 1 Membership Rewards Point for every 2 ₹ 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale 2 ."
-      },
-      {
-        "type": "added",
-        "text": "You earn Milestone Bonus Membership Rewards ® Points on the following Milestones as defined below:"
-      },
-      {
-        "type": "added",
-        "text": "Spending 9 ₹15,000 within 90 days of Card Membership entitles you to a Welcome Gift1 of 10,000 Membership Rewards ® points."
-      },
-      {
-        "type": "added",
-        "text": "Reaching spend 9 threshold of ₹ 4 Lakhs entitles you to 10,000 Membership Rewards ® points that can be redeemed on Platinum Travel Collection ."
-      },
-      {
-        "type": "added",
-        "text": "Reaching the spend 9 threshold of ₹ 7 Lakhs in a Card Membership year entitles you to a Tay Stay voucher 3 worth ₹20,000 from Taj, SeleQtions, and Vivanta Hotels * ."
-      },
-      {
-        "type": "added",
-        "text": "That’s not all. You can continue to earn Membership Rewards ® points on all your spending 2 with the American Express ® Platinum Travel Credit Card."
-      },
-      {
-        "type": "added",
-        "text": "Beginning 3 May 2022, the Membership Rewards ® points that have been accrued onto your American Express Platinum Travel Credit Card will no longer expire till the Card is active and in good standing. In the event of Card cancellation, initiated either by Card Member or American Express, the Membership Rewards ® points will get forfeited within 30 days of the cancellation."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy complimentary membership 4 to Priority Pass, with the US$99 annual membership fee waived off exclusively for you."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy exciting discounts of up to 20% every time you dine at select restaurants. Click here to know more"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated reward thresholds, lounge visit terms, and Taj gift card value for the American Express® Platinum Travel Credit Card."
     }
   },
   {
@@ -20824,278 +20934,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated reward rates and milestone voucher thresholds for the Kotak IndiGo Credit Card."
-    }
-  },
-  {
-    "id": "hdfc-bank-diners-privilege-credit-card",
-    "cardName": "Diners Privilege Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-privilege-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-10T04:59:44.924Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Exciting Milestone vouchers every quarter"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "added",
-        "text": "Update- Starting 01 July 2026, customer will be able to avail 3 Airport Lounge Access Vouchers in a calendar quarter on Rs. 60,000 eligible spends in previous calendar quarter."
-      },
-      {
-        "type": "context",
-        "text": "3 vouchers will consist of 2 Domestic Lounge Vouchers & 1 International Lounge Voucher. Please click here for more details."
-      },
-      {
-        "type": "context",
-        "text": "What's In Store For You"
-      },
-      {
-        "type": "context",
-        "text": "Eligibility Criteria"
-      },
-      {
-        "type": "context",
-        "text": "Documents Required to Apply"
-      },
-      {
-        "type": "context",
-        "text": "Application Process"
-      },
-      {
-        "type": "context",
-        "text": "Click here to view the changes in HDFC Bank Diners Club Privilege Credit Card effective 15th May 2026."
-      },
-      {
-        "type": "context",
-        "text": "More Benefits Than Ever Before"
-      },
-      {
-        "type": "context",
-        "text": "Lifestyle Benefits"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 2 domestic and 1 international lounge visits per calendar quarter by spending Rs. 60,000 in the previous quarter."
-      },
-      {
-        "type": "context",
-        "text": "Know More"
-      },
-      {
-        "type": "context",
-        "text": "Additional Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Top Features"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Click here to update Nominee Details."
-      },
-      {
-        "type": "context",
-        "text": "* Click here for more details regarding Policy cover."
-      },
-      {
-        "type": "context",
-        "text": "Wondering If You Are Eligible?"
-      },
-      {
-        "type": "context",
-        "text": "Salaried"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Save up to ₹28,000 * annually just like 33 lakh+ Diners Club Privilege Credit Card Holders"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "context",
-        "text": "Documents Required To Get You Started"
-      },
-      {
-        "type": "context",
-        "text": "Identity Proof"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "*In certain cases, uploading documents and completing video KYC might be required."
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "context",
-        "text": "Know More About The Card"
-      },
-      {
-        "type": "context",
-        "text": "Reward Point Redemption"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Click here for product specific tnc"
-      },
-      {
-        "type": "context",
-        "text": "Click here to access all important links related to your Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "What are the benefits of the HDFC Bank Diners Club Privilege Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The Diners Club Privilege Credit Card offers several exclusive benefits. Cardholders enjoy a range of privileges, including 'Buy 1 Get 1 Free' on entertainment through BookMyShow, 5X reward points on popular dining platforms, and quarterly vouchers as milestone benefits on spends, along with two complimentary airport lounge accesses every quarter, enhancing the travel experience, and so much more!"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added 3 lounge vouchers per quarter for Rs.60,000 spend."
-    }
-  },
-  {
-    "id": "indusind-bank-epay-amex-credit-card",
-    "cardName": "ePay Amex Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/epay-amex-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-09T04:41:55.973Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Reward for early payment"
-      },
-      {
-        "type": "context",
-        "text": "Get 5% cashback annually every time on payment of total due amount within 7 days of statement generation."
-      },
-      {
-        "type": "added",
-        "text": "Terms and Conditions for Early Payment Cashback:"
-      },
-      {
-        "type": "added",
-        "text": "Customer will get 5% cashback annually if statement total outstanding has been paid within 7 days of statement generation. Partial payment or minimum amount paid will not be considered for cashback eligibility."
-      },
-      {
-        "type": "added",
-        "text": "The cashback would reflect in the next statement cycle. In case of reversals of payments before that, cashback won’t be credited."
-      },
-      {
-        "type": "added",
-        "text": "To be eligible for cashback, card account needs to be in active state without any block on the date of posting cashback. Delinquency or revolving accounts will not be eligible for cashback."
-      },
-      {
-        "type": "added",
-        "text": "In case of upgrade, new logo of digital card will be considered for cashback. In case of moving to any other product, this feature won’t be available."
-      },
-      {
-        "type": "added",
-        "text": "Illustration of 5% cashback calculations:"
-      },
-      {
-        "type": "added",
-        "text": "If statement generated on 20th of the month for Rs. 50,000 – 5% cashback would be calculated as below:"
-      },
-      {
-        "type": "added",
-        "text": "5% / 365 (daily cashback calculation) × 15 days (no. of interest-free period days not used) = 0.21%"
-      },
-      {
-        "type": "added",
-        "text": "Statement Date"
-      },
-      {
-        "type": "added",
-        "text": "Payment Date"
-      },
-      {
-        "type": "added",
-        "text": "Payment Amount"
-      },
-      {
-        "type": "added",
-        "text": "5% cashback/ day"
-      },
-      {
-        "type": "added",
-        "text": "Total cashback"
-      },
-      {
-        "type": "added",
-        "text": "20-Jun-23"
-      },
-      {
-        "type": "added",
-        "text": "27-Jun-23"
-      },
-      {
-        "type": "added",
-        "text": "50,000"
-      },
-      {
-        "type": "added",
-        "text": "0.21%"
-      },
-      {
-        "type": "added",
-        "text": "103"
-      },
-      {
-        "type": "context",
-        "text": "Our main aim is to make cashless transactions safe and secure for all our customers. Hence, we have introduced ‘Total Protect' - a first-of-its-kind programme that covers you for an amount equal to the credit limit on your card."
-      },
-      {
-        "type": "context",
-        "text": "Counterfeit fraud: There is a possibility of your card or card details to be stolen and misused to produce counterfeit cards. We offer you insurance to protect you against such incidents."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added 5% annual cashback for early payment within 7 days of statement generation."
     }
   }
 ]

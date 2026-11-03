@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "indulge-credit-card",
+    "card_name": "Indulge Credit Card",
+    "issuer": "indusind",
+    "change_type": "other",
+    "summary": "Added a minimum spend requirement for Golf Program benefits.",
+    "status": "verified",
+    "official_link": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/indulge-credit-card.html",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1w77k4f/why_do_different_indusind_credit_cards_have/",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-11-03",
+    "edition_permalink": null
+  },
+  {
     "card_slug": "indusind-crest",
     "card_name": "Crest Credit Card",
     "issuer": "indusind",

@@ -1,5 +1,761 @@
 [
   {
+    "id": "kotak-mahindra-bank-biz-credit-card",
+    "cardName": "Biz Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/biz-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-11-04T11:05:39.020Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Kotak Biz Credit Card – Rewarding Business Expenses, Fuel Surcharge Waiver | Kotak Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Biz Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Kotak Biz Credit Card - Business Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome to a business-class experience"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Banking solutions, customised to your needs."
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Platinum Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Spend with the Corporate Platinum Credit Card and earn higher reward points"
+      },
+      {
+        "type": "context",
+        "text": "Get fuel surcharge waiver across all petrol pumps in India"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Card discontinued"
+    }
+  },
+  {
+    "id": "kotak-mahindra-bank-corporate-gold-credit-card",
+    "cardName": "Corporate Gold Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/corporate-gold-card.html",
+    "status": "Discontinued",
+    "detectedAt": "2026-11-04T11:05:39.019Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply Kotak Corporate Gold Credit Card for Reward Points - Kotak Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Gold Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Apply for Kotak Corporate Gold Credit Card Online"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy the convenience of easy expense management"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "View All"
+      },
+      {
+        "type": "context",
+        "text": "Movie Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Platinum Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Get 8 annual complimentary domestic Airport Lounge visits"
+      },
+      {
+        "type": "context",
+        "text": "Earn monthly consolidated cashbacks for all transactions"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Corporate Gold Credit Card removed from page."
+    }
+  },
+  {
+    "id": "kotak-mahindra-bank-urbane-gold-credit-card",
+    "cardName": "Urbane Gold Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/urbane-gold-credit-card.html",
+    "status": "Discontinued",
+    "detectedAt": "2026-11-04T11:05:39.018Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply Kotak Urbane Gold Credit Card - Kotak Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Urbane Gold Credit Card (Discontinued)"
+      },
+      {
+        "type": "context",
+        "text": "Apply for Kotak Urbane Gold Credit Card Online (Discontinued)"
+      },
+      {
+        "type": "context",
+        "text": "Spend Rs. 1,00,000* in a year and get 4 free PVR Tickets or 10,000 reward points"
+      },
+      {
+        "type": "context",
+        "text": "Rewards Redemption"
+      },
+      {
+        "type": "removed",
+        "text": "Eligibility"
+      },
+      {
+        "type": "context",
+        "text": "Urbane Gold Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "We know you love to get more out of your money. With Urbane Gold Credit Card, you will get just that with 3 reward points on every Rs. 100 spent*. So start shopping and reward yourself, today!"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn unlimited 2.5 Mojo points for every Rs. 100 on online spends and 1 Mojo point for every Rs. 100 on other spends."
+      },
+      {
+        "type": "context",
+        "text": "Get 2500 Mojo points every quarter on spends of 75000"
+      },
+      {
+        "type": "added",
+        "text": "Urbane Gold Credit Card (Discontinued)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Eligibility requirement removed from card page"
+    }
+  },
+  {
+    "id": "kotak-mahindra-bank-indigo-kotak-credit-card",
+    "cardName": "IndiGo Kotak Credit Card",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/indigo-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-11-04T11:05:39.016Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Kotak Bank Indigo Credit Card Online | Kotak Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Indigo Kotak Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "IndiGo Kotak Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Turn your spending and unlock flights, rewards, and Sunforgettable travel journeys."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "The IndiGo Kotak Premium Credit Card comes with premium perks – More IndiGo BluChips for your transactions, complimentary airport lounge access, and more!"
+      },
+      {
+        "type": "context",
+        "text": "To know more about the premium variant, please click here ."
+      },
+      {
+        "type": "added",
+        "text": "Who is eligible for the Kotak IndiGo Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "If you are 21-65 years old and an Indian national, you can apply for the card. The approval is subject to the bank’s eligibility checks and internal policy."
+      },
+      {
+        "type": "added",
+        "text": "How do I earn IndiGo BluChips with the Kotak IndiGo Credit Card?"
+      },
+      {
+        "type": "added",
+        "text": "You can earn IndiGo BluChips on IndiGo flight bookings, shopping, dining, entertainment, and other eligible categories."
+      },
+      {
+        "type": "context",
+        "text": "Showing"
+      },
+      {
+        "type": "removed",
+        "text": "8 out of"
+      },
+      {
+        "type": "removed",
+        "text": "8"
+      },
+      {
+        "type": "added",
+        "text": "10 out of"
+      },
+      {
+        "type": "added",
+        "text": "21"
+      },
+      {
+        "type": "context",
+        "text": "items"
+      },
+      {
+        "type": "context",
+        "text": "1"
+      },
+      {
+        "type": "removed",
+        "text": "of 1"
+      },
+      {
+        "type": "added",
+        "text": "of 3"
+      },
+      {
+        "type": "context",
+        "text": "Indigo Kotak Premium Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Up to 21 IndiGo BluChips per Rs.100 spent on IndiGo flight bookings*"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get 2500 Mojo points every quarter on spends of 75000"
+      },
+      {
+        "type": "context",
+        "text": "Click here"
+      },
+      {
+        "type": "added",
+        "text": "Indigo Kotak Credit Card"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Eligibility criteria and reward categories were added/expanded for the IndiGo Kotak Credit Card."
+    }
+  },
+  {
+    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
+    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-04T11:04:33.825Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "*6 on Card + up to 16 from IndiGo (based on tier)"
+      },
+      {
+        "type": "context",
+        "text": "IndiGo BluChips"
+      },
+      {
+        "type": "removed",
+        "text": "0.5"
+      },
+      {
+        "type": "removed",
+        "text": "On UPI Spends"
+      },
+      {
+        "type": "added",
+        "text": "1"
+      },
+      {
+        "type": "added",
+        "text": "On international Spends​"
+      },
+      {
+        "type": "context",
+        "text": "IndiGo BluChips"
+      },
+      {
+        "type": "context",
+        "text": "0.5"
+      },
+      {
+        "type": "removed",
+        "text": "On insurance, fuel, utility, rent, wallet, FASTag, education, railway spends & govt. services"
+      },
+      {
+        "type": "added",
+        "text": "On UPI, insurance, fuel, utility and other spends*​"
+      },
+      {
+        "type": "context",
+        "text": "IndiGo BluChips"
+      },
+      {
+        "type": "context",
+        "text": "3"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "IndiGo BluChips shown above are earned per ₹100 spent in respective categories."
+      },
+      {
+        "type": "context",
+        "text": "The value of IndiGo BluChip could vary depending upon the flight source and destination, day of flight booking etc at the discretion of IndiGo."
+      },
+      {
+        "type": "added",
+        "text": "*Earn 0.5 IndiGo BluChips on UPI, insurance, fuel, utility, rent, wallet, FASTag, education, railway spends and government services"
+      },
+      {
+        "type": "context",
+        "text": "Milestone Benefits"
+      },
+      {
+        "type": "context",
+        "text": "25,000"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "If your address has changed, please visit a nearby branch and get your address updated in the bank records or click here. Once, the address is updated, please call 180010888 to get the card dispatched to the updated address."
+      },
+      {
+        "type": "context",
+        "text": "What is unique about the IndiGo IDFC FIRST Dual Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "The IndiGo IDFC FIRST Credit Card stands out as a unique airline co-brand travel proposition, where customers can either apply traditionally or pledge a fixed deposit of ₹1 lakh to get started."
+      },
+      {
+        "type": "removed",
+        "text": "What makes this card truly unique is its dual card advantage: it combines the global acceptance of Mastercard with a zero forex markup of just 1.49%, alongside the convenience of RuPay for seamless UPI transactions."
+      },
+      {
+        "type": "removed",
+        "text": "The unified rewards program allows customers to earn accelerated 6E Rewards (IndiGo BluChips) across all spends, which can be redeemed for flights."
+      },
+      {
+        "type": "removed",
+        "text": "Additionally, customers can boost their rewards further through early activation bonuses and annual milestone benefits, making it a powerful, travel-friendly card tailored to a range of spending styles."
+      },
+      {
+        "type": "added",
+        "text": "The IndiGo IDFC FIRST Credit Card stands out as a unique airline co-brand travel proposition, where customers can either apply traditionally or pledge a fixed deposit of ₹1 lakh to get started.​"
+      },
+      {
+        "type": "added",
+        "text": "​"
+      },
+      {
+        "type": "added",
+        "text": "What makes this card truly unique is its dual card advantage: it combines the global acceptance of Mastercard with ZERO forex markup, alongside the convenience of RuPay for seamless UPI transactions.​"
+      },
+      {
+        "type": "added",
+        "text": "​"
+      },
+      {
+        "type": "added",
+        "text": "The unified rewards program allows customers to earn accelerated 6E Rewards (IndiGo BluChips) across all spends, which can be redeemed for flights.​"
+      },
+      {
+        "type": "added",
+        "text": "​"
+      },
+      {
+        "type": "added",
+        "text": "Additionally, customers can boost their rewards further through early activation bonuses and annual milestone benefits, making it a powerful, travel-friendly card tailored to a range of spending styles.​"
+      },
+      {
+        "type": "context",
+        "text": "Who is this card for?"
+      },
+      {
+        "type": "context",
+        "text": "This card is for everyone who wants to fly more, earn more and pay flexibly. Whether you are new to credit cards or an experienced user — you can choose the path that works for you:"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Annual benefits will be processed within 5 working days following the payment of the annual fee."
+      },
+      {
+        "type": "context",
+        "text": "How will I earn IndiGo BluChips on My Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Customer will earn IndiGo BluChips on every transaction using the IndiGo IDFC FIRST Credit Card.​"
+      },
+      {
+        "type": "removed",
+        "text": "Here's how the IndiGo BluChips are calculated:​"
+      },
+      {
+        "type": "removed",
+        "text": "- 6 IndiGo BluChips on every ₹100 spent on flights booked via IndiGo website or mobile app​"
+      },
+      {
+        "type": "removed",
+        "text": "- 0.5 BluChips on every ₹100 spent on UPI​"
+      },
+      {
+        "type": "removed",
+        "text": "- 0.5 IndiGo BluChips on every ₹100 spent on Insurance, Utility, Fuel, Rent, Wallet, FASTag, education, railway spends and govt. services as defined by Network Merchant category codes (MCCs)​"
+      },
+      {
+        "type": "removed",
+        "text": "- 3 IndiGo BluChips on every ₹100 spent on other categories ​"
+      },
+      {
+        "type": "removed",
+        "text": "The above structure is applicable across both your IndiGo IDFC FIRST Dual Credit Card.​"
+      },
+      {
+        "type": "removed",
+        "text": "Additional Benefits: Earn up to 16 IndiGo BluChips extra based on your IndiGo Loyalty Program tier.​"
+      },
+      {
+        "type": "removed",
+        "text": "IndiGo BluChips will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not not be eligible for IndiGo BluChips, including transactions enabled through repayments and subsequent re-utilisation within the same billing cycle.​"
+      },
+      {
+        "type": "removed",
+        "text": "​IndiGo BluChips will be credited 1 day after Payment Due Date, subject to payment realisation of at least the Minimum Amount Due on or before the Payment Due Date. If for any reason the Minimum Amount Due is not realised by the Payment Due Date, IndiGo BluChips earned for that statement will be forfeited.​​"
+      },
+      {
+        "type": "removed",
+        "text": "Know more:  https://www.goindigo.in/loyalty/terms-and-conditions.html ​"
+      },
+      {
+        "type": "removed",
+        "text": "Please Note: No IndiGo BluChips will be rewarded on cash transactions and transactions converted to EMI"
+      },
+      {
+        "type": "removed",
+        "text": "Effective26th October 2026, earn 1IndiGo BluChip on every ₹100spent on internationalpurchases"
+      },
+      {
+        "type": "added",
+        "text": "Customer will earn IndiGo BluChips on every transaction using the IndiGo IDFC FIRST Credit Card.​​"
+      },
+      {
+        "type": "added",
+        "text": "Here's how the IndiGo BluChips are calculated:​​"
+      },
+      {
+        "type": "added",
+        "text": "- 6 IndiGo BluChips on every ₹100 spent on flights booked via IndiGo website or mobile app​​"
+      },
+      {
+        "type": "added",
+        "text": "- 1 IndiGo BluChip on international spends​"
+      },
+      {
+        "type": "added",
+        "text": "- 0.5 BluChip on every ₹100 spent on UPI​​"
+      },
+      {
+        "type": "added",
+        "text": "- 0.5 IndiGo BluChip on every ₹100 spent on Insurance, Utility, Fuel, Rent, Wallet, FASTag, education, railway spends and govt. services as defined by Network Merchant category codes (MCCs)​​"
+      },
+      {
+        "type": "added",
+        "text": "- 3 IndiGo BluChips on every ₹100 spent on other categories ​​"
+      },
+      {
+        "type": "added",
+        "text": "The above structure is applicable across both your IndiGo IDFC FIRST Dual Credit Card.​​"
+      },
+      {
+        "type": "added",
+        "text": "Additional Benefits: Earn up to 16 IndiGo BluChips extra based on your IndiGo Loyalty Program tier.​​"
+      },
+      {
+        "type": "added",
+        "text": "IndiGo BluChips will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not not be eligible for IndiGo BluChips, including transactions enabled through repayments and subsequent re-utilisation within the same billing cycle.​​"
+      },
+      {
+        "type": "added",
+        "text": "​IndiGo BluChips will be credited 1 day after Payment Due Date, subject to payment realisation of at least the Minimum Amount Due on or before the Payment Due Date. If for any reason the Minimum Amount Due is not realised by the Payment Due Date, IndiGo BluChips earned for that statement will be forfeited.​​​"
+      },
+      {
+        "type": "added",
+        "text": "Know more:  https://www.goindigo.in/loyalty/terms-and-conditions.html ​​"
+      },
+      {
+        "type": "added",
+        "text": "Please Note: No IndiGo BluChips will be rewarded on cash transactions and transactions converted to EMI​"
+      },
+      {
+        "type": "context",
+        "text": "Are there any exclusions on earning IndiGo BluChips?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, IndiGo BluChips will not be rewarded on cash transactions and transactions converted to EMI"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "idfc-first-bank-ashva-metal-card",
+    "cardName": "Ashva Metal Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/ashva",
+    "status": "Active",
+    "detectedAt": "2026-11-04T11:04:33.821Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Apply for Ashva Credit Card - Low Forex & Lounge Access | IDFC FIRST Bank"
+      },
+      {
+        "type": "added",
+        "text": "Apply for Ashva Credit Card - Zero Forex & Lounge Access | IDFC FIRST Bank"
+      },
+      {
+        "type": "context",
+        "text": "METAL CREDIT CARD"
+      },
+      {
+        "type": "context",
+        "text": "ASHVA CREDIT CARD"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Forex markup changed from low to zero, eliminating foreign currency fees for the Ashva Credit Card."
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-travelone-credit-card",
+    "cardName": "HSBC TravelOne Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/travelone/",
+    "status": "Active",
+    "detectedAt": "2026-11-04T11:02:49.116Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "The first HSBC credit card to offer instant redemptions with an extensive selection of airline and hotel partners, all within the convenience of your mobile app."
+      },
+      {
+        "type": "context",
+        "text": "Travel privileges"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy complimentary airport lounge visits, holiday, car hire and lifestyle discounts, and more."
+      },
+      {
+        "type": "added",
+        "text": "Enjoy complimentary airport lounge visits, holiday, and lifestyle discounts, and more."
+      },
+      {
+        "type": "context",
+        "text": "Split flexibly"
+      },
+      {
+        "type": "context",
+        "text": "Spread the cost of your purchases across a term to suit you with HSBC Instalment Plans."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "When you apply online and complete your application with video self-verification, you'll be eligible for an Amazon eGift Voucher worth INR250. T&Cs apply ."
+      },
+      {
+        "type": "context",
+        "text": "Apply now to be eligible for the Amazon eGift voucher This link will open in a new window"
+      },
+      {
+        "type": "added",
+        "text": "Resume application"
+      },
+      {
+        "type": "added",
+        "text": "Continue an application you've already started."
+      },
+      {
+        "type": "added",
+        "text": "Resume credit card application"
+      },
+      {
+        "type": "added",
+        "text": "Resume credit card application This link will open in a new window"
+      },
+      {
+        "type": "added",
+        "text": "Track application"
+      },
+      {
+        "type": "added",
+        "text": "Check on the progress of your application."
+      },
+      {
+        "type": "context",
+        "text": "Repay your purchases with your HSBC credit card in equated monthly instalments so you can pay your bill at your convenience."
+      },
+      {
+        "type": "context",
+        "text": "Cash on Equated Monthly Instalments (EMI)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Car hire benefit removed from lounge visits."
+    }
+  },
+  {
+    "id": "axis-bank-google-pay-flex-axis-bank-credit-card",
+    "cardName": "Google Pay Flex Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/google-pay-flex-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-04T10:55:30.546Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get Digital Card instantly"
+      },
+      {
+        "type": "context",
+        "text": "Earn stars and redeem them on Google Pay for instant cashback"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Rewards worth ₹500 on Google Pay"
+      },
+      {
+        "type": "added",
+        "text": "Welcome Rewards worth ₹2000 on Google Pay"
+      },
+      {
+        "type": "context",
+        "text": "Google Pay Flex Axis Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "The UPI-first credit card simplified and reimagined for India, available exclusively on the Google Pay app. Pay with your Google Pay Flex Axis Bank Credit Card everywhere just like UPI from your neighbourhood kirana store to your favourite online apps, for any purchase, big or small. With this card, Read More earn Stars &ndash; real reward points you can redeem instantly with no hassle. Simply redeem stars while making UPI payments using this card on Google Pay to get instant cashback."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Welcome Rewards increased to ₹2000 on Google Pay."
+    }
+  },
+  {
     "id": "indusind-bank-celesta-credit-card",
     "cardName": "Celesta Credit Card",
     "issuerName": "IndusInd Bank",
@@ -1719,58 +2475,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Redemption date and minimum points requirement updated for cashback redemption."
-    }
-  },
-  {
-    "id": "hsbc-india-hsbc-travelone-credit-card",
-    "cardName": "HSBC TravelOne Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/travelone/",
-    "status": "Active",
-    "detectedAt": "2026-10-29T10:03:06.596Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Offer Terms and Conditions ('Offer Terms') are in addition to the amazon.in 'Conditions of Use & Sale' and 'Privacy Notice' to which you agree to, by using amazon.in and Terms and Conditions of HSBC Credit Cards . In the event of any conflict between the Conditions of Use & Sale and these Offer Terms, these Offer Terms will prevail, only for the purposes of this Offer."
-      },
-      {
-        "type": "context",
-        "text": "This Amazon eGift Voucher offer is provided by The Hongkong and Shanghai Banking Corporation Limited, India (HSBC) to Resident Indian customers (hereinafter referred to as 'credit card applicant') who have participated in the offer. Each qualifying credit card applicant who has completed Video KYC (VKYC) and has got the credit card approved and issued is entitled to an Amazon eGift Voucher of INR250 (Offer)."
-      },
-      {
-        "type": "removed",
-        "text": "This offer is valid only on online applications and upon successful completion of the Video KYC (VKYC) and issuance of the credit card, during the offer period from 1 January 2026 to 31 October 2026."
-      },
-      {
-        "type": "added",
-        "text": "This offer is valid only on online applications and upon successful completion of the Video KYC (VKYC) and issuance of the credit card, during the offer period from 1 January 2026 to 31 March 2027."
-      },
-      {
-        "type": "context",
-        "text": "This is a limited period Offer and HSBC in its sole discretion reserves the right to alter, modify, change or vary all or any of these terms and conditions or to replace, wholly or in part, this Offer by another Offer, whether similar to this Offer or not, or to withdraw it altogether at any point in time by providing appropriate intimation to the Cardholder."
-      },
-      {
-        "type": "removed",
-        "text": "The Amazon eGift Voucher (WinPin code) will be sent to your email ID provided in the online credit card application, within 45 days of end of the offer i.e. 15 December 2026."
-      },
-      {
-        "type": "added",
-        "text": "The Amazon eGift Voucher (WinPin code) will be sent to your email ID provided in the online credit card application, within 45 days of end of the offer i.e. 15 May 2027."
-      },
-      {
-        "type": "context",
-        "text": "All decisions with respect to the Offer shall be at the sole discretion of HSBC and the same shall be final, binding and non-contestable. Other than the specific entitlements available to the Cardholders under this Offer, any other claims with regard to this Offer against HSBC are waived."
-      },
-      {
-        "type": "context",
-        "text": "Credit card applicants are not bound in any way to participate in this Offer. Any participation is voluntary and the Offer is being made purely on a best effort basis."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -3710,150 +4414,6 @@
     }
   },
   {
-    "id": "axis-bank-google-pay-flex-axis-bank-credit-card",
-    "cardName": "Google Pay Flex Axis Bank Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/google-pay-flex-axis-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-19T08:51:58.210Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Earn stars on all eligible spends (including fuel) with this card. One star is equal to ₹1."
-      },
-      {
-        "type": "context",
-        "text": "No minimum transaction amount &mdash; every rupee counts"
-      },
-      {
-        "type": "removed",
-        "text": "4X and 8X rewards"
-      },
-      {
-        "type": "removed",
-        "text": "Unlock 4X (earn 4 stars for every cumulative ₹500 spent) if you start at 2X and spend more than ₹15,000 in the current reward period"
-      },
-      {
-        "type": "added",
-        "text": "Milestone Rewards"
-      },
-      {
-        "type": "added",
-        "text": "Increase in savings on everyday UPI spends:"
-      },
-      {
-        "type": "added",
-        "text": "Google One members who have the Flex credit card will get 3.2% back in stars (where 1 Star = ₹1) on all eligible spends* in the reward cycle upon crossing ₹15,000"
-      },
-      {
-        "type": "context",
-        "text": "Welcome benefit"
-      },
-      {
-        "type": "context",
-        "text": "Earn 2 stars on eligible spends of ₹500 in the first rewards cycle"
-      },
-      {
-        "type": "removed",
-        "text": "Get a ₹250 gift card and 250 stars on the Google Pay app as your welcome reward. This is subject to offers run by Google Pay."
-      },
-      {
-        "type": "added",
-        "text": "Get a Welcome Reward of ₹1,750 in stars & a ₹250 Gift Card on the Google Pay app. This is subject to offers run by Google Pay."
-      },
-      {
-        "type": "context",
-        "text": "Repay and manage bills flexibly"
-      },
-      {
-        "type": "context",
-        "text": "Choose how you repay &mdash; in full or in EMIs depending on your bill amount and eligibility as decided by Axis Bank. Manage bills, limits and more easily from the Google Pay app"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Redeem Stars while making UPI payment using this card on the Google Pay app to get instant cashback on your card"
-      },
-      {
-        "type": "context",
-        "text": "Please click here for terms and conditions."
-      },
-      {
-        "type": "removed",
-        "text": "4X and 8X rewards"
-      },
-      {
-        "type": "removed",
-        "text": "Unlock 4X (earn 4 stars for every cumulative ₹500 spent) if you start at 2X and spend more than ₹15,000 in the current reward period"
-      },
-      {
-        "type": "removed",
-        "text": "Unlock 8X (8 stars for every cumulative ₹500 spent) if you start at 2X and spend more than ₹30,000 in the current reward period"
-      },
-      {
-        "type": "removed",
-        "text": "*Star earnings at 4X and 8X will be offered by Google Pay directly. This is a promotional campaign and is subject to change from time to time."
-      },
-      {
-        "type": "added",
-        "text": "Milestone Rewards"
-      },
-      {
-        "type": "added",
-        "text": "Increased savings on everyday spends"
-      },
-      {
-        "type": "added",
-        "text": "Google One members who have the Flex credit card will get 3.2% back in Stars (where 1 Star = ₹1) on all eligible spends* in the reward cycle upon crossing ₹15,000"
-      },
-      {
-        "type": "added",
-        "text": "Non-Google One members will get 1.6% in Stars (where 1 Star = ₹1) back on all eligible spends* upon crossing ₹15,000 in the reward cycle"
-      },
-      {
-        "type": "added",
-        "text": "*This includes every eligible spend in the reward cycle, not just the ones after crossing 15,000."
-      },
-      {
-        "type": "added",
-        "text": "Extra savings every reward cycle:"
-      },
-      {
-        "type": "added",
-        "text": "Get 15% back (₹450 in Stars) on ₹3,000 spends on bills, OTT and recharges once every reward cycle on GPay"
-      },
-      {
-        "type": "added",
-        "text": "Get 5% back (₹250 in Stars ) on UPI Spend of ₹5,000 using GPay on top food and grocery apps e.g. Zomato, Blinkit, Swiggy etc using once every reward cycle."
-      },
-      {
-        "type": "added",
-        "text": "Note: Stars will be awarded directly by Google Pay. This promotional campaign is effective from 16 October 2026 till 15th October 2027 and is subject to extension as decided by Google Pay and Axis Bank."
-      },
-      {
-        "type": "context",
-        "text": "How to apply for Google Pay Flex Axis Bank Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To apply for this card, please go to the &lsquo;Money&rsquo; tab on your Google Pay app and look for the &lsquo;Flex by Google Pay&rsquo; section"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Reward rates and welcome bonus updated, adding milestone rewards and new percentage back on UPI and bill spends."
-    }
-  },
-  {
     "id": "icici-bank-credit-card-bill-payment-online",
     "cardName": "Credit Card Bill Payment Online",
     "issuerName": "ICICI Bank",
@@ -5371,214 +5931,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added quarterly movie ticket discount and lounge access with spend thresholds"
-    }
-  },
-  {
-    "id": "idfc-first-bank-indigo-idfc-first-dual-credit-card",
-    "cardName": "IndiGo IDFC FIRST Dual Credit Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-05T10:28:55.722Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply with ₹0 and FD"
-      },
-      {
-        "type": "context",
-        "text": "1 /"
-      },
-      {
-        "type": "removed",
-        "text": "1"
-      },
-      {
-        "type": "added",
-        "text": "2"
-      },
-      {
-        "type": "added",
-        "text": "Offer period: 01st Jun to 20th Jun 2026​"
-      },
-      {
-        "type": "added",
-        "text": "Unlock 5,000 Additional IndiGo BluChips"
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹15,000 within 30 days of card generation"
-      },
-      {
-        "type": "added",
-        "text": "Offer period: 01st Jun to 20th Jun 2026​"
-      },
-      {
-        "type": "added",
-        "text": "Unlock 5,000 Additional IndiGo BluChips"
-      },
-      {
-        "type": "added",
-        "text": "Spend ₹15,000 within 30 days of card generation"
-      },
-      {
-        "type": "context",
-        "text": "Apply with ₹4,999+GST"
-      },
-      {
-        "type": "context",
-        "text": "Apply with ₹0 and FD"
-      },
-      {
-        "type": "added",
-        "text": "2 /"
-      },
-      {
-        "type": "added",
-        "text": "2"
-      },
-      {
-        "type": "added",
-        "text": "Apply with ₹4,999+GST"
-      },
-      {
-        "type": "added",
-        "text": "Apply with ₹0 and FD"
-      },
-      {
-        "type": "context",
-        "text": "Two flexible ways to get your cards"
-      },
-      {
-        "type": "context",
-        "text": "Get power of both Mastercard & RuPay through a single application"
-      },
-      {
-        "type": "context",
-        "text": "Option 1: ₹4,999 Joining Fee"
-      },
-      {
-        "type": "context",
-        "text": "Joining fee: ₹4,999 + GST"
-      },
-      {
-        "type": "removed",
-        "text": "Exclusive Offer: Get Additional Voucher of 5,000 IndiGo BluChip on spends of ₹15k in first 30 days*"
-      },
-      {
-        "type": "added",
-        "text": "Exclusive Offer: Get Additional Voucher of 5,000 IndiGo BluChip on joining fee payment*​"
-      },
-      {
-        "type": "context",
-        "text": "Welcome Benefits of 8,000 BluChips"
-      },
-      {
-        "type": "context",
-        "text": "- 5000 IndiGo BluChips voucher on joining fee payment"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Option 2: ₹0 Joining Fee with FD"
-      },
-      {
-        "type": "context",
-        "text": "Free for the 1st year with min ₹50k FD"
-      },
-      {
-        "type": "removed",
-        "text": "Exclusive Offer: Get Additional Voucher of 5,000 IndiGo BluChip on spends of ₹15k in first 30 days*"
-      },
-      {
-        "type": "context",
-        "text": "Welcome Benefits"
-      },
-      {
-        "type": "context",
-        "text": "- 3000 IndiGo BluChips voucher on 1L spends within 90 days"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Key Benefits of IndiGo IDFC FIRST Dual Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
-      },
-      {
-        "type": "removed",
-        "text": "on spends of ₹15K in the first 30 days of card generation."
-      },
-      {
-        "type": "removed",
-        "text": "Offer Period:1 st June 2026 to 30 th September 2026"
-      },
-      {
-        "type": "added",
-        "text": "on payment of joining fees​"
-      },
-      {
-        "type": "added",
-        "text": "Offer Period: 1 st October 2026 – 31 st October 2026​"
-      },
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Earn IndiGo BluChips on"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "No credit history? No problem! Apply with an FD to skip credit check."
-      },
-      {
-        "type": "context",
-        "text": "Get Additional Voucher of 5,000 IndiGo BluChip"
-      },
-      {
-        "type": "removed",
-        "text": "on spends of ₹15,000 in the first 30 days of card generation."
-      },
-      {
-        "type": "removed",
-        "text": "Offer Period: 1 st June 2026 to 30 th September 2026"
-      },
-      {
-        "type": "added",
-        "text": "on payment of joining fees​"
-      },
-      {
-        "type": "added",
-        "text": "Offer Period: 1 st October 2026 – 31 st October 2026​"
-      },
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Global reach + UPI with ease"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -11735,354 +12087,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Reward points threshold reduced to ₹40,000 per statement cycle"
-    }
-  },
-  {
-    "id": "idfc-first-bank-ashva-metal-card",
-    "cardName": "Ashva Metal Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/ashva",
-    "status": "Active",
-    "detectedAt": "2026-09-09T08:16:10.680Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Annual Fee Payment Benefit"
-      },
-      {
-        "type": "context",
-        "text": "Worth up to ₹3,000"
-      },
-      {
-        "type": "removed",
-        "text": "1% forex markup"
-      },
-      {
-        "type": "removed",
-        "text": "With a low forex markup of just 1%, ensure that your international transactions are seamless and cost-effective."
-      },
-      {
-        "type": "added",
-        "text": "No forex markup fees"
-      },
-      {
-        "type": "added",
-        "text": "Experience global luxuries seamlessly with 0% foreign exchange markup on international transactions."
-      },
-      {
-        "type": "context",
-        "text": "Reward Points on Ashva Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Earn"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Comprehensive insurance"
-      },
-      {
-        "type": "context",
-        "text": "TRAVEL"
-      },
-      {
-        "type": "removed",
-        "text": "Exceptionally low forex markup fee"
-      },
-      {
-        "type": "removed",
-        "text": "Save on international transactions with forex markup at just 1%. T&C Apply*"
-      },
-      {
-        "type": "added",
-        "text": "Zero forex charges"
-      },
-      {
-        "type": "added",
-        "text": "You will pay no foreign exchange fees when you use your card for international purchases. T&C Apply*"
-      },
-      {
-        "type": "context",
-        "text": "TRAVEL"
-      },
-      {
-        "type": "context",
-        "text": "Airport lounge perks"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Roadside assistance"
-      },
-      {
-        "type": "context",
-        "text": "Receive 24/7 roadside assistance for any emergencies while traveling. T&C Apply*"
-      },
-      {
-        "type": "removed",
-        "text": "Exceptionally low forex markup fee"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy a low forex markup rate at just 1% (+GST) on your international spends. This fee also applies to international transactions done in Indian currency."
-      },
-      {
-        "type": "context",
-        "text": "Airport lounge perks"
-      },
-      {
-        "type": "context",
-        "text": "View the list of eligible airport lounges"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "• 10X Reward Points on incremental spends above ₹20,000 in a statement cycle"
-      },
-      {
-        "type": "context",
-        "text": "• 5X Reward Points on spends up to ₹20,000 in a statement cycle"
-      },
-      {
-        "type": "removed",
-        "text": "• 5X Reward Points on international spends, with eligible international transactions contributing towards your monthly 10X rewards milestone calculation."
-      },
-      {
-        "type": "added",
-        "text": "• 5X Reward Points* on international spends, with eligible international transactions contributing towards your monthly 10X rewards milestone calculation."
-      },
-      {
-        "type": "added",
-        "text": "*Effective 26th Oct 2026, you will earn 2X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "• 3X Reward Points on Rent, Education, Government and Wallet Load transactions."
-      },
-      {
-        "type": "context",
-        "text": "• 1X Reward Points on Insurance, Utility, Railways and Fastag transactions."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Illustration: For ₹6,000 spends on Bookings via IDFC FIRST Mobile App     1,600 Points Worth ₹640 (On Hotels)"
-      },
-      {
-        "type": "context",
-        "text": "1,000 Points Worth ₹400 (On Flights)"
-      },
-      {
-        "type": "added",
-        "text": "​​"
-      },
-      {
-        "type": "context",
-        "text": "Maximize The Reward Point Value"
-      },
-      {
-        "type": "context",
-        "text": "Each reward point is worth ₹0.40 when you redeem them for hotel and flight bookings via “FIRST Rewards Gallery” section on IDFC FIRST Bank Mobile App."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Airport Lounge"
-      },
-      {
-        "type": "context",
-        "text": "Card Usage"
-      },
-      {
-        "type": "removed",
-        "text": "Effective 18th June 2026, what changes are being made to the Ashva Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "There will be revisions to select features and the applicable Terms & Conditions of the Ashva Credit Card.  Click here  for detailed information."
-      },
-      {
-        "type": "context",
-        "text": "What are the Joining Fee and Annual Fee of the Ashva Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The Ashva Credit Card comes with a Joining Fee of ₹2,999 + GST and an Annual Fee (applicable from second card anniversary year) of ₹2,999 + GST. The Joining Fee will be levied on credit card application approval."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Yes. You will earn:"
-      },
-      {
-        "type": "context",
-        "text": "- 10X Reward Points on incremental spends above ₹20,000 in a statement cycle"
-      },
-      {
-        "type": "removed",
-        "text": "- 5X Reward Points on spends up to ₹20,000 in a statement cycle"
-      },
-      {
-        "type": "added",
-        "text": "- 5X Reward Points* on spends up to ₹20,000 in a statement cycle"
-      },
-      {
-        "type": "added",
-        "text": "*Effective 26 th Oct 2026, you will earn 2X RewardPoints on international spends"
-      },
-      {
-        "type": "context",
-        "text": "- 5X Reward Points on international spends, with eligible international transactions contributing towards your monthly 10X rewards milestone calculation."
-      },
-      {
-        "type": "context",
-        "text": "- 3X Reward Points on Rent, Education, Government and Wallet Load transactions. 1X Reward Points on Insurance, Utility, Railways and Fastag transactions. Domestic and international transactions in these categories are not considered towards 10X milestone calculations."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "For brand offers, you can visit the offers website"
-      },
-      {
-        "type": "context",
-        "text": "What is the Forex Markup Fee on the Ashva Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "The Ashva Credit Card offers one of the lowest forex markups in the industry at just 1% . Spend seamlessly while travelling abroad as well as on international purchases made from India."
-      },
-      {
-        "type": "added",
-        "text": "The Ashva Credit Card provides ZERO forex markup. Spend without paying extra fees while travellingabroad as well as on international purchases made from India.​"
-      },
-      {
-        "type": "context",
-        "text": "Does the Ashva Credit Card offer complimentary airport lounge access?"
-      },
-      {
-        "type": "context",
-        "text": "Yes. With Ashva Credit Card, you can enjoy:"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Is the Ashva Credit Card better than a Forex Card or Multi-Currency Card?"
-      },
-      {
-        "type": "context",
-        "text": "Ashva, a premium metal credit card by IDFC FIRST Bank, is a must-have for frequent travellers. It can make your travel experience much more convenient with benefits such as:"
-      },
-      {
-        "type": "removed",
-        "text": "1.   Low Forex Markup Fee of 1%, making international transactions cost-effective."
-      },
-      {
-        "type": "removed",
-        "text": "2.   Complimentary access to airport lounges including 4 domestic lounge visits and 2 international lounge visits per quarter."
-      },
-      {
-        "type": "removed",
-        "text": "3.   Free Trip Cancellation Cover. With a cancellation cover of up to ₹25,000 for non-refundable hotel and flight bookings, you won’t feel guilty about changing your travel plans at the last minute."
-      },
-      {
-        "type": "removed",
-        "text": "4.   Robust travel insurance with coverage up to $1,200 USD for loss of luggage, flight delays, etc."
-      },
-      {
-        "type": "added",
-        "text": "1. 0% Forex Markup Fee: Unlike most forex and multi-currency cards that may include hidden charges or unfavourable exchange rates, the Ashva Credit Card offers a true 0% forex markup fee, ensuring cost-effective international transactions.​"
-      },
-      {
-        "type": "added",
-        "text": "2. Complimentary access to airport lounges including 4 domestic lounge visits and 2 international lounge visits per quarter."
-      },
-      {
-        "type": "added",
-        "text": "3. Free Trip Cancellation Cover. With a cancellation cover of up to ₹25,000 for non-refundable hotel and flight bookings, you won’t feel guilty about changing your travel plans at the last minute."
-      },
-      {
-        "type": "added",
-        "text": "4. Robust travel insurance with coverage up to $1,200 USD for loss of luggage, flight delays, etc."
-      },
-      {
-        "type": "context",
-        "text": "How does the Ashva Credit Card compare to a multi-currency card or a forex card?"
-      },
-      {
-        "type": "removed",
-        "text": "The Ashva Credit Card stands out as a versatile and cost-effective option for international travel compared to multi-forex or multi-currency cards. With only a 1% forex markup fee, it is highly competitive, offering significant savings compared to the typical 3-3.5% forex markup charged by most traditional credit cards."
-      },
-      {
-        "type": "removed",
-        "text": "Unlike multi-currency cards, which require pre-loading foreign currency and may involve reload fees, the Ashva Credit Card offers seamless usage across most currencies without additional setup or top-up hassles. Furthermore, its 45-day interest-free cash withdrawal feature provides unmatched flexibility and convenience while traveling abroad—something that is typically unavailable with multi-currency cards."
-      },
-      {
-        "type": "removed",
-        "text": "In addition to these financial benefits, the Ashva Credit Card also offers travel perks like complimentary lounge access, trip cancellation cover, travel insurance, and reward points, making it a superior all-in-one solution for globetrotters."
-      },
-      {
-        "type": "added",
-        "text": "The Ashva  Credit Card by IDFC FIRST Bank offers several advantages over traditional forex and multi-currency cards,making it a superior choice for global travellers:​"
-      },
-      {
-        "type": "added",
-        "text": "1. 0% Forex Markup Fee: Unlike most forex and multi-currency cards that may include hidden charges or unfavourableexchange rates, the Ashva Credit Card offers a true 0% forex markup fee, ensuring cost-effective internationaltransactions.​"
-      },
-      {
-        "type": "added",
-        "text": "2. No Pre-Loading Hassle: Forex and multi-currency cards require pre-loading specific currencies, which involvesadditional hassles. The Ashva Credit Card eliminates all this, allowing seamless transactions in any currency withoutadvance planning.​"
-      },
-      {
-        "type": "added",
-        "text": "3. Interest-Free Global ATM Cash Withdrawals: The card allows interest-free global ATM cash withdrawals for up to 45days, providing flexibility and convenience, especially when you need cash on the go. While there is a ₹199 (+GST)transaction fee, it’s still a practical option compared to the fees associated with managing physical cash or reloadinga forex card.​"
-      },
-      {
-        "type": "added",
-        "text": "Additionally, this metal card includes premium travel perks like complimentary domestic and international loungevisits, trip cancellation cover of up to ₹25,000, and travel insurance, which are typically not available with forex cards.The Ashva Credit Card is a seamless, cost-effective, and rewarding choice for global travellers.​"
-      },
-      {
-        "type": "context",
-        "text": "How can I contact IDFC FIRST Bank while travelling internationally?"
-      },
-      {
-        "type": "context",
-        "text": "In case of any questions regarding your credit card while abroad, please contact us at  +91 22 6248 5152"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Forex markup fee changed from 1% to 0%, and reward points on international spends now include a 2X rate effective 26 Oct 2026"
     }
   },
   {
@@ -20518,422 +20522,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-intermiles-hdfc-bank-diners-club-credit-card",
-    "cardName": "InterMiles HDFC Bank Diners Club Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/intermiles-diners-club-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-15T04:00:04.687Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Diners Club Intermiles Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "For Diverse Discoveries"
-      },
-      {
-        "type": "added",
-        "text": "Important information: Dear Customers, Intermiles card is phased out and we have migrated the existing cardholders to other HDFC bank credit card in a phase wise manner. All the existing customers that were migrated to other credit cards have been sent the 30 days advance SMS/Email communication in Jan/Feb'23 (Phase 1), Dec’23 (Phase 2), Nov’24 (Phase 3) and post 30 days have been migrated. Please note, effective 15th Dec’24, bank had discontinued all the product features on your Intermiles credit card."
-      },
-      {
-        "type": "context",
-        "text": "Reward Redemption Program"
-      },
-      {
-        "type": "context",
-        "text": "Card Management & Control"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-intermiles-hdfc-bank-platinum-credit-card",
-    "cardName": "InterMiles HDFC Bank Platinum Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/intermiles-platinum-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-15T04:00:04.679Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Elevate Your Travel Experience"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "added",
-        "text": "Important information: Dear Customers, Intermiles card is phased out and we have migrated the existing cardholders to other HDFC bank credit card in a phase wise manner. All the existing customers that were migrated to other credit cards have been sent the 30 days advance SMS/Email communication in Jan/Feb'23 (Phase 1), Dec’23 (Phase 2), Nov’24 (Phase 3) and post 30 days have been migrated. Please note, effective 15th Dec’24, bank had discontinued all the product features on your Intermiles credit card."
-      },
-      {
-        "type": "context",
-        "text": "Eligibility Criteria"
-      },
-      {
-        "type": "context",
-        "text": "Documents Required to Apply"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "InterMiles card discontinued effective 15th Dec’24"
-    }
-  },
-  {
-    "id": "hdfc-bank-flipkart-wholesale-credit-card",
-    "cardName": "Flipkart Wholesale Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/flipkart-wholesale-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-14T05:07:30.331Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "What is the Flipkart Wholesale Card?"
-      },
-      {
-        "type": "context",
-        "text": "The Flipkart Wholesale HDFC Bank Credit Card is a co-branded Credit Card that offers attractive cashback rewards, exclusive discounts on Flipkart Wholesale online platforms, utility bill payments, interest-free credit period, fuel surcharge waiver, and various other benefits."
-      },
-      {
-        "type": "removed",
-        "text": "Does the Flipkart Wholesale Card have lounge access?"
-      },
-      {
-        "type": "removed",
-        "text": "Yes, the Flipkart Wholesale Credit Card provides unlimited airport lounge access to 1000 plus lounges in India for both primary and add-on card members. Enjoy a comfortable and luxurious travel experience."
-      },
-      {
-        "type": "context",
-        "text": "What is the credit limit of Flipkart Wholesale Card?"
-      },
-      {
-        "type": "context",
-        "text": "The credit limit on your Flipkart Wholesale HDFC Bank Credit Card will be determined based on various factors such as your income, credit history, and existing relationship with the bank. The bank will inform you of your approved credit limit after your application is processed."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "kotak-mahindra-bank-indigo-kotak-credit-card",
-    "cardName": "IndiGo Kotak Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/indigo-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-12T07:59:07.818Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Indigo Credit Card – Simple Rewards & Zero Joining Fee | Kotak Bank"
-      },
-      {
-        "type": "added",
-        "text": "Apply for Kotak Bank Indigo Credit Card Online | Kotak Bank"
-      },
-      {
-        "type": "added",
-        "text": "Dear Customer, you may experience intermittent downtime on the website on 26th July 2026, 12:00 AM to 06:00 AM due to a scheduled maintenance."
-      },
-      {
-        "type": "context",
-        "text": "Indigo Kotak Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "IndiGo Kotak Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Get 4 Free Flights"
-      },
-      {
-        "type": "added",
-        "text": "Turn your spending and unlock flights, rewards, and Sunforgettable travel journeys."
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "context",
-        "text": "Rewards Redemption"
-      },
-      {
-        "type": "removed",
-        "text": "Fly smarter with IndiGo BluChips on every spend. Enjoy accelerated IndiGo BluChips earning on IndiGo flights, dining, entertainment and more. Your wanderlust is limitless—so are your earnings!"
-      },
-      {
-        "type": "added",
-        "text": "About the Kotak IndiGo Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "The Kotak Mahindra Bank IndiGo Credit Card is for someone who frequently flies with IndiGo and wants to earn travel-linked rewards on their spending. You can earn IndiGo BluChips on eligible spends such as flight bookings, online shopping, dining, and bill payments. Accumulated BluChips can be redeemed for IndiGo flight bookings."
-      },
-      {
-        "type": "added",
-        "text": "Key Benefits of the Kotak IndiGo Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Fly smarter with the best airline credit card and earn with IndiGo BluChips on every ₹100 spendspent. Enjoy accelerated IndiGo BluChips earning on IndiGo flights, dining, entertainment, and more. Your wanderlust is limitless, —so are your earnings."
-      },
-      {
-        "type": "context",
-        "text": "Earn up to 19 IndiGo BluChips per ₹100 spent on IndiGo flight bookings"
-      },
-      {
-        "type": "context",
-        "text": "Welcome benefit of 2,500 IndiGo BluChips voucher"
-      },
-      {
-        "type": "context",
-        "text": "Spend-based milestone vouchers worth up to 7,500 IndiGo BluChips"
-      },
-      {
-        "type": "context",
-        "text": "Earn 2 IndiGo BluChips per ₹100 spent on Dining and Entertainment"
-      },
-      {
-        "type": "added",
-        "text": "Earn 1 IndiGo BluChip per ₹100 spent on other every spends* and redeem them while booking IndiGo flights."
-      },
-      {
-        "type": "context",
-        "text": "Welcome Benefit"
-      },
-      {
-        "type": "context",
-        "text": "Kick start your IndiGo Kotak Credit Card journey with a welcome benefit voucher of 2,500 IndiGo BluChips"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Earn unlimited 1 IndiGo BluChip per ₹100 spent on all other categories*"
-      },
-      {
-        "type": "context",
-        "text": "Milestone Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Earn vouchers of up to 7,500 IndiGo BluChips each year"
-      },
-      {
-        "type": "removed",
-        "text": "Earn a voucher worth 2,500 IndiGo BluChips on spending ₹1.25L within the anniversary year"
-      },
-      {
-        "type": "removed",
-        "text": "Earn the 2 rd voucher worth 2,500 IndiGo BluChips on spending ₹2.5L within the anniversary year"
-      },
-      {
-        "type": "removed",
-        "text": "Earn the 3 rd voucher worth 2,500 IndiGo BluChips on spending ₹6L within the anniversary year"
-      },
-      {
-        "type": "added",
-        "text": "Earn vouchers of up to 7,500 IndiGo BluChips each year."
-      },
-      {
-        "type": "added",
-        "text": "Earn a voucher worth 2,500 IndiGo BluChips on spending ₹1.25 lakh in the anniversary year."
-      },
-      {
-        "type": "added",
-        "text": "Earn the 2nd voucher worth 2,500 IndiGo BluChips by spending ₹2.5 lakh in the anniversary year."
-      },
-      {
-        "type": "added",
-        "text": "Earn the 3rd voucher worth 2,500 IndiGo BluChips by spending ₹6 lakh in the anniversary year."
-      },
-      {
-        "type": "context",
-        "text": "Renewal Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Get a Renewal benefit voucher of 2,500 IndiGo BluChips on payment of annual fee each year"
-      },
-      {
-        "type": "added",
-        "text": "Get a renewal benefit voucher of 2,500 IndiGo BluChips on payment of the annual fee each year."
-      },
-      {
-        "type": "added",
-        "text": "What Are IndiGo BluChips And IndiGo Vouchers?"
-      },
-      {
-        "type": "added",
-        "text": "IndiGo BluChips are reward points earned through eligible spends and milestone programmes. These BluChips can be redeemed for eligible IndiGo bookings. IndiGo BluChip Vouchers are benefit vouchers provided under welcome, milestone, and renewal benefit programmes, subject to applicable terms and conditions."
-      },
-      {
-        "type": "added",
-        "text": "How to Earn IndiGo BluChips with the Kotak IndiGo Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "Earn up to 19 IndiGo BluChips per ₹100 spent on IndiGo flight bookings. Here is the complete breakdown:"
-      },
-      {
-        "type": "added",
-        "text": "8 IndiGo BluChips per ₹100 spent for all IndiGo BluChip members."
-      },
-      {
-        "type": "added",
-        "text": "3 IndiGo BluChips per ₹100 spent on using the IndiGo Kotak Credit Card."
-      },
-      {
-        "type": "added",
-        "text": "4 IndiGo BluChips per ₹100 spent on booking through the IndiGo website and mobile app."
-      },
-      {
-        "type": "added",
-        "text": "Up to 4 Bonus IndiGo BluChips per ₹100 spent based on your IndiGo BluChip Tier status. For details, click here ."
-      },
-      {
-        "type": "added",
-        "text": "How to Apply for the Kotak IndiGo Credit Card?"
-      },
-      {
-        "type": "added",
-        "text": "To apply for Kotak Bank airline credit cards, here is the complete process:"
-      },
-      {
-        "type": "added",
-        "text": "Visit the official Kotak Bank credit card page."
-      },
-      {
-        "type": "added",
-        "text": "Click on the “Apply Now” button."
-      },
-      {
-        "type": "added",
-        "text": "Enter your mobile number & other personal details."
-      },
-      {
-        "type": "added",
-        "text": "Submit the required documents."
-      },
-      {
-        "type": "added",
-        "text": "The bank will verify your details."
-      },
-      {
-        "type": "added",
-        "text": "Once you receive your card, activate it.."
-      },
-      {
-        "type": "added",
-        "text": "Things to Know Before You Apply"
-      },
-      {
-        "type": "added",
-        "text": "Flight credit cards like the Kotak IndiGo Credit Card are suitable if:"
-      },
-      {
-        "type": "added",
-        "text": "You are a frequent traveller and prefer flying with IndiGo."
-      },
-      {
-        "type": "added",
-        "text": "You understand the card’s joining and annual fees and reward structure."
-      },
-      {
-        "type": "added",
-        "text": "You can spend ₹6 lakh annually to maximise milestone benefits."
-      },
-      {
-        "type": "added",
-        "text": "You are comfortable redeeming IndiGo BluChips through the IndiGo website and app."
-      },
-      {
-        "type": "added",
-        "text": "Note: IndiGo BluChips have lifetime validity. IndiGo BluChips vouchers credited as welcome, milestone, and renewal benefits have a validity of 6 months from the date of issuance."
-      },
-      {
-        "type": "added",
-        "text": "*For detailed terms and conditions of the credit card features please click here"
-      },
-      {
-        "type": "added",
-        "text": "Note for RuPay cardholders : All UPI on Credit Card spends will accrue 1 IndiGo BluChip per ₹100 spent, except for spends done in exclusion MCC codes, where no rewards will be awarded."
-      },
-      {
-        "type": "context",
-        "text": "Note: IndiGo BluChips have lifetime validity. IndiGo BluChips vouchers credited as welcome, milestone, renewal benefit, have a validity of 6 months from date of issuance."
-      },
-      {
-        "type": "context",
-        "text": "*For detailed terms and conditions of the credit card features please click here"
-      },
-      {
-        "type": "context",
-        "text": "Note for RuPay cardholders : All UPI on Credit Card spends will accrue 1 IndiGo BluChip per ₹100 spent except for spends done in exclusion MCC codes where no rewards will be awarded"
-      },
-      {
-        "type": "added",
-        "text": "Note: IndiGo BluChips have lifetime validity. IndiGo BluChips vouchers credited as welcome, milestone, renewal benefit, have a validity of 6 months from date of issuance."
-      },
-      {
-        "type": "added",
-        "text": "*For detailed terms and conditions of the credit card features please click here"
-      },
-      {
-        "type": "added",
-        "text": "Note for RuPay cardholders : All UPI on Credit Card spends will accrue 1 IndiGo BluChip per ₹100 spent except for spends done in exclusion MCC codes where no rewards will be awarded"
-      },
-      {
-        "type": "context",
-        "text": "Ready to take the next step?"
-      },
-      {
-        "type": "context",
-        "text": "IndiGo Kotak Credit Card FAQs"
-      }
-    ],
-    "community": {
-      "reddit": {
-        "title": "Got useless Kotak cards LTF",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vkhgd4/got_useless_kotak_cards_ltf/",
-        "description": "Someone posted this - https://www.reddit.com/r/CreditCardsIndia/s/sCuSP6fDVy Post says it is patched, but for some users it is still working. After amending some links got the below cards LTF 😬😬 Used these visa cards to get amazon vouchers under visa poshvine scheme. My friend tried the same was able to only get Kotak Indian oil card LTF PS - 2nd Indigo card is of family member for whom I applied.  &#32; submitted by &#32;  /u/benjamin_tennyson10   [link] &#32; [comments]"
-      },
-      "youtube": {
-        "title": "Kotak bank indigo Credit Card Launched full details|Kotak bank life time free credit cards| #kotak",
-        "url": "https://www.youtube.com/watch?v=PStbNMbqJ4k",
-        "description": "Kotak bank indigo new credit card full details.Watch full video and subscribe my channel for more intresting videos..\n___________________ _________________________________\n\nMy tools.👇\n\nMic.https://amzn.to/3jpL2n5\n\nCam.https://amzn.to/38l8Yl1\n\nTripod.https://amzn.to/38nU7Xa\n\nLight.https://amzn.to/38oFMtA\n\n.......................................................................................\n.........................................\n\nCard apply links..👇👇\n\nhttps://www.hdfcbank.com/personal/pay...\n\n\nhttps://clctab.axisbank.co.in/Digital...\nRelated.videos..👇\n\nSend money from credit card to bank account.   • Credit card to bank account money transfer...  \n\n   • How to use flipkart discount coupons| how ...  \n\n   • 🔥Amazon debit card EMI offer full details|...  \n\n   • 🤑flipkart new app shopsy🤑earn money from h...  \n\n..........................................................................................\n\nFollow me on .👇 telegram.\n\nhttps://t.me/joinchat/B3JQaBEpHbk3OGU1\n\n\nFor business contact..👇👇\nKingsameer293@gmail.com..\n\nKeep space for more  stuff..🤝🤝.."
-      }
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated reward rates and milestone voucher thresholds for the Kotak IndiGo Credit Card."
     }
   }
 ]

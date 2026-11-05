@@ -3920,5 +3920,23 @@
     "issuerSlug": "hdfc-bank",
     "url": "https://www.hdfc.bank.in/need-help/credit-card-and-home-loan-collections",
     "status": "Active"
+  },
+  {
+    "cardName": "KVB Alturas Credit Card",
+    "issuerSlug": "karur-vysya-bank",
+    "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-alturas-credit-card/",
+    "status": "Active"
+  },
+  {
+    "cardName": "KVB Oura Credit Card",
+    "issuerSlug": "karur-vysya-bank",
+    "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-oura-credit-card/",
+    "status": "Active"
+  },
+  {
+    "cardName": "KVB Samara Credit Card",
+    "issuerSlug": "karur-vysya-bank",
+    "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-samara-credit-card/",
+    "status": "Active"
   }
 ]

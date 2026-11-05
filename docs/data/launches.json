@@ -1,5 +1,65 @@
 [
   {
+    "id": "karur-vysya-bank-kvb-alturas-credit-card",
+    "cardName": "KVB Alturas Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-alturas-credit-card/",
+    "discoveredAt": "2026-11-05T10:51:35.853Z",
+    "lastmod": "2026-11-05T08:44:43+00:00",
+    "announcement": {
+      "title": "KVB Alturas Credit Card",
+      "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-alturas-credit-card/",
+      "description": "Official product page on Karur Vysya Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-oura-credit-card",
+    "cardName": "KVB Oura Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-oura-credit-card/",
+    "discoveredAt": "2026-11-05T10:51:35.853Z",
+    "lastmod": "2026-11-05T08:44:43+00:00",
+    "announcement": {
+      "title": "KVB Oura Credit Card",
+      "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-oura-credit-card/",
+      "description": "Official product page on Karur Vysya Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-samara-credit-card",
+    "cardName": "KVB Samara Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-samara-credit-card/",
+    "discoveredAt": "2026-11-05T10:51:35.853Z",
+    "lastmod": "2026-11-05T08:44:43+00:00",
+    "announcement": {
+      "title": "KVB Samara Credit Card",
+      "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-samara-credit-card/",
+      "description": "Official product page on Karur Vysya Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "hdfc-bank-credit-card-and-home-loan-collections",
     "cardName": "Credit Card And Home Loan Collections",
     "issuerName": "HDFC Bank",

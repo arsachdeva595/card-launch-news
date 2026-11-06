@@ -1,5 +1,157 @@
 [
   {
+    "id": "federal-bank-mastercard-celesta-credit-card",
+    "cardName": "Mastercard Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-06T10:54:00.753Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 97080627-e42i-4821-9721-8eb52b546239"
+      },
+      {
+        "type": "removed",
+        "text": "https://www.federal.bank.in/celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 05 2026, 10:53:48 UTC"
+      },
+      {
+        "type": "added",
+        "text": "8f5de904-e42i-4186-b329-005935374f7e"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "equitas-sfb-tiga-credit-card",
+    "cardName": "Tiga Credit Card",
+    "issuerName": "Equitas Small Finance Bank",
+    "issuerSlug": "equitas-sfb",
+    "officialUrl": "https://equitas.bank.in/",
+    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/tiga-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-06T10:53:48.996Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Reward Point Redemption"
+      },
+      {
+        "type": "context",
+        "text": "Pay by 3 Merchants List"
+      },
+      {
+        "type": "removed",
+        "text": "Card Activation Most Important Terms & Conditions Card Member Agreement Key Fact Statement Payment Options Complimentary Insurance Policy Credit Cards Closure Privilege Program Tiga T&C Fair Practice Credit Card Operations Data Privacy Policy"
+      },
+      {
+        "type": "added",
+        "text": "Card Activation Most Important Terms & Conditions Card Member Agreement Key Fact Statement Payment Options Complimentary Insurance Policy Credit Cards Closure Privilege Program Tiga T&C Fair Practice Credit Card Operations Data Privacy Policy Know more about our Other Cards - Selfe Know more about our Other Cards - Powermiles"
+      },
+      {
+        "type": "context",
+        "text": "Pay by 3 – Tiga -"
+      },
+      {
+        "type": "context",
+        "text": "What is the Pay by 3 program?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Are there redemption conditions?"
+      },
+      {
+        "type": "context",
+        "text": "Minimum 500 points required for cashback, validity 24 months, ₹99 redemption fee applicable."
+      },
+      {
+        "type": "added",
+        "text": "The value of each reward point varies by redemption type, with travel, vouchers, and catalogue redemptions valuing ₹0.35 per point, while cashback and instant redemption value \u0000\u0000₹0.15 per point."
+      },
+      {
+        "type": "context",
+        "text": "What Is a Credit Card Limit?"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Limit Explained: Meaning & How to Increase It"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-airtel-axis-bank-credit-card",
+    "cardName": "Airtel Axis Bank Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/airtel-axis-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-06T10:52:17.343Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Annual fee &ndash; Primary Card"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹500 2nd year onward"
+      },
+      {
+        "type": "removed",
+        "text": "annual fee waived off on annual spends greater than ₹"
+      },
+      {
+        "type": "removed",
+        "text": "2,00,000/- {rent transactions ( MCC 6513 ) and wallet load"
+      },
+      {
+        "type": "removed",
+        "text": "transactions ( MCC 6540 ) will not be eligible for spends"
+      },
+      {
+        "type": "removed",
+        "text": "counted in availing annual fee waiver}"
+      },
+      {
+        "type": "added",
+        "text": "Annual fee waived off on annual spends greater than ₹2,00,000/- {Rent transactions , wallet load transactions and Gift cards will not be eligible for spends counted in availing annual fee waiver}"
+      },
+      {
+        "type": "context",
+        "text": "Annual fee &ndash; add-on card"
+      },
+      {
+        "type": "context",
+        "text": "Waived"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Annual fee waiver threshold updated to ₹2,00,000 with new exclusions for rent, wallet load, and gift card spends"
+    }
+  },
+  {
     "id": "karur-vysya-bank-kvb-platinum-credit-card",
     "cardName": "KVB Platinum Credit Card",
     "issuerName": "Karur Vysya Bank",
@@ -308,66 +460,6 @@
       {
         "type": "context",
         "text": "Card Benefits"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "equitas-sfb-tiga-credit-card",
-    "cardName": "Tiga Credit Card",
-    "issuerName": "Equitas Small Finance Bank",
-    "issuerSlug": "equitas-sfb",
-    "officialUrl": "https://equitas.bank.in/",
-    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/tiga-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-11-05T10:53:44.196Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Apply Tiga Credit Card Online | 3× Rewards on UPI | Equitas"
-      },
-      {
-        "type": "added",
-        "text": "Apply for Equitas Tiga Credit Card Online | Rewards & Benefits"
-      },
-      {
-        "type": "context",
-        "text": "/ Tiga Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Tiga"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Tiga"
-      },
-      {
-        "type": "context",
-        "text": "Experience the Power of 3!"
-      },
-      {
-        "type": "removed",
-        "text": "Tiga Credit Card – Apply Online for 3× Rewards & Interest Free Benefits"
-      },
-      {
-        "type": "added",
-        "text": "Apply for Tiga Credit Card Online for 3X Rewards & Benefits"
-      },
-      {
-        "type": "context",
-        "text": "The Equitas Tiga Credit Card is a rewards‐oriented digital credit card product that offers features like up to 50 days interest-free credit, 3× reward points on UPI/Contactless/Pay-by-3 merchant spends, and various insurance & waiver benefits."
-      },
-      {
-        "type": "context",
-        "text": "Key Features"
       }
     ],
     "community": {
@@ -19216,130 +19308,6 @@
     }
   },
   {
-    "id": "axis-bank-airtel-axis-bank-credit-card",
-    "cardName": "Airtel Axis Bank Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/airtel-axis-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-20T04:00:20.589Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Airtel Axis Bank Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Open a gateway to a world of privileges and benefits with your Airtel Axis Bank Credit Card. This card is designed to connect you to exclusive offers and other added delights. It comes with a world of cashback options and welcome benefits."
-      },
-      {
-        "type": "removed",
-        "text": "Some of the features and Terms and conditions on Airtel Axis Bank Credit Card will be revised w.e.f. 12th Apr'26. For more details, click here ."
-      },
-      {
-        "type": "context",
-        "text": "The Terms & Conditions of Airtel Axis Bank Credit Card will be updated w.e.f 28th August'26. Please click here to know more."
-      },
-      {
-        "type": "context",
-        "text": "Value Chart"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Finance charges (retail purchases and cash) 3.75% per month (55.55% per annum)"
-      },
-      {
-        "type": "context",
-        "text": "Late payment fees"
-      },
-      {
-        "type": "removed",
-        "text": "Nil if total payment due is less than ₹500"
-      },
-      {
-        "type": "added",
-        "text": "Nil if Total Payment Due is less than ₹500"
-      },
-      {
-        "type": "context",
-        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
-      },
-      {
-        "type": "context",
-        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "₹1200 if total payment due is greater than ₹10,000"
-      },
-      {
-        "type": "removed",
-        "text": "Additional ₹100 on missing payment of minimum amount due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
-      },
-      {
-        "type": "added",
-        "text": "₹1200 if total payment due is between ₹10,001 - ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "₹1300 if total payment due is greater than ₹50,000"
-      },
-      {
-        "type": "added",
-        "text": "An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared."
-      },
-      {
-        "type": "context",
-        "text": "Cash Withdrawal Fee Min. ₹500 up to 2.5% of the cash withdrawal amount"
-      },
-      {
-        "type": "context",
-        "text": "Over limit Fees Min. ₹500 up to 2.5% of the over limit amount"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "1% fee per transaction will be applicable on rental transactions. GST will be applicable as notified by"
-      },
-      {
-        "type": "context",
-        "text": "Dynamic Currency Conversion markup"
-      },
-      {
-        "type": "removed",
-        "text": "1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation."
-      },
-      {
-        "type": "added",
-        "text": "3.5% + taxes on international transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation"
-      },
-      {
-        "type": "context",
-        "text": "Wallet load transaction fee"
-      },
-      {
-        "type": "context",
-        "text": "(Applicable from 20th Dec, 2024) 1% fee will be applicable for cumulative spends of ₹10,000 or more for wallet loads per statement cycle"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Late payment fee thresholds and amounts updated, international transaction fee increased."
-    }
-  },
-  {
     "id": "rbl-bank-world-prime-credit-card",
     "cardName": "World Prime Credit Card",
     "issuerName": "RBL Bank",
@@ -19606,82 +19574,5 @@
       "status": "unverified",
       "candidateSummary": "Updated benefit details for Platinum Prime Credit Card"
     }
-  },
-  {
-    "id": "rbl-bank-platinum-bonus-credit-card",
-    "cardName": "Platinum Bonus Credit Card",
-    "issuerName": "RBL Bank",
-    "issuerSlug": "rbl-bank",
-    "officialUrl": "https://www.rbl.bank.in/",
-    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/platinum-bonus-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-16T04:27:51.999Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Second year fee reversal on spends of INR 1,00,000 #"
-      },
-      {
-        "type": "context",
-        "text": "HOW IT ADDS UP ?"
-      },
-      {
-        "type": "removed",
-        "text": "Value (In INR)"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome Gift: 6,000 Reward Points (No welcome rewards will be given to First Year Free cards)"
-      },
-      {
-        "type": "removed",
-        "text": "1,500^^"
-      },
-      {
-        "type": "removed",
-        "text": "Spend Based Waiver: Spend INR 1,00,000 in a year and get waiver of Next year Annual Fee #"
-      },
-      {
-        "type": "removed",
-        "text": "1,000"
-      },
-      {
-        "type": "removed",
-        "text": "TOTAL BENEFITS PER ANNUM"
-      },
-      {
-        "type": "removed",
-        "text": "2,500+"
-      },
-      {
-        "type": "added",
-        "text": "Benefits Value (In INR)"
-      },
-      {
-        "type": "added",
-        "text": "Welcome Gift: 6,000 Reward Points (No welcome rewards will be given to First Year Free cards) 1,500^^"
-      },
-      {
-        "type": "added",
-        "text": "Spend Based Waiver: Spend INR 1,00,000 in a year and get waiver of Next year Annual Fee # 1,000"
-      },
-      {
-        "type": "added",
-        "text": "TOTAL BENEFITS PER ANNUM 2,500+"
-      },
-      {
-        "type": "context",
-        "text": "^^Up to"
-      },
-      {
-        "type": "context",
-        "text": "You pay an Annual Membership fee of INR 999 Plus Goods and Service tax (GST)."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Updated benefits section heading to “Benefits Value (In INR)” and reformatted welcome gift and spend‑based waiver details."
   }
 ]

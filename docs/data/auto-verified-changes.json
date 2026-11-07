@@ -226,5 +226,17 @@
     "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1x5muv2/need_clarity_on_indusind_co_branded_card_issuance/",
     "source": "auto-detected",
     "detected_at": "2026-11-03T10:51:26.643Z"
+  },
+  {
+    "card_slug": "league-platinum-credit-card",
+    "card_name": "League Platinum Credit Card",
+    "issuer": "kotak",
+    "change_type": "eligibility-change",
+    "summary": "Eligibility criteria for the League Platinum Credit Card were removed.",
+    "status": "verified",
+    "official_link": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/league-platinum-card.html",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1wiur82/kotak_league_platinum_application_kotak_not/",
+    "source": "auto-detected",
+    "detected_at": "2026-11-07T10:13:21.837Z"
   }
 ]

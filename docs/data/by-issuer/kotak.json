@@ -1,5 +1,19 @@
 [
   {
+    "card_slug": "league-platinum-credit-card",
+    "card_name": "League Platinum Credit Card",
+    "issuer": "kotak",
+    "change_type": "eligibility-change",
+    "summary": "Eligibility criteria for the League Platinum Credit Card were removed.",
+    "status": "verified",
+    "official_link": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/league-platinum-card.html",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1wiur82/kotak_league_platinum_application_kotak_not/",
+    "source": "auto-detected",
+    "edition_number": null,
+    "edition_date": "2026-11-07",
+    "edition_permalink": null
+  },
+  {
     "card_slug": "kotak-mahindra-bank-royale-signature-credit-card",
     "card_name": "Royale Signature Credit Card",
     "issuer": "kotak",

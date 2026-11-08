@@ -268,13 +268,13 @@
     "https://equitas.bank.in/personal-banking/pay/debit-cards/rupay-debit-card/",
     "https://equitas.bank.in/personal-banking/pay/debit-cards/rupay-insurance/",
     "https://equitas.bank.in/personal-banking/pay/debit-cards/visa-debit-card/",
+    "https://equitas.bank.in/personal-banking/pay/offers/digilocker/",
+    "https://equitas.bank.in/personal-banking/pay/prepaid-cards/gift-cards/",
+    "https://equitas.bank.in/personal-banking/pay/prepaid-cards/gpr-cards/",
     "https://equitas.bank.in/personal-banking/pay/make-payments/digital-transaction-limits/",
     "https://equitas.bank.in/personal-banking/pay/make-payments/fastag/",
     "https://equitas.bank.in/personal-banking/pay/make-payments/payment-cut-off-timing/",
     "https://equitas.bank.in/personal-banking/pay/make-payments/upi/",
-    "https://equitas.bank.in/personal-banking/pay/offers/digilocker/",
-    "https://equitas.bank.in/personal-banking/pay/prepaid-cards/gift-cards/",
-    "https://equitas.bank.in/personal-banking/pay/prepaid-cards/gpr-cards/",
     "https://equitas.bank.in/personal-banking/save/fixed-deposits/fixed-deposit/",
     "https://equitas.bank.in/personal-banking/save/fixed-deposits/maxima-fixed-deposit/",
     "https://equitas.bank.in/personal-banking/save/fixed-deposits/recurring-deposits/",
@@ -294,5 +294,5 @@
     "https://equitas.bank.in/personal-banking/insure/insurance/government-schemes/pradhan-mantri-suraksha-bima-yojana/",
     "https://equitas.bank.in/personal-banking/invest/all-investments/government-schemes/atal-pension-yojna/"
   ],
-  "updatedAt": "2026-11-07T10:03:42.907Z"
+  "updatedAt": "2026-11-08T10:17:08.653Z"
 }

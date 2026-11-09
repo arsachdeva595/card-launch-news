@@ -1,5 +1,1183 @@
 [
   {
+    "id": "idfc-first-bank-first-power",
+    "cardName": "FIRST Power+",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-09T11:35:40.895Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "How to Book Fights and Hotels"
+      },
+      {
+        "type": "removed",
+        "text": "How to Book Fights and Hotels"
+      },
+      {
+        "type": "removed",
+        "text": "26.67% Bonus Reward Points on hotel & flight bookings through IDFC FIRST Mobile Appp Know More"
+      },
+      {
+        "type": "added",
+        "text": "Experience the best the world has to offer with Zero forexmarkup on international spends​"
+      },
+      {
+        "type": "added",
+        "text": "Experience the best the world has to offer with Zero forexmarkup on international spends​"
+      },
+      {
+        "type": "added",
+        "text": "- To avail the service, call the toll free number 1800 572 3860 and share your name, the last 4 digits of your card, and vehicle details.​"
+      },
+      {
+        "type": "added",
+        "text": "- To avail the service, call the toll free number 1800 572 3860 and share your name, the last 4 digits of your card, and vehicle details.​"
+      },
+      {
+        "type": "added",
+        "text": "How to Book Flights and Hotels"
+      },
+      {
+        "type": "added",
+        "text": "How to Book Flights and Hotels"
+      },
+      {
+        "type": "added",
+        "text": "26.67% Bonus Reward Points on hotel & flight bookings through IDFC FIRST Mobile App Know More"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added zero forex markup on international spends for the card",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Which card to choose?",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x5oh6c/which_card_to_choose/",
+        "description": "I was planning an international travel hence was looking for a zero forex charge card. Was almost done filling out the Scapia form when I got to know about IDFC cards which are all zero forex. After filling all the information, these are th"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-digital-virtual-upi",
+    "cardName": "FIRST Digital (Virtual UPI)",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/rupay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-09T11:35:40.892Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Link your RuPay Credit Card to any UPI app in just one click!"
+      },
+      {
+        "type": "context",
+        "text": "IDFC FIRST Bank App"
+      },
+      {
+        "type": "removed",
+        "text": "Bhim"
+      },
+      {
+        "type": "added",
+        "text": "BHIM"
+      },
+      {
+        "type": "context",
+        "text": "PhonePe"
+      },
+      {
+        "type": "context",
+        "text": "Google Pay"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Scan."
+      },
+      {
+        "type": "context",
+        "text": "Link."
+      },
+      {
+        "type": "removed",
+        "text": "Done."
+      },
+      {
+        "type": "removed",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments."
+      },
+      {
+        "type": "added",
+        "text": "Pay."
+      },
+      {
+        "type": "added",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points ​.​"
+      },
+      {
+        "type": "context",
+        "text": "Tap."
+      },
+      {
+        "type": "context",
+        "text": "Link."
+      },
+      {
+        "type": "removed",
+        "text": "Done."
+      },
+      {
+        "type": "removed",
+        "text": "Tap the 'Link Now' to instantly link your RuPay Credit Card and start making UPI payments."
+      },
+      {
+        "type": "removed",
+        "text": "Scan the QR code to open Bhim"
+      },
+      {
+        "type": "added",
+        "text": "Pay."
+      },
+      {
+        "type": "added",
+        "text": "Tap ‘Link Now’ to link and use your Rupay Digital credit card for making UPI payments."
+      },
+      {
+        "type": "added",
+        "text": "Scan the QR code to open BHIM"
+      },
+      {
+        "type": "context",
+        "text": "Link Now"
+      },
+      {
+        "type": "context",
+        "text": "Add RuPay Credit card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Payment Successful"
+      },
+      {
+        "type": "context",
+        "text": "Payment Successful"
+      },
+      {
+        "type": "removed",
+        "text": "Scan. Link. Pay."
+      },
+      {
+        "type": "added",
+        "text": "Scan."
+      },
+      {
+        "type": "added",
+        "text": "Link."
+      },
+      {
+        "type": "added",
+        "text": "Pay."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
+      },
+      {
+        "type": "context",
+        "text": "Tap."
+      },
+      {
+        "type": "removed",
+        "text": "Link. Pay."
+      },
+      {
+        "type": "added",
+        "text": "Link."
+      },
+      {
+        "type": "added",
+        "text": "Pay."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to open PhonePe"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Payment Successful"
+      },
+      {
+        "type": "context",
+        "text": "Payment Successful"
+      },
+      {
+        "type": "removed",
+        "text": "Scan. Link. Pay."
+      },
+      {
+        "type": "added",
+        "text": "Scan."
+      },
+      {
+        "type": "added",
+        "text": "Link."
+      },
+      {
+        "type": "added",
+        "text": "Pay."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
+      },
+      {
+        "type": "context",
+        "text": "Tap."
+      },
+      {
+        "type": "removed",
+        "text": "Link. Pay."
+      },
+      {
+        "type": "added",
+        "text": "Link."
+      },
+      {
+        "type": "added",
+        "text": "Pay."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward point​s."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to open GPay"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Payment Successful"
+      },
+      {
+        "type": "context",
+        "text": "Payment Successful"
+      },
+      {
+        "type": "removed",
+        "text": "Scan. Link. Pay."
+      },
+      {
+        "type": "added",
+        "text": "Scan."
+      },
+      {
+        "type": "added",
+        "text": "Link."
+      },
+      {
+        "type": "added",
+        "text": "Pay."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward point​s."
+      },
+      {
+        "type": "context",
+        "text": "Tap."
+      },
+      {
+        "type": "removed",
+        "text": "Link. Pay. ."
+      },
+      {
+        "type": "added",
+        "text": "Link."
+      },
+      {
+        "type": "added",
+        "text": "Pay."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to instantly link your RuPay Credit Card and start making UPI payments to earn up to 3X reward points​."
+      },
+      {
+        "type": "context",
+        "text": "Scan the QR code to open Paytm"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a 3X reward points offer for UPI payments via the digital card"
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-millennia",
+    "cardName": "FIRST Millennia",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/millennia",
+    "status": "Active",
+    "detectedAt": "2026-11-09T11:35:40.891Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Personal Accident Cover of ₹2,00,000 and Lost Card Liability Cover of ₹25,000. Valid on making at least one transaction on the FIRST Millennia Credit Card in the last 30 days."
+      },
+      {
+        "type": "context",
+        "text": "24/7 Roadside assistance"
+      },
+      {
+        "type": "removed",
+        "text": "Receive 24/7 roadside assistance for any emergencies while traveling"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Roadside Assistance worth ₹1,399. Valid up to 4 times in a year on your FIRST Millennia Credit Card. T&C apply"
+      },
+      {
+        "type": "added",
+        "text": "Get round-the-clock roadside assistance for your car or two-wheeler emergencies across India, complimentary with your Credit Card and worth ₹1,399. Valid up to 4 times in a year.​"
+      },
+      {
+        "type": "added",
+        "text": "To avail the service, call the toll free number 1800 572 3860 and share your name, the last 4 digits of your card, and vehicle details.​"
+      },
+      {
+        "type": "context",
+        "text": "Click here to know more"
+      },
+      {
+        "type": "context",
+        "text": "Earn bonus reward points on flight bookings"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added detailed roadside assistance benefit for car or two-wheeler emergencies."
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-classic",
+    "cardName": "FIRST Classic",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/classic",
+    "status": "Active",
+    "detectedAt": "2026-11-09T11:35:40.890Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Personal accident cover of ₹2,00,000 and lost card liability cover of ₹25,000 valid on making at least one transaction on FIRST Classic Credit Card in last 30 days"
+      },
+      {
+        "type": "context",
+        "text": "Receive 24/7 roadside assistance for any emergencies while traveling"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Roadside Assistance worth ₹1,399. Valid up to 4 times in a year on your FIRST Classic Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "Get round-the-clock roadside assistance for your car or two-wheeler emergencies across India, complimentary with your Credit Card and worth ₹1,399. Valid up to 4 times in a year.​"
+      },
+      {
+        "type": "added",
+        "text": "To avail the service, call the toll free number 1800 572 3860 and share your name, the last 4 digits of your card, and vehicle details.​"
+      },
+      {
+        "type": "context",
+        "text": "Earn bonus reward points on flight & hotel bookings"
+      },
+      {
+        "type": "context",
+        "text": "Earn Bonus Reward Points on booking flights and hotels via 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added detailed roadside assistance benefit and contact instructions for FIRST Classic Credit Card.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Please suggest me one card",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1xigecw/please_suggest_me_one_card/",
+        "description": "Both milennnia and classic are ltf Where as first power+ has 500 annual fees I want a idfc core card Not gonna use it much I use slice for my upi spends Icici cards- Coral ltf (core),Amazon pay,Sapphiro fyf,Make my trip Hdfc - moneyback plu"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-wealth",
+    "cardName": "FIRST Wealth",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
+    "status": "Active",
+    "detectedAt": "2026-11-09T11:35:40.888Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "24/7 Roadside assistance"
+      },
+      {
+        "type": "removed",
+        "text": "Receive 24/7 complimentary roadside assistance worth ₹1,399 during car or two-wheeler emergencies across India"
+      },
+      {
+        "type": "added",
+        "text": "Get round-the-clock roadside assistance for your car or two-wheeler emergencies across India, complimentary with your Credit Card and worth ₹1,399. Valid up to 4 times in a year.​"
+      },
+      {
+        "type": "added",
+        "text": "To avail the service, call the toll free number 1800 572 3860 and share your name, the last 4 digits of your card, and vehicle details.​"
+      },
+      {
+        "type": "context",
+        "text": "T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "Personalised concierge at your fingertips"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added limited roadside assistance benefit up to 4 times per year"
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-select",
+    "cardName": "FIRST Select",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/select",
+    "status": "Active",
+    "detectedAt": "2026-11-09T11:35:40.886Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "24/7 Roadside assistance"
+      },
+      {
+        "type": "removed",
+        "text": "Receive 24/7 roadside assistance during car or two-wheeler emergencies across India"
+      },
+      {
+        "type": "removed",
+        "text": "• Complimentary Roadside Assistance worth ₹1,399."
+      },
+      {
+        "type": "added",
+        "text": "Get round-the-clock roadside assistance for your car or two-wheeler emergencies across India, complimentary with your Credit Card and worth ₹1,399. Valid up to 4 times in a year.​"
+      },
+      {
+        "type": "added",
+        "text": "To avail the service, call the toll free number 1800 572 3860 and share your name, the last 4 digits of your card, and vehicle details.​"
+      },
+      {
+        "type": "context",
+        "text": "T&C apply"
+      },
+      {
+        "type": "context",
+        "text": "Over 300+ merchant offers"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Added round‑trip roadside assistance benefit worth ₹1,399 with call instructions",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Good credit card with international lounge access?",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1xfrsd6/good_credit_card_with_international_lounge_access/",
+        "description": "Looking for recommendations for a good all-round credit card that also offers international lounge access. My income is just over 14 LPA. I travel internationally maybe once or twice a year, with a few more domestic trips. I don&#39;t mind "
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "idfc-first-bank-mayura-metal-card",
+    "cardName": "Mayura Metal Card",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/mayura",
+    "status": "Active",
+    "detectedAt": "2026-11-09T11:35:40.880Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "For more details and terms and conditions click here"
+      },
+      {
+        "type": "context",
+        "text": "Roadside assistance"
+      },
+      {
+        "type": "removed",
+        "text": "Complimentary Roadside Assistance worth ₹1,399 T&C Apply"
+      },
+      {
+        "type": "added",
+        "text": "Complimentary Roadside Assistance worth ₹1,399"
+      },
+      {
+        "type": "added",
+        "text": "To avail the service, call the toll free number 1800 572 3860 and share your name, the last 4 digits of your card, and vehicle details. T&C Apply"
+      },
+      {
+        "type": "context",
+        "text": "Elevate every dining experience"
+      },
+      {
+        "type": "context",
+        "text": "As a Mayura Credit Card user, you get exclusive access and discounts across over 350 fine-dine restaurants in 16 cities, as part of the Mastercard Culinary Club programme."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added call instructions for roadside assistance service"
+    }
+  },
+  {
+    "id": "icici-bank-makemytrip-credit-card",
+    "cardName": "MakeMyTrip Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-09T11:35:07.018Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "MakeMyTrip ICICI Bank Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Elevate your travel experience with the MakeMyTrip ICICI Bank Credit Card. Enjoy the convenience of two networks- MasterCard and RuPay, to meet your every need. Earn unlimited myCash Rewards that never expire, adding value to every transaction. As a bonus, receive a ₹1,000 MakeMyTrip voucher with a validity of 1 year upon paying the joining fee. You’ll also receive a ₹1,000 voucher, valid for 3 months, after paying the annual fee. These vouchers are perfect for frequent travellers."
+      },
+      {
+        "type": "added",
+        "text": "Elevate your travel experience with the MakeMyTrip ICICI Bank Credit Card. Enjoy the convenience of two networks - MasterCard and RuPay, to meet your every need. Earn unlimited myCash Rewards, adding value to every transaction. As a bonus, receive a ₹1,000 MakeMyTrip voucher with a validity of 1 year upon paying the Joining Fee. You’ll also receive a ₹1,000 voucher, valid for 3 months, after paying the Annual Fee. These vouchers are perfect for frequent travellers."
+      },
+      {
+        "type": "context",
+        "text": "Get up to 6% myCash"
+      },
+      {
+        "type": "removed",
+        "text": "0.99% Forex markup"
+      },
+      {
+        "type": "added",
+        "text": "No Forex Mark-up"
+      },
+      {
+        "type": "context",
+        "text": "MMTBLACK membership"
+      },
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "context",
+        "text": "Up to 6% myCash on MakeMyTrip Bookings"
+      },
+      {
+        "type": "removed",
+        "text": "0.99% Forex markup"
+      },
+      {
+        "type": "added",
+        "text": "No Forex Mark-up"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited myCash Rewards that never expire"
+      },
+      {
+        "type": "context",
+        "text": "1-year MMTBLACK Gold membership"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "context",
+        "text": "Get 2 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹150 on movie tickets at INOX, twice a month"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "removed",
+        "text": "international transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Forex markup of only 0.99% on international transactions"
+      },
+      {
+        "type": "added",
+        "text": "No Forex Mark-up"
+      },
+      {
+        "type": "added",
+        "text": "No Forex Mark-up on international transactions"
+      },
+      {
+        "type": "context",
+        "text": "Joining benefit"
+      },
+      {
+        "type": "context",
+        "text": "Get a MakeMyTrip voucher (valid for 1 year) on paying the joining fee"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Joining fee- ₹999 &#43; GST"
+      },
+      {
+        "type": "context",
+        "text": "Annual fee- ₹999 &#43; GST (Spend over ₹3 lakh in one year and get your annual fee waived off for the next year)"
+      },
+      {
+        "type": "removed",
+        "text": "0.99 %"
+      },
+      {
+        "type": "added",
+        "text": "Nil"
+      },
+      {
+        "type": "context",
+        "text": "ATM Withdrawal Fee"
+      },
+      {
+        "type": "context",
+        "text": "For Late Bill Payment"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Yes. The MakeMyTrip ICICI Bank Credit Card has a joining fee and annual fee of ₹999 + GST."
+      },
+      {
+        "type": "context",
+        "text": "Are there any foreign transaction fees on the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, foreign transaction fees may apply when you use the Card for international purchases. However, the forex markup is only 0.99% + GST."
+      },
+      {
+        "type": "added",
+        "text": "No, there is no Forex Mark-up applicable on the MakeMyTrip ICICI Bank Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "How to avail Complimentary International Airport lounge access?"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy 1 complimentary accesses to international airport lounges with MakeMyTrip ICICI Bank Credit Card. Complimentary benefits are applicable only for the primary cardholder."
+      },
+      {
+        "type": "context",
+        "text": "Priority Pass Membership"
+      },
+      {
+        "type": "context",
+        "text": "Complimentary Priority Pass Membership for the primary cardholder with MakeMyTrip ICICI Bank Signature Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Access 1,400+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "added",
+        "text": "Access 1,900+ lounges in 145+ countries worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Present your Priority Pass Membership Card at the participating international lounges."
+      },
+      {
+        "type": "context",
+        "text": "For complete list of international airport lounges visit https://www.prioritypass.com/airport-lounges"
+      },
+      {
+        "type": "context",
+        "text": "What are the criteria for availing domestic airport lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your MakeMyTrip ICICI Bank Credit Card in a calendar quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "added",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your MakeMyTrip ICICI Bank Credit Card in a Spends quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "context",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "context",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your MakeMyTrip ICICI Bank Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "context",
+        "text": "Spends period offer -  eligibility period"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "removed",
+        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
+      },
+      {
+        "type": "added",
+        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
+      },
+      {
+        "type": "context",
+        "text": "Plus (Add-On) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "context",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Choose ICICI Bank Credit Card 25% Discount Offer on selected ICICI Bank Credit Cards"
+      },
+      {
+        "type": "context",
+        "text": "What are some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card are unlimited myCash Rewards that never expire, exclusive MakeMyTrip vouchers and complimentary lounge access for the primary Cardholder. You’ll also enjoy the flexibility of two payment networks - MasterCard and RuPay, making this Card a versatile and rewarding choice for frequent travellers."
+      },
+      {
+        "type": "added",
+        "text": "Some of the most attractive benefits of the MakeMyTrip ICICI Bank Credit Card are unlimited myCash Rewards, exclusive MakeMyTrip vouchers and complimentary lounge access for the primary Cardholder. You’ll also enjoy the flexibility of two payment networks - MasterCard and RuPay, making this Card a versatile and rewarding choice for frequent travellers."
+      },
+      {
+        "type": "context",
+        "text": "How can I redeem myCash earned through the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "You can redeem your myCash on the MakeMyTrip website, mobile site or app during checkout. Select 'myCash & Gift Cards' on the payments page, choose the ‘myCash’ option, enter the amount to redeem, click 'Use & Apply' and then click 'Complete Payment' to complete the transaction."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Yes, DigiLocker can be used to submit your documents when applying for the MakeMyTrip ICICI Bank Credit Card. It provides a secure and digital platform to store and share essential documents, such as proofs of identity, address and income, making the application process faster and more convenient. Simply upload the required documents to DigiLocker and share them during your application."
+      },
+      {
+        "type": "context",
+        "text": "Which transactions do not qualify for earning myCash on the MakeMyTrip ICICI Bank Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "Rent payments, cash advances, late payment costs, joining / annual fees, EMI transactions, Balance Transfers and Personal Loan transactions on the Card are not eligible for myCash Rewards."
+      },
+      {
+        "type": "added",
+        "text": "Rent payments, cash advances, late payment costs, payment of the Joining Fee, payment of the Annual Fee, EMI transactions, Balance Transfers, international transactions and Personal Loan transactions on the Card are not eligible for myCash Rewards."
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Validity: How to Check Credit Card Expiry?"
+      },
+      {
+        "type": "context",
+        "text": "mins Read |"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "I can't say enough good things about ICICI Bank's Amazon Pay Credit Card. The cashback rewards on Amazon purchase."
+      },
+      {
+        "type": "context",
+        "text": "The ICICI Bank Sapphiro Credit Card has been a great companion for rewards and lifestyle perks. I’ve enjoyed free movie tickets (BOGO) via BookMyShow, milestone reward points, and 24/7 concierge services that make planning trips a breeze and hassle free! Also the dual network feature of the card provides the benefit of Visa and Amex both."
+      },
+      {
+        "type": "removed",
+        "text": "Feedback pop 1"
+      },
+      {
+        "type": "removed",
+        "text": "One"
+      },
+      {
+        "type": "removed",
+        "text": "May be later"
+      },
+      {
+        "type": "removed",
+        "text": "CTA"
+      },
+      {
+        "type": "removed",
+        "text": "Want us to call you back?"
+      },
+      {
+        "type": "removed",
+        "text": "Give us a few details for us to help you!"
+      },
+      {
+        "type": "removed",
+        "text": "Are you an NRI?*"
+      },
+      {
+        "type": "removed",
+        "text": "First Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Last Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Country*"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "Algeria"
+      },
+      {
+        "type": "removed",
+        "text": "Andorra"
+      },
+      {
+        "type": "removed",
+        "text": "Afghanistan"
+      },
+      {
+        "type": "removed",
+        "text": "Antigua and Barbuda"
+      },
+      {
+        "type": "removed",
+        "text": "Anguilla"
+      },
+      {
+        "type": "removed",
+        "text": "Albania"
+      },
+      {
+        "type": "removed",
+        "text": "Netherlands Antilles"
+      },
+      {
+        "type": "removed",
+        "text": "Angola"
+      },
+      {
+        "type": "removed",
+        "text": "Argentina"
+      },
+      {
+        "type": "removed",
+        "text": "Aruba"
+      },
+      {
+        "type": "removed",
+        "text": "American Samoa"
+      },
+      {
+        "type": "removed",
+        "text": "Austria"
+      },
+      {
+        "type": "removed",
+        "text": "Australia"
+      },
+      {
+        "type": "removed",
+        "text": "Azerbaijan"
+      },
+      {
+        "type": "removed",
+        "text": "{{! }}"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "+"
+      },
+      {
+        "type": "removed",
+        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
+      },
+      {
+        "type": "removed",
+        "text": "Email*"
+      },
+      {
+        "type": "removed",
+        "text": "Product*"
+      },
+      {
+        "type": "removed",
+        "text": "Select a Product"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select Product"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Property Purchase Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Land Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Commercial Property Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "Email ID*"
+      },
+      {
+        "type": "removed",
+        "text": "Product Type"
+      },
+      {
+        "type": "removed",
+        "text": "Pincode*"
+      },
+      {
+        "type": "removed",
+        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
+      },
+      {
+        "type": "removed",
+        "text": "Enter OTP"
+      },
+      {
+        "type": "removed",
+        "text": "GET OTP"
+      },
+      {
+        "type": "removed",
+        "text": "RESEND OTP in 1:00"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated forex markup to none, increased lounge count, and expanded reward eligibility to include international transactions"
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-rupay-credit-card",
+    "cardName": "Fed StarBiz RuPay Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
+    "status": "Active",
+    "detectedAt": "2026-11-09T11:33:07.376Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: b959c78a-e42i-47bb-94ff-d2ef1205fc9e"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 6b093f6a-e42i-44fd-a09e-e19453ed91ff"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
+      },
+      {
+        "type": "removed",
+        "text": "172.208.101.226 on"
+      },
+      {
+        "type": "removed",
+        "text": "November 08 2026, 10:22:07 UTC"
+      },
+      {
+        "type": "added",
+        "text": "13.86.111.210 on"
+      },
+      {
+        "type": "added",
+        "text": "November 09 2026, 11:33:06 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "sbi-card-sbi-corporate-virtual-card",
     "cardName": "SBI Corporate Virtual Card",
     "issuerName": "SBI Card",
@@ -814,50 +1992,6 @@
       {
         "type": "added",
         "text": "4bb10221-e42i-4e20-b911-289b2e7e36a3"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-rupay-credit-card",
-    "cardName": "Fed StarBiz RuPay Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
-    "status": "Active",
-    "detectedAt": "2026-11-07T10:09:42.344Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: d1035eee-e42i-4ded-9508-aa75006e74c5"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 91196737-e42i-4ff3-ba0e-d8721ea2afe1"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
-      },
-      {
-        "type": "removed",
-        "text": "20.55.117.35 on"
-      },
-      {
-        "type": "removed",
-        "text": "November 06 2026, 10:53:59 UTC"
-      },
-      {
-        "type": "added",
-        "text": "4.154.166.2 on"
-      },
-      {
-        "type": "added",
-        "text": "November 07 2026, 10:09:41 UTC"
       }
     ],
     "community": {
@@ -4936,46 +6070,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-mayura-metal-card",
-    "cardName": "Mayura Metal Card",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/mayura",
-    "status": "Active",
-    "detectedAt": "2026-10-23T08:39:13.262Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "As a Mayura Credit Card user, you get exclusive access and discounts across over 350 fine-dine restaurants in 16 cities, as part of the Mastercard Culinary Club programme."
-      },
-      {
-        "type": "context",
-        "text": "For more details and to make a reservation, visit www.mastercardculinaryclub.com"
-      },
-      {
-        "type": "removed",
-        "text": "Note: This benefit is powered by Mastercard and is valid until 31st December 2025."
-      },
-      {
-        "type": "context",
-        "text": "Tee-off at spectacular golf courses"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 4 complimentary golf rounds and 12 complimentary golf lessons a year across the globe"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Removed Mastercard-powered benefit note"
-    }
-  },
-  {
     "id": "indusind-bank-indusind-bank-avios-visa-infinite-credit-card",
     "cardName": "IndusInd Bank Avios Visa Infinite Credit Card",
     "issuerName": "IndusInd Bank",
@@ -7138,46 +8232,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-first-wealth",
-    "cardName": "FIRST Wealth",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
-    "status": "Active",
-    "detectedAt": "2026-10-02T09:52:02.961Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Your browser does not support HTML video."
-      },
-      {
-        "type": "context",
-        "text": "Your browser does not support HTML video."
-      },
-      {
-        "type": "removed",
-        "text": "Low Forex"
-      },
-      {
-        "type": "context",
-        "text": "Lounge Access"
-      },
-      {
-        "type": "context",
-        "text": "Low Forex"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Removed the “Low Forex” benefit description from the card’s terms"
-    }
-  },
-  {
     "id": "axis-bank-cashback-credit-card",
     "cardName": "Cashback Credit Card",
     "issuerName": "Axis Bank",
@@ -8023,86 +9077,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated lounge access and movie ticket discount benefits with new spend thresholds and quarterly frequency."
-    }
-  },
-  {
-    "id": "icici-bank-makemytrip-credit-card",
-    "cardName": "MakeMyTrip Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-01T10:12:25.934Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Complimentary MMTBLACK Gold membership (Except myCash benefit of MMTBLACK)"
-      },
-      {
-        "type": "context",
-        "text": "Annually"
-      },
-      {
-        "type": "removed",
-        "text": "Get 1 complimentary International Airport Lounge access,  Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 1 complimentary International airport lounge access for the Primary Cardholders. For lounge list,  Click here"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 complimentary Domestic Airport Lounge Access.  Click here  for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "25% off up to ₹150"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 monthly discounts on movie tickets through INOX & BookMyShow"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 25% off up to ₹150 on movie tickets at INOX, twice a month"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
-      },
-      {
-        "type": "context",
-        "text": "international transactions"
-      },
-      {
-        "type": "context",
-        "text": "Forex markup of only 0.99% on international transactions"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated lounge and movie ticket benefits with new spend thresholds and quarterly eligibility"
     }
   },
   {
@@ -9412,52 +10386,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-first-power",
-    "cardName": "FIRST Power+",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:32:19.101Z",
-    "diffHunks": [
-      {
-        "type": "added",
-        "text": "FIRST Power+ Credit Card now comes with Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Earn Reward Points on international spends as per the credit card’s reward programme​"
-      },
-      {
-        "type": "added",
-        "text": "Earn Reward Points on international spends as per the credit card’s reward programme​"
-      },
-      {
-        "type": "added",
-        "text": "FIRST Power Credit Card now comes with Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "With Reward Points on international spends"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added Zero Forex Markup and reward points on international spends.",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Help me simplify my credit card portfolio — too many cards! 😅",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1w7udfa/help_me_simplify_my_credit_card_portfolio_too/",
-        "description": "I’ve accumulated way too many cards over the years and want to get down to 10 cards max . With the recent devaluations of HDFC Infinia and ICICI Emeralde Private Metal , especially around Amazon Pay vouchers, I’m rethinking my entire setup."
-      },
-      "via": "reddit"
-    }
-  },
-  {
     "id": "idfc-first-bank-first-ea-n",
     "cardName": "FIRST EA₹N",
     "issuerName": "IDFC First Bank",
@@ -9523,324 +10451,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added zero forex markup and 0.5% cashback on international spends."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-millennia",
-    "cardName": "FIRST Millennia",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/millennia",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:32:19.094Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "FIRST Millennia Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "#UnlockTheNewAge"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Earn 10X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "FIRST Millennia - Low Interest Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "• If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer"
-      },
-      {
-        "type": "context",
-        "text": "• If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded"
-      },
-      {
-        "type": "added",
-        "text": "FIRST Millennia Credit Card now comes with Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Earn 10X Reward Points on international spends ​"
-      },
-      {
-        "type": "context",
-        "text": "Exclusive privileges with the"
-      },
-      {
-        "type": "context",
-        "text": "FIRST Millennia Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "ON A MISSION TO BUILD THE WORLD’S MOST"
-      },
-      {
-        "type": "context",
-        "text": "CUSTOMER FRIENDLY BANK"
-      },
-      {
-        "type": "added",
-        "text": "With 10X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Your application is one scan away"
-      },
-      {
-        "type": "context",
-        "text": "Scan to continue on mobile and finish your application securely."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added Zero Forex Markup and 10X Reward Points on international spends."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-classic",
-    "cardName": "FIRST Classic",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/classic",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:32:19.092Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "FIRST Classic Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "#IndulgeMore"
-      },
-      {
-        "type": "added",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Earn 10X Reward Points on international spends​"
-      },
-      {
-        "type": "context",
-        "text": "A lifetime-free card packed with valuable benefits"
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "•If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer"
-      },
-      {
-        "type": "context",
-        "text": "•If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded"
-      },
-      {
-        "type": "added",
-        "text": "FIRST Classic Credit Card now comes with Zero Forex Markup"
-      },
-      {
-        "type": "added",
-        "text": "Earn 10X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy life’s simple pleasures with the FIRST Classic Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Comprehensive insurance"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "ON A MISSION TO BUILD THE WORLD’S MOST"
-      },
-      {
-        "type": "context",
-        "text": "CUSTOMER FRIENDLY BANK"
-      },
-      {
-        "type": "added",
-        "text": "With 10X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Your application is one scan away"
-      },
-      {
-        "type": "context",
-        "text": "Scan to continue on mobile and finish your application securely."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added Zero Forex Markup and 10X Reward Points on international spends for the card."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-select",
-    "cardName": "FIRST Select",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/select",
-    "status": "Active",
-    "detectedAt": "2026-09-24T08:32:19.087Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "FIRST Select Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "#MakeMomentsCount"
-      },
-      {
-        "type": "removed",
-        "text": "FIRST Select - Lounge Access Credit Card Online"
-      },
-      {
-        "type": "removed",
-        "text": "Apply now"
-      },
-      {
-        "type": "context",
-        "text": "Zero Forex Markup"
-      },
-      {
-        "type": "removed",
-        "text": "on international transactions"
-      },
-      {
-        "type": "added",
-        "text": "Earn 10X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Apply now"
-      },
-      {
-        "type": "added",
-        "text": "FIRST Select - Lounge Access Credit Card Online"
-      },
-      {
-        "type": "added",
-        "text": "Apply now"
-      },
-      {
-        "type": "context",
-        "text": "Earn up to 3X"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "•If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer"
-      },
-      {
-        "type": "context",
-        "text": "•If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded"
-      },
-      {
-        "type": "added",
-        "text": "FIRST Select Credit Card now comes with Zero Forex Markup​"
-      },
-      {
-        "type": "added",
-        "text": "Earn 10X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Maximise your lifestyle with the"
-      },
-      {
-        "type": "context",
-        "text": "FIRST Select Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "ON A MISSION TO BUILD THE WORLD’S MOST"
-      },
-      {
-        "type": "context",
-        "text": "CUSTOMER FRIENDLY BANK"
-      },
-      {
-        "type": "added",
-        "text": "With 10X Reward Points on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Your application is one scan away"
-      },
-      {
-        "type": "context",
-        "text": "Scan to continue on mobile and finish your application securely."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added 10X reward points on international spends and zero forex markup for the card.",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Idfc first select credit card nerfed",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1vxs85g/idfc_first_select_credit_card_nerfed/",
-        "description": "It used to offer 10x reward points on purchases more than 20k. I used to make gold scheme payments from it (almost 70k per month) and got handsome reward points. Now they have limited 10x for dining and international spends thereby limiting"
-      },
-      "via": "reddit"
     }
   },
   {
@@ -10281,46 +10891,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated reward redemption to earn 5X Membership Rewards points on vouchers via Shopwise."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-digital-virtual-upi",
-    "cardName": "FIRST Digital (Virtual UPI)",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/rupay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-22T08:38:35.600Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "• 1X Reward on all UPI purchases less than or equal to ₹2,000​​"
-      },
-      {
-        "type": "context",
-        "text": "• 1X Reward on Insurance, Utility, FASTag recharge & Railway spends.​"
-      },
-      {
-        "type": "removed",
-        "text": "​*3X reward on Utility spends via IDFC FIRST Bank Mobile app on FIRST Private Credit Card​"
-      },
-      {
-        "type": "context",
-        "text": "1X = 1 reward point per X* spend | where X is ₹200 for FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST Family, FIRST WOW! & Business Multiplier Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "For FIRST Private, Ashva , Mayura , Diamond Reserve, FIRST WOW! Black  & FIRST Business Credit Card X is ₹150"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "3X reward on Utility spends via IDFC FIRST Bank Mobile app on FIRST Private Credit Card removed."
     }
   },
   {

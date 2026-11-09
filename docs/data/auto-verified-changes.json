@@ -238,5 +238,41 @@
     "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1wiur82/kotak_league_platinum_application_kotak_not/",
     "source": "auto-detected",
     "detected_at": "2026-11-07T10:13:21.837Z"
+  },
+  {
+    "card_slug": "first-power",
+    "card_name": "FIRST Power+",
+    "issuer": "idfc-first",
+    "change_type": "fee-change",
+    "summary": "Added zero forex markup on international spends for the card",
+    "status": "verified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1x5oh6c/which_card_to_choose/",
+    "source": "auto-detected",
+    "detected_at": "2026-11-09T11:35:40.895Z"
+  },
+  {
+    "card_slug": "first-classic",
+    "card_name": "FIRST Classic",
+    "issuer": "idfc-first",
+    "change_type": "benefit-change",
+    "summary": "Added detailed roadside assistance benefit and contact instructions for FIRST Classic Credit Card.",
+    "status": "verified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/classic",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1xigecw/please_suggest_me_one_card/",
+    "source": "auto-detected",
+    "detected_at": "2026-11-09T11:35:40.890Z"
+  },
+  {
+    "card_slug": "first-select",
+    "card_name": "FIRST Select",
+    "issuer": "idfc-first",
+    "change_type": "benefit-change",
+    "summary": "Added round‑trip roadside assistance benefit worth ₹1,399 with call instructions",
+    "status": "verified",
+    "official_link": "https://www.idfcfirst.bank.in/credit-card/select",
+    "verification_link": "https://www.reddit.com/r/CreditCardsIndia/comments/1xfrsd6/good_credit_card_with_international_lounge_access/",
+    "source": "auto-detected",
+    "detected_at": "2026-11-09T11:35:40.886Z"
   }
 ]

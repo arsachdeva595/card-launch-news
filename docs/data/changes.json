@@ -1,5 +1,395 @@
 [
   {
+    "id": "axis-bank-travel-credit-card",
+    "cardName": "Travel Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-10T11:10:20.850Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "UPI card"
+      },
+      {
+        "type": "context",
+        "text": "IndiGo Axis Bank Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Activation voucher worth 1200 IndiGo BluChips on ₹1,500 spends within 30 days."
+      },
+      {
+        "type": "removed",
+        "text": "Milestone Vouchers worth 1200 IndiGo BluChips on cumulative eligible spends of ₹1.5L & 3L in a card anniversary year"
+      },
+      {
+        "type": "removed",
+        "text": "Accelerated rewards up to 3 IndiGo BluChips per ₹100 spent instead of 2"
+      },
+      {
+        "type": "added",
+        "text": "Welcome & Renewal benefit vouchers worth 1200 IndiGo BluChips on fee payment"
+      },
+      {
+        "type": "added",
+        "text": "Milestone Vouchers worth 1200 IndiGo BluChips on cumulative eligible spends of ₹1.5 lacs & ₹3 lacs in a card anniversary year"
+      },
+      {
+        "type": "added",
+        "text": "Accelerated rewards up to 3 IndiGo BluChips on every ₹100 spent on IndiGo channels, Grocery & Dining"
+      },
+      {
+        "type": "context",
+        "text": "Joining Fee: ₹799"
+      },
+      {
+        "type": "context",
+        "text": "Annual Fee: ₹799"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summary": "Updated welcome benefit and accelerated rewards rate for IndiGo channels, Grocery & Dining.",
+    "summaryVerification": {
+      "status": "verified",
+      "source": {
+        "title": "Air India and SBI Card to Launch a New Co-Branded Credit Card Soon",
+        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1xhqrtz/air_india_and_sbi_card_to_launch_a_new_cobranded/",
+        "description": "Air India, SBI Card, and Visa have officially announced a partnership to launch a new Visa-powered co-branded credit card focused on travel and lifestyle benefits for Maharaja Club members. According to Air India’s press release dated 28 Oc"
+      },
+      "via": "reddit"
+    }
+  },
+  {
+    "id": "axis-bank-samsung-axis-bank-signature-credit-card",
+    "cardName": "Samsung Axis Bank Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-10T11:10:20.839Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy 4 complimentary lounge visits per calendar year at select domestic airports with your Samsung Axis Bank Signature credit card."
+      },
+      {
+        "type": "context",
+        "text": "Fuel surcharge Waiver"
+      },
+      {
+        "type": "removed",
+        "text": "1% fuel surcharge waiver up to ₹500 per statement on transactions between ₹400-5000"
+      },
+      {
+        "type": "added",
+        "text": "1% fuel surcharge waiver up to ₹500 per statement on transactions between ₹400-4000"
+      },
+      {
+        "type": "context",
+        "text": "Convert Purchases to EMI"
+      },
+      {
+        "type": "context",
+        "text": "No matter how big your credit card purchase, go right ahead. Just contact us and convert your transaction of ₹2500 or more into easy EMIs."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Fuel surcharge waiver threshold reduced to ₹4000 per statement."
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-magnus-credit-card",
+    "cardName": "AXIS BANK MAGNUS Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-magnus-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-10T11:10:20.828Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Luxe gift card or The Postcard Hotels gift voucher or Yatra gift voucher"
+      },
+      {
+        "type": "context",
+        "text": "COMPLIMENTARY INTERNATIONAL LOUNGE ACCESS"
+      },
+      {
+        "type": "removed",
+        "text": "Avail unlimited complimentary international lounge visits and 4 additional guest visits per year with the priority pass card"
+      },
+      {
+        "type": "added",
+        "text": "Avail unlimited complimentary international lounge visits and 4 additional guest visits per card anniversary year with the priority pass card"
+      },
+      {
+        "type": "context",
+        "text": "(Guest visits have been revised to 4 per year w.e.f 20 th April'24)."
+      },
+      {
+        "type": "context",
+        "text": "DOMESTIC LOUNGE ACCESS"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy unlimited visits to select airport lounges in India."
+      },
+      {
+        "type": "context",
+        "text": "Exclusive offer at The Leela Palace Hotels & Resorts"
+      },
+      {
+        "type": "removed",
+        "text": "15% savings on bed and breakfast rates at The Leela Palace Hotels & Resorts. Valid till 30th September, 2026"
+      },
+      {
+        "type": "added",
+        "text": "15% savings on bed and breakfast rates at The Leela Palace Hotels & Resorts. (Offer discontinued w.e.f. 1st October, 2026)"
+      },
+      {
+        "type": "context",
+        "text": "*Customers holding new Magnus Credit Card for Burgundy can choose any one voucher worth ₹5,000 from below options:"
+      },
+      {
+        "type": "context",
+        "text": "Luxe gift card, PostCard Hotels gift voucher or Yatra gift voucher. (Not applicable for customers upgraded from Magnus to Magnus Credit Card for Burgundy)."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "CONNOISSEUR IN YOU"
+      },
+      {
+        "type": "context",
+        "text": "Lifestyle & Entertainment"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy exclusive discounts at over 4,000 restaurants across India."
+      },
+      {
+        "type": "added",
+        "text": "Enjoy exclusive discounts at over 4,000 restaurants across India, using Magnus Credit Card for Burgundy."
+      },
+      {
+        "type": "context",
+        "text": "DESIGNED TO ELEVATE"
+      },
+      {
+        "type": "context",
+        "text": "YOUR MIND, BODY & SOUL"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated lounge visit terms, discontinued Leela Palace offer, and changed restaurant discount wording for the AXIS BANK MAGNUS Credit Card."
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-reservesm-credit-card",
+    "cardName": "American Express® Platinum ReserveSM Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-reserve-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-10T11:09:22.533Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "The Annual Membership Renewal fee of Rs.10,000 will be 100% waived off if total spends on American Express Platinum Reserve Credit Card in the immediately preceding membership year is Rs.10,00,000 8 and above"
+      },
+      {
+        "type": "context",
+        "text": "MOVIE OR ONLINE SHOPPING VOUCHERS"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy movie or online shopping vouchers 6 worth Rs.12,000 8 per year on spending Rs. 50,000 every month, click here to enroll"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy movie or online shopping vouchers 6 worth Rs.12,000 8 per year on spending Rs. 50,000 every month, click here to enroll 9"
+      },
+      {
+        "type": "context",
+        "text": "Lifestyle Access"
+      },
+      {
+        "type": "context",
+        "text": "Add luxury to your lifestyle with complimentary ALL Accor+ Explorer, Taj Epicure and EazyDiner Prime membership"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "7. Effective September 1, 2023, access to domestic “The Centurion ® American Express Lounges” in Delhi and Mumbai on your American Express Platinum Reserve Credit Card is being discontinued."
+      },
+      {
+        "type": "context",
+        "text": "8. Eligible spends do not include cash advances, express cash transaction, draft made from the account, balance transfer, fees and is net of any returns."
+      },
+      {
+        "type": "added",
+        "text": "9. Enrolment in the monthly milestone benefit will be temporarily unavailable from 11 to 18 November 2026."
+      },
+      {
+        "type": "context",
+        "text": "American Express® Platinum Travel Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Gift of 10,000 * Membership Rewards points"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-american-express-membership-rewards-credit-card",
+    "cardName": "American Express Membership Rewards® Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/membership-rewards-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressMembershipRewards",
+    "status": "Active",
+    "detectedAt": "2026-11-10T11:09:22.532Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Monthly Spend Milestone"
+      },
+      {
+        "type": "context",
+        "text": "Earn an additional 1,000 Membership Rewards points simply by spending INR 20,000 or more in a calendar month. This is an enrollment based benefit. Click here to enroll"
+      },
+      {
+        "type": "added",
+        "text": "Enrolment in the monthly milestone benefit will be temporarily unavailable from 11 to 18 November 2026."
+      },
+      {
+        "type": "context",
+        "text": "ADDITIONAL REWARDS ON CARD RENEWAL"
+      },
+      {
+        "type": "removed",
+        "text": "Earn 5,000 Membership Rewards Points upon First Year Card Renewal, on payment of annual membership fee. Points to be credited within 90 days of Card renewal"
+      },
+      {
+        "type": "added",
+        "text": "Earn 5,000 Membership Rewards Points upon First Year Card Renewal 5 , on payment of annual membership fee. Points to be credited within 90 days of Card renewal"
+      },
+      {
+        "type": "context",
+        "text": "AMERICAN EXPRESS EMI"
+      },
+      {
+        "type": "context",
+        "text": "Split the payment and not the joy. Use your American Express Credit Card for your next big purchase & pay in EMI"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Dispute Resolution"
+      },
+      {
+        "type": "context",
+        "text": "Zero lost Card liability"
+      },
+      {
+        "type": "added",
+        "text": "Card Replacement"
+      },
+      {
+        "type": "context",
+        "text": "Your American Express Card may be enabled for contactless payments. To see if your Card is contactless, look for the contactless symbol network on the front and back of your Card."
+      },
+      {
+        "type": "context",
+        "text": "I/We confirm that I / supplementary card applicant/s is a Resident Indian as defined under the Income Tax Act of India and hereby declare that I/We will notify American Express Banking Corp. if there is a change in the residential status."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Gift 1 of 4,000 Bonus Membership Rewards® Points"
+      },
+      {
+        "type": "context",
+        "text": "1. Welcome Gift of 4,000 Membership Rewards Points will be applicable on payment of joining fee and on spending INR 15,000 within first 90 days of Cardmembership."
+      },
+      {
+        "type": "removed",
+        "text": "2.You will not earn Membership Rewards Points on your American Express Card for all your spending on fuel, insurance and utility (electricity, water and gas bills) payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs). Utility services includes providers of household/domestic electricity, gas and water. These providers can be government departments and agencies including local, state, municipal organizations, public housing societies and apartment associations."
+      },
+      {
+        "type": "added",
+        "text": "2. You will not earn Membership Rewards Points on your American Express Card for all your spending on fuel, insurance and utility (electricity, water and gas bills) payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs). Utility services includes providers of household/domestic electricity, gas and water. These providers can be government departments and agencies including local, state, municipal organizations, public housing societies and apartment associations."
+      },
+      {
+        "type": "context",
+        "text": "Effective March 15, 2020, you will not earn Membership Rewards Points on any EMI option selected from a merchant’s website e.g. online shopping with Amazon or Flipkart etc. and on any EMI option selected at Merchant’s terminal e.g. a Chip and PIN transaction at Croma retail store etc. At the same time, you will continue to earn Membership Rewards Points on all EMI transactions through American Express® SafeKey and on all EMI conversions done post purchase."
+      },
+      {
+        "type": "context",
+        "text": "3. 0% Convenience fee on fuel purchase at HPCL for transactions less than Rs. 5,000 and 1% Convenience fee on fuel purchases per transaction is applicable for all transactions of Rs. 5,000 and above"
+      },
+      {
+        "type": "context",
+        "text": "4. For latest options available under Gold collection please check here ."
+      },
+      {
+        "type": "added",
+        "text": "5. If a Card Member receives a 100% annual membership fee waiver, then Card Member will not be eligible for the 5,000 Membership Rewards® Points first-year renewal benefit, as that renewal benefit is applicable upon payment of the annual membership fee."
+      },
+      {
+        "type": "context",
+        "text": "Welcome Gift 1  of 4,000 Bonus Membership Rewards ®  Points"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1,000 bonus points on 6 transactions of ₹1,000 or more every calendar month"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added clause that a 100% annual fee waiver disqualifies the first‑year renewal points benefit."
+    }
+  },
+  {
     "id": "idfc-first-bank-first-power",
     "cardName": "FIRST Power+",
     "issuerName": "IDFC First Bank",
@@ -2156,66 +2546,6 @@
     }
   },
   {
-    "id": "axis-bank-samsung-axis-bank-signature-credit-card",
-    "cardName": "Samsung Axis Bank Signature Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-07T10:07:18.611Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Total 236400 16388"
-      },
-      {
-        "type": "context",
-        "text": "*Please note that above figures are indicative"
-      },
-      {
-        "type": "removed",
-        "text": "A diverse"
-      },
-      {
-        "type": "removed",
-        "text": "range of services, including rewards, travel perks, fraud protection & more that add value to your"
-      },
-      {
-        "type": "removed",
-        "text": "transactions."
-      },
-      {
-        "type": "removed",
-        "text": "Instant loan on credit"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card against"
-      },
-      {
-        "type": "removed",
-        "text": "Add-On Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "FAQ on Clear existing status in CIC"
-      },
-      {
-        "type": "context",
-        "text": "A credit card which is"
-      },
-      {
-        "type": "context",
-        "text": "easy on your pocket"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "axis-bank-airtel-axis-bank-credit-card",
     "cardName": "Airtel Axis Bank Credit Card",
     "issuerName": "Axis Bank",
@@ -3281,152 +3611,6 @@
         "title": "Why do different Indusind Credit cards have different quaterly spend requirements for lounge access?",
         "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1w77k4f/why_do_different_indusind_credit_cards_have/",
         "description": "I was looking at Indusind Credit cards, and despite some cards like Indulge being their premium offering, it has a quaterly spend requirement of 5 Lc (per quater) for lounge access, and while other indusind cards like Pinnacle or Celesta ha"
-      },
-      "via": "reddit"
-    }
-  },
-  {
-    "id": "axis-bank-travel-credit-card",
-    "cardName": "Travel Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/travel-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-03T10:51:26.653Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Activation voucher worth 1200 IndiGo BluChips on ₹1,500 spends within 30 days."
-      },
-      {
-        "type": "context",
-        "text": "Milestone Vouchers worth 1200 IndiGo BluChips on cumulative eligible spends of ₹1.5L & 3L in a card anniversary year"
-      },
-      {
-        "type": "removed",
-        "text": "Accelerated rewards up to 2 IndiGo BluChips per ₹100 on IndiGo channels, Grocery & Dining spends"
-      },
-      {
-        "type": "added",
-        "text": "Accelerated rewards up to 3 IndiGo BluChips per ₹100 spent instead of 2"
-      },
-      {
-        "type": "context",
-        "text": "Joining Fee: ₹799"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee: ₹799"
-      },
-      {
-        "type": "removed",
-        "text": "(This card is currently Lifetime Free)"
-      },
-      {
-        "type": "context",
-        "text": "Food & Dining"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank Select Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get additional 10,000 EDGE REWARD Points on spends of ₹2.5 lakhs"
-      },
-      {
-        "type": "context",
-        "text": "Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee: ₹1500"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Fee: ₹1500"
-      },
-      {
-        "type": "added",
-        "text": "Lifetime free offer valid till 31st December 2026"
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee: ₹0"
-      },
-      {
-        "type": "added",
-        "text": "Annual Fee: ₹0"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "A Travel Credit Card focuses on rewarding travel spending while offering convenience, safety, and global usability. These features are especially valuable for frequent flyers and international travellers."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "added",
-        "text": "Lifetime free offer valid till 31st December 2026"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "UPI card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
-      },
-      {
-        "type": "context",
-        "text": "10%* off on Blinkit and BookMyShow"
-      },
-      {
-        "type": "added",
-        "text": "Lifetime free offer valid till 31st December 2026"
-      },
-      {
-        "type": "context",
-        "text": "Your Axis Credit Card awaits you!"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Rewards increased to 3 IndiGo BluChips per ₹100 spent; joining and annual fees dropped to ₹0, lifetime free offer extended to 31 Dec 2026.",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Best credit card for domestic flight bookings in India?",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x9upfz/best_credit_card_for_domestic_flight_bookings_in/",
-        "description": "I’m expecting to book at least 25 flight tickets (mostly Indigo since other airlines are not available from my work city to hometown) over the next 12 months for myself and my family, mostly on domestic routes. I’m thinking this might be a "
       },
       "via": "reddit"
     }
@@ -17843,50 +18027,6 @@
     }
   },
   {
-    "id": "amex-american-express-platinum-reservesm-credit-card",
-    "cardName": "American Express® Platinum ReserveSM Credit Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-reserve-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-08-28T15:22:31.620Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "I/We confirm that I / supplementary card applicant/s is a Resident Indian as defined under the Income Tax Act of India and hereby declare that I/We will notify American Express Banking Corp. if there is a change in the residential status"
-      },
-      {
-        "type": "context",
-        "text": "I understand American Express Cards are currently issued to residents of Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Kolkata, Indore, Coimbatore, Chandigarh/Tricity, Ahmedabad, Surat, Vadodra, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum and Mysuru subject to conditions."
-      },
-      {
-        "type": "added",
-        "text": "American Express® Platinum Reserve℠ Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Get a Welcome Gift 1 of 11,000 Bonus Membership Rewards Points"
-      },
-      {
-        "type": "context",
-        "text": "1. Welcome Gift is available only in the 1 st year on payment of the annual fee and on spending INR 30,000 within 90 days of Cardmembership."
-      },
-      {
-        "type": "context",
-        "text": "2. You will not earn Membership Rewards Points on your American Express Card for all your spending on fuel, insurance and utility (electricity, water and gas bills) payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs). Utility services includes providers of household/domestic electricity, gas and water. These providers can be government departments and agencies including local, state, municipal organizations, public housing societies and apartment associations."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a welcome gift of 11,000 Bonus Membership Rewards Points"
-    }
-  },
-  {
     "id": "axis-bank-lic-axis-bank-platinum-credit-card",
     "cardName": "LIC Axis Bank Platinum Credit Card",
     "issuerName": "Axis Bank",
@@ -18995,50 +19135,6 @@
     }
   },
   {
-    "id": "amex-american-express-membership-rewards-credit-card",
-    "cardName": "American Express Membership Rewards® Credit Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/membership-rewards-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressMembershipRewards",
-    "status": "Active",
-    "detectedAt": "2026-08-27T14:11:19.903Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "I have a current/permanent residential address in India"
-      },
-      {
-        "type": "context",
-        "text": "If self-employed: My company has been trading for more than 12 months"
-      },
-      {
-        "type": "added",
-        "text": "American Express Membership Rewards® Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Welcome Gift 1 of 4,000 Bonus Membership Rewards® Points"
-      },
-      {
-        "type": "context",
-        "text": "1. Welcome Gift of 4,000 Membership Rewards Points will be applicable on payment of joining fee and on spending INR 15,000 within first 90 days of Cardmembership."
-      },
-      {
-        "type": "context",
-        "text": "2.You will not earn Membership Rewards Points on your American Express Card for all your spending on fuel, insurance and utility (electricity, water and gas bills) payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs). Utility services includes providers of household/domestic electricity, gas and water. These providers can be government departments and agencies including local, state, municipal organizations, public housing societies and apartment associations."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a welcome gift of 1 of 4,000 Bonus Membership Rewards® Points"
-    }
-  },
-  {
     "id": "amex-american-express-smartearn-credit-card",
     "cardName": "American Express SmartEarn™ Credit Card",
     "issuerName": "American Express (India)",
@@ -20049,50 +20145,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Card now marked as discontinued."
-    }
-  },
-  {
-    "id": "indusind-bank-poonawalla-fincorp-indusind-bank-elite-rupay-credit-card",
-    "cardName": "Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/poonawalla-platinum-rupay-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-20T04:06:12.113Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "APPLY NOW"
-      },
-      {
-        "type": "removed",
-        "text": "Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Poonawalla Fincorp IndusInd Bank eLITE RuPay Credit Card (Discontinued)"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card enabled on UPI"
-      },
-      {
-        "type": "context",
-        "text": "2.5 Reward Points on Ecommerce transactions"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Card is now marked as discontinued."
     }
   }
 ]

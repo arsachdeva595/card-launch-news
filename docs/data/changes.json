@@ -1,5 +1,509 @@
 [
   {
+    "id": "indusind-bank-indusind-bank-tiger-credit-card",
+    "cardName": "IndusInd Bank Tiger Credit Card",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/tiger-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:08:47.255Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "1.50% Discounted Forex Mark-up Fee"
+      },
+      {
+        "type": "context",
+        "text": "Golf - 1 Complimentary Game or Lesson per Quarter"
+      },
+      {
+        "type": "removed",
+        "text": "2 Complimentary Domestic Lounge Access in a quarter and 2 International Lounge Access in a year via Priority Pass"
+      },
+      {
+        "type": "added",
+        "text": "2 Complimentary Domestic Lounge Access in a quarter via Credit Card and 2 International Lounge Access in a year via Priority Pass"
+      },
+      {
+        "type": "context",
+        "text": "One complimentary movie ticket upto ₹500 on BookMyShow every 6 months in a financial year"
+      },
+      {
+        "type": "context",
+        "text": "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 5000 per calendar month"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added “via Credit Card” to the domestic lounge benefit description"
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-rupay-platinum-credit-card",
+    "cardName": "HSBC RuPay Platinum Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/rupay-platinum-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:06:29.446Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Enjoy discounts and ofers around the world with the JCB network"
+      },
+      {
+        "type": "context",
+        "text": "Access global discounts, offers and experiences with your JCB network-enabled RuPay credit card. View JCB network offers ."
+      },
+      {
+        "type": "added",
+        "text": "Save on international spends"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 5% cashback, up to INR15,000 per calendar month, 0% forex mark-up and 0% dynamic currency conversion charges on HSBC RuPay Credit Card international point-of-sale transactions until 31 January 2027."
+      },
+      {
+        "type": "added",
+        "text": "India residents only. T&Cs apply ."
+      },
+      {
+        "type": "context",
+        "text": "To apply, you must:"
+      },
+      {
+        "type": "context",
+        "text": "Most Important Terms & Conditions (PDF)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-rupay-cashback-credit-card",
+    "cardName": "HSBC RuPay Cashback Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/rupay-cashback-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:06:29.446Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Choose our RuPay Cashback Credit Card to enjoy"
+      },
+      {
+        "type": "context",
+        "text": "0% forex mark-up"
+      },
+      {
+        "type": "removed",
+        "text": "Save when you spend abroad, with 0% FX mark-up on your transactions until 31 December 2026. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "added",
+        "text": "Save when you spend abroad, with 0% FX mark-up on your transactions until 31 January 2027. T&Cs apply (PDF) ."
+      },
+      {
+        "type": "context",
+        "text": "UPI integration"
+      },
+      {
+        "type": "context",
+        "text": "Link your credit card to UPI apps and enjoy easy direct payments with your card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy discounts and ofers around the world with the JCB network"
+      },
+      {
+        "type": "context",
+        "text": "Access global discounts, offers and experiences with your JCB network-enabled RuPay credit card. View JCB network offers ."
+      },
+      {
+        "type": "added",
+        "text": "Save on international spends"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 5% cashback, up to INR15,000 per calendar month, 0% forex mark-up and 0% dynamic currency conversion charges on HSBC RuPay Credit Card international point-of-sale transactions until 31 January 2027."
+      },
+      {
+        "type": "added",
+        "text": "India residents only. T&Cs apply ."
+      },
+      {
+        "type": "context",
+        "text": "To apply, you must:"
+      },
+      {
+        "type": "context",
+        "text": "Most Important Terms & Conditions (PDF)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added 5% cashback up to INR15,000/month with 0% FX mark-up until 31 January 2027."
+    }
+  },
+  {
+    "id": "hsbc-india-hsbc-taj-credit-card",
+    "cardName": "HSBC Taj Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:06:29.445Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "To apply for an HSBC Taj Credit Card, complete a callback form and our team will be in touch soon."
+      },
+      {
+        "type": "context",
+        "text": "Get started This link will open in a new window"
+      },
+      {
+        "type": "added",
+        "text": "Track application This link will open in a new window"
+      },
+      {
+        "type": "context",
+        "text": "HSBC Taj Credit Card rewards"
+      },
+      {
+        "type": "context",
+        "text": "Earn reward points with your card and use them to unlock rare experiences at Taj and other participating hotels."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hsbc-india-premier-credit-card",
+    "cardName": "Premier Credit Card",
+    "issuerName": "HSBC India",
+    "issuerSlug": "hsbc-india",
+    "officialUrl": "https://www.hsbc.co.in/",
+    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/premier/",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:06:29.444Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get a callback"
+      },
+      {
+        "type": "context",
+        "text": "Get a callback This link will open in a new window"
+      },
+      {
+        "type": "removed",
+        "text": "Already a Premier banking customer?"
+      },
+      {
+        "type": "removed",
+        "text": "You'll need to visit a branch to apply for this credit card."
+      },
+      {
+        "type": "removed",
+        "text": "Find a branch"
+      },
+      {
+        "type": "context",
+        "text": "Other ways to apply"
+      },
+      {
+        "type": "context",
+        "text": "You can also call us on 1800 120 4722 from within India, or +91-80-71898001 from overseas."
+      },
+      {
+        "type": "added",
+        "text": "If you're already an Premier banking customer, you'll need to visit a branch to apply for this credit card."
+      },
+      {
+        "type": "added",
+        "text": "Find a branch"
+      },
+      {
+        "type": "context",
+        "text": "HSBC Live+ Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Dine, shop, travel and live it up with extra cashback."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated application requirement wording for existing Premier banking customers."
+    }
+  },
+  {
+    "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
+    "cardName": "Tata Neu Plus HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/tata-neu-plus-hdfc-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:06:10.332Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Tata Card - Apply for Tata Neu Plus Credit Card Online | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Popular 8"
+      },
+      {
+        "type": "added",
+        "text": "Kids 2"
+      },
+      {
+        "type": "added",
+        "text": "Others 13"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "context",
+        "text": "Tata Neu Plus Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Tata Neu Plus Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Click here  to view details of the Fees and Charges on Tata Neu Plus HDFC Bank Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "Click Here   for Card Member Agreement"
+      },
+      {
+        "type": "removed",
+        "text": "Limited period Life Time Free Offer (applicable only for the applications applied via Bank’s digital platform & physical applications between 1st Oct’24 to 31st Dec’24)"
+      },
+      {
+        "type": "removed",
+        "text": "Life Time Free offer on Tata Neu HDFC Bank Credit Cards is valid for cards applied from 1st Oct’24 to 31st Dec’24 via Bank’s digital platform & physical applications during the offer period."
+      },
+      {
+        "type": "added",
+        "text": "Limited period Lifetime Free Offer for Tata Neu Plus HDFC Bank Credit Card - only applicable for the applications received via Bank’s digital platform without any Bank Staff Assistance from 10th Nov’26 to 31st Jan’27 ."
+      },
+      {
+        "type": "context",
+        "text": "LTF conversion will be done for all eligible customers within 90 days from card open date."
+      },
+      {
+        "type": "context",
+        "text": "This offer is NOT applicable for existing customers."
+      },
+      {
+        "type": "removed",
+        "text": "Life Time Free/First Year Free cardholders are not eligible for Welcome Benefit."
+      },
+      {
+        "type": "added",
+        "text": "Lifetime Free/First Year Free cardholders are not eligible for Welcome Benefit."
+      },
+      {
+        "type": "context",
+        "text": "HDFC Bank reserves the right, at any time, without prior notice and without assigning any reason whatsoever, to add/alter/modify/change or vary all of these terms and conditions or to replace, wholly or in part, this offer by another offer, whether similar to this offer or not, or to extend or withdraw it altogether."
+      },
+      {
+        "type": "context",
+        "text": "Smart EMI"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "₹499 welcome NeuCoins"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-celesta-credit-card",
+    "cardName": "Mastercard Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:05:21.802Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "d3adcfa3-e42i-4af1-b890-9bc38c14fb49"
+      },
+      {
+        "type": "added",
+        "text": "2de1f21f-e42i-44af-9879-16fef76223f8"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-signet-credit-card",
+    "cardName": "Mastercard Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:05:21.802Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 1b7e0f3b-e42i-4a2c-8f82-66381ca8196d"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 4ffd94be-e42i-46c9-accc-ca1ac86e054b"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "172.212.164.31 on"
+      },
+      {
+        "type": "removed",
+        "text": "November 11 2026, 10:59:16 UTC"
+      },
+      {
+        "type": "added",
+        "text": "68.220.59.180 on"
+      },
+      {
+        "type": "added",
+        "text": "November 12 2026, 11:05:18 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-signet-credit-card",
+    "cardName": "Rupay Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:05:21.802Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "35b9bedf-e42i-4b88-9a8f-b5e30dd8dde0"
+      },
+      {
+        "type": "added",
+        "text": "31031691-e42i-41b2-9224-da97edc3ece8"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-wave-credit-card",
+    "cardName": "Rupay Wave Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-12T11:05:21.802Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "dfa51856-e42i-4bb4-893a-30ae02bcef4e"
+      },
+      {
+        "type": "added",
+        "text": "5921aed1-e42i-44b9-a617-f7e6d68d82ea"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "axis-bank-travel-credit-card",
     "cardName": "Travel Credit Card",
     "issuerName": "Axis Bank",
@@ -2274,30 +2778,6 @@
     }
   },
   {
-    "id": "federal-bank-mastercard-celesta-credit-card",
-    "cardName": "Mastercard Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-07T10:09:42.344Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "8f5de904-e42i-4186-b329-005935374f7e"
-      },
-      {
-        "type": "added",
-        "text": "8401e268-e42i-44a0-94d9-a6d7f030c677"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "federal-bank-visa-signet-credit-card",
     "cardName": "Visa Signet Credit Card",
     "issuerName": "Federal Bank",
@@ -2314,74 +2794,6 @@
       {
         "type": "added",
         "text": "b362a6b9-e42i-4aec-b67f-ce39ff6725c2"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-signet-credit-card",
-    "cardName": "Mastercard Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-07T10:09:42.344Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 16e3bd99-e42i-484f-85bf-ea08802e96ff"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 8adc93c5-e42i-4db0-9c21-a49a5d2872c3"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "20.55.117.35 on"
-      },
-      {
-        "type": "removed",
-        "text": "November 06 2026, 10:53:56 UTC"
-      },
-      {
-        "type": "added",
-        "text": "4.154.166.2 on"
-      },
-      {
-        "type": "added",
-        "text": "November 07 2026, 10:09:38 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-signet-credit-card",
-    "cardName": "Rupay Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-07T10:09:42.344Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "c0c9bd94-e42i-4d2d-af3a-0e3d24d8dbbb"
-      },
-      {
-        "type": "added",
-        "text": "4bb10221-e42i-4e20-b911-289b2e7e36a3"
       }
     ],
     "community": {
@@ -2670,42 +3082,6 @@
       {
         "type": "added",
         "text": "November 05 2026, 10:53:49 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-wave-credit-card",
-    "cardName": "Rupay Wave Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-05T10:53:53.081Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: c09b2575-e42i-40a5-8094-7d2c1e1538ff"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: d82953ab-e42i-4ad2-9023-ac1229eb02c5"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 04 2026, 11:01:13 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 05 2026, 10:53:51 UTC"
       }
     ],
     "community": {
@@ -5062,58 +5438,6 @@
     }
   },
   {
-    "id": "hsbc-india-hsbc-taj-credit-card",
-    "cardName": "HSBC Taj Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/taj/",
-    "status": "Active",
-    "detectedAt": "2026-10-29T10:03:06.595Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "The HSBC Taj Credit Card has a joining fee of INR1,10,000, which is paid after you activate your card."
-      },
-      {
-        "type": "context",
-        "text": "There is also an annual fee INR1,10,000, which is paid annually once you've had the card for 12 months."
-      },
-      {
-        "type": "removed",
-        "text": "Get INR1,000 cashback"
-      },
-      {
-        "type": "removed",
-        "text": "Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator."
-      },
-      {
-        "type": "removed",
-        "text": "T&Cs apply (PDF)"
-      },
-      {
-        "type": "removed",
-        "text": "Offer valid until 30 September 2026."
-      },
-      {
-        "type": "context",
-        "text": "Ready to apply for your HSBC Taj Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To apply for an HSBC Taj Credit Card, complete a callback form and our team will be in touch soon."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Removed INR1,000 cashback offer for spending INR1,000 within 30 days of card issuance."
-    }
-  },
-  {
     "id": "icici-bank-emirates-emeralde-credit-card",
     "cardName": "Emirates Emeralde Credit Card",
     "issuerName": "ICICI Bank",
@@ -5911,306 +6235,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added Complimentary Priority Pass Membership for the primary cardholder of the ICICI Bank Sapphiro Credit Card."
-    }
-  },
-  {
-    "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
-    "cardName": "Tata Neu Plus HDFC Bank Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/tata-neu-plus-hdfc-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-24T08:11:01.866Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Zero Cost Card Liability"
-      },
-      {
-        "type": "context",
-        "text": "Revolving Credit"
-      },
-      {
-        "type": "removed",
-        "text": "NeuCoins Redemption"
-      },
-      {
-        "type": "removed",
-        "text": "NeuCoins Validity"
-      },
-      {
-        "type": "added",
-        "text": "NeuCoins Validity and Redemption"
-      },
-      {
-        "type": "context",
-        "text": "Application Channels"
-      },
-      {
-        "type": "context",
-        "text": "Joining/Renewal Membership Fee – ₹499/- + Applicable Taxes"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Revolving Credit"
-      },
-      {
-        "type": "context",
-        "text": "Available at a nominal interest rate on your Tata Neu Plus HDFC Bank Credit Card. Please refer to Fees and Charges section to know more."
-      },
-      {
-        "type": "removed",
-        "text": "NeuCoins Redemption"
-      },
-      {
-        "type": "removed",
-        "text": "You can use your NeuCoins for purchases on Tata Neu /Website for Brands like:"
-      },
-      {
-        "type": "added",
-        "text": "NeuCoins Validity and Redemption"
-      },
-      {
-        "type": "added",
-        "text": "Tata NeuCoins Claim and Redemption Process on Tata Neu HDFC Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Effective 25-Nov-2026 , to use your Tata NeuCoins earned on Tata Neu HDFC Bank Credit Card spends, primary card holder has to claim them through the Tata Neu App."
-      },
-      {
-        "type": "added",
-        "text": "How to claim your Tata NeuCoins from your Tata Neu HDFC Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "1. Log in to the Tata Neu App using primary card holder’s Bank-registered mobile number"
-      },
-      {
-        "type": "added",
-        "text": "2. Go to NeuCard section"
-      },
-      {
-        "type": "added",
-        "text": "3. Select ‘ Claim NeuCoins’ in NeuCard section . Complete the steps as prompted."
-      },
-      {
-        "type": "added",
-        "text": "Note: - The Closing Tata NeuCoins Balance as per your latest statement will be available for claiming within 7 working days of the statement date, please refer to the example for better understanding."
-      },
-      {
-        "type": "added",
-        "text": "4. Tata NeuCoins earned on your Tata Neu HDFC Bank Credit Card can be claimed within 12 months from the statement date in which it was earned . Unclaimed Tata NeuCoins will expire after this period."
-      },
-      {
-        "type": "added",
-        "text": "Example"
-      },
-      {
-        "type": "added",
-        "text": "If your statement is generated on 15-Dec-26 , any additional Tata NeuCoins earned in the latest statement will be updated in the claimable Tata NeuCoins Balance latest by 22-Dec-26 ."
-      },
-      {
-        "type": "added",
-        "text": "Tata NeuCoins earned in the statement generated on 15-Dec-26 can be claimed until 14-Dec-27 from your credit card account. If the Tata NeuCoins are not claimed by 14-Dec-27 , then the Tata NeuCoins will expire."
-      },
-      {
-        "type": "added",
-        "text": "How to use your Tata NeuCoins post credit to your Tata Neu Membership Account"
-      },
-      {
-        "type": "added",
-        "text": "5. Once your claim is successful, the Tata NeuCoins will be credited to your Tata Neu Membership account . The claimed Tata NeuCoins will be valid for another 12 months from the date of credit of Tata NeuCoins in your Tata Neu Membership Account , after which they will expire as per the Tata Neu Rewards Program Terms & Conditions."
-      },
-      {
-        "type": "added",
-        "text": "Note: - It may take up to 7 working days to credit the Tata NeuCoins in your Tata Neu Membership Account."
-      },
-      {
-        "type": "added",
-        "text": "6. Tata NeuCoins available in your Tata Neu Membership Account can be redeemed across eligible Tata brands within the Tata NeuCoins validity period."
-      },
-      {
-        "type": "added",
-        "text": "7. For details on the redemption and validity of Tata NeuCoins after they are credited to your Tata Neu Membership Account, please click here ."
-      },
-      {
-        "type": "added",
-        "text": "Example"
-      },
-      {
-        "type": "added",
-        "text": "Tata NeuCoins claimed from your credit card account and credited to your Tata Neu Membership Account on 15-Dec-26 , will be valid until 31-Dec-27 in your Tata Neu Membership Account."
-      },
-      {
-        "type": "added",
-        "text": "For another example, if Tata NeuCoins are credited to Tata Neu Membership Account on 27-Dec-26 , they will be valid until  31-Dec-27."
-      },
-      {
-        "type": "added",
-        "text": "For more details kindly click here ."
-      },
-      {
-        "type": "added",
-        "text": "Notes:"
-      },
-      {
-        "type": "added",
-        "text": "1-Effective 25-Nov-2026 , Tata NeuCoins earned on your Tata Neu HDFC Bank Credit Card will no longer be automatically credited to your Tata Neu Membership Account."
-      },
-      {
-        "type": "added",
-        "text": "2- The primary Cardholder can make up to 3 successful requests per day to claim Tata NeuCoins. Each claim must have a minimum value of 100 Tata NeuCoins . The minimum claimable value per claim may be revised downward from time to time. Any revised minimum claimable value will be displayed to the customer at the time of making the claim."
-      },
-      {
-        "type": "added",
-        "text": "3- Tata NeuCoins earned during special promotions or as Welcome Benefit will continue to follow the terms, and the expiry communicated at the time of issuance."
-      },
-      {
-        "type": "added",
-        "text": "How the Tata NeuCoins earned on Tata Neu HDFC Bank Credit Card statement prior to 25-Nov-2026 will be credited to the Tata Neu Membership Account?"
-      },
-      {
-        "type": "added",
-        "text": "As per the existing process the Tata NeuCoins earned on Tata Neu HDFC Bank Credit Card statement prior to/ before 25-Nov-2026 will be credited to the Tata Neu Membership Account within 7 working days of the statement generation and will have a validity of 12 months (including any lock period) from the end of the month in which they're credited to your Tata Neu Membership Account. Example:"
-      },
-      {
-        "type": "added",
-        "text": "If Tata NeuCoins are credited on 05-Aug-26, they will be valid until 31-Aug-27."
-      },
-      {
-        "type": "added",
-        "text": "If Tata NeuCoins are credited on 31-Aug-26, they will be valid until 31-Aug-27."
-      },
-      {
-        "type": "added",
-        "text": "How to redeem Tata NeuCoins from Tata Neu?"
-      },
-      {
-        "type": "added",
-        "text": "Once your Tata NeuCoins are successfully claimed and credited to your Tata Neu Membership Account, you can continue to use them for purchases on the Tata Neu App/Website at 1 Tata NeuCoin = ₹1 savings , just as you do today, across eligible Tata brands, including:"
-      },
-      {
-        "type": "context",
-        "text": "Air India Express"
-      },
-      {
-        "type": "context",
-        "text": "Bigbasket"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Qmin"
-      },
-      {
-        "type": "context",
-        "text": "Titan and Tanishq (only via Tata Neu)"
-      },
-      {
-        "type": "removed",
-        "text": "You can use your NeuCoins by selecting Tata Pay/ NeuCoins /Loyalty Redemption as the payment method."
-      },
-      {
-        "type": "removed",
-        "text": "NeuCoins can only be used on eligible transactions as defined by the individual brands."
-      },
-      {
-        "type": "removed",
-        "text": "For offline redemption of NeuCoins on selected stores kindly refer FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "Note:"
-      },
-      {
-        "type": "removed",
-        "text": "Your monthly statement will give breakup of NeuCoins as following:"
-      },
-      {
-        "type": "removed",
-        "text": "NeuCoins accrued and available with the Bank"
-      },
-      {
-        "type": "removed",
-        "text": "NeuCoins transferred to Tata Neu during the Statement Cycle"
-      },
-      {
-        "type": "removed",
-        "text": "On periodic basis (within 7 working days of the statement generation) the NeuCoins will be transferred to Tata Neu by the Bank."
-      },
-      {
-        "type": "removed",
-        "text": "NeuCoins transferred to Tata Neu will be available for redemption on Tata Neu App."
-      },
-      {
-        "type": "removed",
-        "text": "For detailed Terms and conditions  Click here"
-      },
-      {
-        "type": "removed",
-        "text": "NeuCoins Validity"
-      },
-      {
-        "type": "removed",
-        "text": "Starting 01-Aug-25, NeuCoins earned on your Tata Neu HDFC Bank Credit Card will have a validity of 12 months (including lock period) from the end of the month in which they're credited to your Tata Neu Account."
-      },
-      {
-        "type": "removed",
-        "text": "If NeuCoins are credited on 05-Aug-25, they will be valid until 31-Aug-26."
-      },
-      {
-        "type": "removed",
-        "text": "If NeuCoins are credited on 31-Aug-25, they will be valid until 31-Aug-26."
-      },
-      {
-        "type": "removed",
-        "text": "Validity of Existing NeuCoins balance"
-      },
-      {
-        "type": "removed",
-        "text": "Non-Promotional NeuCoins:  The validity of your existing balance of Non-Promotional NeuCoins (earned before 01-Aug-25) will be set as 31-Jul-26 in your Tata Neu Account, this activity will start from Jul’25 and will be completed by Aug’25 in a phased manner."
-      },
-      {
-        "type": "removed",
-        "text": "Promotional NeuCoins/Welcome Benefit: NeuCoins earned during special promotions or as Welcome Benefit will continue to follow the expiry terms communicated at the time of issuance."
-      },
-      {
-        "type": "removed",
-        "text": "For details on Redemption and Validity on NeuCoins, please  click here"
-      },
-      {
-        "type": "added",
-        "text": "You can use your Tata NeuCoins by selecting Tata NeuCoins /Use my Tata NeuCoins/ Loyalty Redemption on order page/payments page. Tata NeuCoins can only be used on eligible transactions as defined by the individual brands."
-      },
-      {
-        "type": "added",
-        "text": "For offline redemption of Tata NeuCoins on selected stores kindly click here ."
-      },
-      {
-        "type": "context",
-        "text": "Click here to view detailed TERMS & CONDITIONS on Tata Neu Plus HDFC Bank Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Click here  to view details of Fees and Charges/MITC on Tata Neu Plus HDFC Bank Credit Card."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated NeuCoins claim, redemption, and validity rules for Tata Neu HDFC Bank Credit Card."
     }
   },
   {
@@ -7346,86 +7370,6 @@
     }
   },
   {
-    "id": "hsbc-india-premier-credit-card",
-    "cardName": "Premier Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/premier/",
-    "status": "Active",
-    "detectedAt": "2026-10-09T10:35:58.736Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "EMI options"
-      },
-      {
-        "type": "context",
-        "text": "Convenient EMI options that allow you to pay your credit card dues in Equated Monthly Instalments (EMIs) such as Balance Transfer on EMI, Cash-on-EMI, or Loan-on-Phone."
-      },
-      {
-        "type": "added",
-        "text": "15% off eSIM purchases with Airalo"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy exclusive discounts on all Airalo eSIM purchases and top-ups. Use promo code: MASTERCARD15. Know More ."
-      },
-      {
-        "type": "added",
-        "text": "Save up to 35% on standard rates with Avis Car Rentals"
-      },
-      {
-        "type": "added",
-        "text": "Get complimentary enrollment to Avis Preferred and up to 35% off car rentals. Know More ."
-      },
-      {
-        "type": "context",
-        "text": "Luxury hotel & resorts programme"
-      },
-      {
-        "type": "context",
-        "text": "Get complimentary upgrades, early check-in and late check-out, and exclusive extras at over 3,800 luxury destinations worldwide with Mastercard. Know more"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Online fraud protection and lost card liability"
-      },
-      {
-        "type": "context",
-        "text": "Get insurance coverage for any misuse of your card from 24 hours before reporting it lost, up to INR300,000."
-      },
-      {
-        "type": "added",
-        "text": "Exclusive hotel benefits with Preferred Hotels & Resorts"
-      },
-      {
-        "type": "added",
-        "text": "Stay four nights and pay for only three, plus earn an additional 5,000 I-Prefer points. Use promo code MKTMPE. Know More ."
-      },
-      {
-        "type": "context",
-        "text": "What you need to know"
-      },
-      {
-        "type": "context",
-        "text": "You must be an existing HSBC qualified Premier customer with a Premier relationship in India."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added new partner discounts for eSIM, car rentals, and hotels"
-    }
-  },
-  {
     "id": "hdfc-bank-swiggy-hdfc-bank-credit-card",
     "cardName": "Swiggy HDFC Bank Credit Card",
     "issuerName": "HDFC Bank",
@@ -7619,90 +7563,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a reward redemption catalogue link for redeeming Plus reward points."
-    }
-  },
-  {
-    "id": "hsbc-india-hsbc-rupay-platinum-credit-card",
-    "cardName": "HSBC RuPay Platinum Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/rupay-platinum-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-10-08T10:38:08.657Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get an INR250 Amazon eGift Voucher when you apply online, verify yourself by video and receive your card. T&Cs apply ."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 2-months EazyDiner membership when you activate your RuPay credit card. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "removed",
-        "text": "Plus, get INR250 cashback when you link your card to UPI and make 2 transactions of INR250 or more within 30 days of getting your card. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "removed",
-        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Choose our RuPay Platinum Credit Card to enjoy"
-      },
-      {
-        "type": "context",
-        "text": "No joining and annual fees"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Removed INR250 cashback offer for UPI linking and INR1,000 cashback for income document submission."
-    }
-  },
-  {
-    "id": "hsbc-india-hsbc-rupay-cashback-credit-card",
-    "cardName": "HSBC RuPay Cashback Credit Card",
-    "issuerName": "HSBC India",
-    "issuerSlug": "hsbc-india",
-    "officialUrl": "https://www.hsbc.co.in/",
-    "productPageUrl": "https://www.hsbc.co.in/credit-cards/products/rupay-cashback-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-10-08T10:38:08.656Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get an INR250 Amazon eGift Voucher when you apply online, verify yourself by video and receive your card. T&Cs apply ."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy 2-months EazyDiner membership when you activate your RuPay credit card. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "removed",
-        "text": "Plus, get INR250 cashback when you link your card to UPI and make 2 transactions of INR250 or more within 30 days of getting your card. T&Cs apply (PDF) ."
-      },
-      {
-        "type": "removed",
-        "text": "Get INR1,000 cashback. Just spend INR1,000 or more within 30 days of getting your credit card after submitting your income documents with Account Aggregator. T&Cs apply (PDF)"
-      },
-      {
-        "type": "context",
-        "text": "Choose our RuPay Cashback Credit Card to enjoy"
-      },
-      {
-        "type": "context",
-        "text": "0% forex mark-up"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -20053,98 +19913,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Card now marked as discontinued, indicating it is no longer available for new issuance."
-    }
-  },
-  {
-    "id": "indusind-bank-intermiles-odyssey-amex-credit-card",
-    "cardName": "InterMiles Odyssey Amex Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-amex-credit-card.html",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-20T04:06:12.122Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "InterMiles Odyssey Amex Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Welcome to the world of privileges"
-      },
-      {
-        "type": "removed",
-        "text": "InterMiles Odyssey Amex Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "InterMiles Odyssey Amex Credit Card (Discontinued)"
-      },
-      {
-        "type": "context",
-        "text": "IndusInd Bank InterMiles Odyssey Credit Card comes with whole lot of features and benefits !"
-      },
-      {
-        "type": "context",
-        "text": "Our exclusive range of Credit Cards offer an exceptional reward structure in the form of InterMiles on every spend."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Up to 6 InterMiles on every Rs. 100 spent*"
-      },
-      {
-        "type": "context",
-        "text": "Earn 2X InterMiles on flight, Amazon spends via intermiles.com & Hotel spends on interbook.intermiles.com"
-      },
-      {
-        "type": "removed",
-        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on priority.care@indusind.com or call us on 1860 267 7777."
-      },
-      {
-        "type": "added",
-        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on premium.care@indusind.com or call us on 1860 267 7777."
-      },
-      {
-        "type": "context",
-        "text": "Accrual of InterMiles"
-      },
-      {
-        "type": "context",
-        "text": "Reward points will be earned in the form of InterMiles."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "JPPL comprises of a bunch of young, passionate and driven individuals that obsess about its customers. We're constantly thinking of newer ways to delight them, to bring them new experiences and unforgettable moments. Perhaps it is this obsession that has led us to create a programme in InterMiles  that empowers and rewards our members for all their travel and lifestyle needs."
-      },
-      {
-        "type": "context",
-        "text": "As we at JPPL look to strengthen and develop the InterMiles programme, be rest assured that our transformation, in no way, affects the Miles accrued by you and the Miles balance in your account. You will continue to earn or redeem InterMiles. What has changed is just the name of your miles, not the way you earn or use it."
-      },
-      {
-        "type": "removed",
-        "text": "InterMiles Voyage Amex Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "InterMiles Voyage Amex Credit Card (Discontinued)"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Card now marked as discontinued."
     }
   }
 ]

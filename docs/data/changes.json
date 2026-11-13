@@ -1,5 +1,69 @@
 [
   {
+    "id": "axis-bank-lic-axis-bank-signature-credit-card",
+    "cardName": "LIC Axis Bank Signature Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-13T10:58:37.052Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn up to 1,250 EDGE REWARD Points on first fuel transaction"
+      },
+      {
+        "type": "context",
+        "text": "4% value back on fuel spends at IndianOil outlets"
+      },
+      {
+        "type": "removed",
+        "text": "UPI card"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "Food & Dining"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Lifetime free offer valid till 31st December 2026"
+      },
+      {
+        "type": "context",
+        "text": "(This card is currently Lifetime Free on the Visa Network)"
+      },
+      {
+        "type": "removed",
+        "text": "UPI card"
+      },
+      {
+        "type": "context",
+        "text": "Fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "Food & Dining"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Removed UPI card feature."
+    }
+  },
+  {
     "id": "indusind-bank-indusind-bank-tiger-credit-card",
     "cardName": "IndusInd Bank Tiger Credit Card",
     "issuerName": "IndusInd Bank",
@@ -4145,62 +4209,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added lifetime free offer valid till 31st December 2026"
-    }
-  },
-  {
-    "id": "axis-bank-lic-axis-bank-signature-credit-card",
-    "cardName": "LIC Axis Bank Signature Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/lic-axis-bank-signature-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-03T10:51:26.648Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Flat ₹120 off* on Swiggy; twice a month"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy complimentary airport lounge access* (4 times per year)"
-      },
-      {
-        "type": "added",
-        "text": "Lifetime free offer valid till 31st December 2026"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently Lifetime Free on the Visa Network)"
-      },
-      {
-        "type": "context",
-        "text": "UPI card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Monthly 2 times - Flat ₹120* off on Zomato"
-      },
-      {
-        "type": "context",
-        "text": "10%* off on Blinkit and BookMyShow"
-      },
-      {
-        "type": "added",
-        "text": "Lifetime free offer valid till 31st December 2026"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a lifetime free offer valid until 31st December 2026."
     }
   },
   {

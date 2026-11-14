@@ -3938,5 +3938,17 @@
     "issuerSlug": "karur-vysya-bank",
     "url": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-samara-credit-card/",
     "status": "Active"
+  },
+  {
+    "cardName": "HDFC Bank Credit Card 365 Days Activation Guidelines",
+    "issuerSlug": "hdfc-bank",
+    "url": "https://www.hdfc.bank.in/credit-cards/services/365-days-activation-guidelines",
+    "status": "Active"
+  },
+  {
+    "cardName": "PM SVANidhi RuPay Credit Card",
+    "issuerSlug": "icici-bank",
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/pm-svanidhi-rupay-credit-card",
+    "status": "Active"
   }
 ]

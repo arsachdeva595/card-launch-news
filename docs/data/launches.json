@@ -1,5 +1,45 @@
 [
   {
+    "id": "icici-bank-pm-svanidhi-rupay-credit-card",
+    "cardName": "PM SVANidhi RuPay Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/pm-svanidhi-rupay-credit-card",
+    "discoveredAt": "2026-11-14T10:22:04.390Z",
+    "lastmod": "2026-11-11",
+    "announcement": {
+      "title": "PM SVANidhi RuPay Credit Card",
+      "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/pm-svanidhi-rupay-credit-card",
+      "description": "Official product page on ICICI Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-hdfc-bank-credit-card-365-days-activation-guidelines",
+    "cardName": "HDFC Bank Credit Card 365 Days Activation Guidelines",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/services/365-days-activation-guidelines",
+    "discoveredAt": "2026-11-14T10:22:01.668Z",
+    "lastmod": "2026-11-12T17:03:56+05:30",
+    "announcement": {
+      "title": "HDFC Bank Credit Card 365 Days Activation Guidelines",
+      "url": "https://www.hdfc.bank.in/credit-cards/services/365-days-activation-guidelines",
+      "description": "Official product page on HDFC Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "karur-vysya-bank-kvb-alturas-credit-card",
     "cardName": "KVB Alturas Credit Card",
     "issuerName": "Karur Vysya Bank",

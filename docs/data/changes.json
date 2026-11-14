@@ -1,5 +1,1081 @@
 [
   {
+    "id": "icici-bank-hpcl-super-saver-credit-card",
+    "cardName": "HPCL Super Saver Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-super-saver",
+    "status": "Active",
+    "detectedAt": "2026-11-14T10:27:41.018Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "24/7 Roadside Assistance"
+      },
+      {
+        "type": "context",
+        "text": "Round-the-clock assistance in case of vehicle breakdown"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹100 on movie tickets at INOX, twice a month"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "context",
+        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "added",
+        "text": "Plus (Add-on) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "context",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "context",
+        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emirates-sapphiro-credit-card",
+    "cardName": "Emirates Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
+    "status": "Active",
+    "detectedAt": "2026-11-14T10:27:41.017Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Promo Code"
+      },
+      {
+        "type": "context",
+        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com,   Click here  to know more"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Annual Benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "For complete list of international airport lounges visit www.prioritypass.com/airport-lounges"
+      },
+      {
+        "type": "context",
+        "text": "What are the criteria for availing domestic airport lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Emirates Sapphiro ICICI Bank Credit Card in a spend quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "added",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Emirates Sapphiro ICICI Bank Credit Card in a spends quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "context",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "context",
+        "text": "Starting Apr 1, 2026, to be eligible for availing complimentary tickets offer on movie/ events tickets with BookMyShow, you must spend ₹25,000 or more on your Emirates Sapphiro Credit Card within the preceding spends quarter. This entitles you to avail the offer in the following calendar quarter. Please go through the illustration below to understand spends and offer eligibility period."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GET OTP"
+      },
+      {
+        "type": "context",
+        "text": "RESEND OTP in 1:00"
+      },
+      {
+        "type": "added",
+        "text": "FX services"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added FX services benefit to Emirates Sapphiro Credit Card."
+    }
+  },
+  {
+    "id": "icici-bank-emirates-skywards-rubyx-credit-card",
+    "cardName": "Emirates Skywards Rubyx Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-rubyx-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-11-14T10:27:41.017Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "context",
+        "text": "Get 1 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹100 on movie tickets at INOX, twice a month"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "You can apply online through the ICICI Bank website or by visiting an ICICI Bank branch."
+      },
+      {
+        "type": "context",
+        "text": "Does Emirates Rubyx Credit Card offer international airport lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "No, the Emirates Rubyx Credit Card offers 1 complimentary domestic lounge visit per quarter. and is available only on a spend of ₹75,000 in the preceding quarter."
+      },
+      {
+        "type": "added",
+        "text": "No, the Emirates Rubyx Credit Card offers 1 domestic lounge visit per quarter on the eligible spends of ₹75,000 in the preceding spends quarter."
+      },
+      {
+        "type": "context",
+        "text": "How can I avail discount on Emirates flight bookings using my ICICI Bank Emirates Rubyx Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "To avail upto 10% discount on Emirates flight bookings, please follow the below steps"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "context",
+        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "added",
+        "text": "Plus (Add-on) card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "context",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "context",
+        "text": "Customers can avail upfront offers while booking tickets on BookMyShow by following the steps below-"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GET OTP"
+      },
+      {
+        "type": "context",
+        "text": "RESEND OTP in 1:00"
+      },
+      {
+        "type": "added",
+        "text": "FX services"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Lounge visit frequency changed from quarterly to monthly."
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-platinum-credit-card",
+    "cardName": "Adani One Platinum Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card",
+    "status": "Active",
+    "detectedAt": "2026-11-14T10:27:41.015Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Worth ₹2000"
+      },
+      {
+        "type": "context",
+        "text": "Earn flight vouchers on spends of ₹10,000 within 60 days of card activation."
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Fuel surcharge waiver"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
+      },
+      {
+        "type": "context",
+        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please click here ."
+      },
+      {
+        "type": "removed",
+        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "added",
+        "text": "Plus (Add-on) Card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
+      },
+      {
+        "type": "context",
+        "text": "What are the criteria for availing domestic airport lounge access?"
+      },
+      {
+        "type": "removed",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Adani One Platinum Credit Card in a calendar quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "added",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Adani One Platinum Credit Card in a Spends quarter. This entitles you to avail the 2 lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "context",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "context",
+        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GET OTP"
+      },
+      {
+        "type": "context",
+        "text": "RESEND OTP in 1:00"
+      },
+      {
+        "type": "added",
+        "text": "FX services"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Lounge access spend requirement changed to a Spends quarter."
+    }
+  },
+  {
+    "id": "icici-bank-rubyx-credit-card",
+    "cardName": "Rubyx Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/rubyx-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-14T10:27:41.014Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank Rubyx Credit Card | Lounge Access Benefits and Reward"
+      },
+      {
+        "type": "context",
+        "text": "Fees and Charges"
+      },
+      {
+        "type": "added",
+        "text": "Col."
+      },
+      {
+        "type": "context",
+        "text": "ICICI Bank Parakram Select Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Bank Parakram Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Bank Corporate Gold Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Bank Corporate Platinum Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Col."
+      },
+      {
+        "type": "context",
+        "text": "Rubyx Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Rubyx Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Know More"
+      },
+      {
+        "type": "context",
+        "text": "APPLY"
+      },
+      {
+        "type": "removed",
+        "text": "High-end Lifestyle Perks"
+      },
+      {
+        "type": "added",
+        "text": "High-end Lifestyle Perk"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Vouchers"
+      },
+      {
+        "type": "context",
+        "text": "Airport and Railway Lounge Access"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get 8 Complimentary Railway Lounge access. For lounge list,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Monthly"
+      },
+      {
+        "type": "removed",
+        "text": "Up to 2 complimentary Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Up to 2 Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹150 on movie tickets at INOX, twice a month"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Up to ₹1 crore"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Proof of identity"
+      },
+      {
+        "type": "context",
+        "text": "Proof of address"
+      },
+      {
+        "type": "removed",
+        "text": "Want us to call you back?"
+      },
+      {
+        "type": "removed",
+        "text": "Give us a few details for us to help you!"
+      },
+      {
+        "type": "removed",
+        "text": "Are you an NRI?*"
+      },
+      {
+        "type": "removed",
+        "text": "First Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Last Name*"
+      },
+      {
+        "type": "removed",
+        "text": "Country*"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select your Country"
+      },
+      {
+        "type": "removed",
+        "text": "Algeria"
+      },
+      {
+        "type": "removed",
+        "text": "Andorra"
+      },
+      {
+        "type": "removed",
+        "text": "Afghanistan"
+      },
+      {
+        "type": "removed",
+        "text": "Antigua and Barbuda"
+      },
+      {
+        "type": "removed",
+        "text": "Anguilla"
+      },
+      {
+        "type": "removed",
+        "text": "Albania"
+      },
+      {
+        "type": "removed",
+        "text": "Netherlands Antilles"
+      },
+      {
+        "type": "removed",
+        "text": "Angola"
+      },
+      {
+        "type": "removed",
+        "text": "Argentina"
+      },
+      {
+        "type": "removed",
+        "text": "Aruba"
+      },
+      {
+        "type": "removed",
+        "text": "American Samoa"
+      },
+      {
+        "type": "removed",
+        "text": "Austria"
+      },
+      {
+        "type": "removed",
+        "text": "Australia"
+      },
+      {
+        "type": "removed",
+        "text": "Azerbaijan"
+      },
+      {
+        "type": "removed",
+        "text": "{{! }}"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "+"
+      },
+      {
+        "type": "removed",
+        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
+      },
+      {
+        "type": "removed",
+        "text": "Email*"
+      },
+      {
+        "type": "removed",
+        "text": "Product*"
+      },
+      {
+        "type": "removed",
+        "text": "Select a Product"
+      },
+      {
+        "type": "removed",
+        "text": "close dropdown"
+      },
+      {
+        "type": "removed",
+        "text": "Select Product"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Property Purchase Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Land Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Investment Home Loan"
+      },
+      {
+        "type": "removed",
+        "text": "NRI Commercial Property Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "removed",
+        "text": "Email ID*"
+      },
+      {
+        "type": "removed",
+        "text": "Product Type"
+      },
+      {
+        "type": "removed",
+        "text": "Pincode*"
+      },
+      {
+        "type": "removed",
+        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
+      },
+      {
+        "type": "removed",
+        "text": "Enter OTP"
+      },
+      {
+        "type": "removed",
+        "text": "GET OTP"
+      },
+      {
+        "type": "removed",
+        "text": "RESEND OTP in 1:00"
+      },
+      {
+        "type": "context",
+        "text": "Extend benefits to your loved ones"
+      },
+      {
+        "type": "context",
+        "text": "Rubyx Credit Card FAQs"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Soumy Dhawan"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Credit Cards are surely one of the best cards out there with an unbeatable reward system. The best part is the quick services they provide."
+      },
+      {
+        "type": "added",
+        "text": "Want us to call you back?"
+      },
+      {
+        "type": "added",
+        "text": "Give us a few details for us to help you!"
+      },
+      {
+        "type": "added",
+        "text": "Are you an NRI?*"
+      },
+      {
+        "type": "added",
+        "text": "First Name*"
+      },
+      {
+        "type": "added",
+        "text": "Last Name*"
+      },
+      {
+        "type": "added",
+        "text": "Country*"
+      },
+      {
+        "type": "added",
+        "text": "Select your Country"
+      },
+      {
+        "type": "added",
+        "text": "close dropdown"
+      },
+      {
+        "type": "added",
+        "text": "Select your Country"
+      },
+      {
+        "type": "added",
+        "text": "Algeria"
+      },
+      {
+        "type": "added",
+        "text": "Andorra"
+      },
+      {
+        "type": "added",
+        "text": "Afghanistan"
+      },
+      {
+        "type": "added",
+        "text": "Antigua and Barbuda"
+      },
+      {
+        "type": "added",
+        "text": "Anguilla"
+      },
+      {
+        "type": "added",
+        "text": "Albania"
+      },
+      {
+        "type": "added",
+        "text": "Netherlands Antilles"
+      },
+      {
+        "type": "added",
+        "text": "Angola"
+      },
+      {
+        "type": "added",
+        "text": "Argentina"
+      },
+      {
+        "type": "added",
+        "text": "Aruba"
+      },
+      {
+        "type": "added",
+        "text": "American Samoa"
+      },
+      {
+        "type": "added",
+        "text": "Austria"
+      },
+      {
+        "type": "added",
+        "text": "Australia"
+      },
+      {
+        "type": "added",
+        "text": "Azerbaijan"
+      },
+      {
+        "type": "added",
+        "text": "{{! }}"
+      },
+      {
+        "type": "added",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "added",
+        "text": "+"
+      },
+      {
+        "type": "added",
+        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
+      },
+      {
+        "type": "added",
+        "text": "Email*"
+      },
+      {
+        "type": "added",
+        "text": "Product*"
+      },
+      {
+        "type": "added",
+        "text": "Select a Product"
+      },
+      {
+        "type": "added",
+        "text": "close dropdown"
+      },
+      {
+        "type": "added",
+        "text": "Select Product"
+      },
+      {
+        "type": "added",
+        "text": "NRI Home Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Investment Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Property Purchase Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Land Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Investment Home Loan"
+      },
+      {
+        "type": "added",
+        "text": "NRI Commercial Property Loan"
+      },
+      {
+        "type": "added",
+        "text": "Mobile Number*"
+      },
+      {
+        "type": "added",
+        "text": "Email ID*"
+      },
+      {
+        "type": "added",
+        "text": "Product Type"
+      },
+      {
+        "type": "added",
+        "text": "Pincode*"
+      },
+      {
+        "type": "added",
+        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
+      },
+      {
+        "type": "added",
+        "text": "Enter OTP"
+      },
+      {
+        "type": "added",
+        "text": "GET OTP"
+      },
+      {
+        "type": "added",
+        "text": "RESEND OTP in 1:00"
+      },
+      {
+        "type": "added",
+        "text": "FX Services (New)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Updated golf and lifestyle perk wording, removing 'complimentary' and changing frequency to monthly."
+    }
+  },
+  {
+    "id": "icici-bank-sapphiro-credit-card",
+    "cardName": "Sapphiro Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
+    "status": "Active",
+    "detectedAt": "2026-11-14T10:27:41.013Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Quarterly"
+      },
+      {
+        "type": "context",
+        "text": "Get 4 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
+      },
+      {
+        "type": "removed",
+        "text": "Quarterly"
+      },
+      {
+        "type": "added",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Up to ₹3 crore"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get round-the-clock concierge assistance by calling the toll-free number 18002670731"
+      },
+      {
+        "type": "context",
+        "text": "Monthly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 4 complimentary Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Get 4 Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Milestone Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Get 4,000 reward points on ₹4 lakh spend & 2,000 for every additional ₹1 lakh spend, upto 20,000 RPs in an anniversary year."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "What are the criteria for availing domestic airport lounge access?"
+      },
+      {
+        "type": "context",
+        "text": "To enjoy domestic airport lounge access, you must spend ₹75,000 or more on your Sapphiro Credit Card in a calendar quarter. This entitles you to avail the lounge access benefit in the following calendar quarter. The benefit is exclusively applicable to the primary Cardholder."
+      },
+      {
+        "type": "removed",
+        "text": "For customers with dual Credit Card variants (MasterCard and Amex), the entitlement includes 2 domestic lounge visits per quarter for each variant."
+      },
+      {
+        "type": "added",
+        "text": "For customers with dual Credit Card variants (Mastercard & Amex | Visa & RuPay) the entitlement includes 2 domestic lounge visits per quarter for each variant."
+      },
+      {
+        "type": "context",
+        "text": "Please note that the airport lounge access benefit is available only for primary Cardholders. For more details on the criteria,  click here . To view the complete list of lounges,  click here ."
+      },
+      {
+        "type": "context",
+        "text": "What are the golf privileges and eligibility criteria?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "The core benefits remain the same. Differences are mainly in card network acceptance, lounge access allocation per variant, and select merchant offers based on Amex or Mastercard."
+      },
+      {
+        "type": "context",
+        "text": "Is the ICICI Bank Sapphiro Credit Card suitable for frequent travellers in 2026?"
+      },
+      {
+        "type": "removed",
+        "text": "Yes, the ICICI Bank Sapphiro Credit Card offers travel-related features such as lounge access and reward points , subject to eligibility and applicable terms."
+      },
+      {
+        "type": "added",
+        "text": "Yes, the ICICI Bank Sapphiro Credit Card offers travel-related features such as lounge access and reward points, subject to eligibility and applicable terms."
+      },
+      {
+        "type": "context",
+        "text": "What is the minimum credit limit for the ICICI Bank Sapphiro Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "The credit limit is assigned based on income, credit profile, and internal assessment criteria defined by ICICI Bank."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GET OTP"
+      },
+      {
+        "type": "context",
+        "text": "RESEND OTP in 1:00"
+      },
+      {
+        "type": "added",
+        "text": "FX Services (New)"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "axis-bank-lic-axis-bank-signature-credit-card",
     "cardName": "LIC Axis Bank Signature Credit Card",
     "issuerName": "Axis Bank",
@@ -6202,50 +7278,6 @@
     }
   },
   {
-    "id": "icici-bank-sapphiro-credit-card",
-    "cardName": "Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card",
-    "status": "Active",
-    "detectedAt": "2026-10-27T09:04:32.392Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Enjoy 2 complimentary international airport lounge access visits with ICICI Bank Sapphiro Credit Card. Complimentary benefits are applicable only for the primary cardholder."
-      },
-      {
-        "type": "context",
-        "text": "Priority Pass Membership"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder and Plus cardholder with Times Black ICICI Bank Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary Priority Pass Membership for both the primary cardholder with ICICI Bank Sapphiro Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Access 1,900+ lounges in 145+ countries worldwide"
-      },
-      {
-        "type": "context",
-        "text": "Present your Priority Pass Membership Card at the participating international lounges."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added Complimentary Priority Pass Membership for the primary cardholder of the ICICI Bank Sapphiro Credit Card."
-    }
-  },
-  {
     "id": "dbs-bank-dbs-vantage-card",
     "cardName": "DBS Vantage Card",
     "issuerName": "DBS Bank India",
@@ -8861,462 +9893,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added new lounge access benefits for primary cardholders."
-    }
-  },
-  {
-    "id": "icici-bank-emirates-sapphiro-credit-card",
-    "cardName": "Emirates Sapphiro Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-sapphiro",
-    "status": "Active",
-    "detectedAt": "2026-10-01T10:12:25.935Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get 5,000 Skywards Miles and Emirates Skywards Silver Tier Membership"
-      },
-      {
-        "type": "context",
-        "text": "Annually"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 complimentary International airport lounge accesses,  Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 complimentary International airport lounge access for the Primary Cardholders. For lounge list,  Click here"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 Domestic Airport Lounge access. Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
-      },
-      {
-        "type": "context",
-        "text": "Promo Code"
-      },
-      {
-        "type": "context",
-        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com,   Click here  to know more"
-      },
-      {
-        "type": "removed",
-        "text": "Twice every month"
-      },
-      {
-        "type": "removed",
-        "text": "Book one movie ticket on BookMyShow and get up to ₹500 off on the second ticket"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Buy One Get One on BookMyShow up to ₹500 off twice a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
-      },
-      {
-        "type": "context",
-        "text": "Annual Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Get 5000 Skywards Miles on annual renewal"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "A premium travel credit card by ICICI Bank and Emirates Skywards. It rewards you with Skywards Miles on spends, free lounge access, travel privileges, and an exclusive Emirates Silver Tier status."
-      },
-      {
-        "type": "context",
-        "text": "What are the joining and annual benefits of the Emirates Sapphiro Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Cardholders receive 5,000 Skywards Miles and a complimentary Emirates Skywards Silver Tier membership as joining benefits, and get 5,000 Skyward Miles as a Annual Benefit on renewal."
-      },
-      {
-        "type": "added",
-        "text": "Cardholders receive 5,000 Skywards Miles and a complimentary Emirates Skywards Silver Tier membership as joining benefits, and get 5,000 Skyward Miles as a Annual Benefit on renewal"
-      },
-      {
-        "type": "context",
-        "text": "How can I avail discount on Emirates flight bookings using my ICICI Bank Emirates Sapphiro Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "To avail upto 10% discount on Emirates flight bookings, please follow the below steps"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated lounge access and movie ticket benefits with new spend thresholds and frequency."
-    }
-  },
-  {
-    "id": "icici-bank-hpcl-super-saver-credit-card",
-    "cardName": "HPCL Super Saver Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-super-saver",
-    "status": "Active",
-    "detectedAt": "2026-10-01T10:12:25.935Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "24/7 Roadside Assistance"
-      },
-      {
-        "type": "context",
-        "text": "Round-the-clock assistance in case of vehicle breakdown"
-      },
-      {
-        "type": "removed",
-        "text": "25% off up to ₹100"
-      },
-      {
-        "type": "removed",
-        "text": "Get a 25% discount (up to ₹100) on movie tickets on movie tickets at BookMyShow and INOX, twice a month"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 1 Domestic Airport Lounge access. Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 25% off up to ₹100 on movie tickets at INOX, twice a month"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 1 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
-      },
-      {
-        "type": "context",
-        "text": "24x7 concierge service"
-      },
-      {
-        "type": "removed",
-        "text": "Get round-the-clock assistance (RuPay Variant)"
-      },
-      {
-        "type": "removed",
-        "text": "Personal Accident Insurance Cover (RuPay Variant)"
-      },
-      {
-        "type": "added",
-        "text": "Get round-the-clock assistance (RuPay Variant)"
-      },
-      {
-        "type": "added",
-        "text": "Personal Accident Insurance Cover (RuPay Variant)"
-      },
-      {
-        "type": "context",
-        "text": "20"
-      },
-      {
-        "type": "context",
-        "text": "On Daily Essential Spend"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated movie ticket discount and lounge access to require quarterly spend thresholds of ₹25,000 and ₹75,000 respectively."
-    }
-  },
-  {
-    "id": "icici-bank-emirates-skywards-rubyx-credit-card",
-    "cardName": "Emirates Skywards Rubyx Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-rubyx-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-10-01T10:12:25.935Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Get upto 10% Discount on Emirates flight bookings using the promo code INICI26 via Emirates.com,   Click here  to know more"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Domestic lounge access on a minimum spend of ₹75,000 in the previous quarter,  Click here  for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "25%off up to ₹100"
-      },
-      {
-        "type": "removed",
-        "text": "Get discounts on movie tickets each on BookMyShow and INOX, twice a month"
-      },
-      {
-        "type": "added",
-        "text": "Get 1 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 25% off up to ₹100 on movie tickets at INOX, twice a month"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
-      },
-      {
-        "type": "context",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Get 1% waiver on fuel transactions worth ₹400 - ₹4,000 at all fuel pumps"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated lounge access and movie ticket discount benefits with new spend thresholds and quarterly frequency."
-    }
-  },
-  {
-    "id": "icici-bank-adani-one-platinum-credit-card",
-    "cardName": "Adani One Platinum Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card",
-    "status": "Active",
-    "detectedAt": "2026-10-01T10:12:25.934Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Avail 2 instances of Premium car parking on card activation"
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 domestic complimentary Airport Lounge access. Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list. Click here"
-      },
-      {
-        "type": "context",
-        "text": "Porter services"
-      },
-      {
-        "type": "context",
-        "text": "Get up to 4 Porter services in a year for every ₹1 lakh spend annually"
-      },
-      {
-        "type": "context",
-        "text": "Worth ₹2000"
-      },
-      {
-        "type": "context",
-        "text": "Earn flight vouchers on spends of ₹10,000 within 60 days of card activation."
-      },
-      {
-        "type": "removed",
-        "text": "25% off off up to ₹100"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 monthly discounts on movie tickets through BookMyShow"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 25% off up to ₹100 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
-      },
-      {
-        "type": "context",
-        "text": "Fuel surcharge waiver"
-      },
-      {
-        "type": "context",
-        "text": "Avail 1% fuel surcharge waiver up to ₹4,000 on all fuel transactions at any fuel outlet"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Movie ticket discount now requires ₹25,000 quarterly spend and is limited to twice a month."
-    }
-  },
-  {
-    "id": "icici-bank-rubyx-credit-card",
-    "cardName": "Rubyx Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/rubyx-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-01T10:12:25.933Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Welcome Vouchers from Tata CLiQ, Tata Croma, EazyDiner, EaseMyTrip, Avis and Elivaas."
-      },
-      {
-        "type": "context",
-        "text": "Quarterly"
-      },
-      {
-        "type": "removed",
-        "text": "Get 2 Domestic Airport Lounge access. Click here for lounge list"
-      },
-      {
-        "type": "added",
-        "text": "Get 2 Domestic Airport Lounge access for primary cardholders on eligible spends of ₹75,000 or more in the preceding spends quarter. For lounge list,  Click here"
-      },
-      {
-        "type": "context",
-        "text": "Annually"
-      },
-      {
-        "type": "removed",
-        "text": "Get 8 Complimentary Railway Lounge access,   Click here for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "2 complimentary rounds of golf"
-      },
-      {
-        "type": "removed",
-        "text": "Play golf every month basis eligible spends,  Click here  for list of Golf Courses"
-      },
-      {
-        "type": "removed",
-        "text": "25% off up to ₹150"
-      },
-      {
-        "type": "removed",
-        "text": "Get discounts on movie tickets each on BookMyShow and INOX, twice a month"
-      },
-      {
-        "type": "added",
-        "text": "Get 8 Complimentary Railway Lounge access. For lounge list,  Click here"
-      },
-      {
-        "type": "added",
-        "text": "Monthly"
-      },
-      {
-        "type": "added",
-        "text": "Up to 2 complimentary Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 25% off up to ₹150 on movie tickets at INOX, twice a month"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get 25% off up to ₹150 on movie tickets on BookMyShow twice a month, on eligible spends of ₹25,000 or more in the preceding spends quarter"
-      },
-      {
-        "type": "context",
-        "text": "Up to ₹1 crore"
-      },
-      {
-        "type": "context",
-        "text": "Get an Air Accident Insurance cover."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Soumy Dhawan"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Credit Cards are surely one of the best cards out there with an unbeatable reward system. The best part is the quick services they provide."
-      },
-      {
-        "type": "added",
-        "text": "ICICI Bank Business Micro Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added new lounge, golf, and movie ticket benefits with updated spend thresholds"
     }
   },
   {

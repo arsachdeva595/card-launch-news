@@ -1,5 +1,85 @@
 [
   {
+    "id": "amex-the-centurion-lounge-at-hong-kong-international-airport",
+    "cardName": "The Centurion Lounge at Hong Kong International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/HKG/the-centurion-lounge-terminal-1-iPvFFfgoeE/",
+    "discoveredAt": "2026-11-15T10:49:13.160Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "The Centurion Lounge at Hong Kong International Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/HKG/the-centurion-lounge-terminal-1-iPvFFfgoeE/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-the-centurion-lounge-at-john-f-kennedy-international-airport",
+    "cardName": "The Centurion Lounge at John F. Kennedy International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/JFK/the-centurion-lounge-terminal-4-ErTeaB28Ky/",
+    "discoveredAt": "2026-11-15T10:49:13.160Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "The Centurion Lounge at John F. Kennedy International Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/JFK/the-centurion-lounge-terminal-4-ErTeaB28Ky/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-the-oasis-lounge-at-murtala-muhammed-international-airport",
+    "cardName": "The Oasis Lounge at Murtala Muhammed International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/LOS/----iR4UtkQvxG/",
+    "discoveredAt": "2026-11-15T10:49:13.160Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "The Oasis Lounge at Murtala Muhammed International Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/LOS/----iR4UtkQvxG/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-plaza-premium-lounge-at-toronto-pearson-international-airport",
+    "cardName": "Plaza Premium Lounge at Toronto Pearson International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/YYZ/plaza-premium-lounge-terminal-1-domestic-SIEG1zAF9z/",
+    "discoveredAt": "2026-11-15T10:49:13.160Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Plaza Premium Lounge at Toronto Pearson International Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/YYZ/plaza-premium-lounge-terminal-1-domestic-SIEG1zAF9z/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-pm-svanidhi-rupay-credit-card",
     "cardName": "PM SVANidhi RuPay Credit Card",
     "issuerName": "ICICI Bank",

@@ -1,5 +1,1121 @@
 [
   {
+    "id": "icici-bank-icici-bank-emeralde-credit-card",
+    "cardName": "ICICI Bank Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/article/news-icici-bank-launches-new-superpremium-credit-card-emeralde-with-host-of-exclusive-features-annual-benefits-estimated-to-be-around-rs-3-lakh-20192802121546057",
+    "status": "Active",
+    "detectedAt": "2026-11-15T10:55:03.847Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders. For lounge list,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Monthly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 4 complimentary Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Get 4 Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "removed",
+        "text": "Shopping voucher from TATA CLiQ worth ₹5,000 (American Express Cardholders)"
+      },
+      {
+        "type": "added",
+        "text": "Shopping voucher from TATA CLiQ worth ₹5,000 American Express Cardholders"
+      },
+      {
+        "type": "context",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Voucher from PostCard Hotels worth ₹5,000 for Mastercard Cardholders"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GET OTP"
+      },
+      {
+        "type": "context",
+        "text": "RESEND OTP in 1:00"
+      },
+      {
+        "type": "added",
+        "text": "FX services"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added FX services and updated golf benefit wording."
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-purchase-card",
+    "cardName": "ICICI Bank Purchase Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/commercial-cards/purchase-card.html",
+    "status": "Active",
+    "detectedAt": "2026-11-15T10:55:03.845Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Additional Product Information Pages"
+      },
+      {
+        "type": "context",
+        "text": "Additional Product Information Pages"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "added",
+        "text": "FX services"
+      },
+      {
+        "type": "context",
+        "text": "Fees and charges"
+      },
+      {
+        "type": "context",
+        "text": "Career Opportunities"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-emeralde-credit-card",
+    "cardName": "Emeralde Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-15T10:55:03.838Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders. For lounge list,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Monthly"
+      },
+      {
+        "type": "removed",
+        "text": "Get 4 complimentary Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "added",
+        "text": "Get 4 Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
+      },
+      {
+        "type": "context",
+        "text": "Monthly"
+      },
+      {
+        "type": "context",
+        "text": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
+      },
+      {
+        "type": "context",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "removed",
+        "text": "Shopping voucher from TATA CLiQ worth ₹5,000 (American Express Cardholders)"
+      },
+      {
+        "type": "added",
+        "text": "Shopping voucher from TATA CLiQ worth ₹5,000 American Express Cardholders"
+      },
+      {
+        "type": "context",
+        "text": "Birthday Benefit"
+      },
+      {
+        "type": "context",
+        "text": "Voucher from PostCard Hotels worth ₹5,000 for Mastercard Cardholders"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GET OTP"
+      },
+      {
+        "type": "context",
+        "text": "RESEND OTP in 1:00"
+      },
+      {
+        "type": "added",
+        "text": "FX services"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added FX services and updated golf rounds benefit wording for primary cardholders."
+    }
+  },
+  {
+    "id": "canara-bank-rupay-select-credit-card",
+    "cardName": "Rupay Select Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
+    "status": "Active",
+    "detectedAt": "2026-11-15T10:52:33.357Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "|"
+      },
+      {
+        "type": "context",
+        "text": "Insurance Grievance Redressal"
+      },
+      {
+        "type": "added",
+        "text": "MDR on UPI Transactions"
+      },
+      {
+        "type": "context",
+        "text": "MDR on RuPay Credit Card Transactions through UPI"
+      },
+      {
+        "type": "context",
+        "text": "Canara Bank Investor/Analyst Interaction Calendar"
+      },
+      {
+        "type": "context",
+        "text": "Member Banks Information Hub"
+      },
+      {
+        "type": "context",
+        "text": "Exchange Rates"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services"
+      },
+      {
+        "type": "context",
+        "text": "X (Twitter)"
+      },
+      {
+        "type": "context",
+        "text": "Rupay Select Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Application (Hindi)"
+      },
+      {
+        "type": "context",
+        "text": "BUSINESS AROUND"
+      },
+      {
+        "type": "removed",
+        "text": "Learning & Development Vertical's Inter Bank Training Initiatives"
+      },
+      {
+        "type": "context",
+        "text": "DOORSTEP BANKING"
+      },
+      {
+        "type": "context",
+        "text": "SERVICES"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added MDR fee on UPI transactions"
+    }
+  },
+  {
+    "id": "amex-american-express-corporate-green-card",
+    "cardName": "American Express® Corporate Green Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/business/corporate-card/green-corporate-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-15T10:50:59.760Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Green-Corporate-Card | American Express"
+      },
+      {
+        "type": "added",
+        "text": "Travel Top Links"
+      },
+      {
+        "type": "added",
+        "text": "Book Travel"
+      },
+      {
+        "type": "added",
+        "text": "Book Fine Hotels + Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Book The Hotel Collection"
+      },
+      {
+        "type": "added",
+        "text": "Book International Airline Program"
+      },
+      {
+        "type": "added",
+        "text": "Manage My Bookings"
+      },
+      {
+        "type": "added",
+        "text": "Travel Top Links Book Travel"
+      },
+      {
+        "type": "added",
+        "text": "Book Fine Hotels + Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Book The Hotel Collection"
+      },
+      {
+        "type": "added",
+        "text": "Book International Airline Program"
+      },
+      {
+        "type": "added",
+        "text": "Manage My Bookings"
+      },
+      {
+        "type": "added",
+        "text": "Travel Services Travel Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Book Travel"
+      },
+      {
+        "type": "added",
+        "text": "Book Fine Hotels + Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Book The Hotel Collection"
+      },
+      {
+        "type": "added",
+        "text": "Book International Airline Program"
+      },
+      {
+        "type": "added",
+        "text": "Manage My Bookings"
+      },
+      {
+        "type": "context",
+        "text": "Business Home"
+      },
+      {
+        "type": "context",
+        "text": "/"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Express Cash Facility"
+      },
+      {
+        "type": "context",
+        "text": "Use the Corporate Card to access cash from ATMs globally, subject to written authorisation by your Company."
+      },
+      {
+        "type": "removed",
+        "text": "If your Card is lost, stolen or damaged, simply report to us and we’ll replace it within 48 hours at no extra cost. Your liability will be ‘nil’ if you report within 3 working days. In case you are unable to register a report within 3 working days, your liability will be limited to a maximum of ₹1,000."
+      },
+      {
+        "type": "added",
+        "text": "Card Replacement"
+      },
+      {
+        "type": "added",
+        "text": "If your Corporate Card is lost, damaged or stolen, please report it immediately on 1800-419-1222 (Toll-Free) or 0124-673 6999. When calling from overseas:+91-0124-673 6999. Once notified, American Express will issue you a replacement Card within 7-10 working days"
+      },
+      {
+        "type": "context",
+        "text": "End-to-End Program Manager Servicing"
+      },
+      {
+        "type": "context",
+        "text": "Personalised service through dedicated Relationship Managers and Program Administrator Helpline service."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Replacement processing time extended from 48 hours to 7-10 working days."
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-reservesm-credit-card",
+    "cardName": "American Express® Platinum ReserveSM Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-reserve-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-15T10:50:59.759Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 1 Membership Rewards® Point for every 2 Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale 2 ."
+      },
+      {
+        "type": "context",
+        "text": "Fee Waiver"
+      },
+      {
+        "type": "removed",
+        "text": "The Annual Membership Renewal fee of Rs.10,000 will be 100% waived off if total spends on American Express Platinum Reserve Credit Card in the immediately preceding membership year is Rs.10,00,000 8 and above"
+      },
+      {
+        "type": "added",
+        "text": "The Annual Membership Renewal fee of Rs.10,000 will be 100% waived off if total spends on American Express Platinum Reserve SM Credit Card in the immediately preceding membership year 10 is Rs.10,00,000 8 and above"
+      },
+      {
+        "type": "context",
+        "text": "MOVIE OR ONLINE SHOPPING VOUCHERS"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy movie or online shopping vouchers 6 worth Rs.12,000 8 per year on spending Rs. 50,000 every month, click here to enroll 9"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "8. Eligible spends do not include cash advances, express cash transaction, draft made from the account, balance transfer, fees and is net of any returns."
+      },
+      {
+        "type": "context",
+        "text": "9. Enrolment in the monthly milestone benefit will be temporarily unavailable from 11 to 18 November 2026."
+      },
+      {
+        "type": "added",
+        "text": "10. For details on the Annual Membership Renewal fee waiver, please click here ."
+      },
+      {
+        "type": "context",
+        "text": "American Express® Platinum Travel Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Gift of 10,000 * Membership Rewards points"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added a link for details on the Annual Membership Renewal fee waiver."
+    }
+  },
+  {
+    "id": "amex-american-express-membership-rewards-credit-card",
+    "cardName": "American Express Membership Rewards® Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/membership-rewards-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressMembershipRewards",
+    "status": "Active",
+    "detectedAt": "2026-11-15T10:50:59.759Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 1 Membership Rewards® Point for every 2 Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale 2 ."
+      },
+      {
+        "type": "context",
+        "text": "Fee Waiver"
+      },
+      {
+        "type": "removed",
+        "text": "The Annual Membership Renewal fee of Rs.4500 will be 100% waived off if total spends on American Express Credit Card in the immediately preceding membership year is Rs.1,50,000 and above; else 50% annual membership renewal fee will be waived off if total spends on American Express Credit Card in the immediately preceding membership year is Rs.90,000 to Rs.1,49,999."
+      },
+      {
+        "type": "added",
+        "text": "The Annual Membership Renewal fee of Rs.4500 will be 100% waived off if total spends on American Express Credit Card in the immediately preceding membership year 6 is Rs.1,50,000 and above."
+      },
+      {
+        "type": "context",
+        "text": "BONUS MEMBERSHIP REWARDS POINTS"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1,000 Bonus Membership Rewards Points for simply using your card 4 times on transactions of Rs. 1,500 or above in a calendar month."
+      },
+      {
+        "type": "context",
+        "text": "Monthly Spend Milestone"
+      },
+      {
+        "type": "removed",
+        "text": "Earn an additional 1,000 Membership Rewards points simply by spending INR 20,000 or more in a calendar month. This is an enrollment based benefit. Click here to enroll"
+      },
+      {
+        "type": "added",
+        "text": "Earn an additional 1,000 Membership Rewards points simply by spending INR 20,000 or more in a calendar month. This is an enrollment based benefit. Login to Mobile App or MYCA to enroll."
+      },
+      {
+        "type": "context",
+        "text": "Enrolment in the monthly milestone benefit will be temporarily unavailable from 11 to 18 November 2026."
+      },
+      {
+        "type": "context",
+        "text": "ADDITIONAL REWARDS ON CARD RENEWAL"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "2. You will not earn Membership Rewards Points on your American Express Card for all your spending on fuel, insurance and utility (electricity, water and gas bills) payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs). Utility services includes providers of household/domestic electricity, gas and water. These providers can be government departments and agencies including local, state, municipal organizations, public housing societies and apartment associations."
+      },
+      {
+        "type": "context",
+        "text": "Effective March 15, 2020, you will not earn Membership Rewards Points on any EMI option selected from a merchant’s website e.g. online shopping with Amazon or Flipkart etc. and on any EMI option selected at Merchant’s terminal e.g. a Chip and PIN transaction at Croma retail store etc. At the same time, you will continue to earn Membership Rewards Points on all EMI transactions through American Express® SafeKey and on all EMI conversions done post purchase."
+      },
+      {
+        "type": "added",
+        "text": "Click here for Membership Rewards Points related terms and conditions."
+      },
+      {
+        "type": "context",
+        "text": "3. 0% Convenience fee on fuel purchase at HPCL for transactions less than Rs. 5,000 and 1% Convenience fee on fuel purchases per transaction is applicable for all transactions of Rs. 5,000 and above"
+      },
+      {
+        "type": "context",
+        "text": "4. For latest options available under Gold collection please check here ."
+      },
+      {
+        "type": "context",
+        "text": "5. If a Card Member receives a 100% annual membership fee waiver, then Card Member will not be eligible for the 5,000 Membership Rewards® Points first-year renewal benefit, as that renewal benefit is applicable upon payment of the annual membership fee."
+      },
+      {
+        "type": "added",
+        "text": "6. For details on the Annual Membership fee waiver, please click here ."
+      },
+      {
+        "type": "context",
+        "text": "Welcome Gift 1  of 4,000 Bonus Membership Rewards ®  Points"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1,000 bonus points on 6 transactions of ₹1,000 or more every calendar month"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Annual Membership Renewal fee waiver now applies only for spend of Rs.1,50,000+ in the preceding year"
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-travel-credit-card",
+    "cardName": "American Express® Platinum Travel Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-travel-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-15T10:50:59.759Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 1 Membership Rewards Point for every 2 ₹ 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale 2 ."
+      },
+      {
+        "type": "context",
+        "text": "You earn Milestone Bonus Membership Rewards ® Points on the following Milestones as defined below:"
+      },
+      {
+        "type": "removed",
+        "text": "Spending 9 ₹15,000 within 90 days of Card Membership entitles you to a Welcome Gift1 of 10,000 Membership Rewards ® points."
+      },
+      {
+        "type": "removed",
+        "text": "Reaching spend 9 threshold of ₹ 4 Lakhs entitles you to 10,000 Membership Rewards ® points that can be redeemed on Platinum Travel Collection ."
+      },
+      {
+        "type": "added",
+        "text": "Spending 9 ₹15,000 within 90 days of Card Membership entitles you to a Welcome Gift 1 of 10,000 Membership Rewards ® points."
+      },
+      {
+        "type": "added",
+        "text": "Reaching spend 9 threshold of ₹ 4 Lakhs entitles you to 10,000 Membership Rewards ® points that can be redeemed on Platinum Travel Collection or Pay with Points when booking online through the Digital Travel Booking platform 10 ."
+      },
+      {
+        "type": "context",
+        "text": "Reaching the spend 9 threshold of ₹ 7 Lakhs in a Card Membership year entitles you to a Taj Stay voucher 3 worth ₹20,000 from Taj, SeleQtions, and Vivanta Hotels * ."
+      },
+      {
+        "type": "context",
+        "text": "That’s not all. You can continue to earn Membership Rewards ® points on all your spending 2 with the American Express ® Platinum Travel Credit Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "8. 0% Convenience fee on fuel purchase at HPCL for transactions less than Rs. 5,000 and 1% Convenience fee on fuel purchases per transaction is applicable for all transactions of Rs. 5,000 and above."
+      },
+      {
+        "type": "context",
+        "text": "9. Eligible spends do not include cash advances, express cash transaction, draft made from the account, balance transfer, fees and is net of any returns."
+      },
+      {
+        "type": "added",
+        "text": "10. Travel Services are delivered and serviced digitally by Aspire Lifestyles India Pvt. Ltd."
+      },
+      {
+        "type": "context",
+        "text": "* Membership Rewards points received on spend milestones are a combination of threshold Membership Rewards points and Bonus Membership Rewards points. You will get your threshold Membership Rewards points once you achieve the spend milestones. Bonus Membership Rewards points will be issued automatically after 9 March 2026; however, for annual milestones achieved prior to 9 March 2026, you can claim your Bonus Membership Rewards points by calling or chatting with us using the number on the back of your Card."
+      },
+      {
+        "type": "context",
+        "text": "Welcome Gift 1  of 4,000 Bonus Membership Rewards ®  Points"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Added new redemption option for points and introduced digital travel services."
+    }
+  },
+  {
+    "id": "amex-american-express-smartearn-credit-card",
+    "cardName": "American Express SmartEarn™ Credit Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/smart-earn-credit-card/",
+    "status": "Discontinued",
+    "detectedAt": "2026-11-15T10:50:59.759Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "SmartEarn™ Credit Card | American Express India"
+      },
+      {
+        "type": "added",
+        "text": "Travel Top Links"
+      },
+      {
+        "type": "added",
+        "text": "Book Travel"
+      },
+      {
+        "type": "added",
+        "text": "Book Fine Hotels + Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Book The Hotel Collection"
+      },
+      {
+        "type": "added",
+        "text": "Book International Airline Program"
+      },
+      {
+        "type": "added",
+        "text": "Manage My Bookings"
+      },
+      {
+        "type": "added",
+        "text": "Travel Top Links Book Travel"
+      },
+      {
+        "type": "added",
+        "text": "Book Fine Hotels + Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Book The Hotel Collection"
+      },
+      {
+        "type": "added",
+        "text": "Book International Airline Program"
+      },
+      {
+        "type": "added",
+        "text": "Manage My Bookings"
+      },
+      {
+        "type": "added",
+        "text": "Travel Services Travel Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Book Travel"
+      },
+      {
+        "type": "added",
+        "text": "Book Fine Hotels + Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Book The Hotel Collection"
+      },
+      {
+        "type": "added",
+        "text": "Book International Airline Program"
+      },
+      {
+        "type": "added",
+        "text": "Manage My Bookings"
+      },
+      {
+        "type": "context",
+        "text": "View all Cards American Express SmartEarn™ Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Rs. 500 cashback as a Welcome Gift in form of statement credit on eligible spends 1 of Rs. 10,000 in the first 90 days of Cardmembership"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn Accelerated Membership Rewards ® points 2 when you spend on Amazon, Flipkart, Uber, BookMyShow, Zomato, EaseMyTrip and many more."
+      },
+      {
+        "type": "context",
+        "text": "Fee Waiver"
+      },
+      {
+        "type": "removed",
+        "text": "Get a renewal fee waiver on eligible spends 3 of Rs.40,000 and above in the previous year of Cardmembership"
+      },
+      {
+        "type": "added",
+        "text": "Get a renewal fee waiver 7 on eligible spends 3 of Rs.40,000 and above in the previous year of Cardmembership"
+      },
+      {
+        "type": "context",
+        "text": "Accelerated Earn Rate"
+      },
+      {
+        "type": "context",
+        "text": "Earn Accelerated Membership Rewards ® points 2 when you spend on Amazon, Flipkart, Uber, BookMyShow, Zomato, EaseMyTrip and many more."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn vouchers worth ₹500 upon reaching the spend milestones of ₹1.20 lacs, ₹1.80 lacs, and ₹2.40 lacs respectively in a Cardmembership year."
+      },
+      {
+        "type": "context",
+        "text": "Renewal Fee Waiver"
+      },
+      {
+        "type": "removed",
+        "text": "Get a renewal fee waiver on eligible spends 3 of Rs.40,000 and above in the previous year of Cardmembership"
+      },
+      {
+        "type": "added",
+        "text": "Get a renewal fee waiver 7 on eligible spends 3 of Rs.40,000 and above in the previous year of Cardmembership"
+      },
+      {
+        "type": "context",
+        "text": "AMERICAN EXPRESS EMI"
+      },
+      {
+        "type": "context",
+        "text": "Convert purchases into EMI at the point of sale with an interest rate as low as 14% p.a."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "5. Cardmember liability is nil if American Express receives the report within 3 working days of the fraud. If the fraud is reported beyond 3 working days then the maximum liability of the customer will be limited to Rs. 1,000. For further details, please refer MITC."
+      },
+      {
+        "type": "context",
+        "text": "6. For Gift voucher benefit Terms and Conditions,  Click here."
+      },
+      {
+        "type": "added",
+        "text": "7. For details on the Annual Membership fee waiver, please click here"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Gift 1  of 4,000 Bonus Membership Rewards ®  Points"
+      },
+      {
+        "type": "context",
+        "text": "Earn 1,000 bonus points on 6 transactions of ₹1,000 or more every calendar month"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    },
+    "summaryVerification": {
+      "status": "unverified",
+      "candidateSummary": "Renewal fee waiver changed to 7 on eligible spends of Rs.40,000 and above"
+    }
+  },
+  {
+    "id": "amex-american-express-platinum-card",
+    "cardName": "American Express® Platinum Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
+    "status": "Active",
+    "detectedAt": "2026-11-15T10:50:59.757Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Platinum Charge Card| American Express India"
+      },
+      {
+        "type": "added",
+        "text": "Travel Top Links"
+      },
+      {
+        "type": "added",
+        "text": "Book Travel"
+      },
+      {
+        "type": "added",
+        "text": "Book Fine Hotels + Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Book The Hotel Collection"
+      },
+      {
+        "type": "added",
+        "text": "Book International Airline Program"
+      },
+      {
+        "type": "added",
+        "text": "Manage My Bookings"
+      },
+      {
+        "type": "added",
+        "text": "Travel Top Links Book Travel"
+      },
+      {
+        "type": "added",
+        "text": "Book Fine Hotels + Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Book The Hotel Collection"
+      },
+      {
+        "type": "added",
+        "text": "Book International Airline Program"
+      },
+      {
+        "type": "added",
+        "text": "Manage My Bookings"
+      },
+      {
+        "type": "added",
+        "text": "Travel Services Travel Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Book Travel"
+      },
+      {
+        "type": "added",
+        "text": "Book Fine Hotels + Resorts"
+      },
+      {
+        "type": "added",
+        "text": "Book The Hotel Collection"
+      },
+      {
+        "type": "added",
+        "text": "Book International Airline Program"
+      },
+      {
+        "type": "added",
+        "text": "Manage My Bookings"
+      },
+      {
+        "type": "context",
+        "text": "The American Express ®"
+      },
+      {
+        "type": "context",
+        "text": "Platinum Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Benefits worth INR 44,300 * every time you book at one of the 1000+ properties at one of the 1000+ properties under the Fine Hotels & Resorts collection."
+      },
+      {
+        "type": "context",
+        "text": "The Hotel Collection offers you a world of luxurious comfort, which includes a US$100 experience credit and a room upgrade"
+      },
+      {
+        "type": "added",
+        "text": "To avail, please contact Travel and Lifestyle services * at 1800-410-7944"
+      },
+      {
+        "type": "added",
+        "text": "Travel & Lifestyle services are delivered and serviced by Aspire Lifestyles India Pvt. Ltd"
+      },
+      {
+        "type": "context",
+        "text": "We’re upgrading the technology that supports your American Express Account, effective 15 November 2026. Some services may be temporarily impacted during this period. To learn more about the changes, click here"
+      },
+      {
+        "type": "context",
+        "text": "STAY PROTECTED WITH EMERGENCY SERVICES AND INSURANCE."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Travel benefits for those constantly on the move"
+      },
+      {
+        "type": "context",
+        "text": "As a Platinum Cardmember, enjoy exclusive deals on some of the world’s finest airlines like Air India, Etihad, Qatar Airways, Virgin Atlantic, Air France, KLM, Lufthansa, United Airlines and more"
+      },
+      {
+        "type": "removed",
+        "text": "New hotel and flight bookings will be unavailable until 15 November, while Lifestyle Services will be unavailable from 9–14 November. Support for existing bookings will continue until 15 November, except on 1–2 November 2026."
+      },
+      {
+        "type": "added",
+        "text": "To avail, please contact Travel and Lifestyle services * at 1800-410-7944"
+      },
+      {
+        "type": "added",
+        "text": "Travel & Lifestyle services are delivered and serviced by Aspire Lifestyles India Pvt. Ltd"
+      },
+      {
+        "type": "context",
+        "text": "Unwind at FINE HOTELS & RESORTS worldwide"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy complimentary benefits worth INR 44,300 *  at iconic 5-star properties that include guaranteed 4pm late check-out, room upgrades at check in when available 5 , daily breakfast for two, WiFi or a special amenity * at each property worth US$100."
+      },
+      {
+        "type": "context",
+        "text": "The hotels included are The Ritz- Carlton, The Vanderbilt, Hyatt, Hilton and many more……"
+      },
+      {
+        "type": "context",
+        "text": "Explore more"
+      },
+      {
+        "type": "removed",
+        "text": "New hotel and flight bookings will be unavailable until 15 November, while Lifestyle Services will be unavailable from 9–14 November. Support for existing bookings will continue until 15 November, except on 1–2 November 2026."
+      },
+      {
+        "type": "added",
+        "text": "To avail, please contact Travel and Lifestyle services * at 1800-410-7944"
+      },
+      {
+        "type": "added",
+        "text": "Travel & Lifestyle services are delivered and serviced by Aspire Lifestyles India Pvt. Ltd"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy seamless upgrades to Elite Tier Memberships"
+      },
+      {
+        "type": "context",
+        "text": "Your American Express Platinum Card fast-tracks you to the higher tiers of leading hotel loyalty programs around the world, without having to fulfil the usual qualifying criteria."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Whether you are struggling for last minute reservations, need assistance with your visas or simply forgot to send flowers to your spouse on your anniversary, with the powerful backing of American Express, you can stay assured."
+      },
+      {
+        "type": "context",
+        "text": "Our team is there to put it all together for you 24X7"
+      },
+      {
+        "type": "added",
+        "text": "To avail, please contact Travel and Lifestyle services * at 1800-410-7944"
+      },
+      {
+        "type": "added",
+        "text": "Travel & Lifestyle services are delivered and serviced by Aspire Lifestyles India Pvt. Ltd"
+      },
+      {
+        "type": "context",
+        "text": "Travel the world in peace knowing we have your back"
+      },
+      {
+        "type": "context",
+        "text": "Get Coverage of INR 5 Cr for death due to air accident, if your air ticket is bought on the Platinum Card. #"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Whether you are struggling for last minute reservations, need assistance with your visas or simply forgot to send flowers to your spouse on your anniversary, with the powerful backing of American Express, you can stay assured."
+      },
+      {
+        "type": "context",
+        "text": "Our team is there to put it all together for you 24X7"
+      },
+      {
+        "type": "added",
+        "text": "To avail, please contact Travel and Lifestyle services * at 1800-410-7944"
+      },
+      {
+        "type": "added",
+        "text": "Travel & Lifestyle services are delivered and serviced by Aspire Lifestyles India Pvt. Ltd"
+      },
+      {
+        "type": "context",
+        "text": "The Rewards are yours to enjoy!"
+      },
+      {
+        "type": "context",
+        "text": "Get 3X Membership Reward points on everything, every time you spend abroad."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "I understand American Express Cards are currently issued to residents of Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Kolkata, Indore, Coimbatore, Chandigarh/Tricity, Ahmedabad, Surat, Vadodra, Bhopal, Bhubaneshwar, Ernakulam, Vijaywada, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum , Mysuru , Cuttack & Vizag  subject to conditions"
+      },
+      {
+        "type": "context",
+        "text": "The American Express ® Platinum Card"
+      },
+      {
+        "type": "removed",
+        "text": "1 You will receive the welcome gift within 6-8 weeks of payment of annual fee and upon net spends of INR 50,000 in first 2 months of Cardmembership. You will receive the welcome gift on completion of INR 50,000 spends on basic card and payment of annual fee. The cardmember will have option to choose from vouchers of their choice from catalogue"
+      },
+      {
+        "type": "added",
+        "text": "1 The Card Member will become eligible for the Welcome Gift upon completing the required spend within 60 days from the account opening date . You will receive the welcome gift on completion of INR 50,000 spends on basic card and payment of annual fee. The cardmember will have option to choose from vouchers of their choice from catalogue"
+      },
+      {
+        "type": "context",
+        "text": "* Please refer to Terms and Condition. Please click here"
+      },
+      {
+        "type": "context",
+        "text": "# Maximum of one claim can be filed in a year • Please note that your claims will be settled once you are back in India • Limit of 7 days per trip • Maximum 5 trips in a year • Hospitalisation should be for a minimum of 24 hours • Pre existing injuries/illness excluded • Maximum age 60 years deductible of US$ 100 per claim • ‘Only hospitalisation cover’.• Insurance underwritten by ICICI Lombard General Insurance Company Ltd. and is a subject matter of solicitation. American Express Platinum Card is only the mode of payment for this service. American Express does not take responsibility for the quality of service provided by the partner and is not liable for any direct, indirect, incidental, special, punitive, exemplary or consequential damages of any kind."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-hpcl-super-saver-credit-card",
     "cardName": "HPCL Super Saver Credit Card",
     "issuerName": "ICICI Bank",
@@ -1850,190 +2966,6 @@
     }
   },
   {
-    "id": "amex-american-express-platinum-reservesm-credit-card",
-    "cardName": "American Express® Platinum ReserveSM Credit Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-reserve-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-11-10T11:09:22.533Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "The Annual Membership Renewal fee of Rs.10,000 will be 100% waived off if total spends on American Express Platinum Reserve Credit Card in the immediately preceding membership year is Rs.10,00,000 8 and above"
-      },
-      {
-        "type": "context",
-        "text": "MOVIE OR ONLINE SHOPPING VOUCHERS"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy movie or online shopping vouchers 6 worth Rs.12,000 8 per year on spending Rs. 50,000 every month, click here to enroll"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy movie or online shopping vouchers 6 worth Rs.12,000 8 per year on spending Rs. 50,000 every month, click here to enroll 9"
-      },
-      {
-        "type": "context",
-        "text": "Lifestyle Access"
-      },
-      {
-        "type": "context",
-        "text": "Add luxury to your lifestyle with complimentary ALL Accor+ Explorer, Taj Epicure and EazyDiner Prime membership"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "7. Effective September 1, 2023, access to domestic “The Centurion ® American Express Lounges” in Delhi and Mumbai on your American Express Platinum Reserve Credit Card is being discontinued."
-      },
-      {
-        "type": "context",
-        "text": "8. Eligible spends do not include cash advances, express cash transaction, draft made from the account, balance transfer, fees and is net of any returns."
-      },
-      {
-        "type": "added",
-        "text": "9. Enrolment in the monthly milestone benefit will be temporarily unavailable from 11 to 18 November 2026."
-      },
-      {
-        "type": "context",
-        "text": "American Express® Platinum Travel Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Welcome Gift of 10,000 * Membership Rewards points"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "amex-american-express-membership-rewards-credit-card",
-    "cardName": "American Express Membership Rewards® Credit Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/membership-rewards-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressMembershipRewards",
-    "status": "Active",
-    "detectedAt": "2026-11-10T11:09:22.532Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Monthly Spend Milestone"
-      },
-      {
-        "type": "context",
-        "text": "Earn an additional 1,000 Membership Rewards points simply by spending INR 20,000 or more in a calendar month. This is an enrollment based benefit. Click here to enroll"
-      },
-      {
-        "type": "added",
-        "text": "Enrolment in the monthly milestone benefit will be temporarily unavailable from 11 to 18 November 2026."
-      },
-      {
-        "type": "context",
-        "text": "ADDITIONAL REWARDS ON CARD RENEWAL"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 5,000 Membership Rewards Points upon First Year Card Renewal, on payment of annual membership fee. Points to be credited within 90 days of Card renewal"
-      },
-      {
-        "type": "added",
-        "text": "Earn 5,000 Membership Rewards Points upon First Year Card Renewal 5 , on payment of annual membership fee. Points to be credited within 90 days of Card renewal"
-      },
-      {
-        "type": "context",
-        "text": "AMERICAN EXPRESS EMI"
-      },
-      {
-        "type": "context",
-        "text": "Split the payment and not the joy. Use your American Express Credit Card for your next big purchase & pay in EMI"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Dispute Resolution"
-      },
-      {
-        "type": "context",
-        "text": "Zero lost Card liability"
-      },
-      {
-        "type": "added",
-        "text": "Card Replacement"
-      },
-      {
-        "type": "context",
-        "text": "Your American Express Card may be enabled for contactless payments. To see if your Card is contactless, look for the contactless symbol network on the front and back of your Card."
-      },
-      {
-        "type": "context",
-        "text": "I/We confirm that I / supplementary card applicant/s is a Resident Indian as defined under the Income Tax Act of India and hereby declare that I/We will notify American Express Banking Corp. if there is a change in the residential status."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Welcome Gift 1 of 4,000 Bonus Membership Rewards® Points"
-      },
-      {
-        "type": "context",
-        "text": "1. Welcome Gift of 4,000 Membership Rewards Points will be applicable on payment of joining fee and on spending INR 15,000 within first 90 days of Cardmembership."
-      },
-      {
-        "type": "removed",
-        "text": "2.You will not earn Membership Rewards Points on your American Express Card for all your spending on fuel, insurance and utility (electricity, water and gas bills) payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs). Utility services includes providers of household/domestic electricity, gas and water. These providers can be government departments and agencies including local, state, municipal organizations, public housing societies and apartment associations."
-      },
-      {
-        "type": "added",
-        "text": "2. You will not earn Membership Rewards Points on your American Express Card for all your spending on fuel, insurance and utility (electricity, water and gas bills) payments. Fuel includes petrol, diesel, CNG from Oil Marketing Companies (OMCs). Utility services includes providers of household/domestic electricity, gas and water. These providers can be government departments and agencies including local, state, municipal organizations, public housing societies and apartment associations."
-      },
-      {
-        "type": "context",
-        "text": "Effective March 15, 2020, you will not earn Membership Rewards Points on any EMI option selected from a merchant’s website e.g. online shopping with Amazon or Flipkart etc. and on any EMI option selected at Merchant’s terminal e.g. a Chip and PIN transaction at Croma retail store etc. At the same time, you will continue to earn Membership Rewards Points on all EMI transactions through American Express® SafeKey and on all EMI conversions done post purchase."
-      },
-      {
-        "type": "context",
-        "text": "3. 0% Convenience fee on fuel purchase at HPCL for transactions less than Rs. 5,000 and 1% Convenience fee on fuel purchases per transaction is applicable for all transactions of Rs. 5,000 and above"
-      },
-      {
-        "type": "context",
-        "text": "4. For latest options available under Gold collection please check here ."
-      },
-      {
-        "type": "added",
-        "text": "5. If a Card Member receives a 100% annual membership fee waiver, then Card Member will not be eligible for the 5,000 Membership Rewards® Points first-year renewal benefit, as that renewal benefit is applicable upon payment of the annual membership fee."
-      },
-      {
-        "type": "context",
-        "text": "Welcome Gift 1  of 4,000 Bonus Membership Rewards ®  Points"
-      },
-      {
-        "type": "context",
-        "text": "Earn 1,000 bonus points on 6 transactions of ₹1,000 or more every calendar month"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added clause that a 100% annual fee waiver disqualifies the first‑year renewal points benefit."
-    }
-  },
-  {
     "id": "idfc-first-bank-first-power",
     "cardName": "FIRST Power+",
     "issuerName": "IDFC First Bank",
@@ -3399,262 +4331,6 @@
         "description": "https://preview.redd.it/50e67znkg3qh1.png?width=497&amp;format=png&amp;auto=webp&amp;s=ace72827dd27baa093ab78d61767943fa0e86c96 I’m applying for the Kotak League Platinum credit card as my first credit card. I’m a salaried employee working "
       },
       "via": "reddit"
-    }
-  },
-  {
-    "id": "icici-bank-emeralde-credit-card",
-    "cardName": "Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-07T10:11:44.427Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "ICICI Bank Emeralde Credit Card - Experience Premium Privileges"
-      },
-      {
-        "type": "context",
-        "text": "Fees and Chargs"
-      },
-      {
-        "type": "added",
-        "text": "Col."
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Parakram Select Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Parakram Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Corporate Gold Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "ICICI Bank Corporate Platinum Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "ICICI Bank Business Micro Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Col."
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Apoorv Gupta"
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Platinum Credit Card is a true gem. The lifestyle benefits, including complimentary airport lounge access and travel vouchers."
-      },
-      {
-        "type": "added",
-        "text": "Want us to call you back?"
-      },
-      {
-        "type": "added",
-        "text": "Give us a few details for us to help you!"
-      },
-      {
-        "type": "added",
-        "text": "Are you an NRI?*"
-      },
-      {
-        "type": "added",
-        "text": "First Name*"
-      },
-      {
-        "type": "added",
-        "text": "Last Name*"
-      },
-      {
-        "type": "added",
-        "text": "Country*"
-      },
-      {
-        "type": "added",
-        "text": "Select your Country"
-      },
-      {
-        "type": "added",
-        "text": "close dropdown"
-      },
-      {
-        "type": "added",
-        "text": "Select your Country"
-      },
-      {
-        "type": "added",
-        "text": "Algeria"
-      },
-      {
-        "type": "added",
-        "text": "Andorra"
-      },
-      {
-        "type": "added",
-        "text": "Afghanistan"
-      },
-      {
-        "type": "added",
-        "text": "Antigua and Barbuda"
-      },
-      {
-        "type": "added",
-        "text": "Anguilla"
-      },
-      {
-        "type": "added",
-        "text": "Albania"
-      },
-      {
-        "type": "added",
-        "text": "Netherlands Antilles"
-      },
-      {
-        "type": "added",
-        "text": "Angola"
-      },
-      {
-        "type": "added",
-        "text": "Argentina"
-      },
-      {
-        "type": "added",
-        "text": "Aruba"
-      },
-      {
-        "type": "added",
-        "text": "American Samoa"
-      },
-      {
-        "type": "added",
-        "text": "Austria"
-      },
-      {
-        "type": "added",
-        "text": "Australia"
-      },
-      {
-        "type": "added",
-        "text": "Azerbaijan"
-      },
-      {
-        "type": "added",
-        "text": "{{! }}"
-      },
-      {
-        "type": "added",
-        "text": "Mobile Number*"
-      },
-      {
-        "type": "added",
-        "text": "+"
-      },
-      {
-        "type": "added",
-        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
-      },
-      {
-        "type": "added",
-        "text": "Email*"
-      },
-      {
-        "type": "added",
-        "text": "Product*"
-      },
-      {
-        "type": "added",
-        "text": "Select a Product"
-      },
-      {
-        "type": "added",
-        "text": "close dropdown"
-      },
-      {
-        "type": "added",
-        "text": "Select Product"
-      },
-      {
-        "type": "added",
-        "text": "NRI Home Loan"
-      },
-      {
-        "type": "added",
-        "text": "NRI Investment Loan"
-      },
-      {
-        "type": "added",
-        "text": "NRI Property Purchase Loan"
-      },
-      {
-        "type": "added",
-        "text": "NRI Land Loan"
-      },
-      {
-        "type": "added",
-        "text": "NRI Investment Home Loan"
-      },
-      {
-        "type": "added",
-        "text": "NRI Commercial Property Loan"
-      },
-      {
-        "type": "added",
-        "text": "Mobile Number*"
-      },
-      {
-        "type": "added",
-        "text": "Email ID*"
-      },
-      {
-        "type": "added",
-        "text": "Product Type"
-      },
-      {
-        "type": "added",
-        "text": "Pincode*"
-      },
-      {
-        "type": "added",
-        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
-      },
-      {
-        "type": "added",
-        "text": "Enter OTP"
-      },
-      {
-        "type": "added",
-        "text": "GET OTP"
-      },
-      {
-        "type": "added",
-        "text": "RESEND OTP in 1:00"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -5626,50 +6302,6 @@
     }
   },
   {
-    "id": "amex-american-express-platinum-travel-credit-card",
-    "cardName": "American Express® Platinum Travel Credit Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/platinum-travel-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-11-03T10:50:38.486Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Spending 9 ₹15,000 within 90 days of Card Membership entitles you to a Welcome Gift1 of 10,000 Membership Rewards ® points."
-      },
-      {
-        "type": "context",
-        "text": "Reaching spend 9 threshold of ₹ 4 Lakhs entitles you to 10,000 Membership Rewards ® points that can be redeemed on Platinum Travel Collection ."
-      },
-      {
-        "type": "removed",
-        "text": "Reaching the spend 9 threshold of ₹ 7 Lakhs in a Card Membership year entitles you to a Tay Stay voucher 3 worth ₹20,000 from Taj, SeleQtions, and Vivanta Hotels * ."
-      },
-      {
-        "type": "added",
-        "text": "Reaching the spend 9 threshold of ₹ 7 Lakhs in a Card Membership year entitles you to a Taj Stay voucher 3 worth ₹20,000 from Taj, SeleQtions, and Vivanta Hotels * ."
-      },
-      {
-        "type": "context",
-        "text": "That’s not all. You can continue to earn Membership Rewards ® points on all your spending 2 with the American Express ® Platinum Travel Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Beginning 3 May 2022, the Membership Rewards ® points that have been accrued onto your American Express Platinum Travel Credit Card will no longer expire till the Card is active and in good standing. In the event of Card cancellation, initiated either by Card Member or American Express, the Membership Rewards ® points will get forfeited within 30 days of the cancellation."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated the voucher name to Taj Stay voucher for the ₹20,000 benefit."
-    }
-  },
-  {
     "id": "indusind-bank-crest-credit-card",
     "cardName": "Crest Credit Card",
     "issuerName": "IndusInd Bank",
@@ -6866,374 +7498,6 @@
     }
   },
   {
-    "id": "icici-bank-icici-bank-emeralde-credit-card",
-    "cardName": "ICICI Bank Emeralde Credit Card",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/about-us/article/news-icici-bank-launches-new-superpremium-credit-card-emeralde-with-host-of-exclusive-features-annual-benefits-estimated-to-be-around-rs-3-lakh-20192802121546057",
-    "status": "Active",
-    "detectedAt": "2026-10-27T09:04:32.408Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "No cancellation charges on travel and hotel booking"
-      },
-      {
-        "type": "context",
-        "text": "Emeralde Credit Card: Maximum Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited access"
-      },
-      {
-        "type": "removed",
-        "text": "Get access to International airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "Unlimited access"
-      },
-      {
-        "type": "removed",
-        "text": "Get access to Domestic airport lounges for the Primary Cardholder, Click here for lounge list"
-      },
-      {
-        "type": "removed",
-        "text": "Up to 4 rounds"
-      },
-      {
-        "type": "removed",
-        "text": "Get complimentary golf rounds every month basis eligible spends,  Click here for list of Golf Courses"
-      },
-      {
-        "type": "removed",
-        "text": "Four times every month"
-      },
-      {
-        "type": "removed",
-        "text": "Buy one ticket and get up to ₹750 off on the second ticket through BookMyShow"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get Unlimited complimentary International airport lounge access for the Primary Cardholders. For lounge list,   Click here"
-      },
-      {
-        "type": "added",
-        "text": "Quarterly"
-      },
-      {
-        "type": "added",
-        "text": "Get Unlimited complimentary Domestic airport lounge access for the Primary Cardholders. For lounge list,  Click here"
-      },
-      {
-        "type": "added",
-        "text": "Monthly"
-      },
-      {
-        "type": "added",
-        "text": "Get 4 complimentary Golf rounds/lessons per month for primary cardholders. Earn 1 round for eligible spend of ₹50,000 in the preceding calendar month. For list of Golf Courses,  Click here"
-      },
-      {
-        "type": "added",
-        "text": "Monthly"
-      },
-      {
-        "type": "added",
-        "text": "Buy One Get One on BookMyShow up to ₹750 off four times a month, on eligible spendings of ₹25,000 or more in the preceding spends quarter"
-      },
-      {
-        "type": "context",
-        "text": "Birthday Benefit"
-      },
-      {
-        "type": "context",
-        "text": "Shopping voucher from TATA CLiQ worth ₹5,000 (American Express Cardholders)"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Up to ₹3 crore"
-      },
-      {
-        "type": "context",
-        "text": "Get an Air Accident Insurance cover."
-      },
-      {
-        "type": "removed",
-        "text": "Click here  to update your Nominee details. Click here for T&Cs"
-      },
-      {
-        "type": "added",
-        "text": "Click here  to update your Nominee details. For T&C’s     Click here"
-      },
-      {
-        "type": "context",
-        "text": "Earn and use points"
-      },
-      {
-        "type": "context",
-        "text": "4"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Spends period offer - eligibility period"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹25,000 between Dec 26, 2025 and Mar 25, 2026 - Get movie offer benefit between Apr 01, 2026 and June 30, 2026."
-      },
-      {
-        "type": "removed",
-        "text": "Customers with Credit Card on dual networks (Mastercard & Amex | Visa & RuPay) can avail one movie offer per month, per variant. Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  c lick he re ."
-      },
-      {
-        "type": "added",
-        "text": "Any additional bookings beyond the complimentary benefit will be charged as per the rates decided by the service provider. To book your movie ticket and for detailed terms & conditions, please  c lick he re ."
-      },
-      {
-        "type": "context",
-        "text": "Add-on/Plus card members need to individually spend ₹25,000 in the preceding spends quarter, to be eligible for the offer in the subsequent calendar quarter"
-      },
-      {
-        "type": "context",
-        "text": "Is there any cashback offer on American Express Credit Card variant while booking movie tickets on BookMyShow?"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Apoorv Gupta"
-      },
-      {
-        "type": "context",
-        "text": "The ICICI Bank Platinum Credit Card is a true gem. The lifestyle benefits, including complimentary airport lounge access and travel vouchers."
-      },
-      {
-        "type": "removed",
-        "text": "Feedback pop 1"
-      },
-      {
-        "type": "removed",
-        "text": "One"
-      },
-      {
-        "type": "removed",
-        "text": "May be later"
-      },
-      {
-        "type": "removed",
-        "text": "CTA"
-      },
-      {
-        "type": "removed",
-        "text": "Want us to call you back?"
-      },
-      {
-        "type": "removed",
-        "text": "Give us a few details for us to help you!"
-      },
-      {
-        "type": "removed",
-        "text": "Are you an NRI?*"
-      },
-      {
-        "type": "removed",
-        "text": "First Name*"
-      },
-      {
-        "type": "removed",
-        "text": "Last Name*"
-      },
-      {
-        "type": "removed",
-        "text": "Country*"
-      },
-      {
-        "type": "removed",
-        "text": "Select your Country"
-      },
-      {
-        "type": "removed",
-        "text": "close dropdown"
-      },
-      {
-        "type": "removed",
-        "text": "Select your Country"
-      },
-      {
-        "type": "removed",
-        "text": "Algeria"
-      },
-      {
-        "type": "removed",
-        "text": "Andorra"
-      },
-      {
-        "type": "removed",
-        "text": "Afghanistan"
-      },
-      {
-        "type": "removed",
-        "text": "Antigua and Barbuda"
-      },
-      {
-        "type": "removed",
-        "text": "Anguilla"
-      },
-      {
-        "type": "removed",
-        "text": "Albania"
-      },
-      {
-        "type": "removed",
-        "text": "Netherlands Antilles"
-      },
-      {
-        "type": "removed",
-        "text": "Angola"
-      },
-      {
-        "type": "removed",
-        "text": "Argentina"
-      },
-      {
-        "type": "removed",
-        "text": "Aruba"
-      },
-      {
-        "type": "removed",
-        "text": "American Samoa"
-      },
-      {
-        "type": "removed",
-        "text": "Austria"
-      },
-      {
-        "type": "removed",
-        "text": "Australia"
-      },
-      {
-        "type": "removed",
-        "text": "Azerbaijan"
-      },
-      {
-        "type": "removed",
-        "text": "{{! }}"
-      },
-      {
-        "type": "removed",
-        "text": "Mobile Number*"
-      },
-      {
-        "type": "removed",
-        "text": "+"
-      },
-      {
-        "type": "removed",
-        "text": "{{! Top wrapper is for storybook. Don't use in the component }}"
-      },
-      {
-        "type": "removed",
-        "text": "Email*"
-      },
-      {
-        "type": "removed",
-        "text": "Product*"
-      },
-      {
-        "type": "removed",
-        "text": "Select a Product"
-      },
-      {
-        "type": "removed",
-        "text": "close dropdown"
-      },
-      {
-        "type": "removed",
-        "text": "Select Product"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Home Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Investment Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Property Purchase Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Land Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Investment Home Loan"
-      },
-      {
-        "type": "removed",
-        "text": "NRI Commercial Property Loan"
-      },
-      {
-        "type": "removed",
-        "text": "Mobile Number*"
-      },
-      {
-        "type": "removed",
-        "text": "Email ID*"
-      },
-      {
-        "type": "removed",
-        "text": "Product Type"
-      },
-      {
-        "type": "removed",
-        "text": "Pincode*"
-      },
-      {
-        "type": "removed",
-        "text": "I agree that by clicking on ‘Submit’, I authorize ICICI Bank and its representatives to contact me using Telephone, WhatsApp, E-mail, Short Messaging Service (SMS) with respect to products/facilities hereby applied for."
-      },
-      {
-        "type": "removed",
-        "text": "Enter OTP"
-      },
-      {
-        "type": "removed",
-        "text": "GET OTP"
-      },
-      {
-        "type": "removed",
-        "text": "RESEND OTP in 1:00"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated lounge, golf, and BookMyShow benefits, and nominee link wording."
-    }
-  },
-  {
     "id": "icici-bank-adani-one-signature-credit-card",
     "cardName": "Adani One Signature Credit Card",
     "issuerName": "ICICI Bank",
@@ -7359,70 +7623,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Removed elderly care assist benefit."
-    }
-  },
-  {
-    "id": "amex-american-express-platinum-card",
-    "cardName": "American Express® Platinum Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/charge-cards/platinum-card/?linknav=in-amex-cardshop-details-browse-AmericanExpressPlatinum",
-    "status": "Active",
-    "detectedAt": "2026-10-22T08:36:15.642Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "25% off at Taj, SeleQtions and Vivanta Hotels *"
-      },
-      {
-        "type": "context",
-        "text": "50% off on Suites at Oberoi Hotels and Resorts *"
-      },
-      {
-        "type": "removed",
-        "text": "Additional complimentary * night when you book two or more nights for a club room or suite at The LaLiT in India and enjoy exclusive benefits"
-      },
-      {
-        "type": "context",
-        "text": "Access over 1550+ lounges of the finest Airport Lounges globally"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy access to free WiFi, gourmet cuisines and other exclusive services while you wait between flights in our lounges spread across 140+ countries"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "25% off at Taj, SeleQtions and Vivanta Hotels *"
-      },
-      {
-        "type": "context",
-        "text": "50% off on Suites at Oberoi Hotels and Resorts *"
-      },
-      {
-        "type": "removed",
-        "text": "Additional complimentary * night when you book two or more nights for a club room or suite at The LaLiT in India and enjoy exclusive benefits"
-      },
-      {
-        "type": "context",
-        "text": "Access over 1550+ lounges of the finest Airport Lounges globally"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy access to free WiFi, gourmet cuisines and other exclusive services while you wait between flights in our lounges spread across 140+ countries"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Removed the complimentary night benefit for booking two or more nights at The LaLiT club rooms or suites."
     }
   },
   {
@@ -7763,46 +7963,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added MDR benefit on RuPay Credit Card Transactions through UPI"
-    }
-  },
-  {
-    "id": "canara-bank-rupay-select-credit-card",
-    "cardName": "Rupay Select Credit Card",
-    "issuerName": "Canara Bank",
-    "issuerSlug": "canara-bank",
-    "officialUrl": "https://canarabank.com/",
-    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
-    "status": "Active",
-    "detectedAt": "2026-10-17T07:50:17.785Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Insurance Grievance Redressal"
-      },
-      {
-        "type": "context",
-        "text": "MDR on UPI Transactions"
-      },
-      {
-        "type": "added",
-        "text": "MDR on RuPay Credit Card Transactions through UPI"
-      },
-      {
-        "type": "context",
-        "text": "Canara Bank Investor/Analyst Interaction Calendar"
-      },
-      {
-        "type": "context",
-        "text": "Member Banks Information Hub"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added MDR fee for RuPay Credit Card transactions via UPI"
     }
   },
   {
@@ -19579,50 +19739,6 @@
     }
   },
   {
-    "id": "amex-american-express-smartearn-credit-card",
-    "cardName": "American Express SmartEarn™ Credit Card",
-    "issuerName": "American Express (India)",
-    "issuerSlug": "amex",
-    "officialUrl": "https://www.americanexpress.com/en-in/",
-    "productPageUrl": "https://www.americanexpress.com/in/credit-cards/smart-earn-credit-card/",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-27T14:11:19.902Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "I have a current / permanent residential address in India"
-      },
-      {
-        "type": "context",
-        "text": "If self-employed: My company has been trading for more than 12 months"
-      },
-      {
-        "type": "added",
-        "text": "American Express SmartEarn™ Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Get cashback of Rs. 500 as a Welcome Gift on spending Rs. 10,000 1 in the first 90 days of Cardmembership"
-      },
-      {
-        "type": "context",
-        "text": "1.Eligible spends do not include cash advances, express cash transactions, drafts made from the Account, balance transfers and fees. Statement Credit will be given within 10 working days of completion of eligible spends."
-      },
-      {
-        "type": "context",
-        "text": "Welcome Gift is available only in the 1st year on payment of the annual fee and on spending INR 10,000 within 90 days of Cardmembership."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a Rs.500 welcome cashback for spending Rs.10,000 within 90 days"
-    }
-  },
-  {
     "id": "rbl-bank-rbl-bank-shoppers-stop-black-credit-card",
     "cardName": "RBL Bank Shoppers Stop Black Credit Card",
     "issuerName": "RBL Bank",
@@ -20333,170 +20449,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Card is now marked as discontinued."
-    }
-  },
-  {
-    "id": "indusind-bank-intermiles-voyage-visa-credit-card",
-    "cardName": "InterMiles Voyage Visa Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-voyage-visa-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-20T04:06:12.124Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Intermiles Voyage Visa Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Swipe as you fly across the globe for exciting benefits and rewards."
-      },
-      {
-        "type": "removed",
-        "text": "Intermiles Voyage Visa Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Intermiles Voyage Visa Credit Card (Discontinued)"
-      },
-      {
-        "type": "context",
-        "text": "IndusInd Bank InterMiles Voyage Credit Card comes with whole lot of features and benefits !"
-      },
-      {
-        "type": "context",
-        "text": "Our exclusive range of Credit Cards offer an exceptional reward structure in the form of InterMiles on every spend."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Earn 2X InterMiles on flight, Amazon spends via intermiles.com & Hotel spends on interbook.intermiles.com"
-      },
-      {
-        "type": "context",
-        "text": "*T&C apply"
-      },
-      {
-        "type": "removed",
-        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on priority.care@indusind.com or call us on 1860 267 7777."
-      },
-      {
-        "type": "added",
-        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on premium.care@indusind.com or call us on 1860 267 7777."
-      },
-      {
-        "type": "context",
-        "text": "Accrual of InterMiles"
-      },
-      {
-        "type": "context",
-        "text": "Reward points will be earned in the form of InterMiles."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Card now marked as discontinued."
-    }
-  },
-  {
-    "id": "indusind-bank-intermiles-odyssey-visa-credit-card",
-    "cardName": "InterMiles Odyssey Visa Credit Card",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/intermiles-odyssey-visa-credit-card.html",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-20T04:06:12.123Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "InterMiles Odyssey Visa Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Welcome to the world of privileges"
-      },
-      {
-        "type": "removed",
-        "text": "InterMiles Odyssey Visa Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "InterMiles Odyssey Visa Credit Card (Discontinued)"
-      },
-      {
-        "type": "context",
-        "text": "IndusInd Bank InterMiles Odyssey Credit Card comes with whole lot of features and benefits !"
-      },
-      {
-        "type": "context",
-        "text": "Our exclusive range of Credit Cards offer an exceptional reward structure in the form of InterMiles on every spend."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Up to 4 InterMiles on every Rs. 100 spent*"
-      },
-      {
-        "type": "context",
-        "text": "Earn 2X InterMiles on flight, Amazon spends via intermiles.com & Hotel spends on interbook.intermiles.com"
-      },
-      {
-        "type": "removed",
-        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on priority.care@indusind.com or call us on 1860 267 7777."
-      },
-      {
-        "type": "added",
-        "text": "Disclaimer: Dear Customer, we have discontinued this product for new sourcing as well as the existing credit cards and same is only displayed as a reference for existing IndusInd Bank InterMiles Credit Card holders. For any assistance or query, Please write to us on premium.care@indusind.com or call us on 1860 267 7777."
-      },
-      {
-        "type": "context",
-        "text": "Accrual of InterMiles"
-      },
-      {
-        "type": "context",
-        "text": "Reward points will be earned in the form of InterMiles."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "JPPL comprises of a bunch of young, passionate and driven individuals that obsess about its customers. We're constantly thinking of newer ways to delight them, to bring them new experiences and unforgettable moments. Perhaps it is this obsession that has led us to create a programme in InterMiles  that empowers and rewards our members for all their travel and lifestyle needs."
-      },
-      {
-        "type": "context",
-        "text": "As we at JPPL look to strengthen and develop the InterMiles programme, be rest assured that our transformation, in no way, affects the Miles accrued by you and the Miles balance in your account. You will continue to earn or redeem InterMiles. What has changed is just the name of your miles, not the way you earn or use it."
-      },
-      {
-        "type": "removed",
-        "text": "InterMiles Voyage Amex Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "InterMiles Voyage Amex Credit Card (Discontinued)"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Card now marked as discontinued, indicating it is no longer available for new issuance."
     }
   }
 ]

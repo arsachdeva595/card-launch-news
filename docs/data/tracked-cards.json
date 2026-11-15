@@ -5262,5 +5262,37 @@
     "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/pm-svanidhi-rupay-credit-card",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "The Centurion Lounge at Hong Kong International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/HKG/the-centurion-lounge-terminal-1-iPvFFfgoeE/",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "The Centurion Lounge at John F. Kennedy International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/JFK/the-centurion-lounge-terminal-4-ErTeaB28Ky/",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "The Oasis Lounge at Murtala Muhammed International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/LOS/----iR4UtkQvxG/",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Plaza Premium Lounge at Toronto Pearson International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/YYZ/plaza-premium-lounge-terminal-1-domestic-SIEG1zAF9z/",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "id": "amex-plaza-premium-lounge-at-dubai-international-airport",
+    "cardName": "Plaza Premium Lounge at Dubai International Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/DXB/plaza-premium-lounge-terminal-3-concourse-a-2zCUnOp08P/",
+    "discoveredAt": "2026-11-16T11:11:46.572Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Plaza Premium Lounge at Dubai International Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/DXB/plaza-premium-lounge-terminal-3-concourse-a-2zCUnOp08P/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-erste-premier-lounge-at-prague-vaclav-havel-airport",
+    "cardName": "Erste Premier Lounge at Prague Vaclav Havel Airport",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/PRG/Mastercard-Lounge-Terminal-1-AVKYgS4hKC/",
+    "discoveredAt": "2026-11-16T11:11:46.572Z",
+    "lastmod": null,
+    "announcement": {
+      "title": "Erste Premier Lounge at Prague Vaclav Havel Airport",
+      "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/PRG/Mastercard-Lounge-Terminal-1-AVKYgS4hKC/",
+      "description": "Official product page on American Express (India)'s site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "amex-the-centurion-lounge-at-hong-kong-international-airport",
     "cardName": "The Centurion Lounge at Hong Kong International Airport",
     "issuerName": "American Express (India)",

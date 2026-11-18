@@ -1,5 +1,2949 @@
 [
   {
+    "id": "sbi-card-sbi-corporate-virtual-card",
+    "cardName": "SBI Corporate Virtual Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/corporate-virtual-card/virtual-card.page",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:50:18.483Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Rewards Home"
+      },
+      {
+        "type": "context",
+        "text": "Know your Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Redeeming Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Apply"
+      },
+      {
+        "type": "added",
+        "text": "Help me find a card"
+      },
+      {
+        "type": "added",
+        "text": "Track my Application"
+      },
+      {
+        "type": "added",
+        "text": "Retrieve my Application"
+      },
+      {
+        "type": "added",
+        "text": "©2026"
+      },
+      {
+        "type": "added",
+        "text": "Do Not Disturb"
+      },
+      {
+        "type": "added",
+        "text": "Offer Terms & Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Security"
+      },
+      {
+        "type": "added",
+        "text": "Sitemap"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer"
+      },
+      {
+        "type": "added",
+        "text": "Fair Practice Code"
+      },
+      {
+        "type": "added",
+        "text": "Privacy Policy/Notice"
+      },
+      {
+        "type": "added",
+        "text": "PoSH Policy"
+      },
+      {
+        "type": "added",
+        "text": "Usage Agreement"
+      },
+      {
+        "type": "added",
+        "text": "Customer Grievance Redressal Policy"
+      },
+      {
+        "type": "added",
+        "text": "Policy for the issuance and conduct of credit cards"
+      },
+      {
+        "type": "added",
+        "text": "\"SBI Cards and Payment Services Limited” was formerly known as “SBI Cards and Payment Services Private Limited\""
+      },
+      {
+        "type": "added",
+        "text": "Site best viewed in browsers I.E 11+, Mozilla 3.5+, Chrome 3.0+, Safari 5.0+ on all desktops, laptops, and Android & iOS mobile/tablet devices"
+      },
+      {
+        "type": "added",
+        "text": "x You are being re-directed to a third party site. Please acknowledge the disclaimer before proceeding further."
+      },
+      {
+        "type": "added",
+        "text": "You are about to access a site, the accuracy or completeness of the materials or the reliability of any advice, opinion, statement or other information displayed or distributed through it, is not warranted by SBICPSL and shall be solely be construed to be set forth by the third party."
+      },
+      {
+        "type": "added",
+        "text": "You will access this site solely for the payment of your bills and you acknowledge that any reliance on any opinion, advice, statement, memorandum, or information available on the site shall be at your sole risk and consequences."
+      },
+      {
+        "type": "added",
+        "text": "SBICPSL and its affiliates, subsidiaries, employees, officers, directors and agents, expressly disclaim any liability for any deficiency in the services of the service provider whose site you are about to access. Neither SBICPSL nor any of its affiliates nor their directors, officers and employees will be liable to or have any responsibility of any kind for any loss that you incur in the event of any deficiency in the services of the service provider, failure or disruption of the site of the service provider, or resulting from the act or omission of any other party involved in making this site or the data contained therein available to you, or from any other cause relating to your access to, inability to access, or use of the site or these materials in accordance thereto SBICSPL and all its related parties described hereinabove stand indemnified from all proceedings or matters arising thereto."
+      },
+      {
+        "type": "added",
+        "text": "Proceed Cancel"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "sbi-card-sbi-corporate-purchase-card",
+    "cardName": "SBI Corporate Purchase Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/corporate-purchase-cards/sbi-corporate-purchase-card.page",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:50:18.482Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Who We Are"
+      },
+      {
+        "type": "context",
+        "text": "Get In Touch"
+      },
+      {
+        "type": "removed",
+        "text": "Customized Solution"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Web Servicing"
+      },
+      {
+        "type": "removed",
+        "text": "Digital On-Boarding"
+      },
+      {
+        "type": "removed",
+        "text": "Business Expertise"
+      },
+      {
+        "type": "removed",
+        "text": "Global Acceptance"
+      },
+      {
+        "type": "removed",
+        "text": "Technology Innovation"
+      },
+      {
+        "type": "removed",
+        "text": "Security & Control"
+      },
+      {
+        "type": "removed",
+        "text": "Best in Class Servicing"
+      },
+      {
+        "type": "removed",
+        "text": "Solutions for You"
+      },
+      {
+        "type": "removed",
+        "text": "Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Central Travel Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Utility Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Purchase Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Virtual Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Enquire"
+      },
+      {
+        "type": "removed",
+        "text": "Track Application"
+      },
+      {
+        "type": "removed",
+        "text": "©2026"
+      },
+      {
+        "type": "removed",
+        "text": "Do Not Disturb"
+      },
+      {
+        "type": "removed",
+        "text": "Offer Terms & Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "Security"
+      },
+      {
+        "type": "removed",
+        "text": "Sitemap"
+      },
+      {
+        "type": "removed",
+        "text": "Disclaimer"
+      },
+      {
+        "type": "removed",
+        "text": "Fair Practice Code"
+      },
+      {
+        "type": "removed",
+        "text": "Privacy Policy/Notice"
+      },
+      {
+        "type": "removed",
+        "text": "PoSH Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Usage Agreement"
+      },
+      {
+        "type": "removed",
+        "text": "Customer Grievance Redressal Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Policy for the issuance and conduct of credit cards"
+      },
+      {
+        "type": "removed",
+        "text": "\"SBI Cards and Payment Services Limited” was formerly known as “SBI Cards and Payment Services Private Limited\""
+      },
+      {
+        "type": "removed",
+        "text": "Site best viewed in browsers I.E 11+, Mozilla 3.5+, Chrome 3.0+, Safari 5.0+ on all desktops, laptops, and Android & iOS mobile/tablet devices"
+      },
+      {
+        "type": "removed",
+        "text": "x You are being re-directed to a third party site. Please acknowledge the disclaimer before proceeding further."
+      },
+      {
+        "type": "removed",
+        "text": "You are about to access a site, the accuracy or completeness of the materials or the reliability of any advice, opinion, statement or other information displayed or distributed through it, is not warranted by SBICPSL and shall be solely be construed to be set forth by the third party."
+      },
+      {
+        "type": "removed",
+        "text": "You will access this site solely for the payment of your bills and you acknowledge that any reliance on any opinion, advice, statement, memorandum, or information available on the site shall be at your sole risk and consequences."
+      },
+      {
+        "type": "removed",
+        "text": "SBICPSL and its affiliates, subsidiaries, employees, officers, directors and agents, expressly disclaim any liability for any deficiency in the services of the service provider whose site you are about to access. Neither SBICPSL nor any of its affiliates nor their directors, officers and employees will be liable to or have any responsibility of any kind for any loss that you incur in the event of any deficiency in the services of the service provider, failure or disruption of the site of the service provider, or resulting from the act or omission of any other party involved in making this site or the data contained therein available to you, or from any other cause relating to your access to, inability to access, or use of the site or these materials in accordance thereto SBICSPL and all its related parties described hereinabove stand indemnified from all proceedings or matters arising thereto."
+      },
+      {
+        "type": "removed",
+        "text": "Proceed Cancel"
+      },
+      {
+        "type": "added",
+        "text": "Lifestyle"
+      },
+      {
+        "type": "added",
+        "text": "Reward"
+      },
+      {
+        "type": "added",
+        "text": "Shopping"
+      },
+      {
+        "type": "added",
+        "text": "Travel & Fuel"
+      },
+      {
+        "type": "added",
+        "text": "Banking Partnership"
+      },
+      {
+        "type": "added",
+        "text": "Business"
+      },
+      {
+        "type": "added",
+        "text": "Digitized Membership Kit"
+      },
+      {
+        "type": "added",
+        "text": "Lower Interest Option"
+      },
+      {
+        "type": "added",
+        "text": "Encash"
+      },
+      {
+        "type": "added",
+        "text": "Money Simplified"
+      },
+      {
+        "type": "added",
+        "text": "Utility Bill Payment"
+      },
+      {
+        "type": "added",
+        "text": "Easy Access Channels"
+      },
+      {
+        "type": "added",
+        "text": "Other benefits"
+      },
+      {
+        "type": "added",
+        "text": "Contactless Payments"
+      },
+      {
+        "type": "added",
+        "text": "Pay"
+      },
+      {
+        "type": "added",
+        "text": "Pay Online"
+      },
+      {
+        "type": "added",
+        "text": "Pay Offline"
+      },
+      {
+        "type": "added",
+        "text": "All offers"
+      },
+      {
+        "type": "added",
+        "text": "Offers this week"
+      },
+      {
+        "type": "added",
+        "text": "Convert to EMI"
+      },
+      {
+        "type": "added",
+        "text": "Know your Reward Points"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "sbi-card-sbi-corporate-utility-card",
+    "cardName": "SBI Corporate Utility Card",
+    "issuerName": "SBI Card",
+    "issuerSlug": "sbi-card",
+    "officialUrl": "https://www.sbicard.com/",
+    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/utility-cards/sbi-corporate-utility-card.page",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:50:18.481Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Rewards Home"
+      },
+      {
+        "type": "context",
+        "text": "Know your Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Redeeming Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "Apply"
+      },
+      {
+        "type": "added",
+        "text": "Help me find a card"
+      },
+      {
+        "type": "added",
+        "text": "Track my Application"
+      },
+      {
+        "type": "added",
+        "text": "Retrieve my Application"
+      },
+      {
+        "type": "added",
+        "text": "©2026"
+      },
+      {
+        "type": "added",
+        "text": "Do Not Disturb"
+      },
+      {
+        "type": "added",
+        "text": "Offer Terms & Conditions"
+      },
+      {
+        "type": "added",
+        "text": "Security"
+      },
+      {
+        "type": "added",
+        "text": "Sitemap"
+      },
+      {
+        "type": "added",
+        "text": "Disclaimer"
+      },
+      {
+        "type": "added",
+        "text": "Fair Practice Code"
+      },
+      {
+        "type": "added",
+        "text": "Privacy Policy/Notice"
+      },
+      {
+        "type": "added",
+        "text": "PoSH Policy"
+      },
+      {
+        "type": "added",
+        "text": "Usage Agreement"
+      },
+      {
+        "type": "added",
+        "text": "Customer Grievance Redressal Policy"
+      },
+      {
+        "type": "added",
+        "text": "Policy for the issuance and conduct of credit cards"
+      },
+      {
+        "type": "added",
+        "text": "\"SBI Cards and Payment Services Limited” was formerly known as “SBI Cards and Payment Services Private Limited\""
+      },
+      {
+        "type": "added",
+        "text": "Site best viewed in browsers I.E 11+, Mozilla 3.5+, Chrome 3.0+, Safari 5.0+ on all desktops, laptops, and Android & iOS mobile/tablet devices"
+      },
+      {
+        "type": "added",
+        "text": "x You are being re-directed to a third party site. Please acknowledge the disclaimer before proceeding further."
+      },
+      {
+        "type": "added",
+        "text": "You are about to access a site, the accuracy or completeness of the materials or the reliability of any advice, opinion, statement or other information displayed or distributed through it, is not warranted by SBICPSL and shall be solely be construed to be set forth by the third party."
+      },
+      {
+        "type": "added",
+        "text": "You will access this site solely for the payment of your bills and you acknowledge that any reliance on any opinion, advice, statement, memorandum, or information available on the site shall be at your sole risk and consequences."
+      },
+      {
+        "type": "added",
+        "text": "SBICPSL and its affiliates, subsidiaries, employees, officers, directors and agents, expressly disclaim any liability for any deficiency in the services of the service provider whose site you are about to access. Neither SBICPSL nor any of its affiliates nor their directors, officers and employees will be liable to or have any responsibility of any kind for any loss that you incur in the event of any deficiency in the services of the service provider, failure or disruption of the site of the service provider, or resulting from the act or omission of any other party involved in making this site or the data contained therein available to you, or from any other cause relating to your access to, inability to access, or use of the site or these materials in accordance thereto SBICSPL and all its related parties described hereinabove stand indemnified from all proceedings or matters arising thereto."
+      },
+      {
+        "type": "added",
+        "text": "Proceed Cancel"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-apply-for-airport-lounge-access-credit-card",
+    "cardName": "Apply for Airport Lounge Access Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/airport-lounge-access",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:46:18.430Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "International Lounge"
+      },
+      {
+        "type": "context",
+        "text": "Domestic Lounge"
+      },
+      {
+        "type": "removed",
+        "text": "Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Emeralde Private Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Outstanding luxury rewards"
+      },
+      {
+        "type": "removed",
+        "text": "Exclusive Rewards | Epicure Plus Membership | EaseMyTrip Travel Vouchers"
+      },
+      {
+        "type": "removed",
+        "text": "Emeralde Private Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Taj Epicure Membership"
+      },
+      {
+        "type": "removed",
+        "text": "EazyDiner Prime Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Airport Lounge access"
+      },
+      {
+        "type": "context",
+        "text": "Exclusive Rewards"
+      },
+      {
+        "type": "context",
+        "text": "Times Black"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Need a credit card for business?"
+      },
+      {
+        "type": "context",
+        "text": "View"
+      },
+      {
+        "type": "removed",
+        "text": "Emeralde Private Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Outstanding luxury rewards"
+      },
+      {
+        "type": "removed",
+        "text": "Exclusive Rewards | Epicure Plus Membership | EaseMyTrip Travel Vouchers"
+      },
+      {
+        "type": "removed",
+        "text": "Emeralde Private Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Taj Epicure Membership"
+      },
+      {
+        "type": "removed",
+        "text": "EazyDiner Prime Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Airport Lounge access"
+      },
+      {
+        "type": "context",
+        "text": "Explore all cards"
+      },
+      {
+        "type": "context",
+        "text": "Need a credit card for business?"
+      },
+      {
+        "type": "context",
+        "text": "View"
+      },
+      {
+        "type": "removed",
+        "text": "Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Emeralde Private Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Outstanding luxury rewards"
+      },
+      {
+        "type": "removed",
+        "text": "Exclusive Rewards | Epicure Plus Membership | EaseMyTrip Travel Vouchers"
+      },
+      {
+        "type": "removed",
+        "text": "Emeralde Private Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Taj Epicure Membership"
+      },
+      {
+        "type": "removed",
+        "text": "EazyDiner Prime Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Airport Lounge access"
+      },
+      {
+        "type": "context",
+        "text": "Exclusive Rewards"
+      },
+      {
+        "type": "context",
+        "text": "Times Black"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Looking for a Business Debit card?"
+      },
+      {
+        "type": "context",
+        "text": "VIEW"
+      },
+      {
+        "type": "removed",
+        "text": "Emeralde Private Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Outstanding luxury rewards"
+      },
+      {
+        "type": "removed",
+        "text": "Exclusive Rewards | Epicure Plus Membership | EaseMyTrip Travel Vouchers"
+      },
+      {
+        "type": "removed",
+        "text": "Emeralde Private Metal"
+      },
+      {
+        "type": "removed",
+        "text": "Taj Epicure Membership"
+      },
+      {
+        "type": "removed",
+        "text": "EazyDiner Prime Membership"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited Airport Lounge access"
+      },
+      {
+        "type": "context",
+        "text": "View All Cards"
+      },
+      {
+        "type": "context",
+        "text": "EXPLORE ALL CARDS"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-adani-one-icici-bank-launch-india-s-first-credit-cards-with-airport",
+    "cardName": "Adani One, ICICI Bank launch India’s first credit cards with airport",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/article/adani-one-icici-bank-launch-india-first-credit-cards-with-airport-linked-benefits",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:46:18.428Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "About ICICI Bank"
+      },
+      {
+        "type": "context",
+        "text": "ICICI Bank Ltd (BSE: ICICIBANK, NSE: ICICIBANK and NYSE:IBN) is a leading private sector bank in India. The Bank’s total assets stood at ₹ 18,71,515 crore at March 31, 2024."
+      },
+      {
+        "type": "removed",
+        "text": "For news and updates, visit  www.icici.bank.in  and follow ICICI Bank on X at  www.twitter.com/ICICIBank ."
+      },
+      {
+        "type": "added",
+        "text": "For news and updates, visit  www.icicibank.com  and follow ICICI Bank on X at  www.twitter.com/ICICIBank ."
+      },
+      {
+        "type": "context",
+        "text": "For media inquiries, please contact  corporate.communications&#64;icicibank.com"
+      },
+      {
+        "type": "context",
+        "text": "About Visa"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-icici-bank-and-makemytrip-launch-a-co",
+    "cardName": "ICICI Bank and MakeMyTrip launch a co",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/about-us/article/icici-bank-and-makemytrip-launch-a-co-branded-credit-card-for-travel-enthusiasts",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:46:18.428Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "To know more about the card, please visit: /personal-banking/cards/credit-card/travel-mmt/makemytrip-icici-credit-card"
+      },
+      {
+        "type": "context",
+        "text": "To apply for the card, please visit the MakeMyTrip mobile application."
+      },
+      {
+        "type": "removed",
+        "text": "For news and updates, visit www.icici.bank.in  and follow us on X at www.twitter.com/ICICIBank"
+      },
+      {
+        "type": "added",
+        "text": "For news and updates, visit www.icicibank.com  and follow us on X at www.twitter.com/ICICIBank"
+      },
+      {
+        "type": "context",
+        "text": "For media queries, write to: corporate.communications&#64;icicibank.com"
+      },
+      {
+        "type": "context",
+        "text": "About ICICI Bank:  ICICI Bank Ltd (BSE: ICICIBANK, NSE: ICICIBANK and NYSE:IBN) is a leading private sector bank in India. The Bank’s total assets stood at ₹ 18,92,697 crore at June 30, 2024."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-manchester-united-signature-credit-card",
+    "cardName": "Manchester United Signature Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/manchester-signature-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:46:18.418Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank - Personal, Business, Corporate and NRI Banking Online"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services"
+      },
+      {
+        "type": "context",
+        "text": "accounts"
+      },
+      {
+        "type": "context",
+        "text": "accounts"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Go to Previous Offers"
+      },
+      {
+        "type": "context",
+        "text": "Go to Next Offers"
+      },
+      {
+        "type": "removed",
+        "text": "Festive shopping"
+      },
+      {
+        "type": "removed",
+        "text": "just got better"
+      },
+      {
+        "type": "removed",
+        "text": "Get ICICI Bank Credit Card & enjoy offers from top brands"
+      },
+      {
+        "type": "removed",
+        "text": "Check eligibility"
+      },
+      {
+        "type": "removed",
+        "text": "Check eligibility"
+      },
+      {
+        "type": "added",
+        "text": "Home upgrades,"
+      },
+      {
+        "type": "added",
+        "text": "healthcare, holidays"
+      },
+      {
+        "type": "added",
+        "text": "A Personal Loan with a 100% digital process, is all you need"
+      },
+      {
+        "type": "context",
+        "text": "Previous Banner"
+      },
+      {
+        "type": "context",
+        "text": "Pause"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-manchester-united-platinum-credit-card",
+    "cardName": "Manchester United Platinum Credit Card",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/cards/credit-card/manchester-platinum-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:46:18.418Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "ICICI Bank - Personal, Business, Corporate and NRI Banking Online"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services"
+      },
+      {
+        "type": "context",
+        "text": "accounts"
+      },
+      {
+        "type": "context",
+        "text": "accounts"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Go to Previous Offers"
+      },
+      {
+        "type": "context",
+        "text": "Go to Next Offers"
+      },
+      {
+        "type": "removed",
+        "text": "Festive shopping"
+      },
+      {
+        "type": "removed",
+        "text": "just got better"
+      },
+      {
+        "type": "removed",
+        "text": "Get ICICI Bank Credit Card & enjoy offers from top brands"
+      },
+      {
+        "type": "removed",
+        "text": "Check eligibility"
+      },
+      {
+        "type": "removed",
+        "text": "Check eligibility"
+      },
+      {
+        "type": "added",
+        "text": "Home upgrades,"
+      },
+      {
+        "type": "added",
+        "text": "healthcare, holidays"
+      },
+      {
+        "type": "added",
+        "text": "A Personal Loan with a 100% digital process, is all you need"
+      },
+      {
+        "type": "context",
+        "text": "Previous Banner"
+      },
+      {
+        "type": "context",
+        "text": "Pause"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-paytm-business-credit-card",
+    "cardName": "Paytm Business Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/paytm-business-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:45:08.684Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Paytm Business Credit Card Online & Enjoy Offers | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 8"
+      },
+      {
+        "type": "removed",
+        "text": "Kids 2"
+      },
+      {
+        "type": "removed",
+        "text": "Others 13"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Paytm Business Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Earn CashPoints on Every Spend"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Your Credit Card will be closed and cannot be used further as per the regulations. Request you to contact us to apply for a new Credit Card in future."
+      },
+      {
+        "type": "context",
+        "text": "Click here to read more frequently asked questions."
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-hdfc-bank-upi-rupay-credit-card",
+    "cardName": "HDFC Bank UPI RuPay Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/hdfc-bank-upi-rupay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:45:08.674Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for RuPay UPI Credit Card - Get Cashpoints on Spends |HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 8"
+      },
+      {
+        "type": "removed",
+        "text": "Kids 2"
+      },
+      {
+        "type": "removed",
+        "text": "Others 13"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Seamless UPI payments with a virtual card"
+      },
+      {
+        "type": "context",
+        "text": "Earn CashPoints on your UPI spends"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "How many CashPoints will be earned if a cardholder spends through SmartBuy?"
+      },
+      {
+        "type": "context",
+        "text": "Spends done through SmartBuy shall not be eligible for CashPoints"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-diners-privilege-credit-card-old-url",
+    "cardName": "Diners Privilege Credit Card (old URL)",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-privilege-old-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:45:08.666Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Diners Privilege Credit Card Online – Credit Cards | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Popular 8"
+      },
+      {
+        "type": "context",
+        "text": "Kids 2"
+      },
+      {
+        "type": "added",
+        "text": "Others 13"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Diners Privilege Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "'Buy One Get One' On BookMyShow"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Welcome vouchers"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-diners-privilege-credit-card",
+    "cardName": "Diners Privilege Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-privilege-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:45:08.648Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Diners Privilege Credit Card Online – Credit Cards | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Popular 8"
+      },
+      {
+        "type": "context",
+        "text": "Kids 2"
+      },
+      {
+        "type": "added",
+        "text": "Others 13"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Diners Privilege Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "'Buy One Get One' On BookMyShow"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Welcome vouchers"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "added",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-swiggy-hdfc-bank-credit-card",
+    "cardName": "Swiggy HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/swiggy-hdfc-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:45:08.645Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Swiggy Credit Card - Get Cashbacks on Swiggy App | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 8"
+      },
+      {
+        "type": "context",
+        "text": "Kids 2"
+      },
+      {
+        "type": "removed",
+        "text": "Others 13"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "The Bank has started a phased transition of existing Swiggy HDFC Bank Credit Card holders to either Swiggy Ornge or Swiggy BLCK variants. Until then, customers will continue enjoying benefits on their current card."
+      },
+      {
+        "type": "context",
+        "text": "For further information, please  click here"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Cashback"
+      },
+      {
+        "type": "context",
+        "text": "Contactless Payment"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-radware-captcha-page",
+    "cardName": "Radware Captcha Page",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.898Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 48cdb30f-e42i-44dc-9898-d6129e6ce57a"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 8dde4a4b-e42i-4c24-ac42-76645821359f"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:08 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:44:04 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-wave-credit-card",
+    "cardName": "Rupay Wave Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 0dda050a-e42i-49e9-a5ad-75aadfc5cd3e"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: c64461ba-e42i-4508-b187-f0b40c22e984"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:06 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:44:03 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-signet-credit-card",
+    "cardName": "Visa Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: d38608fa-e42i-478c-8acc-ab0f89175cb8"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 7d66e860-e42i-49a8-b931-4f5493fc6de7"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:02 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:43:58 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-visa-credit-card",
+    "cardName": "Fed StarBiz Visa Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: ecbe86ef-e42i-49e5-9440-ee375b07edb3"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: d8a679a6-e42i-4b8a-b5be-47b25cfb6c59"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:03 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:43:59 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-signet-credit-card",
+    "cardName": "Mastercard Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: e4b42458-e42i-4219-89e7-c57a933f178d"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 908032a1-e42i-46ea-ad12-75235138bb57"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:05 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:44:01 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-celesta-credit-card",
+    "cardName": "Mastercard Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: f72fc333-e42i-4d6d-b786-d5ad00b25e0b"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 432f8a9d-e42i-4aa9-a68a-2e948a242a0c"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:03 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:44:00 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-signet-credit-card",
+    "cardName": "Rupay Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 7e3e2d77-e42i-4469-8f52-6d5ab9597601"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 93e28da4-e42i-4fc5-8ccb-66bd17006801"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:06 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:44:02 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-rupay-credit-card",
+    "cardName": "Fed StarBiz RuPay Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 7f618ed3-e42i-4b17-af47-f972d2069eaf"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 5bbd8e1e-e42i-4a28-98cd-a2dbc5f0445d"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:07 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:44:04 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-celesta-credit-card",
+    "cardName": "Visa Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 7dd7f51f-e42i-43f7-a96b-c821e1022e39"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 4fa332a7-e42i-4250-b2a8-632ee7b863d1"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:00 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:43:57 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-imperio-credit-card",
+    "cardName": "Mastercard Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 99aa9f1f-e42i-4fbf-a42c-8dea3c0c47ca"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 2fcb4019-e42i-4287-b6a9-d6f5cac18d13"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:04 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:44:01 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-imperio-credit-card",
+    "cardName": "Visa Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:44:04.897Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: ecaf43b3-e42i-42ed-8fde-c2fc0b93dcd4"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 701b6c20-e42i-4758-b348-5f6573432ce0"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 17 2026, 11:51:01 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 18 2026, 11:43:58 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "canara-bank-mastercard-gold-secured-credit-card",
+    "cardName": "Mastercard Gold Secured Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/mastercard-gold-secured-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:43:26.067Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "|"
+      },
+      {
+        "type": "context",
+        "text": "Insurance Grievance Redressal"
+      },
+      {
+        "type": "removed",
+        "text": "MDR on UPI Transactions"
+      },
+      {
+        "type": "context",
+        "text": "MDR on RuPay Credit Card Transactions through UPI"
+      },
+      {
+        "type": "context",
+        "text": "Canara Bank Investor/Analyst Interaction Calendar"
+      },
+      {
+        "type": "context",
+        "text": "Member Banks Information Hub"
+      },
+      {
+        "type": "context",
+        "text": "Exchange Rates"
+      },
+      {
+        "type": "added",
+        "text": "FX Services"
+      },
+      {
+        "type": "added",
+        "text": "FX Services"
+      },
+      {
+        "type": "context",
+        "text": "X (Twitter)"
+      },
+      {
+        "type": "context",
+        "text": "Mastercard gold secured credit card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Application (Hindi) (.pdf - 110.4 KB)"
+      },
+      {
+        "type": "context",
+        "text": "BUSINESS AROUND"
+      },
+      {
+        "type": "added",
+        "text": "Learning & Development Vertical's Inter Bank Training Initiatives"
+      },
+      {
+        "type": "context",
+        "text": "DOORSTEP BANKING"
+      },
+      {
+        "type": "context",
+        "text": "SERVICES"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "canara-bank-rupay-select-credit-card",
+    "cardName": "Rupay Select Credit Card",
+    "issuerName": "Canara Bank",
+    "issuerSlug": "canara-bank",
+    "officialUrl": "https://canarabank.com/",
+    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:43:26.065Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "|"
+      },
+      {
+        "type": "context",
+        "text": "Insurance Grievance Redressal"
+      },
+      {
+        "type": "removed",
+        "text": "MDR on UPI Transactions"
+      },
+      {
+        "type": "context",
+        "text": "MDR on RuPay Credit Card Transactions through UPI"
+      },
+      {
+        "type": "context",
+        "text": "Canara Bank Investor/Analyst Interaction Calendar"
+      },
+      {
+        "type": "context",
+        "text": "Member Banks Information Hub"
+      },
+      {
+        "type": "context",
+        "text": "Exchange Rates"
+      },
+      {
+        "type": "added",
+        "text": "FX Services"
+      },
+      {
+        "type": "added",
+        "text": "FX Services"
+      },
+      {
+        "type": "context",
+        "text": "X (Twitter)"
+      },
+      {
+        "type": "context",
+        "text": "Rupay Select Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Application (Hindi)"
+      },
+      {
+        "type": "context",
+        "text": "BUSINESS AROUND"
+      },
+      {
+        "type": "added",
+        "text": "Learning & Development Vertical's Inter Bank Training Initiatives"
+      },
+      {
+        "type": "context",
+        "text": "DOORSTEP BANKING"
+      },
+      {
+        "type": "context",
+        "text": "SERVICES"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-business-supreme-visa",
+    "cardName": "Axis Bank Business Supreme Visa",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-visa-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:40:31.940Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Card Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "A Commercial credit card which is"
+      },
+      {
+        "type": "removed",
+        "text": "easy on your pocket Tailored options basis your needs!"
+      },
+      {
+        "type": "added",
+        "text": "A commercial credit card which is"
+      },
+      {
+        "type": "added",
+        "text": "easy on your pocket"
+      },
+      {
+        "type": "context",
+        "text": "Before applying for Axis Bank Business Supreme Credit Card &ndash; Visa please read the terms and conditions for Business Supreme Credit Card &ndash; Visa. You can apply for the Credit Card online or visit your nearest Axis Bank branch where our representatives will be happy to help you."
+      },
+      {
+        "type": "context",
+        "text": "Please click here to view the terms and conditions."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-platinum-credit-card",
+    "cardName": "Platinum Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:40:31.927Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Personal Banking | Internet Banking | Corporate, NRI Banking Services Online - Axis Bank"
+      },
+      {
+        "type": "removed",
+        "text": "open to your"
+      },
+      {
+        "type": "removed",
+        "text": "financial growth"
+      },
+      {
+        "type": "removed",
+        "text": "aspirations"
+      },
+      {
+        "type": "removed",
+        "text": "life goals"
+      },
+      {
+        "type": "removed",
+        "text": "progress"
+      },
+      {
+        "type": "removed",
+        "text": "learning"
+      },
+      {
+        "type": "removed",
+        "text": "financial growth"
+      },
+      {
+        "type": "removed",
+        "text": "accounts"
+      },
+      {
+        "type": "removed",
+        "text": "loans"
+      },
+      {
+        "type": "removed",
+        "text": "cards"
+      },
+      {
+        "type": "removed",
+        "text": "learn"
+      },
+      {
+        "type": "removed",
+        "text": "Digital Salary"
+      },
+      {
+        "type": "removed",
+        "text": "Salary Account"
+      },
+      {
+        "type": "removed",
+        "text": "Programs"
+      },
+      {
+        "type": "removed",
+        "text": "Current"
+      },
+      {
+        "type": "removed",
+        "text": "more"
+      },
+      {
+        "type": "removed",
+        "text": "accounts"
+      },
+      {
+        "type": "removed",
+        "text": "Safe Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "Locker"
+      },
+      {
+        "type": "removed",
+        "text": "PMJDY"
+      },
+      {
+        "type": "removed",
+        "text": "Safe"
+      },
+      {
+        "type": "removed",
+        "text": "Download Savings / Agri Account"
+      },
+      {
+        "type": "removed",
+        "text": "Statement"
+      },
+      {
+        "type": "removed",
+        "text": "Request Cheque Book"
+      },
+      {
+        "type": "removed",
+        "text": "Check"
+      },
+      {
+        "type": "removed",
+        "text": "Account Balance"
+      },
+      {
+        "type": "removed",
+        "text": "Calculate"
+      },
+      {
+        "type": "removed",
+        "text": "Returns"
+      },
+      {
+        "type": "removed",
+        "text": "Estimate how your savings can grow with a"
+      },
+      {
+        "type": "removed",
+        "text": "fixed deposit."
+      },
+      {
+        "type": "removed",
+        "text": "calculate"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Debit Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Commercial Credit"
+      },
+      {
+        "type": "removed",
+        "text": "Commercial Debit"
+      },
+      {
+        "type": "removed",
+        "text": "more"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Cards"
+      },
+      {
+        "type": "removed",
+        "text": "on FD"
+      },
+      {
+        "type": "removed",
+        "text": "Generate Debit Card PIN"
+      },
+      {
+        "type": "removed",
+        "text": "Block and Replace"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Bill"
+      },
+      {
+        "type": "removed",
+        "text": "Check your"
+      },
+      {
+        "type": "removed",
+        "text": "Score Instantly"
+      },
+      {
+        "type": "removed",
+        "text": "Know your credit"
+      },
+      {
+        "type": "removed",
+        "text": "health before applying for a credit"
+      },
+      {
+        "type": "removed",
+        "text": "card."
+      },
+      {
+        "type": "removed",
+        "text": "Check Score"
+      },
+      {
+        "type": "removed",
+        "text": "car loan"
+      },
+      {
+        "type": "removed",
+        "text": "24 x 7 Loan"
+      },
+      {
+        "type": "removed",
+        "text": "more"
+      },
+      {
+        "type": "removed",
+        "text": "Loan against"
+      },
+      {
+        "type": "removed",
+        "text": "Property"
+      },
+      {
+        "type": "removed",
+        "text": "Loan against"
+      },
+      {
+        "type": "removed",
+        "text": "Download Loan Statement"
+      },
+      {
+        "type": "removed",
+        "text": "View Repayment Schedule"
+      },
+      {
+        "type": "removed",
+        "text": "Pay Loan"
+      },
+      {
+        "type": "removed",
+        "text": "EMI /"
+      },
+      {
+        "type": "removed",
+        "text": "Overdues Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Check your"
+      },
+      {
+        "type": "removed",
+        "text": "Find out how much"
+      },
+      {
+        "type": "removed",
+        "text": "loan amount you may qualify for."
+      },
+      {
+        "type": "removed",
+        "text": "Check"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Learning"
+      },
+      {
+        "type": "removed",
+        "text": "Hub"
+      },
+      {
+        "type": "removed",
+        "text": "view"
+      },
+      {
+        "type": "removed",
+        "text": "all"
+      },
+      {
+        "type": "removed",
+        "text": "Take a Quick Quiz"
+      },
+      {
+        "type": "removed",
+        "text": "Explore Short"
+      },
+      {
+        "type": "removed",
+        "text": "Reads"
+      },
+      {
+        "type": "removed",
+        "text": "Watch Money"
+      },
+      {
+        "type": "removed",
+        "text": "Videos"
+      },
+      {
+        "type": "removed",
+        "text": "Ace your first financial decisions"
+      },
+      {
+        "type": "removed",
+        "text": "Expert insights on economy, markets and finance"
+      },
+      {
+        "type": "removed",
+        "text": "Download Axis Mobile Banking App"
+      },
+      {
+        "type": "removed",
+        "text": "6.50%"
+      },
+      {
+        "type": "removed",
+        "text": "Less than 3cr"
+      },
+      {
+        "type": "removed",
+        "text": "Domestic General"
+      },
+      {
+        "type": "removed",
+        "text": "(18 months < 2 years)"
+      },
+      {
+        "type": "removed",
+        "text": "7.00%"
+      },
+      {
+        "type": "removed",
+        "text": "Less than 3cr"
+      },
+      {
+        "type": "removed",
+        "text": "Domestic Sr. Citizen"
+      },
+      {
+        "type": "removed",
+        "text": "(18 months < 2 years)"
+      },
+      {
+        "type": "removed",
+        "text": "6.50%"
+      },
+      {
+        "type": "removed",
+        "text": "Less than 3cr"
+      },
+      {
+        "type": "removed",
+        "text": "NRE"
+      },
+      {
+        "type": "removed",
+        "text": "(18 months < 2 years)"
+      },
+      {
+        "type": "removed",
+        "text": "8.35% to 9.35%"
+      },
+      {
+        "type": "removed",
+        "text": "Home Loan (Floating)"
+      },
+      {
+        "type": "removed",
+        "text": "9.99% to 22%"
+      },
+      {
+        "type": "removed",
+        "text": "Starting at 8.75% p.a."
+      },
+      {
+        "type": "removed",
+        "text": "New Car Loan"
+      },
+      {
+        "type": "removed",
+        "text": "Salary Account"
+      },
+      {
+        "type": "removed",
+        "text": "Great plans start with well-calculated decisions"
+      },
+      {
+        "type": "removed",
+        "text": "PPF Calculator"
+      },
+      {
+        "type": "removed",
+        "text": "Discover how to turn your dreams into reality with an EMI Calculator, whether it's purchasing your ideal home, a new car, or planning a vacation etc. Our EMI calculators help you quickly determine your monthly payments, enabling better decisions and helping you plan your finances smartly."
+      },
+      {
+        "type": "added",
+        "text": "Apply for Platinum Credit Card Online | Axis Bank"
+      },
+      {
+        "type": "added",
+        "text": "Platinum Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Platinum Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy exciting privileges along with the benefits of global emergency assistance"
+      },
+      {
+        "type": "added",
+        "text": "Apply Now View Offers"
+      },
+      {
+        "type": "added",
+        "text": "Cashback on Movie Ticket Purchases"
+      },
+      {
+        "type": "added",
+        "text": "High Security"
+      },
+      {
+        "type": "added",
+        "text": "Fuel Surcharge Waiver"
+      },
+      {
+        "type": "added",
+        "text": "Convert Purchases to EMI"
+      },
+      {
+        "type": "added",
+        "text": "Platinum Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Axis Bank Platinum Credit Card offers unrivaled safety with an EMV certified chip and comes with a variety of other privileges. The benefits of Platinum Credit Card include up to 25% cashback on movie tickets, fuel surcharge waiver on fuel transactions up to ₹400 a month, while allowing you to convert transactions of more than ₹2500 into EMIs through multiple options. Also, you get a minimum of 15%* off at our partner restaurants."
+      },
+      {
+        "type": "added",
+        "text": "The benefits of Platinum Credit Card include easy access to Visa&rsquo;s International Global Card Assistance Services, waivers on fuel surcharge, EDGE REWARD"
+      },
+      {
+        "type": "added",
+        "text": "points and conversion of big Credit Card purchase into EMIs. Additional benefits include:"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy cashback on movie ticket bookings"
+      },
+      {
+        "type": "added",
+        "text": "25% cashback on online and box office ticket purchases on all days of the week.*"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program."
+      },
+      {
+        "type": "added",
+        "text": "Fuel up and get a waiver on surcharge"
+      },
+      {
+        "type": "added",
+        "text": "1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank Platinum Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Spend securely"
+      },
+      {
+        "type": "added",
+        "text": "With an EMV certified chip credit card, all credit cards are chip and PIN protected for unrivaled protection."
+      },
+      {
+        "type": "added",
+        "text": "Convert purchases to EMI"
+      },
+      {
+        "type": "added",
+        "text": "On any transaction over ₹2,500, simply contact the bank to convert such Credit Card purchase into EMIs through multiple options"
+      },
+      {
+        "type": "added",
+        "text": "Earn EDGE REWARDS Points"
+      },
+      {
+        "type": "added",
+        "text": "Receive EDGE REWARD Points on Platinum Credit Card transactions. Use them to redeem 500+ rewards and offers. Earn points for these transactions:"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy cashback on movie ticket bookings"
+      },
+      {
+        "type": "added",
+        "text": "25% cashback on online and box office ticket purchases on all days of the week.*"
+      },
+      {
+        "type": "added",
+        "text": "*No reward points are earned on movie offer transactions. Amount of cashback in a calendar year is limited to ₹1,000."
+      },
+      {
+        "type": "added",
+        "text": "*Only transactions made at merchants registered as MCC 7832 or MCC 7922 are eligible for movie cashback."
+      },
+      {
+        "type": "added",
+        "text": "For terms and conditions, click here"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program."
+      },
+      {
+        "type": "added",
+        "text": "Click here for more details and full terms & conditions."
+      },
+      {
+        "type": "added",
+        "text": "Fuel up and get a waiver on surcharge"
+      },
+      {
+        "type": "added",
+        "text": "1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank Platinum Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "Valid on transactions between ₹400 and ₹4,000 only."
+      },
+      {
+        "type": "added",
+        "text": "Maximum benefits up to ₹400* per statement cycle."
+      },
+      {
+        "type": "added",
+        "text": "GST charged on fuel surcharge is non-refundable."
+      },
+      {
+        "type": "added",
+        "text": "The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹10 instead of 1 percent with additional GST."
+      },
+      {
+        "type": "added",
+        "text": "The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions,"
+      },
+      {
+        "type": "added",
+        "text": "the fuel surcharge may be levied as ₹10 + GST instead of 1% + GST."
+      },
+      {
+        "type": "added",
+        "text": "*No EDGE REWARD Points are earned on fuel transactions made using your Axis Bank Credit Card."
+      },
+      {
+        "type": "added",
+        "text": "Spend securely"
+      },
+      {
+        "type": "added",
+        "text": "With an EMV certified chip credit card, all credit cards are chip and PIN protected for unrivaled protection."
+      },
+      {
+        "type": "added",
+        "text": "EMV certified chip reduces the possibility of counterfeit and skimming fraud."
+      },
+      {
+        "type": "added",
+        "text": "Convert purchases to EMI"
+      },
+      {
+        "type": "added",
+        "text": "On any transaction over ₹2,500, simply contact the bank to convert such Credit Card purchase into EMIs through multiple options &ndash; Internet Banking, Mobile App or Customer Service channel."
+      },
+      {
+        "type": "added",
+        "text": "To know more click here"
+      },
+      {
+        "type": "added",
+        "text": "Earn EDGE REWARDS Points"
+      },
+      {
+        "type": "added",
+        "text": "Receive EDGE REWARD Points on Platinum Credit Card transactions. Use them to redeem 500+ rewards and offers. Earn points for these transactions:"
+      },
+      {
+        "type": "added",
+        "text": "6 points on every ₹200 spent on the credit card domestically"
+      },
+      {
+        "type": "added",
+        "text": "12 points on every ₹200 spent on the credit card internationally"
+      },
+      {
+        "type": "added",
+        "text": "100 points on first online transaction"
+      },
+      {
+        "type": "added",
+        "text": "For options to redeem points, check the EDGE REWARDS Catalogue"
+      },
+      {
+        "type": "added",
+        "text": "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+      },
+      {
+        "type": "added",
+        "text": "10% off on orders via Swiggy"
+      },
+      {
+        "type": "added",
+        "text": "10% off upto ₹1000 on Tira"
+      },
+      {
+        "type": "added",
+        "text": "Click here to avail the offers"
+      },
+      {
+        "type": "added",
+        "text": "The fees and charges for Platinum Credit Card include joining fees, annual fees, cash payment and withdrawal fees and certain penalties (if any) amongst others. Some Platinum Credit Card fees are however subject to certain waivers."
+      },
+      {
+        "type": "added",
+        "text": "View fees & charges"
+      },
+      {
+        "type": "added",
+        "text": "The fees and charges for Platinum Credit Card include joining fees, annual fees, cash payment and withdrawal fees and certain penalties (if any) amongst others. Some Platinum Credit Card fees are however subject to certain waivers."
+      },
+      {
+        "type": "added",
+        "text": "Description Charges"
+      },
+      {
+        "type": "added",
+        "text": "Standard Joining Fee ₹500 (Waived on spends of ₹5,000 within 45 days of card setup), for cards setup on or after February 07, 2011"
+      },
+      {
+        "type": "added",
+        "text": "Nil, for cards setup before February 07, 2011"
+      },
+      {
+        "type": "added",
+        "text": "Standard Annual Fee From 2nd year: ₹200 (Waived on spends of ₹1,00,000 in the preceding year), for cards set up on or after February 07, 2011"
+      },
+      {
+        "type": "added",
+        "text": "Nil, for cards setup before February 07, 2011"
+      },
+      {
+        "type": "added",
+        "text": "Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends calculated in availing annual fee waiver"
+      },
+      {
+        "type": "added",
+        "text": "Standard Add-on Card Joining Fee ₹100, for cards setup before February 07, 2011"
+      },
+      {
+        "type": "added",
+        "text": "Nil, for cards setup on or after February 07, 2011"
+      },
+      {
+        "type": "added",
+        "text": "Standard Add-on Card Annual Fee Nil"
+      },
+      {
+        "type": "added",
+        "text": "Finance Charges (Retail Purchases & Cash) 3.75% per month (55.55% per annum)"
+      },
+      {
+        "type": "added",
+        "text": "Cash Withdrawal Fees 2.5% (Min. ₹500) of the Cash Amount"
+      },
+      {
+        "type": "added",
+        "text": "Fee for Cash Payment"
+      },
+      {
+        "type": "added",
+        "text": "₹175/-"
+      },
+      {
+        "type": "added",
+        "text": "Card Replacement (lost or stolen or re-issue) Nil"
+      },
+      {
+        "type": "added",
+        "text": "Emergency Card Replacement Fee when overseas (through VISA) As per VISA Global Customer Assistance Services (GCAS)."
+      },
+      {
+        "type": "added",
+        "text": "Duplicate Statement Fee Waived"
+      },
+      {
+        "type": "added",
+        "text": "Overdue Penalty or Late Payment Fee Nil if Total Payment Due is less than ₹500"
+      },
+      {
+        "type": "added",
+        "text": "₹500 if total payment due is between ₹501 - ₹5,000"
+      },
+      {
+        "type": "added",
+        "text": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "₹1200 if total payment due is greater than ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "An additional charge of ₹ 100 will be applicable"
+      },
+      {
+        "type": "added",
+        "text": "on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This"
+      },
+      {
+        "type": "added",
+        "text": "charge will continue to be applicable for every payment cycle until the MAD is cleared."
+      },
+      {
+        "type": "added",
+        "text": "Over Limit Penalty 2.5% of over the limit amount (Min. ₹500)"
+      },
+      {
+        "type": "added",
+        "text": "Charge Slip Retrieval Fee or Copy Request Fee Waived"
+      },
+      {
+        "type": "added",
+        "text": "Outstation Cheque Fee Waived"
+      },
+      {
+        "type": "added",
+        "text": "Cheque return or dishonour Fee or Auto-debit Reversal Bank A/c out of Funds 2% of the payment amount, with a minimum"
+      },
+      {
+        "type": "added",
+        "text": "fee of INR 500 and no maximum cap on the fee."
+      },
+      {
+        "type": "added",
+        "text": "Surcharge on purchase or cancellation of Railway Tickets As prescribed by IRCTC/Indian Railways"
+      },
+      {
+        "type": "added",
+        "text": "Fuel Transaction Surcharge 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4000)"
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency Transaction Fee 3.50% of the transaction value"
+      },
+      {
+        "type": "added",
+        "text": "Mobile Alerts for Transactions Waived"
+      },
+      {
+        "type": "added",
+        "text": "Hotlisting Charges Nil"
+      },
+      {
+        "type": "added",
+        "text": "Balance Enquiry Charges Waived"
+      },
+      {
+        "type": "added",
+        "text": "Reward Redemption fee Yes"
+      },
+      {
+        "type": "added",
+        "text": "Rent Transaction fee 1% (+GST) capped at ₹1,500/transaction will be applicable on each rental transaction done on MCC 6513"
+      },
+      {
+        "type": "added",
+        "text": "Dynamic Currency Conversion Markup 1.5% + taxes for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation"
+      },
+      {
+        "type": "added",
+        "text": "Urgent and Important:"
+      },
+      {
+        "type": "added",
+        "text": "With effect from March 1, 2012, a convenience fee* of ₹50 per payment will be charged for a cash payment of credit card bills at our branches."
+      },
+      {
+        "type": "added",
+        "text": "*The charges will reflect in the next billing cycle along with the service taxes applicable"
+      },
+      {
+        "type": "added",
+        "text": "For Platinum Advantage Credit Card Holders, effective from January 1, 2012, the annual fee will be reduced to ₹200 from ₹500. In light of the same, the cashback offers on dining and fuel spends will be discontinued; whereas the 25% cashback on movie spends (with a limit of ₹1,000 per the calendar year) and 1 % surcharge waiver on fuel spends will remain."
+      },
+      {
+        "type": "added",
+        "text": "Terms & Conditions - Platinum Credit Card"
+      },
+      {
+        "type": "added",
+        "text": "The card member agreements are applicable to Platinum Credit Card. Most Important Terms (MITs) are also part of Terms and Conditions for a Platinum Credit Card and are to be read along with the Cardholder Agreement."
+      },
+      {
+        "type": "added",
+        "text": "Please click here to view the Terms and Conditions."
+      },
+      {
+        "type": "added",
+        "text": "Please click here to view the Card Member Agreement."
+      },
+      {
+        "type": "ellipsis",
+        "text": "… diff truncated (19 more lines) …"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "amex-american-express-corporate-platinum-card",
+    "cardName": "American Express® Corporate Platinum Card",
+    "issuerName": "American Express (India)",
+    "issuerSlug": "amex",
+    "officialUrl": "https://www.americanexpress.com/en-in/",
+    "productPageUrl": "https://www.americanexpress.com/en-in/business/corporate-card-platinum/",
+    "status": "Active",
+    "detectedAt": "2026-11-18T11:39:35.650Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "International Airline Program"
+      },
+      {
+        "type": "context",
+        "text": "Travel aboard some of the world's leading airlines and enjoy special perks."
+      },
+      {
+        "type": "removed",
+        "text": "These offers can be availed by bookings by calling up Platinum Travel Services at 0124-2801092 or 1800-419-1092"
+      },
+      {
+        "type": "added",
+        "text": "For availing Travel and Lifestyle services, you may contact our TLS partner, Aspire Lifestyles India Private Limited (Aspire Lifestyles) at 0124-673 6673 or 1800-419-1092 or 1800-410-7955."
+      },
+      {
+        "type": "context",
+        "text": "To know more, click here ."
+      },
+      {
+        "type": "context",
+        "text": "American Express Global Lounge Collection SM"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "24-Hour Platinum Services"
+      },
+      {
+        "type": "context",
+        "text": "Exclusive toll-free 24x7 Platinum Card Services Helpline, there for you anywhere in the world."
+      },
+      {
+        "type": "removed",
+        "text": "Platinum Travel Services"
+      },
+      {
+        "type": "added",
+        "text": "Travel and Lifestyle Services"
+      },
+      {
+        "type": "context",
+        "text": "Dedicated Travel Services that take care of every detail of your business travel including domestic and international airline, hotel and car-rental bookings."
+      },
+      {
+        "type": "context",
+        "text": "To know more, click here ."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "icici-bank-emeralde-private-metal-credit-card",
     "cardName": "Emeralde Private Metal Credit Card",
     "issuerName": "ICICI Bank",
@@ -716,162 +3660,6 @@
     }
   },
   {
-    "id": "federal-bank-rupay-wave-credit-card",
-    "cardName": "Rupay Wave Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-17T11:51:08.468Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 8e2b28ba-e42i-42fe-9e3d-6b8e2d0c91c3"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 0dda050a-e42i-49e9-a5ad-75aadfc5cd3e"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 16 2026, 11:16:05 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 17 2026, 11:51:06 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-signet-credit-card",
-    "cardName": "Visa Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-17T11:51:08.468Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 85edb07d-e42i-42c1-b6e1-72bf43c4d179"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: d38608fa-e42i-478c-8acc-ab0f89175cb8"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 16 2026, 11:16:01 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 17 2026, 11:51:02 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-visa-credit-card",
-    "cardName": "Fed StarBiz Visa Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
-    "status": "Active",
-    "detectedAt": "2026-11-17T11:51:08.468Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 3c161c76-e42i-4ca8-82d9-329b89f539d8"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: ecbe86ef-e42i-49e5-9440-ee375b07edb3"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
-      },
-      {
-        "type": "removed",
-        "text": "November 16 2026, 11:16:01 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 17 2026, 11:51:03 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-business-supreme-visa",
-    "cardName": "Axis Bank Business Supreme Visa",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-visa-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-17T11:50:15.054Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Card Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "A commercial credit card which is"
-      },
-      {
-        "type": "removed",
-        "text": "easy on your pocket"
-      },
-      {
-        "type": "added",
-        "text": "A Commercial credit card which is"
-      },
-      {
-        "type": "added",
-        "text": "easy on your pocket Tailored options basis your needs!"
-      },
-      {
-        "type": "context",
-        "text": "Before applying for Axis Bank Business Supreme Credit Card &ndash; Visa please read the terms and conditions for Business Supreme Credit Card &ndash; Visa. You can apply for the Credit Card online or visit your nearest Axis Bank branch where our representatives will be happy to help you."
-      },
-      {
-        "type": "context",
-        "text": "Please click here to view the terms and conditions."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "hdfc-bank-flipkart-wholesale-credit-card",
     "cardName": "Flipkart Wholesale Credit Card",
     "issuerName": "HDFC Bank",
@@ -1000,42 +3788,6 @@
       {
         "type": "added",
         "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-signet-credit-card",
-    "cardName": "Mastercard Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-16T11:16:07.484Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 56c49bd0-e42i-4405-a506-bfe4677cf21a"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 6e5a0371-e42i-4375-ae90-331f9554dfcc"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 15 2026, 10:52:55 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 16 2026, 11:16:04 UTC"
       }
     ],
     "community": {
@@ -1241,94 +3993,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added FX services and updated golf rounds benefit wording for primary cardholders."
-    }
-  },
-  {
-    "id": "canara-bank-rupay-select-credit-card",
-    "cardName": "Rupay Select Credit Card",
-    "issuerName": "Canara Bank",
-    "issuerSlug": "canara-bank",
-    "officialUrl": "https://canarabank.com/",
-    "productPageUrl": "https://canarabank.bank.in/pages/Rupay-Select-Credit-Card",
-    "status": "Active",
-    "detectedAt": "2026-11-15T10:52:33.357Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "|"
-      },
-      {
-        "type": "context",
-        "text": "Insurance Grievance Redressal"
-      },
-      {
-        "type": "added",
-        "text": "MDR on UPI Transactions"
-      },
-      {
-        "type": "context",
-        "text": "MDR on RuPay Credit Card Transactions through UPI"
-      },
-      {
-        "type": "context",
-        "text": "Canara Bank Investor/Analyst Interaction Calendar"
-      },
-      {
-        "type": "context",
-        "text": "Member Banks Information Hub"
-      },
-      {
-        "type": "context",
-        "text": "Exchange Rates"
-      },
-      {
-        "type": "removed",
-        "text": "FX Services"
-      },
-      {
-        "type": "removed",
-        "text": "FX Services"
-      },
-      {
-        "type": "context",
-        "text": "X (Twitter)"
-      },
-      {
-        "type": "context",
-        "text": "Rupay Select Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card Application (Hindi)"
-      },
-      {
-        "type": "context",
-        "text": "BUSINESS AROUND"
-      },
-      {
-        "type": "removed",
-        "text": "Learning & Development Vertical's Inter Bank Training Initiatives"
-      },
-      {
-        "type": "context",
-        "text": "DOORSTEP BANKING"
-      },
-      {
-        "type": "context",
-        "text": "SERVICES"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added MDR fee on UPI transactions"
     }
   },
   {
@@ -3688,54 +6352,6 @@
     }
   },
   {
-    "id": "federal-bank-mastercard-celesta-credit-card",
-    "cardName": "Mastercard Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-12T11:05:21.802Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "d3adcfa3-e42i-4af1-b890-9bc38c14fb49"
-      },
-      {
-        "type": "added",
-        "text": "2de1f21f-e42i-44af-9879-16fef76223f8"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-signet-credit-card",
-    "cardName": "Rupay Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-12T11:05:21.802Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "35b9bedf-e42i-4b88-9a8f-b5e30dd8dde0"
-      },
-      {
-        "type": "added",
-        "text": "31031691-e42i-41b2-9224-da97edc3ece8"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "axis-bank-travel-credit-card",
     "cardName": "Travel Credit Card",
     "issuerName": "Axis Bank",
@@ -5076,170 +7692,6 @@
     }
   },
   {
-    "id": "federal-bank-fed-starbiz-rupay-credit-card",
-    "cardName": "Fed StarBiz RuPay Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
-    "status": "Active",
-    "detectedAt": "2026-11-09T11:33:07.376Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: b959c78a-e42i-47bb-94ff-d2ef1205fc9e"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 6b093f6a-e42i-44fd-a09e-e19453ed91ff"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
-      },
-      {
-        "type": "removed",
-        "text": "172.208.101.226 on"
-      },
-      {
-        "type": "removed",
-        "text": "November 08 2026, 10:22:07 UTC"
-      },
-      {
-        "type": "added",
-        "text": "13.86.111.210 on"
-      },
-      {
-        "type": "added",
-        "text": "November 09 2026, 11:33:06 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "sbi-card-sbi-corporate-virtual-card",
-    "cardName": "SBI Corporate Virtual Card",
-    "issuerName": "SBI Card",
-    "issuerSlug": "sbi-card",
-    "officialUrl": "https://www.sbicard.com/",
-    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/corporate-virtual-card/virtual-card.page",
-    "status": "Active",
-    "detectedAt": "2026-11-07T10:15:25.652Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Rewards Home"
-      },
-      {
-        "type": "context",
-        "text": "Know your Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Redeeming Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Apply"
-      },
-      {
-        "type": "added",
-        "text": "Help me find a card"
-      },
-      {
-        "type": "added",
-        "text": "Track my Application"
-      },
-      {
-        "type": "added",
-        "text": "Retrieve my Application"
-      },
-      {
-        "type": "added",
-        "text": "©2026"
-      },
-      {
-        "type": "added",
-        "text": "Do Not Disturb"
-      },
-      {
-        "type": "added",
-        "text": "Offer Terms & Conditions"
-      },
-      {
-        "type": "added",
-        "text": "Security"
-      },
-      {
-        "type": "added",
-        "text": "Sitemap"
-      },
-      {
-        "type": "added",
-        "text": "Disclaimer"
-      },
-      {
-        "type": "added",
-        "text": "Fair Practice Code"
-      },
-      {
-        "type": "added",
-        "text": "Privacy Policy/Notice"
-      },
-      {
-        "type": "added",
-        "text": "PoSH Policy"
-      },
-      {
-        "type": "added",
-        "text": "Usage Agreement"
-      },
-      {
-        "type": "added",
-        "text": "Customer Grievance Redressal Policy"
-      },
-      {
-        "type": "added",
-        "text": "Policy for the issuance and conduct of credit cards"
-      },
-      {
-        "type": "added",
-        "text": "\"SBI Cards and Payment Services Limited” was formerly known as “SBI Cards and Payment Services Private Limited\""
-      },
-      {
-        "type": "added",
-        "text": "Site best viewed in browsers I.E 11+, Mozilla 3.5+, Chrome 3.0+, Safari 5.0+ on all desktops, laptops, and Android & iOS mobile/tablet devices"
-      },
-      {
-        "type": "added",
-        "text": "x You are being re-directed to a third party site. Please acknowledge the disclaimer before proceeding further."
-      },
-      {
-        "type": "added",
-        "text": "You are about to access a site, the accuracy or completeness of the materials or the reliability of any advice, opinion, statement or other information displayed or distributed through it, is not warranted by SBICPSL and shall be solely be construed to be set forth by the third party."
-      },
-      {
-        "type": "added",
-        "text": "You will access this site solely for the payment of your bills and you acknowledge that any reliance on any opinion, advice, statement, memorandum, or information available on the site shall be at your sole risk and consequences."
-      },
-      {
-        "type": "added",
-        "text": "SBICPSL and its affiliates, subsidiaries, employees, officers, directors and agents, expressly disclaim any liability for any deficiency in the services of the service provider whose site you are about to access. Neither SBICPSL nor any of its affiliates nor their directors, officers and employees will be liable to or have any responsibility of any kind for any loss that you incur in the event of any deficiency in the services of the service provider, failure or disruption of the site of the service provider, or resulting from the act or omission of any other party involved in making this site or the data contained therein available to you, or from any other cause relating to your access to, inability to access, or use of the site or these materials in accordance thereto SBICSPL and all its related parties described hereinabove stand indemnified from all proceedings or matters arising thereto."
-      },
-      {
-        "type": "added",
-        "text": "Proceed Cancel"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "kotak-mahindra-bank-league-platinum-credit-card",
     "cardName": "League Platinum Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -5307,74 +7759,6 @@
         "description": "https://preview.redd.it/50e67znkg3qh1.png?width=497&amp;format=png&amp;auto=webp&amp;s=ace72827dd27baa093ab78d61767943fa0e86c96 I’m applying for the Kotak League Platinum credit card as my first credit card. I’m a salaried employee working "
       },
       "via": "reddit"
-    }
-  },
-  {
-    "id": "federal-bank-radware-captcha-page",
-    "cardName": "Radware Captcha Page",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
-    "status": "Active",
-    "detectedAt": "2026-11-07T10:09:42.344Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: b53e24b3-e42i-4280-880e-9e074dafc019"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: e1772a17-e42i-418a-bea0-be578e13a975"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
-      },
-      {
-        "type": "removed",
-        "text": "20.55.117.35 on"
-      },
-      {
-        "type": "removed",
-        "text": "November 06 2026, 10:54:00 UTC"
-      },
-      {
-        "type": "added",
-        "text": "4.154.166.2 on"
-      },
-      {
-        "type": "added",
-        "text": "November 07 2026, 10:09:42 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-celesta-credit-card",
-    "cardName": "Visa Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-07T10:09:42.343Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "4c930f05-e42i-4d7f-a9c5-e56f238c77c7"
-      },
-      {
-        "type": "added",
-        "text": "ade1ed74-e42i-422a-9850-0051a8bb0c20"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -5554,42 +7938,6 @@
       {
         "type": "context",
         "text": "EMI/BT processing charges Rs 300 or 1% of the loan amount (Whichever is higher)"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-imperio-credit-card",
-    "cardName": "Mastercard Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-05T10:53:53.081Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 5af120b0-e42i-47b1-b768-e7c1556e95d2"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 65afcbcb-e42i-491d-b509-8c2f94ced4b2"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 04 2026, 11:00:42 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 05 2026, 10:53:49 UTC"
       }
     ],
     "community": {
@@ -6792,52 +9140,6 @@
     }
   },
   {
-    "id": "axis-bank-platinum-credit-card",
-    "cardName": "Platinum Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-03T10:51:26.643Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Best in class cashback on Myntra, Flipkart and Cleartrip."
-      },
-      {
-        "type": "context",
-        "text": "Unlimited cashback on Swiggy, Uber, PVR and many more."
-      },
-      {
-        "type": "removed",
-        "text": "(This card is currently First Year Free)"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank Vistara Infinite Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Welcome benefit &ndash; 1 complimentary business class ticket on fee payment"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "First Year Free benefit removed from Platinum Credit Card",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Need clarity on Indusind co branded card issuance policy.",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1x5muv2/need_clarity_on_indusind_co_branded_card_issuance/",
-        "description": "I am planning to get both the Tiger and Eazydiner platinum credit card from Indusind but I am not sure about the multiple card policy of Indusind. Does Indusind have only one card policy? I also heard that one can&#39;t get two co branded c"
-      },
-      "via": "reddit"
-    }
-  },
-  {
     "id": "axis-bank-axis-bank-select-credit-card",
     "cardName": "Axis Bank Select Credit Card",
     "issuerName": "Axis Bank",
@@ -7031,42 +9333,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a minimum spend of Rs. 50,000 for Golf Program benefits."
-    }
-  },
-  {
-    "id": "federal-bank-visa-imperio-credit-card",
-    "cardName": "Visa Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-02T11:04:53.767Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 851da1db-e42i-4884-a5e4-ce24b07384ed"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 3d1a47a9-e42i-47e0-b98c-95f3347932e6"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 01 2026, 10:30:03 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 02 2026, 11:04:46 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -8530,46 +10796,6 @@
     }
   },
   {
-    "id": "canara-bank-mastercard-gold-secured-credit-card",
-    "cardName": "Mastercard Gold Secured Credit Card",
-    "issuerName": "Canara Bank",
-    "issuerSlug": "canara-bank",
-    "officialUrl": "https://canarabank.com/",
-    "productPageUrl": "https://canarabank.bank.in/pages/mastercard-gold-secured-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-17T07:50:17.788Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Insurance Grievance Redressal"
-      },
-      {
-        "type": "context",
-        "text": "MDR on UPI Transactions"
-      },
-      {
-        "type": "added",
-        "text": "MDR on RuPay Credit Card Transactions through UPI"
-      },
-      {
-        "type": "context",
-        "text": "Canara Bank Investor/Analyst Interaction Calendar"
-      },
-      {
-        "type": "context",
-        "text": "Member Banks Information Hub"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added MDR benefit on RuPay Credit Card Transactions through UPI"
-    }
-  },
-  {
     "id": "icici-bank-1838-reserve-icici-bank-credit-card",
     "cardName": "1838 Reserve ICICI Bank Credit Card",
     "issuerName": "ICICI Bank",
@@ -9171,122 +11397,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Removed INR1,000 cashback offer for spending INR1,000 within 30 days of card issuance."
-    }
-  },
-  {
-    "id": "hdfc-bank-swiggy-hdfc-bank-credit-card",
-    "cardName": "Swiggy HDFC Bank Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/swiggy-hdfc-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-09T10:35:39.394Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Complimentary 3 Months Swiggy One Membership, on activating your card within first 30 days of card issuance."
-      },
-      {
-        "type": "context",
-        "text": "Swiggy Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "10% CashBack on spends across Swiggy App on Food orders, Instamart, Dineout & Genie."
-      },
-      {
-        "type": "added",
-        "text": "10% CashBack* on spends across Swiggy App on Food orders, Instamart, Dineout."
-      },
-      {
-        "type": "context",
-        "text": "Credit Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Up to 50 days of interest-free Credit from the date of purchase*"
-      },
-      {
-        "type": "context",
-        "text": "Additional Benefits"
-      },
-      {
-        "type": "context",
-        "text": "CashBack Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "5% CashBack on online spends across multiple apps and website."
-      },
-      {
-        "type": "removed",
-        "text": "1% CashBack on other category spends, except for fuel, rent, EMI, wallet, jewellery and Government related transactions*"
-      },
-      {
-        "type": "added",
-        "text": "10% CashBack* on spends across Swiggy App on Food orders, Instamart, Dineout."
-      },
-      {
-        "type": "added",
-        "text": "5% CashBack* on online spends across multiple apps and website."
-      },
-      {
-        "type": "added",
-        "text": "1% CashBack* on other category spends, except for fuel, rent, EMI, wallet, jewellery and Government related transactions."
-      },
-      {
-        "type": "context",
-        "text": "Golf Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Access to golf courses worldwide and 12 free lessons per year"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Prefer a face-to-face interaction? Just visit your nearest  branch  and our staff will help you with the application."
-      },
-      {
-        "type": "context",
-        "text": "What are the key benefits of Swiggy HDFC Bank Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "You are eligible to earn 10% Cashback on Swiggy App transactions (Food ordering, Instamart, Dineout & Genie) up to ₹,1500 per billing cycle. Please note that transactions done using Swiggy Money Wallet, Swiggy Liquor, Swiggy Minis won’t earn you any cashback. Also, any other exclusion category (if any) may be communicated to you from time to time. With Swiggy HDFC Bank Credit Card, you can enjoy 5% Cashback on various online categories up to ₹1,500 per billing cycle. This benefit is applicable on Apparels, Electronics, Dept. Stores, Personal Care, Local Cabs, Home Décor, Pet Stores and Supplies, Pharmacies, Discount Stores and Entertainment. For more information on inclusion categories and MCCs please refer to Swiggy HDFC Bank Credit Card T&Cs available on HDFC Bank website."
-      },
-      {
-        "type": "removed",
-        "text": "Over and above this, you can also enjoy 1% CashBack on other categories up to ₹500 per billing cycle except on Fuel, Rent, EMI, Wallet, Jewelry and Govt. related spends. For more details on key benefits, please refer to Swiggy HDFC Bank Credit Card T&C For information on welcome benefit please refer to Q.4 ."
-      },
-      {
-        "type": "added",
-        "text": "You are eligible to earn 10% Cashback* on Swiggy App transactions (Food ordering, Instamart, Dineout) up to ₹,1500 per billing cycle. Please note that transactions done using Swiggy Money Wallet, Swiggy Liquor, Swiggy Minis won’t earn you any cashback. Also, any other exclusion category (if any) may be communicated to you from time to time. With Swiggy HDFC Bank Credit Card, you can enjoy 5% Cashback* on various online categories up to ₹1,500 per billing cycle. This benefit is applicable on Apparels, Electronics, Dept. Stores, Personal Care, Local Cabs, Home Décor, Pet Stores and Supplies, Pharmacies, Discount Stores and Entertainment. For more information on inclusion categories and MCCs please refer to Swiggy HDFC Bank Credit Card T&Cs available on HDFC Bank website."
-      },
-      {
-        "type": "added",
-        "text": "Over and above this, you can also enjoy 1% CashBack* on other categories up to ₹500 per billing cycle except on Fuel, Rent, EMI, Wallet, Jewelry and Govt. related spends. For more details on key benefits, please refer to Swiggy HDFC Bank Credit Card T&C For information on welcome benefit please refer to Q.4 ."
-      },
-      {
-        "type": "context",
-        "text": "Cashback will not be accrued for the following transactions using Swiggy HDFC Bank Credit Card Wallet Rent Government related transactions Fuel  Jewellery  EMI (all types) Cash advances, Purchase of travelers’ cheques, Purchase of foreign currency and fees, Interest charge and penalties Any other categories as decided from time to time. This will be applicable on Offline spends"
-      },
-      {
-        "type": "context",
-        "text": "What is the customer value that Swiggy HDFC Bank Credit Card provides?"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated Swiggy App cashback rates and categories, removing Genie and adding asterisks to indicate terms."
     }
   },
   {
@@ -13943,206 +16053,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Fuel surcharge waiver threshold increased to ₹5,000 per transaction."
-    }
-  },
-  {
-    "id": "sbi-card-sbi-corporate-purchase-card",
-    "cardName": "SBI Corporate Purchase Card",
-    "issuerName": "SBI Card",
-    "issuerSlug": "sbi-card",
-    "officialUrl": "https://www.sbicard.com/",
-    "productPageUrl": "https://www.sbicard.com/en/corporate/credit-cards/corporate-purchase-cards/sbi-corporate-purchase-card.page",
-    "status": "Active",
-    "detectedAt": "2026-09-11T08:11:46.909Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Purchase Cards"
-      },
-      {
-        "type": "context",
-        "text": "Virtual Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Quick Actions"
-      },
-      {
-        "type": "context",
-        "text": "Enquire"
-      },
-      {
-        "type": "removed",
-        "text": "Most Important Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "Signature Corporate Card"
-      },
-      {
-        "type": "removed",
-        "text": "Experience Unmatched Privileges"
-      },
-      {
-        "type": "removed",
-        "text": "Know more"
-      },
-      {
-        "type": "removed",
-        "text": "Enquire"
-      },
-      {
-        "type": "context",
-        "text": "Track Application"
-      },
-      {
-        "type": "context",
-        "text": "New User?"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Business"
-      },
-      {
-        "type": "context",
-        "text": "Digitized Membership Kit"
-      },
-      {
-        "type": "removed",
-        "text": "Help me find a card"
-      },
-      {
-        "type": "removed",
-        "text": "FAQ"
-      },
-      {
-        "type": "removed",
-        "text": "Product Videos"
-      },
-      {
-        "type": "context",
-        "text": "Benefits Home"
-      },
-      {
-        "type": "context",
-        "text": "Lower Interest Option"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Other benefits"
-      },
-      {
-        "type": "context",
-        "text": "Contactless Payments"
-      },
-      {
-        "type": "removed",
-        "text": "Download SBI Card Mobile App"
-      },
-      {
-        "type": "removed",
-        "text": "Add-on Card"
-      },
-      {
-        "type": "removed",
-        "text": "Top Up & Recharge"
-      },
-      {
-        "type": "removed",
-        "text": "FAQ"
-      },
-      {
-        "type": "removed",
-        "text": "Welcome Video for New Users"
-      },
-      {
-        "type": "context",
-        "text": "Pay"
-      },
-      {
-        "type": "context",
-        "text": "Pay Home"
-      },
-      {
-        "type": "context",
-        "text": "Pay Online"
-      },
-      {
-        "type": "context",
-        "text": "Pay Offline"
-      },
-      {
-        "type": "removed",
-        "text": "Download Form"
-      },
-      {
-        "type": "removed",
-        "text": "PAYNET-Pay Online"
-      },
-      {
-        "type": "removed",
-        "text": "FAQ"
-      },
-      {
-        "type": "removed",
-        "text": "Payment Posting TAT"
-      },
-      {
-        "type": "context",
-        "text": "Offers Home"
-      },
-      {
-        "type": "context",
-        "text": "All offers"
-      },
-      {
-        "type": "context",
-        "text": "Offers this week"
-      },
-      {
-        "type": "context",
-        "text": "Convert to EMI"
-      },
-      {
-        "type": "removed",
-        "text": "Download Mobile App"
-      },
-      {
-        "type": "removed",
-        "text": "FAQ"
-      },
-      {
-        "type": "added",
-        "text": "All offers"
-      },
-      {
-        "type": "added",
-        "text": "Offers this week"
-      },
-      {
-        "type": "added",
-        "text": "Convert to EMI"
-      },
-      {
-        "type": "context",
-        "text": "Rewards Home"
-      },
-      {
-        "type": "context",
-        "text": "Know your Reward Points"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -20288,590 +22198,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated reward point earning description for business expenses."
-    }
-  },
-  {
-    "id": "rbl-bank-rbl-bank-shoppers-stop-black-credit-card",
-    "cardName": "RBL Bank Shoppers Stop Black Credit Card",
-    "issuerName": "RBL Bank",
-    "issuerSlug": "rbl-bank",
-    "officialUrl": "https://www.rbl.bank.in/",
-    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-black-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-26T04:15:12.347Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fuel & Auto (0032, 2541, 4001, 5542, 5541, 5172);Utilities (4900); Insurance (6300, 6310); Quasi-Cash (6050, 6051, 4829); Railways (0066, 4011, 4112); Real Estate/Rental (6513); Education (8220, 8244, 8249, 8211, 8241, 8299); Wallets/Service Providers (6540); Government Services (9400, 1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223); Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780); Cash (6011, 6010); Miscellaneous (5960); Bills2Pay; EMI"
-      },
-      {
-        "type": "context",
-        "text": "Click here for detailed terms and conditions."
-      },
-      {
-        "type": "removed",
-        "text": "RBL Bank Shoppers Stop Black Credit Card is available on Visa and MasterCard network."
-      },
-      {
-        "type": "added",
-        "text": "RBL Bank Shoppers Stop Black Credit Card is available on Visa network."
-      },
-      {
-        "type": "context",
-        "text": "Experience elevated shopping privileges and rewarding lifestyle benefits with the RBL Bank Shoppers Stop Black Credit Card at an annual membership fee of INR 10,000 + GST, crafted for those who appreciate style and exclusivity."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "rbl-bank-rbl-bank-shoppers-stop-gold-credit-card",
-    "cardName": "RBL Bank Shoppers Stop Gold Credit Card",
-    "issuerName": "RBL Bank",
-    "issuerSlug": "rbl-bank",
-    "officialUrl": "https://www.rbl.bank.in/",
-    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-gold-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-26T04:15:12.346Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fuel & Auto (0032, 2541, 4001, 5542, 5541, 5172);Utilities (4900); Insurance (6300, 6310); Quasi-Cash (6050, 6051, 4829); Railways (0066, 4011, 4112); Real Estate/Rental (6513); Education (8220, 8244, 8249, 8211, 8241, 8299); Wallets/Service Providers (6540); Government Services (9400, 1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223); Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780); Cash (6011, 6010); Miscellaneous (5960); Bills2Pay; EMI"
-      },
-      {
-        "type": "context",
-        "text": "Click here for detailed terms and conditions."
-      },
-      {
-        "type": "removed",
-        "text": "RBL Bank Shoppers Stop Gold Credit Card is available on Visa and MasterCard network."
-      },
-      {
-        "type": "added",
-        "text": "RBL Bank Shoppers Stop Gold Credit Card is available on Visa network."
-      },
-      {
-        "type": "context",
-        "text": "Experience enhanced shopping privileges and rewarding lifestyle benefits with the RBL Bank Shoppers Stop Gold Credit Card at an annual membership fee of INR 1,000 + GST, designed for those who value everyday convenience, smart savings, and a rewarding shopping experience."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "rbl-bank-rbl-bank-shoppers-stop-platinum-credit-card",
-    "cardName": "RBL Bank Shoppers Stop Platinum Credit Card",
-    "issuerName": "RBL Bank",
-    "issuerSlug": "rbl-bank",
-    "officialUrl": "https://www.rbl.bank.in/",
-    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-shoppers-stop-platinum-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-26T04:15:12.346Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fuel & Auto (0032, 2541, 4001, 5542, 5541, 5172);Utilities (4900); Insurance (6300, 6310); Quasi-Cash (6050, 6051, 4829); Railways (0066, 4011, 4112); Real Estate/Rental (6513); Education (8220, 8244, 8249, 8211, 8241, 8299); Wallets/Service Providers (6540); Government Services (9400, 1490, 2490, 2995, 7800, 9406, 9222, 9405, 9399, 9211, 9402, 9401, 9311, 9223); Contracted Services (1711, 1740, 0763, 1520, 0742, 1761, 1799, 1750, 1731, 1771, 0780); Cash (6011, 6010); Miscellaneous (5960); Bills2Pay; EMI"
-      },
-      {
-        "type": "context",
-        "text": "Click here for detailed terms and conditions."
-      },
-      {
-        "type": "removed",
-        "text": "RBL Bank Shoppers Stop Platinum Credit Card is available on Visa and MasterCard network."
-      },
-      {
-        "type": "added",
-        "text": "RBL Bank Shoppers Stop Platinum Credit Card is available on Visa network."
-      },
-      {
-        "type": "context",
-        "text": "Experience refined shopping privileges and rewarding lifestyle benefits with the RBL Bank Shoppers Stop Platinum Credit Card at an annual membership fee of INR 5,000 + GST, designed for those who value elegance, convenience, and rewarding experiences."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "rbl-bank-rbl-bank-play-credit-card",
-    "cardName": "RBL Bank Play Credit Card",
-    "issuerName": "RBL Bank",
-    "issuerSlug": "rbl-bank",
-    "officialUrl": "https://www.rbl.bank.in/",
-    "productPageUrl": "https://www.rbl.bank.in/personal-banking/cards/credit-cards/rbl-bank-play-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-25T04:10:19.528Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "How do you get started? It’s simple!"
-      },
-      {
-        "type": "context",
-        "text": "Make a purchase with your RBL Bank Play Credit Card within 30 days of issuance."
-      },
-      {
-        "type": "removed",
-        "text": "Offer valid for 3 months!"
-      },
-      {
-        "type": "added",
-        "text": "The welcome benefit shall be valid for 60 days after first statement is generated."
-      },
-      {
-        "type": "context",
-        "text": "\"There is a revenue sharing arrangement between RBL Bank & BOOKMYSHOW for this card\"."
-      },
-      {
-        "type": "context",
-        "text": "Important Note - Welcome benefit applicable for paid card only."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Updated welcome benefit validity from 3 months to 60 days after first statement."
-    }
-  },
-  {
-    "id": "axis-bank-purchase-card",
-    "cardName": "Purchase Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/purchase-card",
-    "status": "Active",
-    "detectedAt": "2026-08-25T04:00:27.595Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Airport Meet & Greet Services"
-      },
-      {
-        "type": "context",
-        "text": "Premier Golf access"
-      },
-      {
-        "type": "removed",
-        "text": "24*7 Concierge Services"
-      },
-      {
-        "type": "added",
-        "text": "24*7 for Golf benefit"
-      },
-      {
-        "type": "context",
-        "text": "MIS"
-      },
-      {
-        "type": "context",
-        "text": "Manage and Control Travel & Entertainment Expenses"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Replaced concierge service with a 24*7 golf benefit"
-    }
-  },
-  {
-    "id": "axis-bank-purchase-control-virtual-card",
-    "cardName": "Purchase Control (Virtual Card)",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/purchase-control-virtual-card",
-    "status": "Active",
-    "detectedAt": "2026-08-25T04:00:27.594Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Airport Meet & Greet Services"
-      },
-      {
-        "type": "context",
-        "text": "Premier Golf access"
-      },
-      {
-        "type": "removed",
-        "text": "24*7 Concierge Services"
-      },
-      {
-        "type": "added",
-        "text": "24*7 for Golf benefit"
-      },
-      {
-        "type": "context",
-        "text": "MIS"
-      },
-      {
-        "type": "context",
-        "text": "Manage and Control Travel & Entertainment Expenses"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Capability to control accessibility and transaction via net banking"
-      },
-      {
-        "type": "context",
-        "text": "Manage usages through whatsApp banking"
-      },
-      {
-        "type": "removed",
-        "text": "Got more questions?"
-      },
-      {
-        "type": "removed",
-        "text": "Locate the nearest branch for best assessment."
-      },
-      {
-        "type": "removed",
-        "text": "Locate Branches"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a 24*7 golf benefit, replacing the previous concierge service."
-    }
-  },
-  {
-    "id": "kotak-mahindra-bank-nri-royale-signature-credit-card",
-    "cardName": "NRI Royale Signature Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/nri-royale-signature-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-23T04:07:28.351Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Earn 2 rewards on international spends"
-      },
-      {
-        "type": "context",
-        "text": "Freedom to purchase and pay in INR"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Railway Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Gift an add-on Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "While traveling to India, save the mark-up fee charged on your credit card issued outside India or the hassles of currency exchange"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy the benefit of paying for your purchases, travel and dining in Indian Rupees"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Applicable on transactions between Rs. 500 and Rs. 3000."
-      },
-      {
-        "type": "context",
-        "text": "Maximum fuel surcharge waiver allowed in a calendar year is Rs. 3500."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Fuel surcharge waiver removed."
-    }
-  },
-  {
-    "id": "kotak-mahindra-bank-privy-league-signature-credit-card",
-    "cardName": "Privy League Signature Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/privy-league-signature-credit-card.html",
-    "status": "Discontinued",
-    "detectedAt": "2026-08-23T04:07:28.350Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Referral assistance"
-      },
-      {
-        "type": "context",
-        "text": "To Book or for any queries please call at +91 1135124242 or write to [email&#160;protected] available from 10 am to 8 pm on all days"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Save 1% fuel surcharge across all petrol pumps in India*"
-      },
-      {
-        "type": "context",
-        "text": "*Fuel surcharge to be waived only for transactions between the values Rs. 400-Rs.7500. Maximum fuel surcharge waiver of Rs. 4500 in a calendar year (Free variant) and Rs. 300 per month (Paid variant)"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Fuel surcharge waiver removed."
-    }
-  },
-  {
-    "id": "kotak-mahindra-bank-corporate-platinum-credit-card",
-    "cardName": "Corporate Platinum Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/corporate-platinum-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-22T04:10:04.012Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Earn higher Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "Easy Redemption"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Railway Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Airport Lounge Offer"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Points can be redeemed every quarter"
-      },
-      {
-        "type": "context",
-        "text": "Cash rebate will be given through demand draft"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Applicable on transactions between Rs. 500 and Rs. 3000."
-      },
-      {
-        "type": "context",
-        "text": "Maximum fuel surcharge waiver allowed in a calendar year is Rs. 3500."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Fuel surcharge waiver benefit removed."
-    }
-  },
-  {
-    "id": "kotak-mahindra-bank-corporate-wealth-signature-credit-card",
-    "cardName": "Corporate Wealth Signature Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/corporate-wealth-signature-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-22T04:10:04.012Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Interest-free funds"
-      },
-      {
-        "type": "context",
-        "text": "Hassle-Free Spends"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Railway Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Airport Lounge Access"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Hassle-Free Spends"
-      },
-      {
-        "type": "context",
-        "text": "Eliminate the inconvenience of carrying cash as your corporate expense is payable by the company."
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Applicable on transactions between Rs. 500 and Rs. 3000."
-      },
-      {
-        "type": "context",
-        "text": "Maximum fuel surcharge waiver allowed in a calendar year is Rs. 3500."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Fuel surcharge waiver removed, fee now applies."
-    }
-  },
-  {
-    "id": "kotak-mahindra-bank-solitaire-business-credit-card",
-    "cardName": "Solitaire Business Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/solitaire-business-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-08-22T04:10:04.007Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Airport Lounge Access"
-      },
-      {
-        "type": "context",
-        "text": "Bring luxury to your travels with 1 domestic lounge access per quarter and 1 international lounge access per year"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "Save more with a 1% fuel surcharge waiver on every journey"
-      },
-      {
-        "type": "context",
-        "text": "Smart Savings on Business Software"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "International Lounge"
-      },
-      {
-        "type": "context",
-        "text": "3,500"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "3%"
-      },
-      {
-        "type": "context",
-        "text": "45000"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Foreign Transaction Mark Up"
-      },
-      {
-        "type": "context",
-        "text": "1.99%"
-      },
-      {
-        "type": "removed",
-        "text": "Fuel Surcharge Waiver"
-      },
-      {
-        "type": "context",
-        "text": "· 1% Fuel Surcharge Waiver across all Petrol Pumps in India"
-      },
-      {
-        "type": "context",
-        "text": "· Applicable on transactions between ₹500 - ₹5,000 (Excluding taxes)"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Fuel surcharge waiver removed from card terms."
     }
   }
 ]

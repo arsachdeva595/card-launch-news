@@ -5310,5 +5310,29 @@
     "url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/PRG/Mastercard-Lounge-Terminal-1-AVKYgS4hKC/",
     "status": "Active",
     "discontinuedAt": null
+  },
+  {
+    "cardName": "kotak forex card.html",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/prepaid-card/forex-card/kotak-forex-card.html",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "everything about credit card purchase protection.html",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "url": "https://www.kotak.bank.in/en/stories-in-focus/cards/credit-cards/everything-about-credit-card-purchase-protection.html",
+    "status": "Active",
+    "discontinuedAt": null
+  },
+  {
+    "cardName": "Internet Banking: Features &amp; Benefits",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "url": "https://www.kotak.bank.in/en/stories-in-focus/cards/credit-cards/net-banking-features-advantages-internet-banking-credit-card-payment.html",
+    "status": "Active",
+    "discontinuedAt": null
   }
 ]

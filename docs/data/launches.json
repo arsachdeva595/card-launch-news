@@ -1,5 +1,65 @@
 [
   {
+    "id": "kotak-mahindra-bank-kotak-forex-card-html",
+    "cardName": "kotak forex card.html",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/prepaid-card/forex-card/kotak-forex-card.html",
+    "discoveredAt": "2026-11-20T11:33:57.831Z",
+    "lastmod": "2025-03-05",
+    "announcement": {
+      "title": "kotak forex card.html",
+      "url": "https://www.kotak.bank.in/en/personal-banking/cards/prepaid-card/forex-card/kotak-forex-card.html",
+      "description": "Official product page on Kotak Mahindra Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "kotak-mahindra-bank-everything-about-credit-card-purchase-protection-html",
+    "cardName": "everything about credit card purchase protection.html",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/stories-in-focus/cards/credit-cards/everything-about-credit-card-purchase-protection.html",
+    "discoveredAt": "2026-11-20T11:33:57.831Z",
+    "lastmod": "2025-10-03",
+    "announcement": {
+      "title": "everything about credit card purchase protection.html",
+      "url": "https://www.kotak.bank.in/en/stories-in-focus/cards/credit-cards/everything-about-credit-card-purchase-protection.html",
+      "description": "Official product page on Kotak Mahindra Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "kotak-mahindra-bank-internet-banking-features-amp-benefits",
+    "cardName": "Internet Banking: Features &amp; Benefits",
+    "issuerName": "Kotak Mahindra Bank",
+    "issuerSlug": "kotak-mahindra-bank",
+    "officialUrl": "https://www.kotak.bank.in/",
+    "productPageUrl": "https://www.kotak.bank.in/en/stories-in-focus/cards/credit-cards/net-banking-features-advantages-internet-banking-credit-card-payment.html",
+    "discoveredAt": "2026-11-20T11:33:57.831Z",
+    "lastmod": "2025-10-30",
+    "announcement": {
+      "title": "Internet Banking: Features &amp; Benefits",
+      "url": "https://www.kotak.bank.in/en/stories-in-focus/cards/credit-cards/net-banking-features-advantages-internet-banking-credit-card-payment.html",
+      "description": "Official product page on Kotak Mahindra Bank's site."
+    },
+    "community": {
+      "reddit": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "amex-plaza-premium-lounge-at-dubai-international-airport",
     "cardName": "Plaza Premium Lounge at Dubai International Airport",
     "issuerName": "American Express (India)",

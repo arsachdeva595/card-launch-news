@@ -21,7 +21,7 @@
     "https://www.icici.bank.in/personal-banking/iplay/international-usage-credit-card": "2026-09-04",
     "https://www.icici.bank.in/personal-banking/iplay/how-to-convert-credit-card-transactions": "2025-11-03",
     "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment": "2026-07-09",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card": "2026-11-13",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card": "2026-11-21",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-products": "2026-10-13",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-products/balance-transfer": "2026-10-13",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emi-products/instant-emi": "2026-10-13",
@@ -32,7 +32,7 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-skywards/emirates-rubyx": "2026-11-13",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/benefits-and-features": "2026-11-18",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/list-of-branches": "2025-04-28",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/international-airport-lounge-access": "2026-10-13",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/international-airport-lounge-access": "2026-11-21",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-private-metal-credit-card": "2026-11-17",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card": "2026-10-13",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/expressions-card/designmy-card": "2026-10-08",
@@ -77,7 +77,7 @@
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-card-bill-payment/scan-to-pay": "2026-06-20",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/referral-programme": "2026-04-08",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/service-requests": "2026-05-08",
-    "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-builder-programme": "2026-09-21",
+    "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-builder-programme": "2026-11-21",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/credit-builder-programme/credit-dictionary": "2026-04-08",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/membership-kits": "2026-11-13",
     "https://www.icici.bank.in/personal-banking/cards/credit-card/documents": "2026-09-28",
@@ -242,7 +242,7 @@
     "https://www.icici.bank.in/business-banking/cards/corporate-card/purchase-card": "2026-08-13",
     "https://www.icici.bank.in/business-banking/cards/corporate-card/membership-kits": "2026-11-02",
     "https://www.icici.bank.in/business-banking/cards/corporate-card/rewards-programme": "2026-02-18",
-    "https://www.icici.bank.in/business-banking/cards/corporate-card/documents": "2026-09-22",
+    "https://www.icici.bank.in/business-banking/cards/corporate-card/documents": "2026-06-01",
     "https://www.icici.bank.in/campus-power/alumni-credit-card": "2026-08-06",
     "https://www.icici.bank.in/personal-banking/cards/credit-cards": "2025-08-19",
     "https://www.icici.bank.in/personal-banking/cards/credit-cards/credit-card": "2023-08-01",
@@ -1125,5 +1125,5 @@
     "https://www.icici.bank.in/personal-banking/card/credit-card/ferrari-signature": "2023-08-23",
     "https://www.icici.bank.in/personal-banking/card/credit-card/benefits-and-features": "2025-03-19"
   },
-  "updatedAt": "2026-11-20T11:47:54.101Z"
+  "updatedAt": "2026-11-21T11:10:37.791Z"
 }

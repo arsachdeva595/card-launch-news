@@ -1,5 +1,1345 @@
 [
   {
+    "id": "idfc-first-bank-first-swyp",
+    "cardName": "FIRST SWYP",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/swyp-emi-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:26:31.387Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Managing expenses is easier than ever with the FIRST SWYP Credit Card, convert big-ticket purchases into stress-free EMIs instantly with a simple monthly EMI conversion fee and no interest charges, while earning benefits worth ₹60,000+ every year through year-round discounts on feature partner and rewards."
+      },
+      {
+        "type": "context",
+        "text": "Read less"
+      },
+      {
+        "type": "added",
+        "text": "Maximise Zero Forex Markup benefits"
+      },
+      {
+        "type": "added",
+        "text": "To get the maximum benefit of Zero Forex Markup, always choose to pay in the local"
+      },
+      {
+        "type": "added",
+        "text": "currency of the country you are in."
+      },
+      {
+        "type": "added",
+        "text": "So, when asked to choose a currency, pick dollars in New York, yen in Tokyo, dirhams"
+      },
+      {
+        "type": "added",
+        "text": "in Dubai. Your card will handle the currency conversion with Zero Forex Markup."
+      },
+      {
+        "type": "added",
+        "text": "A shop, website or ATM abroad may offer to bill you in Indian Rupees instead. If you"
+      },
+      {
+        "type": "added",
+        "text": "choose INR, the merchant or ATM may apply its own conversion rate and a separate"
+      },
+      {
+        "type": "added",
+        "text": "charge called Dynamic Currency Conversion (DCC)."
+      },
+      {
+        "type": "context",
+        "text": "Get started with ₹500 gift voucher"
+      },
+      {
+        "type": "context",
+        "text": "and more welcome benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "FIRST SWYP Credit Card benefits that you simply cannot miss"
+      },
+      {
+        "type": "context",
+        "text": "Read more"
+      },
+      {
+        "type": "removed",
+        "text": "11 Best Spearker and innovative audio products every music lover"
+      },
+      {
+        "type": "added",
+        "text": "11 Best Speaker and innovative audio products every music lover"
+      },
+      {
+        "type": "context",
+        "text": "Read more"
+      },
+      {
+        "type": "context",
+        "text": "Here's how to buy your dream moblie on EMI"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-credit-card-bill-payment-online",
+    "cardName": "Credit Card Bill Payment Online",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:26:00.216Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "mins read |"
+      },
+      {
+        "type": "context",
+        "text": "Read now"
+      },
+      {
+        "type": "removed",
+        "text": "How to Pay Vi Postpaid Bill Online | Step-by-Step Guide"
+      },
+      {
+        "type": "removed",
+        "text": "mins read |"
+      },
+      {
+        "type": "removed",
+        "text": "Read now"
+      },
+      {
+        "type": "removed",
+        "text": "How to Make Mahanagar Gas Payment Online – Step-by-Step Guide"
+      },
+      {
+        "type": "removed",
+        "text": "mins read |"
+      },
+      {
+        "type": "removed",
+        "text": "Read now"
+      },
+      {
+        "type": "removed",
+        "text": "How to Do Airtel Recharge Online | Quick Steps to Recharge"
+      },
+      {
+        "type": "removed",
+        "text": "mins read |"
+      },
+      {
+        "type": "removed",
+        "text": "Read now"
+      },
+      {
+        "type": "removed",
+        "text": "How to Pay Jio Postpaid Bill Online | Step-by-Step Guide"
+      },
+      {
+        "type": "removed",
+        "text": "mins read |"
+      },
+      {
+        "type": "removed",
+        "text": "Read now"
+      },
+      {
+        "type": "context",
+        "text": "Intrested to learn more?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-corporate-premium-credit-card",
+    "cardName": "Corporate Premium Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/corporate-premium-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:24:50.141Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Corporate Card: Apply for Corporate Credit Card Online | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Popular 8"
+      },
+      {
+        "type": "added",
+        "text": "Kids 2"
+      },
+      {
+        "type": "added",
+        "text": "Others 13"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Comprehensive Insurance Protection"
+      },
+      {
+        "type": "context",
+        "text": "Reward Points on your Spends*"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "MyCard"
+      },
+      {
+        "type": "context",
+        "text": "Email & CCAP"
+      },
+      {
+        "type": "removed",
+        "text": "To enable Card Controls via Email"
+      },
+      {
+        "type": "removed",
+        "text": "Authorized Signatory can send request for enabling the card control by sending request to email id: corporateassist@hdfcbank.com"
+      },
+      {
+        "type": "removed",
+        "text": "To enable Card Controls via CCAP"
+      },
+      {
+        "type": "removed",
+        "text": "Authorized Signatory can send the request for enabling the card control by sending request through Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "added",
+        "text": "Authorized Signatory can send a request for enabling card controls by:"
+      },
+      {
+        "type": "added",
+        "text": "Email:   corporateassist@hdfc.bank.in   OR"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "context",
+        "text": "Rewards & Redemption Program"
+      },
+      {
+        "type": "context",
+        "text": "Contactless Payment"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Corporate Service Portal – Corporate can be provided with access to corporate portal to carry out certain real time maintenance activities"
+      },
+      {
+        "type": "context",
+        "text": "Card holders on declaration / individual liability programs need to call customer service centre to carry out maintenance activities"
+      },
+      {
+        "type": "added",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-central-travel-account-credit-card",
+    "cardName": "Central Travel Account Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/central-travel-account-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:24:50.140Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Central Travel Account Credit Card - HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 8"
+      },
+      {
+        "type": "removed",
+        "text": "Kids 2"
+      },
+      {
+        "type": "removed",
+        "text": "Others 13"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Central Travel Account Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Manage business travel expenses easily."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "MyCard"
+      },
+      {
+        "type": "context",
+        "text": "Email & CCAP"
+      },
+      {
+        "type": "removed",
+        "text": "Authorized Signatory can send a request for enabling card controls by:"
+      },
+      {
+        "type": "removed",
+        "text": "Email:   corporateassist@hdfc.bank.in   OR"
+      },
+      {
+        "type": "removed",
+        "text": "Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "added",
+        "text": "To enable Card Controls via Email"
+      },
+      {
+        "type": "added",
+        "text": "Authorized Signatory can send request for enabling the card control by sending request to email id: corporateassist@hdfcbank.com"
+      },
+      {
+        "type": "added",
+        "text": "To enable Card Controls via CCAP"
+      },
+      {
+        "type": "added",
+        "text": "Authorized Signatory can send the request for enabling the card control by sending request through Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "context",
+        "text": "Automation"
+      },
+      {
+        "type": "context",
+        "text": "Automation"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Flight delay"
+      },
+      {
+        "type": "context",
+        "text": "Up to INR 15,000 for International Travel Only (deductible – 12 hours)"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-pixel-go-credit-card",
+    "cardName": "Pixel Go Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-go-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:24:50.135Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "PIXEL Go Credit Card - Get Customised Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Popular 8"
+      },
+      {
+        "type": "added",
+        "text": "Kids 2"
+      },
+      {
+        "type": "added",
+        "text": "Others 13"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy your card Lifetime Free"
+      },
+      {
+        "type": "context",
+        "text": "1% CashBack on eligible transactions"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Subscribe"
+      },
+      {
+        "type": "context",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  commodo consequat. Lorem ipsum dolor? Click here"
+      },
+      {
+        "type": "added",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-business-corporate-regalia-credit-card",
+    "cardName": "Business Corporate Regalia Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/business-corporate-regalia-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-11-22T11:24:50.132Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Business Corporate Regalia Credit Card | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Popular 8"
+      },
+      {
+        "type": "added",
+        "text": "Kids 2"
+      },
+      {
+        "type": "added",
+        "text": "Others 13"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Commercial Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Business Corporate Regalia Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "MyCard"
+      },
+      {
+        "type": "context",
+        "text": "Email & CCAP"
+      },
+      {
+        "type": "removed",
+        "text": "To enable Card Controls via Email"
+      },
+      {
+        "type": "removed",
+        "text": "Authorized Signatory can send request for enabling the card control by sending request to email id: corporateassist@hdfcbank.com"
+      },
+      {
+        "type": "removed",
+        "text": "To enable Card Controls via CCAP"
+      },
+      {
+        "type": "removed",
+        "text": "Authorized Signatory can send the request for enabling the card control by sending request through Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "added",
+        "text": "Authorized Signatory can send a request for enabling card controls by:"
+      },
+      {
+        "type": "added",
+        "text": "Email:   corporateassist@hdfc.bank.in   OR"
+      },
+      {
+        "type": "added",
+        "text": "Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "context",
+        "text": "Card Reward & Redemption"
+      },
+      {
+        "type": "context",
+        "text": "Fees & Renewal"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Does the Business Corporate Regalia Credit Card have lounge access?"
+      },
+      {
+        "type": "context",
+        "text": "Yes, the Business Corporate Regalia Credit Card provides complimentary lounge access as part of its luxury benefits . Through the Priority Pass program, you can enjoy eight domestic airport lounge visits annually and six international lounge visits annually."
+      },
+      {
+        "type": "added",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "added",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-diners-club-black-metal-edition-credit-card",
+    "cardName": "Diners Club Black Metal Edition Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-club-black-metal-edition-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:24:50.131Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Diners Club Black Metal Edition Credit Card | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 8"
+      },
+      {
+        "type": "removed",
+        "text": "Kids 2"
+      },
+      {
+        "type": "removed",
+        "text": "Others 13"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Diners Club Black METAL Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "2X Rewards on Weekend Dining"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "10,000 Bonus Reward Points"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
+    "cardName": "Tata Neu Plus HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/tata-neu-plus-hdfc-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:24:50.105Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "context",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Tata Neu Plus Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Tata Neu Plus Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "₹499 welcome NeuCoins"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-radware-captcha-page",
+    "cardName": "Radware Captcha Page",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.975Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: f16b6435-e42i-4d21-ad1d-f032fee48066"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 372f674b-e42i-4871-879a-9e1d3f63c3e3"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:02:02 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:57 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-wave-credit-card",
+    "cardName": "Rupay Wave Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.975Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: e57ad4a7-e42i-42f1-a0a5-571c2a20e39d"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 3ce44e8c-e42i-4f2f-85a5-75aab8b395e8"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:02:00 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:56 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-signet-credit-card",
+    "cardName": "Mastercard Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.975Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 95e1cb5b-e42i-43ed-8767-806cea266a69"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: b15c747e-e42i-445f-97de-10c4a59e50bc"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:01:59 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:54 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-signet-credit-card",
+    "cardName": "Rupay Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.975Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: ceb1d6a0-e42i-42b2-a3f6-e7a163ffee9e"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 0a076787-e42i-4ac2-8630-a04d276dd3c9"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:02:00 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:55 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-rupay-credit-card",
+    "cardName": "Fed StarBiz RuPay Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.975Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 17cf71a4-e42i-4c03-88ad-92e610fa6510"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: cf9d76ac-e42i-4438-a3c9-dc74972730ac"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:02:01 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:57 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-signet-credit-card",
+    "cardName": "Visa Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.974Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 38cf76ed-e42i-48a2-9fa8-e1fe68fd4af8"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: f030aadf-e42i-4091-bd7e-e503d9532764"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:01:56 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:51 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-visa-credit-card",
+    "cardName": "Fed StarBiz Visa Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.974Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 36218558-e42i-4b33-912a-9ba07b7870b8"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 6ef9bb2f-e42i-4525-9e86-58550beaac1a"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:01:57 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:52 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-celesta-credit-card",
+    "cardName": "Mastercard Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.974Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: b2f9d3f5-e42i-426e-9853-b58ffabd0fab"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 711ffc27-e42i-43a6-9305-5e85775f8054"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:01:57 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:53 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-imperio-credit-card",
+    "cardName": "Mastercard Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.974Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 2266798d-e42i-4408-8872-eabee767d431"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 4511d6fe-e42i-443b-ab56-99349839e021"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:01:58 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:54 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-imperio-credit-card",
+    "cardName": "Visa Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.974Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: a7426fac-e42i-45f0-9adc-328ad9b00117"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: abb047f6-e42i-44fc-aa4f-021041f05d6a"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:01:55 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:51 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-celesta-credit-card",
+    "cardName": "Visa Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:57.974Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: d27f535b-e42i-4ed1-86ff-e8e5b9f6280b"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 6ab06c2a-e42i-44cb-9acc-4e995a80a659"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 21 2026, 11:01:54 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 22 2026, 11:23:50 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "equitas-sfb-powermiles-credit-card",
+    "cardName": "Powermiles Credit Card",
+    "issuerName": "Equitas Small Finance Bank",
+    "issuerSlug": "equitas-sfb",
+    "officialUrl": "https://equitas.bank.in/",
+    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:49.081Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Common Credit Card Mistakes | Best Credit Card for Cashback & Rewards"
+      },
+      {
+        "type": "context",
+        "text": "Avoid these 4 common credit card oversights to maintain financial health. Plus, discover why the Equitas Credit Card is the top choice for cashback and rewards."
+      },
+      {
+        "type": "removed",
+        "text": "Summary of FX Services for Customers"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "equitas-sfb-selfe-credit-card",
+    "cardName": "Selfe Credit Card",
+    "issuerName": "Equitas Small Finance Bank",
+    "issuerSlug": "equitas-sfb",
+    "officialUrl": "https://equitas.bank.in/",
+    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/selfe-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-22T11:23:49.079Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "How Your Credit Limit Is Decided & How to Increase It"
+      },
+      {
+        "type": "context",
+        "text": "Wondering why your credit limit is set that way? Understand what affects it and learn proven tips to boost your limit responsibly with Equitas."
+      },
+      {
+        "type": "removed",
+        "text": "Summary of FX Services for Customers"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "kotak-mahindra-bank-811-dream-different-credit-card",
     "cardName": "811 Dream Different Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -728,402 +2068,6 @@
     }
   },
   {
-    "id": "hdfc-bank-central-travel-account-credit-card",
-    "cardName": "Central Travel Account Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/central-travel-account-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:53.760Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Central Travel Account Credit Card - HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Popular 8"
-      },
-      {
-        "type": "added",
-        "text": "Kids 2"
-      },
-      {
-        "type": "added",
-        "text": "Others 13"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Central Travel Account Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Manage business travel expenses easily."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "MyCard"
-      },
-      {
-        "type": "context",
-        "text": "Email & CCAP"
-      },
-      {
-        "type": "removed",
-        "text": "To enable Card Controls via Email"
-      },
-      {
-        "type": "removed",
-        "text": "Authorized Signatory can send request for enabling the card control by sending request to email id: corporateassist@hdfcbank.com"
-      },
-      {
-        "type": "removed",
-        "text": "To enable Card Controls via CCAP"
-      },
-      {
-        "type": "removed",
-        "text": "Authorized Signatory can send the request for enabling the card control by sending request through Corporate Card Assist Portal (CCAP)"
-      },
-      {
-        "type": "added",
-        "text": "Authorized Signatory can send a request for enabling card controls by:"
-      },
-      {
-        "type": "added",
-        "text": "Email:   corporateassist@hdfc.bank.in   OR"
-      },
-      {
-        "type": "added",
-        "text": "Corporate Card Assist Portal (CCAP)"
-      },
-      {
-        "type": "context",
-        "text": "Automation"
-      },
-      {
-        "type": "context",
-        "text": "Automation"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Flight delay"
-      },
-      {
-        "type": "context",
-        "text": "Up to INR 15,000 for International Travel Only (deductible – 12 hours)"
-      },
-      {
-        "type": "added",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "added",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-pixel-go-credit-card",
-    "cardName": "Pixel Go Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-go-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:53.753Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "PIXEL Go Credit Card - Get Customised Credit Card | HDFC Bank"
-      },
-      {
-        "type": "removed",
-        "text": "Popular 8"
-      },
-      {
-        "type": "removed",
-        "text": "Kids 2"
-      },
-      {
-        "type": "removed",
-        "text": "Others 13"
-      },
-      {
-        "type": "removed",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "removed",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "removed",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "removed",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy your card Lifetime Free"
-      },
-      {
-        "type": "context",
-        "text": "1% CashBack on eligible transactions"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Subscribe"
-      },
-      {
-        "type": "context",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  commodo consequat. Lorem ipsum dolor? Click here"
-      },
-      {
-        "type": "removed",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-business-corporate-regalia-credit-card",
-    "cardName": "Business Corporate Regalia Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/business-corporate-regalia-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-11-21T11:02:53.748Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Business Corporate Regalia Credit Card | HDFC Bank"
-      },
-      {
-        "type": "removed",
-        "text": "Popular 8"
-      },
-      {
-        "type": "removed",
-        "text": "Kids 2"
-      },
-      {
-        "type": "removed",
-        "text": "Others 13"
-      },
-      {
-        "type": "removed",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "removed",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "removed",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "removed",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Commercial Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Business Corporate Regalia Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "MyCard"
-      },
-      {
-        "type": "context",
-        "text": "Email & CCAP"
-      },
-      {
-        "type": "removed",
-        "text": "Authorized Signatory can send a request for enabling card controls by:"
-      },
-      {
-        "type": "removed",
-        "text": "Email:   corporateassist@hdfc.bank.in   OR"
-      },
-      {
-        "type": "removed",
-        "text": "Corporate Card Assist Portal (CCAP)"
-      },
-      {
-        "type": "added",
-        "text": "To enable Card Controls via Email"
-      },
-      {
-        "type": "added",
-        "text": "Authorized Signatory can send request for enabling the card control by sending request to email id: corporateassist@hdfcbank.com"
-      },
-      {
-        "type": "added",
-        "text": "To enable Card Controls via CCAP"
-      },
-      {
-        "type": "added",
-        "text": "Authorized Signatory can send the request for enabling the card control by sending request through Corporate Card Assist Portal (CCAP)"
-      },
-      {
-        "type": "context",
-        "text": "Card Reward & Redemption"
-      },
-      {
-        "type": "context",
-        "text": "Fees & Renewal"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Does the Business Corporate Regalia Credit Card have lounge access?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, the Business Corporate Regalia Credit Card provides complimentary lounge access as part of its luxury benefits . Through the Priority Pass program, you can enjoy eight domestic airport lounge visits annually and six international lounge visits annually."
-      },
-      {
-        "type": "removed",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "hdfc-bank-diners-privilege-credit-card-old-url",
     "cardName": "Diners Privilege Credit Card (old URL)",
     "issuerName": "HDFC Bank",
@@ -1392,458 +2336,6 @@
       {
         "type": "context",
         "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-radware-captcha-page",
-    "cardName": "Radware Captcha Page",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 14b9ac5a-e42i-40e6-9bce-844341c56754"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: f16b6435-e42i-4d21-ad1d-f032fee48066"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:46 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:02:02 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-wave-credit-card",
-    "cardName": "Rupay Wave Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 90d4c44e-e42i-4c9e-9cd5-e2b0017545d5"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: e57ad4a7-e42i-42f1-a0a5-571c2a20e39d"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:45 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:02:00 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-signet-credit-card",
-    "cardName": "Visa Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: ba09d693-e42i-440f-a96f-5e3aacba3ba3"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 38cf76ed-e42i-48a2-9fa8-e1fe68fd4af8"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:40 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:01:56 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-visa-credit-card",
-    "cardName": "Fed StarBiz Visa Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 9f23c784-e42i-4402-a61d-758084052d67"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 36218558-e42i-4b33-912a-9ba07b7870b8"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:41 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:01:57 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-signet-credit-card",
-    "cardName": "Mastercard Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 737d229e-e42i-4875-b3c1-e125c22471c2"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 95e1cb5b-e42i-43ed-8767-806cea266a69"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:43 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:01:59 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-celesta-credit-card",
-    "cardName": "Mastercard Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 07ebd4d9-e42i-46a9-9d06-9cb518e7e09f"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: b2f9d3f5-e42i-426e-9853-b58ffabd0fab"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:42 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:01:57 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-signet-credit-card",
-    "cardName": "Rupay Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: d56d4433-e42i-41f1-b5f2-3641a65cfda0"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: ceb1d6a0-e42i-42b2-a3f6-e7a163ffee9e"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:44 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:02:00 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-rupay-credit-card",
-    "cardName": "Fed StarBiz RuPay Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 171ecb98-e42i-46d5-93fb-d744beaa754b"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 17cf71a4-e42i-4c03-88ad-92e610fa6510"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:46 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:02:01 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-imperio-credit-card",
-    "cardName": "Mastercard Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 051c0940-e42i-4019-9894-ba1db94b9a97"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 2266798d-e42i-4408-8872-eabee767d431"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:42 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:01:58 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-imperio-credit-card",
-    "cardName": "Visa Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.538Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: a477eb2b-e42i-4a88-8f48-17d1be78aa3a"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: a7426fac-e42i-45f0-9adc-328ad9b00117"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:39 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:01:55 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-celesta-credit-card",
-    "cardName": "Visa Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:02.537Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 5586159a-e42i-4a8e-9e51-4277f90fa8ce"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: d27f535b-e42i-4ed1-86ff-e8e5b9f6280b"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 20 2026, 11:39:38 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 21 2026, 11:01:54 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "equitas-sfb-selfe-credit-card",
-    "cardName": "Selfe Credit Card",
-    "issuerName": "Equitas Small Finance Bank",
-    "issuerSlug": "equitas-sfb",
-    "officialUrl": "https://equitas.bank.in/",
-    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/selfe-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:01:53.274Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "How Your Credit Limit Is Decided & How to Increase It"
-      },
-      {
-        "type": "context",
-        "text": "Wondering why your credit limit is set that way? Understand what affects it and learn proven tips to boost your limit responsibly with Equitas."
-      },
-      {
-        "type": "added",
-        "text": "Summary of FX Services for Customers"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "equitas-sfb-powermiles-credit-card",
-    "cardName": "Powermiles Credit Card",
-    "issuerName": "Equitas Small Finance Bank",
-    "issuerSlug": "equitas-sfb",
-    "officialUrl": "https://equitas.bank.in/",
-    "productPageUrl": "https://equitas.bank.in/personal-banking/pay/credit-cards/powermiles-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:01:53.274Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Common Credit Card Mistakes | Best Credit Card for Cashback & Rewards"
-      },
-      {
-        "type": "context",
-        "text": "Avoid these 4 common credit card oversights to maintain financial health. Plus, discover why the Equitas Credit Card is the top choice for cashback and rewards."
-      },
-      {
-        "type": "added",
-        "text": "Summary of FX Services for Customers"
       }
     ],
     "community": {
@@ -2152,106 +2644,6 @@
     }
   },
   {
-    "id": "hdfc-bank-diners-club-black-metal-edition-credit-card",
-    "cardName": "Diners Club Black Metal Edition Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-club-black-metal-edition-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-20T11:40:42.268Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Diners Club Black Metal Edition Credit Card | HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Popular 8"
-      },
-      {
-        "type": "added",
-        "text": "Kids 2"
-      },
-      {
-        "type": "added",
-        "text": "Others 13"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Diners Club Black METAL Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "2X Rewards on Weekend Dining"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "10,000 Bonus Reward Points"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "added",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "hdfc-bank-hdfc-bank-upi-rupay-credit-card",
     "cardName": "HDFC Bank UPI RuPay Credit Card",
     "issuerName": "HDFC Bank",
@@ -2343,82 +2735,6 @@
       },
       {
         "type": "removed",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
-    "cardName": "Tata Neu Plus HDFC Bank Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/tata-neu-plus-hdfc-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-20T11:40:42.236Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "context",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Tata Neu Plus Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Tata Neu Plus Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "₹499 welcome NeuCoins"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "added",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "context",
         "text": "Credit Card Customer Care"
       }
     ],
@@ -12790,78 +13106,6 @@
     }
   },
   {
-    "id": "icici-bank-credit-card-bill-payment-online",
-    "cardName": "Credit Card Bill Payment Online",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
-    "status": "Active",
-    "detectedAt": "2026-10-17T07:53:20.973Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Pay your Credit Card dues using the iMobile app"
-      },
-      {
-        "type": "context",
-        "text": "Deposit cash"
-      },
-      {
-        "type": "removed",
-        "text": "Pay at any branch (₹100 fee &#43; GST applicable)."
-      },
-      {
-        "type": "added",
-        "text": "Pay at any branch (₹150 fee &#43; GST applicable)."
-      },
-      {
-        "type": "context",
-        "text": "Pay via UPI"
-      },
-      {
-        "type": "context",
-        "text": "Make UPI payment from any UPI-enabled app/Bharat Interface for Money (BHIM) app to ICICI Bank Virtual Payment Address (VPA) : ccpay.<mobile><last 4 card digits>&#64;icici"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Swipe your ICICI Bank Debit Card at any ICICI Bank ATM. Choose ‘More Options’ to pay your Credit Card bill directly and securely."
-      },
-      {
-        "type": "context",
-        "text": "Cash deposit at branch"
-      },
-      {
-        "type": "removed",
-        "text": "Pay via cash at any ICICI Bank branch. A fee of ₹100 + 18% GST is applicable per payment transaction."
-      },
-      {
-        "type": "added",
-        "text": "Pay via cash at any ICICI Bank branch. A fee of ₹150 + 18% GST is applicable per payment transaction."
-      },
-      {
-        "type": "context",
-        "text": "Secure transactions only"
-      },
-      {
-        "type": "context",
-        "text": "Always use authorised ICICI Bank payment channels for Credit Card dues. Avoid third-party platforms to ensure your payments are secure and correctly credited."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Cash payment fee at ICICI Bank branches increased to ₹150 + 18% GST."
-    }
-  },
-  {
     "id": "icici-bank-1838-reserve-icici-bank-credit-card",
     "cardName": "1838 Reserve ICICI Bank Credit Card",
     "issuerName": "ICICI Bank",
@@ -15442,42 +15686,6 @@
     }
   },
   {
-    "id": "hdfc-bank-corporate-premium-credit-card",
-    "cardName": "Corporate Premium Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/corporate-premium-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-23T08:38:43.262Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Corporate Card: Apply for Corporate Credit Card Online | HDFC Bank"
-      },
-      {
-        "type": "removed",
-        "text": "Framework For Cross Border Transactions"
-      },
-      {
-        "type": "context",
-        "text": "Comprehensive Insurance Protection"
-      },
-      {
-        "type": "context",
-        "text": "Reward Points on your Spends*"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Removed the cross‑border transaction framework section from the card page."
-    }
-  },
-  {
     "id": "amex-platinum-upgrade",
     "cardName": "Platinum Upgrade",
     "issuerName": "American Express (India)",
@@ -15551,70 +15759,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Updated reward redemption to earn 5X Membership Rewards points on vouchers via Shopwise."
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-swyp",
-    "cardName": "FIRST SWYP",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/swyp-emi-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-09-22T08:38:35.595Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Gift Voucher worth ₹500 on spends of ₹5000 and above in first 30 days"
-      },
-      {
-        "type": "context",
-        "text": "Lenskart Gold Max Membership for 1 year"
-      },
-      {
-        "type": "removed",
-        "text": "Instant discount of up to ₹2100 (₹700 per month) on flight or hotel bookings, every month, for first 3 months"
-      },
-      {
-        "type": "added",
-        "text": "Reward points worth ₹250 , unlocked on your first EMI Transaction done within 30 days​"
-      },
-      {
-        "type": "context",
-        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
-      },
-      {
-        "type": "context",
-        "text": "Instant discount worth ₹1,500 on hotel and flight bookings"
-      },
-      {
-        "type": "context",
-        "text": "Gift Voucher worth ₹500 on spends of ₹5000 and above in first 30 days"
-      },
-      {
-        "type": "removed",
-        "text": "Instant discount of up to ₹2100 (₹700 per month) on flight or hotel bookings, every month, for first 3 months"
-      },
-      {
-        "type": "added",
-        "text": "Reward points worth ₹250 , unlocked on your first EMI Transaction done within 30 days​"
-      },
-      {
-        "type": "context",
-        "text": "Lenskart Gold Max Membership for 1 year"
-      },
-      {
-        "type": "context",
-        "text": "Flat 10% off on your first transaction on Mokobara.com within 90 days"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added a ₹250 reward points welcome benefit unlocked on first EMI transaction within 30 days"
     }
   },
   {

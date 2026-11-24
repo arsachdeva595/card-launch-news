@@ -317,5 +317,13 @@
   "Open Online KVB Demat & SMC Trading , opens a dialog",
   "Open Trading Account , opens a dialog",
   "Accessibility Statement",
-  "Accessibility Help and Support"
+  "Accessibility Help and Support",
+  "Cash withdrawal 2% of the cash withdrawn or Rs 300. (Whichever is higher)",
+  "501-2500 Rs.300/-",
+  "2501-10000 Rs.500/-",
+  "10001 -25000 Rs.800/-",
+  "25001 and above Rs.1000/-",
+  "Charges on over limit 2.5% on over limit amount, subject to minimum of Rs.500/-",
+  "Petrol Transaction Surcharge 1% of transaction value. Waiver: For single transaction spends between Rs.500 and Rs.4000. Maximum of Rs.200/- for one billing cycle",
+  "Reward Redemption Fee Rs.99/- per redemption request (Minimum 2000 reward points are required for first redemption, there after 250 reward points required for subsequent redemptions), Unclaimed reward points will be lapsed once in 3 years or if Minimum Amount Due (MAD) is not paid more than 60 days"
 ]

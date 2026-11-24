@@ -1,5 +1,2245 @@
 [
   {
+    "id": "union-bank-of-india-diva-credit-card",
+    "cardName": "Divaā Credit Card",
+    "issuerName": "Union Bank of India",
+    "issuerSlug": "union-bank-of-india",
+    "officialUrl": "https://www.unionbankofindia.bank.in/",
+    "productPageUrl": "https://www.unionbankofindia.bank.in/en/Details/divaa-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:50:57.941Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Divaa Credit Card – Union Bank of India Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "Divaā Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Divaā Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Divaā Credit Card variant is a newly launched credit card which comes with feature packed benefits and exclusive offers to Women. It also offers complimentary Airport lounge access and much more. The Divaā credit card comes with an annual benefit worth Rs. 24,000/- and more."
+      },
+      {
+        "type": "removed",
+        "text": "Eligibility"
+      },
+      {
+        "type": "removed",
+        "text": "Airport Lounge access -Complimentary"
+      },
+      {
+        "type": "removed",
+        "text": "Domestic- 8 per Year (2 per Quarter)"
+      },
+      {
+        "type": "removed",
+        "text": "International- 2 per Year"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Points per Rs.100 Spent"
+      },
+      {
+        "type": "removed",
+        "text": "2 points (1 Reward Point = Rs. 0.25)"
+      },
+      {
+        "type": "removed",
+        "text": "Surcharge on fuel purchase Waiver"
+      },
+      {
+        "type": "removed",
+        "text": "1% waiver with a cap of Rs.100 per billing cycle"
+      },
+      {
+        "type": "removed",
+        "text": "Accidental Insurance Coverage"
+      },
+      {
+        "type": "removed",
+        "text": "Rs.2.00 lakhs (Premium borne by NPCI)"
+      },
+      {
+        "type": "removed",
+        "text": "Additional Rs. 10.00 Lakhs (Premium Borne by Card Holder)"
+      },
+      {
+        "type": "removed",
+        "text": "RuPay Credit card can be linked on UPI and can be used for merchant"
+      },
+      {
+        "type": "removed",
+        "text": "payments on UPI"
+      },
+      {
+        "type": "removed",
+        "text": "Sr. No."
+      },
+      {
+        "type": "removed",
+        "text": "Offer"
+      },
+      {
+        "type": "removed",
+        "text": "Offer Details"
+      },
+      {
+        "type": "removed",
+        "text": "Frequency"
+      },
+      {
+        "type": "removed",
+        "text": "Nykaa"
+      },
+      {
+        "type": "removed",
+        "text": "Discount Voucher worth ₹500/-"
+      },
+      {
+        "type": "removed",
+        "text": "Once per quarter"
+      },
+      {
+        "type": "removed",
+        "text": "Flipkart"
+      },
+      {
+        "type": "removed",
+        "text": "Discount Voucher worth ₹250/-"
+      },
+      {
+        "type": "removed",
+        "text": "Once per quarter"
+      },
+      {
+        "type": "removed",
+        "text": "3"
+      },
+      {
+        "type": "removed",
+        "text": "Myntra"
+      },
+      {
+        "type": "removed",
+        "text": "Discount Voucher worth ₹250/-"
+      },
+      {
+        "type": "removed",
+        "text": "Once per quarter"
+      },
+      {
+        "type": "removed",
+        "text": "4"
+      },
+      {
+        "type": "removed",
+        "text": "Lakme Salon"
+      },
+      {
+        "type": "removed",
+        "text": "Discount Voucher worth ₹1500/-"
+      },
+      {
+        "type": "removed",
+        "text": "Once per quarter"
+      },
+      {
+        "type": "removed",
+        "text": "5"
+      },
+      {
+        "type": "removed",
+        "text": "Ixigo"
+      },
+      {
+        "type": "removed",
+        "text": "Instant Discount worth ₹500/-"
+      },
+      {
+        "type": "removed",
+        "text": "Once per quarter"
+      },
+      {
+        "type": "removed",
+        "text": "6"
+      },
+      {
+        "type": "removed",
+        "text": "Book My Show"
+      },
+      {
+        "type": "removed",
+        "text": "Flat ₹250/- Off on minimum purchase of 2 movie/non-movie tickets."
+      },
+      {
+        "type": "removed",
+        "text": "Once per quarter"
+      },
+      {
+        "type": "removed",
+        "text": "7"
+      },
+      {
+        "type": "removed",
+        "text": "Swiggy One"
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited free deliveries on Food and Instamart orders"
+      },
+      {
+        "type": "removed",
+        "text": "Once per annum"
+      },
+      {
+        "type": "removed",
+        "text": "8"
+      },
+      {
+        "type": "removed",
+        "text": "Annual Health Checkup"
+      },
+      {
+        "type": "removed",
+        "text": "Women's Health Package including Pap Smear & Blood Tests"
+      },
+      {
+        "type": "removed",
+        "text": "Once per annum"
+      },
+      {
+        "type": "removed",
+        "text": "9"
+      },
+      {
+        "type": "removed",
+        "text": "Big Basket"
+      },
+      {
+        "type": "removed",
+        "text": "Discount Voucher worth ₹250/-"
+      },
+      {
+        "type": "removed",
+        "text": "Once per quarter"
+      },
+      {
+        "type": "removed",
+        "text": "10"
+      },
+      {
+        "type": "removed",
+        "text": "Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Personal Accident Insurance and Permanent Disability Cover up to ₹10"
+      },
+      {
+        "type": "removed",
+        "text": "Lakhs"
+      },
+      {
+        "type": "removed",
+        "text": "As per Claim/Need"
+      },
+      {
+        "type": "removed",
+        "text": "11"
+      },
+      {
+        "type": "removed",
+        "text": "Lounge Access"
+      },
+      {
+        "type": "removed",
+        "text": "8 Complimentary Domestic lounge access per year (2 per quarter)"
+      },
+      {
+        "type": "removed",
+        "text": "2 Complimentary International lounge access per year"
+      },
+      {
+        "type": "removed",
+        "text": "As mentioned"
+      },
+      {
+        "type": "removed",
+        "text": "12"
+      },
+      {
+        "type": "removed",
+        "text": "Concierge Services"
+      },
+      {
+        "type": "removed",
+        "text": "Avail 24/7 host of Referral services from Travel assistance to Hotel"
+      },
+      {
+        "type": "removed",
+        "text": "reservations to Consultancy services."
+      },
+      {
+        "type": "removed",
+        "text": "24x7 Concierge Services"
+      },
+      {
+        "type": "removed",
+        "text": "Steps to avail the benefits/vouchers:"
+      },
+      {
+        "type": "removed",
+        "text": "1.Visit the website"
+      },
+      {
+        "type": "removed",
+        "text": "https://www.rupay.co.in/platinum-booking"
+      },
+      {
+        "type": "removed",
+        "text": "and click on Signup"
+      },
+      {
+        "type": "removed",
+        "text": "2.Enter full name, city and select the card type as “RuPay Platinum Credit"
+      },
+      {
+        "type": "removed",
+        "text": "Card”."
+      },
+      {
+        "type": "removed",
+        "text": "3.Select card as “Union Bank of India Women Credit card”."
+      },
+      {
+        "type": "removed",
+        "text": "4.Proceed to create the account and avail the services after login."
+      },
+      {
+        "type": "removed",
+        "text": "RuPay Airport Lounge details"
+      },
+      {
+        "type": "removed",
+        "text": "RuPay Offers"
+      },
+      {
+        "type": "removed",
+        "text": "– Checkout latest offers from RuPay"
+      },
+      {
+        "type": "removed",
+        "text": "https://unioncards.unionbankofindia.bank.in or contact our customer service for detailed information on interest"
+      },
+      {
+        "type": "removed",
+        "text": "rates."
+      },
+      {
+        "type": "removed",
+        "text": "Credit card website – Visit https://unioncards.unionbankofindia.bank.in"
+      },
+      {
+        "type": "removed",
+        "text": "(Login/Register)"
+      },
+      {
+        "type": "removed",
+        "text": "Redemption can"
+      },
+      {
+        "type": "removed",
+        "text": "SMS - Send an SMS CARDLOST<space>XXXX (where XXXX denotes last 4 digits of your"
+      },
+      {
+        "type": "removed",
+        "text": "SMS - Send an SMS LOSTREPL XXXX (where XXXX denotes last 4 digits of your credit card no.) from registered mobile no. to 7836884400"
+      },
+      {
+        "type": "removed",
+        "text": "(https://unioncards.unionbankofindia.bank.in/) replacement card should be requested at time of blocking the card. Under Lost Card section, choose Yes in RE ISSUE CARD option."
+      },
+      {
+        "type": "removed",
+        "text": "(https://unioncards.unionbankofindia.bank.in/) visit My Profile section to see Communication Address."
+      },
+      {
+        "type": "removed",
+        "text": "You can request the address update in your branch providing copy of address"
+      },
+      {
+        "type": "removed",
+        "text": "proof."
+      },
+      {
+        "type": "removed",
+        "text": "Address update can also be requested through your registered email id. Kindly"
+      },
+      {
+        "type": "removed",
+        "text": "send the scan copy of address proof with request for address update to"
+      },
+      {
+        "type": "removed",
+        "text": "ccdhelpdesk@unionbankofindia.bank.in"
+      },
+      {
+        "type": "removed",
+        "text": "(https://unioncards.unionbankofindia.bank.in) Go to CREDIT CARD PAYMENT tab for payment of credit card dues"
+      },
+      {
+        "type": "added",
+        "text": "Internal Server Error"
+      },
+      {
+        "type": "added",
+        "text": "An error occurred while processing your request."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-eternis-credit-card",
+    "cardName": "KVB Eternis Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-eternis-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:47:48.468Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Zero Foreign"
+      },
+      {
+        "type": "context",
+        "text": "currency markup on international transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Features & benefits Base Rewards: 2 Reward Points (RP) for every ₹100 spent."
+      },
+      {
+        "type": "removed",
+        "text": "Accelerated Rewards: Earn 3X Reward Points on airline, hotel, dining, and luxury shopping spends."
+      },
+      {
+        "type": "removed",
+        "text": "Reward Redemption: 1 Reward Point (RP) = ₹1."
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Bonus: 10,000 Reward Points on card activation."
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Benefits: One-night stay at Postcard Hotels, 1-year MindEscapes Concierge Club Access, 1-year EazyDiner Membership and 1-year Club Marriott Membership."
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy 15% off on Business Class fares with Qatar Airways, Lufthansa on international routes and Air India on domestic routes."
+      },
+      {
+        "type": "removed",
+        "text": "Zero foreign currency markup on international transactions."
+      },
+      {
+        "type": "added",
+        "text": "Features & benefits Features and benefits for KVB Eternis Credit Card Particulars Details"
+      },
+      {
+        "type": "added",
+        "text": "Base Rewards 2 Reward Points (RP) for every ₹100 spent."
+      },
+      {
+        "type": "added",
+        "text": "Accelerated Rewards Earn 3X Reward Points on airline, hotel, dining, and luxury shopping spends."
+      },
+      {
+        "type": "added",
+        "text": "Reward Redemption 1 Reward Point (RP) = ₹1."
+      },
+      {
+        "type": "added",
+        "text": "Welcome Bonus 10,000 Reward Points on card activation."
+      },
+      {
+        "type": "added",
+        "text": "Welcome Benefits One-night stay at Postcard Hotels, 1-year MindEscapes Concierge Club Access, 1-year EazyDiner Membership and 1-year Club Marriott Membership."
+      },
+      {
+        "type": "added",
+        "text": "Travel Offers Enjoy 15% off on Business Class fares with Qatar Airways, Lufthansa on international routes and Air India on domestic routes."
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency Zero foreign currency markup on international transactions."
+      },
+      {
+        "type": "context",
+        "text": "Credit card Limit Min 5 Lacs, Max 50.00 Lacs"
+      },
+      {
+        "type": "context",
+        "text": "EMI Minimum transaction amount of Rs 500 and maximum of total credit limit shall be converted to EMI at the rate of 15% to 22% depending on the EMI tenor"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Finance Charges 3% per month, 36% per annum"
+      },
+      {
+        "type": "context",
+        "text": "Interest free grace period Maximum of upto 45 days. All charges incurred by the use of the Card and all the charges applicable to the Card shall be paid within 15 days from the bill generation date."
+      },
+      {
+        "type": "removed",
+        "text": "Validity of the card 5 years from the date of issuance of the card subject to fulfillment of the banks eligibility criteria."
+      },
+      {
+        "type": "added",
+        "text": "Validity of the card 7 years from the date of issuance of the card subject to fulfillment of the banks eligibility criteria."
+      },
+      {
+        "type": "context",
+        "text": "Minimum amount due 5% of Total Outstanding + all applicable taxes + EMI (in case of EMI based product) + Over Limit amount (if any). It will reflect as Minimum Amount Due in the statement"
+      },
+      {
+        "type": "context",
+        "text": "Joining fee 29,999/- plus applicable GST"
+      },
+      {
+        "type": "context",
+        "text": "Annual fee 29,999/- plus applicable GST"
+      },
+      {
+        "type": "context",
+        "text": "Card Replacement fee Rs.3999/- plus applicable GST (Waived for Fraudulent transaction, reissue on Expiry)"
+      },
+      {
+        "type": "removed",
+        "text": "Cash withdrawal 2% of the cash withdrawn or Rs 300. (Whichever is higher)"
+      },
+      {
+        "type": "context",
+        "text": "Late Payment charges Outstanding amount between 200-500 Rs.100/-"
+      },
+      {
+        "type": "removed",
+        "text": "501-2500 Rs.300/-"
+      },
+      {
+        "type": "removed",
+        "text": "2501-10000 Rs.500/-"
+      },
+      {
+        "type": "removed",
+        "text": "10001 -25000 Rs.800/-"
+      },
+      {
+        "type": "removed",
+        "text": "25001 and above Rs.1000/-"
+      },
+      {
+        "type": "removed",
+        "text": "Charges on over limit 2.5% on over limit amount, subject to minimum of Rs.500/-"
+      },
+      {
+        "type": "context",
+        "text": "Payment (cheque/ECS/NACH) return 500/-"
+      },
+      {
+        "type": "removed",
+        "text": "Petrol Transaction Surcharge 1% of transaction value. Waiver: For single transaction spends between Rs.500 and Rs.4000. Maximum of Rs.200/- for one billing cycle"
+      },
+      {
+        "type": "context",
+        "text": "Foreign Currency NIL"
+      },
+      {
+        "type": "context",
+        "text": "EMI/BT processing charges 1% of the EMI Principal, Min 300/-"
+      },
+      {
+        "type": "context",
+        "text": "EMI/BT foreclosure charges 3% of the Principal outstanding"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Redemption Fee Rs.99/- per redemption request (Minimum 2000 reward points are required for first redemption, there after 250 reward points required for subsequent redemptions), Unclaimed reward points will be lapsed once in 3 years or if Minimum Amount Due (MAD) is not paid more than 60 days"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-alturas-credit-card",
+    "cardName": "KVB Alturas Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-alturas-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:47:48.468Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "KVB Alturas Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Visa Infinite credit card with travel and lifestyle rewards, zero foreign currency markup charges, welcome bonus, and milestone annual fee waiver."
+      },
+      {
+        "type": "removed",
+        "text": "₹14,999 + GST"
+      },
+      {
+        "type": "removed",
+        "text": "Joining and annual fee"
+      },
+      {
+        "type": "removed",
+        "text": "7,500 RP"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome bonus (₹7,500)"
+      },
+      {
+        "type": "removed",
+        "text": "Zero markup"
+      },
+      {
+        "type": "removed",
+        "text": "0% foreign currency markup charges"
+      },
+      {
+        "type": "added",
+        "text": "5X Reward"
+      },
+      {
+        "type": "added",
+        "text": "on airline, hotels, dining & luxury shopping (1 RP = ₹1)"
+      },
+      {
+        "type": "added",
+        "text": "7500 Bonus"
+      },
+      {
+        "type": "added",
+        "text": "Reward points on card activation"
+      },
+      {
+        "type": "added",
+        "text": "Zero Foreign"
+      },
+      {
+        "type": "added",
+        "text": "currency markup on international transactions"
+      },
+      {
+        "type": "context",
+        "text": "Features & benefits Features and benefits for KVB Alturas Credit Card Particulars Details"
+      },
+      {
+        "type": "removed",
+        "text": "Joining / Annual Fee ₹14,999 + GST"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Points 1 RP / ₹100 + 5X RP on airline, hotels, dining & luxury shopping (1 RP = ₹1)"
+      },
+      {
+        "type": "removed",
+        "text": "Benefits EazyDiner Prime (12M)"
+      },
+      {
+        "type": "removed",
+        "text": "Club Marriott (1 Year)"
+      },
+      {
+        "type": "removed",
+        "text": "0% Foreign Currency Markup charges"
+      },
+      {
+        "type": "removed",
+        "text": "Welcome Bonus: 7,500 RP (₹7,500)"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone Spend 200% of credit limit in Year 1 — Annual fee waiver in Year 2 (as gift vouchers)"
+      },
+      {
+        "type": "added",
+        "text": "Base Rewards 1 Reward Points (RP) for every ₹100 spent."
+      },
+      {
+        "type": "added",
+        "text": "Accelerated Rewards Earn 5X RP on airline, hotels, dining & luxury shopping."
+      },
+      {
+        "type": "added",
+        "text": "Reward Redemption 1 Reward Point (RP) = ₹1."
+      },
+      {
+        "type": "added",
+        "text": "Welcome Bonus 7500 Reward Points on card activation."
+      },
+      {
+        "type": "added",
+        "text": "Welcome Benefits 1-year EazyDiner Membership and 1-year Club Marriott Membership."
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency Zero foreign currency markup on international transactions."
+      },
+      {
+        "type": "added",
+        "text": "Credit card Limit Min 5 Lacs, Max 50.00 Lacs"
+      },
+      {
+        "type": "added",
+        "text": "EMI Minimum transaction amount of Rs 500 and maximum of total credit limit shall be converted to EMI at the rate of 15% to 22% depending on the EMI tenor"
+      },
+      {
+        "type": "added",
+        "text": "Balance Transfer Not Available"
+      },
+      {
+        "type": "added",
+        "text": "Contactless Contactless transactions are allowed up to the maximum limit stipulated by RBI. At present the maximum limit allowed for PIN less contactless transaction is Rs 5000.00"
+      },
+      {
+        "type": "added",
+        "text": "Auto Debit Either Total Amount Due (TAD) or Minimum Amount Due (MAD) are accepted. The linked accounts will be auto debited only once on the due dates"
+      },
+      {
+        "type": "added",
+        "text": "Finance Charges 3% per month, 36% per annum"
+      },
+      {
+        "type": "added",
+        "text": "Interest free grace period Maximum of upto 45 days. All charges incurred by the use of the Card and all the charges applicable to the Card shall be paid within 15 days from the bill generation date."
+      },
+      {
+        "type": "added",
+        "text": "Validity of the card 7 years from the date of issuance of the card subject to fulfillment of the banks eligibility criteria."
+      },
+      {
+        "type": "added",
+        "text": "Minimum amount due 5% of Total Outstanding + all applicable taxes + EMI (in case of EMI based product) + Over Limit amount (if any). It will reflect as Minimum Amount Due in the statement"
+      },
+      {
+        "type": "added",
+        "text": "Joining fee 14,999/- plus applicable GST"
+      },
+      {
+        "type": "added",
+        "text": "Annual fee 14,999/- plus applicable GST"
+      },
+      {
+        "type": "added",
+        "text": "Card Replacement fee Rs.3999/- plus applicable GST (Waived for Fraudulent transaction, reissue on Expiry)"
+      },
+      {
+        "type": "added",
+        "text": "Late Payment charges Outstanding amount between 201-500 Rs.100/-"
+      },
+      {
+        "type": "added",
+        "text": "Payment (cheque/ECS/NACH) return Rs.500.00+ Applicable GST."
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency NIL"
+      },
+      {
+        "type": "added",
+        "text": "EMI/BT processing charges 1% of the EMI Principal, Min 300/-"
+      },
+      {
+        "type": "added",
+        "text": "EMI/BT foreclosure charges 3% of the Principal outstanding"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-oura-credit-card",
+    "cardName": "KVB Oura Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-oura-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:47:48.468Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "KVB Oura Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Visa Platinum credit card with e-commerce rewards, lifestyle memberships, and milestone annual fee waiver."
+      },
+      {
+        "type": "removed",
+        "text": "₹2,999 + GST"
+      },
+      {
+        "type": "removed",
+        "text": "Joining and annual fee"
+      },
+      {
+        "type": "removed",
+        "text": "8X Reward Points"
+      },
+      {
+        "type": "added",
+        "text": "8X Reward"
+      },
+      {
+        "type": "context",
+        "text": "on e-commerce shopping (1 RP = ₹0.25)"
+      },
+      {
+        "type": "context",
+        "text": "Amazon Prime"
+      },
+      {
+        "type": "removed",
+        "text": "12 months membership"
+      },
+      {
+        "type": "added",
+        "text": "1-year membership with welcome benefits"
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency"
+      },
+      {
+        "type": "added",
+        "text": "Mark up of 3.5% will be charged on Foreign Currency transactions"
+      },
+      {
+        "type": "context",
+        "text": "Features & benefits Features and benefits for KVB Oura Credit Card Particulars Details"
+      },
+      {
+        "type": "removed",
+        "text": "Joining / Annual Fee ₹2,999 + GST"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Points 1 RP / ₹100 + 8X RP on e-commerce shopping (1 RP = ₹0.25)"
+      },
+      {
+        "type": "removed",
+        "text": "Benefits Amazon Prime (12M)"
+      },
+      {
+        "type": "removed",
+        "text": "Zomato Gold (12M)"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone Spend 200% of credit limit in Year 1 — Annual fee waiver in Year 2 (as gift vouchers)"
+      },
+      {
+        "type": "added",
+        "text": "Base Rewards 1 Reward Points (RP) for every ₹100 spent."
+      },
+      {
+        "type": "added",
+        "text": "Accelerated Rewards Earn 8X RP on e-commerce shopping."
+      },
+      {
+        "type": "added",
+        "text": "Reward Redemption 1 Reward Point (RP) = ₹0.25."
+      },
+      {
+        "type": "added",
+        "text": "Welcome Benefits 1-year Amazon Prime Membership and 1-year Zomato Gold Membership."
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency Mark up of 3.5% will be charged on Foreign Currency transactions"
+      },
+      {
+        "type": "added",
+        "text": "Credit card Limit Min 0.5 Lacs, Max 5.00 Lacs"
+      },
+      {
+        "type": "added",
+        "text": "EMI Minimum transaction amount of Rs 500 and maximum of total credit limit shall be converted to EMI at the rate of 15% to 22% depending on the EMI tenor"
+      },
+      {
+        "type": "added",
+        "text": "Balance Transfer Not Available"
+      },
+      {
+        "type": "added",
+        "text": "Contactless Contactless transactions are allowed up to the maximum limit stipulated by RBI. At present the maximum limit allowed for PIN less contactless transaction is Rs 5000.00"
+      },
+      {
+        "type": "added",
+        "text": "Auto Debit Either Total Amount Due (TAD) or Minimum Amount Due (MAD) are accepted. The linked accounts will be auto debited only once on the due dates"
+      },
+      {
+        "type": "added",
+        "text": "Finance Charges 3% per month, 36% per annum"
+      },
+      {
+        "type": "added",
+        "text": "Interest free grace period Maximum of upto 45 days. All charges incurred by the use of the Card and all the charges applicable to the Card shall be paid within 15 days from the bill generation date."
+      },
+      {
+        "type": "added",
+        "text": "Validity of the card 7 years from the date of issuance of the card subject to fulfillment of the banks eligibility criteria."
+      },
+      {
+        "type": "added",
+        "text": "Minimum amount due 5% of Total Outstanding + all applicable taxes + EMI (in case of EMI based product) + Over Limit amount (if any). It will reflect as Minimum Amount Due in the statement"
+      },
+      {
+        "type": "added",
+        "text": "Joining fee 2,999/- plus applicable GST"
+      },
+      {
+        "type": "added",
+        "text": "Annual fee 2,999/- plus applicable GST"
+      },
+      {
+        "type": "added",
+        "text": "Card Replacement fee Rs.1399/- plus applicable GST (Waived for Fraudulent transaction, reissue on Expiry)"
+      },
+      {
+        "type": "added",
+        "text": "Late Payment charges Outstanding amount between 201-500 Rs.100/-"
+      },
+      {
+        "type": "added",
+        "text": "Payment (cheque/ECS/NACH) return Rs.500.00+ Applicable GST."
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency Mark up of 3.5% will be charged on Foreign Currency transactions"
+      },
+      {
+        "type": "added",
+        "text": "EMI/BT processing charges 1% of the EMI Principal, Min 300/-"
+      },
+      {
+        "type": "added",
+        "text": "EMI/BT foreclosure charges 3% of the Principal outstanding"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-samara-credit-card",
+    "cardName": "KVB Samara Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-samara-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:47:48.468Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "KVB Samara Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Visa Signature credit card with dining and e-commerce rewards, premium memberships, and milestone annual fee waiver."
+      },
+      {
+        "type": "removed",
+        "text": "₹5,999 + GST"
+      },
+      {
+        "type": "removed",
+        "text": "Joining and annual fee"
+      },
+      {
+        "type": "removed",
+        "text": "6X Reward Points"
+      },
+      {
+        "type": "removed",
+        "text": "on dining and e-commerce shopping (1 RP = ₹0.50)"
+      },
+      {
+        "type": "added",
+        "text": "6X Reward"
+      },
+      {
+        "type": "added",
+        "text": "on dining & e-commerce shopping (1 RP = ₹0.50)"
+      },
+      {
+        "type": "context",
+        "text": "Taj Epicure"
+      },
+      {
+        "type": "removed",
+        "text": "1 year membership"
+      },
+      {
+        "type": "added",
+        "text": "1-year membership with welcome benefits"
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency"
+      },
+      {
+        "type": "added",
+        "text": "Mark up of 3.5% will be charged on Foreign Currency transactions"
+      },
+      {
+        "type": "context",
+        "text": "Features & benefits Features and benefits for KVB Samara Credit Card Particulars Details"
+      },
+      {
+        "type": "removed",
+        "text": "Joining / Annual Fee ₹5,999 + GST"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Points 1 RP / ₹100 + 6X RP on dining & e-commerce shopping (1 RP = ₹0.50)"
+      },
+      {
+        "type": "removed",
+        "text": "Benefits Taj Epicure (1 Year)"
+      },
+      {
+        "type": "removed",
+        "text": "EazyDiner Prime (6M)"
+      },
+      {
+        "type": "removed",
+        "text": "Amazon Prime (12M)"
+      },
+      {
+        "type": "removed",
+        "text": "Milestone Spend 200% of credit limit in Year 1 — Annual fee waiver in Year 2 (as gift vouchers)"
+      },
+      {
+        "type": "added",
+        "text": "Base Rewards 1 Reward Points (RP) for every ₹100 spent."
+      },
+      {
+        "type": "added",
+        "text": "Accelerated Rewards Earn 6X RP on dining & e-commerce shopping."
+      },
+      {
+        "type": "added",
+        "text": "Reward Redemption 1 Reward Point (RP) = ₹0.5."
+      },
+      {
+        "type": "added",
+        "text": "Welcome Benefits 1-year Taj Epicure Membership, 6 months Eazy Diner Prime Membership and 1-year Amazon Prime Membership."
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency Mark up of 3.5% will be charged on Foreign Currency transactions"
+      },
+      {
+        "type": "added",
+        "text": "Credit card Limit Min 1 Lacs, Max 10.00 Lacs"
+      },
+      {
+        "type": "added",
+        "text": "EMI Minimum transaction amount of Rs 500 and maximum of total credit limit shall be converted to EMI at the rate of 15% to 22% depending on the EMI tenor"
+      },
+      {
+        "type": "added",
+        "text": "Balance Transfer Not Available"
+      },
+      {
+        "type": "added",
+        "text": "Contactless Contactless transactions are allowed up to the maximum limit stipulated by RBI. At present the maximum limit allowed for PIN less contactless transaction is Rs 5000.00"
+      },
+      {
+        "type": "added",
+        "text": "Auto Debit Either Total Amount Due (TAD) or Minimum Amount Due (MAD) are accepted. The linked accounts will be auto debited only once on the due dates"
+      },
+      {
+        "type": "added",
+        "text": "Finance Charges 3% per month, 36% per annum"
+      },
+      {
+        "type": "added",
+        "text": "Interest free grace period Maximum of upto 45 days. All charges incurred by the use of the Card and all the charges applicable to the Card shall be paid within 15 days from the bill generation date."
+      },
+      {
+        "type": "added",
+        "text": "Validity of the card 7 years from the date of issuance of the card subject to fulfillment of the banks eligibility criteria."
+      },
+      {
+        "type": "added",
+        "text": "Minimum amount due 5% of Total Outstanding + all applicable taxes + EMI (in case of EMI based product) + Over Limit amount (if any). It will reflect as Minimum Amount Due in the statement"
+      },
+      {
+        "type": "added",
+        "text": "Joining fee 5,999/- plus applicable GST"
+      },
+      {
+        "type": "added",
+        "text": "Annual fee 5,999/- plus applicable GST"
+      },
+      {
+        "type": "added",
+        "text": "Card Replacement fee Rs.2199/- plus applicable GST (Waived for Fraudulent transaction, reissue on Expiry)"
+      },
+      {
+        "type": "added",
+        "text": "Late Payment charges Outstanding amount between 201-500 Rs.100/-"
+      },
+      {
+        "type": "added",
+        "text": "Payment (cheque/ECS/NACH) return Rs.500.00+ Applicable GST."
+      },
+      {
+        "type": "added",
+        "text": "Foreign Currency Mark up of 3.5% will be charged on Foreign Currency transactions"
+      },
+      {
+        "type": "added",
+        "text": "EMI/BT processing charges 1% of the EMI Principal, Min 300/-"
+      },
+      {
+        "type": "added",
+        "text": "EMI/BT foreclosure charges 3% of the Principal outstanding"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-platinum-credit-card",
+    "cardName": "KVB Platinum Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-platinum-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:47:48.467Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Card Replacement fee Rs.199/- (Waived for Fraudulent transaction, reissue on Expiry)"
+      },
+      {
+        "type": "context",
+        "text": "Add on card fee Free"
+      },
+      {
+        "type": "removed",
+        "text": "Cash withdrawal 2% of the cash withdrawn or Rs 300. (Whichever is higher)"
+      },
+      {
+        "type": "context",
+        "text": "Late Payment charges Outstanding amount between 200-500 Rs.100/-"
+      },
+      {
+        "type": "removed",
+        "text": "501-2500 Rs.300/-"
+      },
+      {
+        "type": "removed",
+        "text": "2501-10000 Rs.500/-"
+      },
+      {
+        "type": "removed",
+        "text": "10001 -25000 Rs.800/-"
+      },
+      {
+        "type": "removed",
+        "text": "25001 and above Rs.1000/-"
+      },
+      {
+        "type": "removed",
+        "text": "Charges on over limit 2.5% on over limit amount, subject to minimum of Rs.500/-"
+      },
+      {
+        "type": "context",
+        "text": "Payment (cheque/ECS/NACH) return Rs 500/-"
+      },
+      {
+        "type": "context",
+        "text": "Cash processing fee Rs.100.00 (for all cash deposits made through KVB Branches)"
+      },
+      {
+        "type": "removed",
+        "text": "Petrol Transaction Surcharge 1% of transaction value. Waiver: For single transaction spends between Rs.500 and Rs.4000. Maximum of Rs.200/- for one billing cycle"
+      },
+      {
+        "type": "context",
+        "text": "Foreign Currency Mark up of 3.5% will be charged on Foreign Currencytransactions"
+      },
+      {
+        "type": "context",
+        "text": "Goods & Service Tax(GST) Applicable on all fees, interest and other charges."
+      },
+      {
+        "type": "context",
+        "text": "EMI/BT processing charges Rs 300 or 1% of the loan amount (Whichever is higher)"
+      },
+      {
+        "type": "context",
+        "text": "EMI/BT foreclosure charges 3% on the principle outstanding"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Redemption Fee Rs.99/- per redemption request (Minimum 2000 reward points are required for first redemption, there after 250 reward points required for subsequent redemptions), Unclaimed reward points will be lapsed once in 3 years or if Minimum Amount Due (MAD) is not paid more than 60 days"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "karur-vysya-bank-kvb-honour-credit-card",
+    "cardName": "KVB Honour Credit Card",
+    "issuerName": "Karur Vysya Bank",
+    "issuerSlug": "karur-vysya-bank",
+    "officialUrl": "https://www.kvb.bank.in",
+    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-honour-credit-card/",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:47:48.467Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Card Replacement fee Rs.199/- (Waived for Fraudulent transaction, reissue on Expiry)"
+      },
+      {
+        "type": "context",
+        "text": "Add on card fee Free"
+      },
+      {
+        "type": "removed",
+        "text": "Cash withdrawal 2% of the cash withdrawn or Rs 300. (Whichever is higher)"
+      },
+      {
+        "type": "context",
+        "text": "Charges on revolving credit  3.25% per Month; 39% P.A (Both Platinum and Honour)"
+      },
+      {
+        "type": "context",
+        "text": "Late Payment charges Outstanding amount between 200-500 Rs.100/-"
+      },
+      {
+        "type": "removed",
+        "text": "501-2500 Rs.300/-"
+      },
+      {
+        "type": "removed",
+        "text": "2501-10000 Rs.500/-"
+      },
+      {
+        "type": "removed",
+        "text": "10001 -25000 Rs.800/-"
+      },
+      {
+        "type": "removed",
+        "text": "25001 and above Rs.1000/-"
+      },
+      {
+        "type": "removed",
+        "text": "Charges on over limit 2.5% on over limit amount, subject to minimum of Rs.500/-"
+      },
+      {
+        "type": "context",
+        "text": "Payment (cheque/ECS/NACH) return Rs 500/-"
+      },
+      {
+        "type": "context",
+        "text": "Cash processing fee Rs.100.00 (for all cash deposits made through KVB Branches)"
+      },
+      {
+        "type": "removed",
+        "text": "Petrol Transaction Surcharge 1% of transaction value. Waiver: For single transaction spends between Rs.500 and Rs.4000. Maximum of Rs.200/- for one billing cycle"
+      },
+      {
+        "type": "context",
+        "text": "Foreign Currency Mark up of 3.5% will be charged on Foreign Currency transactions"
+      },
+      {
+        "type": "context",
+        "text": "Goods & Service Tax(GST) Applicable on all fees, interest and other charges."
+      },
+      {
+        "type": "context",
+        "text": "EMI/BT processing charges Rs 300 or 1% of the loan amount (Whichever is higher)"
+      },
+      {
+        "type": "context",
+        "text": "EMI/BT foreclosure charges 3% on the principle outstanding"
+      },
+      {
+        "type": "removed",
+        "text": "Reward Redemption Fee Rs.99/- per redemption request (Minimum 2000 reward points are required for first redemption, there after 250 reward points required for subsequent redemptions), Unclaimed reward points will be lapsed once in 3 years or if Minimum Amount Due (MAD) is not paid more than 60 days"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-diners-privilege-credit-card-old-url",
+    "cardName": "Diners Privilege Credit Card (old URL)",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-privilege-old-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:45:20.583Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Diners Privilege Credit Card Online – Credit Cards | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 8"
+      },
+      {
+        "type": "context",
+        "text": "Kids 2"
+      },
+      {
+        "type": "removed",
+        "text": "Others 13"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Diners Privilege Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "'Buy One Get One' On BookMyShow"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Welcome vouchers"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-marriott-bonvoy-hdfc-bank-credit-card",
+    "cardName": "Marriott Bonvoy HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/marriott-bonvoy-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:45:20.574Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "context",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Marriott Bonvoy Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Marriott Bonvoy® HDFC Bank Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "When will cardmember’s Marriott Bonvoy Membership Number be generated?"
+      },
+      {
+        "type": "context",
+        "text": "Once the Marriott Bonvoy HDFC Bank Credit Card is approved, Membership Number will be generated within 10 working days. On successful Membership Number generation, cardmember will receive communication from Marriott on their registered Email ID within 72hours."
+      },
+      {
+        "type": "added",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-indianoil-hdfc-bank-credit-card",
+    "cardName": "IndianOil HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/indianoil-hdfc-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:45:20.566Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Fuel Credit Card - Apply for Indianoil Credit Card Online | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 8"
+      },
+      {
+        "type": "removed",
+        "text": "Kids 2"
+      },
+      {
+        "type": "removed",
+        "text": "Others 13"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Indianoil Hdfc Bank Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Earn up to 50 Litres of Free fuel annually"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Nationality: Indian"
+      },
+      {
+        "type": "context",
+        "text": "Age:   Minimum 21 years, Maximum 60 Years"
+      },
+      {
+        "type": "removed",
+        "text": "Net Monthly Income:   > ₹10,000"
+      },
+      {
+        "type": "added",
+        "text": "Net Monthly Income:   > ₹12,000"
+      },
+      {
+        "type": "context",
+        "text": "Self-Employed"
+      },
+      {
+        "type": "context",
+        "text": "Nationality: Indian"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "1% fuel surcharge off"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-diners-privilege-credit-card",
+    "cardName": "Diners Privilege Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-privilege-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:45:20.564Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Diners Privilege Credit Card Online – Credit Cards | HDFC Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Popular 8"
+      },
+      {
+        "type": "context",
+        "text": "Kids 2"
+      },
+      {
+        "type": "removed",
+        "text": "Others 13"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "removed",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Diners Privilege Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "'Buy One Get One' On BookMyShow"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Welcome vouchers"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
+    "cardName": "Tata Neu Plus HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/tata-neu-plus-hdfc-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:45:20.562Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "context",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "removed",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Tata Neu Plus Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Tata Neu Plus Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "₹499 welcome NeuCoins"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "context",
+        "text": "Credit Card Customer Care"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-radware-captcha-page",
+    "cardName": "Radware Captcha Page",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 95c4c79d-e42i-49f7-99d8-9ba5bc01b9ce"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 0b00c74c-e42i-474a-9fc0-1ad7fd3fce12"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:35:00 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:27 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-wave-credit-card",
+    "cardName": "Rupay Wave Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 1e324654-e42i-4501-be84-62c9405aef1b"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 35bd4674-e42i-487c-b6cb-9a35181528bf"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:58 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:26 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-signet-credit-card",
+    "cardName": "Mastercard Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 8c1fccd9-e42i-48cc-bb95-a0e54fdf30d0"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 38a73378-e42i-46a8-bda9-9d0a320e5084"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:57 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:24 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-signet-credit-card",
+    "cardName": "Rupay Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: ddc32dba-e42i-4988-9f00-a41b1d571c0c"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: da84c9ee-e42i-4b33-9818-d090659d9b25"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:58 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:25 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-rupay-credit-card",
+    "cardName": "Fed StarBiz RuPay Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: e680d56e-e42i-4d39-9ed2-cb1f5ef7a2db"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: b4345d25-e42i-4735-863f-6b99a93ecbb5"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:59 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:26 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-signet-credit-card",
+    "cardName": "Visa Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 5b777216-e42i-4477-b082-c7a952b23c64"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: a3d80e79-e42i-4651-8de3-abfbd80c4a9d"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:54 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:21 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-visa-credit-card",
+    "cardName": "Fed StarBiz Visa Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: ff1aa8bb-e42i-4de2-a9bf-7c8c8613e2dc"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 3084dcfd-e42i-4f5c-aa70-f570e2cf2f3f"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:54 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:22 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-celesta-credit-card",
+    "cardName": "Mastercard Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: f8804cee-e42i-413f-9ee4-64c9bf8bf6b5"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: a35bd364-e42i-435a-82fb-5f5d70312aeb"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:55 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:22 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-imperio-credit-card",
+    "cardName": "Mastercard Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: fb023098-e42i-45a8-936b-0a2680af3916"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 7fe96972-e42i-4a79-adf9-7cf25221ca43"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:56 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:23 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-imperio-credit-card",
+    "cardName": "Visa Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: fc2720b6-e42i-4f8c-9706-b6eeafda8fa0"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: a744e9ed-e42i-4b5d-89f0-d75851c67e3c"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:53 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:20 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-celesta-credit-card",
+    "cardName": "Visa Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:44:27.599Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: b99ba31a-e42i-4bb3-9393-0b7f2e326724"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 5584b975-e42i-4405-b021-fb6646386923"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 23 2026, 12:34:52 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 24 2026, 13:44:19 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-business-supreme-visa",
+    "cardName": "Axis Bank Business Supreme Visa",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-visa-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-24T13:41:48.807Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Card Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "A commercial credit card which is"
+      },
+      {
+        "type": "removed",
+        "text": "easy on your pocket"
+      },
+      {
+        "type": "added",
+        "text": "A Commercial credit card which is"
+      },
+      {
+        "type": "added",
+        "text": "easy on your pocket Tailored options basis your needs!"
+      },
+      {
+        "type": "context",
+        "text": "Before applying for Axis Bank Business Supreme Credit Card &ndash; Visa please read the terms and conditions for Business Supreme Credit Card &ndash; Visa. You can apply for the Credit Card online or visit your nearest Axis Bank branch where our representatives will be happy to help you."
+      },
+      {
+        "type": "context",
+        "text": "Please click here to view the terms and conditions."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "kotak-mahindra-bank-kotak-cashback-credit-card",
     "cardName": "Kotak Cashback+ Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -852,478 +3092,6 @@
       {
         "type": "context",
         "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
-    "cardName": "Tata Neu Plus HDFC Bank Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/tata-neu-plus-hdfc-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:50.415Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "context",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Tata Neu Plus Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Tata Neu Plus Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "₹499 welcome NeuCoins"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "added",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-radware-captcha-page",
-    "cardName": "Radware Captcha Page",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 372f674b-e42i-4871-879a-9e1d3f63c3e3"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 95c4c79d-e42i-49f7-99d8-9ba5bc01b9ce"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:57 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:35:00 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-wave-credit-card",
-    "cardName": "Rupay Wave Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 3ce44e8c-e42i-4f2f-85a5-75aab8b395e8"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 1e324654-e42i-4501-be84-62c9405aef1b"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:56 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:58 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-signet-credit-card",
-    "cardName": "Mastercard Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: b15c747e-e42i-445f-97de-10c4a59e50bc"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 8c1fccd9-e42i-48cc-bb95-a0e54fdf30d0"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:54 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:57 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-signet-credit-card",
-    "cardName": "Rupay Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 0a076787-e42i-4ac2-8630-a04d276dd3c9"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: ddc32dba-e42i-4988-9f00-a41b1d571c0c"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:55 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:58 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-rupay-credit-card",
-    "cardName": "Fed StarBiz RuPay Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: cf9d76ac-e42i-4438-a3c9-dc74972730ac"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: e680d56e-e42i-4d39-9ed2-cb1f5ef7a2db"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:57 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:59 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-signet-credit-card",
-    "cardName": "Visa Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: f030aadf-e42i-4091-bd7e-e503d9532764"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 5b777216-e42i-4477-b082-c7a952b23c64"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:51 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:54 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-visa-credit-card",
-    "cardName": "Fed StarBiz Visa Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 6ef9bb2f-e42i-4525-9e86-58550beaac1a"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: ff1aa8bb-e42i-4de2-a9bf-7c8c8613e2dc"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:52 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:54 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-celesta-credit-card",
-    "cardName": "Mastercard Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 711ffc27-e42i-43a6-9305-5e85775f8054"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: f8804cee-e42i-413f-9ee4-64c9bf8bf6b5"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:53 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:55 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-imperio-credit-card",
-    "cardName": "Mastercard Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 4511d6fe-e42i-443b-ab56-99349839e021"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: fb023098-e42i-45a8-936b-0a2680af3916"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:54 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:56 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-imperio-credit-card",
-    "cardName": "Visa Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.377Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: abb047f6-e42i-44fc-aa4f-021041f05d6a"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: fc2720b6-e42i-4f8c-9706-b6eeafda8fa0"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:51 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:53 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-celesta-credit-card",
-    "cardName": "Visa Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-23T12:35:00.376Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 6ab06c2a-e42i-44cb-9acc-4e995a80a659"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: b99ba31a-e42i-4bb3-9393-0b7f2e326724"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 22 2026, 11:23:50 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 23 2026, 12:34:52 UTC"
       }
     ],
     "community": {
@@ -2272,282 +4040,6 @@
     }
   },
   {
-    "id": "hdfc-bank-diners-privilege-credit-card-old-url",
-    "cardName": "Diners Privilege Credit Card (old URL)",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-privilege-old-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:53.737Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply for Diners Privilege Credit Card Online – Credit Cards | HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Popular 8"
-      },
-      {
-        "type": "context",
-        "text": "Kids 2"
-      },
-      {
-        "type": "added",
-        "text": "Others 13"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Diners Privilege Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "'Buy One Get One' On BookMyShow"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Welcome vouchers"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "added",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-marriott-bonvoy-hdfc-bank-credit-card",
-    "cardName": "Marriott Bonvoy HDFC Bank Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/marriott-bonvoy-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:53.728Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "context",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Marriott Bonvoy Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Marriott Bonvoy® HDFC Bank Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "When will cardmember’s Marriott Bonvoy Membership Number be generated?"
-      },
-      {
-        "type": "context",
-        "text": "Once the Marriott Bonvoy HDFC Bank Credit Card is approved, Membership Number will be generated within 10 working days. On successful Membership Number generation, cardmember will receive communication from Marriott on their registered Email ID within 72hours."
-      },
-      {
-        "type": "removed",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-diners-privilege-credit-card",
-    "cardName": "Diners Privilege Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/diners-privilege-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-21T11:02:53.717Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply for Diners Privilege Credit Card Online – Credit Cards | HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Popular 8"
-      },
-      {
-        "type": "context",
-        "text": "Kids 2"
-      },
-      {
-        "type": "added",
-        "text": "Others 13"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Diners Privilege Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "'Buy One Get One' On BookMyShow"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Welcome vouchers"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "added",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "axis-bank-miles-and-more-axis-bank-credit-card",
     "cardName": "Miles and More Axis Bank Credit Card",
     "issuerName": "Axis Bank",
@@ -3040,54 +4532,6 @@
       {
         "type": "context",
         "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-business-supreme-visa",
-    "cardName": "Axis Bank Business Supreme Visa",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-visa-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-20T11:36:11.607Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Card Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "A Commercial credit card which is"
-      },
-      {
-        "type": "removed",
-        "text": "easy on your pocket Tailored options basis your needs!"
-      },
-      {
-        "type": "added",
-        "text": "A commercial credit card which is"
-      },
-      {
-        "type": "added",
-        "text": "easy on your pocket"
-      },
-      {
-        "type": "context",
-        "text": "Before applying for Axis Bank Business Supreme Credit Card &ndash; Visa please read the terms and conditions for Business Supreme Credit Card &ndash; Visa. You can apply for the Credit Card online or visit your nearest Axis Bank branch where our representatives will be happy to help you."
-      },
-      {
-        "type": "context",
-        "text": "Please click here to view the terms and conditions."
       }
     ],
     "community": {
@@ -4784,134 +6228,6 @@
       {
         "type": "context",
         "text": "Here's what you get with an HSBC Visa Platinum Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-indianoil-hdfc-bank-credit-card",
-    "cardName": "IndianOil HDFC Bank Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/indianoil-hdfc-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-19T11:41:47.745Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Fuel Credit Card - Apply for Indianoil Credit Card Online | HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Popular 8"
-      },
-      {
-        "type": "added",
-        "text": "Kids 2"
-      },
-      {
-        "type": "added",
-        "text": "Others 13"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "added",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "added",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "added",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Indianoil Hdfc Bank Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Earn up to 50 Litres of Free fuel annually"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Nationality: Indian"
-      },
-      {
-        "type": "context",
-        "text": "Age:   Minimum 21 years, Maximum 60 Years"
-      },
-      {
-        "type": "removed",
-        "text": "Net Monthly Income:   > ₹12,000"
-      },
-      {
-        "type": "added",
-        "text": "Net Monthly Income:   > ₹10,000"
-      },
-      {
-        "type": "context",
-        "text": "Self-Employed"
-      },
-      {
-        "type": "context",
-        "text": "Nationality: Indian"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "1% fuel surcharge off"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "added",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "added",
-        "text": "Credit Card Customer Care"
       }
     ],
     "community": {
@@ -10737,46 +12053,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Annual fee waiver threshold updated to ₹2,00,000 with new exclusions for rent, wallet load, and gift card spends"
-    }
-  },
-  {
-    "id": "karur-vysya-bank-kvb-platinum-credit-card",
-    "cardName": "KVB Platinum Credit Card",
-    "issuerName": "Karur Vysya Bank",
-    "issuerSlug": "karur-vysya-bank",
-    "officialUrl": "https://www.kvb.bank.in",
-    "productPageUrl": "https://www.kvb.bank.in/personal/cards/kvb-credit-cards/kvb-credit-card/kvb-platinum-credit-card/",
-    "status": "Active",
-    "detectedAt": "2026-11-05T10:57:28.339Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Cash processing fee Rs.100.00 (for all cash deposits made through KVB Branches)"
-      },
-      {
-        "type": "context",
-        "text": "Petrol Transaction Surcharge 1% of transaction value. Waiver: For single transaction spends between Rs.500 and Rs.4000. Maximum of Rs.200/- for one billing cycle"
-      },
-      {
-        "type": "removed",
-        "text": "Foreign Currency Mark up of 3.5% will be charged on Foreign Currency transactions"
-      },
-      {
-        "type": "added",
-        "text": "Foreign Currency Mark up of 3.5% will be charged on Foreign Currencytransactions"
-      },
-      {
-        "type": "context",
-        "text": "Goods & Service Tax(GST) Applicable on all fees, interest and other charges."
-      },
-      {
-        "type": "context",
-        "text": "EMI/BT processing charges Rs 300 or 1% of the loan amount (Whichever is higher)"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   },
   {
@@ -19244,2382 +20520,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Age eligibility lowered to 18-65 years for Manhattan Credit Card."
-    }
-  },
-  {
-    "id": "standard-chartered-india-priority-visa-infinite-credit-card",
-    "cardName": "Priority Visa Infinite Credit Card",
-    "issuerName": "Standard Chartered India",
-    "issuerSlug": "standard-chartered-india",
-    "officialUrl": "https://www.sc.com/in/",
-    "productPageUrl": "https://www.sc.com/in/credit-cards/priority-banking-visa-infinite/",
-    "status": "Active",
-    "detectedAt": "2026-08-30T09:23:28.903Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Visa Infinite Card &#8211; Priority Banking Credit Card &#8211; Standard Chartered India"
-      },
-      {
-        "type": "removed",
-        "text": "Priority Banking Visa Infinite Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Visa Infinite Card – Priority Banking Credit Card – Standard Chartered India"
-      },
-      {
-        "type": "context",
-        "text": "Standard Chartered Priority Visa Infinite credit card provides you with an exclusive and rewarding experience as a Priority Banking client."
-      },
-      {
-        "type": "added",
-        "text": "Visa Infinite Card – Priority Banking Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "The card to suit your lifestyle"
-      },
-      {
-        "type": "context",
-        "text": "Reserved for Priority Banking customers, the Priority Visa Infinite credit card offers you personalised services and be spoke privileges to match your lifestyle."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Complementary overseas insurance"
-      },
-      {
-        "type": "context",
-        "text": "Protect yourself with complimentary overseas air accident cover of INR 1 Crore and medical insurance worth USD 25,000. Click here to update nominee details."
-      },
-      {
-        "type": "removed",
-        "text": "+ More"
-      },
-      {
-        "type": "added",
-        "text": "&#43; More"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary for Priority relationship"
-      },
-      {
-        "type": "added",
-        "text": "The privileges of the Priority Visa Infinite credit card are complimentary for our Priority Banking clients."
-      },
-      {
-        "type": "added",
-        "text": "Unique rewards programme"
-      },
-      {
-        "type": "added",
-        "text": "Earn 5 reward points for every INR 100 spent overseas or on retail fashion. Earn 2 reward points for every INR 100 on all other spends."
-      },
-      {
-        "type": "added",
-        "text": "Airport lounge access"
-      },
-      {
-        "type": "added",
-        "text": "4 complimentary access per calendar quarter on domestic Lounges in India (using your Priority Visa Infinite Credit Card)."
-      },
-      {
-        "type": "added",
-        "text": "2 complimentary access per month at international lounges (with Priority Pass) for FUM Qualified Clients."
-      },
-      {
-        "type": "added",
-        "text": "Priority Pass membership"
-      },
-      {
-        "type": "added",
-        "text": "Access to international airport lounges worldwide at a nominal change."
-      },
-      {
-        "type": "added",
-        "text": "Complementary overseas insurance"
-      },
-      {
-        "type": "added",
-        "text": "Protect yourself with complimentary overseas air accident cover of INR 1 Crore and medical insurance worth USD 25,000. Click here to update nominee details."
-      },
-      {
-        "type": "added",
-        "text": "&#43; More"
-      },
-      {
-        "type": "context",
-        "text": "Features"
-      },
-      {
-        "type": "removed",
-        "text": "Extend the benefits of your credit card to your family members by getting them lifetime free Supplementary credit cards."
-      },
-      {
-        "type": "context",
-        "text": "Enjoy a wide range of instant payment solutions like BharatQR, Bharat Bill Payment Solution (BBPS) and Samsung Pay."
-      },
-      {
-        "type": "context",
-        "text": "Online banking and Standard Chartered mobile"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Details"
-      },
-      {
-        "type": "context",
-        "text": "Charges"
-      },
-      {
-        "type": "removed",
-        "text": "Annualized Percentage Rate (w.e.f. 1 May 2021):"
-      },
-      {
-        "type": "removed",
-        "text": "The monthly interest rate is annualized to arrive at the annualized percentage rate (APR)."
-      },
-      {
-        "type": "added",
-        "text": "Annualized Percentage Rate (w.e.f. 1 May 2021): The monthly interest rate is annualized to arrive at the annualized percentage rate (APR)."
-      },
-      {
-        "type": "context",
-        "text": "Monthly interest rate of 3.75% pm is annualized to arrive at an APR of 45.00% for all Standard Chartered Credit Cards including Visa Infinite and Emirates World credit cards."
-      },
-      {
-        "type": "context",
-        "text": "However, for all instant credit card variants, the monthly interest rate is 1.99% pm (APR of 23.88%)."
-      },
-      {
-        "type": "context",
-        "text": "Cash transactions will also attract an interest rate of 3.75% pm (APR of 45.00%)."
-      },
-      {
-        "type": "removed",
-        "text": "ATM withdrawals:"
-      },
-      {
-        "type": "removed",
-        "text": "INR 100 for statement outstanding balance less than or equal to INR 500."
-      },
-      {
-        "type": "added",
-        "text": "ATM withdrawals: INR 100 for statement outstanding balance less than or equal to INR 500."
-      },
-      {
-        "type": "context",
-        "text": "INR 350 for statement outstanding balance between INR 501 and INR 2,000."
-      },
-      {
-        "type": "context",
-        "text": "INR 500 for statement outstanding balance between INR 2,001 and INR 4,000."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Click here for credit cards rates and tariff"
-      },
-      {
-        "type": "context",
-        "text": "Eligibility and Documents"
-      },
-      {
-        "type": "removed",
-        "text": "Applicant&#8217;s age should be between 21 and 65 years."
-      },
-      {
-        "type": "added",
-        "text": "ELIGIBILITY"
-      },
-      {
-        "type": "context",
-        "text": "Applicant should have a stable monthly income."
-      },
-      {
-        "type": "context",
-        "text": "Applicant should belong to credit cards sourcing cities / locations of the bank."
-      },
-      {
-        "type": "context",
-        "text": "All applications are subject to credit and other policy checks of the bank."
-      },
-      {
-        "type": "removed",
-        "text": "Documents required"
-      },
-      {
-        "type": "added",
-        "text": "DOCUMNETS REQUIRED"
-      },
-      {
-        "type": "added",
-        "text": "Self Employed Professionals: Latest IT Returns, Business Continuity proof"
-      },
-      {
-        "type": "context",
-        "text": "Priority Visa Infinite Credit Card FAQs"
-      },
-      {
-        "type": "context",
-        "text": "How long does it take to apply for a credit card?"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Make your payments at least 3 days in advance of your payment due date to facilitate the timely credit of the funds into your card account. Note that your credit limit will only be increased by the amount you have repaid after our receipt of your funds. In case we do not receive payment by the payment due date, we reserve the right to levy interest and late payment charges. If you hold multiple cards or EMI accounts with us, please give us clear instructions on the allocation of payment to these various card accounts on the reverse of your cheques. If you are issuing separate cheques for each card account, then you should clearly specify not to allocate on the reverse of the cheque.In the absence of any specific information on this front, we will apply the funds first towards clearance of the minimum amount due in respect of all card accounts you hold with us.Thereafter, the excess payment will be allocated sequentially towards payment of the card account with highest balance.If any of your card account is overdue, we reserve the right to prioritize payments to overdue accounts first as per our internal policy.For cash payments, funds transfer and payment through online banking, individual payment should be made against each of the accounts."
-      },
-      {
-        "type": "context",
-        "text": "Cash"
-      },
-      {
-        "type": "removed",
-        "text": "Cash payments can only be deposited at our branches using teller facilities. INR 100 will be charged per payment transaction for card payment made by depositing cash at any Standard Chartered branch. The same will reflect in the next month&#8217;s statement."
-      },
-      {
-        "type": "added",
-        "text": "Cash payments can only be deposited at our branches using teller facilities. INR 100 will be charged per payment transaction for card payment made by depositing cash at any Standard Chartered branch. The same will reflect in the next month’s statement."
-      },
-      {
-        "type": "context",
-        "text": "What is Visa credit card payment service?"
-      },
-      {
-        "type": "context",
-        "text": "Visa credit card payment allows you to transfer funds from our existing Standard Chartered account to any Visa credit card within India."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Please note that the OTP will appear in lieu of the verified by Visa / Mastercard secure password."
-      },
-      {
-        "type": "context",
-        "text": "What if I do not receive the OTP?"
-      },
-      {
-        "type": "removed",
-        "text": "In case you do not receive the OTP within 30 seconds, you can request for another OTP by pressing the &#8220;Resend OTP&#8221; number."
-      },
-      {
-        "type": "added",
-        "text": "In case you do not receive the OTP within 30 seconds, you can request for another OTP by pressing the “Resend OTP” number."
-      },
-      {
-        "type": "context",
-        "text": "If you do not receive the OTP after multiple attempts, please call our phone banking numbers to ensure your mobile number is registered with us."
-      },
-      {
-        "type": "context",
-        "text": "Can I apply for an Platinum Rewards virtual card?"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Your Priority Visa Infinite credit card offers you complimentary membership to Priority Pass, which gives you access to lounges in international airports across the globe. You can log on to www.prioritypass.com for details on the participating lounges. To know more on the terms and conditions, click here ."
-      },
-      {
-        "type": "context",
-        "text": "What is the Air Accident Insurance feature on my Priority Visa Infinite Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Chartered Bank has provided below mentioned complimentary Air Accident Insurance on the Standard Priority Visa Infinite Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.bank.in/credit-cards/priority-banking-visa-infinite/"
-      },
-      {
-        "type": "removed",
-        "text": "Air Accident Insurance &#8211; HDFC ERGO General Insurance Company Ltd."
-      },
-      {
-        "type": "added",
-        "text": "Standard Chartered Bank has provided below mentioned complimentary Air Accident Insurance on the Standard Priority Visa Infinite Credit Card and will be governed as per respective Product Terms and Conditions available on /content/sc/in/en/credit-cards/priority-banking-visa-infinite"
-      },
-      {
-        "type": "added",
-        "text": "Air Accident Insurance – HDFC ERGO General Insurance Company Ltd."
-      },
-      {
-        "type": "context",
-        "text": "Policy Number: 2999204852948401000"
-      },
-      {
-        "type": "context",
-        "text": "Details of Sum Insured/Limit of Liability:"
-      },
-      {
-        "type": "removed",
-        "text": "Section"
-      },
-      {
-        "type": "removed",
-        "text": "Section name"
-      },
-      {
-        "type": "removed",
-        "text": "Sum insured/ Limit of Liability"
-      },
-      {
-        "type": "removed",
-        "text": "Deductible/Excess"
-      },
-      {
-        "type": "added",
-        "text": "Section Section name Sum insured/ Limit of Liability Deductible/Excess"
-      },
-      {
-        "type": "context",
-        "text": "(if applicable)"
-      },
-      {
-        "type": "removed",
-        "text": "I"
-      },
-      {
-        "type": "removed",
-        "text": "Personal Accident"
-      },
-      {
-        "type": "removed",
-        "text": "INR"
-      },
-      {
-        "type": "removed",
-        "text": "I (A)"
-      },
-      {
-        "type": "removed",
-        "text": "Accidental Death (Air Accidents Only)"
-      },
-      {
-        "type": "removed",
-        "text": "10,000,000"
-      },
-      {
-        "type": "removed",
-        "text": "NIL"
-      },
-      {
-        "type": "added",
-        "text": "I Personal Accident INR"
-      },
-      {
-        "type": "added",
-        "text": "I (A)  Accidental Death (Air Accidents Only) 10,000,000 NIL"
-      },
-      {
-        "type": "context",
-        "text": "What is the Travel Insurance feature offered on my Priority Visa Infinite Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Chartered Bank has provided below mentioned complimentary Travel Insurance on the Standard Priority Visa Infinite Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.bank.in/credit-cards/priority-banking-visa-infinite/"
-      },
-      {
-        "type": "removed",
-        "text": "Travel Insurance Policy &#8211; HDFC ERGO General Insurance Company Ltd."
-      },
-      {
-        "type": "added",
-        "text": "Standard Chartered Bank has provided below mentioned complimentary Travel Insurance on the Standard Priority Visa Infinite Credit Card and will be governed as per respective Product Terms and Conditions available on /content/sc/in/en/credit-cards/priority-banking-visa-infinite"
-      },
-      {
-        "type": "added",
-        "text": "Travel Insurance Policy – HDFC ERGO General Insurance Company Ltd."
-      },
-      {
-        "type": "context",
-        "text": "Policy Number: 2999204251883002000"
-      },
-      {
-        "type": "context",
-        "text": "Details of Sum Insured/Limit of Liability:"
-      },
-      {
-        "type": "removed",
-        "text": "Section"
-      },
-      {
-        "type": "removed",
-        "text": "Section name"
-      },
-      {
-        "type": "removed",
-        "text": "Sum insured/ Limit of Liability"
-      },
-      {
-        "type": "removed",
-        "text": "Deductible/Excess"
-      },
-      {
-        "type": "added",
-        "text": "Section Section name Sum insured/ Limit of Liability Deductible/Excess"
-      },
-      {
-        "type": "context",
-        "text": "(if applicable)"
-      },
-      {
-        "type": "removed",
-        "text": "II"
-      },
-      {
-        "type": "removed",
-        "text": "Travel Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "USD"
-      },
-      {
-        "type": "removed",
-        "text": "II (A)"
-      },
-      {
-        "type": "removed",
-        "text": "Baggage Delay Maximum per hour: USD 10 per 8 hours"
-      },
-      {
-        "type": "removed",
-        "text": "100"
-      },
-      {
-        "type": "removed",
-        "text": "12 Hours"
-      },
-      {
-        "type": "removed",
-        "text": "II (B)"
-      },
-      {
-        "type": "removed",
-        "text": "Loss of Baggage & Personal Documents Single Any One Item Limit: USD 30"
-      },
-      {
-        "type": "removed",
-        "text": "750"
-      },
-      {
-        "type": "removed",
-        "text": "NIL"
-      },
-      {
-        "type": "removed",
-        "text": "II (C)"
-      },
-      {
-        "type": "removed",
-        "text": "Hijacking Amount Payable for every 6 Consecutive hours period: USD 75"
-      },
-      {
-        "type": "removed",
-        "text": "100"
-      },
-      {
-        "type": "removed",
-        "text": "24 hours"
-      },
-      {
-        "type": "removed",
-        "text": "II (D)"
-      },
-      {
-        "type": "removed",
-        "text": "Flight Delay Maximum Per hour USD 10"
-      },
-      {
-        "type": "removed",
-        "text": "200"
-      },
-      {
-        "type": "removed",
-        "text": "12 Hours"
-      },
-      {
-        "type": "removed",
-        "text": "II (E)"
-      },
-      {
-        "type": "removed",
-        "text": "Emergency Medical Expenses"
-      },
-      {
-        "type": "removed",
-        "text": "25000"
-      },
-      {
-        "type": "removed",
-        "text": "USD 100"
-      },
-      {
-        "type": "added",
-        "text": "II Travel Insurance USD"
-      },
-      {
-        "type": "added",
-        "text": "II (A) Baggage Delay Maximum per hour: USD 10 per 8 hours 100 12 Hours"
-      },
-      {
-        "type": "added",
-        "text": "II (B) Loss of Baggage & Personal Documents Single Any One Item Limit: USD 30 750 NIL"
-      },
-      {
-        "type": "added",
-        "text": "II (C) Hijacking Amount Payable for every 6 Consecutive hours period: USD 75 100 24 hours"
-      },
-      {
-        "type": "added",
-        "text": "II (D) Flight Delay Maximum Per hour USD 10 200 12 Hours"
-      },
-      {
-        "type": "added",
-        "text": "II (E) Emergency Medical Expenses 25000 USD 100"
-      },
-      {
-        "type": "context",
-        "text": "How can I initiate request for claims as per the Insurance policy?"
-      },
-      {
-        "type": "context",
-        "text": "For claims, you can call HDFC ERGO’s twenty-four (24) hour, seven (7) Days a week, toll-free emergency telephone assistance service"
-      },
-      {
-        "type": "removed",
-        "text": "For Emergency Medical Expenses &#8211; Toll Free: +800 08250825"
-      },
-      {
-        "type": "removed",
-        "text": "(International Toll Free &#8211; accessible from outside India) / 01204507250 (Chargeable)"
-      },
-      {
-        "type": "removed",
-        "text": "Email: travelclaims@hdfcergo.com , bankclaims@hdfcergo.com"
-      },
-      {
-        "type": "removed",
-        "text": "Address: HDFC ERGO General Insurance Company Limited 5th floor, Tower 1, Stellar IT Park, C-25, Sector-62, Noida, UP, India &#8211; 201301"
-      },
-      {
-        "type": "added",
-        "text": "For Emergency Medical Expenses – Toll Free: &#43;800 08250825"
-      },
-      {
-        "type": "added",
-        "text": "(International Toll Free – accessible from outside India) / 01204507250 (Chargeable)"
-      },
-      {
-        "type": "added",
-        "text": "Email: travelclaims&#64;hdfcergo.com , bankclaims&#64;hdfcergo.com"
-      },
-      {
-        "type": "added",
-        "text": "Address: HDFC ERGO General Insurance Company Limited 5th floor, Tower 1, Stellar IT Park, C-25, Sector-62, Noida, UP, India – 201301"
-      },
-      {
-        "type": "context",
-        "text": "You can reach out to Standard Chartered Phone banking services for any help and support on Travel Insurance or Air accident Insurance claim."
-      },
-      {
-        "type": "added",
-        "text": "READ MORE"
-      },
-      {
-        "type": "context",
-        "text": "Term and Conditions"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card- Terms and conditions"
-      },
-      {
-        "type": "added",
-        "text": "Credit Card- Terms and conditions"
-      },
-      {
-        "type": "added",
-        "text": "For details, please click here"
-      },
-      {
-        "type": "context",
-        "text": "Priority Visa Infinite Consolidated Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "Useful links"
-      },
-      {
-        "type": "added",
-        "text": "Priority Visa Infinite Consolidated Terms and Conditions"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added new reward points, lounge access, and insurance benefits for Priority Visa Infinite card."
-    }
-  },
-  {
-    "id": "standard-chartered-india-smart-credit-card",
-    "cardName": "Smart Credit Card",
-    "issuerName": "Standard Chartered India",
-    "issuerSlug": "standard-chartered-india",
-    "officialUrl": "https://www.sc.com/in/",
-    "productPageUrl": "https://www.sc.com/in/credit-cards/smart-credit-card/?pid=cc_smartcard_cclp&cid=cc_smartcard_cclp",
-    "status": "Active",
-    "detectedAt": "2026-08-30T09:23:28.902Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Smart Credit Card &#8211; Standard Chartered India"
-      },
-      {
-        "type": "removed",
-        "text": "Get cashback up to INR 18,000 annually*"
-      },
-      {
-        "type": "added",
-        "text": "Smart Credit Card – Standard Chartered India"
-      },
-      {
-        "type": "context",
-        "text": "Explore a smarter way to spend with the Smart credit card. *T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Smarter way to spend"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Show less"
-      },
-      {
-        "type": "context",
-        "text": "Other Credit Card Features"
-      },
-      {
-        "type": "removed",
-        "text": "Supplementary Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Extend the credit card benefits with your family member. Spread the joy with them!"
-      },
-      {
-        "type": "removed",
-        "text": "Contactless Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Use contactless credit card & enjoy complete freedom cash transaction with faster checkouts & secure payments."
-      },
-      {
-        "type": "removed",
-        "text": "Secure Online Transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy enhanced security for online transactions on your credit card through 3D secure OTP Verification."
-      },
-      {
-        "type": "removed",
-        "text": "Digital Payment Solutions"
-      },
-      {
-        "type": "removed",
-        "text": "Avail wide range of instant payment solutions like BharatQR, Bharat Bill Payment Solution (BBPS) & Samsung Secure Pay."
-      },
-      {
-        "type": "removed",
-        "text": "With Kuch bhi on EMI option, convert your big spends above ₹ 2,000 to easy EMI through online banking or SC Mobile. Get attractive pricing & flexible tenure options."
-      },
-      {
-        "type": "removed",
-        "text": "360° Rewards"
-      },
-      {
-        "type": "removed",
-        "text": "With Standard Chartered 360° Rewards, you can easily redeem your rewards points against our new online catalogue."
-      },
-      {
-        "type": "removed",
-        "text": "Get loan up to ₹ 5,00,000 on your credit card with flexible tenure from 12 to 60 months."
-      },
-      {
-        "type": "removed",
-        "text": "Transfer card balance from other bank credit cards up to ₹ 5,00,000 at attractive interest rate."
-      },
-      {
-        "type": "removed",
-        "text": "Balance EMI"
-      },
-      {
-        "type": "removed",
-        "text": "Convert your entire outstanding (up to ₹ 5,00,000) in EMIs with zero processing fees."
-      },
-      {
-        "type": "removed",
-        "text": "Applicant’s age should be between 18 and 65 years."
-      },
-      {
-        "type": "removed",
-        "text": "Fees and Charges"
-      },
-      {
-        "type": "added",
-        "text": "Convert all your big spends above INR 2,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options"
-      },
-      {
-        "type": "added",
-        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards program."
-      },
-      {
-        "type": "added",
-        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
-      },
-      {
-        "type": "added",
-        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
-      },
-      {
-        "type": "added",
-        "text": "Applicant should have a stable monthly income."
-      },
-      {
-        "type": "added",
-        "text": "Applicants should belong to credit cards sourcing cities/locations of the Bank."
-      },
-      {
-        "type": "context",
-        "text": "Annual Fee (for 1st Year)"
-      },
-      {
-        "type": "removed",
-        "text": "Joining / First Year Fee of INR 499 + GST waived as a Special Offer (Not applicable for existing SCB credit card holders)"
-      },
-      {
-        "type": "added",
-        "text": "Joining / First Year Fee of INR 499 &#43; GST waived as a Special Offer (Not applicable for existing SCB credit card holders)"
-      },
-      {
-        "type": "context",
-        "text": "Renewal Fee (2nd Year Onwards)"
-      },
-      {
-        "type": "removed",
-        "text": "INR 499 + GST, The renewal fee will be reversed for clients with spends greater than or equal to INR 120,000 in the preceding year on Smart credit card"
-      },
-      {
-        "type": "added",
-        "text": "INR 499 &#43; GST, The renewal fee will be reversed for clients with spends greater than or equal to INR 120,000 in the preceding year on Smart credit card"
-      },
-      {
-        "type": "context",
-        "text": "Smart Credit Card FAQs"
-      },
-      {
-        "type": "context",
-        "text": "Value chart"
-      },
-      {
-        "type": "removed",
-        "text": "Category of Spends"
-      },
-      {
-        "type": "removed",
-        "text": "Monthly Spend"
-      },
-      {
-        "type": "removed",
-        "text": "Cashback Earned (Per Month)"
-      },
-      {
-        "type": "removed",
-        "text": "Annual Cashback (Per Annum)"
-      },
-      {
-        "type": "removed",
-        "text": "Online Spends"
-      },
-      {
-        "type": "removed",
-        "text": "INR 50,000"
-      },
-      {
-        "type": "removed",
-        "text": "INR 1,000"
-      },
-      {
-        "type": "removed",
-        "text": "INR 12,000"
-      },
-      {
-        "type": "removed",
-        "text": "Offline Spends"
-      },
-      {
-        "type": "removed",
-        "text": "INR 50,000"
-      },
-      {
-        "type": "removed",
-        "text": "INR 500"
-      },
-      {
-        "type": "removed",
-        "text": "INR 6,000"
-      },
-      {
-        "type": "removed",
-        "text": "Total"
-      },
-      {
-        "type": "removed",
-        "text": "INR 1,00,000"
-      },
-      {
-        "type": "removed",
-        "text": "INR 1,500"
-      },
-      {
-        "type": "removed",
-        "text": "INR 18,000"
-      },
-      {
-        "type": "removed",
-        "text": "For Illustration purposes only, Terms & Conditions apply*"
-      },
-      {
-        "type": "removed",
-        "text": "*Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card Terms & Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "For details, please  click here for Telugu"
-      },
-      {
-        "type": "removed",
-        "text": "For details, please  click here for Bengali"
-      },
-      {
-        "type": "added",
-        "text": "Category of Spends Monthly Spend Cashback Earned (Per Month) Annual Cashback (Per Annum)"
-      },
-      {
-        "type": "added",
-        "text": "Online Spends INR 50,000 INR 1,000 INR 12,000"
-      },
-      {
-        "type": "added",
-        "text": "Offline Spends INR 50,000 INR 500 INR 6,000"
-      },
-      {
-        "type": "added",
-        "text": "Total INR 1,00,000 INR 1,500 INR 18,000"
-      },
-      {
-        "type": "context",
-        "text": "Smart Credit Card Terms and Conditions"
-      },
-      {
-        "type": "context",
-        "text": "How to avail Kuch-Bhi-on-EMI"
-      },
-      {
-        "type": "context",
-        "text": "a. KBE via Phone Banking"
-      },
-      {
-        "type": "removed",
-        "text": "Call our phone banking team on 080 39401166 / 66011166 and place your request for EMI conversion or SMS KBE to +91-9223010121 to get a call back"
-      },
-      {
-        "type": "added",
-        "text": "Call our phone banking team on 080 39401166 / 66011166 and place your request for EMI conversion or SMS KBE to &#43;91-9223010121 to get a call back"
-      },
-      {
-        "type": "context",
-        "text": "b. KBE via SMS"
-      },
-      {
-        "type": "context",
-        "text": "Respond to the SMS received just after you spend on your credit card to convert transactions into easy EMIs. A fast and easy way to avail EMI on your purchases"
-      },
-      {
-        "type": "context",
-        "text": "c.KBE via Online Banking and SC mobile"
-      },
-      {
-        "type": "context",
-        "text": "You can login to Online banking or mobile banking and place a request at your convenience for the eligible transactions."
-      },
-      {
-        "type": "removed",
-        "text": "Visa Credit Card Payment"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added new EMI conversion, reward redemption, loan, balance transfer, and eligibility details for the Smart Credit Card"
-    }
-  },
-  {
-    "id": "standard-chartered-india-ultimate-credit-card",
-    "cardName": "Ultimate Credit Card",
-    "issuerName": "Standard Chartered India",
-    "issuerSlug": "standard-chartered-india",
-    "officialUrl": "https://www.sc.com/in/",
-    "productPageUrl": "https://www.sc.com/in/credit-cards/ultimate-card/?pid=cc_ultimatecard_cclp&cid=cc_ultimatecard_cclp",
-    "status": "Active",
-    "detectedAt": "2026-08-30T09:23:28.902Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Ultimate Credit Card &#8211; Best Golf Credit Card &#8211; Standard Chartered India"
-      },
-      {
-        "type": "added",
-        "text": "Ultimate Credit Card – Best Golf Credit Card – Standard Chartered India"
-      },
-      {
-        "type": "context",
-        "text": "Earn 6000 Reward Points* worth Rs. 6000 on payment of joining fee with Ultimate Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "*T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Ultimate Credit Card Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "5 Reward* points"
-      },
-      {
-        "type": "added",
-        "text": "5 Reward* point s"
-      },
-      {
-        "type": "context",
-        "text": "on INR 150 spent"
-      },
-      {
-        "type": "removed",
-        "text": "1 = 1"
-      },
-      {
-        "type": "added",
-        "text": "1 &#61; 1"
-      },
-      {
-        "type": "context",
-        "text": "1 Reward point equals to INR 1"
-      },
-      {
-        "type": "context",
-        "text": "5% cashback*"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get complimentary access to premier golf courses in the country."
-      },
-      {
-        "type": "context",
-        "text": "Insurance Benefits"
-      },
-      {
-        "type": "removed",
-        "text": "Protect yourself with complimentary overseas air accident cover of INR 1 Crore and medical insurance worth USD 25,000. Click here to update nominee details."
-      },
-      {
-        "type": "added",
-        "text": "Protect yourself with complimentary overseas air accident cover of INR 1 Crore and medical insurance worth USD 25,000.  Click here  to update nominee details."
-      },
-      {
-        "type": "context",
-        "text": "Ultimate Credit Card is offered on Mastercard Network."
-      },
-      {
-        "type": "context",
-        "text": "Airport lounge access"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Show less"
-      },
-      {
-        "type": "context",
-        "text": "Features"
-      },
-      {
-        "type": "removed",
-        "text": "Extend the benefits of your credit card to your family members by getting them lifetime free Supplementary credit cards."
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy a wide range of instant payment solutions like BharatQR, Bharat bill payment solution (BBPS) and Samsung Pay."
-      },
-      {
-        "type": "context",
-        "text": "Check your card balance and make convenient and instant card payments via online banking and Standard Chartered Mobile."
-      },
-      {
-        "type": "removed",
-        "text": "Convert your big spends above INR 5,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options."
-      },
-      {
-        "type": "added",
-        "text": "Convert all your big spends above INR 2,000 to easy EMI with Kuch Bhi on EMI through online banking or SC Mobile. Enjoy attractive pricing and flexible tenure options"
-      },
-      {
-        "type": "context",
-        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards program."
-      },
-      {
-        "type": "context",
-        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
-      },
-      {
-        "type": "context",
-        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
-      },
-      {
-        "type": "removed",
-        "text": "Convert your entire outstanding (upto INR 5,00,000) into EMIs. Zero processing fee."
-      },
-      {
-        "type": "removed",
-        "text": "Fees and Charges"
-      },
-      {
-        "type": "removed",
-        "text": "CHARGES :"
-      },
-      {
-        "type": "added",
-        "text": "CHARGES:"
-      },
-      {
-        "type": "context",
-        "text": "Joining fees"
-      },
-      {
-        "type": "removed",
-        "text": "DETAILS :"
-      },
-      {
-        "type": "added",
-        "text": "DETAILS:"
-      },
-      {
-        "type": "context",
-        "text": "INR 5,000"
-      },
-      {
-        "type": "removed",
-        "text": "CHARGES :"
-      },
-      {
-        "type": "added",
-        "text": "CHARGES:"
-      },
-      {
-        "type": "context",
-        "text": "Renewal fees"
-      },
-      {
-        "type": "removed",
-        "text": "DETAILS :"
-      },
-      {
-        "type": "added",
-        "text": "DETAILS:"
-      },
-      {
-        "type": "context",
-        "text": "INR 5,000"
-      },
-      {
-        "type": "removed",
-        "text": "CHARGES :"
-      },
-      {
-        "type": "added",
-        "text": "CHARGES:"
-      },
-      {
-        "type": "context",
-        "text": "Supplementary card – Joining fees"
-      },
-      {
-        "type": "removed",
-        "text": "DETAILS :"
-      },
-      {
-        "type": "added",
-        "text": "DETAILS:"
-      },
-      {
-        "type": "context",
-        "text": "Nil"
-      },
-      {
-        "type": "removed",
-        "text": "CHARGES :"
-      },
-      {
-        "type": "added",
-        "text": "CHARGES:"
-      },
-      {
-        "type": "context",
-        "text": "Supplementary card – Renewal fees"
-      },
-      {
-        "type": "removed",
-        "text": "DETAILS :"
-      },
-      {
-        "type": "added",
-        "text": "DETAILS:"
-      },
-      {
-        "type": "context",
-        "text": "Nil"
-      },
-      {
-        "type": "removed",
-        "text": "Applicant’s age should be between 21 and 65."
-      },
-      {
-        "type": "context",
-        "text": "Applicant should have a stable monthly income."
-      },
-      {
-        "type": "removed",
-        "text": "Applicant should belong to credit cards sourcing cities/locations of the Bank."
-      },
-      {
-        "type": "added",
-        "text": "Applicants should belong to credit cards sourcing cities/locations of the Bank."
-      },
-      {
-        "type": "added",
-        "text": "Value chart"
-      },
-      {
-        "type": "added",
-        "text": "ANNUAL BENEFITS OF USING ULTIMATE CREDIT CARD TOTAL BENEFIT"
-      },
-      {
-        "type": "added",
-        "text": "4 golf session (INR 5000/visit) ₹20,000"
-      },
-      {
-        "type": "added",
-        "text": "6 domestic lounge visits (INR 1400/visit) ₹8400"
-      },
-      {
-        "type": "added",
-        "text": "4 global lounge visits with priority pass (2300/visit) ₹9200"
-      },
-      {
-        "type": "added",
-        "text": "Cashback on duty free outlets (INR 1000 cashback – 2 visit / year ) ₹2000"
-      },
-      {
-        "type": "added",
-        "text": "1.5% cashback on your foreign mark up (INR 50,000 / Year) ₹750"
-      },
-      {
-        "type": "added",
-        "text": "Rewards points on total annual spends (with 2 examples)"
-      },
-      {
-        "type": "added",
-        "text": "e.g.,  1)  avg INR 600,000/year 5 reward points / INR 150 &#61;  ₹20,000  on all spends except below categories mentioned in e.g. (2) ₹26,000"
-      },
-      {
-        "type": "added",
-        "text": "e.g., 2) avg INR 300,000/year 3 reward points / INR 150 &#61;  ₹6000  on Utilities, Supermarkets, Insurance, Property management, Schools & Government payments"
-      },
-      {
-        "type": "added",
-        "text": "1% fuel surcharge waiver (On spend of INR 15000/month i.e., INR 150 waiver per month) ₹1800"
-      },
-      {
-        "type": "added",
-        "text": "Rewards point on paying joining fee (6000 rewards points worth INR 6000) ₹6000"
-      },
-      {
-        "type": "added",
-        "text": "Total Benefits for Customer ₹74,150"
-      },
-      {
-        "type": "added",
-        "text": "For Illustration purposes only, Terms & Conditions apply*"
-      },
-      {
-        "type": "added",
-        "text": "Ultimate Credit Card – Terms & Conditions"
-      },
-      {
-        "type": "context",
-        "text": "Ultimate Credit Card FAQs"
-      },
-      {
-        "type": "context",
-        "text": "What are the features of Ultimate Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Joining fee = Rs 5,000"
-      },
-      {
-        "type": "removed",
-        "text": "Renewal fee = Rs 5,000"
-      },
-      {
-        "type": "removed",
-        "text": "Complimentary membership to Priority Pass to primary card holder as well as supplementary card holder. Usage is chargeable at 27 USD per visit. The fees will be waived for 1 visit per month for customers whose card spend in the last month exceeds INR 20,000"
-      },
-      {
-        "type": "added",
-        "text": "Joining fee &#61; Rs 5,000"
-      },
-      {
-        "type": "added",
-        "text": "Renewal fee &#61; Rs 5,000"
-      },
-      {
-        "type": "added",
-        "text": "Complimentary membership to Priority Pass to primary card holder as well as supplementary card holder. Usage is chargeable at 27 USD per visit. The fees"
-      },
-      {
-        "type": "added",
-        "text": "will be waived for 1 visit per month for customers whose card spend in the last month exceeds INR 20,000"
-      },
-      {
-        "type": "context",
-        "text": "Travel and Air Accident Cover up to ($ 200K).& Medical Travel Insurance up to $ 25K."
-      },
-      {
-        "type": "context",
-        "text": "Cashback of 5%* at duty-free store"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Yes, you can, please call Phone Banking for the same."
-      },
-      {
-        "type": "context",
-        "text": "What is the age limit for availing medical insurance?"
-      },
-      {
-        "type": "removed",
-        "text": "Cardholder to be between 18-70 years of age. Also this facility is available only for the primary cardholder"
-      },
-      {
-        "type": "added",
-        "text": "Cardholder to be between 18-70 years of age. Also this facility is available only for the primary cardholder"
-      },
-      {
-        "type": "context",
-        "text": "What is the condition for free lounge access ?"
-      },
-      {
-        "type": "context",
-        "text": "The domestic lounge program under VISA/Mastercard provides you 4 domestic lounge accesses per calendar quarter using your Ultimate Credit Card. This is complimentary for all cardholders."
-      },
-      {
-        "type": "context",
-        "text": "The Priority Pass programme provides you with 1 international lounge visit per month, subject to the cardholder having spent more than INR 20,000 in the previous calendar month of the visit. Please note that the card member will be liable to pay for each domestic lounge visit using Priority Pass, as per applicable charges."
-      },
-      {
-        "type": "context",
-        "text": "Can I apply for an Ultimate virtual card?"
-      },
-      {
-        "type": "removed",
-        "text": "Yes, you can apply for an Ultimate virtual credit card for golf benefits, dining privileges & more & access these perks instantly To know more, click here ."
-      },
-      {
-        "type": "added",
-        "text": "Yes, you can apply for an Ultimate virtual credit card for golf benefits, dining privileges & more & access these perks instantly To know more, click here"
-      },
-      {
-        "type": "context",
-        "text": "How to access Priority Pass Lounge Benefits?"
-      },
-      {
-        "type": "removed",
-        "text": "Your Ultimate credit card offers you complimentary membership to Priority Pass, which gives you access to lounges in international airports across the globe. You can log on to www.prioritypass.com for details on the participating lounges. To know more on the terms and conditions, click here ."
-      },
-      {
-        "type": "added",
-        "text": "Your Ultimate credit card offers you complimentary membership to Priority Pass, which gives you access to lounges in international airports across the globe. You can log on to www.prioritypass.com for details on the participating lounges. To know more on the terms and conditions, click here"
-      },
-      {
-        "type": "added",
-        "text": "A processing fee of 1% (plus taxes) would be applicable to all rental transactions. This fee will be over and above any charges applied by the merchant as communicated to the client at the time of transaction.For example – If you pay INR 20,000 on a third-party rent payment platform using your Standard Chartered Bank Credit Card, 1% of transaction amount i.e. INR 200 plus taxes will be charged as a processing fee"
-      },
-      {
-        "type": "added",
-        "text": "The processing fee will be levied by 15th of the next calendar month and will have a separate narration in the monthly statement."
-      },
-      {
-        "type": "context",
-        "text": "Which are the merchant categories selected for reward point revision?"
-      },
-      {
-        "type": "context",
-        "text": "From April 2 nd , 2023, transactions on Ultimate credit card for Utilities, Supermarkets, Insurance, Property management, Schools & Government payments will now earn 3 reward points on every INR150 spent."
-      },
-      {
-        "type": "removed",
-        "text": "MERCHANT CATEGORY CODE (MCC)"
-      },
-      {
-        "type": "removed",
-        "text": "MCC DESCRIPTION"
-      },
-      {
-        "type": "removed",
-        "text": "SPENDS"
-      },
-      {
-        "type": "removed",
-        "text": "REVISED REWARDS"
-      },
-      {
-        "type": "removed",
-        "text": "4900"
-      },
-      {
-        "type": "removed",
-        "text": "Utilities"
-      },
-      {
-        "type": "removed",
-        "text": "150"
-      },
-      {
-        "type": "removed",
-        "text": "3"
-      },
-      {
-        "type": "removed",
-        "text": "5411"
-      },
-      {
-        "type": "removed",
-        "text": "Supermarkets"
-      },
-      {
-        "type": "removed",
-        "text": "150"
-      },
-      {
-        "type": "removed",
-        "text": "3"
-      },
-      {
-        "type": "removed",
-        "text": "5960,6300"
-      },
-      {
-        "type": "removed",
-        "text": "Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "150"
-      },
-      {
-        "type": "removed",
-        "text": "3"
-      },
-      {
-        "type": "removed",
-        "text": "7349,6513"
-      },
-      {
-        "type": "removed",
-        "text": "Property Management / Rent Pay"
-      },
-      {
-        "type": "removed",
-        "text": "150"
-      },
-      {
-        "type": "removed",
-        "text": "3"
-      },
-      {
-        "type": "removed",
-        "text": "8299"
-      },
-      {
-        "type": "removed",
-        "text": "Schools"
-      },
-      {
-        "type": "removed",
-        "text": "150"
-      },
-      {
-        "type": "removed",
-        "text": "3"
-      },
-      {
-        "type": "removed",
-        "text": "9399"
-      },
-      {
-        "type": "removed",
-        "text": "Government"
-      },
-      {
-        "type": "removed",
-        "text": "150"
-      },
-      {
-        "type": "removed",
-        "text": "3"
-      },
-      {
-        "type": "added",
-        "text": "MERCHANT CATEGORY CODE (MCC) MCC DESCRIPTION SPENDS REVISED REWARDS"
-      },
-      {
-        "type": "added",
-        "text": "4900 Utilities 150 3"
-      },
-      {
-        "type": "added",
-        "text": "5411 Supermarkets 150 3"
-      },
-      {
-        "type": "added",
-        "text": "5960,6300 Insurance 150 3"
-      },
-      {
-        "type": "added",
-        "text": "7349,6513 Property Management / Rent Pay 150 3"
-      },
-      {
-        "type": "added",
-        "text": "8299 Schools 150 3"
-      },
-      {
-        "type": "added",
-        "text": "9399 Government 150 3"
-      },
-      {
-        "type": "context",
-        "text": "Is there any capping to the reward points earned on merchant categories with revision?"
-      },
-      {
-        "type": "context",
-        "text": "Please note there is no capping to the reward points that can be earned in a month on the merchant categories where there is a revision in reward points."
-      },
-      {
-        "type": "context",
-        "text": "How many reward points will I earn on fuel transactions using Ultimate credit card?"
-      },
-      {
-        "type": "removed",
-        "text": "From April 2 nd , 2023, no reward points will be earned for Fuel transactions on StanChart Ultimate credit card."
-      },
-      {
-        "type": "added",
-        "text": "From April 2nd, 2023, no reward points will be earned for Fuel transactions on StanChart Ultimate credit card."
-      },
-      {
-        "type": "context",
-        "text": "However, clients will now enjoy a surcharge waiver of 1% on fuel spends across all petrol pumps. The fuel surcharge waiver amount will be capped at Max Rs 1000/ per month."
-      },
-      {
-        "type": "context",
-        "text": "When will the changes be effective from?"
-      },
-      {
-        "type": "removed",
-        "text": "The changes would be effective from April 2 nd , 2023. Please note all spends till 31 st  March 2023 on the select categories will continue to earn reward points as per the existing reward proposition i.e. 5 reward points on every INR 150 spent."
-      },
-      {
-        "type": "added",
-        "text": "The changes would be effective from April 2nd, 2023. Please note all spends till 31st March 2023 on the select categories will continue to earn reward points as per the existing reward proposition i.e. 5 reward points on every INR 150 spent."
-      },
-      {
-        "type": "context",
-        "text": "Will there be any impact to my existing reward points?"
-      },
-      {
-        "type": "context",
-        "text": "There will be no impact to your existing reward points which you have earned and is available for redemption till expiry of those points."
-      },
-      {
-        "type": "context",
-        "text": "What is the Air Accident Insurance feature on my Ultimate Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Chartered Bank has provided below mentioned complimentary Air Accident Insurance on the Standard Ultimate Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.bank.in/credit-cards/ultimate-card/"
-      },
-      {
-        "type": "removed",
-        "text": "Air Accident Insurance &#8211; HDFC ERGO General Insurance Company Ltd."
-      },
-      {
-        "type": "removed",
-        "text": "Policy Number: 2999204852948401000"
-      },
-      {
-        "type": "removed",
-        "text": "Details of Sum Insured/Limit of Liability:"
-      },
-      {
-        "type": "removed",
-        "text": "Section"
-      },
-      {
-        "type": "removed",
-        "text": "Section name"
-      },
-      {
-        "type": "removed",
-        "text": "Sum insured/"
-      },
-      {
-        "type": "added",
-        "text": "Standard Chartered Bank has provided below mentioned complimentary Air Accident Insurance on the Standard Ultimate Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.com/in/credit-cards/ultimate-card/ Air Accident Insurance – HDFC ERGO General Insurance Company Ltd. Policy Number: 2999204852948401000 Details of Sum Insured/Limit of Liability:"
-      },
-      {
-        "type": "added",
-        "text": "Section Section name Sum insured/"
-      },
-      {
-        "type": "context",
-        "text": "Limit of"
-      },
-      {
-        "type": "removed",
-        "text": "Liability"
-      },
-      {
-        "type": "removed",
-        "text": "Deductible/"
-      },
-      {
-        "type": "added",
-        "text": "Liability Deductible/"
-      },
-      {
-        "type": "context",
-        "text": "Excess"
-      },
-      {
-        "type": "context",
-        "text": "(if applicable)"
-      },
-      {
-        "type": "removed",
-        "text": "I"
-      },
-      {
-        "type": "removed",
-        "text": "Personal Accident"
-      },
-      {
-        "type": "removed",
-        "text": "INR"
-      },
-      {
-        "type": "removed",
-        "text": "I (A)"
-      },
-      {
-        "type": "removed",
-        "text": "Accidental Death (Air Accidents Only)"
-      },
-      {
-        "type": "removed",
-        "text": "10,000,000"
-      },
-      {
-        "type": "removed",
-        "text": "NIL"
-      },
-      {
-        "type": "added",
-        "text": "I Personal Accident INR"
-      },
-      {
-        "type": "added",
-        "text": "I (A) Accidental Death (Air Accidents Only) 10,000,000 NIL"
-      },
-      {
-        "type": "context",
-        "text": "What is the Travel Insurance feature offered on my Ultimate Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Standard Chartered Bank has provided below mentioned complimentary Travel Insurance on the Standard Ultimate Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.bank.in/credit-cards/ultimate-card/"
-      },
-      {
-        "type": "removed",
-        "text": "Travel Insurance Policy &#8211; HDFC ERGO General Insurance Company Ltd."
-      },
-      {
-        "type": "removed",
-        "text": "Policy Number: 2999204251883002000"
-      },
-      {
-        "type": "removed",
-        "text": "Details of Sum Insured/Limit of Liability:"
-      },
-      {
-        "type": "removed",
-        "text": "Section"
-      },
-      {
-        "type": "removed",
-        "text": "Section name"
-      },
-      {
-        "type": "removed",
-        "text": "Sum insured/"
-      },
-      {
-        "type": "removed",
-        "text": "Limit of Liability"
-      },
-      {
-        "type": "removed",
-        "text": "Deductible"
-      },
-      {
-        "type": "added",
-        "text": "Standard Chartered Bank has provided below mentioned complimentary Travel Insurance on the Standard Ultimate Credit Card and will be governed as per respective Product Terms and Conditions available on www.sc.com/in/credit-cards/ultimate-card/ Travel Insurance Policy – HDFC ERGO General Insurance Company Ltd.Policy Number: 2999204251883002000 Details of Sum Insured/Limit of Liability:Details of Sum Insured/Limit of Liability:"
-      },
-      {
-        "type": "added",
-        "text": "Section Section name Sum insured/"
-      },
-      {
-        "type": "added",
-        "text": "Limit of Liability Deductible"
-      },
-      {
-        "type": "context",
-        "text": "/Excess"
-      },
-      {
-        "type": "context",
-        "text": "(if applicable)"
-      },
-      {
-        "type": "removed",
-        "text": "II"
-      },
-      {
-        "type": "removed",
-        "text": "Travel Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "USD"
-      },
-      {
-        "type": "removed",
-        "text": "II (A)"
-      },
-      {
-        "type": "removed",
-        "text": "Baggage Delay Maximum per hour: USD 10 per 8 hours"
-      },
-      {
-        "type": "removed",
-        "text": "100"
-      },
-      {
-        "type": "removed",
-        "text": "12 Hours"
-      },
-      {
-        "type": "removed",
-        "text": "II (B)"
-      },
-      {
-        "type": "removed",
-        "text": "Loss of Baggage & Personal Documents Single Any One Item Limit: USD 30"
-      },
-      {
-        "type": "removed",
-        "text": "750"
-      },
-      {
-        "type": "ellipsis",
-        "text": "… diff truncated (55 more lines) …"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Joining and renewal fees updated to Rs 5,000; EMI threshold lowered to INR 2,000; benefit details expanded."
-    }
-  },
-  {
-    "id": "standard-chartered-india-rewards-credit-card",
-    "cardName": "Rewards Credit Card",
-    "issuerName": "Standard Chartered India",
-    "issuerSlug": "standard-chartered-india",
-    "officialUrl": "https://www.sc.com/in/",
-    "productPageUrl": "https://www.sc.com/in/credit-cards/rewards-credit-card/?pid=cc_rewardscard_cclp&cid=cc_rewardscard_cclp",
-    "status": "Active",
-    "detectedAt": "2026-08-30T09:23:28.901Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Rewards Credit Card &#8211; Standard Chartered India"
-      },
-      {
-        "type": "added",
-        "text": "Rewards Credit Card – Standard Chartered India"
-      },
-      {
-        "type": "context",
-        "text": "What goes around, comes around 4X times"
-      },
-      {
-        "type": "context",
-        "text": "Enjoy more reward points on the Standard Chartered Rewards Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "More the spends, more the rewards"
-      },
-      {
-        "type": "removed",
-        "text": "Earn 4X rewards on all retail spends* +"
-      },
-      {
-        "type": "added",
-        "text": "Earn 4X rewards on all retail spends* &#43;"
-      },
-      {
-        "type": "context",
-        "text": "additional 4X rewards*"
-      },
-      {
-        "type": "context",
-        "text": "on monthly retail spends* above INR 20,000"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Balance EMI"
-      },
-      {
-        "type": "context",
-        "text": "Convert your entire outstanding (up to ₹ 5,00,000) in EMIs with zero processing fees."
-      },
-      {
-        "type": "added",
-        "text": "Supplementary Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Extend the credit card benefits with your family member. Spread the joy with them!"
-      },
-      {
-        "type": "added",
-        "text": "Contactless Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Use contactless credit card & enjoy complete freedom cash transaction with faster checkouts & secure payments."
-      },
-      {
-        "type": "added",
-        "text": "Secure Online Transactions"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy enhanced security for online transactions on your credit card through 3D secure OTP Verification."
-      },
-      {
-        "type": "added",
-        "text": "Digital Payment Solutions"
-      },
-      {
-        "type": "added",
-        "text": "Avail wide range of instant payment solutions like BharatQR, Bharat Bill Payment Solution (BBPS) & Samsung Secure Pay."
-      },
-      {
-        "type": "added",
-        "text": "With Kuch bhi on EMI option, convert your big spends above ₹ 2,000 to easy EMI through online banking or SC Mobile. Get attractive pricing & flexible tenure options."
-      },
-      {
-        "type": "added",
-        "text": "360° Rewards"
-      },
-      {
-        "type": "added",
-        "text": "With Standard Chartered 360° Rewards, you can easily redeem your rewards points against our new online catalogue."
-      },
-      {
-        "type": "added",
-        "text": "Get loan up to ₹ 5,00,000 on your credit card with flexible tenure from 12 to 60 months."
-      },
-      {
-        "type": "added",
-        "text": "Transfer card balance from other bank credit cards up to ₹ 5,00,000 at attractive interest rate."
-      },
-      {
-        "type": "added",
-        "text": "Balance EMI"
-      },
-      {
-        "type": "added",
-        "text": "Convert your entire outstanding (up to ₹ 5,00,000) in EMIs with zero processing fees."
-      },
-      {
-        "type": "context",
-        "text": "Applicant’s age should be between 18 and 65 years."
-      },
-      {
-        "type": "removed",
-        "text": "Fees &#038; Charges"
-      },
-      {
-        "type": "added",
-        "text": "Applicants should belong to credit card sourcing cities/locations of the Bank"
-      },
-      {
-        "type": "added",
-        "text": "Fees & Charges"
-      },
-      {
-        "type": "context",
-        "text": "Joining Fee"
-      },
-      {
-        "type": "context",
-        "text": "No Joining Fee"
-      },
-      {
-        "type": "context",
-        "text": "Annual Fees"
-      },
-      {
-        "type": "removed",
-        "text": "INR 1000 + GST"
-      },
-      {
-        "type": "added",
-        "text": "INR 1000 &#43; GST"
-      },
-      {
-        "type": "context",
-        "text": "Renewal fees will be reversed on spends of INR 1,50,000 or higher in previous year using Rewards Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Rewards Credit Card Terms and Conditions"
-      },
-      {
-        "type": "context",
-        "text": "Rewards Credit Card FAQs"
-      },
-      {
-        "type": "context",
-        "text": "I already have an existing Standard Chartered Platinum Rewards credit card, can I also apply for a Reward credit card?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, existing credit cardholders can also apply for the Rewards Credit Card by authenticating their existing card with an INR 1 transaction via sc.com/in"
-      },
-      {
-        "type": "context",
-        "text": "What is the Joining/annual fees for the Rewards Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "Joining Fee is NIL . Annual Fee for the Rewards Credit Card is INR 1000 +GST with a fee reversal on spends of INR 1,50,000 in the previous year"
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee is NIL . Annual Fee for the Rewards Credit Card is INR 1000 &#43;GST with a fee reversal on spends of INR 1,50,000 in the previous year"
-      },
-      {
-        "type": "context",
-        "text": "How will I receive the 4000 reward points on payment of annual fees?"
-      },
-      {
-        "type": "context",
-        "text": "Client is entitled to receive 4000 reward points within 60 days of realization of fees by the Bank. Please note that client will receive the mentioned reward points only if he/she does not receive the spend-based annual fee reversal."
-      },
-      {
-        "type": "context",
-        "text": "What are categories that I will earn reward points on?"
-      },
-      {
-        "type": "removed",
-        "text": "Transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "Every INR 150 spent on Retail transactions"
-      },
-      {
-        "type": "removed",
-        "text": "4 Reward Points"
-      },
-      {
-        "type": "removed",
-        "text": "Every INR 150 spent on Government and Insurance categories"
-      },
-      {
-        "type": "removed",
-        "text": "1 Reward Point"
-      },
-      {
-        "type": "added",
-        "text": "Transactions Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Every INR 150 spent on Retail transactions 4 Reward Points"
-      },
-      {
-        "type": "added",
-        "text": "Every INR 150 spent on Government and Insurance categories 1 Reward Point"
-      },
-      {
-        "type": "context",
-        "text": "How do I avail the Bonus reward points?"
-      },
-      {
-        "type": "context",
-        "text": "Bonus reward points are applicable on achieving monthly retail spends of INR 20,000 and above in all categories, except Government and Insurance payments. A client can earn additional 4 reward points per INR 150* spent on Retail categories* for monthly spends above INR 20,000."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Cash withdrawal transactions are not eligible for reward points."
-      },
-      {
-        "type": "context",
-        "text": "What is the value of a reward point on Rewards Credit Card?"
-      },
-      {
-        "type": "removed",
-        "text": "1 RP = INR 0.25 (for redemption from Rewards catalogue)"
-      },
-      {
-        "type": "removed",
-        "text": "1 RP = INR 0.20 (for adjustment against Statement outstanding balance)"
-      },
-      {
-        "type": "added",
-        "text": "1 RP &#61; INR 0.25 (for redemption from Rewards catalogue)"
-      },
-      {
-        "type": "added",
-        "text": "1 RP &#61; INR 0.20 (for adjustment against Statement outstanding balance)"
-      },
-      {
-        "type": "context",
-        "text": "Can reward points earned be redeemed against an outstanding credit card statement?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, a minimum of 1000 Reward points is required to redeem."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Client can view his/her Reward Points on the 360 Rewards portal. To view, log in to Online Banking and proceed to the 360 Rewards portal or log in directly: https://retail.sc.com/in/rewards360/rewards_home/in"
-      },
-      {
-        "type": "context",
-        "text": "When can I see reward points earned on Rewards credit card?"
-      },
-      {
-        "type": "removed",
-        "text": "Reward points earned on transactions done using the Rewards Credit Card prior to the statement generation date will reflect on the same month&#8217;s statement and on the 360 Rewards portal. Bonus reward points earned for a statement cycle will be credited within 2-3 days from statement generation date."
-      },
-      {
-        "type": "added",
-        "text": "Reward points earned on transactions done using the Rewards Credit Card prior to the statement generation date will reflect on the same month’s statement and on the 360 Rewards portal. Bonus reward points earned for a statement cycle will be credited within 2-3 days from statement generation date."
-      },
-      {
-        "type": "context",
-        "text": "Is any Redemption Fee applicable on redeeming reward points?"
-      },
-      {
-        "type": "context",
-        "text": "Yes, there is a redemption fee of INR 99/- (Rupees Ninety-Nine Only) on redeeming reward points."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "What is the complimentary lounge access offer?"
-      },
-      {
-        "type": "context",
-        "text": "With the Rewards Credit Card, client can avail 1 complimentary domestic airport lounge visit per quarter."
-      },
-      {
-        "type": "removed",
-        "text": "*Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card Terms & Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "Rewards Credit Card Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "Visa Credit Card Payment"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added supplementary card, contactless, digital payment, EMI options, loan, balance transfer, and updated fees and reward point details."
-    }
-  },
-  {
-    "id": "hdfc-bank-pine-labs-hdfc-bank-pro-credit-card",
-    "cardName": "Pine Labs HDFC Bank Pro Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pine-labs-pro-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-29T10:07:15.692Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Pine Labs HDFC Bank Pro Credit Card | HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Premium 8"
-      },
-      {
-        "type": "added",
-        "text": "Others 12"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Auto Loan"
-      },
-      {
-        "type": "added",
-        "text": "Two Wheeler Loan A2A Top Up"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Two Wheeler Loan"
-      },
-      {
-        "type": "added",
-        "text": "Two Wheeler Loan Top Up"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Gold Loan"
-      },
-      {
-        "type": "added",
-        "text": "Two Wheeler Loan A2A Top Up"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Two Wheeler Loan"
-      },
-      {
-        "type": "added",
-        "text": "Two Wheeler Loan Top Up"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Gold Loan"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Auto Loan"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Health Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Export & Import Documents"
-      },
-      {
-        "type": "added",
-        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
-      },
-      {
-        "type": "added",
-        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
-      },
-      {
-        "type": "context",
-        "text": "Pine Labs Pro Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Pine Labs HDFC Bank Pro Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Sourcing of this Credit Card has been stopped. Existing customers of this card will continue to enjoy the benefits."
-      },
-      {
-        "type": "added",
-        "text": "This Credit Card has been discontinued and is no longer open for new applications. Existing cardholders will continue to enjoy all current features and benefits until a replacement card is issued during migration or at the time of reissuance/replacement/renewal"
-      },
-      {
-        "type": "context",
-        "text": "What’s In Store For You"
-      },
-      {
-        "type": "context",
-        "text": "Card Benefits and Features"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "​​1% Mark-Up to be applicable on all International DCC transactions"
-      },
-      {
-        "type": "context",
-        "text": "*The Most Important Terms and Conditions  for each of our banking offerings features all the specific terms and conditions that govern their use. You must go through it thoroughly to fully understand the terms and conditions applicable to any banking product you choose."
-      },
-      {
-        "type": "added",
-        "text": "HDB Financial Services"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Card discontinued, existing holders retain benefits until replacement."
-    }
-  },
-  {
-    "id": "hdfc-bank-pine-labs-hdfc-bank-credit-card",
-    "cardName": "Pine Labs HDFC Bank Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pine-labs-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-08-28T15:27:14.264Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Pine Labs HDFC Bank Credit Card | HDFC Bank"
-      },
-      {
-        "type": "added",
-        "text": "Premium 8"
-      },
-      {
-        "type": "added",
-        "text": "Others 12"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Auto Loan"
-      },
-      {
-        "type": "added",
-        "text": "Two Wheeler Loan A2A Top Up"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Two Wheeler Loan"
-      },
-      {
-        "type": "added",
-        "text": "Two Wheeler Loan Top Up"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Gold Loan"
-      },
-      {
-        "type": "added",
-        "text": "Two Wheeler Loan A2A Top Up"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Two Wheeler Loan"
-      },
-      {
-        "type": "added",
-        "text": "Two Wheeler Loan Top Up"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Gold Loan"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Auto Loan"
-      },
-      {
-        "type": "added",
-        "text": "GIGA Health Insurance"
-      },
-      {
-        "type": "added",
-        "text": "Export & Import Documents"
-      },
-      {
-        "type": "added",
-        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
-      },
-      {
-        "type": "added",
-        "text": "Home Loan Vs Land Loan: Understanding Similarities And Differences"
-      },
-      {
-        "type": "context",
-        "text": "Pine Labs Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Pine Labs Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Sourcing of this Credit Card has been stopped. Existing customers of this card will continue to enjoy the benefits."
-      },
-      {
-        "type": "added",
-        "text": "This Credit Card has been discontinued and is no longer open for new applications. Existing cardholders will continue to enjoy all current features and benefits until a replacement card is issued during migration or at the time of reissuance/replacement/renewal"
-      },
-      {
-        "type": "context",
-        "text": "What's in store for you?"
-      },
-      {
-        "type": "context",
-        "text": "Card Benefits and Features"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "How to use the Pine Labs Credit Card?"
-      },
-      {
-        "type": "context",
-        "text": "The Pine Labs HDFC Bank Pro Credit Card is versatile, offering rewards on Pine Labs EMI transactions, accelerated rewards on dining and groceries, and complimentary lounge access. Use it for shopping, dining, travel, and contactless payments by tapping your card on the terminal. Using Pine Labs HDFC Bank Pro Credit Card online is simple. Just present the card at the time of payment for both online and offline card transactions."
-      },
-      {
-        "type": "added",
-        "text": "HDB Financial Services"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Card discontinued, no new applications, existing holders retain benefits until replacement."
     }
   }
 ]

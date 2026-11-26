@@ -1,5 +1,197 @@
 [
   {
+    "id": "standard-chartered-india-multicurrency-forex-card",
+    "cardName": "Multicurrency Forex Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/deposits/multicurrency-forex-card/?intcid=web-nov%2722-fx-en&pid=fx_prepaidcard_fxc",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:36:53.786Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Apply for Multi-Currency Forex Card Online &#8211; Standard Chartered India"
+      },
+      {
+        "type": "added",
+        "text": "Important Notice"
+      },
+      {
+        "type": "added",
+        "text": "By clicking on the hyperlink, you will be redirected from the"
+      },
+      {
+        "type": "added",
+        "text": "Standard Chartered Bank India (“SCB India”) section of"
+      },
+      {
+        "type": "added",
+        "text": "www.sc.bank.in to the section"
+      },
+      {
+        "type": "added",
+        "text": "relating to Standard Chartered Bank, IFSC Banking Unit at GIFT"
+      },
+      {
+        "type": "added",
+        "text": "City, Gandhinagar (“SCB IBU”) on the same website"
+      },
+      {
+        "type": "added",
+        "text": "(www.sc.bank.in/giftcity/)."
+      },
+      {
+        "type": "added",
+        "text": "The hyperlink is provided solely for your convenience. Neither the"
+      },
+      {
+        "type": "added",
+        "text": "content on the SCB India section of the website nor the provision"
+      },
+      {
+        "type": "added",
+        "text": "of this hyperlink should be construed as a recommendation,"
+      },
+      {
+        "type": "added",
+        "text": "endorsement or advice by SCB India to invest in, purchase or avail"
+      },
+      {
+        "type": "added",
+        "text": "of any product or service offered or distributed through SCB IBU."
+      },
+      {
+        "type": "added",
+        "text": "Any products and services referred to in the SCB IBU section are"
+      },
+      {
+        "type": "added",
+        "text": "offered or distributed through SCB IBU and are subject to"
+      },
+      {
+        "type": "added",
+        "text": "applicable laws and regulations, eligibility criteria, and the"
+      },
+      {
+        "type": "added",
+        "text": "relevant terms and conditions."
+      },
+      {
+        "type": "added",
+        "text": "Please click “Proceed” to continue to the SCB IBU section or"
+      },
+      {
+        "type": "added",
+        "text": "“Cancel” to remain on the current page."
+      },
+      {
+        "type": "added",
+        "text": "Proceed"
+      },
+      {
+        "type": "added",
+        "text": "Cancel"
+      },
+      {
+        "type": "added",
+        "text": "Important Notice"
+      },
+      {
+        "type": "added",
+        "text": "By clicking on the hyperlink, you will be redirected from the"
+      },
+      {
+        "type": "added",
+        "text": "Standard Chartered Bank India (“SCB India”) section of"
+      },
+      {
+        "type": "added",
+        "text": "www.sc.bank.in to the"
+      },
+      {
+        "type": "added",
+        "text": "section relating to Standard Chartered Bank, IFSC Banking Unit"
+      },
+      {
+        "type": "added",
+        "text": "at GIFT City, Gandhinagar (“SCB IBU”) on the same website"
+      },
+      {
+        "type": "added",
+        "text": "(www.sc.bank.in/giftcity/)."
+      },
+      {
+        "type": "added",
+        "text": "The hyperlink is provided solely for your convenience. Neither"
+      },
+      {
+        "type": "added",
+        "text": "the content on the SCB India section of the website nor the"
+      },
+      {
+        "type": "added",
+        "text": "provision of this hyperlink should be construed as a"
+      },
+      {
+        "type": "added",
+        "text": "recommendation, endorsement or advice by SCB India to invest in,"
+      },
+      {
+        "type": "added",
+        "text": "purchase or avail of any product or service offered or"
+      },
+      {
+        "type": "added",
+        "text": "distributed through SCB IBU."
+      },
+      {
+        "type": "added",
+        "text": "Any products and services referred to in the SCB IBU section are"
+      },
+      {
+        "type": "added",
+        "text": "offered or distributed through SCB IBU and are subject to"
+      },
+      {
+        "type": "added",
+        "text": "applicable laws and regulations, eligibility criteria, and the"
+      },
+      {
+        "type": "added",
+        "text": "relevant terms and conditions."
+      },
+      {
+        "type": "added",
+        "text": "Please click “Proceed” to continue to the SCB IBU section or"
+      },
+      {
+        "type": "added",
+        "text": "“Cancel” to remain on the current page."
+      },
+      {
+        "type": "added",
+        "text": "Proceed"
+      },
+      {
+        "type": "added",
+        "text": "Cancel"
+      },
+      {
+        "type": "context",
+        "text": "Trouble-Free travelling with the Multi-Currency Forex Card."
+      },
+      {
+        "type": "context",
+        "text": "Multi-Currency Forex card is the perfect choice for trouble-free Travelling. Enjoy various benefits & features."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "kotak-mahindra-bank-811-dream-different-credit-card",
     "cardName": "811 Dream Different Credit Card",
     "issuerName": "Kotak Mahindra Bank",
@@ -7,15 +199,15 @@
     "officialUrl": "https://www.kotak.bank.in/",
     "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/811-dream-different-credit-card.html",
     "status": "Active",
-    "detectedAt": "2026-11-25T12:57:26.578Z",
+    "detectedAt": "2026-11-26T12:35:02.214Z",
     "diffHunks": [
       {
         "type": "removed",
-        "text": "Credit Card Against FD (Fixed Deposit) – Lifetime Free Credit Card | Check November 2026 Offers | Kotak 811 | Kotak Bank Savings"
+        "text": "Credit Card Against FD (Fixed Deposit) – Lifetime Free Credit Card in November 2026 | Kotak 811 | Kotak Bank Savings"
       },
       {
         "type": "added",
-        "text": "Credit Card Against FD (Fixed Deposit) – Lifetime Free Credit Card in November 2026 | Kotak 811 | Kotak Bank Savings"
+        "text": "Credit Card Against FD (Fixed Deposit) – Lifetime Free Credit Card | Check November 2026 Offers | Kotak 811 | Kotak Bank Savings"
       },
       {
         "type": "context",
@@ -39,27 +231,27 @@
       },
       {
         "type": "removed",
-        "text": "KOTAK811 DREAM DIFFERENT CREDIT CARD"
-      },
-      {
-        "type": "removed",
-        "text": "Lifetime Free"
-      },
-      {
-        "type": "removed",
-        "text": "Credit card against FD"
-      },
-      {
-        "type": "added",
         "text": "Kotak811 Dream Different Credit Card"
       },
       {
-        "type": "added",
+        "type": "removed",
         "text": "Lifetime Free."
       },
       {
-        "type": "added",
+        "type": "removed",
         "text": "Credit card against FD."
+      },
+      {
+        "type": "added",
+        "text": "KOTAK811 DREAM DIFFERENT CREDIT CARD"
+      },
+      {
+        "type": "added",
+        "text": "Lifetime Free"
+      },
+      {
+        "type": "added",
+        "text": "Credit card against FD"
       },
       {
         "type": "context",
@@ -71,11 +263,11 @@
       },
       {
         "type": "removed",
-        "text": "Get your card today Existing Customer? Apply now"
+        "text": "Get Kotak811 A/c Existing Customer? Apply now"
       },
       {
         "type": "added",
-        "text": "Get Kotak811 A/c Existing Customer? Apply now"
+        "text": "Get your card today Existing Customer? Apply now"
       },
       {
         "type": "context",
@@ -99,11 +291,11 @@
       },
       {
         "type": "removed",
-        "text": "Get your card today"
+        "text": "Apply here"
       },
       {
         "type": "added",
-        "text": "Apply here"
+        "text": "Get your card today"
       },
       {
         "type": "context",
@@ -127,11 +319,11 @@
       },
       {
         "type": "removed",
-        "text": "Minimum FD Amount: Rs.10,000 with a minimum tenure of 181 days."
+        "text": "Minimum FD Amount: ?10,000 with a minimum tenure of 181 days."
       },
       {
         "type": "added",
-        "text": "Minimum FD Amount: ?10,000 with a minimum tenure of 181 days."
+        "text": "Minimum FD Amount: Rs.10,000 with a minimum tenure of 181 days."
       },
       {
         "type": "context",
@@ -155,19 +347,19 @@
       },
       {
         "type": "removed",
-        "text": "Late Payment Charges: Rs.500 for dues of Rs.100 or more."
-      },
-      {
-        "type": "removed",
-        "text": "Processing Fee for Cash Withdrawal / Fund Transfer: Rs.100 per instance."
-      },
-      {
-        "type": "added",
         "text": "Late Payment Charges: ?500 for dues of ?100 or more."
       },
       {
-        "type": "added",
+        "type": "removed",
         "text": "Processing Fee for Cash Withdrawal / Fund Transfer: ?100 per instance."
+      },
+      {
+        "type": "added",
+        "text": "Late Payment Charges: Rs.500 for dues of Rs.100 or more."
+      },
+      {
+        "type": "added",
+        "text": "Processing Fee for Cash Withdrawal / Fund Transfer: Rs.100 per instance."
       },
       {
         "type": "context",
@@ -175,11 +367,11 @@
       },
       {
         "type": "removed",
-        "text": "Rent Payments: 2% of the transaction amount + GST."
+        "text": "Rent Payments: 2% of the transaction amount + GST (effective 15th April 2024 for new cardholders and 1st June 2024 for existing cardholders)."
       },
       {
         "type": "added",
-        "text": "Rent Payments: 2% of the transaction amount + GST (effective 15th April 2024 for new cardholders and 1st June 2024 for existing cardholders)."
+        "text": "Rent Payments: 2% of the transaction amount + GST."
       },
       {
         "type": "context",
@@ -195,11 +387,11 @@
       },
       {
         "type": "removed",
-        "text": "Kotak Bank 811 Mobile App: Log in to the Kotak Bank 811 App , navigate to the Credit Card section, and follow the steps to apply."
+        "text": "Kotak811 Mobile Banking App: Log in to the Kotak Bank 811 App , navigate to the Credit Card section, and follow the steps to apply."
       },
       {
         "type": "added",
-        "text": "Kotak811 Mobile Banking App: Log in to the Kotak Bank 811 App , navigate to the Credit Card section, and follow the steps to apply."
+        "text": "Kotak Bank 811 Mobile App: Log in to the Kotak Bank 811 App , navigate to the Credit Card section, and follow the steps to apply."
       },
       {
         "type": "context",
@@ -211,11 +403,11 @@
       },
       {
         "type": "removed",
-        "text": "If you don't already have a Kotak 811 account, simply click on Get Your Card or download the Kotak 811 mobile app to apply for your credit card today."
+        "text": "If you are not an existing 811 customer, simply open savings account or download the 811 mobile banking app and proceed with the credit card application."
       },
       {
         "type": "added",
-        "text": "If you are not an existing 811 customer, simply open savings account or download the 811 mobile banking app and proceed with the credit card application."
+        "text": "If you don't already have a Kotak 811 account, simply click on Get Your Card or download the Kotak 811 mobile app to apply for your credit card today."
       },
       {
         "type": "context",
@@ -227,11 +419,11 @@
       },
       {
         "type": "removed",
-        "text": "If you don't already have an FD with Kotak811, you'll need to create one first. The minimum amount is Rs.10,000 with a tenure of at least 181 days. You can open this online through the mobile app or website."
+        "text": "If you don't already have an FD with Kotak811, you'll need to create one first. The minimum amount is ?10,000 with a tenure of at least 181 days. You can open this online through the mobile app or website."
       },
       {
         "type": "added",
-        "text": "If you don't already have an FD with Kotak811, you'll need to create one first. The minimum amount is ?10,000 with a tenure of at least 181 days. You can open this online through the mobile app or website."
+        "text": "If you don't already have an FD with Kotak811, you'll need to create one first. The minimum amount is Rs.10,000 with a tenure of at least 181 days. You can open this online through the mobile app or website."
       },
       {
         "type": "context",
@@ -255,11 +447,11 @@
       },
       {
         "type": "removed",
-        "text": "Apply today through our website or the Kotak Bank 811 Mobile App and start enjoying the benefits of your FD credit card!"
+        "text": "Apply today through our website or the Kotak Bank 811 Mobile Banking App and start enjoying the benefits of your FD credit card!"
       },
       {
         "type": "added",
-        "text": "Apply today through our website or the Kotak Bank 811 Mobile Banking App and start enjoying the benefits of your FD credit card!"
+        "text": "Apply today through our website or the Kotak Bank 811 Mobile App and start enjoying the benefits of your FD credit card!"
       },
       {
         "type": "context",
@@ -268,6 +460,1942 @@
       {
         "type": "context",
         "text": "The Dream Different Credit Card is an FD-backed card, which means it is issued against a Fixed Deposit. Your credit limit is 90% of your FD amount. So, you can easily increase your credit limit by linking multiple FDs to your card."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-wealth",
+    "cardName": "FIRST Wealth",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:33:43.880Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "removed",
+        "text": "Lifetime-free card with premium benefits"
+      },
+      {
+        "type": "added",
+        "text": "FIRST Wealth Credit Card - Lifetime free card with premium benefits"
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "context",
+        "text": "Earn up to 3X"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "idfc-first-bank-first-select",
+    "cardName": "FIRST Select",
+    "issuerName": "IDFC First Bank",
+    "issuerSlug": "idfc-first-bank",
+    "officialUrl": "https://www.idfcfirst.bank.in/",
+    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/select",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:33:43.878Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Earn 10X Reward Points on international spends"
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "removed",
+        "text": "FIRST Select - Lounge Access Credit Card Online"
+      },
+      {
+        "type": "added",
+        "text": "Apply for FIRST Select Credit Card Online"
+      },
+      {
+        "type": "context",
+        "text": "Apply now"
+      },
+      {
+        "type": "context",
+        "text": "Earn up to 3X"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-tata-neu-infinity-hdfc-bank-credit-card",
+    "cardName": "Tata Neu Infinity HDFC Bank Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/tata-neu-infinity-hdfc-bank-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:31:41.678Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "context",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Tata Neu Infinity Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "5% back as NeuCoins on Tata Neu and partner Tata Brand Spends"
+      },
+      {
+        "type": "removed",
+        "text": "Additional 5% back as NeuCoins on selected Tata Neu Spends, post registering for Tata NeuPass"
+      },
+      {
+        "type": "added",
+        "text": "Additional 5% back as NeuCoins on selected Tata Neu Spends"
+      },
+      {
+        "type": "context",
+        "text": "1.5% back as NeuCoins on other Non-UPI spends"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "5% back as NeuCoins on Non-EMI Spends on Tata Neu and partner Tata Brands. For list of eligible partner brands   click here"
+      },
+      {
+        "type": "context",
+        "text": "1.5% back as NeuCoins on Non-Tata Brand Spends and any Merchant EMI Spends"
+      },
+      {
+        "type": "removed",
+        "text": "Earn additional 5% back as NeuCoins on selected categories on Tata Neu App/Website, post downloading Tata Neu App and registering for NeuPass. W.e.f 15-Jan-25 this benefit will be applicable for transactions done only via Primary Card Holder Mobile Number Account (as per credit card application) on Tata Neu using the Tata Neu HDFC Bank credit card  Click here  for details."
+      },
+      {
+        "type": "removed",
+        "text": "For details on the NeuPass, please  click here"
+      },
+      {
+        "type": "removed",
+        "text": "Currently, Bill Payment (Tata Pay), Tanishq, Cult.fit, Air India, Tata Play spends are not eligible for additional 5% NeuCoins via NeuPass Membership"
+      },
+      {
+        "type": "added",
+        "text": "Earn additional 5% back as NeuCoins on selected categories on Tata Neu App/Website. This benefit will be applicable for transactions done only via Primary Card Holder Mobile Number Account (as per credit card application) on Tata Neu using the Tata Neu HDFC Bank credit card. Click here for details.."
+      },
+      {
+        "type": "added",
+        "text": "For details on the Tata Neu Rewards Program, please  click here"
+      },
+      {
+        "type": "added",
+        "text": "Currently, Bill Payment (Tata Pay), Tanishq, Cult.fit, Air India, Tata Play spends are not eligible for additional 5% NeuCoins on Tata Neu."
+      },
+      {
+        "type": "context",
+        "text": "NeuCoins will not be accrued for Fuel, Wallet, Rental, Government and Online Gaming related transactions."
+      },
+      {
+        "type": "context",
+        "text": "For detailed Terms and conditions and Fair Usage Policy  Click here"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Note: - It may take up to 7 working days to credit the Tata NeuCoins in your Tata Neu Membership Account."
+      },
+      {
+        "type": "context",
+        "text": "6. Tata NeuCoins available in your Tata Neu Membership Account can be redeemed across eligible Tata brands within the Tata NeuCoins validity period."
+      },
+      {
+        "type": "removed",
+        "text": "7. For details on the redemption and validity of Tata NeuCoins after they are credited to your Tata Neu Membership Account, please click here ."
+      },
+      {
+        "type": "added",
+        "text": "7. For details on the redemption and validity of Tata NeuCoins after they are credited to your Tata Neu Membership Account, please  click here ."
+      },
+      {
+        "type": "context",
+        "text": "Example"
+      },
+      {
+        "type": "context",
+        "text": "Tata NeuCoins claimed from your credit card account and credited to your Tata Neu Membership Account on 15-Dec-26 , will be valid until 31-Dec-27 in your Tata Neu Membership Account."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "FX Services"
+      },
+      {
+        "type": "added",
+        "text": "Empanelled AMCs for Alternate Products"
+      },
+      {
+        "type": "added",
+        "text": "Customer Rights Policy"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-pixel-play-credit-card",
+    "cardName": "Pixel Play Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-play-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:31:41.676Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "PIXEL Play Credit Card - Get Customised Offers | HDFC Bank"
+      },
+      {
+        "type": "added",
+        "text": "Popular 8"
+      },
+      {
+        "type": "added",
+        "text": "Kids 2"
+      },
+      {
+        "type": "added",
+        "text": "Others 13"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "added",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy your card Lifetime Free"
+      },
+      {
+        "type": "context",
+        "text": "Up to 5% CashBack on select categories"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "With FIFA World Cup 2026™ PIXEL Play Visa Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Official FIFA World Cup 2026™ Merchandise Drops – Courtesy of Visa"
+      },
+      {
+        "type": "removed",
+        "text": "1500+ Merchandise - National Team Jerseys, Matchballs at an Exclusive PIXEL Insider price of ₹1"
+      },
+      {
+        "type": "added",
+        "text": "1500&#43; Merchandise - National Team Jerseys, Matchballs at an Exclusive PIXEL Insider price of ₹1"
+      },
+      {
+        "type": "context",
+        "text": "Drops go live on 4th and 11th June at 6 PM on pixeldrops.razorpay.com"
+      },
+      {
+        "type": "context",
+        "text": "Stay tuned.​"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "To know more detailed Terms & conditions  click here"
+      },
+      {
+        "type": "context",
+        "text": "Exclusive Dining Privileges:"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy upto 10% off on all your restaurant bill payments via Swiggy Dineout (Swiggy Dineout Logo) (20k + restaurants) (Offer inclusive of Restaurant and Swiggy Discount). Offer valid only on payments done via Swiggy App. To know more, click here"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy upto 10% off on all your restaurant bill payments via Swiggy Dineout (Swiggy Dineout Logo) (20k &#43; restaurants) (Offer inclusive of Restaurant and Swiggy Discount). Offer valid only on payments done via Swiggy App. To know more, click here"
+      },
+      {
+        "type": "context",
+        "text": "Fuel Surcharge Waiver:"
+      },
+      {
+        "type": "context",
+        "text": "1% fuel surcharge waiver at all fuel stations across India (on a minimum transaction of ₹400 and a maximum transaction of ₹5,000. Maximum waiver of ₹250 per statement cycle)."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Download HDFC Bank PayZapp from Google Play or Apple App Store."
+      },
+      {
+        "type": "context",
+        "text": "Sign up using your mobile number (ensure it matches the one used for your PIXEL Card application)"
+      },
+      {
+        "type": "removed",
+        "text": "After PayZapp registration is completed, click on the \" Activate your card\" banner present on the PayZapp homepage"
+      },
+      {
+        "type": "removed",
+        "text": "Click on \"Activate & start customizing\" to activate your card. Your PIXEL Play Card is instantly activated"
+      },
+      {
+        "type": "added",
+        "text": "After PayZapp registration is completed, click on the &#34; Activate your card&#34; banner present on the PayZapp homepage"
+      },
+      {
+        "type": "added",
+        "text": "Click on &#34;Activate & start customizing&#34; to activate your card. Your PIXEL Play Card is instantly activated"
+      },
+      {
+        "type": "context",
+        "text": "Customise your card by choosing a vibrant card colour – POP, LIT, or ICE."
+      },
+      {
+        "type": "context",
+        "text": "Choose any two brand packs that fit your lifestyle (Dining & Entertainment, Fashion, Electronics, Travel, Grocery, etc.), and choose any 1 Ecommerce Platform on which you want to earn 3% Cashback (Amazon, PayZapp or Flipkart )"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Your PIXEL is now ready for shopping"
+      },
+      {
+        "type": "context",
+        "text": "Steps to set UPI PIN"
+      },
+      {
+        "type": "removed",
+        "text": "Open PayZapp and tap on \"View PIXEL Home\" on the home screen"
+      },
+      {
+        "type": "removed",
+        "text": "Navigate to Settings > \"Set RuPay UPI\""
+      },
+      {
+        "type": "added",
+        "text": "Open PayZapp and tap on &#34;View PIXEL Home&#34; on the home screen"
+      },
+      {
+        "type": "added",
+        "text": "Navigate to Settings > &#34;Set RuPay UPI&#34;"
+      },
+      {
+        "type": "context",
+        "text": "Verify your OTP, set your card PIN, and you're all set!"
+      },
+      {
+        "type": "context",
+        "text": "Enable Scan & Pay on PayZapp"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "If you find your Card is not Auto-linked, please follow 4 simple steps to link your HDFC Bank PIXEL RuPay Card on PayZapp:​"
+      },
+      {
+        "type": "context",
+        "text": "Open PayZapp and tap the menu bar on the top left corner. ​"
+      },
+      {
+        "type": "removed",
+        "text": "Go to \"UPI Accounts\" under Account Management.​"
+      },
+      {
+        "type": "removed",
+        "text": "Under Credit Cards, tap \"Add New\" and select HDFC Bank Credit Card.​"
+      },
+      {
+        "type": "added",
+        "text": "Go to &#34;UPI Accounts&#34; under Account Management.​"
+      },
+      {
+        "type": "added",
+        "text": "Under Credit Cards, tap &#34;Add New&#34; and select HDFC Bank Credit Card.​"
+      },
+      {
+        "type": "context",
+        "text": "Enter the last 6 digits of your HDFC Bank PIXEL RuPay Credit Card and its expiry date, then proceed.​"
+      },
+      {
+        "type": "context",
+        "text": "Verify with OTP, enter your credit card PIN, and create your UPI PIN.​"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "You can also raise a query ticket within the app if you need more help by clicking “Raise a Ticket”, and the service team will respond to your query in the app.​"
+      },
+      {
+        "type": "context",
+        "text": "How to Raise a Ticket?"
+      },
+      {
+        "type": "removed",
+        "text": "1. Tap \"?\" on the PIXEL Play Credit Card Home Page."
+      },
+      {
+        "type": "added",
+        "text": "1. Tap &#34;?&#34; on the PIXEL Play Credit Card Home Page."
+      },
+      {
+        "type": "context",
+        "text": "2. Choose the relevant category and query."
+      },
+      {
+        "type": "removed",
+        "text": "3. If your query isn’t listed, select \"My query is not listed\" to raise a ticket."
+      },
+      {
+        "type": "added",
+        "text": "3. If your query isn’t listed, select &#34;My query is not listed&#34; to raise a ticket."
+      },
+      {
+        "type": "context",
+        "text": "MyCards Benefits​"
+      },
+      {
+        "type": "context",
+        "text": "The HDFC Bank PIXEL Credit Card is now available on MyCards - https://mycards.hdfc.bank.in/"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Scan and Pay"
+      },
+      {
+        "type": "context",
+        "text": "Through the PIXEL RuPay Credit Card, customers will be able to make payment to a merchant by scanning the QR code for unified Payment Interface (UPI) Payments."
+      },
+      {
+        "type": "removed",
+        "text": "Joining/Renewal Membership Fee: ₹500/- + Applicable Taxes"
+      },
+      {
+        "type": "added",
+        "text": "Joining/Renewal Membership Fee: ₹500/- &#43; Applicable Taxes"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹20,000 in the first 90 days and get Joining fee waiver"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹1,00,000 or more in a year, before your Credit Card renewal date and get your renewal fee waived off."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Interest on unpaid balances for the HDFC Bank Pixel Credit Card is calculated based on the Annual Percentage Rate (APR). If the full amount is not paid by the due date, interest is charged on the outstanding balance from the transaction date until the payment is made."
+      },
+      {
+        "type": "context",
+        "text": "What are the reissue charges for HDFC Bank Pixel Play Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "The reissue fee for the HDFC Bank Pixel Play Credit Card are as 199 + gst. This fee applies when a card is reissued due to loss, theft, or damage. The charge is billed to the cardholder in the next statement."
+      },
+      {
+        "type": "added",
+        "text": "The reissue fee for the HDFC Bank Pixel Play Credit Card are as 199 &#43; gst. This fee applies when a card is reissued due to loss, theft, or damage. The charge is billed to the cardholder in the next statement."
+      },
+      {
+        "type": "context",
+        "text": "What is the fee for IRCTC transactions for HDFC Bank Pixel Play Cards?"
+      },
+      {
+        "type": "context",
+        "text": "The fee for IRCTC transactions using the HDFC Bank Pixel Play Credit Card is 1% of the transaction amount plus GST. This fee applies to all railway ticket purchases made through IRCTC, except for the IRCTC HDFC Bank Credit Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Get Your PIXEL Play Credit Card Now!"
+      },
+      {
+        "type": "context",
+        "text": "Check Eligibility"
+      },
+      {
+        "type": "added",
+        "text": "FX Services"
+      },
+      {
+        "type": "added",
+        "text": "Empanelled AMCs for Alternate Products"
+      },
+      {
+        "type": "added",
+        "text": "Customer Rights Policy"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-hdfc-bank-upi-rupay-credit-card",
+    "cardName": "HDFC Bank UPI RuPay Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/hdfc-bank-upi-rupay-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:31:41.672Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "context",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Additional Benefits"
+      },
+      {
+        "type": "context",
+        "text": "CashPoint Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "3% Cashpoints on Groceries, SuperMarket & Dining spends & PayZapp transactions"
+      },
+      {
+        "type": "added",
+        "text": "3 % cashpoints on Groceries, SuperMarket & Dining spends, and on PayZapp* transactions"
+      },
+      {
+        "type": "context",
+        "text": "2% Cashpoints on Utility bills"
+      },
+      {
+        "type": "context",
+        "text": "1% Cashpoints on other spends (Excluding Rent, Wallet loads, EMI, Fuel, Insurance Payments & Government categories)"
+      },
+      {
+        "type": "added",
+        "text": "*Please note that the 3% cashpoints on PayZapp transactions will be discontinued effective 01‑01‑2027 and replaced with 3% cashpoints on Pharmacy spends. Other categories remain unchanged."
+      },
+      {
+        "type": "context",
+        "text": "Note: The above benefits are applicable for both UPI as well as regular credit card spends. Click here for detailed Terms & Conditions"
+      },
+      {
+        "type": "context",
+        "text": "UPI Benefits"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Application Channels"
+      },
+      {
+        "type": "context",
+        "text": "Most Important Terms and Conditions*"
+      },
+      {
+        "type": "added",
+        "text": "2. Send the text &#34;Credit Card&#34; to this number."
+      },
+      {
+        "type": "context",
+        "text": "Card Reward & Redemption Program"
+      },
+      {
+        "type": "context",
+        "text": "Redemption Value:"
+      },
+      {
+        "type": "removed",
+        "text": "CashPoints as per the product feature will be credited in the form of Cash Back, which can be redeemed by the customer against their statement balance (1 CashPoint = ₹0.25)"
+      },
+      {
+        "type": "added",
+        "text": "CashPoints as per the product feature will be credited in the form of Cash Back, which can be redeemed by the customer against their statement balance (1 CashPoint &#61; ₹0.25)"
+      },
+      {
+        "type": "context",
+        "text": "Reward Points Redemption against each category can be redeemed at the below value:"
+      },
+      {
+        "type": "context",
+        "text": "1 Reward Point Equivalent to"
+      },
+      {
+        "type": "removed",
+        "text": "Cashback against statement"
+      },
+      {
+        "type": "removed",
+        "text": "₹0.25"
+      },
+      {
+        "type": "removed",
+        "text": "Unified SmartBuy"
+      },
+      {
+        "type": "removed",
+        "text": "₹0.25"
+      },
+      {
+        "type": "removed",
+        "text": "Product Catalogue"
+      },
+      {
+        "type": "removed",
+        "text": "₹0.25"
+      },
+      {
+        "type": "removed",
+        "text": "Airmiles"
+      },
+      {
+        "type": "removed",
+        "text": "₹0.25"
+      },
+      {
+        "type": "added",
+        "text": "Cashback against statement ₹0.25"
+      },
+      {
+        "type": "added",
+        "text": "Unified SmartBuy ₹0.25"
+      },
+      {
+        "type": "added",
+        "text": "Product Catalogue ₹0.25"
+      },
+      {
+        "type": "added",
+        "text": "Airmiles ₹0.25"
+      },
+      {
+        "type": "context",
+        "text": "Click here to know more about UPI purchases"
+      },
+      {
+        "type": "context",
+        "text": "Click here to know more about rewards"
+      },
+      {
+        "type": "context",
+        "text": "Redemption Limit"
+      },
+      {
+        "type": "context",
+        "text": "CashPoints can be redeemed up to 50% of the booking value for Flight and Hotel Bookings. The remaining amount will have to be paid with Credit Card."
+      },
+      {
+        "type": "removed",
+        "text": "Effective January 01, 2023"
+      },
+      {
+        "type": "removed",
+        "text": "Reward points redemption for flights & hotel bookings are capped at ₹50,000/month"
+      },
+      {
+        "type": "removed",
+        "text": "With effect from 1st February 2023,"
+      },
+      {
+        "type": "removed",
+        "text": "Redemption is capped at up to 70% of product/Voucher value through Reward Points on select vouchers/products"
+      },
+      {
+        "type": "added",
+        "text": "Effective January 01, 2023 Reward points redemption for flights & hotel bookings are capped at ₹50,000/month"
+      },
+      {
+        "type": "added",
+        "text": "With effect from 1st February 2023, Redemption is capped at up to 70% of product/Voucher value through Reward Points on select vouchers/products"
+      },
+      {
+        "type": "context",
+        "text": "A minimum of ₹500 statement balance is required for redemption"
+      },
+      {
+        "type": "context",
+        "text": "Unredeemed cashpoints will expire/ lapse after 2 years of accumulation"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Enter the last 4 digits of the Cardholder credit card followed by hash (#)"
+      },
+      {
+        "type": "context",
+        "text": "Dial 1 to generate a Credit card PIN"
+      },
+      {
+        "type": "removed",
+        "text": "Again Dial 1 when prompted to \"Generate a One Time Password\" (OTP) to Cardholder mobile as an SMS and enter the 6-digit OTP"
+      },
+      {
+        "type": "added",
+        "text": "Again Dial 1 when prompted to &#34;Generate a One Time Password&#34; (OTP) to Cardholder mobile as an SMS and enter the 6-digit OTP"
+      },
+      {
+        "type": "context",
+        "text": "On successful entry of OTP, the IVR will confirm successful validation and ask the cardholder to set the 4-digit PIN followed by the hash(#) key. If cardholder get disconnected at step# 4:- Redial the Toll number, after Step2 ….“Dial 2 to enter the 6 digit OTP"
+      },
+      {
+        "type": "context",
+        "text": "Click here  to know more."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "CashPoints of 3% will be calculated basis the Merchant Category Code (MCC) shared by the RuPay network. If in case the MCC is not available in the set-up, such transactions will not qualify for the benefit. Only Below mentioned MCCs will be considered for cashpoints posting Merchant category & MCC code: Grocery & supermarket 5411, Dining 5812, 5814"
+      },
+      {
+        "type": "context",
+        "text": "What are cashpoints?"
+      },
+      {
+        "type": "removed",
+        "text": "CashPoints are an exclusive rewards metric system created by HDFC Bank for credit cardholders which can be used towards cashback redemption against the statement at the rate of 1 CashPoint = ₹0.25 for UPI RuPay Credit Card Holders."
+      },
+      {
+        "type": "added",
+        "text": "CashPoints are an exclusive rewards metric system created by HDFC Bank for credit cardholders which can be used towards cashback redemption against the statement at the rate of 1 CashPoint &#61; ₹0.25 for UPI RuPay Credit Card Holders."
+      },
+      {
+        "type": "context",
+        "text": "Please note that CashPoints will be posted as reward points only."
+      },
+      {
+        "type": "context",
+        "text": "Cardholder did a transaction in the utility category and didn’t get CashPoints as per the 2% cashback feature?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "No, UPI RuPay Credit Card will be issued only as virtual card and no physical card will be issued."
+      },
+      {
+        "type": "context",
+        "text": "What are the Fees and Charges applicable on the UPI RuPay Credit Card?"
+      },
+      {
+        "type": "removed",
+        "text": "First Year Membership Fee of ₹99 + applicable taxes and renewal membership Fee of ₹99 + applicable taxes"
+      },
+      {
+        "type": "added",
+        "text": "First Year Membership Fee of ₹99 &#43; applicable taxes and renewal membership Fee of ₹99 &#43; applicable taxes"
+      },
+      {
+        "type": "context",
+        "text": "Spend ₹25,000 in 12 months (Annual year) and get the renewal fee waived for the next renewal year."
+      },
+      {
+        "type": "context",
+        "text": "Goods and Services Tax (GST)"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "GST levied will not be reversed on any dispute on fee & charges/interest."
+      },
+      {
+        "type": "context",
+        "text": "How can a cardholder use the CashBack earned?"
+      },
+      {
+        "type": "removed",
+        "text": "CashBack is a CashPoints that can be redeemed against the statement balance at a rate of 1 CashPoint = ₹0.25, via net banking or offline redemption on flights, hotel bookings, and rewards catalogue at the SmartBuy rewards portal."
+      },
+      {
+        "type": "added",
+        "text": "CashBack is a CashPoints that can be redeemed against the statement balance at a rate of 1 CashPoint &#61; ₹0.25, via net banking or offline redemption on flights, hotel bookings, and rewards catalogue at the SmartBuy rewards portal."
+      },
+      {
+        "type": "context",
+        "text": "A minimum of 500 cashpoints is required for redemption."
+      },
+      {
+        "type": "context",
+        "text": "Maximum of 50% of the booking value can be redeemed through CashPoints."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "How many CashPoints will be earned if a cardholder spends through SmartBuy?"
+      },
+      {
+        "type": "context",
+        "text": "Spends done through SmartBuy shall not be eligible for CashPoints"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Customer Care"
+      },
+      {
+        "type": "added",
+        "text": "FX Services"
+      },
+      {
+        "type": "added",
+        "text": "Empanelled AMCs for Alternate Products"
+      },
+      {
+        "type": "added",
+        "text": "Customer Rights Policy"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-infinia-credit-card-metal-edition",
+    "cardName": "Infinia Credit Card (Metal Edition)",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/infinia-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:31:41.658Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "context",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Earn up to 10x Reward Points on Smartbuy spends*"
+      },
+      {
+        "type": "context",
+        "text": "Dining Benefits"
+      },
+      {
+        "type": "removed",
+        "text": "1+1 buffet at participating ITC hotels. Here."
+      },
+      {
+        "type": "removed",
+        "text": "Up to 25% discount on Dining & stay across Asia-Pacific with Complimentary Club Marriott Membership"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy 1&#43;1 on Buffet at participating ITC Hotels. Here ."
+      },
+      {
+        "type": "added",
+        "text": "Up to 50% off on Dining & Stay across Asia Pacific with Club Marriott Membership. Here ."
+      },
+      {
+        "type": "added",
+        "text": "Get 10% Instant Discount on Swiggy Dineout. T&C Apply ."
+      },
+      {
+        "type": "context",
+        "text": "Additional Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Welcome Benefits:"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Travel, Hotel & Dining Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited complimentary Domestic airport lounge access in India with your HDFC Bank Infinia Credit Card (Primary & Add-on)."
+      },
+      {
+        "type": "removed",
+        "text": "Unlimited complimentary International airport lounge access outside India via Priority Pass for Primary and Add-on cardholders (1,000+ lounges worldwide)."
+      },
+      {
+        "type": "removed",
+        "text": "View List of eligible Lounges here. Click here to know more"
+      },
+      {
+        "type": "added",
+        "text": "Unlimited complimentary International airport lounge access outside India via Priority Pass for Primary and Add-on cardholders (1,000&#43; lounges worldwide)."
+      },
+      {
+        "type": "added",
+        "text": "View List of eligible Airport Lounges here . T&Cs here ."
+      },
+      {
+        "type": "added",
+        "text": "10% Instant Discount on Swiggy Dineout. T&C"
+      },
+      {
+        "type": "context",
+        "text": "Book stay for 3-nights and pay for two at participating ITC hotels."
+      },
+      {
+        "type": "removed",
+        "text": "1+1 complimentary buffet at participating ITC hotels. Know More."
+      },
+      {
+        "type": "added",
+        "text": "1&#43;1 complimentary buffet at participating ITC hotels. Know More."
+      },
+      {
+        "type": "context",
+        "text": "Golf Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Unlimited Complimentary Golf lessons & games at leading courses across India and select courses across the world."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "To enable card controls through WhatsApp Banking:"
+      },
+      {
+        "type": "context",
+        "text": "Save HDFC Bank's official WhatsApp number 7070022222 ."
+      },
+      {
+        "type": "removed",
+        "text": "Send \" Credit Card \"."
+      },
+      {
+        "type": "added",
+        "text": "Send &#34; Credit Card &#34;."
+      },
+      {
+        "type": "context",
+        "text": "Select Manage My Card , then choose Domestic / International / Enhance Limits ."
+      },
+      {
+        "type": "context",
+        "text": "Select the transaction type, set the preferred limit, and verify using the OTP sent to your registered mobile number."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Reward points redemption against each category can be redeemed at:"
+      },
+      {
+        "type": "context",
+        "text": "1 Reward point Equivalent to"
+      },
+      {
+        "type": "removed",
+        "text": "Apple products and Tanishq vouchers purchased via SmartBuy"
+      },
+      {
+        "type": "removed",
+        "text": "₹1"
+      },
+      {
+        "type": "removed",
+        "text": "Flights and hotel bookings"
+      },
+      {
+        "type": "removed",
+        "text": "₹1"
+      },
+      {
+        "type": "removed",
+        "text": "Airmiles conversion"
+      },
+      {
+        "type": "removed",
+        "text": "Upto 1 Airmile"
+      },
+      {
+        "type": "removed",
+        "text": "Products and Voucher"
+      },
+      {
+        "type": "removed",
+        "text": "up to ₹0.50"
+      },
+      {
+        "type": "removed",
+        "text": "Cashback against statement Balance"
+      },
+      {
+        "type": "removed",
+        "text": "up to ₹ 0.30"
+      },
+      {
+        "type": "added",
+        "text": "Apple products and Tanishq vouchers purchased via SmartBuy ₹1"
+      },
+      {
+        "type": "added",
+        "text": "Flights and hotel bookings ₹1"
+      },
+      {
+        "type": "added",
+        "text": "Airmiles conversion Upto 1 Airmile"
+      },
+      {
+        "type": "added",
+        "text": "Products and Voucher up to ₹0.50"
+      },
+      {
+        "type": "added",
+        "text": "Cashback against statement Balance up to ₹ 0.30"
+      },
+      {
+        "type": "context",
+        "text": "Redemption Limit:"
+      },
+      {
+        "type": "context",
+        "text": "Reward point redemption will be capped at 1.5 lakh reward points per month for Flights, Hotel Bookings and airmiles."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Contact for Bookings/Assistance:"
+      },
+      {
+        "type": "context",
+        "text": "Toll Free No.: 1800 118 887 Landline No.:  022 42320226 ​"
+      },
+      {
+        "type": "removed",
+        "text": "Email ID: Infinia.support@smartbuyoffers.co"
+      },
+      {
+        "type": "added",
+        "text": "Email ID: Infinia.support&#64;smartbuyoffers.co"
+      },
+      {
+        "type": "context",
+        "text": "For Other Assistance: (HDFC Bank Customer Care):"
+      },
+      {
+        "type": "context",
+        "text": "Toll Free: 18001600 / 18002600"
+      },
+      {
+        "type": "removed",
+        "text": "From Outside India: +91 2261606160"
+      },
+      {
+        "type": "removed",
+        "text": "E-mail: infinia.services@hdfc.bank.in​"
+      },
+      {
+        "type": "added",
+        "text": "From Outside India: &#43;91 2261606160"
+      },
+      {
+        "type": "added",
+        "text": "E-mail: infinia.services&#64;hdfc.bank.in​"
+      },
+      {
+        "type": "context",
+        "text": "INFINIA Metal Edition Card Fees and Charges"
+      },
+      {
+        "type": "context",
+        "text": "For INFINIA Cards sourced after October 18, 2021:"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "What are the documents required to obtain a Metal Credit Card?"
+      },
+      {
+        "type": "context",
+        "text": "Membership for the HDFC Bank Infinia Metal Credit Card is available by invitation only."
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Customer Care"
+      },
+      {
+        "type": "added",
+        "text": "FX Services"
+      },
+      {
+        "type": "added",
+        "text": "Empanelled AMCs for Alternate Products"
+      },
+      {
+        "type": "added",
+        "text": "Customer Rights Policy"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-millennia-credit-card",
+    "cardName": "Millennia Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/millennia-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:31:41.649Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "context",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "CashBack Benefits"
+      },
+      {
+        "type": "context",
+        "text": "1% CashBack on other spends"
+      },
+      {
+        "type": "removed",
+        "text": "Upto 10% CashBack across 200+ Brands via SmartBuy/PayZapp Shop"
+      },
+      {
+        "type": "added",
+        "text": "Upto 10% CashBack across 200&#43; Brands via SmartBuy/PayZapp Shop"
+      },
+      {
+        "type": "context",
+        "text": "Pay your Membership fee and get Reward Points equivalent to Fee Amount"
+      },
+      {
+        "type": "context",
+        "text": "Note : For Detailed Terms and Conditions, Click Here"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "To enable card controls through WhatsApp Banking:"
+      },
+      {
+        "type": "context",
+        "text": "Save HDFC Bank's official WhatsApp number 7070022222 ."
+      },
+      {
+        "type": "removed",
+        "text": "Send \" Credit Card \"."
+      },
+      {
+        "type": "added",
+        "text": "Send &#34; Credit Card &#34;."
+      },
+      {
+        "type": "context",
+        "text": "Select Manage My Card , then choose Domestic / International / Enhance Limits ."
+      },
+      {
+        "type": "context",
+        "text": "Select the transaction type, set the preferred limit, and verify using the OTP sent to your registered mobile number."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Contactless payments"
+      },
+      {
+        "type": "context",
+        "text": "Application Channels"
+      },
+      {
+        "type": "removed",
+        "text": "Joining/Renewal Membership Fee – ₹1,000/- + Applicable Taxes"
+      },
+      {
+        "type": "added",
+        "text": "Joining/Renewal Membership Fee – ₹1,000/- &#43; Applicable Taxes"
+      },
+      {
+        "type": "context",
+        "text": "Spend over ₹1,00,000 in a year before renewal to get your Credit Card fee waived."
+      },
+      {
+        "type": "context",
+        "text": "Click here to view details of HDFC Bank Millennia Credit Card Fees and Charges."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Redemption Value"
+      },
+      {
+        "type": "context",
+        "text": "CashBack is in Reward Points and is redeemable against the statement balance upon request."
+      },
+      {
+        "type": "removed",
+        "text": "1 Rewards points is equivalent:"
+      },
+      {
+        "type": "removed",
+        "text": "1. CashBack (as against statement balance) = ₹1"
+      },
+      {
+        "type": "removed",
+        "text": "2. On SmartBuy - Flight and Hotel bookings = ₹0.30"
+      },
+      {
+        "type": "removed",
+        "text": "3. Airmiles = ₹0.30"
+      },
+      {
+        "type": "removed",
+        "text": "4. Rewards catalogue = upto 0.30"
+      },
+      {
+        "type": "added",
+        "text": "1 Rewards points is equivalent: 1. CashBack (as against statement balance) &#61; ₹1"
+      },
+      {
+        "type": "added",
+        "text": "2. On SmartBuy - Flight and Hotel bookings &#61; ₹0.30"
+      },
+      {
+        "type": "added",
+        "text": "3. Airmiles &#61; ₹0.30"
+      },
+      {
+        "type": "added",
+        "text": "4. Rewards catalogue &#61; upto 0.30"
+      },
+      {
+        "type": "context",
+        "text": "A minimum of 500 Reward Points are required for statement balance redemption."
+      },
+      {
+        "type": "context",
+        "text": "Reward Points redemption for CashBack redemption are capped per calendar month to 3,000 Rewards Points."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "3. HDFC Bank Branch"
+      },
+      {
+        "type": "context",
+        "text": "Prefer a face-to-face interaction? Just visit your nearest  branch  and our staff will help you with the application."
+      },
+      {
+        "type": "removed",
+        "text": "From 1st September 2024, wallet loading, Easy EMI, and education payments won't earn Reward Points."
+      },
+      {
+        "type": "removed",
+        "text": "For detailed Terms & Conditions, Click here ."
+      },
+      {
+        "type": "added",
+        "text": "From 1st September 2024, wallet loading, Easy EMI, and education payments won't earn Reward Points. For detailed Terms & Conditions, Click here ."
+      },
+      {
+        "type": "context",
+        "text": "Click here to access all important links related to your Credit Card."
+      },
+      {
+        "type": "context",
+        "text": "What is the Millennia Credit Card?"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Apply Now"
+      },
+      {
+        "type": "context",
+        "text": "For More Frequently Asked Questions"
+      },
+      {
+        "type": "removed",
+        "text": "FX Services (New)"
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Customer Care"
+      },
+      {
+        "type": "added",
+        "text": "FX Services"
+      },
+      {
+        "type": "added",
+        "text": "Empanelled AMCs for Alternate Products"
+      },
+      {
+        "type": "added",
+        "text": "Customer Rights Policy"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-radware-captcha-page",
+    "cardName": "Radware Captcha Page",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: eb6143d1-e42i-4125-a3d2-9a10f9651731"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 2d3258f8-e42i-4584-ab6e-33b8605ff3a0"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:22 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:47 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-wave-credit-card",
+    "cardName": "Rupay Wave Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: b166350b-e42i-4128-b544-d094abc2822f"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: ebb2c55d-e42i-4214-95ea-18b587f3a4f4"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:21 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:45 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-signet-credit-card",
+    "cardName": "Mastercard Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 6196f9e7-e42i-4a4e-aff3-1f0966e33a37"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: a950e548-e42i-4805-9ba4-6bd39546e4df"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:19 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:44 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-signet-credit-card",
+    "cardName": "Rupay Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: c68b1e1b-e42i-40d1-a8c6-84ee646296ba"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: eea64874-e42i-43be-9fd5-035a2899e0e7"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:20 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:45 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-rupay-credit-card",
+    "cardName": "Fed StarBiz RuPay Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 5c80f2d3-e42i-4b65-85d2-11001dfc37b7"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 35e429fb-e42i-4984-91c6-fb674ae11e08"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:21 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:46 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-signet-credit-card",
+    "cardName": "Visa Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 4ffccdb4-e42i-4938-92f0-fe69597c8902"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 0acfdc2e-e42i-468b-8a02-347938948075"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:16 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:40 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-visa-credit-card",
+    "cardName": "Fed StarBiz Visa Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: b8e5b71a-e42i-474e-9fa3-5aea1a77ddf0"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 6d56d0f4-e42i-4287-a860-99e81049e863"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:17 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:42 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-celesta-credit-card",
+    "cardName": "Mastercard Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 32a4e172-e42i-4478-8793-79bb03b42b05"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: a7a19769-e42i-4d44-ac4b-a1f86e050c9c"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:18 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:42 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-imperio-credit-card",
+    "cardName": "Mastercard Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: cd1d854d-e42i-4856-9e86-0aea797894d7"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 890d05ae-e42i-4686-9b22-d4db6c3c8c52"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:18 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:43 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-imperio-credit-card",
+    "cardName": "Visa Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 4aa8a966-e42i-481d-904a-228654ed4f9d"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 0850794b-e42i-421f-9573-7bf63e620104"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:15 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:40 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-celesta-credit-card",
+    "cardName": "Visa Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-26T12:30:47.510Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 712c0b23-e42i-4e7f-985c-219c367b0de3"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 6715c182-e42i-4c9c-b0e3-b99926a1a987"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 25 2026, 12:53:14 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 26 2026, 12:30:39 UTC"
       }
     ],
     "community": {
@@ -1132,190 +3260,6 @@
     }
   },
   {
-    "id": "hdfc-bank-tata-neu-infinity-hdfc-bank-credit-card",
-    "cardName": "Tata Neu Infinity HDFC Bank Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/tata-neu-infinity-hdfc-bank-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:54:10.821Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Note:- If your card is upgraded, lost, or reissued spends done on only new card will be considered. Spends done on previous card will not be considered for qualification."
-      },
-      {
-        "type": "context",
-        "text": "B. International Lounge Access – VISA Card"
-      },
-      {
-        "type": "removed",
-        "text": "W.e.f 01-Jun-2025, Priority Pass on Tata Neu Infinity HDFC Bank Credit Card- VISA will be issued only basis request. In case you have been issued a new/ renewed/ replacement card, then you can apply for Priority Pass for self and add-on members by calling HDFC Bank phonebanking toll-free numbers 1800 1600 or 1800 2600 to enjoy the international lounge access as per the product feature benefit."
-      },
-      {
-        "type": "added",
-        "text": "W.e.f 01-Jun-2025, Priority Pass on Tata Neu Infinity HDFC Bank Credit Card- VISA will be issued only basis request. In case you have been issued a new/ renewed /replacement card, then you can apply for Priority Pass for self and add-on members by filling up the Priority Pass Request Form or by calling HDFC Bank phone banking to enjoy the international lounge access as per the product feature benefit."
-      },
-      {
-        "type": "context",
-        "text": "Using Priority Pass, you and your add on member can together avail up to 4 Complimentary Lounge Access per calendar year (1 per Quarter), outside India."
-      },
-      {
-        "type": "removed",
-        "text": "If you exceed the 4 Complimentary (1 per Quarter) visits, you will be charged at US $27 + GST per visit"
-      },
-      {
-        "type": "removed",
-        "text": "All guests visits using Priority pass would be charged at US $27 + GST per visit per guest"
-      },
-      {
-        "type": "added",
-        "text": "If you exceed the 4 Complimentary (1 per Quarter) visits, you will be charged at US $27 &#43; GST per visit"
-      },
-      {
-        "type": "added",
-        "text": "All guests visits using Priority pass would be charged at US $27 &#43; GST per visit per guest"
-      },
-      {
-        "type": "context",
-        "text": "Please note: Priority Pass in India will attract charges on your Credit Card.  Click here  to know more. You can visit  www.prioritypass.com  for list of lounge details."
-      },
-      {
-        "type": "context",
-        "text": "To know about your lounge access history"
-      },
-      {
-        "type": "removed",
-        "text": "Please write a mail to pp@prioritypass.com.hk. Please provide name, complete 18 digit Priority Pass number and state that PP Membership is via HDFC Bank program. If there is more than 1 Priority Pass number (belonging to add-on PP holders), then please provide all the PP Numbers."
-      },
-      {
-        "type": "added",
-        "text": "Please write a mail to pp&#64;prioritypass.com.hk. Please provide name, complete 18 digit Priority Pass number and state that PP Membership is via HDFC Bank program. If there is more than 1 Priority Pass number (belonging to add-on PP holders), then please provide all the PP Numbers."
-      },
-      {
-        "type": "context",
-        "text": "C. International Lounge Access - RuPay"
-      },
-      {
-        "type": "context",
-        "text": "4 Complimentary Lounge Access per calendar year (1 per Quarter), outside India. Customers will be charged a transaction fee of $3.25 on their Credit card towards complimentary lounge access, same shall be reversed. Visit exceeding the complimentary quota will be allowed at the discretion of lounge and will also be chargeable by the lounge."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "To enable card controls through WhatsApp Banking:"
-      },
-      {
-        "type": "context",
-        "text": "Save HDFC Bank's official WhatsApp number 7070022222 ."
-      },
-      {
-        "type": "removed",
-        "text": "Send \" Credit Card \"."
-      },
-      {
-        "type": "added",
-        "text": "Send &#34; Credit Card &#34;."
-      },
-      {
-        "type": "context",
-        "text": "Select Manage My Card , then choose Domestic / International / Enhance Limits ."
-      },
-      {
-        "type": "context",
-        "text": "Select the transaction type, set the preferred limit, and verify using the OTP sent to your registered mobile number."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Revolving Credit"
-      },
-      {
-        "type": "context",
-        "text": "Application Channels"
-      },
-      {
-        "type": "removed",
-        "text": "Joining/Renewal Membership Fee – ₹1,499/- + Applicable Taxes"
-      },
-      {
-        "type": "added",
-        "text": "Joining/Renewal Membership Fee – ₹1,499/- &#43; Applicable Taxes"
-      },
-      {
-        "type": "context",
-        "text": "Spend ₹3,00,000 or more in a year, before your Credit Card renewal date and get your renewal fee waived off."
-      },
-      {
-        "type": "context",
-        "text": "If applicable, the Joining Fees will be levied on 120th day of the card issuance and Renewal Fees will be levied every year at the start of every anniversary year."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "If Tata NeuCoins are credited on 31-Aug-26, they will be valid until 31-Aug-27."
-      },
-      {
-        "type": "context",
-        "text": "How to redeem Tata NeuCoins from Tata Neu?"
-      },
-      {
-        "type": "removed",
-        "text": "Once your Tata NeuCoins are successfully claimed and credited to your Tata Neu Membership Account, you can continue to use them for purchases on the Tata Neu App/Website at 1 Tata NeuCoin = ₹1 savings , just as you do today, across eligible Tata brands, including:"
-      },
-      {
-        "type": "added",
-        "text": "Once your Tata NeuCoins are successfully claimed and credited to your Tata Neu Membership Account, you can continue to use them for purchases on the Tata Neu App/Website at 1 Tata NeuCoin &#61; ₹1 savings , just as you do today, across eligible Tata brands, including:"
-      },
-      {
-        "type": "context",
-        "text": "Air India Express"
-      },
-      {
-        "type": "context",
-        "text": "Bigbasket"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Lounge Access"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "removed",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card Customer Care"
-      },
-      {
-        "type": "added",
-        "text": "FX Services"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "hdfc-bank-tata-neu-plus-hdfc-bank-credit-card",
     "cardName": "Tata Neu Plus HDFC Bank Credit Card",
     "issuerName": "HDFC Bank",
@@ -1552,402 +3496,6 @@
       {
         "type": "added",
         "text": "Empanelled AMCs for Alternate Products"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-radware-captcha-page",
-    "cardName": "Radware Captcha Page",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 0b00c74c-e42i-474a-9fc0-1ad7fd3fce12"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: eb6143d1-e42i-4125-a3d2-9a10f9651731"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:27 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:22 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-wave-credit-card",
-    "cardName": "Rupay Wave Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 35bd4674-e42i-487c-b6cb-9a35181528bf"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: b166350b-e42i-4128-b544-d094abc2822f"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:26 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:21 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-signet-credit-card",
-    "cardName": "Mastercard Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 38a73378-e42i-46a8-bda9-9d0a320e5084"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 6196f9e7-e42i-4a4e-aff3-1f0966e33a37"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:24 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:19 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-signet-credit-card",
-    "cardName": "Rupay Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: da84c9ee-e42i-4b33-9818-d090659d9b25"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: c68b1e1b-e42i-40d1-a8c6-84ee646296ba"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:25 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:20 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-rupay-credit-card",
-    "cardName": "Fed StarBiz RuPay Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: b4345d25-e42i-4735-863f-6b99a93ecbb5"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 5c80f2d3-e42i-4b65-85d2-11001dfc37b7"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:26 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:21 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-signet-credit-card",
-    "cardName": "Visa Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: a3d80e79-e42i-4651-8de3-abfbd80c4a9d"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 4ffccdb4-e42i-4938-92f0-fe69597c8902"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:21 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:16 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-visa-credit-card",
-    "cardName": "Fed StarBiz Visa Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 3084dcfd-e42i-4f5c-aa70-f570e2cf2f3f"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: b8e5b71a-e42i-474e-9fa3-5aea1a77ddf0"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:22 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:17 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-celesta-credit-card",
-    "cardName": "Mastercard Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: a35bd364-e42i-435a-82fb-5f5d70312aeb"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 32a4e172-e42i-4478-8793-79bb03b42b05"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:22 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:18 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-imperio-credit-card",
-    "cardName": "Mastercard Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 7fe96972-e42i-4a79-adf9-7cf25221ca43"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: cd1d854d-e42i-4856-9e86-0aea797894d7"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:23 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:18 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-imperio-credit-card",
-    "cardName": "Visa Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: a744e9ed-e42i-4b5d-89f0-d75851c67e3c"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 4aa8a966-e42i-481d-904a-228654ed4f9d"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:20 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:15 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-celesta-credit-card",
-    "cardName": "Visa Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-25T12:53:22.670Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 5584b975-e42i-4405-b021-fb6646386923"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 712c0b23-e42i-4e7f-985c-219c367b0de3"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 24 2026, 13:44:19 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 25 2026, 12:53:14 UTC"
       }
     ],
     "community": {
@@ -5436,106 +6984,6 @@
       {
         "type": "context",
         "text": "Purchase Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-hdfc-bank-upi-rupay-credit-card",
-    "cardName": "HDFC Bank UPI RuPay Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/hdfc-bank-upi-rupay-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-20T11:40:42.266Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Apply for RuPay UPI Credit Card - Get Cashpoints on Spends |HDFC Bank"
-      },
-      {
-        "type": "removed",
-        "text": "Popular 8"
-      },
-      {
-        "type": "removed",
-        "text": "Kids 2"
-      },
-      {
-        "type": "removed",
-        "text": "Others 13"
-      },
-      {
-        "type": "removed",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "removed",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "removed",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "removed",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Seamless UPI payments with a virtual card"
-      },
-      {
-        "type": "context",
-        "text": "Earn CashPoints on your UPI spends"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "How many CashPoints will be earned if a cardholder spends through SmartBuy?"
-      },
-      {
-        "type": "context",
-        "text": "Spends done through SmartBuy shall not be eligible for CashPoints"
-      },
-      {
-        "type": "removed",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "removed",
-        "text": "Credit Card Customer Care"
       }
     ],
     "community": {
@@ -12344,112 +13792,6 @@
     }
   },
   {
-    "id": "idfc-first-bank-first-wealth",
-    "cardName": "FIRST Wealth",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/wealth",
-    "status": "Active",
-    "detectedAt": "2026-11-09T11:35:40.888Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "24/7 Roadside assistance"
-      },
-      {
-        "type": "removed",
-        "text": "Receive 24/7 complimentary roadside assistance worth ₹1,399 during car or two-wheeler emergencies across India"
-      },
-      {
-        "type": "added",
-        "text": "Get round-the-clock roadside assistance for your car or two-wheeler emergencies across India, complimentary with your Credit Card and worth ₹1,399. Valid up to 4 times in a year.​"
-      },
-      {
-        "type": "added",
-        "text": "To avail the service, call the toll free number 1800 572 3860 and share your name, the last 4 digits of your card, and vehicle details.​"
-      },
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Personalised concierge at your fingertips"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added limited roadside assistance benefit up to 4 times per year"
-    }
-  },
-  {
-    "id": "idfc-first-bank-first-select",
-    "cardName": "FIRST Select",
-    "issuerName": "IDFC First Bank",
-    "issuerSlug": "idfc-first-bank",
-    "officialUrl": "https://www.idfcfirst.bank.in/",
-    "productPageUrl": "https://www.idfcfirst.bank.in/credit-card/select",
-    "status": "Active",
-    "detectedAt": "2026-11-09T11:35:40.886Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "24/7 Roadside assistance"
-      },
-      {
-        "type": "removed",
-        "text": "Receive 24/7 roadside assistance during car or two-wheeler emergencies across India"
-      },
-      {
-        "type": "removed",
-        "text": "• Complimentary Roadside Assistance worth ₹1,399."
-      },
-      {
-        "type": "added",
-        "text": "Get round-the-clock roadside assistance for your car or two-wheeler emergencies across India, complimentary with your Credit Card and worth ₹1,399. Valid up to 4 times in a year.​"
-      },
-      {
-        "type": "added",
-        "text": "To avail the service, call the toll free number 1800 572 3860 and share your name, the last 4 digits of your card, and vehicle details.​"
-      },
-      {
-        "type": "context",
-        "text": "T&C apply"
-      },
-      {
-        "type": "context",
-        "text": "Over 300+ merchant offers"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added round‑trip roadside assistance benefit worth ₹1,399 with call instructions",
-    "summaryVerification": {
-      "status": "verified",
-      "source": {
-        "title": "Good credit card with international lounge access?",
-        "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1xfrsd6/good_credit_card_with_international_lounge_access/",
-        "description": "Looking for recommendations for a good all-round credit card that also offers international lounge access. My income is just over 14 LPA. I travel internationally maybe once or twice a year, with a few more domestic trips. I don&#39;t mind "
-      },
-      "via": "reddit"
-    }
-  },
-  {
     "id": "icici-bank-makemytrip-credit-card",
     "cardName": "MakeMyTrip Credit Card",
     "issuerName": "ICICI Bank",
@@ -15775,62 +17117,6 @@
     "community": {
       "reddit": null,
       "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-pixel-play-credit-card",
-    "cardName": "Pixel Play Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/pixel-play-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-10T09:53:08.863Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "PIXEL Play Credit Card - Get Customised Offers | HDFC Bank"
-      },
-      {
-        "type": "context",
-        "text": "Framework For Cross Border Transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Get your PIXEL Play Credit Card LIFETIME FREE  only when you apply"
-      },
-      {
-        "type": "removed",
-        "text": "online"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy your card Lifetime Free"
-      },
-      {
-        "type": "added",
-        "text": "Up to 5% CashBack on select categories"
-      },
-      {
-        "type": "added",
-        "text": "Customisable design and billing cycle"
-      },
-      {
-        "type": "context",
-        "text": "Apply Now"
-      },
-      {
-        "type": "context",
-        "text": "Step Into The Exclusive FIFA World Cup™ Experience"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added lifetime free card and up to 5% cashback on select categories."
     }
   },
   {
@@ -20396,546 +21682,5 @@
       "status": "unverified",
       "candidateSummary": "Fuel surcharge waiver threshold increased from ₹4,000 to ₹5,000."
     }
-  },
-  {
-    "id": "kotak-mahindra-bank-white-credit-card",
-    "cardName": "White Credit Card",
-    "issuerName": "Kotak Mahindra Bank",
-    "issuerSlug": "kotak-mahindra-bank",
-    "officialUrl": "https://www.kotak.bank.in/",
-    "productPageUrl": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/white-credit-card.html",
-    "status": "Discontinued",
-    "detectedAt": "2026-09-01T08:47:20.300Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Enter the world of White Credit Card for exclusive benefits,"
-      },
-      {
-        "type": "context",
-        "text": "unprecendented access to premium brands and more."
-      },
-      {
-        "type": "removed",
-        "text": "White Pass"
-      },
-      {
-        "type": "added",
-        "text": "Rewards"
-      },
-      {
-        "type": "context",
-        "text": "Lounge Program"
-      },
-      {
-        "type": "context",
-        "text": "Value"
-      },
-      {
-        "type": "context",
-        "text": "Eligibility"
-      },
-      {
-        "type": "removed",
-        "text": "PayWave"
-      },
-      {
-        "type": "removed",
-        "text": "Explore More"
-      },
-      {
-        "type": "context",
-        "text": "Be prepared to enjoy a life unlike any other."
-      },
-      {
-        "type": "removed",
-        "text": "White Pass"
-      },
-      {
-        "type": "added",
-        "text": "Rewards"
-      },
-      {
-        "type": "context",
-        "text": "A handcrafted exclusive rewards program designed for transparency, elegance and simplicity"
-      },
-      {
-        "type": "context",
-        "text": "Simple Milestone Structure"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Earn White Pass value upto Rs. 27,000 every year on annual spends of Rs. 12 lacs"
-      },
-      {
-        "type": "context",
-        "text": "Premium Redemption Catalog"
-      },
-      {
-        "type": "removed",
-        "text": "Redeem White Pass balance against luxury brands"
-      },
-      {
-        "type": "added",
-        "text": "Redeem Rewards balance against luxury brands"
-      },
-      {
-        "type": "context",
-        "text": "Airport Lounge Access"
-      },
-      {
-        "type": "context",
-        "text": "Experience luxury as you travel"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Click Here"
-      },
-      {
-        "type": "context",
-        "text": "Why keep track of reward points when you can just unlock direct value as you spend?"
-      },
-      {
-        "type": "removed",
-        "text": "Earn White Pass value on reaching spend milestones."
-      },
-      {
-        "type": "added",
-        "text": "Earn Reward Point value on reaching spend milestones."
-      },
-      {
-        "type": "context",
-        "text": "Get value reminders | Use vouchers online or offline"
-      },
-      {
-        "type": "context",
-        "text": "Spend milestone*"
-      },
-      {
-        "type": "removed",
-        "text": "White Pass value you earn"
-      },
-      {
-        "type": "removed",
-        "text": "Cumulative White Pass value"
-      },
-      {
-        "type": "added",
-        "text": "Reward Point value you earn"
-      },
-      {
-        "type": "added",
-        "text": "Cumulative Reward Point value"
-      },
-      {
-        "type": "context",
-        "text": "₹2 lakh"
-      },
-      {
-        "type": "context",
-        "text": "₹2,000"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "₹27,000"
-      },
-      {
-        "type": "context",
-        "text": "*Applicable on spends settled in a card anniversary year"
-      },
-      {
-        "type": "removed",
-        "text": "These aren’t any ordinary brand vouchers."
-      },
-      {
-        "type": "removed",
-        "text": "Redeem White Pass value directly from our curated collection of premium brands."
-      },
-      {
-        "type": "removed",
-        "text": "The above list of brands is subject to change from time to time."
-      },
-      {
-        "type": "removed",
-        "text": "Earn White Pass value on crossing every spend milestone"
-      },
-      {
-        "type": "removed",
-        "text": "1 White Pass = ₹1 on White Pass catalog"
-      },
-      {
-        "type": "removed",
-        "text": "1 White Pass = ₹0.70 for cashback"
-      },
-      {
-        "type": "added",
-        "text": "Earn Reward Points on crossing every spend milestone"
-      },
-      {
-        "type": "added",
-        "text": "1 Reward Point = ₹1 on Reward Point catalog"
-      },
-      {
-        "type": "added",
-        "text": "1 Reward Point= ₹0.70 for cashback"
-      },
-      {
-        "type": "context",
-        "text": "Claim those vouchers at your convenience."
-      },
-      {
-        "type": "context",
-        "text": "All you need to do is"
-      },
-      {
-        "type": "context",
-        "text": "Login to Kotak Mobile app"
-      },
-      {
-        "type": "removed",
-        "text": "Click on the Card Overview icon and enter your MPIN"
-      },
-      {
-        "type": "removed",
-        "text": "Scroll down to the section of reward points"
-      },
-      {
-        "type": "removed",
-        "text": "Click on ‘Claim now’. You will now be redirected to the White Pass redemption portal"
-      },
-      {
-        "type": "removed",
-        "text": "Select the option you want to redeem your White Pass on"
-      },
-      {
-        "type": "removed",
-        "text": "Once a redemption is done , you will receive a confirmation over email & SMS with the details of redemption"
-      },
-      {
-        "type": "removed",
-        "text": "You will also be able to view all your redemptions in the Redemption History tab of the White Pass portal."
-      },
-      {
-        "type": "removed",
-        "text": "A maximum White Pass value of ₹27,000 can be accumulated in a year."
-      },
-      {
-        "type": "removed",
-        "text": "Every year on the anniversary date of the card , White Pass value will be reset to zero."
-      },
-      {
-        "type": "removed",
-        "text": "White Pass balance remains valid for an additional 90 days after every anniversary cycle."
-      },
-      {
-        "type": "removed",
-        "text": "For example: If your card is booked on 1-June-2025, the balance earned for the anniversary year 1-Jun-2025 to 31-May-2026 can be claimed till 29-August-2026."
-      },
-      {
-        "type": "removed",
-        "text": "Disclaimer: Please note w.e.f 1st April,2026  there are some changes in the calculation of milestone for White Pass benefits click here to know more."
-      },
-      {
-        "type": "added",
-        "text": "Enter your MPIN and click on the Card Overview icon"
-      },
-      {
-        "type": "added",
-        "text": "Click on reward points in the top right corner"
-      },
-      {
-        "type": "added",
-        "text": "Click on the arrow to land on Kotak Unbox"
-      },
-      {
-        "type": "added",
-        "text": "Select offerings you want to redeem your Reward Point for"
-      },
-      {
-        "type": "added",
-        "text": "Once redemption is done, you will receive a confirmation over email & SMS with the details of redemption"
-      },
-      {
-        "type": "added",
-        "text": "A maximum reward point value of ₹27,000 can be accumulated in a year."
-      },
-      {
-        "type": "added",
-        "text": "Every year on the anniversary date of the card , reward point value will be reset to zero."
-      },
-      {
-        "type": "added",
-        "text": "Reward point balance remains valid for an additional 90 days after every anniversary cycle."
-      },
-      {
-        "type": "added",
-        "text": "For example: If your card is booked on 1-June-2025, the balance earned for the anniversary year 1-Jun-2025 to 31-May-2026 can be claimed till 29-August-2026"
-      },
-      {
-        "type": "added",
-        "text": "Disclaimer: Please note w.e.f 1st April,2026 there are some changes in the calculation of milestone for Reward Points benefits click here to know more."
-      },
-      {
-        "type": "context",
-        "text": "Have a relaxed travelling experience. Enjoy complimentary refreshments, free internet access and a relaxed ambience, so your wait at airports is made more comfortable."
-      },
-      {
-        "type": "context",
-        "text": "Benefit"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Present your Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Domestic Lounge Access"
-      },
-      {
-        "type": "removed",
-        "text": "2 complimentary visits every quarter"
-      },
-      {
-        "type": "added",
-        "text": "2 complimentary visits every quarter*"
-      },
-      {
-        "type": "context",
-        "text": "Click Here"
-      },
-      {
-        "type": "context",
-        "text": "Present your Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Income: ₹25 lakh and above per annum"
-      },
-      {
-        "type": "context",
-        "text": "To know about Programme Eligibility click here ."
-      },
-      {
-        "type": "removed",
-        "text": "The White Credit Card also comes with Visa payWave that offers a fast, safe and secure way to pay."
-      },
-      {
-        "type": "removed",
-        "text": "Just wave and pay with no PIN."
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy the comfort of this contactless way to pay for transactions up to ₹5000, without a PIN."
-      },
-      {
-        "type": "removed",
-        "text": "Why contactless payments?"
-      },
-      {
-        "type": "removed",
-        "text": "Speed: You don't need to enter a PIN, just wave your credit card on the reader*."
-      },
-      {
-        "type": "removed",
-        "text": "Safety: The credit card never leaves your hand, reducing the risk of loss or counterfeit."
-      },
-      {
-        "type": "removed",
-        "text": "Security: Multiple layers of security ensures no fraudulent or unauthorized transactions."
-      },
-      {
-        "type": "removed",
-        "text": "How does the PayWave Credit Card work?"
-      },
-      {
-        "type": "removed",
-        "text": "Look for the Visa PayWave mark and contactless logo on the POS machine"
-      },
-      {
-        "type": "removed",
-        "text": "Check the amount entered on the contactless reader"
-      },
-      {
-        "type": "removed",
-        "text": "Tap your credit card over the reader at close range over the logo"
-      },
-      {
-        "type": "removed",
-        "text": "A message and 4 beeps indicates a successful transaction"
-      },
-      {
-        "type": "removed",
-        "text": "*The requirement for PIN entry on the POS terminal at the merchant outlet is a function of country specific regulations and is subject to change. PIN input is not mandated for purchases below the permissible local limit."
-      },
-      {
-        "type": "removed",
-        "text": "Please note that the permissible transaction limit for usage of credit cards in contactless mode in India is mandated by RBI and may change from time to time based on the latest regulations. As per RBI notification on Additional Factor authentication for contactless transactions dated Dec 4, 2020, PIN input is not required on the POS terminal at the merchant outlet for contactless transactions up to a maximum value of ₹5,000 per transaction. Additionally, beyond this transaction limit (above ₹5,000), the card has to be processed in Chip & PIN mode and authentication with PIN is mandatory."
-      },
-      {
-        "type": "removed",
-        "text": "Videos"
-      },
-      {
-        "type": "removed",
-        "text": "White Credit Card Features"
-      },
-      {
-        "type": "removed",
-        "text": "Kotak White credit card is a new, exclusive, premium credit card experience. Unlike other credit cards, it doesn’t make you tally points but rewards your shopping with a White Pass which you can then redeem with world-class brands. Watch this video to learn more."
-      },
-      {
-        "type": "context",
-        "text": "Fee & Charges"
-      },
-      {
-        "type": "context",
-        "text": "Kotak White Signature Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Compare this product with other Kotak Credit Cards"
-      },
-      {
-        "type": "context",
-        "text": "Compare Now"
-      },
-      {
-        "type": "added",
-        "text": "Top Premium Credit Cards in India"
-      },
-      {
-        "type": "added",
-        "text": "Best Credit Cards in India in 2025"
-      },
-      {
-        "type": "added",
-        "text": "10 Best Mobile Phones Under ₹15000 in India for 2024 - Buy with No Cost EMI"
-      },
-      {
-        "type": "added",
-        "text": "Best Mobile Under ₹25,000: List of Latest & Top 10 Smartphones Brands | Kotak No-Cost EMI"
-      },
-      {
-        "type": "context",
-        "text": "Earn unlimited 2.5 Mojo points for every Rs. 100 on online spends and 1 Mojo point for every Rs. 100 on other spends."
-      },
-      {
-        "type": "context",
-        "text": "Get 2500 Mojo points every quarter on spends of 75000"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Reward point system renamed and redemption process updated."
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-vistara-credit-card",
-    "cardName": "AXIS BANK VISTARA Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-09-01T08:40:32.037Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Insurance benefits"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank Vistara Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Sourcing of Axis Bank Vistara Credit Cards has been discontinued."
-      },
-      {
-        "type": "added",
-        "text": "The Axis Bank Vistara Credit Card will be discontinued for spends post 31 October 2026 following the merger of Vistara with Air India. To ensure uninterrupted access to exciting rewards, offers, and privileges, apply for another Axis Bank Credit Card today. [ Click here to apply.] [ Click here to view the T&C]"
-      },
-      {
-        "type": "context",
-        "text": "The Terms & Conditions of Axis Bank Vistara Credit Card will be updated w.e.f 28th August'26. Please click here to know more."
-      },
-      {
-        "type": "context",
-        "text": "Accrue Maharaja Points on everyswipe"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-vistara-signature-credit-card",
-    "cardName": "AXIS BANK VISTARA SIGNATURE Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-vistara-signature-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-09-01T08:40:32.036Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Insurance benefits"
-      },
-      {
-        "type": "context",
-        "text": "Axis Bank Vistara Signature Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "The Axis Bank Vistara Credit Card will be discontinued for spends post 31 October 2026 following the merger of Vistara with Air India. To ensure uninterrupted access to exciting rewards, offers, and privileges, apply for another Axis Bank Credit Card today. Click here to apply."
-      },
-      {
-        "type": "added",
-        "text": "The Axis Bank Vistara Credit Card will be discontinued for spends post 31 October 2026 following the merger of Vistara with Air India. To ensure uninterrupted access to exciting rewards, offers, and privileges, apply for another Axis Bank Credit Card today. [ Click here to apply.] [ Click here to view the T&C]"
-      },
-      {
-        "type": "context",
-        "text": "The Terms & Conditions of Axis Bank Vistara Signature Credit Card will be updated w.e.f 28th August'26. Please click here to know more."
-      },
-      {
-        "type": "context",
-        "text": "Accrue Maharaja Points On Every Swipe"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summary": "Added a link to view the terms and conditions for the Axis Bank Vistara Credit Card."
   }
 ]

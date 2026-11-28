@@ -1,5 +1,1713 @@
 [
   {
+    "id": "standard-chartered-india-digismart-credit-card",
+    "cardName": "DigiSmart Credit Card",
+    "issuerName": "Standard Chartered India",
+    "issuerSlug": "standard-chartered-india",
+    "officialUrl": "https://www.sc.com/in/",
+    "productPageUrl": "https://www.sc.com/in/credit-cards/digismart-card/",
+    "status": "Discontinued",
+    "detectedAt": "2026-11-28T11:50:27.497Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "DigiSmart Card – Best Online Shopping Credit Card – Standard Chartered India"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy exclusive benefits of up to 20% off* on Zomato, Blinkit and more!"
+      },
+      {
+        "type": "added",
+        "text": "Enjoy exclusive benefits of up to 20% off* on Zomato, Blinkit and more!"
+      },
+      {
+        "type": "context",
+        "text": "One credit card for all your online tabs"
+      },
+      {
+        "type": "context",
+        "text": "Standard Chartered’s DigiSmart Card, is for online purchases with attractive offers on grocery, dining, travel & more."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "indusind-bank-error404",
+    "cardName": "ERROR404",
+    "issuerName": "IndusInd Bank",
+    "issuerSlug": "indusind-bank",
+    "officialUrl": "https://www.indusind.bank.in/",
+    "productPageUrl": "https://www.indusind.bank.in/in/en/microsites/platinum-aura-edge-goverment-credit-card.html",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:47:56.716Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "ERROR404"
+      },
+      {
+        "type": "removed",
+        "text": "Investors"
+      },
+      {
+        "type": "removed",
+        "text": "Credit card"
+      },
+      {
+        "type": "removed",
+        "text": "OTHERS"
+      },
+      {
+        "type": "removed",
+        "text": "Products"
+      },
+      {
+        "type": "removed",
+        "text": "Individual Saving Account"
+      },
+      {
+        "type": "removed",
+        "text": "Get more out of your savings. Discover endless benefits and privileges with IndusInd."
+      },
+      {
+        "type": "removed",
+        "text": "Kickstart your savings journey with zero balances - easy access, no initial deposit required!"
+      },
+      {
+        "type": "removed",
+        "text": "Salary Account"
+      },
+      {
+        "type": "removed",
+        "text": "Discover the benefits and special banking services available to the Uniformed Personnel"
+      },
+      {
+        "type": "removed",
+        "text": "Convenient banking with enhanced benefits to suit the needs of our corporate salary customers"
+      },
+      {
+        "type": "removed",
+        "text": "Indus Current Account"
+      },
+      {
+        "type": "removed",
+        "text": "Flexible & Feature rich Current accounts designed to boost small & medium Business"
+      },
+      {
+        "type": "removed",
+        "text": "Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "Secure your money and watch it grow. Flexible tenures and attractive interest rates"
+      },
+      {
+        "type": "removed",
+        "text": "Build up your savings through regular, small deposits"
+      },
+      {
+        "type": "removed",
+        "text": "Make optimal use of our Locker services to safeguard your valuables"
+      },
+      {
+        "type": "removed",
+        "text": "Sweep in / Sweep Out"
+      },
+      {
+        "type": "removed",
+        "text": "Make smarter choices when it comes to growing your investments"
+      },
+      {
+        "type": "removed",
+        "text": "Senior Citizen Fixed Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "Age is no excuse. Exciting benefits and higher interest rates to make your money work harder"
+      },
+      {
+        "type": "removed",
+        "text": "Easy and flexible finance options for vehicles, ranging from two wheelers, cars, commercial vehicles, earth movers to farm equipment"
+      },
+      {
+        "type": "removed",
+        "text": "Your dream home is now in your budget. Super quick disbursals and attractive interest rates."
+      },
+      {
+        "type": "removed",
+        "text": "Expand your business, pay for further education or meet medical needs with a Loan against Property"
+      },
+      {
+        "type": "removed",
+        "text": "Put the power of gold to work. Instant financing with minimum documentation"
+      },
+      {
+        "type": "removed",
+        "text": "Avail overdraft facility (OD) against your securities while staying invested."
+      },
+      {
+        "type": "removed",
+        "text": "Customisable home loan designed for our customers"
+      },
+      {
+        "type": "removed",
+        "text": "Enabling farmers to meet their credit needs, instantly Sow the seeds of a brighter future with a loan designed to help farmers"
+      },
+      {
+        "type": "removed",
+        "text": "Now nothing can hold back your aspirations. Instant Personal Loans with attractive EMIs"
+      },
+      {
+        "type": "removed",
+        "text": "Professional Loans to Doctors"
+      },
+      {
+        "type": "removed",
+        "text": "Specially designed to fulfil financial needs of Doctor’s to meet professional and personal goals"
+      },
+      {
+        "type": "removed",
+        "text": "Develop your healthcare facility and equip it with the latest technology in the industry"
+      },
+      {
+        "type": "removed",
+        "text": "Discover endless benefits and privileges with our range of Credit Cards to suit your needs"
+      },
+      {
+        "type": "removed",
+        "text": "Loan on Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Indus Easy Loan is a very convenient and quick option to get ready cash when you need it the most. Indus Easy EMI facility gives you the option to convert your high value credit card purchases into easy and flexible EMIs."
+      },
+      {
+        "type": "removed",
+        "text": "A single card that’s double the awesome! Get a credit and debit card in one"
+      },
+      {
+        "type": "removed",
+        "text": "Make fast and secure payments on the go, wherever you are, with ease!"
+      },
+      {
+        "type": "removed",
+        "text": "Commercial Cards"
+      },
+      {
+        "type": "removed",
+        "text": "IndusInd Bank’s Corporate Card is designed to keep the organization’s cost objectives in mind. With this primary objective, our Corporate Cards can monitor & control employee expenses in addition to making re-conciliation hassle free."
+      },
+      {
+        "type": "removed",
+        "text": "Convenient access to credit for your business expenses."
+      },
+      {
+        "type": "removed",
+        "text": "Carry convenience and security to wherever in the world choose to you go"
+      },
+      {
+        "type": "removed",
+        "text": "E-Mandate on Debit Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Easily automate recurring payments."
+      },
+      {
+        "type": "removed",
+        "text": "Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "My Family & Me"
+      },
+      {
+        "type": "removed",
+        "text": "Protect what really matters. Avail of insurance for your whole family"
+      },
+      {
+        "type": "removed",
+        "text": "My Business"
+      },
+      {
+        "type": "removed",
+        "text": "Whatever your business, whatever its size – we have a solution that fits"
+      },
+      {
+        "type": "removed",
+        "text": "Investments"
+      },
+      {
+        "type": "removed",
+        "text": "Your Investment Planner"
+      },
+      {
+        "type": "removed",
+        "text": "Get smart and plan ahead. Calculate monthly instalments, investments and more"
+      },
+      {
+        "type": "removed",
+        "text": "Systematic Investments Calculator"
+      },
+      {
+        "type": "removed",
+        "text": "Calculate returns on your monthly SIP investments so you can plan ahead"
+      },
+      {
+        "type": "removed",
+        "text": "Comfortably plan for your golden years, today"
+      },
+      {
+        "type": "removed",
+        "text": "Investing gets easier when you have a systematic investment plan and a clear direction"
+      },
+      {
+        "type": "removed",
+        "text": "Leverage on your savings for golden returns with attractive interest rates"
+      },
+      {
+        "type": "removed",
+        "text": "Diversify and customize your investments with the help of your fund manager"
+      },
+      {
+        "type": "removed",
+        "text": "Invest in Government Securities"
+      },
+      {
+        "type": "removed",
+        "text": "Retail investors can invest in Government bonds and securities directly under RBI Retail Direct Scheme"
+      },
+      {
+        "type": "removed",
+        "text": "Maximize your retirement corpus and enjoy your golden years with IndusInd"
+      },
+      {
+        "type": "removed",
+        "text": "Guiding you every step of the way as you unlock the potentials of your investments"
+      },
+      {
+        "type": "removed",
+        "text": "Payments Products"
+      },
+      {
+        "type": "removed",
+        "text": "Avail of the finest selections of debit cards to make payments on the go and online"
+      },
+      {
+        "type": "removed",
+        "text": "Why count currency when you can count experiences with a Multi-currency Forex Card"
+      },
+      {
+        "type": "removed",
+        "text": "Cruise through toll plazas with FASTag, a cashless, convenient way of paying toll tax"
+      },
+      {
+        "type": "removed",
+        "text": "Scan. Pay. Go. Bharat QR is the newest, fastest way to pay!"
+      },
+      {
+        "type": "removed",
+        "text": "Secure, fast and reliable payments that are as simple as 1-2-3!"
+      },
+      {
+        "type": "removed",
+        "text": "It is a form of digital currency used as a medium of exchange for transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy a faster, seamless transaction experience with UPI"
+      },
+      {
+        "type": "removed",
+        "text": "Why count currency when you can count experiences with a Multi-currency Forex Card"
+      },
+      {
+        "type": "removed",
+        "text": "Initiate wire transfer from your local bank through their online / offline facility mentioning our correspondent bank details."
+      },
+      {
+        "type": "removed",
+        "text": "Send money around the globe, 24/7 at the click of a button"
+      },
+      {
+        "type": "removed",
+        "text": "IndusForex-Online Forex Portal"
+      },
+      {
+        "type": "removed",
+        "text": "One stop shop for all your Forex needs. Buy Forex Card, Send Money Abroad, Track your Card etc."
+      },
+      {
+        "type": "removed",
+        "text": "Fx Retail – Online"
+      },
+      {
+        "type": "removed",
+        "text": "An online platform for anonymous, order-based dealing in USDINR (Cash/Tom/Spot)."
+      },
+      {
+        "type": "removed",
+        "text": "Let nothing hold you back from forging your path to prosperity"
+      },
+      {
+        "type": "removed",
+        "text": "Designed with the best interest of you and your community at heart"
+      },
+      {
+        "type": "removed",
+        "text": "Investing in your financial education so you can invest in your future"
+      },
+      {
+        "type": "removed",
+        "text": "A friend you can bank on to bring financial services to you, wherever you are"
+      },
+      {
+        "type": "removed",
+        "text": "Set up, automate, go! Never remember another bill due date again!"
+      },
+      {
+        "type": "removed",
+        "text": "Now pay your vehicle loan and affordable home loan EMIs with ease in just a few clicks."
+      },
+      {
+        "type": "removed",
+        "text": "Now send money overseas to your family members, friends and other loved ones instantly from the convienence of your home."
+      },
+      {
+        "type": "removed",
+        "text": "Pay off your EMIs on time with a few simple steps"
+      },
+      {
+        "type": "removed",
+        "text": "SecurePay"
+      },
+      {
+        "type": "removed",
+        "text": "Pay your insurance premium in a safe and secure manner instantly."
+      },
+      {
+        "type": "removed",
+        "text": "It is a form of digital currency used as a medium of exchange for transactions"
+      },
+      {
+        "type": "removed",
+        "text": "Set up, automate, go! Never remember another bill due date again!"
+      },
+      {
+        "type": "removed",
+        "text": "Don’t worry about remembering due dates anymore. Set up an eMandate and let your EMIs be paid automatically"
+      },
+      {
+        "type": "removed",
+        "text": "Payment NEFT / RTGS Facility"
+      },
+      {
+        "type": "removed",
+        "text": "Make your Personal Loan/Business Loan account payment from any bank which offers NEFT / RTGS facility on their internet banking."
+      },
+      {
+        "type": "removed",
+        "text": "Now pay your Direct Tax, GST, Customs Duty, Central Excise & Service Tax seamlessly through your IndusInd Bank account"
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy the freedom of managing your finances anywhere, anytime"
+      },
+      {
+        "type": "removed",
+        "text": "We shrank the bank to fit your phone. Access a suite of banking services on the go"
+      },
+      {
+        "type": "removed",
+        "text": "IndusAssist – Virtual Assistant"
+      },
+      {
+        "type": "removed",
+        "text": "Chat with our Virtual Assistant to get your banking queries answered right away."
+      },
+      {
+        "type": "removed",
+        "text": "Banking on WhatsApp"
+      },
+      {
+        "type": "removed",
+        "text": "Say “hello” to IndusInd – now on Whatsapp"
+      },
+      {
+        "type": "removed",
+        "text": "Video Branch"
+      },
+      {
+        "type": "removed",
+        "text": "Bringing your bank to you, when you want it"
+      },
+      {
+        "type": "removed",
+        "text": "Verify the integrity of a file or a data transfer"
+      },
+      {
+        "type": "removed",
+        "text": "Set Up E-Mandate"
+      },
+      {
+        "type": "removed",
+        "text": "Easily automate recurring payments"
+      },
+      {
+        "type": "removed",
+        "text": "Google Pay"
+      },
+      {
+        "type": "removed",
+        "text": "Make smart, simple and secure digital payments via IndusInd Bank Cards on Google Pay"
+      },
+      {
+        "type": "removed",
+        "text": "IndusForex Online Portal"
+      },
+      {
+        "type": "removed",
+        "text": "It is your most reliable one stop shop for all your forex needs by IndusInd Bank."
+      },
+      {
+        "type": "removed",
+        "text": "Samsung Wallet"
+      },
+      {
+        "type": "removed",
+        "text": "A mobile device based payment service"
+      },
+      {
+        "type": "removed",
+        "text": "Quick and hassle-free account opening."
+      },
+      {
+        "type": "removed",
+        "text": "Social security for citizens"
+      },
+      {
+        "type": "removed",
+        "text": "Apply for a Personal Loan to meet your immediate cash needs"
+      },
+      {
+        "type": "removed",
+        "text": "Get vehicle loans for bikes, cars, commercial vehicles, tractors and farm equipment with flexible financing options"
+      },
+      {
+        "type": "removed",
+        "text": "Open a fixed deposit online and maintain it online, too."
+      },
+      {
+        "type": "removed",
+        "text": "Save yourself the paperwork. Invest in mutual funds online"
+      },
+      {
+        "type": "removed",
+        "text": "IndiQwik offers you easy insurance at preferential premium in just a few clicks!"
+      },
+      {
+        "type": "removed",
+        "text": "Set Up E-Mandate"
+      },
+      {
+        "type": "removed",
+        "text": "Easily automate recurring payments"
+      },
+      {
+        "type": "removed",
+        "text": "A smart, efficient Forex Card so you enjoy your travels"
+      },
+      {
+        "type": "removed",
+        "text": "Your dream home is now in your budget. Super quick disbursals and attractive interest rates."
+      },
+      {
+        "type": "removed",
+        "text": "Credit Proposal Tracking System"
+      },
+      {
+        "type": "removed",
+        "text": "Discover endless benefits and privileges"
+      },
+      {
+        "type": "removed",
+        "text": "Cruise through toll plazas with FASTag, a cashless, convenient way of paying toll tax"
+      },
+      {
+        "type": "removed",
+        "text": "Now send money overseas to your family members, friends and other loved ones instantly from the convienence of your home."
+      },
+      {
+        "type": "removed",
+        "text": "Register for Udyam or update your Udyog Aadhaar and avail priority sector lending benefits by as offered by the Government of India."
+      },
+      {
+        "type": "removed",
+        "text": "Pre-owned vehicle sales platform. Now bid for your favorite pre-owned cars and two-wheelers, anytime anywhere."
+      },
+      {
+        "type": "removed",
+        "text": "Register on Indus EasyWheels completely FREE of cost with just your email ID and phone number"
+      },
+      {
+        "type": "removed",
+        "text": "Login to your Indus EasyWheels account"
+      },
+      {
+        "type": "removed",
+        "text": "Detailed analysis, industry news and interesting hacks to help expedite your journey to own your pre-owned vehicle"
+      },
+      {
+        "type": "removed",
+        "text": "View all LIVE auctions"
+      },
+      {
+        "type": "removed",
+        "text": "Search. Bid. Win. Select from our extensive range of pre-owned vehicles"
+      },
+      {
+        "type": "removed",
+        "text": "View all vehicles"
+      },
+      {
+        "type": "removed",
+        "text": "We offer 360 degree vehicle information, inspection report and much more for you to make the right choice."
+      },
+      {
+        "type": "removed",
+        "text": "View and select from our range of pre-owned two-wheeler vehicle options up for bidding"
+      },
+      {
+        "type": "removed",
+        "text": "View all Cars"
+      },
+      {
+        "type": "removed",
+        "text": "Choose from our range of pre-owned cars vehicle options up for bidding"
+      },
+      {
+        "type": "removed",
+        "text": "Have doubts? Here’s a set of frequently asked questions to help you get started."
+      },
+      {
+        "type": "removed",
+        "text": "Enjoy our partner services at discounted rates. Explore now!"
+      },
+      {
+        "type": "removed",
+        "text": "Help Centre"
+      },
+      {
+        "type": "removed",
+        "text": "Link your Aadhaar Card to your Bank Account with ease"
+      },
+      {
+        "type": "removed",
+        "text": "Complete your formalities. Here’s everything you need in one place."
+      },
+      {
+        "type": "removed",
+        "text": "The most efficient personal banking services by IndusInd Bank"
+      },
+      {
+        "type": "removed",
+        "text": "Need help? Simply connect to an IndusInd representative"
+      },
+      {
+        "type": "removed",
+        "text": "Find out where your nearest IndusInd Bank is"
+      },
+      {
+        "type": "removed",
+        "text": "Issue with your transaction? Let us help you out"
+      },
+      {
+        "type": "removed",
+        "text": "Got questions? We have answers! Browse through our FAQs"
+      },
+      {
+        "type": "removed",
+        "text": "You make us better. Your opinion matters."
+      },
+      {
+        "type": "removed",
+        "text": "Check out our Grievance Redressal Policy."
+      },
+      {
+        "type": "removed",
+        "text": "Report the Unauthorized Digital Transactions to National Cyber Frauds Reporting and Management System"
+      },
+      {
+        "type": "removed",
+        "text": "Issue with our Services? Let us help you out"
+      },
+      {
+        "type": "removed",
+        "text": "Savings Account (up to) 4%*"
+      },
+      {
+        "type": "removed",
+        "text": "Fixed Deposit 7.25%*"
+      },
+      {
+        "type": "removed",
+        "text": "Products"
+      },
+      {
+        "type": "removed",
+        "text": "Products"
+      },
+      {
+        "type": "removed",
+        "text": "Individual Saving Account"
+      },
+      {
+        "type": "removed",
+        "text": "Salary Account"
+      },
+      {
+        "type": "removed",
+        "text": "Indus Current Account"
+      },
+      {
+        "type": "removed",
+        "text": "Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "Sweep in / Sweep Out"
+      },
+      {
+        "type": "removed",
+        "text": "Senior Citizen Fixed Deposit"
+      },
+      {
+        "type": "removed",
+        "text": "Professional Loans to Doctors"
+      },
+      {
+        "type": "removed",
+        "text": "Loan on Credit Card"
+      },
+      {
+        "type": "removed",
+        "text": "Commercial Cards"
+      },
+      {
+        "type": "removed",
+        "text": "E-Mandate on Debit Cards"
+      },
+      {
+        "type": "removed",
+        "text": "Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "Insurance"
+      },
+      {
+        "type": "removed",
+        "text": "My Family & Me"
+      },
+      {
+        "type": "removed",
+        "text": "My Business"
+      },
+      {
+        "type": "removed",
+        "text": "Investments"
+      },
+      {
+        "type": "removed",
+        "text": "Investments"
+      },
+      {
+        "type": "removed",
+        "text": "Your Investment Planner"
+      },
+      {
+        "type": "removed",
+        "text": "Systematic Investments Calculator"
+      },
+      {
+        "type": "removed",
+        "text": "Invest in Government Securities"
+      },
+      {
+        "type": "removed",
+        "text": "Payments Products"
+      },
+      {
+        "type": "removed",
+        "text": "Payments Products"
+      },
+      {
+        "type": "removed",
+        "text": "IndusForex-Online Forex Portal"
+      },
+      {
+        "type": "removed",
+        "text": "Fx Retail – Online"
+      },
+      {
+        "type": "removed",
+        "text": "SecurePay"
+      },
+      {
+        "type": "removed",
+        "text": "Payment NEFT / RTGS Facility"
+      },
+      {
+        "type": "removed",
+        "text": "IndusAssist – Virtual Assistant"
+      },
+      {
+        "type": "removed",
+        "text": "Banking on WhatsApp"
+      },
+      {
+        "type": "removed",
+        "text": "Video Branch"
+      },
+      {
+        "type": "removed",
+        "text": "Set Up E-Mandate"
+      },
+      {
+        "type": "removed",
+        "text": "Google Pay"
+      },
+      {
+        "type": "removed",
+        "text": "IndusForex Online Portal"
+      },
+      {
+        "type": "removed",
+        "text": "Samsung Wallet"
+      },
+      {
+        "type": "removed",
+        "text": "Set Up E-Mandate"
+      },
+      {
+        "type": "removed",
+        "text": "View all LIVE auctions"
+      },
+      {
+        "type": "removed",
+        "text": "View all vehicles"
+      },
+      {
+        "type": "removed",
+        "text": "View all Cars"
+      },
+      {
+        "type": "removed",
+        "text": "Help Centre"
+      },
+      {
+        "type": "removed",
+        "text": "Savings Account (up to) 4%*"
+      },
+      {
+        "type": "removed",
+        "text": "Fixed Deposit 7%*"
+      },
+      {
+        "type": "removed",
+        "text": "Products"
+      },
+      {
+        "type": "removed",
+        "text": "Products"
+      },
+      {
+        "type": "removed",
+        "text": "Individual Saving Account"
+      },
+      {
+        "type": "removed",
+        "text": "Salary Account"
+      },
+      {
+        "type": "removed",
+        "text": "Indus Current Account"
+      },
+      {
+        "type": "removed",
+        "text": "Deposit"
+      },
+      {
+        "type": "ellipsis",
+        "text": "… diff truncated (257 more lines) …"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "icici-bank-credit-card-bill-payment-online",
+    "cardName": "Credit Card Bill Payment Online",
+    "issuerName": "ICICI Bank",
+    "issuerSlug": "icici-bank",
+    "officialUrl": "https://www.icici.bank.in/",
+    "productPageUrl": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:46:44.191Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "mins read |"
+      },
+      {
+        "type": "context",
+        "text": "Read now"
+      },
+      {
+        "type": "removed",
+        "text": "How to Pay Vi Postpaid Bill Online | Step-by-Step Guide"
+      },
+      {
+        "type": "removed",
+        "text": "mins read |"
+      },
+      {
+        "type": "removed",
+        "text": "Read now"
+      },
+      {
+        "type": "removed",
+        "text": "How to Make Mahanagar Gas Payment Online – Step-by-Step Guide"
+      },
+      {
+        "type": "removed",
+        "text": "mins read |"
+      },
+      {
+        "type": "removed",
+        "text": "Read now"
+      },
+      {
+        "type": "removed",
+        "text": "How to Do Airtel Recharge Online | Quick Steps to Recharge"
+      },
+      {
+        "type": "removed",
+        "text": "mins read |"
+      },
+      {
+        "type": "removed",
+        "text": "Read now"
+      },
+      {
+        "type": "removed",
+        "text": "How to Pay Jio Postpaid Bill Online | Step-by-Step Guide"
+      },
+      {
+        "type": "removed",
+        "text": "mins read |"
+      },
+      {
+        "type": "removed",
+        "text": "Read now"
+      },
+      {
+        "type": "context",
+        "text": "Intrested to learn more?"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-purchase-moneyback-credit-card",
+    "cardName": "Purchase MoneyBack Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-moneyback-credit-card",
+    "status": "Discontinued",
+    "detectedAt": "2026-11-28T11:45:08.770Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "context",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Two-Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Private Car Insurance Policy"
+      },
+      {
+        "type": "added",
+        "text": "Bajaj General Long Term Two Wheeler Insurance"
+      },
+      {
+        "type": "added",
+        "text": "PayZapp for NRIs"
+      },
+      {
+        "type": "context",
+        "text": "Purchase MoneyBack Credit Card"
+      },
+      {
+        "type": "context",
+        "text": "Purchase MoneyBack Credit Card"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Email & CCAP"
+      },
+      {
+        "type": "context",
+        "text": "Authorized Signatory can send a request for enabling card controls by:"
+      },
+      {
+        "type": "removed",
+        "text": "Email:   corporateassist@hdfc.bank.in   OR"
+      },
+      {
+        "type": "added",
+        "text": "Email:   corporateassist&#64;hdfc.bank.in   OR"
+      },
+      {
+        "type": "context",
+        "text": "Corporate Card Assist Portal (CCAP)"
+      },
+      {
+        "type": "context",
+        "text": "Added Delights"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "*The Most Important Terms and Conditions  for each of our banking offerings features all the specific terms and conditions that govern their use. You must go through it thoroughly to fully understand the terms and conditions applicable to any banking product you choose."
+      },
+      {
+        "type": "context",
+        "text": "What is the Credit Period on Purchase Moneyback Card?"
+      },
+      {
+        "type": "removed",
+        "text": "30 + 20 Days"
+      },
+      {
+        "type": "added",
+        "text": "30 &#43; 20 Days"
+      },
+      {
+        "type": "context",
+        "text": "Is there any monthly limit of Rebate?"
+      },
+      {
+        "type": "context",
+        "text": "There is a rebate limit capped to 10 Lacs /month."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Spends other than the above-mentioned merchants will be classified as General MCC spends."
+      },
+      {
+        "type": "context",
+        "text": "What type of spends will be eligible for cashback?"
+      },
+      {
+        "type": "removed",
+        "text": "The following spends will be eligible for CashBack:"
+      },
+      {
+        "type": "added",
+        "text": "The following spends will be eligible for Cashback:"
+      },
+      {
+        "type": "context",
+        "text": "All General MCC spends above ₹5 lakh in calendar month basis posting date"
+      },
+      {
+        "type": "context",
+        "text": "All Special MCC spends above ₹10 lakh in calendar month basis posting date"
+      },
+      {
+        "type": "removed",
+        "text": "The following transactions are not eligible for CashBack:"
+      },
+      {
+        "type": "added",
+        "text": "The following transactions are not eligible for Cashback:"
+      },
+      {
+        "type": "context",
+        "text": "EMI spends"
+      },
+      {
+        "type": "context",
+        "text": "All BBPS spends & BBPS spends via third party app (Payzapp, Gpay, Cred, Phonepe etc.)"
+      },
+      {
+        "type": "added",
+        "text": "Utility payments through Corporate card assist Portal (CCAP)"
+      },
+      {
+        "type": "context",
+        "text": "Fuel spends"
+      },
+      {
+        "type": "context",
+        "text": "Will the customer qualify for Cashback if it falls under bank wide delinquency list?"
+      },
+      {
+        "type": "context",
+        "text": "No, If the Customer is delinquent for any product within the bank, they will not receive cashback for their Purchase card spends in delinquent month."
+      },
+      {
+        "type": "context",
+        "text": "Additionally, any missed cashback due to delinquency will not be processed or paid in subsequent months."
+      },
+      {
+        "type": "removed",
+        "text": "Credit Card Customer Care"
+      },
+      {
+        "type": "added",
+        "text": "FX Services"
+      },
+      {
+        "type": "added",
+        "text": "Empanelled AMCs for Alternate Products"
+      },
+      {
+        "type": "added",
+        "text": "Customer Rights Policy"
+      },
+      {
+        "type": "added",
+        "text": "Customer Protection Policy"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "hdfc-bank-phonepe-hdfc-bank-uno-credit-card",
+    "cardName": "PhonePe HDFC Bank Uno Credit Card",
+    "issuerName": "HDFC Bank",
+    "issuerSlug": "hdfc-bank",
+    "officialUrl": "https://www.hdfcbank.com/",
+    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/phonepe-hdfc-bank-uno-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:45:08.764Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Capital Gains Accounts Scheme (CGAS)"
+      },
+      {
+        "type": "context",
+        "text": "Reinvest gains without losing tax exemption"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "added",
+        "text": "Used Car Loan"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Family Floater"
+      },
+      {
+        "type": "context",
+        "text": "Bajaj General Health Guard - Individual"
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Proceed"
+      },
+      {
+        "type": "context",
+        "text": "FX Services"
+      },
+      {
+        "type": "added",
+        "text": "Empanelled AMCs for Alternate Products"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-radware-captcha-page",
+    "cardName": "Radware Captcha Page",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 484119e8-e42i-404f-b021-f7c1dd212ab5"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: a6385549-e42i-4dea-a60b-012fd2d77c63"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:22 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:11 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-wave-credit-card",
+    "cardName": "Rupay Wave Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 181d497a-e42i-4f30-ab13-18eb1815534b"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 15ee62b3-e42i-4761-93c4-1d7069795c1c"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:20 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:09 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-signet-credit-card",
+    "cardName": "Mastercard Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 53d7497e-e42i-4a74-97b3-a704573981b6"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 0c7626a4-e42i-48b1-8437-ba1d8c6473a8"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:19 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:07 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-rupay-signet-credit-card",
+    "cardName": "Rupay Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 5a38ccd4-e42i-49a3-aa38-52495bc7d1b5"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 3e35782d-e42i-4363-b744-ef9fcff6d5fa"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:20 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:08 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-rupay-credit-card",
+    "cardName": "Fed StarBiz RuPay Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 87fcd4dd-e42i-4d7a-8303-fef8fb00094e"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 475bbd91-e42i-4ef5-8884-faae9fbb29ae"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:21 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:10 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-signet-credit-card",
+    "cardName": "Visa Signet Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 168801b6-e42i-4d35-858f-b985c476b29b"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 8344f573-e42i-4715-b0ba-2875a75a8207"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:16 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:04 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-fed-starbiz-visa-credit-card",
+    "cardName": "Fed StarBiz Visa Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 8286bb86-e42i-4b02-af19-c8d0de87193c"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 780e4ebf-e42i-4678-8967-34819fc21318"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:16 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:05 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-celesta-credit-card",
+    "cardName": "Mastercard Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 2e27472b-e42i-438b-904b-5dd52c6e1a90"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: f593e25d-e42i-4758-bcdd-99a82212193d"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:17 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:06 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-mastercard-imperio-credit-card",
+    "cardName": "Mastercard Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: fc6d6b43-e42i-48b0-916a-3bc924ae6450"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 696a3056-e42i-46d5-8580-212f6c0e1485"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:18 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:07 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-imperio-credit-card",
+    "cardName": "Visa Imperio Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: 274480ee-e42i-4d34-a915-8572da9af1ec"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 35333dd4-e42i-4daf-adc1-4db6afdd0aab"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:15 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:03 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "federal-bank-visa-celesta-credit-card",
+    "cardName": "Visa Celesta Credit Card",
+    "issuerName": "Federal Bank",
+    "issuerSlug": "federal-bank",
+    "officialUrl": "https://www.federalbank.co.in/",
+    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:44:11.134Z",
+    "diffHunks": [
+      {
+        "type": "removed",
+        "text": "Incident ID: fe57d06f-e42i-41c1-8293-fd6d026febaf"
+      },
+      {
+        "type": "added",
+        "text": "Incident ID: 3e50dba5-e42i-4e1a-a287-237d818c46c8"
+      },
+      {
+        "type": "context",
+        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
+      },
+      {
+        "type": "removed",
+        "text": "November 27 2026, 12:18:14 UTC"
+      },
+      {
+        "type": "added",
+        "text": "November 28 2026, 11:44:03 UTC"
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-business-supreme-visa",
+    "cardName": "Axis Bank Business Supreme Visa",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-visa-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:43:17.557Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Card Benefits"
+      },
+      {
+        "type": "context",
+        "text": "Terms and Conditions"
+      },
+      {
+        "type": "removed",
+        "text": "A Commercial credit card which is"
+      },
+      {
+        "type": "removed",
+        "text": "easy on your pocket Tailored options basis your needs!"
+      },
+      {
+        "type": "added",
+        "text": "A commercial credit card which is"
+      },
+      {
+        "type": "added",
+        "text": "easy on your pocket"
+      },
+      {
+        "type": "context",
+        "text": "Before applying for Axis Bank Business Supreme Credit Card &ndash; Visa please read the terms and conditions for Business Supreme Credit Card &ndash; Visa. You can apply for the Credit Card online or visit your nearest Axis Bank branch where our representatives will be happy to help you."
+      },
+      {
+        "type": "context",
+        "text": "Please click here to view the terms and conditions."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "axis-bank-axis-bank-my-zone-credit-card",
+    "cardName": "Axis Bank My Zone Credit Card",
+    "issuerName": "Axis Bank",
+    "issuerSlug": "axis-bank",
+    "officialUrl": "https://www.axis.bank.in/",
+    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
+    "status": "Active",
+    "detectedAt": "2026-11-28T11:43:17.539Z",
+    "diffHunks": [
+      {
+        "type": "context",
+        "text": "Value Chart"
+      },
+      {
+        "type": "context",
+        "text": "Complimentary Sony LIV Premium annual subscription"
+      },
+      {
+        "type": "removed",
+        "text": "Receive a SonyLIV premium annual subscription valued at ₹1499 for free"
+      },
+      {
+        "type": "added",
+        "text": "Receive a SonyLIV premium annual subscription valued at ₹1499 for free with your first purchase within first 30 days of issuance."
+      },
+      {
+        "type": "context",
+        "text": "Buy One Get One Free on movie tickets"
+      },
+      {
+        "type": "context",
+        "text": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card."
+      },
+      {
+        "type": "ellipsis",
+        "text": "…"
+      },
+      {
+        "type": "context",
+        "text": "Complimentary Sony LIV Premium annual subscription"
+      },
+      {
+        "type": "context",
+        "text": "Receive a SonyLIV premium annual subscription valued at ₹1499 for free with your first purchase within first 30 days of issuance."
+      },
+      {
+        "type": "removed",
+        "text": "Customers eligible for promotional offers will receive their voucher code via SMS to their registered mobile number within 45 days following the issuance of the card."
+      },
+      {
+        "type": "removed",
+        "text": "Voucher codes for promotional offers will also be sent via SMS to eligible customers within 60 days after the payment of the annual fees."
+      },
+      {
+        "type": "added",
+        "text": "Customers eligible for this offer will receive their voucher code via SMS to their registered mobile number within 45 days following the issuance of the card."
+      },
+      {
+        "type": "context",
+        "text": "Instant discount on Swiggy"
+      },
+      {
+        "type": "context",
+        "text": "Flat ₹120 off on food delivery at Swiggy with your My Zone Credit Card."
+      }
+    ],
+    "community": {
+      "reddit": null,
+      "youtube": null
+    }
+  },
+  {
     "id": "rbl-bank-world-safari-plus-credit-card",
     "cardName": "World Safari Plus Credit Card",
     "issuerName": "RBL Bank",
@@ -4700,82 +6408,6 @@
     }
   },
   {
-    "id": "icici-bank-credit-card-bill-payment-online",
-    "cardName": "Credit Card Bill Payment Online",
-    "issuerName": "ICICI Bank",
-    "issuerSlug": "icici-bank",
-    "officialUrl": "https://www.icici.bank.in/",
-    "productPageUrl": "https://www.icici.bank.in/personal-banking/payments/credit-card-bill-payment",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:20:50.230Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "mins read |"
-      },
-      {
-        "type": "context",
-        "text": "Read now"
-      },
-      {
-        "type": "added",
-        "text": "How to Pay Vi Postpaid Bill Online | Step-by-Step Guide"
-      },
-      {
-        "type": "added",
-        "text": "mins read |"
-      },
-      {
-        "type": "added",
-        "text": "Read now"
-      },
-      {
-        "type": "added",
-        "text": "How to Make Mahanagar Gas Payment Online – Step-by-Step Guide"
-      },
-      {
-        "type": "added",
-        "text": "mins read |"
-      },
-      {
-        "type": "added",
-        "text": "Read now"
-      },
-      {
-        "type": "added",
-        "text": "How to Do Airtel Recharge Online | Quick Steps to Recharge"
-      },
-      {
-        "type": "added",
-        "text": "mins read |"
-      },
-      {
-        "type": "added",
-        "text": "Read now"
-      },
-      {
-        "type": "added",
-        "text": "How to Pay Jio Postpaid Bill Online | Step-by-Step Guide"
-      },
-      {
-        "type": "added",
-        "text": "mins read |"
-      },
-      {
-        "type": "added",
-        "text": "Read now"
-      },
-      {
-        "type": "context",
-        "text": "Intrested to learn more?"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "hdfc-bank-purchase-reward-credit-card",
     "cardName": "Purchase Reward Credit Card",
     "issuerName": "HDFC Bank",
@@ -5012,62 +6644,6 @@
       {
         "type": "added",
         "text": "Customer Protection Policy"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "hdfc-bank-phonepe-hdfc-bank-uno-credit-card",
-    "cardName": "PhonePe HDFC Bank Uno Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/credit-cards/phonepe-hdfc-bank-uno-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:19:20.196Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "context",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "removed",
-        "text": "Used Car Loan"
-      },
-      {
-        "type": "removed",
-        "text": "Used Car Loan"
-      },
-      {
-        "type": "context",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "context",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Proceed"
-      },
-      {
-        "type": "context",
-        "text": "FX Services"
-      },
-      {
-        "type": "removed",
-        "text": "Empanelled AMCs for Alternate Products"
       }
     ],
     "community": {
@@ -6324,402 +7900,6 @@
       {
         "type": "added",
         "text": "Customer Protection Policy"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-radware-captcha-page",
-    "cardName": "Radware Captcha Page",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 2d3258f8-e42i-4584-ab6e-33b8605ff3a0"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 484119e8-e42i-404f-b021-f7c1dd212ab5"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/federal-bank-credit-card-rewardpoint-tnc from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:47 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:22 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-wave-credit-card",
-    "cardName": "Rupay Wave Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-wave-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: ebb2c55d-e42i-4214-95ea-18b587f3a4f4"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 181d497a-e42i-4f30-ab13-18eb1815534b"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-wave-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:45 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:20 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-signet-credit-card",
-    "cardName": "Mastercard Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: a950e548-e42i-4805-9ba4-6bd39546e4df"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 53d7497e-e42i-4a74-97b3-a704573981b6"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:44 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:19 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-rupay-signet-credit-card",
-    "cardName": "Rupay Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/rupay-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: eea64874-e42i-43be-9fd5-035a2899e0e7"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 5a38ccd4-e42i-49a3-aa38-52495bc7d1b5"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/rupay-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:45 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:20 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-rupay-credit-card",
-    "cardName": "Fed StarBiz RuPay Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 35e429fb-e42i-4984-91c6-fb674ae11e08"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 87fcd4dd-e42i-4d7a-8303-fef8fb00094e"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:46 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:21 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-signet-credit-card",
-    "cardName": "Visa Signet Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-signet-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 0acfdc2e-e42i-468b-8a02-347938948075"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 168801b6-e42i-4d35-858f-b985c476b29b"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-signet-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:40 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:16 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-fed-starbiz-visa-credit-card",
-    "cardName": "Fed StarBiz Visa Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/fed-starbiz-credit-card-visa",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 6d56d0f4-e42i-4287-a860-99e81049e863"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 8286bb86-e42i-4b02-af19-c8d0de87193c"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/fed-starbiz-credit-card-visa from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:42 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:16 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-celesta-credit-card",
-    "cardName": "Mastercard Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: a7a19769-e42i-4d44-ac4b-a1f86e050c9c"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 2e27472b-e42i-438b-904b-5dd52c6e1a90"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:42 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:17 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-mastercard-imperio-credit-card",
-    "cardName": "Mastercard Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 890d05ae-e42i-4686-9b22-d4db6c3c8c52"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: fc6d6b43-e42i-48b0-916a-3bc924ae6450"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:43 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:18 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-imperio-credit-card",
-    "cardName": "Visa Imperio Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-imperio-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 0850794b-e42i-421f-9573-7bf63e620104"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: 274480ee-e42i-4d34-a915-8572da9af1ec"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-imperio-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:40 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:15 UTC"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "federal-bank-visa-celesta-credit-card",
-    "cardName": "Visa Celesta Credit Card",
-    "issuerName": "Federal Bank",
-    "issuerSlug": "federal-bank",
-    "officialUrl": "https://www.federalbank.co.in/",
-    "productPageUrl": "https://www.federal.bank.in/visa-celesta-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-27T12:18:22.543Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "Incident ID: 6715c182-e42i-4c9c-b0e3-b99926a1a987"
-      },
-      {
-        "type": "added",
-        "text": "Incident ID: fe57d06f-e42i-41c1-8293-fd6d026febaf"
-      },
-      {
-        "type": "context",
-        "text": "https://www.federal.bank.in/visa-celesta-credit-card from"
-      },
-      {
-        "type": "removed",
-        "text": "November 26 2026, 12:30:39 UTC"
-      },
-      {
-        "type": "added",
-        "text": "November 27 2026, 12:18:14 UTC"
       }
     ],
     "community": {
@@ -9224,82 +10404,6 @@
     }
   },
   {
-    "id": "hdfc-bank-purchase-moneyback-credit-card",
-    "cardName": "Purchase MoneyBack Credit Card",
-    "issuerName": "HDFC Bank",
-    "issuerSlug": "hdfc-bank",
-    "officialUrl": "https://www.hdfcbank.com/",
-    "productPageUrl": "https://www.hdfc.bank.in/commercial-credit-cards/purchase-moneyback-credit-card",
-    "status": "Discontinued",
-    "detectedAt": "2026-11-25T12:54:10.827Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Capital Gains Accounts Scheme (CGAS)"
-      },
-      {
-        "type": "context",
-        "text": "Reinvest gains without losing tax exemption"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Family Floater"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Health Guard - Individual"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Two-Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Private Car Insurance Policy"
-      },
-      {
-        "type": "removed",
-        "text": "Bajaj General Long Term Two Wheeler Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "PayZapp for NRIs"
-      },
-      {
-        "type": "context",
-        "text": "Purchase MoneyBack Credit Card"
-      },
-      {
-        "type": "context",
-        "text": "Purchase MoneyBack Credit Card"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "No, If the Customer is delinquent for any product within the bank, they will not receive cashback for their Purchase card spends in delinquent month."
-      },
-      {
-        "type": "context",
-        "text": "Additionally, any missed cashback due to delinquency will not be processed or paid in subsequent months."
-      },
-      {
-        "type": "removed",
-        "text": "FX Services (New)"
-      },
-      {
-        "type": "context",
-        "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
     "id": "hdfc-bank-phonepe-hdfc-bank-ultimo-credit-card",
     "cardName": "PhonePe HDFC Bank Ultimo Credit Card",
     "issuerName": "HDFC Bank",
@@ -11156,54 +12260,6 @@
       {
         "type": "context",
         "text": "Credit Card Customer Care"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "axis-bank-axis-bank-business-supreme-visa",
-    "cardName": "Axis Bank Business Supreme Visa",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/commercial-credit-card/business-supreme-visa-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-11-24T13:41:48.807Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Card Benefits"
-      },
-      {
-        "type": "context",
-        "text": "Terms and Conditions"
-      },
-      {
-        "type": "removed",
-        "text": "A commercial credit card which is"
-      },
-      {
-        "type": "removed",
-        "text": "easy on your pocket"
-      },
-      {
-        "type": "added",
-        "text": "A Commercial credit card which is"
-      },
-      {
-        "type": "added",
-        "text": "easy on your pocket Tailored options basis your needs!"
-      },
-      {
-        "type": "context",
-        "text": "Before applying for Axis Bank Business Supreme Credit Card &ndash; Visa please read the terms and conditions for Business Supreme Credit Card &ndash; Visa. You can apply for the Credit Card online or visit your nearest Axis Bank branch where our representatives will be happy to help you."
-      },
-      {
-        "type": "context",
-        "text": "Please click here to view the terms and conditions."
       }
     ],
     "community": {
@@ -13320,826 +14376,6 @@
       {
         "type": "added",
         "text": "Proceed Cancel"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    }
-  },
-  {
-    "id": "indusind-bank-error404",
-    "cardName": "ERROR404",
-    "issuerName": "IndusInd Bank",
-    "issuerSlug": "indusind-bank",
-    "officialUrl": "https://www.indusind.bank.in/",
-    "productPageUrl": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/payback-credit-card.html",
-    "status": "Active",
-    "detectedAt": "2026-11-19T11:44:04.142Z",
-    "diffHunks": [
-      {
-        "type": "removed",
-        "text": "ERROR404"
-      },
-      {
-        "type": "removed",
-        "text": "Investors"
-      },
-      {
-        "type": "removed",
-        "text": "Credit card"
-      },
-      {
-        "type": "removed",
-        "text": "OTHERS"
-      },
-      {
-        "type": "removed",
-        "text": "Products"
-      },
-      {
-        "type": "removed",
-        "text": "Individual Saving Account"
-      },
-      {
-        "type": "removed",
-        "text": "Get more out of your savings. Discover endless benefits and privileges with IndusInd."
-      },
-      {
-        "type": "removed",
-        "text": "Kickstart your savings journey with zero balances - easy access, no initial deposit required!"
-      },
-      {
-        "type": "removed",
-        "text": "Salary Account"
-      },
-      {
-        "type": "removed",
-        "text": "Discover the benefits and special banking services available to the Uniformed Personnel"
-      },
-      {
-        "type": "removed",
-        "text": "Convenient banking with enhanced benefits to suit the needs of our corporate salary customers"
-      },
-      {
-        "type": "removed",
-        "text": "Indus Current Account"
-      },
-      {
-        "type": "removed",
-        "text": "Flexible & Feature rich Current accounts designed to boost small & medium Business"
-      },
-      {
-        "type": "removed",
-        "text": "Deposit"
-      },
-      {
-        "type": "removed",
-        "text": "Secure your money and watch it grow. Flexible tenures and attractive interest rates"
-      },
-      {
-        "type": "removed",
-        "text": "Build up your savings through regular, small deposits"
-      },
-      {
-        "type": "removed",
-        "text": "Make optimal use of our Locker services to safeguard your valuables"
-      },
-      {
-        "type": "removed",
-        "text": "Sweep in / Sweep Out"
-      },
-      {
-        "type": "removed",
-        "text": "Make smarter choices when it comes to growing your investments"
-      },
-      {
-        "type": "removed",
-        "text": "Senior Citizen Fixed Deposit"
-      },
-      {
-        "type": "removed",
-        "text": "Age is no excuse. Exciting benefits and higher interest rates to make your money work harder"
-      },
-      {
-        "type": "removed",
-        "text": "Easy and flexible finance options for vehicles, ranging from two wheelers, cars, commercial vehicles, earth movers to farm equipment"
-      },
-      {
-        "type": "removed",
-        "text": "Your dream home is now in your budget. Super quick disbursals and attractive interest rates."
-      },
-      {
-        "type": "removed",
-        "text": "Expand your business, pay for further education or meet medical needs with a Loan against Property"
-      },
-      {
-        "type": "removed",
-        "text": "Put the power of gold to work. Instant financing with minimum documentation"
-      },
-      {
-        "type": "removed",
-        "text": "Avail overdraft facility (OD) against your securities while staying invested."
-      },
-      {
-        "type": "removed",
-        "text": "Customisable home loan designed for our customers"
-      },
-      {
-        "type": "removed",
-        "text": "Enabling farmers to meet their credit needs, instantly Sow the seeds of a brighter future with a loan designed to help farmers"
-      },
-      {
-        "type": "removed",
-        "text": "Now nothing can hold back your aspirations. Instant Personal Loans with attractive EMIs"
-      },
-      {
-        "type": "removed",
-        "text": "Professional Loans to Doctors"
-      },
-      {
-        "type": "removed",
-        "text": "Specially designed to fulfil financial needs of Doctor’s to meet professional and personal goals"
-      },
-      {
-        "type": "removed",
-        "text": "Develop your healthcare facility and equip it with the latest technology in the industry"
-      },
-      {
-        "type": "removed",
-        "text": "Discover endless benefits and privileges with our range of Credit Cards to suit your needs"
-      },
-      {
-        "type": "removed",
-        "text": "Loan on Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Indus Easy Loan is a very convenient and quick option to get ready cash when you need it the most. Indus Easy EMI facility gives you the option to convert your high value credit card purchases into easy and flexible EMIs."
-      },
-      {
-        "type": "removed",
-        "text": "A single card that’s double the awesome! Get a credit and debit card in one"
-      },
-      {
-        "type": "removed",
-        "text": "Make fast and secure payments on the go, wherever you are, with ease!"
-      },
-      {
-        "type": "removed",
-        "text": "Commercial Cards"
-      },
-      {
-        "type": "removed",
-        "text": "IndusInd Bank’s Corporate Card is designed to keep the organization’s cost objectives in mind. With this primary objective, our Corporate Cards can monitor & control employee expenses in addition to making re-conciliation hassle free."
-      },
-      {
-        "type": "removed",
-        "text": "Convenient access to credit for your business expenses."
-      },
-      {
-        "type": "removed",
-        "text": "Carry convenience and security to wherever in the world choose to you go"
-      },
-      {
-        "type": "removed",
-        "text": "E-Mandate on Debit Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Easily automate recurring payments."
-      },
-      {
-        "type": "removed",
-        "text": "Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "My Family & Me"
-      },
-      {
-        "type": "removed",
-        "text": "Protect what really matters. Avail of insurance for your whole family"
-      },
-      {
-        "type": "removed",
-        "text": "My Business"
-      },
-      {
-        "type": "removed",
-        "text": "Whatever your business, whatever its size – we have a solution that fits"
-      },
-      {
-        "type": "removed",
-        "text": "Investments"
-      },
-      {
-        "type": "removed",
-        "text": "Your Investment Planner"
-      },
-      {
-        "type": "removed",
-        "text": "Get smart and plan ahead. Calculate monthly instalments, investments and more"
-      },
-      {
-        "type": "removed",
-        "text": "Systematic Investments Calculator"
-      },
-      {
-        "type": "removed",
-        "text": "Calculate returns on your monthly SIP investments so you can plan ahead"
-      },
-      {
-        "type": "removed",
-        "text": "Comfortably plan for your golden years, today"
-      },
-      {
-        "type": "removed",
-        "text": "Investing gets easier when you have a systematic investment plan and a clear direction"
-      },
-      {
-        "type": "removed",
-        "text": "Leverage on your savings for golden returns with attractive interest rates"
-      },
-      {
-        "type": "removed",
-        "text": "Diversify and customize your investments with the help of your fund manager"
-      },
-      {
-        "type": "removed",
-        "text": "Invest in Government Securities"
-      },
-      {
-        "type": "removed",
-        "text": "Retail investors can invest in Government bonds and securities directly under RBI Retail Direct Scheme"
-      },
-      {
-        "type": "removed",
-        "text": "Maximize your retirement corpus and enjoy your golden years with IndusInd"
-      },
-      {
-        "type": "removed",
-        "text": "Guiding you every step of the way as you unlock the potentials of your investments"
-      },
-      {
-        "type": "removed",
-        "text": "Payments Products"
-      },
-      {
-        "type": "removed",
-        "text": "Avail of the finest selections of debit cards to make payments on the go and online"
-      },
-      {
-        "type": "removed",
-        "text": "Why count currency when you can count experiences with a Multi-currency Forex Card"
-      },
-      {
-        "type": "removed",
-        "text": "Cruise through toll plazas with FASTag, a cashless, convenient way of paying toll tax"
-      },
-      {
-        "type": "removed",
-        "text": "Scan. Pay. Go. Bharat QR is the newest, fastest way to pay!"
-      },
-      {
-        "type": "removed",
-        "text": "Secure, fast and reliable payments that are as simple as 1-2-3!"
-      },
-      {
-        "type": "removed",
-        "text": "It is a form of digital currency used as a medium of exchange for transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy a faster, seamless transaction experience with UPI"
-      },
-      {
-        "type": "removed",
-        "text": "Why count currency when you can count experiences with a Multi-currency Forex Card"
-      },
-      {
-        "type": "removed",
-        "text": "Initiate wire transfer from your local bank through their online / offline facility mentioning our correspondent bank details."
-      },
-      {
-        "type": "removed",
-        "text": "Send money around the globe, 24/7 at the click of a button"
-      },
-      {
-        "type": "removed",
-        "text": "IndusForex-Online Forex Portal"
-      },
-      {
-        "type": "removed",
-        "text": "One stop shop for all your Forex needs. Buy Forex Card, Send Money Abroad, Track your Card etc."
-      },
-      {
-        "type": "removed",
-        "text": "Fx Retail – Online"
-      },
-      {
-        "type": "removed",
-        "text": "An online platform for anonymous, order-based dealing in USDINR (Cash/Tom/Spot)."
-      },
-      {
-        "type": "removed",
-        "text": "Let nothing hold you back from forging your path to prosperity"
-      },
-      {
-        "type": "removed",
-        "text": "Designed with the best interest of you and your community at heart"
-      },
-      {
-        "type": "removed",
-        "text": "Investing in your financial education so you can invest in your future"
-      },
-      {
-        "type": "removed",
-        "text": "A friend you can bank on to bring financial services to you, wherever you are"
-      },
-      {
-        "type": "removed",
-        "text": "Set up, automate, go! Never remember another bill due date again!"
-      },
-      {
-        "type": "removed",
-        "text": "Now pay your vehicle loan and affordable home loan EMIs with ease in just a few clicks."
-      },
-      {
-        "type": "removed",
-        "text": "Now send money overseas to your family members, friends and other loved ones instantly from the convienence of your home."
-      },
-      {
-        "type": "removed",
-        "text": "Pay off your EMIs on time with a few simple steps"
-      },
-      {
-        "type": "removed",
-        "text": "SecurePay"
-      },
-      {
-        "type": "removed",
-        "text": "Pay your insurance premium in a safe and secure manner instantly."
-      },
-      {
-        "type": "removed",
-        "text": "It is a form of digital currency used as a medium of exchange for transactions"
-      },
-      {
-        "type": "removed",
-        "text": "Set up, automate, go! Never remember another bill due date again!"
-      },
-      {
-        "type": "removed",
-        "text": "Don’t worry about remembering due dates anymore. Set up an eMandate and let your EMIs be paid automatically"
-      },
-      {
-        "type": "removed",
-        "text": "Payment NEFT / RTGS Facility"
-      },
-      {
-        "type": "removed",
-        "text": "Make your Personal Loan/Business Loan account payment from any bank which offers NEFT / RTGS facility on their internet banking."
-      },
-      {
-        "type": "removed",
-        "text": "Now pay your Direct Tax, GST, Customs Duty, Central Excise & Service Tax seamlessly through your IndusInd Bank account"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy the freedom of managing your finances anywhere, anytime"
-      },
-      {
-        "type": "removed",
-        "text": "We shrank the bank to fit your phone. Access a suite of banking services on the go"
-      },
-      {
-        "type": "removed",
-        "text": "IndusAssist – Virtual Assistant"
-      },
-      {
-        "type": "removed",
-        "text": "Chat with our Virtual Assistant to get your banking queries answered right away."
-      },
-      {
-        "type": "removed",
-        "text": "Banking on WhatsApp"
-      },
-      {
-        "type": "removed",
-        "text": "Say “hello” to IndusInd – now on Whatsapp"
-      },
-      {
-        "type": "removed",
-        "text": "Video Branch"
-      },
-      {
-        "type": "removed",
-        "text": "Bringing your bank to you, when you want it"
-      },
-      {
-        "type": "removed",
-        "text": "Verify the integrity of a file or a data transfer"
-      },
-      {
-        "type": "removed",
-        "text": "Set Up E-Mandate"
-      },
-      {
-        "type": "removed",
-        "text": "Easily automate recurring payments"
-      },
-      {
-        "type": "removed",
-        "text": "Google Pay"
-      },
-      {
-        "type": "removed",
-        "text": "Make smart, simple and secure digital payments via IndusInd Bank Cards on Google Pay"
-      },
-      {
-        "type": "removed",
-        "text": "IndusForex Online Portal"
-      },
-      {
-        "type": "removed",
-        "text": "It is your most reliable one stop shop for all your forex needs by IndusInd Bank."
-      },
-      {
-        "type": "removed",
-        "text": "Samsung Wallet"
-      },
-      {
-        "type": "removed",
-        "text": "A mobile device based payment service"
-      },
-      {
-        "type": "removed",
-        "text": "Quick and hassle-free account opening."
-      },
-      {
-        "type": "removed",
-        "text": "Social security for citizens"
-      },
-      {
-        "type": "removed",
-        "text": "Apply for a Personal Loan to meet your immediate cash needs"
-      },
-      {
-        "type": "removed",
-        "text": "Get vehicle loans for bikes, cars, commercial vehicles, tractors and farm equipment with flexible financing options"
-      },
-      {
-        "type": "removed",
-        "text": "Open a fixed deposit online and maintain it online, too."
-      },
-      {
-        "type": "removed",
-        "text": "Save yourself the paperwork. Invest in mutual funds online"
-      },
-      {
-        "type": "removed",
-        "text": "IndiQwik offers you easy insurance at preferential premium in just a few clicks!"
-      },
-      {
-        "type": "removed",
-        "text": "Set Up E-Mandate"
-      },
-      {
-        "type": "removed",
-        "text": "Easily automate recurring payments"
-      },
-      {
-        "type": "removed",
-        "text": "A smart, efficient Forex Card so you enjoy your travels"
-      },
-      {
-        "type": "removed",
-        "text": "Your dream home is now in your budget. Super quick disbursals and attractive interest rates."
-      },
-      {
-        "type": "removed",
-        "text": "Credit Proposal Tracking System"
-      },
-      {
-        "type": "removed",
-        "text": "Discover endless benefits and privileges"
-      },
-      {
-        "type": "removed",
-        "text": "Cruise through toll plazas with FASTag, a cashless, convenient way of paying toll tax"
-      },
-      {
-        "type": "removed",
-        "text": "Now send money overseas to your family members, friends and other loved ones instantly from the convienence of your home."
-      },
-      {
-        "type": "removed",
-        "text": "Register for Udyam or update your Udyog Aadhaar and avail priority sector lending benefits by as offered by the Government of India."
-      },
-      {
-        "type": "removed",
-        "text": "Pre-owned vehicle sales platform. Now bid for your favorite pre-owned cars and two-wheelers, anytime anywhere."
-      },
-      {
-        "type": "removed",
-        "text": "Register on Indus EasyWheels completely FREE of cost with just your email ID and phone number"
-      },
-      {
-        "type": "removed",
-        "text": "Login to your Indus EasyWheels account"
-      },
-      {
-        "type": "removed",
-        "text": "Detailed analysis, industry news and interesting hacks to help expedite your journey to own your pre-owned vehicle"
-      },
-      {
-        "type": "removed",
-        "text": "View all LIVE auctions"
-      },
-      {
-        "type": "removed",
-        "text": "Search. Bid. Win. Select from our extensive range of pre-owned vehicles"
-      },
-      {
-        "type": "removed",
-        "text": "View all vehicles"
-      },
-      {
-        "type": "removed",
-        "text": "We offer 360 degree vehicle information, inspection report and much more for you to make the right choice."
-      },
-      {
-        "type": "removed",
-        "text": "View and select from our range of pre-owned two-wheeler vehicle options up for bidding"
-      },
-      {
-        "type": "removed",
-        "text": "View all Cars"
-      },
-      {
-        "type": "removed",
-        "text": "Choose from our range of pre-owned cars vehicle options up for bidding"
-      },
-      {
-        "type": "removed",
-        "text": "Have doubts? Here’s a set of frequently asked questions to help you get started."
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy our partner services at discounted rates. Explore now!"
-      },
-      {
-        "type": "removed",
-        "text": "Help Centre"
-      },
-      {
-        "type": "removed",
-        "text": "Link your Aadhaar Card to your Bank Account with ease"
-      },
-      {
-        "type": "removed",
-        "text": "Complete your formalities. Here’s everything you need in one place."
-      },
-      {
-        "type": "removed",
-        "text": "The most efficient personal banking services by IndusInd Bank"
-      },
-      {
-        "type": "removed",
-        "text": "Need help? Simply connect to an IndusInd representative"
-      },
-      {
-        "type": "removed",
-        "text": "Find out where your nearest IndusInd Bank is"
-      },
-      {
-        "type": "removed",
-        "text": "Issue with your transaction? Let us help you out"
-      },
-      {
-        "type": "removed",
-        "text": "Got questions? We have answers! Browse through our FAQs"
-      },
-      {
-        "type": "removed",
-        "text": "You make us better. Your opinion matters."
-      },
-      {
-        "type": "removed",
-        "text": "Check out our Grievance Redressal Policy."
-      },
-      {
-        "type": "removed",
-        "text": "Report the Unauthorized Digital Transactions to National Cyber Frauds Reporting and Management System"
-      },
-      {
-        "type": "removed",
-        "text": "Issue with our Services? Let us help you out"
-      },
-      {
-        "type": "removed",
-        "text": "Savings Account (up to) 4%*"
-      },
-      {
-        "type": "removed",
-        "text": "Fixed Deposit 7.25%*"
-      },
-      {
-        "type": "removed",
-        "text": "Products"
-      },
-      {
-        "type": "removed",
-        "text": "Products"
-      },
-      {
-        "type": "removed",
-        "text": "Individual Saving Account"
-      },
-      {
-        "type": "removed",
-        "text": "Salary Account"
-      },
-      {
-        "type": "removed",
-        "text": "Indus Current Account"
-      },
-      {
-        "type": "removed",
-        "text": "Deposit"
-      },
-      {
-        "type": "removed",
-        "text": "Deposit"
-      },
-      {
-        "type": "removed",
-        "text": "Sweep in / Sweep Out"
-      },
-      {
-        "type": "removed",
-        "text": "Senior Citizen Fixed Deposit"
-      },
-      {
-        "type": "removed",
-        "text": "Professional Loans to Doctors"
-      },
-      {
-        "type": "removed",
-        "text": "Loan on Credit Card"
-      },
-      {
-        "type": "removed",
-        "text": "Commercial Cards"
-      },
-      {
-        "type": "removed",
-        "text": "E-Mandate on Debit Cards"
-      },
-      {
-        "type": "removed",
-        "text": "Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "Insurance"
-      },
-      {
-        "type": "removed",
-        "text": "My Family & Me"
-      },
-      {
-        "type": "removed",
-        "text": "My Business"
-      },
-      {
-        "type": "removed",
-        "text": "Investments"
-      },
-      {
-        "type": "removed",
-        "text": "Investments"
-      },
-      {
-        "type": "removed",
-        "text": "Your Investment Planner"
-      },
-      {
-        "type": "removed",
-        "text": "Systematic Investments Calculator"
-      },
-      {
-        "type": "removed",
-        "text": "Invest in Government Securities"
-      },
-      {
-        "type": "removed",
-        "text": "Payments Products"
-      },
-      {
-        "type": "removed",
-        "text": "Payments Products"
-      },
-      {
-        "type": "removed",
-        "text": "IndusForex-Online Forex Portal"
-      },
-      {
-        "type": "removed",
-        "text": "Fx Retail – Online"
-      },
-      {
-        "type": "removed",
-        "text": "SecurePay"
-      },
-      {
-        "type": "removed",
-        "text": "Payment NEFT / RTGS Facility"
-      },
-      {
-        "type": "removed",
-        "text": "IndusAssist – Virtual Assistant"
-      },
-      {
-        "type": "removed",
-        "text": "Banking on WhatsApp"
-      },
-      {
-        "type": "removed",
-        "text": "Video Branch"
-      },
-      {
-        "type": "removed",
-        "text": "Set Up E-Mandate"
-      },
-      {
-        "type": "removed",
-        "text": "Google Pay"
-      },
-      {
-        "type": "removed",
-        "text": "IndusForex Online Portal"
-      },
-      {
-        "type": "removed",
-        "text": "Samsung Wallet"
-      },
-      {
-        "type": "removed",
-        "text": "Set Up E-Mandate"
-      },
-      {
-        "type": "removed",
-        "text": "View all LIVE auctions"
-      },
-      {
-        "type": "removed",
-        "text": "View all vehicles"
-      },
-      {
-        "type": "removed",
-        "text": "View all Cars"
-      },
-      {
-        "type": "removed",
-        "text": "Help Centre"
-      },
-      {
-        "type": "removed",
-        "text": "Savings Account (up to) 4%*"
-      },
-      {
-        "type": "removed",
-        "text": "Fixed Deposit 7%*"
-      },
-      {
-        "type": "removed",
-        "text": "Products"
-      },
-      {
-        "type": "removed",
-        "text": "Products"
-      },
-      {
-        "type": "removed",
-        "text": "Individual Saving Account"
-      },
-      {
-        "type": "removed",
-        "text": "Salary Account"
-      },
-      {
-        "type": "removed",
-        "text": "Indus Current Account"
-      },
-      {
-        "type": "removed",
-        "text": "Deposit"
-      },
-      {
-        "type": "ellipsis",
-        "text": "… diff truncated (419 more lines) …"
       }
     ],
     "community": {
@@ -21704,146 +21940,6 @@
     }
   },
   {
-    "id": "axis-bank-axis-bank-my-zone-credit-card",
-    "cardName": "Axis Bank My Zone Credit Card",
-    "issuerName": "Axis Bank",
-    "issuerSlug": "axis-bank",
-    "officialUrl": "https://www.axis.bank.in/",
-    "productPageUrl": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card",
-    "status": "Active",
-    "detectedAt": "2026-10-31T09:38:24.328Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Value Chart"
-      },
-      {
-        "type": "context",
-        "text": "Buy One Get One Free on movie tickets"
-      },
-      {
-        "type": "removed",
-        "text": "Enjoy 100% discount on your second movie ticket booked via District app"
-      },
-      {
-        "type": "removed",
-        "text": "using your MY ZONE Credit Card"
-      },
-      {
-        "type": "added",
-        "text": "Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Complimentary Sony LIV Premium annual subscription"
-      },
-      {
-        "type": "context",
-        "text": "Receive a SonyLIV premium annual subscription valued at ₹1499 for free"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Get up to ₹200 off per month."
-      },
-      {
-        "type": "context",
-        "text": "Remember to apply the coupon code AXIS200 to receive this discount."
-      },
-      {
-        "type": "added",
-        "text": "Benefit is applicable upon achieving ₹25,000 spends in the preceding 3 calendar months."
-      },
-      {
-        "type": "context",
-        "text": "Note: No reward points are earned on movie transactions."
-      },
-      {
-        "type": "added",
-        "text": "Offer Valid once a month."
-      },
-      {
-        "type": "added",
-        "text": "Please Click here for detailed Terms and conditions."
-      },
-      {
-        "type": "context",
-        "text": "Complimentary Sony LIV Premium annual subscription"
-      },
-      {
-        "type": "context",
-        "text": "Receive a SonyLIV premium annual subscription valued at ₹1499 for free with your first purchase within first 30 days of issuance."
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Please refer to the offer terms and conditions for more details."
-      },
-      {
-        "type": "context",
-        "text": "Value Chart"
-      },
-      {
-        "type": "removed",
-        "text": "The value chart for MYZONE Credit Card lists the cashback and points earned based on your transactions. You can avail benefits worth upto ₹12,999 using your MYZONE Credit Card annually."
-      },
-      {
-        "type": "added",
-        "text": "The value chart for MYZONE Credit Card highlights the EDGE Reward Points, instant discounts, and exclusive benefits available on your card. You can avail annual benefits worth up to ₹9,739 with your MYZONE Credit Card."
-      },
-      {
-        "type": "context",
-        "text": "Details Monthly Benefit (₹) Annual Benefit (₹)"
-      },
-      {
-        "type": "context",
-        "text": "Sony Liv Activation Benefit 1"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Milestone benefit of 1500 EDGE REWARD Points"
-      },
-      {
-        "type": "context",
-        "text": "₹150 instant discount on Swiggy"
-      },
-      {
-        "type": "added",
-        "text": "Joining Fee: ₹1000"
-      },
-      {
-        "type": "added",
-        "text": "Annual Fee: ₹1000"
-      },
-      {
-        "type": "context",
-        "text": "(This card is currently Lifetime Free on the Amex Network)"
-      },
-      {
-        "type": "context",
-        "text": "AXIS BANK MAGNUS Credit Card"
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
-    },
-    "summaryVerification": {
-      "status": "unverified",
-      "candidateSummary": "Added ₹1000 joining and annual fees, updated reward benefits and discount terms."
-    }
-  },
-  {
     "id": "axis-bank-neo-credit-card",
     "cardName": "Neo Credit Card",
     "issuerName": "Axis Bank",
@@ -22873,114 +22969,6 @@
     "summaryVerification": {
       "status": "unverified",
       "candidateSummary": "Added a reward rate of up to 0.3 Airmiles per spend"
-    }
-  },
-  {
-    "id": "standard-chartered-india-super-value-titanium-credit-card",
-    "cardName": "Super Value Titanium Credit Card",
-    "issuerName": "Standard Chartered India",
-    "issuerSlug": "standard-chartered-india",
-    "officialUrl": "https://www.sc.com/in/",
-    "productPageUrl": "https://www.sc.com/in/credit-cards/super-value-titanium/",
-    "status": "Active",
-    "detectedAt": "2026-10-10T09:58:09.324Z",
-    "diffHunks": [
-      {
-        "type": "context",
-        "text": "Benefits of Super Value Titanium credit card"
-      },
-      {
-        "type": "context",
-        "text": "5% cashback on fuel"
-      },
-      {
-        "type": "removed",
-        "text": "You are eligible for a 5% cashback on fuel spends at all fuel stations up to INR 200 per month (Max cashback INR 100 per transaction). All transactions of INR 2,000 or below are eligible for cashback."
-      },
-      {
-        "type": "added",
-        "text": "You are eligible for a 5% cashback on fuel spends at all fuel stations up to INR 200 per statement cycle (Max cashback INR 100 per transaction). All transactions of INR 2,000 or below are eligible for cashback."
-      },
-      {
-        "type": "context",
-        "text": "5% cashback on phone bills"
-      },
-      {
-        "type": "removed",
-        "text": "Get a cool 5% cash back on your telephone bills, for any transaction amount above just INR 750 (Max cashback INR 100 per transaction). The maximum cashback available per month is INR 200."
-      },
-      {
-        "type": "added",
-        "text": "Get a cool 5% cash back on your telephone bills, for any transaction amount above just INR 750 (Max cashback INR 100 per transaction). The maximum cashback available per statement cycle is INR 200."
-      },
-      {
-        "type": "context",
-        "text": "5% cashback on utility bills"
-      },
-      {
-        "type": "removed",
-        "text": "Receive 5% cashback on paying for your utility bills. The minimum transaction amount is just INR 750 (Max cashback INR 100 per transaction) and you can receive a maximum cashback amount of Rs 100 per month."
-      },
-      {
-        "type": "added",
-        "text": "Receive 5% cashback on paying for your utility bills. The minimum transaction amount is just INR 750 (Max cashback INR 100 per transaction) and you can receive a maximum cashback amount of Rs 100 per statement cycle."
-      },
-      {
-        "type": "context",
-        "text": "Rewards on other spends"
-      },
-      {
-        "type": "context",
-        "text": "For every INR 150 you spend on all other expenses using your credit card, you earn 1 reward point. Redeem reward points to indulge yourself with vouchers, discounts and other incredible offers from our catalogue."
-      },
-      {
-        "type": "context",
-        "text": "For Premium Banking Customers"
-      },
-      {
-        "type": "removed",
-        "text": "Our esteemed Premium Banking Customers can enjoy complimentary Super Value Titanium credit card which also comes with a complimentary* Priority Pass membership."
-      },
-      {
-        "type": "added",
-        "text": "Our esteemed Premium Banking Customers can enjoy complimentary Super Value Titanium credit card which also comes with a complimentary Priority Pass membership."
-      },
-      {
-        "type": "context",
-        "text": "No physical interaction required"
-      },
-      {
-        "type": "context",
-        "text": "Get instant approval on your application and also complete your KYC online through a video. Know more"
-      },
-      {
-        "type": "ellipsis",
-        "text": "…"
-      },
-      {
-        "type": "context",
-        "text": "Redeem your reward points against our new online catalogue with the Standard Chartered 360° rewards program."
-      },
-      {
-        "type": "context",
-        "text": "Get loan on your credit card upto INR 5,00,000. Flexible tenure from 12 to 60 months."
-      },
-      {
-        "type": "removed",
-        "text": "Transfer card balance upto INR 5,00,000 from other bank credit card at attractive interest rate."
-      },
-      {
-        "type": "context",
-        "text": "Applicant should have a stable monthly income."
-      },
-      {
-        "type": "context",
-        "text": "Applicants should belong to credit cards sourcing cities/locations of the Bank."
-      }
-    ],
-    "community": {
-      "reddit": null,
-      "youtube": null
     }
   }
 ]
